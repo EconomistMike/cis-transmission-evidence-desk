@@ -4,7 +4,7 @@
   "private": true,
   "description": "Static Australian transmission evidence explorer and research snapshot",
   "scripts": {
-    "build": "node tools/sync-index.mjs",
+    "build": "python3 tools/embed-evidence.py && node tools/sync-index.mjs",
     "preview": "python3 -m http.server 4173 --bind 127.0.0.1 --directory site",
     "test": "playwright test"
   },

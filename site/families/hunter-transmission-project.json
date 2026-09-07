@@ -2,9 +2,11 @@
   "build": {
     "contract": "v1",
     "family_slug": "hunter-transmission-project",
-    "path_base": "../../../",
+    "path_base": "../",
     "project_id": "HTP-PROJECT-HTP",
-    "research_cutoff": "2026-09-04"
+    "research_cutoff": "2026-09-04",
+    "audit_correction_date": "2026-09-07",
+    "revision_note": "Archived-evidence audit corrections only; research cutoff remains 2026-09-04. Upstream build_report input hashes describe the historical upstream build, not this corrected package; referenced manifests are not asserted to be included."
   },
   "components": [
     {
@@ -827,14 +829,14 @@
         "supported_value": "November 2029"
       },
       {
-        "evidence": "AEMO 2026 ISP Appendix A5 reports $1,364 million, Class 5b (±50%), for CNSW-SNW Option 1. The chart's $1.36bn is that amount expressed in billions. The dollar year is not stated in the table, and the 2024 ISP $1,099m and the May 2023 NSW Network Infrastructure Strategy Stage 1 figure of about $1 billion are separate non-comparable observations.",
+        "evidence": "AEMO 2026 p39 reports $1,364m, Class 5b ±50%, for CNSW-SNW Option 1. Footnote79 includes Waratah Super Battery and related upgrades; do not reduce the cost boundary to the 110 km line alone. The original $1.36bn is consistent with rounding, but the dollar year is unstated. The 2024 $1,099m and 2023 approximately $1bn observations are separate non-comparable vintages.",
         "field": "cost_aud_billion",
         "original": 1.36,
         "pages": "39",
         "selected_observation": "HTP-AO-2026-COST",
         "source_ids": "HUM-AEMO-2026-ISP-A5",
         "status": "supported",
-        "supported_value": 1364
+        "supported_value": "1,364 AUD million; CNSW-SNW Option 1 including Waratah Super Battery and related upgrades (AEMO 2026 p39 footnote79); Class 5b ±50%, dollar year unstated; not the 110 km line alone"
       },
       {
         "evidence": "AEMO 2026 states forward additional network capacity of 5,000 MW, described as accommodation of additional new generation from north of Bayswater and 2/3 generation from Central West New South Wales, plus REZ N10: 2,000 MW. The boundary is a network hosting/transfer uplift across the CNSW-SNW flow path, not a rating of the single Olney-Bayswater South line; the EnergyCo strategy frames the same project as lifting supportable combined REZ output from 3 GW to as much as 8 GW.",
@@ -844,7 +846,7 @@
         "selected_observation": "HTP-AO-2026-CAPACITY-FORWARD",
         "source_ids": "HUM-AEMO-2026-ISP-A5; CWO-04",
         "status": "supported_with_boundary",
-        "supported_value": 5000
+        "supported_value": "5000 MW. Boundary/qualification: AEMO 2026 states forward additional network capacity of 5,000 MW, described as accommodation of additional new generation from north of Bayswater and 2/3 generation from Central West New South Wales, plus REZ N10: 2,000 MW. The boundary is a network hosting/transfer uplift across the CNSW-SNW flow path, not a rating of the single Olney-Bayswater South line; the EnergyCo strategy frames the same project as lifting supportable combined REZ output from 3 GW to as much as 8 GW."
       },
       {
         "evidence": "EnergyCo's 2026 transmission infrastructure page states 'The new overhead 500 kV transmission line will span 110 kilometres, connecting existing transmission lines at Bayswater and Olney, near Eraring,' and the EnergyCo project page states 'a new, 110-kilometre, overhead 500 kilovolt (kV) transmission line between Bayswater in the Upper Hunter and Olney in the Lower Hunter.' No AEMO ISP appendix states a route length.",
@@ -854,7 +856,7 @@
         "selected_observation": "HTP-AO-2026-ENERGYCO-TRUNK-KM",
         "source_ids": "HTP-ENERGYCO-2026-INFRA-PAGE; HTP-ENERGYCO-2026-PROJECT-PAGE",
         "status": "supported",
-        "supported_value": 110
+        "supported_value": "110 km. Boundary/qualification: EnergyCo's 2026 transmission infrastructure page states 'The new overhead 500 kV transmission line will span 110 kilometres, connecting existing transmission lines at Bayswater and Olney, near Eraring,' and the EnergyCo project page states 'a new, 110-kilometre, overhead 500 kilovolt (kV) transmission line between Bayswater in the Upper Hunter and Olney in the Lower Hunter.' No AEMO ISP appendix states a route length."
       },
       {
         "evidence": "The chart's ratio is cost_aud_billion times 1000 divided by trunk_km: 1.36 * 1000 / 110 = 12.363636363636365. Both inputs are now archived: cost_aud_billion is the $1,364m AEMO 2026 ISP figure (HTP-AO-2026-COST) expressed and rounded to $1.36bn, and trunk_km is the 110 km EnergyCo route length (HTP-AO-2026-ENERGYCO-TRUNK-KM). This reproduces the chart's existing cell exactly; no new value is computed.",
@@ -864,7 +866,7 @@
         "selected_observation": null,
         "source_ids": "HUM-AEMO-2026-ISP-A5; HTP-ENERGYCO-2026-INFRA-PAGE; HTP-ENERGYCO-2026-PROJECT-PAGE",
         "status": "derived",
-        "supported_value": 12.363636363636365
+        "supported_value": "12.363636363636365 AUD million per km (chart-derived). Boundary/qualification: The chart's ratio is cost_aud_billion times 1000 divided by trunk_km: 1.36 * 1000 / 110 = 12.363636363636365. Both inputs are now archived: cost_aud_billion is the $1,364m AEMO 2026 ISP figure (HTP-AO-2026-COST) expressed and rounded to $1.36bn, and trunk_km is the 110 km EnergyCo route length (HTP-AO-2026-ENERGYCO-TRUNK-KM). This reproduces the chart's existing cell exactly; no new value is computed."
       },
       {
         "evidence": "AEMO 2026 describes 'A new 500 kV double-circuit line between Olney substation and Bayswater South substation'; a double-circuit line carries two circuits. AEMO 2024 uses the same double-circuit wording for the near Eraring to near Bayswater line. EnergyCo's 2026 transmission infrastructure page corroborates this: 'It will be supported by double-circuit steel lattice towers,' adding a physical boundary (towers up to 85 m tall, generally spaced 300-600 m apart) without changing the two-circuit count.",
@@ -874,7 +876,7 @@
         "selected_observation": "HTP-AO-2026-CIRCUITS",
         "source_ids": "HUM-AEMO-2026-ISP-A5; HUM-AEMO-2024-ISP-A5; HTP-ENERGYCO-2026-INFRA-PAGE",
         "status": "supported",
-        "supported_value": 2
+        "supported_value": "2 circuits. Boundary/qualification: AEMO 2026 describes 'A new 500 kV double-circuit line between Olney substation and Bayswater South substation'; a double-circuit line carries two circuits. AEMO 2024 uses the same double-circuit wording for the near Eraring to near Bayswater line. EnergyCo's 2026 transmission infrastructure page corroborates this: 'It will be supported by double-circuit steel lattice towers,' adding a physical boundary (towers up to 85 m tall, generally spaced 300-600 m apart) without changing the two-circuit count."
       },
       {
         "evidence": "AEMO 2026 describes a single new 500 kV double-circuit line between Olney and Bayswater South substations. EnergyCo's 2026 pages corroborate a single line and add a route boundary: the transmission infrastructure page states 'The new overhead 500 kV transmission line will span 110 kilometres, connecting existing transmission lines at Bayswater and Olney, near Eraring,' and the project page adds that it will 'create a 500 kV ring of transmission infrastructure' by connecting to the state's existing 500 kV lines.",
@@ -884,7 +886,7 @@
         "selected_observation": "HTP-AO-2026-LINES",
         "source_ids": "HUM-AEMO-2026-ISP-A5; HTP-ENERGYCO-2026-INFRA-PAGE; HTP-ENERGYCO-2026-PROJECT-PAGE",
         "status": "supported",
-        "supported_value": 1
+        "supported_value": "1 lines. Boundary/qualification: AEMO 2026 describes a single new 500 kV double-circuit line between Olney and Bayswater South substations. EnergyCo's 2026 pages corroborate a single line and add a route boundary: the transmission infrastructure page states 'The new overhead 500 kV transmission line will span 110 kilometres, connecting existing transmission lines at Bayswater and Olney, near Eraring,' and the project page adds that it will 'create a 500 kV ring of transmission infrastructure' by connecting to the state's existing 500 kV lines."
       },
       {
         "evidence": "Route diversity is an author definition. The author counts 1 because completing the northern Sydney Ring gives an alternative 500 kV path south from Bayswater, discounting sections that parallel the existing 330 kV corridor. Archived sources make network-flow and enabled-generation claims only; no captured source counts alternative routes. The NSW Network Infrastructure Strategy's third-corridor indication for HTP Stage 2 is a map feature and does not appear in the archived text derivative, so it is not cited.",
@@ -924,7 +926,7 @@
         "selected_observation": "HTP-AO-2026-TRANSFORMERS",
         "source_ids": "HUM-AEMO-2026-ISP-A5; HUM-AEMO-2024-ISP-A5",
         "status": "supported",
-        "supported_value": 3000
+        "supported_value": "3000 MVA (chart arithmetic, not unit count). Boundary/qualification: AEMO 2026 and AEMO 2024 both state 'Two 500/330 kV 1,500 MVA transformers at Eraring substation'. The chart's 3000 is the two stated 1,500 MVA units expressed as a combined MVA figure; the sources state the unit rating and the count, not the combined figure."
       },
       {
         "evidence": "No archived source states that the project includes or excludes hub-to-project feeder lines. The author's zero rests on EIS Table 4.1, which was not captured (NSW planning portal returned HTTP 404 on both routes).",
@@ -968,7 +970,8 @@
       "publisher": "EnergyCo NSW",
       "sha256": "10b8fac054a4823c555a98589ce9e257e73f6c58d15b02f086320e08353fa03a",
       "source_id": "CWO-04",
-      "title": "Network Infrastructure Strategy for NSW"
+      "title": "Network Infrastructure Strategy for NSW",
+      "manifest_included": false
     },
     {
       "derivative_path": "sources/hunter-transmission-project/htp-aer-2025-finaldecision.txt",
@@ -981,7 +984,8 @@
       "publisher": "Australian Energy Regulator",
       "sha256": "3b670085ae270e992e93e77363db36a6d805f39cc46b6318d227dc3d8c647a03",
       "source_id": "HTP-AER-2025-FINALDECISION",
-      "title": "AER Final Decision: Ausgrid Hunter-Central Coast REZ non-contestable network infrastructure project 2026-31"
+      "title": "AER Final Decision: Ausgrid Hunter-Central Coast REZ non-contestable network infrastructure project 2026-31",
+      "manifest_included": false
     },
     {
       "derivative_path": "sources/hunter-transmission-project/htp-energyco-2026-transmission-infrastructure-page.txt",
@@ -994,7 +998,8 @@
       "publisher": "EnergyCo NSW",
       "sha256": "a98e044f972103d07dbe237bd10c5b4fab06e2df5909412d830a71bed424aa3c",
       "source_id": "HTP-ENERGYCO-2026-INFRA-PAGE",
-      "title": "Hunter Transmission Project – transmission infrastructure web page"
+      "title": "Hunter Transmission Project – transmission infrastructure web page",
+      "manifest_included": false
     },
     {
       "derivative_path": "sources/hunter-transmission-project/htp-energyco-2026-project-page.txt",
@@ -1007,7 +1012,8 @@
       "publisher": "EnergyCo NSW",
       "sha256": "dacdfe0f166484c39448cab918d7d382555fc4fc6d9e374f44fd62fcf4ec56e4",
       "source_id": "HTP-ENERGYCO-2026-PROJECT-PAGE",
-      "title": "Hunter Transmission Project – project web page"
+      "title": "Hunter Transmission Project – project web page",
+      "manifest_included": false
     },
     {
       "derivative_path": "sources/hunter-transmission-project/htp-nswgov-2022-gazette-569.txt",
@@ -1020,7 +1026,8 @@
       "publisher": "NSW Government",
       "sha256": "f38fb437821a804df4c49e88d8c2b62866254bbe57f0d86563999cd6e2b43108",
       "source_id": "HTP-NSWGOV-2022-GAZETTE-569",
-      "title": "NSW Government Gazette No 569, 9 December 2022 (Hunter-Central Coast REZ declaration)"
+      "title": "NSW Government Gazette No 569, 9 December 2022 (Hunter-Central Coast REZ declaration)",
+      "manifest_included": false
     },
     {
       "derivative_path": "sources/humelink/text/AEMO-2022-ISP.txt",
@@ -1033,7 +1040,8 @@
       "publisher": "Australian Energy Market Operator",
       "sha256": "047166b47c6871dc11e081422c5f0c2c70312d4c16df29f5535ad7d269a208dc",
       "source_id": "HUM-AEMO-2022-ISP",
-      "title": "2022 Integrated System Plan"
+      "title": "2022 Integrated System Plan",
+      "manifest_included": false
     },
     {
       "derivative_path": "sources/humelink/text/AEMO-2024-ISP-Appendix-5.txt",
@@ -1046,7 +1054,8 @@
       "publisher": "Australian Energy Market Operator",
       "sha256": "ea99b4260753614c970abbe7b2e3f91b931f5e99d58105cbd8ca509282934149",
       "source_id": "HUM-AEMO-2024-ISP-A5",
-      "title": "2024 ISP Appendix A5 Network Investments"
+      "title": "2024 ISP Appendix A5 Network Investments",
+      "manifest_included": false
     },
     {
       "derivative_path": "sources/humelink/text/AEMO-2026-ISP-Appendix-5.txt",
@@ -1059,7 +1068,8 @@
       "publisher": "Australian Energy Market Operator",
       "sha256": "7df9478c9ca00964219ec301552902cf4fd338c159509daa7f4b900c668364c8",
       "source_id": "HUM-AEMO-2026-ISP-A5",
-      "title": "2026 ISP Appendix A5 Network Investments"
+      "title": "2026 ISP Appendix A5 Network Investments",
+      "manifest_included": false
     }
   ],
   "summary": {

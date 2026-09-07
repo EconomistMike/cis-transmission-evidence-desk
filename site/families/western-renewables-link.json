@@ -2,9 +2,11 @@
   "build": {
     "contract": "v1",
     "family_slug": "western-renewables-link",
-    "path_base": "../../../",
+    "path_base": "../",
     "project_id": "WRL-PROJECT-WRL",
-    "research_cutoff": "2026-09-04"
+    "research_cutoff": "2026-09-04",
+    "audit_correction_date": "2026-09-07",
+    "revision_note": "Archived-evidence audit corrections only; research cutoff remains 2026-09-04. Upstream build_report input hashes describe the historical upstream build, not this corrected package; referenced manifests are not asserted to be included."
   },
   "components": [
     {
@@ -532,7 +534,7 @@
       "status": "anticipated project",
       "uncertainty": null,
       "unit": "date",
-      "value": null
+      "value": "November 2029"
     },
     {
       "boundary": "Anticipated project completion; the delivery scope table states July 2027 for full capacity after all testing",
@@ -719,24 +721,24 @@
         "supported_value": "November 2029"
       },
       {
-        "evidence": "No archived source states a WRL cost of $1.6 billion, or any standalone WRL estimate. The only archived WRL-specific amount is $315 million in 2020-21 (FY2020-21) dollars, stated by AEMO 2024 as included within the VNI West quoted project cost of $3,499 million - a different boundary, price basis and date. The now-archived joint VNI West PACR (VNV-TRANSGRID-2023-PACR, the primary source AEMO's 2024 summary draws on) independently states the same $315 million WRL incremental cost, itemised separately as 'Included cost' within both the Option 5 ($3,406m) and Option 5A ($3,499m) all-states totals, and describes it as the direct cost of modifying WRL so it can connect VNI West at Bulgana. supported_value is in AUD million, not the chart's AUD billion; no conversion is asserted. Both AEMO project tables leave WRL's reported/expected cost blank. See SOURCE_UNAVAILABLE warnings for the 2019 PACR, VicGrid/NEVA and the AusNet cost update, and the AUTHOR_DECISION_REQUIRED note on the chart's $1.6 billion figure's likely origin.",
+        "evidence": "No archived source states a WRL cost of $1.6 billion, or any standalone WRL estimate. The only archived WRL-specific amount is $315 million in 2020-21 (FY2020-21) dollars, stated by AEMO 2024 as included within the VNI West quoted project cost of $3,499 million - a different boundary, price basis and date. The now-archived joint VNI West PACR (VNV-TRANSGRID-2023-PACR, the primary source AEMO's 2024 summary draws on) independently states the same $315 million WRL incremental cost, itemised separately as 'Included cost' within both the Option 5 ($3,406m) and Option 5A ($3,499m) all-states totals, and describes it as the direct cost of modifying WRL so it can connect VNI West at Bulgana. No standalone replacement is established; $315m is the included WRL modification increment, not standalone WRL capex. Both AEMO project tables leave WRL's reported/expected cost blank. See SOURCE_UNAVAILABLE warnings for the 2019 PACR, VicGrid/NEVA and the AusNet cost update, and the AUTHOR_DECISION_REQUIRED note on the chart's $1.6 billion figure's likely origin.",
         "field": "cost_aud_billion",
         "original": 1.6,
         "pages": "45; 48",
         "selected_observation": "WRL-AO-2024-WRL-IN-VNI-315",
         "source_ids": "HUM-AEMO-2024-ISP-A5; VNV-TRANSGRID-2023-PACR",
         "status": "supported_with_boundary",
-        "supported_value": 315
+        "supported_value": null
       },
       {
-        "evidence": "AusNet states WRL is 'Capable of carrying more than 3,000MW of energy' - a proponent capability lower bound on an undefined basis, matching the chart's 3 GW in magnitude only. AEMO's project-specific figures are different quantities: 1,460 MW renewable capacity harnessed, 695 MW additional MEL-WNV network capacity and V2 310 MW. supported_value is in MW. The 2023 s16Y Ministerial Order (VNV-VIC-GAZETTE-2023-S267) states only qualitative benefits for WRL ('alleviating network constraints and increasing hosting capacity in Victoria's west') and states no WRL capacity figure of any kind.",
+        "evidence": "AusNet states WRL is 'Capable of carrying more than 3,000MW of energy' - a proponent capability lower bound on an undefined basis, matching the chart's 3 GW in magnitude only. AEMO's project-specific figures are different quantities: 1,460 MW renewable capacity harnessed, 695 MW additional MEL-WNV network capacity and V2 310 MW. The lower bound and capability definition must be retained. The 2023 s16Y Ministerial Order (VNV-VIC-GAZETTE-2023-S267) states only qualitative benefits for WRL ('alleviating network constraints and increasing hosting capacity in Victoria's west') and states no WRL capacity figure of any kind.",
         "field": "network_capacity_gw",
         "original": 3,
         "pages": "WRL-AUSNET-PROJECT derivative line 49; HUM-AEMO-2026-ISP-A5 pp24-25; VNV-VIC-GAZETTE-2023-S267 p11",
         "selected_observation": "WRL-AO-2026-AUSNET-CAPABILITY",
         "source_ids": "WRL-AUSNET-PROJECT; HUM-AEMO-2026-ISP-A5; VNV-VIC-GAZETTE-2023-S267",
         "status": "supported_with_boundary",
-        "supported_value": 3000
+        "supported_value": "More than 3,000 MW proponent carrying capability, undefined basis; not exactly 3 GW guaranteed transfer"
       },
       {
         "evidence": "AusNet describes WRL as a proposed new 190 kilometre overhead line from Bulgana to Sydenham, the same trunk the chart measures. Neither AEMO ISP appendix states a route length.",
@@ -746,7 +748,7 @@
         "selected_observation": "WRL-AO-2026-TRUNK-190KM",
         "source_ids": "WRL-AUSNET-PROJECT",
         "status": "supported",
-        "supported_value": 190
+        "supported_value": "190 km. Boundary/qualification: AusNet describes WRL as a proposed new 190 kilometre overhead line from Bulgana to Sydenham, the same trunk the chart measures. Neither AEMO ISP appendix states a route length."
       },
       {
         "evidence": "Chart calculation: $1.6 billion divided by 190 km. The length input is supported (WRL-AO-2026-TRUNK-190KM) but the cost input is not: no archived source states $1.6 billion for WRL, so this ratio inherits an unsupported numerator. See CHART_DERIVATION warning.",
@@ -766,7 +768,7 @@
         "selected_observation": "WRL-AO-2026-CIRCUITS-2",
         "source_ids": "HUM-AEMO-2026-ISP-A5; VNV-VIC-GAZETTE-2023-S267",
         "status": "supported",
-        "supported_value": 2
+        "supported_value": "2 circuits. Boundary/qualification: AEMO 2026 describes a planned 500 kV double-circuit overhead line from Bulgana to Sydenham, and the delivery scope specifies switched shunt line reactors at the end of each circuit. The 2023 s16Y Ministerial Order's Schedule 2 (VNV-VIC-GAZETTE-2023-S267), the legal instrument specifying the WRL Uprate, independently corroborates this: a new 500 kV double-circuit SYTS-BGTS line with switched shunt line reactors at the end of each circuit."
       },
       {
         "evidence": "AEMO 2026 delivery scope states a single new transmission line: 'A new 500 kV double-circuit transmission line from Sydenham Terminal Station to Bulgana Terminal Station'. The 2023 s16Y Ministerial Order's Schedule 2 (VNV-VIC-GAZETTE-2023-S267) independently specifies the same single new line, SYTS to BGTS, as the WRL Uprate augmentation.",
@@ -776,7 +778,7 @@
         "selected_observation": "WRL-AO-2026-LINES-1",
         "source_ids": "HUM-AEMO-2026-ISP-A5; VNV-VIC-GAZETTE-2023-S267",
         "status": "supported",
-        "supported_value": 1
+        "supported_value": "1 lines. Boundary/qualification: AEMO 2026 delivery scope states a single new transmission line: 'A new 500 kV double-circuit transmission line from Sydenham Terminal Station to Bulgana Terminal Station'. The 2023 s16Y Ministerial Order's Schedule 2 (VNV-VIC-GAZETTE-2023-S267) independently specifies the same single new line, SYTS to BGTS, as the WRL Uprate augmentation."
       },
       {
         "evidence": "Author definition. No archived source counts alternative routes for WRL. The 2019 RIT-T option set and the WRL EES route alternatives are unarchived, so a zero cannot be evidenced either way.",
@@ -860,7 +862,8 @@
       "publisher": "Australian Energy Market Operator",
       "sha256": "ea99b4260753614c970abbe7b2e3f91b931f5e99d58105cbd8ca509282934149",
       "source_id": "HUM-AEMO-2024-ISP-A5",
-      "title": "2024 ISP Appendix A5 Network Investments"
+      "title": "2024 ISP Appendix A5 Network Investments",
+      "manifest_included": false
     },
     {
       "derivative_path": "sources/humelink/text/AEMO-2026-ISP-Appendix-5.txt",
@@ -873,7 +876,8 @@
       "publisher": "Australian Energy Market Operator",
       "sha256": "7df9478c9ca00964219ec301552902cf4fd338c159509daa7f4b900c668364c8",
       "source_id": "HUM-AEMO-2026-ISP-A5",
-      "title": "2026 ISP Appendix A5 Network Investments"
+      "title": "2026 ISP Appendix A5 Network Investments",
+      "manifest_included": false
     },
     {
       "derivative_path": "sources/vni-west-victoria/vnv-transgrid-2023-pacr.txt",
@@ -886,7 +890,8 @@
       "publisher": "AEMO Victorian Planning / Transgrid",
       "sha256": "73d5ee909a76135417b3798fafa5796f72820f5734e65c6de94794b1a45cea3d",
       "source_id": "VNV-TRANSGRID-2023-PACR",
-      "title": "VNI West RIT-T Project Assessment Conclusions Report Volume 1"
+      "title": "VNI West RIT-T Project Assessment Conclusions Report Volume 1",
+      "manifest_included": false
     },
     {
       "derivative_path": "sources/vni-west-victoria/vnv-vic-gazette-2023-s267-vni-west-wrl-ministerial-order.txt",
@@ -899,7 +904,8 @@
       "publisher": "Victorian Government Gazette",
       "sha256": "50fee6d5bc5ee8e22151052fc6abb68740fa8f50036b3f14b03cfa84e21ac98a",
       "source_id": "VNV-VIC-GAZETTE-2023-S267",
-      "title": "VNI West and WRL Ministerial Order (Electricity (Victoria) Act 2005 s16Y), Special Gazette S267"
+      "title": "VNI West and WRL Ministerial Order (Electricity (Victoria) Act 2005 s16Y), Special Gazette S267",
+      "manifest_included": false
     },
     {
       "derivative_path": "sources/western-renewables-link/wrl-ausnet-2025-contractor.txt",
@@ -912,7 +918,8 @@
       "publisher": "AusNet",
       "sha256": "3cdbed555d2cc60caceb3131521eb4d1e03151421d506e1cfaf2c057a9b902e1",
       "source_id": "WRL-AUSNET-2025-CONTRACTOR",
-      "title": "Western Renewables Link construction contractor appointed"
+      "title": "Western Renewables Link construction contractor appointed",
+      "manifest_included": false
     },
     {
       "derivative_path": "sources/western-renewables-link/text/ausnet-wrl-project.txt",
@@ -925,7 +932,8 @@
       "publisher": "AusNet",
       "sha256": "53f5548f37063ec5cd8b495b3db840717b3fd33ac34b6933e3c08e7a6e6c07a4",
       "source_id": "WRL-AUSNET-PROJECT",
-      "title": "Western Renewables Link project webpage"
+      "title": "Western Renewables Link project webpage",
+      "manifest_included": false
     }
   ],
   "summary": {

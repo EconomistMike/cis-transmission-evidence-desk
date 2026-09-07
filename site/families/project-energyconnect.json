@@ -2,9 +2,11 @@
   "build": {
     "contract": "v1",
     "family_slug": "project-energyconnect",
-    "path_base": "../../../",
+    "path_base": "../",
     "project_id": "PEC-PROJECT-PEC",
-    "research_cutoff": "2026-09-04"
+    "research_cutoff": "2026-09-04",
+    "audit_correction_date": "2026-09-07",
+    "revision_note": "Archived-evidence audit corrections only; research cutoff remains 2026-09-04. Upstream build_report input hashes describe the historical upstream build, not this corrected package; referenced manifests are not asserted to be included."
   },
   "components": [
     {
@@ -1288,7 +1290,7 @@
         "selected_observation": "PEC-AO-2026-TG-REOPENER-COST-TABLE3",
         "source_ids": "PEC-AER-2026-REOPEN; PEC-TG-PROJECT-PAGE; PEC-AER-2021-TRANSGRID-DECISION; PEC-AER-2021-ELECTRANET-DECISION",
         "status": "supported_with_boundary",
-        "supported_value": 3.628
+        "supported_value": "3.628 AUD billion. Boundary/qualification: TransGrid's February 2026 application to reopen its 2023-2028 revenue determination states a forecast total capital expenditure to complete PEC of $3,628 million (real 2022-23), compared with the AER's inflation-adjusted $2,121 million PEC CPA allowance; the application's own cover letter rounds this to 'the forecast cost to deliver PEC had increased to $3.6 billion.' This is TransGrid's (NSW) forecast only, following the Contract Failure Transgrid's Board recognised on 25 October 2023 - it is a proponent application, not an AER-approved amount, and it is not stated to include ElectraNet's SA component. It is on a different price basis and boundary from the AER's 2021 $457.4m/$1,817.9m ($2017-18) determinations and the AER's $2.3bn ($2017-18) descriptive figure. The chart's $4.1 billion still matches only Transgrid's separate estimate of social value generated from June 2023 to June 2026 - a benefit measure, not capital expenditure; see CHART_DERIVATION."
       },
       {
         "evidence": "No archived source states 2.2 GW on any boundary. AEMO 2026 states 150 MW after Stage 1 and that the NSW-SA interconnector is expected to increase to 800 MW in both directions after Stage 2 (0.8 GW). AEMO 2024 states Stage 1 150 MW, Stage 2 800 MW NSW-SA and 100 MW VIC-SA. The joint ElectraNet/Transgrid project page corroborates this, describing the interconnector as built with 'approximately 800MW transfer capacity'. REZ network limits (S2 800, N5 800, SWNSW1 400) are a separate measure and are not interconnector capacity.",
@@ -1298,7 +1300,7 @@
         "selected_observation": "PEC-AO-2026-CAP-POST-STAGE2",
         "source_ids": "HUM-AEMO-2026-ISP-A5; HUM-AEMO-2024-ISP-A5; PEC-JOINT-2026-PROJECT-PAGE",
         "status": "contradicted",
-        "supported_value": 0.8
+        "supported_value": "0.8 GW. Boundary/qualification: No archived source states 2.2 GW on any boundary. AEMO 2026 states 150 MW after Stage 1 and that the NSW-SA interconnector is expected to increase to 800 MW in both directions after Stage 2 (0.8 GW). AEMO 2024 states Stage 1 150 MW, Stage 2 800 MW NSW-SA and 100 MW VIC-SA. The joint ElectraNet/Transgrid project page corroborates this, describing the interconnector as built with 'approximately 800MW transfer capacity'. REZ network limits (S2 800, N5 800, SWNSW1 400) are a separate measure and are not interconnector capacity."
       },
       {
         "evidence": "No archived source defines a trunk length for Project EnergyConnect. Transgrid's June 2026 completion release now gives an exact match for the chart's 160 km - 'the first stage of the project, a 160km line from the South Australian border to Buronga and into Victoria' - but that is Stage 1 alone, not the interconnector trunk. Other archived candidates remain: the 165 km Dinawan to Wagga Wagga section (built 500 kV, operated at 330 kV); 135 km (SA border-Buronga) and 375 km (Buronga-Dinawan), both 330 kV; and a 540 km Buronga-Wagga Wagga Stage 2 line per the same release. Both Transgrid's own page and the joint ElectraNet/Transgrid project page state the whole project stretches 900 km, and both Transgrid's completion release and the joint project page separately state a 700 km NSW section (which does not reconcile arithmetically with the individually stated 330/500 kV section lengths, 675 km). The South Australian route length is not stated anywhere in the archive.",
@@ -1308,10 +1310,10 @@
         "selected_observation": "PEC-AO-2026-TG-STAGE1-KM-160",
         "source_ids": "PEC-TG-PROJECT-PAGE; PEC-TG-2026-COMPLETION; PEC-JOINT-2026-PROJECT-PAGE",
         "status": "supported_with_boundary",
-        "supported_value": 160
+        "supported_value": "160 km. Boundary/qualification: No archived source defines a trunk length for Project EnergyConnect. Transgrid's June 2026 completion release now gives an exact match for the chart's 160 km - 'the first stage of the project, a 160km line from the South Australian border to Buronga and into Victoria' - but that is Stage 1 alone, not the interconnector trunk. Other archived candidates remain: the 165 km Dinawan to Wagga Wagga section (built 500 kV, operated at 330 kV); 135 km (SA border-Buronga) and 375 km (Buronga-Dinawan), both 330 kV; and a 540 km Buronga-Wagga Wagga Stage 2 line per the same release. Both Transgrid's own page and the joint ElectraNet/Transgrid project page state the whole project stretches 900 km, and both Transgrid's completion release and the joint project page separately state a 700 km NSW section (which does not reconcile arithmetically with the individually stated 330/500 kV section lengths, 675 km). The South Australian route length is not stated anywhere in the archive."
       },
       {
-        "evidence": "25.625 = 4,100 / 160, dividing the chart's cost cell by its trunk cell. Both inputs fail: the $4.1bn is a social-value figure (PEC-AO-2026-TG-SOCIAL-VALUE), not capital cost, and 160 km is one 165 km section of a 900 km project (PEC-AO-2026-KM-DINAWAN-WAGGA, PEC-AO-2026-KM-WHOLE). No archived source supports a $/km for PEC on any boundary.",
+        "evidence": "25.625 = 4,100 / 160 uses the chart inputs, but $4.1bn is social value, not capex (PEC-TG-PROJECT-PAGE line1705), and 160 km is the sourced Stage 1 SA-border-Buronga-and-Victoria length (PEC-TG-2026-COMPLETION lines161-166), not the whole 900 km project. A social-benefit numerator and a stage-only denominator do not establish project construction cost per km.",
         "field": "millions_per_trunk_km",
         "original": 25.625,
         "pages": "PEC-TG-PROJECT-PAGE derivative lines 1207, 1327, 1705",
@@ -1328,16 +1330,16 @@
         "selected_observation": "PEC-AO-2024-CIRCUITS",
         "source_ids": "HUM-AEMO-2024-ISP-A5; HUM-AEMO-2026-ISP-A5",
         "status": "supported_with_boundary",
-        "supported_value": 2
+        "supported_value": "2 circuits. Boundary/qualification: AEMO describes every new PEC line section as double-circuit, so 2 is right per line but is not a project-wide count. It is also time-dependent: Bundey-Buronga was strung one circuit initially in Stage 1, and the second 330 kV circuit is closed in Stage 2."
       },
       {
-        "evidence": "AEMO's delivery scope lists at least five distinct new or converted line sections at three voltages: Robertstown-Bundey 275 kV, Bundey-Buronga 330 kV, Buronga-Red Cliffs 220 kV, Buronga-Dinawan 330 kV and Dinawan-Wagga Wagga 500 kV, plus the Para-Robertstown 275 kV conversion into Tungkillo. No source states a project-wide line count of 1.",
+        "evidence": "AEMO 2024 pp17-18 lists multiple physical sections/lines. The chart's one line may instead mean one interconnector corridor; no chart-compatible line count is established without defining lines versus sections/corridors.",
         "field": "lines",
         "original": 1,
         "pages": "HUM-AEMO-2024-ISP-A5 pp17-18",
         "selected_observation": "PEC-AO-2024-LINES",
         "source_ids": "HUM-AEMO-2024-ISP-A5",
-        "status": "contradicted",
+        "status": "supported_with_boundary",
         "supported_value": null
       },
       {
@@ -1358,7 +1360,7 @@
         "selected_observation": "PEC-AO-2026-SYNCON-DINAWAN",
         "source_ids": "HUM-AEMO-2026-ISP-A5; PEC-TG-PROJECT-PAGE",
         "status": "contradicted",
-        "supported_value": 100
+        "supported_value": "2 × 100 MVA per synchronous condenser at Dinawan; additional 1 × 100 MVA at Buronga; not a certified project-wide total"
       },
       {
         "evidence": "No archived source counts hubs for PEC. AEMO states a new 330 kV switching station at Dinawan and Transgrid a new 4.5ha substation near Bundure; whether a switching station counts as a hub is an author definition, so 0 is neither supported nor contradicted.",
@@ -1381,14 +1383,14 @@
         "supported_value": null
       },
       {
-        "evidence": "The project scope includes a new Buronga to Red Cliffs 220 kV double-circuit line, and Transgrid records the upgrade of about 22 km of existing 220 kV transmission between Buronga substation and Red Cliffs, replacing lattice structures with 79 monopoles. Lower-voltage works are not zero.",
+        "evidence": "Approximately 22 km of 220 kV Buronga-Red Cliffs works is sourced (AEMO 2024 p18; Transgrid project page line1262). It is an interconnector spur: zero lower-voltage works is false, but whether this is a hub-to-project feeder depends on the chart definition. No unqualified REZ-feeder replacement is established.",
         "field": "feeder_lines_km",
         "original": 0,
         "pages": "HUM-AEMO-2024-ISP-A5 p18; PEC-TG-PROJECT-PAGE derivative line 1262",
         "selected_observation": "PEC-AO-2026-KM-REDCLIFFS",
         "source_ids": "HUM-AEMO-2024-ISP-A5; PEC-TG-PROJECT-PAGE",
-        "status": "contradicted",
-        "supported_value": 22
+        "status": "supported_with_boundary",
+        "supported_value": "Approximately 22 km 220 kV Buronga-Red Cliffs works; feeder classification unresolved"
       }
     ],
     "original_row": {
@@ -1407,7 +1409,7 @@
       "transformers": 0,
       "trunk_km": 160
     },
-    "overall_status": "Not publishable as-is: the cost cell rests on a social-value figure rather than capital expenditure, and the closest capital-cost figure archived - TransGrid's own $3,628m (real 2022-23) February 2026 reopener forecast - is a proponent application on a different boundary and basis, not an approved amount. The trunk length now matches a sourced 160 km Stage 1 section exactly, but that is one section of a nine-hundred-kilometre project, and the capacity, syncon, transformer and feeder cells are contradicted by the archived scope."
+    "overall_status": "Not publishable as-is: the cost cell rests on a social-value figure rather than capital expenditure, and the closest capital-cost figure archived - TransGrid's own $3,628m (real 2022-23) February 2026 reopener forecast - is a proponent application on a different boundary and basis, not an approved amount. The trunk length now matches a sourced 160 km Stage 1 section exactly, but that is one section of a nine-hundred-kilometre project, and the capacity, syncon and transformer cells conflict on stated source boundaries; line and feeder counts require explicit definitions."
   },
   "schema": "ate.project-evidence-pack.v2",
   "sources": [
@@ -1422,7 +1424,8 @@
       "publisher": "Australian Energy Market Operator",
       "sha256": "285a01a1df766879e95d4c4bcad4044b7acfade3dfb01b1c905f5805fc877bdf",
       "source_id": "HUM-AEMO-2020-ISP-A3",
-      "title": "2020 ISP Appendix 3 Network Investments"
+      "title": "2020 ISP Appendix 3 Network Investments",
+      "manifest_included": false
     },
     {
       "derivative_path": "sources/humelink/text/AEMO-2022-ISP.txt",
@@ -1435,7 +1438,8 @@
       "publisher": "Australian Energy Market Operator",
       "sha256": "047166b47c6871dc11e081422c5f0c2c70312d4c16df29f5535ad7d269a208dc",
       "source_id": "HUM-AEMO-2022-ISP",
-      "title": "2022 Integrated System Plan"
+      "title": "2022 Integrated System Plan",
+      "manifest_included": false
     },
     {
       "derivative_path": "sources/humelink/text/AEMO-2024-ISP-Appendix-5.txt",
@@ -1448,7 +1452,8 @@
       "publisher": "Australian Energy Market Operator",
       "sha256": "ea99b4260753614c970abbe7b2e3f91b931f5e99d58105cbd8ca509282934149",
       "source_id": "HUM-AEMO-2024-ISP-A5",
-      "title": "2024 ISP Appendix A5 Network Investments"
+      "title": "2024 ISP Appendix A5 Network Investments",
+      "manifest_included": false
     },
     {
       "derivative_path": "sources/humelink/text/AEMO-2026-ISP-Appendix-5.txt",
@@ -1461,7 +1466,8 @@
       "publisher": "Australian Energy Market Operator",
       "sha256": "7df9478c9ca00964219ec301552902cf4fd338c159509daa7f4b900c668364c8",
       "source_id": "HUM-AEMO-2026-ISP-A5",
-      "title": "2026 ISP Appendix A5 Network Investments"
+      "title": "2026 ISP Appendix A5 Network Investments",
+      "manifest_included": false
     },
     {
       "derivative_path": "sources/project-energyconnect/text/ElectraNet-2020-PEC-principal-application.txt",
@@ -1474,7 +1480,8 @@
       "publisher": "ElectraNet",
       "sha256": "bd0c09c2c0926a4c2705cb3cb9dcedbcd0a7d4b3e1dc0196c31be034f1dc503e",
       "source_id": "PEC-AER-2020-ELECTRANET-APPLICATION",
-      "title": "Project EnergyConnect contingent project application"
+      "title": "Project EnergyConnect contingent project application",
+      "manifest_included": false
     },
     {
       "derivative_path": "sources/project-energyconnect/text/TransGrid-2020-PEC-principal-application.txt",
@@ -1487,7 +1494,8 @@
       "publisher": "TransGrid",
       "sha256": "f0c51ab0add31e2057f7a1db26dc2496e86ae49ce4d0829504f5d521fb6d22b1",
       "source_id": "PEC-AER-2020-TRANSGRID-APPLICATION",
-      "title": "Project EnergyConnect principal application"
+      "title": "Project EnergyConnect principal application",
+      "manifest_included": false
     },
     {
       "derivative_path": "sources/project-energyconnect/text/AER-2021-ElectraNet-PEC-determination.txt",
@@ -1500,7 +1508,8 @@
       "publisher": "Australian Energy Regulator",
       "sha256": "8a33b67b5636db0c8a94c16e64e686fa587afa82cd1796e1c60627b523f6e26c",
       "source_id": "PEC-AER-2021-ELECTRANET-DECISION",
-      "title": "Final Decision ElectraNet Project EnergyConnect contingent project"
+      "title": "Final Decision ElectraNet Project EnergyConnect contingent project",
+      "manifest_included": false
     },
     {
       "derivative_path": "sources/project-energyconnect/text/AER-2021-TransGrid-PEC-determination.txt",
@@ -1513,7 +1522,8 @@
       "publisher": "Australian Energy Regulator",
       "sha256": "79cc7ed762ccd98448a5d3e61a9246a6f02822d8add5137aee6380aca7b02e41",
       "source_id": "PEC-AER-2021-TRANSGRID-DECISION",
-      "title": "Final Decision TransGrid Project EnergyConnect contingent project"
+      "title": "Final Decision TransGrid Project EnergyConnect contingent project",
+      "manifest_included": false
     },
     {
       "derivative_path": "sources/project-energyconnect/pec-aer-2026-reopen.txt",
@@ -1526,7 +1536,8 @@
       "publisher": "TransGrid (application to Australian Energy Regulator)",
       "sha256": "4445466951c37241b06a461e7348b48b82453d4c41c3c34bf3245ac64ac520e6",
       "source_id": "PEC-AER-2026-REOPEN",
-      "title": "Project EnergyConnect - An application to reopen the 2023-2028 Revenue Determination"
+      "title": "Project EnergyConnect - An application to reopen the 2023-2028 Revenue Determination",
+      "manifest_included": false
     },
     {
       "derivative_path": "sources/project-energyconnect/pec-joint-2026-project-page.txt",
@@ -1539,7 +1550,8 @@
       "publisher": "ElectraNet / Transgrid",
       "sha256": "d7b387e27a5dab19b0e4de672ea27a75b7ca21c4d04d7be5ce5010a793fe4469",
       "source_id": "PEC-JOINT-2026-PROJECT-PAGE",
-      "title": "Project EnergyConnect - official joint project website"
+      "title": "Project EnergyConnect - official joint project website",
+      "manifest_included": false
     },
     {
       "derivative_path": "sources/project-energyconnect/pec-tg-2026-attachment2.txt",
@@ -1552,7 +1564,8 @@
       "publisher": "TransGrid (application to Australian Energy Regulator)",
       "sha256": "45f333644fdb7a0fd9527c78c2e31bef20d59d112486ba0ba1a84e908b5f9a3c",
       "source_id": "PEC-TG-2026-ATTACHMENT2",
-      "title": "Attachment 2 - Project EnergyConnect and Contract Failure"
+      "title": "Attachment 2 - Project EnergyConnect and Contract Failure",
+      "manifest_included": false
     },
     {
       "derivative_path": "sources/project-energyconnect/pec-tg-2026-completion.txt",
@@ -1565,7 +1578,8 @@
       "publisher": "Transgrid",
       "sha256": "110333c1b8a06351e3ebf1260388c7391ed6a0156950173e505f6b98e29ae36a",
       "source_id": "PEC-TG-2026-COMPLETION",
-      "title": "EnergyConnect powers up as clean energy transition forges ahead"
+      "title": "EnergyConnect powers up as clean energy transition forges ahead",
+      "manifest_included": false
     },
     {
       "derivative_path": "sources/project-energyconnect/text/Transgrid-PEC-project-page.html.txt",
@@ -1578,11 +1592,12 @@
       "publisher": "Transgrid",
       "sha256": "51468440327d7430eb082e12bce43063714e69a075618d24ec1d8bf34b9c8662",
       "source_id": "PEC-TG-PROJECT-PAGE",
-      "title": "EnergyConnect project page"
+      "title": "EnergyConnect project page",
+      "manifest_included": false
     }
   ],
   "summary": {
-    "analysis_conclusion": "There is no archived reconciled whole-project cost for Project EnergyConnect. The AER approved two separate owner allowances, $457.4m ($2017-18) for ElectraNet and $1,817.9m ($2017-18) for TransGrid, and described the project as a proposed $2.3 billion ($2017-18) contingent project. TransGrid's February 2026 reopener application, citing Contract Failure, now states a forecast cost of $3,628 million (real 2022-23) to complete TransGrid's own NSW component - a proponent forecast, not an AER-approved amount, and not stated to include ElectraNet's SA works. The chart's $4.1 billion still matches only Transgrid's separate social-value claim, a benefit measure, and the chart's 160 km now has an exact but different match: Transgrid's June 2026 completion release states Stage 1 (SA border to Buronga and into Victoria) is 160 km, distinct from the 165 km Dinawan-Wagga Wagga section and from the 900 km whole-route figure both Transgrid's page and the joint ElectraNet/Transgrid project page state. Cost, capacity, trunk km, syncons, transformers and feeder km all fail on the chart's boundaries.",
+    "analysis_conclusion": "There is no archived reconciled whole-project cost for Project EnergyConnect. The AER approved two separate owner allowances, $457.4m ($2017-18) for ElectraNet and $1,817.9m ($2017-18) for TransGrid, and described the project as a proposed $2.3 billion ($2017-18) contingent project. TransGrid's February 2026 reopener application, citing Contract Failure, now states a forecast cost of $3,628 million (real 2022-23) to complete TransGrid's own NSW component - a proponent forecast, not an AER-approved amount, and not stated to include ElectraNet's SA works. The chart's $4.1 billion still matches only Transgrid's separate social-value claim, a benefit measure, and the chart's 160 km now has an exact but different match: Transgrid's June 2026 completion release states Stage 1 (SA border to Buronga and into Victoria) is 160 km, distinct from the 165 km Dinawan-Wagga Wagga section and from the 900 km whole-route figure both Transgrid's page and the joint ElectraNet/Transgrid project page state. Cost, capacity, trunk km, syncons and transformers require the stated boundary corrections; line and feeder interpretations depend on explicit chart definitions.",
     "capacity": "Stage 1 delivered 150 MW in both directions between NSW and SA. AEMO expects the NSW-SA interconnector to increase to 800 MW in both directions after Stage 2, with a further 100 MW VIC-SA. No archived source states 2.2 GW.",
     "completion_date": "Stage 1: late 2024 (AEMO 2026), though Transgrid's June 2026 completion release instead says Stage 1 'became operational last year' (i.e. 2025) - a contradiction, not resolved. Stage 2: November 2027 (AEMO 2026), against Transgrid's stated NEM integration by end of 2026; Transgrid's June 2026 release reports the 700 km NSW section construction complete and Stage 2 being energised ahead of inter-network testing",
     "current_status": "Committed and under construction. AEMO's 2026 ISP records Stage 1 (Robertstown via Bundey to Buronga) completed in late 2024 and Stage 2 committed for November 2027; Transgrid's own page states construction and initial energisation are complete with NEM integration due by the end of 2026. Transgrid's June 2026 completion release states construction of the 700 km NSW section is complete and Stage 2 (the 540 km Buronga-Wagga Wagga line) is being energised ahead of AEMO's inter-network testing; it also states Stage 1 (160 km, SA border to Buronga and into Victoria) 'became operational last year', which is not consistent with AEMO's 'late 2024' Stage 1 completion date. Transgrid's February 2026 application to reopen its 2023-2028 revenue determination cites Contract Failure (recognised by Transgrid's Board on 25 October 2023) and a resulting forecast cost increase to $3,628 million (real 2022-23) to complete the NSW component; this reopener had not been decided by the AER as at the 2026-09-03 research cutoff.",

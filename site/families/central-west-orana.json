@@ -2,9 +2,11 @@
   "build": {
     "contract": "v1",
     "family_slug": "central-west-orana",
-    "path_base": "../../../",
+    "path_base": "../",
     "project_id": "CWO-PROJECT-MAIN",
-    "research_cutoff": "2026-09-04"
+    "research_cutoff": "2026-09-04",
+    "audit_correction_date": "2026-09-07",
+    "revision_note": "Archived-evidence audit corrections only; research cutoff remains 2026-09-04. Upstream build_report input hashes describe the historical upstream build, not this corrected package; referenced manifests are not asserted to be included."
   },
   "components": [
     {
@@ -1156,7 +1158,7 @@
     },
     {
       "boundary": "330 kV H2P transmission network from the Energy Hubs to 13 330 kV switching stations, as described in the Main project scope underlying the Notice of Authorisation",
-      "comparability": "Contradicts the AER's 'around 150 km' H2P corridor figure (CWO-AO-2025-H2P-150KM) for what appears to be the same hub-to-project network boundary; see CONTRADICTION warning",
+      "comparability": "The chart's 150 km has positive support: CWO-18 p11 states a corridor of around 150 km and CWO-26 derivative line18 states 150 km of 330 kV generator-connection lines. CWO-23 p10 instead describes approximately 166 km of H2P lines, with conditional separable portions (pp12,19). Different vintages, corridor versus line measurement and conditional scope remain unreconciled. Retain an unresolved source discrepancy, not a same-boundary numerical disproof; five portions were excluded in 2025.",
       "date": "2024-06",
       "estimate_class": null,
       "excerpt": "comprising a total of approximately 166 kilometres \nof transmission lines (H2P Assets)",
@@ -1232,7 +1234,7 @@
     },
     {
       "boundary": "330 kV transmission lines for generator connections within the CWO REZ, as described by ACEREZ",
-      "comparability": "States the same 150 km figure as the AER's 'around 150 km' H2P corridor (CWO-AO-2025-H2P-150KM), but contradicts the ASL statement of reasons' 166 km H2P total (CWO-AO-2024-H2P-166KM) for what appears to be the same generator-connection network boundary; see CONTRADICTION warning",
+      "comparability": "The chart's 150 km has positive support: CWO-18 p11 states a corridor of around 150 km and CWO-26 derivative line18 states 150 km of 330 kV generator-connection lines. CWO-23 p10 instead describes approximately 166 km of H2P lines, with conditional separable portions (pp12,19). Different vintages, corridor versus line measurement and conditional scope remain unreconciled. Retain an unresolved source discrepancy, not a same-boundary numerical disproof; five portions were excluded in 2025.",
       "date": "2026",
       "estimate_class": null,
       "excerpt": "150 km of 330kV transmission lines for generator connections, stretching from Elong Elong in the west through to Barigan Creek in the east, via an energy hub at Merotherie.",
@@ -1310,14 +1312,14 @@
   "policy_chart": {
     "findings": [
       {
-        "evidence": "No archived source states 2029. AEMO's 2026 ISP gives December 2028 for the committed project; the AER records staged infrastructure completion between April 2028 and April 2030 with generation from December 2028 to September 2030; the Expansion, whose $855m sits in the same row's cost, is timed March 2033.",
+        "evidence": "2029 is not the AEMO 2026 committed-project timing of December 2028 (CWO-22 p23), but falls within the AER infrastructure-completion window April 2028-April 2030 (CWO-18 p12). Expansion timing is March 2033 (CWO-22 p57). The chart milestone is unspecified; a timing conflict applies only if comparing the same committed-project milestone.",
         "field": "date",
         "original": 2029,
         "pages": "CWO-22 PDF p23; CWO-18 PDF p12",
         "selected_observation": "CWO-AO-2026-COMMITTED-TIMING",
         "source_ids": "CWO-22; CWO-18",
-        "status": "contradicted",
-        "supported_value": "2028-12"
+        "status": "supported_with_boundary",
+        "supported_value": "December 2028 committed-project milestone; AER staged infrastructure completion April 2028-April 2030; expansion March 2033"
       },
       {
         "evidence": "Sum of three separately bounded observations: CWO-AO-2025-MAIN-REMADE $5,526.1m (nominal NER-equivalent, Main only, consumer-funded) + CWO-AO-2026-ENABLING-FINAL-INC $406.0m (real 2025-26, Enabling) + CWO-AO-2026-EXPANSION-COST $855m (dollar year not stated, Class 5b, not yet authorised) = $6,787.1m. No source publishes this total, the inputs are not on a common basis, and the sum omits generator-funded H2P and CSS, construction finance and the $186.8m Barigan Creek acquisition. See NON_ADDITIVE_BOUNDARIES (blocker).",
@@ -1327,7 +1329,7 @@
         "selected_observation": "CWO-AO-2025-MAIN-REMADE",
         "source_ids": "CWO-18; CWO-21; CWO-22",
         "status": "derived",
-        "supported_value": 6.7871
+        "supported_value": null
       },
       {
         "evidence": "6,000 MW is the declared intended network capacity after the December 2023 amendment, as reported by AEMO and the AER, not capacity available at the row's date: initial delivery is 4,500 MW, the AER states capacity is planned to increase to 6 GW by 2038, and the Expansion's +1,500 MW is timed March 2033. The row's single cell also sits alongside three other archived capacity measures (7.7 GW hosting, 7.7 GW aggregate access cap, 7.15/7.7 GW awarded access rights).",
@@ -1337,7 +1339,7 @@
         "selected_observation": "CWO-AO-2023-DECLARED-6GW",
         "source_ids": "CWO-22; CWO-18",
         "status": "supported_with_boundary",
-        "supported_value": 6
+        "supported_value": "6 GW. Boundary/qualification: 6,000 MW is the declared intended network capacity after the December 2023 amendment, as reported by AEMO and the AER, not capacity available at the row's date: initial delivery is 4,500 MW, the AER states capacity is planned to increase to 6 GW by 2038, and the Expansion's +1,500 MW is timed March 2033. The row's single cell also sits alongside three other archived capacity measures (7.7 GW hosting, 7.7 GW aggregate access cap, 7.15/7.7 GW awarded access rights)."
       },
       {
         "evidence": "The AER states core infrastructure comprises a 90 km transmission line corridor between Wollar and Elong Elong. The ASL statement of reasons for the Main authorisation corroborates this as the sum of two segments: an approximately 60 km line from Barigan Creek to Merotherie and an approximately 30 km line from Merotherie to Elong Elong (60+30=90). ACEREZ's own project page separately corroborates 90 km, stating the project consists of 90km of 500kV overhead transmission lines. The boundary is the Main core corridor only: it excludes the Enabling 330 kV lines and the Expansion's new Merotherie-A to Merotherie-B line, both of whose costs are inside this row's cost cell.",
@@ -1347,7 +1349,7 @@
         "selected_observation": "CWO-AO-2025-TRUNK-90KM",
         "source_ids": "CWO-18; CWO-23; CWO-26",
         "status": "supported",
-        "supported_value": 90
+        "supported_value": "90 km. Boundary/qualification: The AER states core infrastructure comprises a 90 km transmission line corridor between Wollar and Elong Elong. The ASL statement of reasons for the Main authorisation corroborates this as the sum of two segments: an approximately 60 km line from Barigan Creek to Merotherie and an approximately 30 km line from Merotherie to Elong Elong (60+30=90). ACEREZ's own project page separately corroborates 90 km, stating the project consists of 90km of 500kV overhead transmission lines. The boundary is the Main core corridor only: it excludes the Enabling 330 kV lines and the Expansion's new Merotherie-A to Merotherie-B line, both of whose costs are inside this row's cost cell."
       },
       {
         "evidence": "$6,787.1m / 90 km = 75.41. The numerator aggregates Main, Enabling and Expansion on three different bases while the denominator is the Main core corridor only, so the ratio is not a like-for-like unit cost. Inputs: CWO-AO-2025-MAIN-REMADE, CWO-AO-2026-ENABLING-FINAL-INC, CWO-AO-2026-EXPANSION-COST, CWO-AO-2025-TRUNK-90KM.",
@@ -1367,7 +1369,7 @@
         "selected_observation": null,
         "source_ids": "CWO-18; CWO-10; CWO-23",
         "status": "derived",
-        "supported_value": 4
+        "supported_value": "4 circuits. Boundary/qualification: No archived source states a circuit count. The AER states the transmission lines will be two double circuit 500 kV lines, the authorisation describes each corridor section as comprising two 500 kV double circuit lines, and the ASL statement of reasons for the Main authorisation describes both the Barigan Creek-Merotherie and Merotherie-Elong Elong segments as each comprising two 500 kV double circuit lines; 2 lines x 2 circuits = 4. Inputs: CWO-AO-2025-LINES-2, CWO-AO-2024-AUTH-DC-LINES, CWO-AO-2024-LINES-ASL-SOR."
       },
       {
         "evidence": "The AER states the transmission lines on the 90 km core corridor will be two double circuit 500 kV lines, initially operated at 330 kV between Merotherie and Elong Elong; the authorisation and the ASL statement of reasons both state the same composition for each of the Barigan Creek-Merotherie (approx. 60 km, operated at 500 kV) and Merotherie-Elong Elong (approx. 30 km, operated at 330 kV) sections.",
@@ -1377,7 +1379,7 @@
         "selected_observation": "CWO-AO-2025-LINES-2",
         "source_ids": "CWO-18; CWO-10; CWO-23",
         "status": "supported",
-        "supported_value": 2
+        "supported_value": "2 lines. Boundary/qualification: The AER states the transmission lines on the 90 km core corridor will be two double circuit 500 kV lines, initially operated at 330 kV between Merotherie and Elong Elong; the authorisation and the ASL statement of reasons both state the same composition for each of the Barigan Creek-Merotherie (approx. 60 km, operated at 500 kV) and Merotherie-Elong Elong (approx. 30 km, operated at 330 kV) sections."
       },
       {
         "evidence": "No archived source counts or assesses alternative routes for this project. The value is an author definition; see the AUTHOR_DECISION_REQUIRED warning.",
@@ -1397,7 +1399,7 @@
         "selected_observation": "CWO-AO-2024-SYNCONS-AUTH",
         "source_ids": "CWO-10; CWO-18; CWO-09; CWO-24",
         "status": "supported",
-        "supported_value": 1750
+        "supported_value": "Up to 1,750 MVA authorised Main system strength; AER 7 × 250 MVA units versus PACR 7 × 240 MVA units, unresolved rating discrepancy; not confirmed installed total"
       },
       {
         "evidence": "Archived sources name two energy hubs for the committed project (Merotherie and Elong Elong) and treat Barigan Creek as a switching station. The chart's 3 counts Merotherie-A, Merotherie-B and Elong Elong by combining the committed project with the future Expansion; no source counts hubs that way.",
@@ -1407,7 +1409,7 @@
         "selected_observation": "CWO-AO-2025-HUBS-2",
         "source_ids": "CWO-18; CWO-22",
         "status": "judgment",
-        "supported_value": 2
+        "supported_value": "2 hubs. Boundary/qualification: Archived sources name two energy hubs for the committed project (Merotherie and Elong Elong) and treat Barigan Creek as a switching station. The chart's 3 counts Merotherie-A, Merotherie-B and Elong Elong by combining the committed project with the future Expansion; no source counts hubs that way."
       },
       {
         "evidence": "No archived source states an installed transformer MVA total. The 2026 ISP states 4 x 1,500 MVA 500/330/33 kV transformers at the committed Merotherie substation, 3 x 1,500 MVA at the Expansion's Merotherie-B and 3 x 1,500 MVA at the expanded Elong Elong; (4+3+3) x 1,500 = 15,000 MVA. The figure therefore mixes committed and future scope. Inputs: CWO-AO-2026-TX-MEROTHERIE-A, CWO-AO-2026-TX-MEROTHERIE-B, CWO-AO-2026-TX-ELONG.",
@@ -1417,17 +1419,17 @@
         "selected_observation": null,
         "source_ids": "CWO-22",
         "status": "derived",
-        "supported_value": 15000
+        "supported_value": "15000 MVA (chart arithmetic, not unit count). Boundary/qualification: No archived source states an installed transformer MVA total. The 2026 ISP states 4 x 1,500 MVA 500/330/33 kV transformers at the committed Merotherie substation, 3 x 1,500 MVA at the Expansion's Merotherie-B and 3 x 1,500 MVA at the expanded Elong Elong; (4+3+3) x 1,500 = 15,000 MVA. The figure therefore mixes committed and future scope. Inputs: CWO-AO-2026-TX-MEROTHERIE-A, CWO-AO-2026-TX-MEROTHERIE-B, CWO-AO-2026-TX-ELONG."
       },
       {
-        "evidence": "Two archived sources state 150 km: the AER's remade determination states the hub to project 330 kV network will cover a corridor of around 150 km, and ACEREZ's own project page states the project consists of 150 km of 330kV transmission lines for generator connections. A third, the ASL statement of reasons for the Main authorisation, instead states the 330 kV H2P network from the Energy Hubs to 13 switching stations comprises a total of approximately 166 kilometres of transmission lines. All three describe the same H2P/generator-connection network boundary but state different lengths; the contradiction is retained unresolved. The H2P network is generator-funded and includes conditional separable portions, five of which were excluded in 2025.",
+        "evidence": "The chart's 150 km has positive support: CWO-18 p11 states a corridor of around 150 km and CWO-26 derivative line18 states 150 km of 330 kV generator-connection lines. CWO-23 p10 instead describes approximately 166 km of H2P lines, with conditional separable portions (pp12,19). Different vintages, corridor versus line measurement and conditional scope remain unreconciled. Retain an unresolved source discrepancy, not a same-boundary numerical disproof; five portions were excluded in 2025.",
         "field": "feeder_lines_km",
         "original": 150,
         "pages": "CWO-18 PDF p11; CWO-23 PDF p10; CWO-26 web",
-        "selected_observation": null,
+        "selected_observation": "CWO-AO-2025-H2P-150KM",
         "source_ids": "CWO-18; CWO-23; CWO-26",
-        "status": "contradicted",
-        "supported_value": null
+        "status": "supported_with_boundary",
+        "supported_value": "Around 150 km H2P corridor / 150 km generator-connection lines; unresolved 166 km conditional/vintage alternative"
       }
     ],
     "original_row": {
@@ -1446,7 +1448,7 @@
       "transformers": 15000,
       "trunk_km": 90
     },
-    "overall_status": "Publishable only with corrections: the cost and millions-per-trunk-km cells are non-additive author aggregates, the date cell is contradicted by every archived timing, and the hubs, circuits, transformers and alt-routes cells are author derivations or judgments rather than sourced values."
+    "overall_status": "Publishable only with corrections: the cost and millions-per-trunk-km cells are non-additive author aggregates, the date cell requires a defined milestone and the feeder length has an unresolved source discrepancy, and the hubs, circuits, transformers and alt-routes cells are author derivations or judgments rather than sourced values."
   },
   "schema": "ate.project-evidence-pack.v2",
   "sources": [
@@ -1461,7 +1463,8 @@
       "publisher": "AEMO",
       "sha256": "285a01a1df766879e95d4c4bcad4044b7acfade3dfb01b1c905f5805fc877bdf",
       "source_id": "CWO-01",
-      "title": "2020 Integrated System Plan, Appendix 3: Network Investments"
+      "title": "2020 Integrated System Plan, Appendix 3: Network Investments",
+      "manifest_included": false
     },
     {
       "derivative_path": "sources/central-west-orana/cwo-02-nsw-gazette-2021-569-declaration.txt",
@@ -1474,7 +1477,8 @@
       "publisher": "NSW Government",
       "sha256": "18449682ae305fd9ca8912d8feaf52026bfd501bad0692e6af23a82e3ef11f00",
       "source_id": "CWO-02",
-      "title": "Renewable Energy Zone (Central-West Orana) Order 2021"
+      "title": "Renewable Energy Zone (Central-West Orana) Order 2021",
+      "manifest_included": false
     },
     {
       "derivative_path": "sources/central-west-orana/cwo-04-energyco-2023-network-infrastructure-strategy.txt",
@@ -1487,7 +1491,8 @@
       "publisher": "EnergyCo NSW",
       "sha256": "10b8fac054a4823c555a98589ce9e257e73f6c58d15b02f086320e08353fa03a",
       "source_id": "CWO-04",
-      "title": "Network Infrastructure Strategy for NSW"
+      "title": "Network Infrastructure Strategy for NSW",
+      "manifest_included": false
     },
     {
       "derivative_path": "sources/central-west-orana/cwo-05-energyco-2023-network-infrastructure-strategy-appendix-b.txt",
@@ -1500,7 +1505,8 @@
       "publisher": "EnergyCo NSW",
       "sha256": "fa778f02762732e4ab9befa524861618b2a39d4e6764c99aea679a7ec36015e3",
       "source_id": "CWO-05",
-      "title": "Network Infrastructure Strategy for NSW, Appendix B"
+      "title": "Network Infrastructure Strategy for NSW, Appendix B",
+      "manifest_included": false
     },
     {
       "derivative_path": "sources/central-west-orana/cwo-06-nsw-gazette-2023-580-capacity-amendment.txt",
@@ -1513,7 +1519,8 @@
       "publisher": "NSW Government",
       "sha256": "54f7cc691d9c611f2d0e74ee245f63255cbae9e5b58dd3dbe75f705e643cb8f5",
       "source_id": "CWO-06",
-      "title": "Renewable Energy Zone (Central-West Orana) Order 2023"
+      "title": "Renewable Energy Zone (Central-West Orana) Order 2023",
+      "manifest_included": false
     },
     {
       "derivative_path": "sources/central-west-orana/cwo-07-nsw-gazette-2024-116-access-scheme-amendment.txt",
@@ -1526,7 +1533,8 @@
       "publisher": "NSW Government",
       "sha256": "fa2cc46d638eb77c108eddbf35c35009adc082bf562a7817b718bfcd58d5c1f7",
       "source_id": "CWO-07",
-      "title": "Renewable Energy Zone (Central-West Orana) Access Scheme (Amendment) Order 2024"
+      "title": "Renewable Energy Zone (Central-West Orana) Access Scheme (Amendment) Order 2024",
+      "manifest_included": false
     },
     {
       "derivative_path": "sources/central-west-orana/cwo-08-nsw-gazette-2024-137-network-specification.txt",
@@ -1539,7 +1547,8 @@
       "publisher": "NSW Government",
       "sha256": "1fa415a2f1256f587b94134012213963f8fc1f0991b8af6bf6abab6f29975390",
       "source_id": "CWO-08",
-      "title": "Renewable Energy Zone (Central-West Orana) Order 2024"
+      "title": "Renewable Energy Zone (Central-West Orana) Order 2024",
+      "manifest_included": false
     },
     {
       "derivative_path": "sources/central-west-orana/cwo-09-energyco-2024-infrastructure-planner-recommendation.txt",
@@ -1552,7 +1561,8 @@
       "publisher": "EnergyCo NSW",
       "sha256": "2132928b201fedc9933b4e9d3589ca536906286f46b2a66cb59beeea25adc106",
       "source_id": "CWO-09",
-      "title": "Central-West Orana REZ Infrastructure Planner Recommendation Public Report"
+      "title": "Central-West Orana REZ Infrastructure Planner Recommendation Public Report",
+      "manifest_included": false
     },
     {
       "derivative_path": "sources/central-west-orana/cwo-10-asl-2024-main-authorisation.txt",
@@ -1565,7 +1575,8 @@
       "publisher": "AEMO Services",
       "sha256": "f1791da0fac007f2513cc878aa09e338bffa84e45bce753a16ca56059bdb26c8",
       "source_id": "CWO-10",
-      "title": "Notice of Authorisation – Main CWO REZ Network Infrastructure Project"
+      "title": "Notice of Authorisation – Main CWO REZ Network Infrastructure Project",
+      "manifest_included": false
     },
     {
       "derivative_path": "sources/central-west-orana/cwo-11-asl-2024-enabling-authorisation.txt",
@@ -1578,7 +1589,8 @@
       "publisher": "AEMO Services",
       "sha256": "a7979dd9ac8b334d14a27b8d88865bf2f1dd11a310dec4210c27f6b65c56d78a",
       "source_id": "CWO-11",
-      "title": "Notice of Authorisation – Enabling CWO REZ Network Infrastructure Project"
+      "title": "Notice of Authorisation – Enabling CWO REZ Network Infrastructure Project",
+      "manifest_included": false
     },
     {
       "derivative_path": "sources/central-west-orana/cwo-12-aer-2024-initial-main-revenue-determination.txt",
@@ -1591,7 +1603,8 @@
       "publisher": "Australian Energy Regulator",
       "sha256": "744d3282b20507dcc78fc40958ced36dd8635e48b15b3814355d4fe301296564",
       "source_id": "CWO-12",
-      "title": "CWO REZ network project revenue determination"
+      "title": "CWO REZ network project revenue determination",
+      "manifest_included": false
     },
     {
       "derivative_path": "sources/central-west-orana/cwo-13-asl-2025-access-fee-statement-of-reasons.txt",
@@ -1604,7 +1617,8 @@
       "publisher": "AEMO Services",
       "sha256": "043f607cdd6dddd884322cb59426337e6965badb11b1e048617414471dd5e85f",
       "source_id": "CWO-13",
-      "title": "Statement of Reasons – CWO REZ Access Fee Determinations"
+      "title": "Statement of Reasons – CWO REZ Access Fee Determinations",
+      "manifest_included": false
     },
     {
       "derivative_path": "sources/central-west-orana/cwo-14-asl-2025-access-fee-liverpool-range-stage-1.txt",
@@ -1617,7 +1631,8 @@
       "publisher": "AEMO Services",
       "sha256": "20b29682328a953438fe3e09f3c468a490041d4abfa35e047a31292365fc04dd",
       "source_id": "CWO-14",
-      "title": "Access Fee Determination – Liverpool Range Wind Farm Stage 1"
+      "title": "Access Fee Determination – Liverpool Range Wind Farm Stage 1",
+      "manifest_included": false
     },
     {
       "derivative_path": "sources/central-west-orana/cwo-15-asl-2025-access-fee-liverpool-range-stage-2.txt",
@@ -1630,7 +1645,8 @@
       "publisher": "AEMO Services",
       "sha256": "86f2da944050d13ca3bb75a52fbaf1c4abd954ecc4eb554703bfe7e13af64054",
       "source_id": "CWO-15",
-      "title": "Access Fee Determination – Liverpool Range Wind Farm Stage 2"
+      "title": "Access Fee Determination – Liverpool Range Wind Farm Stage 2",
+      "manifest_included": false
     },
     {
       "derivative_path": "sources/central-west-orana/cwo-16-energyco-2025-transfer-capacity-determination.txt",
@@ -1643,7 +1659,8 @@
       "publisher": "EnergyCo NSW",
       "sha256": "65c68ff1d82a01a4367c8491bb942d0805cbba281411d375fb2df56e0ab2f4c9",
       "source_id": "CWO-16",
-      "title": "Transfer Capacity Determination for the Central-West Orana REZ"
+      "title": "Transfer Capacity Determination for the Central-West Orana REZ",
+      "manifest_included": false
     },
     {
       "derivative_path": "sources/central-west-orana/cwo-17-energyco-2025-final-headroom-decision.txt",
@@ -1656,7 +1673,8 @@
       "publisher": "EnergyCo NSW",
       "sha256": "ea616d48d0a64d6d3ed5046c103fc94638c2667e70e107755c4f8be7e1ff4673",
       "source_id": "CWO-17",
-      "title": "Central-West Orana Renewable Energy Zone Headroom Assessment – Final Decision"
+      "title": "Central-West Orana Renewable Energy Zone Headroom Assessment – Final Decision",
+      "manifest_included": false
     },
     {
       "derivative_path": "sources/central-west-orana/cwo-18-aer-2025-remade-main-revenue-determination.txt",
@@ -1669,7 +1687,8 @@
       "publisher": "Australian Energy Regulator",
       "sha256": "0593086da052d6d3bf4eff6c5cb20f02b0646d4fb66a747c090f4418d3461c8e",
       "source_id": "CWO-18",
-      "title": "Revenue Determination – ACEREZ – Main Central-West Orana REZ network project – Summary report"
+      "title": "Revenue Determination – ACEREZ – Main Central-West Orana REZ network project – Summary report",
+      "manifest_included": false
     },
     {
       "derivative_path": "sources/central-west-orana/cwo-19-asl-2025-barigan-transfer-letter.txt",
@@ -1682,7 +1701,8 @@
       "publisher": "AusEnergy Services Limited",
       "sha256": "9c5dec2814c6725faee15e75afed4c17121567d70e0e4889f5c6c710825bc98c",
       "source_id": "CWO-19",
-      "title": "Central West Orana Renewable Energy Zone – Transfer of Barigan Creek from ACEREZ Partnership to Transgrid"
+      "title": "Central West Orana Renewable Energy Zone – Transfer of Barigan Creek from ACEREZ Partnership to Transgrid",
+      "manifest_included": false
     },
     {
       "derivative_path": "sources/central-west-orana/cwo-20-nsw-gazette-2025-11-480-bannaby.txt",
@@ -1695,7 +1715,8 @@
       "publisher": "NSW Government",
       "sha256": "9405a55d3db6fd04d988d9f2a99c5b58e1ee055fdb21b07878577cb387dbf1fb",
       "source_id": "CWO-20",
-      "title": "Renewable Energy Zone (Central-West Orana) Amendment Order 2025"
+      "title": "Renewable Energy Zone (Central-West Orana) Amendment Order 2025",
+      "manifest_included": false
     },
     {
       "derivative_path": "sources/central-west-orana/cwo-21-aer-2026-enabling-final-decision.txt",
@@ -1708,7 +1729,8 @@
       "publisher": "Australian Energy Regulator",
       "sha256": "082cac2d9302ad55c4de29f187f988e05501cc5479f1f07b836adcf37c766f39",
       "source_id": "CWO-21",
-      "title": "AER Final Decision – Transgrid – Enabling Central-West Orana REZ non-contestable project 2026–31"
+      "title": "AER Final Decision – Transgrid – Enabling Central-West Orana REZ non-contestable project 2026–31",
+      "manifest_included": false
     },
     {
       "derivative_path": "sources/central-west-orana/cwo-22-aemo-2026-isp-appendix-a5.txt",
@@ -1721,7 +1743,8 @@
       "publisher": "AEMO",
       "sha256": "7df9478c9ca00964219ec301552902cf4fd338c159509daa7f4b900c668364c8",
       "source_id": "CWO-22",
-      "title": "2026 Integrated System Plan, Appendix A5: Network Investments"
+      "title": "2026 Integrated System Plan, Appendix A5: Network Investments",
+      "manifest_included": false
     },
     {
       "derivative_path": "sources/central-west-orana/cwo-23-asl-2024-statement-of-reasons-main.txt",
@@ -1734,7 +1757,8 @@
       "publisher": "AEMO Services",
       "sha256": "cb2ffd7d7d00a67a81af270098766ff71ea47cb865f7ce84387ffd14b0930c2a",
       "source_id": "CWO-23",
-      "title": "Statement of Reasons – Main CWO REZ Network Infrastructure Project Authorisation"
+      "title": "Statement of Reasons – Main CWO REZ Network Infrastructure Project Authorisation",
+      "manifest_included": false
     },
     {
       "derivative_path": "sources/central-west-orana/cwo-24-transgrid-2025-system-strength-pacr.txt",
@@ -1747,7 +1771,8 @@
       "publisher": "Transgrid",
       "sha256": "6b744793b8f6fe41e8f296b646a46b2981b557ec9db6ab7432d5ea477ff3e518",
       "source_id": "CWO-24",
-      "title": "Meeting system strength requirements in NSW – Project Assessment Conclusions Report"
+      "title": "Meeting system strength requirements in NSW – Project Assessment Conclusions Report",
+      "manifest_included": false
     },
     {
       "derivative_path": "sources/central-west-orana/cwo-25-nsw-gazette-2022-591-access-scheme-order.txt",
@@ -1760,7 +1785,8 @@
       "publisher": "NSW Government",
       "sha256": "9671ee1c8cf4c80c9b460181a452b5900f92f6bb0ff6661b7fc61b2334c8c4d8",
       "source_id": "CWO-25",
-      "title": "NSW Government Gazette No 591, December 2022 (Renewable Energy Zone (Central-West Orana) Access Scheme Order 2022)"
+      "title": "NSW Government Gazette No 591, December 2022 (Renewable Energy Zone (Central-West Orana) Access Scheme Order 2022)",
+      "manifest_included": false
     },
     {
       "derivative_path": "sources/central-west-orana/cwo-26.txt",
@@ -1773,7 +1799,8 @@
       "publisher": "ACEREZ",
       "sha256": "baaab2d19fce531401a31cb82d4cc4029bb9676fc755c3fe944dd662ed258bb7",
       "source_id": "CWO-26",
-      "title": "The Project - Central-West Orana Renewable Energy Zone Transmission Network"
+      "title": "The Project - Central-West Orana Renewable Energy Zone Transmission Network",
+      "manifest_included": false
     },
     {
       "derivative_path": "sources/central-west-orana/cwo-27.txt",
@@ -1786,7 +1813,8 @@
       "publisher": "NSW Department of Planning, Housing and Infrastructure",
       "sha256": "3c20f06ad250fe3e84bf4a2db552f1ae961d85a1c12f2d1a848e935567751a67",
       "source_id": "CWO-27",
-      "title": "Consolidated Approval - Central-West Orana REZ Transmission Project (SSI 48323210)"
+      "title": "Consolidated Approval - Central-West Orana REZ Transmission Project (SSI 48323210)",
+      "manifest_included": false
     }
   ],
   "summary": {
@@ -2101,7 +2129,7 @@
     {
       "code": "CONTRADICTION",
       "finding": "The AER states the hub to project 330 kV network covers a corridor of around 150 km, and ACEREZ's own project page corroborates 150 km of 330kV transmission lines for generator connections, while the ASL statement of reasons for the Main authorisation states the 330 kV H2P network from the Energy Hubs to 13 switching stations comprises a total of approximately 166 kilometres of transmission lines.",
-      "implication": "All three figures are retained unresolved (two sources at 150 km, one at 166 km). Do not silently prefer either value for the H2P/feeder length; the chart's feeder_lines_km finding is recorded as contradicted rather than supported.",
+      "implication": "The chart's 150 km has positive support: CWO-18 p11 states a corridor of around 150 km and CWO-26 derivative line18 states 150 km of 330 kV generator-connection lines. CWO-23 p10 instead describes approximately 166 km of H2P lines, with conditional separable portions (pp12,19). Different vintages, corridor versus line measurement and conditional scope remain unreconciled. Retain an unresolved source discrepancy, not a same-boundary numerical disproof; five portions were excluded in 2025.",
       "pinpoints": "CWO-18 PDF p11; CWO-23 PDF p10; CWO-26 web",
       "severity": "warning",
       "source_ids": "CWO-18; CWO-23; CWO-26"
@@ -2124,8 +2152,8 @@
     },
     {
       "code": "AUTHOR_DECISION_REQUIRED",
-      "finding": "The chart's date cell reads 2029. No archived source states 2029: AEMO gives December 2028 for the committed project, the AER gives staged infrastructure completion between April 2028 and April 2030 with generation from December 2028 to September 2030, and the Expansion whose cost is in the same row is timed March 2033.",
-      "implication": "The author must choose which milestone the date column represents and whether one date can stand for a row that aggregates three projects.",
+      "finding": "2029 is not the AEMO 2026 committed-project timing of December 2028 (CWO-22 p23), but falls within the AER infrastructure-completion window April 2028-April 2030 (CWO-18 p12). Expansion timing is March 2033 (CWO-22 p57). The chart milestone is unspecified; a timing conflict applies only if comparing the same committed-project milestone.",
+      "implication": "Define the milestone before comparing dates; 2029 is within the AER staged window.",
       "pinpoints": "CWO-18 PDF p12; CWO-22 PDF pp23, 57",
       "severity": "warning",
       "source_ids": "CWO-18; CWO-22"

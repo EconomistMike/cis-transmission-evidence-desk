@@ -2,9 +2,11 @@
   "build": {
     "contract": "v1",
     "family_slug": "humelink",
-    "path_base": "../../../",
+    "path_base": "../",
     "project_id": "HUM-PROJECT-HUMELINK",
-    "research_cutoff": "2026-09-04"
+    "research_cutoff": "2026-09-04",
+    "audit_correction_date": "2026-09-07",
+    "revision_note": "Archived-evidence audit corrections only; research cutoff remains 2026-09-04. Upstream build_report input hashes describe the historical upstream build, not this corrected package; referenced manifests are not asserted to be included."
   },
   "components": [
     {
@@ -1894,7 +1896,7 @@
         "selected_observation": "HUM-AO-2024-ISP-COST",
         "source_ids": "HUM-AEMO-2024-ISP-A5; HUM-AER-2024-CPA2; HUM-AEMO-2023-FL3; HUM-NSW-2024-DECISION; HUM-AEMO-2026-ISP-A5",
         "status": "supported_with_boundary",
-        "supported_value": 4892
+        "supported_value": "4892 AUD million. Boundary/qualification: The only archived amount that rounds to $4.9 billion is AEMO's 2024 ISP expected cost of $4,892 million in June 2023 dollars, Class 3 (-5% to +12%), for the HumeLink candidate option. The 2026 ISP publishes no cost for HumeLink because it is now committed, so the chart's cell is two ISP vintages old. It is not the controlling regulatory amount: the AER determined $4,573.5 million across all stages (real 2022-23, excluding equity raising). Other dated amounts on other boundaries are Transgrid's $4,881m (June 2023 dollars, escalators and equity raising deducted), AEMO's feedback-loop total of $4.88 billion ($2022-23), and the NSW planning capital investment value of $4.8 billion. Whether the author intended the ISP estimate, the feedback-loop total, or a scope-complete total that also includes the separately actionable Wondalga switching station at $220 million cannot be determined from the workbook; see AUTHOR_DECISION_REQUIRED."
       },
       {
         "evidence": "AEMO's 2026 ISP states that after HumeLink is in service the transfer capability between SNSW and CNSW will increase by 2,200 MW in both directions, and the 2024 ISP reports 2,200 MW in both directions as additional network capacity. That is a direction-specific transfer-capability increase on one flow path, not a rating of the line or a single 'network capacity'. The workbook does not define the column. Different dated measures exist for the same project: 2,570 MW of additional firm capacity or generation accommodated (PADR and PACR), 2,230-2,570 MW of Tumut to Sydney transfer uplift (2020 ISP), and REZ hosting figures of +1,000 MW at Wagga Wagga (2020 ISP) and 400 MW in N5 / 2,200 MW in N6+N7 (2026 ISP).",
@@ -1904,7 +1906,7 @@
         "selected_observation": "HUM-AO-2026-ISP-CAPACITY",
         "source_ids": "HUM-AEMO-2026-ISP-A5; HUM-AEMO-2024-ISP-A5; HUM-TG-2021-PACR; HUM-AEMO-2020-ISP-A3",
         "status": "supported_with_boundary",
-        "supported_value": 2200
+        "supported_value": "2200 MW. Boundary/qualification: AEMO's 2026 ISP states that after HumeLink is in service the transfer capability between SNSW and CNSW will increase by 2,200 MW in both directions, and the 2024 ISP reports 2,200 MW in both directions as additional network capacity. That is a direction-specific transfer-capability increase on one flow path, not a rating of the line or a single 'network capacity'. The workbook does not define the column. Different dated measures exist for the same project: 2,570 MW of additional firm capacity or generation accommodated (PADR and PACR), 2,230-2,570 MW of Tumut to Sydney transfer uplift (2020 ISP), and REZ hosting figures of +1,000 MW at Wagga Wagga (2020 ISP) and 400 MW in N5 / 2,200 MW in N6+N7 (2026 ISP)."
       },
       {
         "evidence": "The NSW planning decision approves development of around 365 kilometres of new double circuit 500 kV transmission lines, and the 2026 ISP records -365 km when HumeLink moved from actionable to committed. Neither source labels the metric, so route-km versus circuit-km is unresolved and is not resolved here. Two other archived lengths exist on other bases: approximately 630 km of upgrades (2020 ISP, before the all-double-circuit refinement, where the PADR's three sections were 260 km, 110 km and 260 km) and around 360 km (AER 2022 and AER 2023). The chart defines trunk km as total distance rated at 500 kV; the Gugaa to Wagga Wagga line is built to 500 kV but initially operated at 330 kV and its length is not stated anywhere in the archive.",
@@ -1914,7 +1916,7 @@
         "selected_observation": "HUM-AO-2024-PLANNING-LENGTH",
         "source_ids": "HUM-NSW-2024-DECISION; HUM-AEMO-2026-ISP-A5; HUM-AEMO-2020-ISP-A3; HUM-AER-2022-CPA1P1; HUM-AER-2023-CPA1P2",
         "status": "supported_with_boundary",
-        "supported_value": 365
+        "supported_value": "365 km. Boundary/qualification: The NSW planning decision approves development of around 365 kilometres of new double circuit 500 kV transmission lines, and the 2026 ISP records -365 km when HumeLink moved from actionable to committed. Neither source labels the metric, so route-km versus circuit-km is unresolved and is not resolved here. Two other archived lengths exist on other bases: approximately 630 km of upgrades (2020 ISP, before the all-double-circuit refinement, where the PADR's three sections were 260 km, 110 km and 260 km) and around 360 km (AER 2022 and AER 2023). The chart defines trunk km as total distance rated at 500 kV; the Gugaa to Wagga Wagga line is built to 500 kV but initially operated at 330 kV and its length is not stated anywhere in the archive."
       },
       {
         "evidence": "The cell is the chart's own arithmetic: 4,900 divided by 365 = 13.4247. Its inputs are the chart's cost cell and trunk km cell, not two sourced observations on a common boundary, and no archived source publishes a cost per kilometre for HumeLink. Substituting the AER all-stage allowance (HUM-AO-2024-AER-ALLSTAGE, $4,573.5m) over the same 365 km gives 12.53; substituting the 2020 ISP's 630 km over the 2024 ISP cost (HUM-AO-2024-ISP-COST) gives 7.77. The ratio therefore carries the boundary problems of both inputs.",
@@ -1924,7 +1926,7 @@
         "selected_observation": null,
         "source_ids": "HUM-AEMO-2024-ISP-A5; HUM-NSW-2024-DECISION",
         "status": "derived",
-        "supported_value": 13.424657534246577
+        "supported_value": "13.424657534246577 AUD million per km (chart-derived). Boundary/qualification: The cell is the chart's own arithmetic: 4,900 divided by 365 = 13.4247. Its inputs are the chart's cost cell and trunk km cell, not two sourced observations on a common boundary, and no archived source publishes a cost per kilometre for HumeLink. Substituting the AER all-stage allowance (HUM-AO-2024-AER-ALLSTAGE, $4,573.5m) over the same 365 km gives 12.53; substituting the 2020 ISP's 630 km over the 2024 ISP cost (HUM-AO-2024-ISP-COST) gives 7.77. The ratio therefore carries the boundary problems of both inputs."
       },
       {
         "evidence": "Transgrid confirmed to the AER that in all-double-circuit Option 3C two circuits are constructed on one double circuit transmission tower, i.e. one line of towers, and that the preferred option is a complete double circuit configuration between all three substation locations. So 2 circuits is correct for a single line section. The project as a whole is three such sections: the 2026 ISP lists three new 500 kV transmission circuits between Maragle-Bannaby, Maragle-Gugaa and Gugaa-Bannaby, and the 2024 ISP adds that these circuits are built on double circuit transmission structures. Read against the workbook's definition ('New parallel 500kV circuits added') the chart's 2 counts one section, not the project. The archive uses 'lines' (2021 PACR) and 'circuits' (2026 ISP) for the same three elements and does not reconcile the terms.",
@@ -1934,7 +1936,7 @@
         "selected_observation": "HUM-AO-2021-RFI-CIRCUITS",
         "source_ids": "HUM-TG-2021-RFI1; HUM-AEMO-2026-ISP-A5; HUM-AEMO-2024-ISP-A5; HUM-TG-2021-PACR",
         "status": "supported_with_boundary",
-        "supported_value": 2
+        "supported_value": "2 circuits. Boundary/qualification: Transgrid confirmed to the AER that in all-double-circuit Option 3C two circuits are constructed on one double circuit transmission tower, i.e. one line of towers, and that the preferred option is a complete double circuit configuration between all three substation locations. So 2 circuits is correct for a single line section. The project as a whole is three such sections: the 2026 ISP lists three new 500 kV transmission circuits between Maragle-Bannaby, Maragle-Gugaa and Gugaa-Bannaby, and the 2024 ISP adds that these circuits are built on double circuit transmission structures. Read against the workbook's definition ('New parallel 500kV circuits added') the chart's 2 counts one section, not the project. The archive uses 'lines' (2021 PACR) and 'circuits' (2026 ISP) for the same three elements and does not reconcile the terms."
       },
       {
         "evidence": "The archived scope is three new 500 kV transmission lines forming an electrical loop between Maragle, Wagga Wagga and Bannaby, each constructed double-circuit, which is three lines of towers under the workbook's definition ('Number of lines of towers'), not one. The chart's 1 is correct only for a single section. A further separate line is in scope: a new 500 kV double-circuit line between Gugaa and Wagga Wagga initially operated at 330 kV. The PACR also warns that its schematic lines represent circuits and are not intended to represent transmission line routes, so the count depends on which convention the author is using.",
@@ -1944,7 +1946,7 @@
         "selected_observation": "HUM-AO-2021-PACR-LINES",
         "source_ids": "HUM-TG-2021-PACR; HUM-AEMO-2026-ISP-A5; HUM-TG-2021-RFI1",
         "status": "supported_with_boundary",
-        "supported_value": 3
+        "supported_value": "3 lines. Boundary/qualification: The archived scope is three new 500 kV transmission lines forming an electrical loop between Maragle, Wagga Wagga and Bannaby, each constructed double-circuit, which is three lines of towers under the workbook's definition ('Number of lines of towers'), not one. The chart's 1 is correct only for a single section. A further separate line is in scope: a new 500 kV double-circuit line between Gugaa and Wagga Wagga initially operated at 330 kV. The PACR also warns that its schematic lines represent circuits and are not intended to represent transmission line routes, so the count depends on which convention the author is using."
       },
       {
         "evidence": "Alternative geographically separated corridors are an author definition that no archived source supplies; per the contract alt_routes is always a judgment. The archive contains competing, unresolved statements about route diversity rather than a count: the PADR treated the loop as offering greater route-diversity opportunity while deferring final diversity decisions; Wunelli alleged the developed 3C configuration had limited diversity potential; and the AER rejected the route-diversity grounds of the dispute while requiring a different option (1C-new) to be added. September 2021 route changes removed two proposed segments and added a Gilmore Valley connection. None of this establishes a corridor count of 0 or any other number.",
@@ -1984,7 +1986,7 @@
         "selected_observation": "HUM-AO-2026-ISP-TX-MARAGLE",
         "source_ids": "HUM-AEMO-2026-ISP-A5; HUM-AEMO-2024-ISP-A5; HUM-TG-2021-PACR; HUM-AEMO-2020-ISP-A3",
         "status": "derived",
-        "supported_value": 7500
+        "supported_value": "7500 MVA (chart arithmetic, not unit count). Boundary/qualification: 7,500 MVA is the sum of the published unit ratings and counts: three 500/330 kV 1,500 MVA transformers at Maragle (HUM-AO-2026-ISP-TX-MARAGLE, count 3) plus two at the new Gugaa substation (HUM-AO-2026-ISP-TX-GUGAA, count 2), i.e. 5 x 1,500 MVA. No archived source publishes a cumulative MVA total; the addition is the chart's. The same five units are described in the 2021 PACR (as 500/330/33 kV at Maragle and the new Wagga Wagga substation) and in the 2020 ISP and 2024 ISP, so the scope has been stable since 2020."
       },
       {
         "evidence": "No archived source states that HumeLink includes no lower-voltage feeder lines, so the 0 cannot be marked supported. The archive in fact describes lower-voltage connections inside the approved scope whose route lengths are not published: a new 500 kV double-circuit line between Gugaa and Wagga Wagga initially operated at 330 kV (2026 ISP; a 330 kV double circuit connection to the existing Wagga Wagga substation in the 2021 PACR), and a demolition and rebuild of around 2 km of Line 51 as a double circuit 330 kV line (NSW planning decision). Whether these meet the workbook's feeder-line definition, and what length to record, is unresolved.",
@@ -2028,7 +2030,8 @@
       "publisher": "Australian Energy Market Operator",
       "sha256": "94dd5a31ee55ff4280af3673ea9409901a2cea0ed4b625d5af4ecb9d4ec5e029",
       "source_id": "HUM-AEMO-2018-ISP",
-      "title": "Integrated System Plan"
+      "title": "Integrated System Plan",
+      "manifest_included": false
     },
     {
       "derivative_path": "sources/humelink/text/AEMO-2018-ISP-appendices.txt",
@@ -2041,7 +2044,8 @@
       "publisher": "Australian Energy Market Operator",
       "sha256": "062acf7685bcfac64d537fb778ce9f3e2960fe3b9efa47ac43a506c0a89952c4",
       "source_id": "HUM-AEMO-2018-ISP-APP",
-      "title": "Integrated System Plan Appendices"
+      "title": "Integrated System Plan Appendices",
+      "manifest_included": false
     },
     {
       "derivative_path": "sources/humelink/text/AEMO-2020-ISP-Appendix-3.txt",
@@ -2054,7 +2058,8 @@
       "publisher": "Australian Energy Market Operator",
       "sha256": "285a01a1df766879e95d4c4bcad4044b7acfade3dfb01b1c905f5805fc877bdf",
       "source_id": "HUM-AEMO-2020-ISP-A3",
-      "title": "2020 ISP Appendix 3 Network Investments"
+      "title": "2020 ISP Appendix 3 Network Investments",
+      "manifest_included": false
     },
     {
       "derivative_path": "sources/humelink/text/AEMO-2022-HumeLink-early-works-feedback-loop.txt",
@@ -2067,7 +2072,8 @@
       "publisher": "Australian Energy Market Operator",
       "sha256": "ea75608f12d04601e699ae857f092f3f61b63bbbce7d6c2dbe01722faa7d0ace",
       "source_id": "HUM-AEMO-2022-FL1",
-      "title": "Integrated System Plan Feedback Loop Notice HumeLink Early Works"
+      "title": "Integrated System Plan Feedback Loop Notice HumeLink Early Works",
+      "manifest_included": false
     },
     {
       "derivative_path": "sources/humelink/text/AEMO-2022-ISP.txt",
@@ -2080,7 +2086,8 @@
       "publisher": "Australian Energy Market Operator",
       "sha256": "047166b47c6871dc11e081422c5f0c2c70312d4c16df29f5535ad7d269a208dc",
       "source_id": "HUM-AEMO-2022-ISP",
-      "title": "2022 Integrated System Plan"
+      "title": "2022 Integrated System Plan",
+      "manifest_included": false
     },
     {
       "derivative_path": "sources/humelink/text/AEMO-2023-HumeLink-expanded-early-works-feedback-loop.txt",
@@ -2093,7 +2100,8 @@
       "publisher": "Australian Energy Market Operator",
       "sha256": "b3e59a92c76f70a3575cf21052602856d268a817744652f4a6c2d385a382699b",
       "source_id": "HUM-AEMO-2023-FL2",
-      "title": "Integrated System Plan Feedback Loop Notice HumeLink Early Works"
+      "title": "Integrated System Plan Feedback Loop Notice HumeLink Early Works",
+      "manifest_included": false
     },
     {
       "derivative_path": "sources/humelink/text/AEMO-2023-HumeLink-full-project-feedback-loop.txt",
@@ -2106,7 +2114,8 @@
       "publisher": "Australian Energy Market Operator",
       "sha256": "12563576521c7f8af2b987061433c43326a8f7f23b55bb5a8bb71b76063f4d68",
       "source_id": "HUM-AEMO-2023-FL3",
-      "title": "Integrated System Plan Feedback Loop Notice HumeLink"
+      "title": "Integrated System Plan Feedback Loop Notice HumeLink",
+      "manifest_included": false
     },
     {
       "derivative_path": "sources/humelink/text/AEMO-2024-HumeLink-feedback-loop-notice.txt",
@@ -2119,7 +2128,8 @@
       "publisher": "Australian Energy Market Operator",
       "sha256": "76893dfb5b9ea2f764d5612f1af083217a7a0e7048d4b6c6a46656c4456793ee",
       "source_id": "HUM-AEMO-2024-FL4",
-      "title": "Integrated System Plan Feedback Loop Notice HumeLink"
+      "title": "Integrated System Plan Feedback Loop Notice HumeLink",
+      "manifest_included": false
     },
     {
       "derivative_path": "sources/humelink/text/AEMO-2024-ISP-Appendix-5.txt",
@@ -2132,7 +2142,8 @@
       "publisher": "Australian Energy Market Operator",
       "sha256": "ea99b4260753614c970abbe7b2e3f91b931f5e99d58105cbd8ca509282934149",
       "source_id": "HUM-AEMO-2024-ISP-A5",
-      "title": "2024 ISP Appendix A5 Network Investments"
+      "title": "2024 ISP Appendix A5 Network Investments",
+      "manifest_included": false
     },
     {
       "derivative_path": "sources/humelink/text/AEMO-2026-ISP-Appendix-5.txt",
@@ -2145,7 +2156,8 @@
       "publisher": "Australian Energy Market Operator",
       "sha256": "7df9478c9ca00964219ec301552902cf4fd338c159509daa7f4b900c668364c8",
       "source_id": "HUM-AEMO-2026-ISP-A5",
-      "title": "2026 ISP Appendix A5 Network Investments"
+      "title": "2026 ISP Appendix A5 Network Investments",
+      "manifest_included": false
     },
     {
       "derivative_path": "sources/humelink/text/AER-2021-HumeLink-RITT-dispute-determination.txt",
@@ -2158,7 +2170,8 @@
       "publisher": "Australian Energy Regulator",
       "sha256": "c5c57a53249929b8936790021c95f64a5dfe81f1a334a17e3445bd580898a106",
       "source_id": "HUM-AER-2021-DISPUTE-DETERMINATION",
-      "title": "Determination on RIT-T dispute Transgrid HumeLink"
+      "title": "Determination on RIT-T dispute Transgrid HumeLink",
+      "manifest_included": false
     },
     {
       "derivative_path": "sources/humelink/text/AER-2022-HumeLink-Stage1-Part1-determination.txt",
@@ -2171,7 +2184,8 @@
       "publisher": "Australian Energy Regulator",
       "sha256": "5089a9c17a1098e55ef6a419e05e906791539ced5e82cea8a2408646658997f1",
       "source_id": "HUM-AER-2022-CPA1P1",
-      "title": "Determination HumeLink Stage 1 Early Works"
+      "title": "Determination HumeLink Stage 1 Early Works",
+      "manifest_included": false
     },
     {
       "derivative_path": "sources/humelink/text/AER-2023-HumeLink-Stage1-Part2-determination.txt",
@@ -2184,7 +2198,8 @@
       "publisher": "Australian Energy Regulator",
       "sha256": "7f7e9c3bd80dc9b31617d732eeca931cfd8ed5ede7a7d10b3b8d27d338f84da5",
       "source_id": "HUM-AER-2023-CPA1P2",
-      "title": "Determination HumeLink Stage 1 Part 2"
+      "title": "Determination HumeLink Stage 1 Part 2",
+      "manifest_included": false
     },
     {
       "derivative_path": "sources/humelink/text/AER-2024-HumeLink-Stage2-determination.txt",
@@ -2197,7 +2212,8 @@
       "publisher": "Australian Energy Regulator",
       "sha256": "aabdeb4681461fdc58ca8e79ff5f425452e4532b47f62e9349c8d206cb5bbb5d",
       "source_id": "HUM-AER-2024-CPA2",
-      "title": "Determination Transgrid HumeLink Stage 2 Contingent Project"
+      "title": "Determination Transgrid HumeLink Stage 2 Contingent Project",
+      "manifest_included": false
     },
     {
       "derivative_path": "sources/humelink/text/NSW-2024-HumeLink-planning-assessment-report.txt",
@@ -2210,7 +2226,8 @@
       "publisher": "NSW Department of Planning Housing and Infrastructure",
       "sha256": "5a29c47a1f187afed38860d472e51147019b335c9f1417f618ef9d031ab25e74",
       "source_id": "HUM-NSW-2024-ASSESSMENT",
-      "title": "HumeLink State significant infrastructure assessment report"
+      "title": "HumeLink State significant infrastructure assessment report",
+      "manifest_included": false
     },
     {
       "derivative_path": "sources/humelink/text/NSW-2024-HumeLink-planning-notice-of-determination.txt",
@@ -2223,7 +2240,8 @@
       "publisher": "NSW Government Planning Housing and Infrastructure",
       "sha256": "f4134a67811e39796aae64bc2be2c505cf53d552f76a03aceae96b686bbed602",
       "source_id": "HUM-NSW-2024-DECISION",
-      "title": "Notice of decision HumeLink"
+      "title": "Notice of decision HumeLink",
+      "manifest_included": false
     },
     {
       "derivative_path": "sources/humelink/text/Transgrid-2019-HumeLink-PSCR.txt",
@@ -2236,7 +2254,8 @@
       "publisher": "Transgrid",
       "sha256": "b9eb74f53e4de76de5aa978104bf8b281ddfbbdf4fe67faeeb90071e3dc87460",
       "source_id": "HUM-TG-2019-PSCR",
-      "title": "Reinforcing the NSW Southern Shared Network to increase transfer capacity to demand centres"
+      "title": "Reinforcing the NSW Southern Shared Network to increase transfer capacity to demand centres",
+      "manifest_included": false
     },
     {
       "derivative_path": "sources/humelink/text/Transgrid-2020-HumeLink-PADR-amended.txt",
@@ -2249,7 +2268,8 @@
       "publisher": "Transgrid",
       "sha256": "63b0a1dc00d1294a2089dfa8a799e622322b9d61b6f7cdc71f087672da870950",
       "source_id": "HUM-TG-2020-PADR",
-      "title": "Reinforcing the NSW Southern Shared Network to increase transfer capacity to demand centres"
+      "title": "Reinforcing the NSW Southern Shared Network to increase transfer capacity to demand centres",
+      "manifest_included": false
     },
     {
       "derivative_path": "sources/humelink/text/Transgrid-2021-HumeLink-newsletter-September.txt",
@@ -2262,7 +2282,8 @@
       "publisher": "Transgrid",
       "sha256": "755a8e120fa8874fbe03ef1bcaa3cf6dfa191af11d68a5f24c456611fa3ed016",
       "source_id": "HUM-TG-2021-NEWS-SEP",
-      "title": "HumeLink Update"
+      "title": "HumeLink Update",
+      "manifest_included": false
     },
     {
       "derivative_path": "sources/humelink/text/Transgrid-2021-HumeLink-PACR.txt",
@@ -2275,7 +2296,8 @@
       "publisher": "Transgrid",
       "sha256": "ff1bad2422066aa94562d2acd6f73805c8c0d3b6cf9f2ec163275a8709c9f126",
       "source_id": "HUM-TG-2021-PACR",
-      "title": "Reinforcing the NSW Southern Shared Network to increase transfer capacity to demand centres (HumeLink)"
+      "title": "Reinforcing the NSW Southern Shared Network to increase transfer capacity to demand centres (HumeLink)",
+      "manifest_included": false
     },
     {
       "derivative_path": "sources/humelink/text/Transgrid-2021-HumeLink-PACR-addendum.txt",
@@ -2288,7 +2310,8 @@
       "publisher": "Transgrid",
       "sha256": "2bb70e8f74d45430612ade09de0dd970def38480a99e5fa9b30857e2cbbd9290",
       "source_id": "HUM-TG-2021-PACR-ADD",
-      "title": "Addendum to Project Assessment Conclusions Report"
+      "title": "Addendum to Project Assessment Conclusions Report",
+      "manifest_included": false
     },
     {
       "derivative_path": "sources/humelink/text/Transgrid-2021-HumeLink-AER-RFI-response-1.txt",
@@ -2301,7 +2324,8 @@
       "publisher": "Transgrid",
       "sha256": "4f794db61c209e29ab92366d2b7a6c205aa23fc20caee5ba864a11e96b9ab27a",
       "source_id": "HUM-TG-2021-RFI1",
-      "title": "Response to AER information request"
+      "title": "Response to AER information request",
+      "manifest_included": false
     },
     {
       "derivative_path": "sources/humelink/text/Transgrid-2022-HumeLink-CPA1-scope-definition.txt",
@@ -2314,7 +2338,8 @@
       "publisher": "Transgrid",
       "sha256": "004884bb264e301ceb21759be161634e5d070f06d0418a2ca8950880007b2a9d",
       "source_id": "HUM-TG-2022-CPA1-SCOPE",
-      "title": "A.2 Scope definition document HumeLink Stage 1 early works Contingent Project Application"
+      "title": "A.2 Scope definition document HumeLink Stage 1 early works Contingent Project Application",
+      "manifest_included": false
     },
     {
       "derivative_path": "sources/humelink/text/Transgrid-2024-HumeLink-CPA2-principal-application.txt",
@@ -2327,7 +2352,8 @@
       "publisher": "Transgrid",
       "sha256": "421137246621dd8752de438c8103e5320812f0f3ed7dc718d88e9fe41103e248",
       "source_id": "HUM-TG-2024-CPA2",
-      "title": "A.1 Principal Application HumeLink CPA Stage 2"
+      "title": "A.1 Principal Application HumeLink CPA Stage 2",
+      "manifest_included": false
     },
     {
       "derivative_path": "sources/humelink/text/Transgrid-2024-HumeLink-MCC-assessment.txt",
@@ -2340,7 +2366,8 @@
       "publisher": "Transgrid",
       "sha256": "bb495f07820456588f26f699722ea6dd6a01f072e67ad19023a2b1c01de2f902",
       "source_id": "HUM-TG-2024-MCCA",
-      "title": "Reinforcing the NSW Southern Shared Network HumeLink Material change in circumstance assessment"
+      "title": "Reinforcing the NSW Southern Shared Network HumeLink Material change in circumstance assessment",
+      "manifest_included": false
     },
     {
       "derivative_path": "sources/humelink/hum-tg-2025-west-news-oct.txt",
@@ -2353,7 +2380,8 @@
       "publisher": "Transgrid",
       "sha256": "292b509ece2ef2ce8ce006b006c9c370f99f93937ab0db8cdce0b3b8128de6a3",
       "source_id": "HUM-TG-2025-WEST-NEWS-OCT",
-      "title": "HumeLink West Quarterly Newsletter - October 2025"
+      "title": "HumeLink West Quarterly Newsletter - October 2025",
+      "manifest_included": false
     },
     {
       "derivative_path": "sources/humelink/text/Wunelli-2021-HumeLink-dispute-notice.txt",
@@ -2366,7 +2394,8 @@
       "publisher": "Wunelli Pty Ltd",
       "sha256": "212ba7d1f24b164a080149c1105930c5a248ce1719ff964ae4beb688e3fc433a",
       "source_id": "HUM-WUN-2021-DISPUTE",
-      "title": "Reinforcing the NSW Southern Shared Network RIT-T Notice of Dispute"
+      "title": "Reinforcing the NSW Southern Shared Network RIT-T Notice of Dispute",
+      "manifest_included": false
     }
   ],
   "summary": {

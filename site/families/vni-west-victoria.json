@@ -2,9 +2,11 @@
   "build": {
     "contract": "v1",
     "family_slug": "vni-west-victoria",
-    "path_base": "../../../",
+    "path_base": "../",
     "project_id": "VNV-PROJECT-VNI-VIC",
-    "research_cutoff": "2026-09-04"
+    "research_cutoff": "2026-09-04",
+    "audit_correction_date": "2026-09-07",
+    "revision_note": "Archived-evidence audit corrections only; research cutoff remains 2026-09-04. Upstream build_report input hashes describe the historical upstream build, not this corrected package; referenced manifests are not asserted to be included."
   },
   "components": [
     {
@@ -922,14 +924,14 @@
         "supported_value": "2031-11"
       },
       {
-        "evidence": "No source states $3.7bn for VNI West. The chart value equals half of the 2026 ISP reported $7,600m ($2025, Class 4 -30%/+50%) for 'South West NSW REZ + Interconnector' (VNV-AO-2026-REPORTED-TOTAL), split evenly across the VIC and NSW chart rows. AEMO publishes no Victoria/NSW allocation; the 2024 observations ($3,499m in 2020-21 dollars inclusive of $315m WRL, VNV-AO-2024-ISP-OPT1-COST; $3,614m modelling conversion, VNV-AO-2024-ISP-MODELLING) are also whole-interconnector and not comparable. The PACR (now archived) does state a Victoria/NSW split for its own May 2023 Option 5A estimate ($1,755m Victoria / $1,744m New South Wales, FY2020-21 dollars, VNV-AO-2023-PACR-COST) and the PADR similarly splits its superseded Option 1 estimate ($1,605m Victoria / $1,651m New South Wales, VNV-AO-2022-PADR-COST). These are captured as observations but are not used to construct a Victoria-only chart headline: they are a different vintage, price basis and RIT-T scope than the 2026 ISP's $7,600m reported total, and AEMO's current reporting still bundles 'South West NSW REZ + Interconnector' as one figure with no allocation of its own.",
+        "evidence": "The identical $3.7bn NSW and Victoria chart entries have no evidenced current state allocation. $3.7bn is not half of the 2026 $7.6bn whole-VNI total (half is $3.8bn). The author's exact derivation is unresolved. Historical PACR Option 5A allocations ($1,755m Victoria / $1,744m NSW, FY2020-21, p48) do not allocate the 2026 total; NSW $948.8m approved early works is not a NSW whole-project estimate.",
         "field": "cost_aud_billion",
         "original": 3.7,
         "pages": "HUM-AEMO-2026-ISP-A5 p52; HUM-AEMO-2024-ISP-A5 p45",
         "selected_observation": "VNV-AO-2026-REPORTED-TOTAL",
         "source_ids": "HUM-AEMO-2026-ISP-A5; HUM-AEMO-2024-ISP-A5",
         "status": "derived",
-        "supported_value": 7.6
+        "supported_value": null
       },
       {
         "evidence": "No source states a single 1.8 GW capacity for VNI West. The 2026 ISP states directional additional network capacity for the VIC-NSW component: forward 1,890 MW and reverse 1,670 MW, plus REZ V1 1,580 MW and WV2 200 MW. The only 1,800 MW in the sources is the separate third-Dinawan-transformer REZ expansion (VNV-AO-2026-CAP-THIRD-TF), a different boundary.",
@@ -939,7 +941,7 @@
         "selected_observation": "VNV-AO-2026-CAP-FORWARD",
         "source_ids": "HUM-AEMO-2026-ISP-A5",
         "status": "supported_with_boundary",
-        "supported_value": 1.89
+        "supported_value": "1.89 GW. Boundary/qualification: No source states a single 1.8 GW capacity for VNI West. The 2026 ISP states directional additional network capacity for the VIC-NSW component: forward 1,890 MW and reverse 1,670 MW, plus REZ V1 1,580 MW and WV2 200 MW. The only 1,800 MW in the sources is the separate third-Dinawan-transformer REZ expansion (VNV-AO-2026-CAP-THIRD-TF), a different boundary."
       },
       {
         "evidence": "The 2023 PACR (Table 6, p48) states an approximate indicative line length of 206 km for the Victorian portion of the preferred Option 5A route (between EnergyConnect at Dinawan and the WRL connection point), with 203 km for the New South Wales portion; a route has not yet been determined and the figure is taken as the centre of the area of interest. This is a state-portion boundary, not the chart's implied whole-project trunk length, and belongs to a different (2023, FY2020-21 dollars) vintage than the 2026 ISP figures used elsewhere on this row. The PADR's earlier, superseded Option 1 route (via Bendigo) was approximately 400 km whole-route with no state split stated.",
@@ -949,10 +951,10 @@
         "selected_observation": "VNV-AO-2023-PACR-ROUTE-LENGTH",
         "source_ids": "VNV-TRANSGRID-2023-PACR",
         "status": "supported_with_boundary",
-        "supported_value": 206
+        "supported_value": "206 km. Boundary/qualification: The 2023 PACR (Table 6, p48) states an approximate indicative line length of 206 km for the Victorian portion of the preferred Option 5A route (between EnergyConnect at Dinawan and the WRL connection point), with 203 km for the New South Wales portion; a route has not yet been determined and the figure is taken as the centre of the area of interest. This is a state-portion boundary, not the chart's implied whole-project trunk length, and belongs to a different (2023, FY2020-21 dollars) vintage than the 2026 ISP figures used elsewhere on this row. The PADR's earlier, superseded Option 1 route (via Bendigo) was approximately 400 km whole-route with no state split stated."
       },
       {
-        "evidence": "The trunk_km gap is now closed with a Victorian-portion length (206 km, PACR Table 6), but the numerator remains unusable: the chart's cost cell is a derived half of a whole-interconnector figure and no archived source states a Victoria-only cost for the current (2026 ISP) reported total that this pack treats as authoritative (see the cost_aud_billion finding and the AUTHOR_DECISION_REQUIRED warning on Victoria/NSW cost allocation). The ratio cannot be computed without constructing a Victoria-only cost, which this pack does not do.",
+        "evidence": "The identical $3.7bn NSW and Victoria chart entries have no evidenced current state allocation. $3.7bn is not half of the 2026 $7.6bn whole-VNI total (half is $3.8bn). The author's exact derivation is unresolved. Historical PACR Option 5A allocations ($1,755m Victoria / $1,744m NSW, FY2020-21, p48) do not allocate the 2026 total; NSW $948.8m approved early works is not a NSW whole-project estimate.",
         "field": "millions_per_trunk_km",
         "original": 15.416666666666668,
         "pages": "",
@@ -969,7 +971,7 @@
         "selected_observation": "VNV-AO-2026-CIRCUITS",
         "source_ids": "HUM-AEMO-2026-ISP-A5; VNV-VIC-GAZETTE-2023-S267",
         "status": "supported",
-        "supported_value": 2
+        "supported_value": "2 circuits. Boundary/qualification: The 2026 ISP describes a new 500 kV double-circuit overhead line from near Bulgana to Tragowel (near Kerang) to Dinawan; the 2024 ISP describes the same double-circuit configuration. The 2023 s16Y Ministerial Order (Schedule 1, the earliest statutory specification of the preferred option) already specified the same new 500 kV double-circuit overhead line from a new terminal station near Kerang to Dinawan and to Bulgana Terminal Station."
       },
       {
         "evidence": "The 2026 ISP describes one new 500 kV double-circuit line on the Bulgana - Tragowel - Dinawan corridor. The 2023 s16Y Ministerial Order (Schedule 1) specifies the same single new line as the VNI West preferred option; no route length is stated in either.",
@@ -979,7 +981,7 @@
         "selected_observation": "VNV-AO-2026-LINES",
         "source_ids": "HUM-AEMO-2026-ISP-A5; VNV-VIC-GAZETTE-2023-S267",
         "status": "supported",
-        "supported_value": 1
+        "supported_value": "1 lines. Boundary/qualification: The 2026 ISP describes one new 500 kV double-circuit line on the Bulgana - Tragowel - Dinawan corridor. The 2023 s16Y Ministerial Order (Schedule 1) specifies the same single new line as the VNI West preferred option; no route length is stated in either."
       },
       {
         "evidence": "Alternative-route counting is an author definition; no archived source counts 'alternative routes' the way the chart cell implies. The PADR and PACR are now archived and do describe multiple credible options: the PADR assessed Option 1 (VNI West, preferred, via Bendigo) against Option 2 (a Victorian Transmission Link brought forward ahead of VNI West); the Additional Consultation Report and PACR assessed Option 5, Option 5A (preferred) and two sensitivities (Option 5A westerly sensitivity; Option 5 without series compensation), with Options 1, 3 and 3A considered and not progressed. None of this constitutes a stated 'alt_routes' count for the chart's purposes.",
@@ -1019,7 +1021,7 @@
         "selected_observation": "VNV-AO-2026-TRAGOWEL-TF",
         "source_ids": "HUM-AEMO-2026-ISP-A5",
         "status": "derived",
-        "supported_value": 1000
+        "supported_value": "2 × 1,000 MVA per Tragowel transformer; excludes Dinawan units; chart 2,000 MVA is author arithmetic, not a source-stated total"
       },
       {
         "evidence": "No archived source states feeder or connection line lengths. The 2026 scope mentions 220 kV connections from the new Tragowel Terminal Station to the existing 220 kV lines near Kerang without any length.",
@@ -1063,7 +1065,8 @@
       "publisher": "Australian Energy Market Operator",
       "sha256": "047166b47c6871dc11e081422c5f0c2c70312d4c16df29f5535ad7d269a208dc",
       "source_id": "HUM-AEMO-2022-ISP",
-      "title": "2022 Integrated System Plan"
+      "title": "2022 Integrated System Plan",
+      "manifest_included": false
     },
     {
       "derivative_path": "sources/humelink/text/AEMO-2024-ISP-Appendix-5.txt",
@@ -1076,7 +1079,8 @@
       "publisher": "Australian Energy Market Operator",
       "sha256": "ea99b4260753614c970abbe7b2e3f91b931f5e99d58105cbd8ca509282934149",
       "source_id": "HUM-AEMO-2024-ISP-A5",
-      "title": "2024 ISP Appendix A5 Network Investments"
+      "title": "2024 ISP Appendix A5 Network Investments",
+      "manifest_included": false
     },
     {
       "derivative_path": "sources/humelink/text/AEMO-2026-ISP-Appendix-5.txt",
@@ -1089,7 +1093,8 @@
       "publisher": "Australian Energy Market Operator",
       "sha256": "7df9478c9ca00964219ec301552902cf4fd338c159509daa7f4b900c668364c8",
       "source_id": "HUM-AEMO-2026-ISP-A5",
-      "title": "2026 ISP Appendix A5 Network Investments"
+      "title": "2026 ISP Appendix A5 Network Investments",
+      "manifest_included": false
     },
     {
       "derivative_path": "sources/vni-west-victoria/vnv-transgrid-2022-padr.txt",
@@ -1102,7 +1107,8 @@
       "publisher": "AEMO Victorian Planning / Transgrid",
       "sha256": "93f1470468bad4797d4e0e74b5439145cbcba43e529224568739def4fc297ca7",
       "source_id": "VNV-TRANSGRID-2022-PADR",
-      "title": "VNI West RIT-T Project Assessment Draft Report"
+      "title": "VNI West RIT-T Project Assessment Draft Report",
+      "manifest_included": false
     },
     {
       "derivative_path": "sources/vni-west-victoria/vnv-transgrid-2023-pacr.txt",
@@ -1115,7 +1121,8 @@
       "publisher": "AEMO Victorian Planning / Transgrid",
       "sha256": "73d5ee909a76135417b3798fafa5796f72820f5734e65c6de94794b1a45cea3d",
       "source_id": "VNV-TRANSGRID-2023-PACR",
-      "title": "VNI West RIT-T Project Assessment Conclusions Report Volume 1"
+      "title": "VNI West RIT-T Project Assessment Conclusions Report Volume 1",
+      "manifest_included": false
     },
     {
       "derivative_path": "sources/vni-west-victoria/vnv-vic-gazette-2023-s060.txt",
@@ -1128,7 +1135,8 @@
       "publisher": "Victorian Government Gazette",
       "sha256": "3c95c5ff69d33b48155e1d4d6f1508d3c1dda7a297260c2ddf116bcae0b85165",
       "source_id": "VNV-VIC-GAZETTE-2023-S060",
-      "title": "VNI West and WRL Ministerial Order (Electricity (Victoria) Act 2005 s16Y), Special Gazette S60"
+      "title": "VNI West and WRL Ministerial Order (Electricity (Victoria) Act 2005 s16Y), Special Gazette S60",
+      "manifest_included": false
     },
     {
       "derivative_path": "sources/vni-west-victoria/vnv-vic-gazette-2023-s267-vni-west-wrl-ministerial-order.txt",
@@ -1141,7 +1149,8 @@
       "publisher": "Victorian Government Gazette",
       "sha256": "50fee6d5bc5ee8e22151052fc6abb68740fa8f50036b3f14b03cfa84e21ac98a",
       "source_id": "VNV-VIC-GAZETTE-2023-S267",
-      "title": "VNI West and WRL Ministerial Order (Electricity (Victoria) Act 2005 s16Y), Special Gazette S267"
+      "title": "VNI West and WRL Ministerial Order (Electricity (Victoria) Act 2005 s16Y), Special Gazette S267",
+      "manifest_included": false
     },
     {
       "derivative_path": "sources/vni-west-victoria/vnv-vic-gazette-2024-s605.txt",
@@ -1154,7 +1163,8 @@
       "publisher": "Victorian Government Gazette",
       "sha256": "2779d1540db0de41a110e6a25ef75d1bdffe84bd5b4dde6009d5a73ac92d10ce",
       "source_id": "VNV-VIC-GAZETTE-2024-S605",
-      "title": "CEO VicGrid to Assist AEMO (VNI West) Ministerial Order, Special Gazette S605 (amends s16Y Orders)"
+      "title": "CEO VicGrid to Assist AEMO (VNI West) Ministerial Order, Special Gazette S605 (amends s16Y Orders)",
+      "manifest_included": false
     },
     {
       "derivative_path": "sources/vni-west-victoria/vnv-vic-gazette-2025-s590.txt",
@@ -1167,7 +1177,8 @@
       "publisher": "Victorian Government Gazette",
       "sha256": "2255f91235e8f10a3bde52044f920fa1b52ed324b124b3ed024f8d948efc379b",
       "source_id": "VNV-VIC-GAZETTE-2025-S590",
-      "title": "VicGrid Ministerial Order Amendment, Special Gazette S590 (substitutes 'VicGrid' for 'CEO VicGrid to assist AEMO', commences 1 November 2025)"
+      "title": "VicGrid Ministerial Order Amendment, Special Gazette S590 (substitutes 'VicGrid' for 'CEO VicGrid to assist AEMO', commences 1 November 2025)",
+      "manifest_included": false
     },
     {
       "derivative_path": "sources/vni-west-victoria/vnv-vniwproject-2026-project-overview.txt",
@@ -1180,7 +1191,8 @@
       "publisher": "VNI West project (Transgrid/AVP)",
       "sha256": "04077a3a44815c3a18a70408b85f47b561b62c788bd5da16fbeef8724f804182",
       "source_id": "VNV-VNIW-2026-OVERVIEW",
-      "title": "VNI West project overview web page"
+      "title": "VNI West project overview web page",
+      "manifest_included": false
     }
   ],
   "summary": {
@@ -1342,7 +1354,7 @@
   "warnings": [
     {
       "code": "CHART_DERIVATION",
-      "finding": "The chart's $3.7bn cost cell is not a sourced value: it is half of AEMO's 2026 reported $7,600m ($2025) whole-project figure, with the same 3.7 placed in both the VNI West (VIC) and VNI West (NSW) rows.",
+      "finding": "The identical $3.7bn NSW and Victoria chart entries have no evidenced current state allocation. $3.7bn is not half of the 2026 $7.6bn whole-VNI total (half is $3.8bn). The author's exact derivation is unresolved. Historical PACR Option 5A allocations ($1,755m Victoria / $1,744m NSW, FY2020-21, p48) do not allocate the 2026 total; NSW $948.8m approved early works is not a NSW whole-project estimate.",
       "implication": "Label the cell derived and show the $7,600m whole-project figure with its boundary; do not present $3.7bn as a Victorian cost or compare it with the 2024 $3,499m/$3,614m observations.",
       "pinpoints": "HUM-AEMO-2026-ISP-A5 p52",
       "severity": "warning",

@@ -4,7 +4,9 @@ An editable, static evidence explorer for ten Australian transmission project fa
 
 **Live explorer:** <https://subtle-lasso-pwzp.here.now/> — account-owned, non-expiring hosting on here.now.
 
-**Audit status:** corrections required. The exports reconcile, but the 7 September audit found substantive scope/unit errors in some research interpretations. Read [PACKAGE-AUDIT.md](PACKAGE-AUDIT.md) before reusing the chart or its suggested replacements.
+**Audit correction: 7 September 2026.** The identified scope/unit and comparison errors have been corrected and reviewed. [PACKAGE-AUDIT.md](PACKAGE-AUDIT.md) records the checks and limitations. This is not a fresh-source certification beyond the research cut-off.
+
+The default **Latest evidence** view presents source-defined estimates and milestones. **Workbook comparison** preserves the supplied colleague workbook values and shows the corrected comparison findings. Later edits to that workbook are unknown.
 
 **Research cut-off: 4 September 2026.** This is a research snapshot, not an approved publication or a statement of current project status. The interface preserves disputed figures, gaps, assumptions and scope differences. Read the evidence notes before reusing a number.
 
@@ -26,33 +28,39 @@ Open <http://127.0.0.1:4173>. No account, server-side application or API key is 
 | `site/compact-view.js` | Compact tables, popups, summaries and interaction handling |
 | `site/deck-copy.js` | Concise UI wording and presentation-only cost summaries |
 | `site/evidence-layout.css` | Shared layout, responsive behaviour and semantic colours |
+| `site/latest-evidence.js`, `site/latest-evidence.css` | Evidence-first view, explicit observation selections and perspective switch |
+| `site/downloads.js` | JSON download without navigating away |
 | `site/evidence-pack.json` | Downloadable structured research snapshot |
 | `site/evidence-workbook.xlsx` | Downloadable evidence workbook |
 | `site/families/` | Per-project Markdown and JSON packs |
 | `site/sources/` | Archived original documents and text derivatives |
 
-After editing `evidence-desk.html`, run `npm run build` to refresh the identical `index.html` entry point. Do not edit the two HTML copies independently.
+Run `npm run build` after editing: it embeds the JSON and workbook's supplementary evidence columns into `evidence-desk.html`, then refreshes the identical `index.html` entry point. It refuses changes to the colleague's original chart inputs. Do not edit the two HTML copies independently.
 
 The default text is black; links and inline actions are blue; labels are grey. Green, amber and red denote evidence status. Long notes expand without removing their original wording. PDF links use recorded page numbers; web pages and text-line references do not invent PDF page jumps.
 
 ### Important boundary
 
-This repository contains the **editable local explorer and exported research snapshot**, not the full research/generation pipeline held on cisbox. The JSON download, embedded HTML evidence and workbook are separate exports: changing one does not regenerate the others. Until the canonical pipeline is recovered, keep research changes on a review branch and reconcile all affected exports explicitly. Presentation changes can be made in the JavaScript and CSS without changing research data.
+This repository contains the **editable local explorer and exported research snapshot**, not the full research/generation pipeline held on cisbox. The JSON and workbook remain separate research exports. `npm run build` synchronizes their presentation into HTML but does not regenerate the workbook from arbitrary JSON edits. `tools/correct-evidence.py` applies this specific, repeatable audit correction and updates the family exports and workbook; `--check` verifies coherence and original-input/source integrity without writing. It is not a replacement for the canonical research pipeline. Keep new research changes on a review branch and reconcile every affected export explicitly. Presentation changes can be made in JavaScript and CSS without changing research data.
 
 ## Test
 
 Requires Node.js 22+ and Python 3:
 
 ```sh
+python3 -m venv .venv
+source .venv/bin/activate
+python3 -m pip install -r requirements.txt
 npm ci
 npx playwright install chromium
+python3 tools/correct-evidence.py --check
 npm run build
 npm test
 ```
 
 To use an existing Chrome installation instead of downloading a browser, set `CHROMIUM_PATH` to its executable path before `npm test`.
 
-Tests cover entry-point consistency, source-file availability, all views and Workbook tabs, filters, popups, drawer focus, mobile overflow and preservation of full chart notes. They do not independently validate the research or every source-page citation.
+Tests cover entry-point consistency, source files, both perspectives, original comparison values, units/scopes, JSON download and failure behaviour, all views and Workbook tabs, filters, popups, drawer focus, mobile overflow and full chart notes. They do not independently validate every research claim or every source-page citation.
 
 ## Collaborate
 

@@ -21,7 +21,7 @@ function findingBody(f,p){
  return `<p class="finding-status"><strong>${esc(DeckCopy.status(f.status))}</strong></p>${DeckCopy.note(f.evidence,short)}<p class="finding-values">Chart: ${esc(original)}${!short&&f.supported_value!=null&&String(f.supported_value)!==String(f.original)?`<br>Evidence: ${esc(f.supported_value)}`:''}</p>${ids.map(id=>citation(id,pinpoint(id,f))).join('')||'<p>No source recorded.</p>'}`;
 }
 function cell(p,key,value){
- const f=findingOf(p,key);return `<span class="compact-cell"><span title="Original: ${esc(value)}">${esc(key==='date'?String(value??'Not stated'):fmt(value))}</span>${f?popup(p.policy_chart.original_row.project+' · '+DeckCopy.field(key),findingBody(f,p),f.status):''}</span>`;
+ const f=findingOf(p,key),formula=typeof value==='string'&&value.startsWith('=');return `<span class="compact-cell"><span title="Original: ${esc(value)}">${formula?'Original formula':esc(key==='date'?String(value??'Not stated'):fmt(value))}</span>${f?popup(p.policy_chart.original_row.project+' · '+DeckCopy.field(key),findingBody(f,p),f.status):''}</span>`;
 }
 const legend='<p class="compact-legend"><span class="signal green">✓</span> Supported <span class="signal amber">!</span> Qualified / derived / judgment <span class="signal red">×</span> Contradicted / gap · Hover, focus or tap an icon for evidence and source links.</p>';
 document.getElementById('chart-table').innerHTML=legend+table(D.chart_columns,D.packs.map(p=>`<tr ${tag(p.name,JSON.stringify(p.policy_chart))}>${D.chart_row_keys.map((k,i)=>`<td>${i===0?`<b>${esc(p.policy_chart.original_row[k])}</b>`:cell(p,k,p.policy_chart.original_row[k])}</td>`).join('')}</tr>`).concat(D.unreviewed_rows.map(r=>`<tr data-project="__none__"><td colspan="${D.chart_columns.length}">${esc(r.project)} — not reviewed: ${esc(r.values.join(' · '))}</td></tr>`)),true);
@@ -39,10 +39,17 @@ const headlines={
  'vni-west-victoria':['VIC component; integrated VNI','Early works + engagement','Forward 1.89 / reverse 1.67 GW'],
  'western-renewables-link':['Uprated WRL; VNI West separate','Anticipated; build unverified','1.46 GW renewables harnessed']
 };
+function summaryCost(p,o,f){
+ const absent={'western-renewables-link':'Standalone cost not established','vni-west-nsw':'NSW total not established','vni-west-victoria':'VIC total not established','marinus-link':'Link-only cost not established','central-west-orana':'Comparable family total not established'};
+ if(f?.supported_value==null&&absent[p.family_slug])return esc(absent[p.family_slug]);
+ if(!o)return 'Not established';
+ const scope={'humelink':'2024 planner estimate','hunter-transmission-project':'bundled Option 1','project-energyconnect':'NSW forecast only','sydney-ring-south':'nominal Option 6'}[p.family_slug]||o.label;
+ return popup((o.unit==='AUD million'?'$'+fmt(o.value)+'m':fmt(o.value)+' '+o.unit)+' · '+scope,`<p>${esc(o.boundary)}</p><p>${esc(o.price_basis||'Price basis not stated')}</p>${citation(o.source_id,o.pages)}`);
+}
 function note(label,text,p,key){const f=p&&findingOf(p,key);return popup(label,`${DeckCopy.note(text||'Not stated')}${f?findingBody(f,p):'<p>See project records for sources.</p>'}`);}
-document.getElementById('national-summary').innerHTML=legend+table(['Project family','Identity / scope','Delivery','Selected cost','Capacity','Cost verdict'],D.packs.map(p=>{
+document.getElementById('national-summary').innerHTML=legend+table(['Project family','Identity / scope','Delivery','Cost evidence','Capacity','Cost verdict'],D.packs.map(p=>{
  const f=findingOf(p,'cost_aud_billion'),o=f&&obsOf(p)[f.selected_observation],h=headlines[p.family_slug]||['Scope not summarised','Delivery not summarised','Capacity not summarised'];
- return `<tr ${tag(p.name,JSON.stringify(p.summary)+' '+JSON.stringify(f))}><td><b>${esc(p.policy_chart.original_row.project)}</b></td><td>${note(h[0],p.summary.identity)}</td><td>${note(h[1],p.summary.delivery_status,p,'date')}</td><td>${o?popup(o.unit==='AUD million'?'$'+fmt(o.value)+'m':fmt(o.value)+' '+o.unit,`<p>${esc(o.boundary)}</p><p>${esc(o.price_basis||'Price basis not stated')}</p>${citation(o.source_id,o.pages)}`):'Not selected'}</td><td>${note(h[2],p.summary.capacity,p,'network_capacity_gw')}</td><td>${f?popup(p.policy_chart.original_row.project+' · Cost',findingBody(f,p),f.status):'Not reviewed'}</td></tr>`;
+ return `<tr ${tag(p.name,JSON.stringify(p.summary)+' '+JSON.stringify(f))}><td><b>${esc(p.policy_chart.original_row.project)}</b></td><td>${note(h[0],p.summary.identity)}</td><td>${note(h[1],p.summary.delivery_status,p,'date')}</td><td>${summaryCost(p,o,f)}</td><td>${note(h[2],p.summary.capacity,p,'network_capacity_gw')}</td><td>${f?popup(p.policy_chart.original_row.project+' · Cost',findingBody(f,p),f.status):'Not reviewed'}</td></tr>`;
 }),true);
 // Cell-review citations use the same source-specific pinpoint rules.
 let reviewIndex=0;

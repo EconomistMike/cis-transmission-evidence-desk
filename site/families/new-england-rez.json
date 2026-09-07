@@ -2,9 +2,11 @@
   "build": {
     "contract": "v1",
     "family_slug": "new-england-rez",
-    "path_base": "../../../",
+    "path_base": "../",
     "project_id": "NER-PROJECT-NIP",
-    "research_cutoff": "2026-09-04"
+    "research_cutoff": "2026-09-04",
+    "audit_correction_date": "2026-09-07",
+    "revision_note": "Archived-evidence audit corrections only; research cutoff remains 2026-09-04. Upstream build_report input hashes describe the historical upstream build, not this corrected package; referenced manifests are not asserted to be included."
   },
   "components": [
     {
@@ -966,7 +968,7 @@
         "selected_observation": "NER-AO-2025-CONSULT-CIRCUITS",
         "source_ids": "NER-ENERGYCO-2025-CONSULTATION",
         "status": "derived",
-        "supported_value": 4
+        "supported_value": "4 circuits. Boundary/qualification: EnergyCo's 2025 Generation and Storage Consultation Paper states the New REZ Network Infrastructure's new transmission infrastructure comprises two new double-circuit 500 kV transmission lines to Bayswater Power Station (NER-AO-2025-CONSULT-LINES, NER-AO-2025-CONSULT-CIRCUITS). Two lines at two circuits per double-circuit line is 2 x 2 = 4 circuits, matching the chart's cell. AEMO's archived 2026 ISP delivery scope does not state this count itself; its scope list enumerates five distinct double-circuit lines (Central B - Bayswater South 500 kV DCST, Central A - Bayswater South 500 kV DCST, Central A - Central B 500 kV DCST, Central A - North 500 kV built / 330 kV operated DCST, and two 330 kV DCST lines between Central B and East), so this derivation applies to the two Bayswater-connecting lines the consultation paper describes, not the whole delivery scope. The Bulk Corridor Design Refinement report the author also cited is still not archived."
       },
       {
         "evidence": "EnergyCo's 2025 Generation and Storage Consultation Paper states the New REZ Network Infrastructure's new transmission infrastructure comprises two new double-circuit 500 kV transmission lines connecting the New England REZ to the existing NSW transmission network near Bayswater Power Station, matching the chart's cell directly. The archived 2026 ISP Appendix A5 does not state this itself; its delivery scope enumerates five distinct double-circuit lines (three at 500 kV, one 500 kV built / 330 kV operated, and 330 kV lines between Central B and East), on a different counting boundary from the chart's trunk-line count. The Bulk Corridor Design Refinement report the author also cited is still not archived.",
@@ -976,7 +978,7 @@
         "selected_observation": "NER-AO-2025-CONSULT-LINES",
         "source_ids": "NER-ENERGYCO-2025-CONSULTATION",
         "status": "supported",
-        "supported_value": 2
+        "supported_value": "2 lines. Boundary/qualification: EnergyCo's 2025 Generation and Storage Consultation Paper states the New REZ Network Infrastructure's new transmission infrastructure comprises two new double-circuit 500 kV transmission lines connecting the New England REZ to the existing NSW transmission network near Bayswater Power Station, matching the chart's cell directly. The archived 2026 ISP Appendix A5 does not state this itself; its delivery scope enumerates five distinct double-circuit lines (three at 500 kV, one 500 kV built / 330 kV operated, and 330 kV lines between Central B and East), on a different counting boundary from the chart's trunk-line count. The Bulk Corridor Design Refinement report the author also cited is still not archived."
       },
       {
         "evidence": "Route redundancy is an author definition no source supplies. The author reasons that because the two parallel lines share a single 140 m corridor with a 70 m easement each, there is no effective route redundancy; that corridor width statement is from the unarchived Bulk Corridor Design Refinement report. No archived source counts alternative routes.",
@@ -1006,7 +1008,7 @@
         "selected_observation": "NER-AO-2026-HUBS",
         "source_ids": "HUM-AEMO-2026-ISP-A5; NER-ENERGYCO-2025-BULKCORRIDOR",
         "status": "supported_with_boundary",
-        "supported_value": 5
+        "supported_value": "5 hubs. Boundary/qualification: The archived 2026 ISP delivery scope names five hubs inside CNSW-NNSW Option 1: Central B Hub, North and East Hubs, Central South Hub and Central A Hub. The count matches the chart's 5, but the chart's names and voltages (Central South 500 kV, Central Hub A 500 kV, Central Hub B 500 kV, East 330 kV, North 330 kV) come from the EnergyCo interactive map, which is not archived; the ISP describes North and East as 330 kV hubs and Central South as 500 kV without a five-hub tally of its own. The Bulk Corridor Design Refinement Report corroborates the count and its history: its main text describes 'Four energy hubs' (p25), and footnote 2 on the same page states the total number of energy hubs increased to five following the splitting of the central hub into two substations (Central Hub A and Central Hub B) in October 2025, matching the 2026 ISP's five-hub scope."
       },
       {
         "evidence": "The chart cell is a sum of two archived line items: four 500/330/33 kV 1,500 MVA transformers at Central B Hub (NER-AO-2026-TFMR-CENTRALB) plus three 500/330/33 kV 1,500 MVA transformers at Central A Hub (NER-AO-2026-TFMR-CENTRALA), that is (4 x 1,500) + (3 x 1,500) = 10,500 MVA. The four 340 MVA phase shifting transformers at Central B (NER-AO-2026-PST-CENTRALB) are a separate archived item and are not in the total. AEMO does not publish the 10,500 MVA total itself, and it states the final scope is subject to the procurement outcome.",
@@ -1016,7 +1018,7 @@
         "selected_observation": "NER-AO-2026-TFMR-CENTRALB",
         "source_ids": "HUM-AEMO-2026-ISP-A5",
         "status": "derived",
-        "supported_value": 10500
+        "supported_value": "10500 MVA (chart arithmetic, not unit count). Boundary/qualification: The chart cell is a sum of two archived line items: four 500/330/33 kV 1,500 MVA transformers at Central B Hub (NER-AO-2026-TFMR-CENTRALB) plus three 500/330/33 kV 1,500 MVA transformers at Central A Hub (NER-AO-2026-TFMR-CENTRALA), that is (4 x 1,500) + (3 x 1,500) = 10,500 MVA. The four 340 MVA phase shifting transformers at Central B (NER-AO-2026-PST-CENTRALB) are a separate archived item and are not in the total. AEMO does not publish the 10,500 MVA total itself, and it states the final scope is subject to the procurement outcome."
       },
       {
         "evidence": "No archived source documents hub-to-project feeder lines for the NIP, and none states their absence either. The author's note records only that no feeder lines are yet documented, in contrast with Central-West Orana. The zero is therefore an absence of evidence, not a sourced zero.",
@@ -1060,7 +1062,8 @@
       "publisher": "EnergyCo NSW",
       "sha256": "10b8fac054a4823c555a98589ce9e257e73f6c58d15b02f086320e08353fa03a",
       "source_id": "CWO-04",
-      "title": "Network Infrastructure Strategy for NSW"
+      "title": "Network Infrastructure Strategy for NSW",
+      "manifest_included": false
     },
     {
       "derivative_path": "sources/humelink/text/AEMO-2022-ISP.txt",
@@ -1073,7 +1076,8 @@
       "publisher": "Australian Energy Market Operator",
       "sha256": "047166b47c6871dc11e081422c5f0c2c70312d4c16df29f5535ad7d269a208dc",
       "source_id": "HUM-AEMO-2022-ISP",
-      "title": "2022 Integrated System Plan"
+      "title": "2022 Integrated System Plan",
+      "manifest_included": false
     },
     {
       "derivative_path": "sources/humelink/text/AEMO-2024-ISP-Appendix-5.txt",
@@ -1086,7 +1090,8 @@
       "publisher": "Australian Energy Market Operator",
       "sha256": "ea99b4260753614c970abbe7b2e3f91b931f5e99d58105cbd8ca509282934149",
       "source_id": "HUM-AEMO-2024-ISP-A5",
-      "title": "2024 ISP Appendix A5 Network Investments"
+      "title": "2024 ISP Appendix A5 Network Investments",
+      "manifest_included": false
     },
     {
       "derivative_path": "sources/humelink/text/AEMO-2026-ISP-Appendix-5.txt",
@@ -1099,7 +1104,8 @@
       "publisher": "Australian Energy Market Operator",
       "sha256": "7df9478c9ca00964219ec301552902cf4fd338c159509daa7f4b900c668364c8",
       "source_id": "HUM-AEMO-2026-ISP-A5",
-      "title": "2026 ISP Appendix A5 Network Investments"
+      "title": "2026 ISP Appendix A5 Network Investments",
+      "manifest_included": false
     },
     {
       "derivative_path": "sources/new-england-rez/ner-energyco-2025-bulkcorridor.txt",
@@ -1112,7 +1118,8 @@
       "publisher": "EnergyCo NSW",
       "sha256": "b89e12611d1b80f885f5a9cc0c033d9adc94c951d1040e764b94e71d58bc0f2d",
       "source_id": "NER-ENERGYCO-2025-BULKCORRIDOR",
-      "title": "New England REZ Bulk Corridor Design Refinement Report"
+      "title": "New England REZ Bulk Corridor Design Refinement Report",
+      "manifest_included": false
     },
     {
       "derivative_path": "sources/new-england-rez/ner-energyco-2025-generation-storage-consultation.txt",
@@ -1125,7 +1132,8 @@
       "publisher": "EnergyCo NSW",
       "sha256": "960198ef247ef568951de1997b2888c5f6723326be5474d9c2b1f425aa4b312a",
       "source_id": "NER-ENERGYCO-2025-CONSULTATION",
-      "title": "New England REZ Generation and Storage Consultation Paper"
+      "title": "New England REZ Generation and Storage Consultation Paper",
+      "manifest_included": false
     },
     {
       "derivative_path": "sources/new-england-rez/ner-energyco-2026-feedback-report.txt",
@@ -1138,7 +1146,8 @@
       "publisher": "EnergyCo NSW",
       "sha256": "ac200b72ff428ec334fa99a6cf72fa086a7a7caa3532a71b2b946a7d4a93037e",
       "source_id": "NER-ENERGYCO-2026-FEEDBACK",
-      "title": "New England REZ Community Feedback Report (April 2026) incl. Bulk Corridor Refinement Study"
+      "title": "New England REZ Community Feedback Report (April 2026) incl. Bulk Corridor Refinement Study",
+      "manifest_included": false
     },
     {
       "derivative_path": "sources/new-england-rez/ner-nswgov-2021-gazette-643.txt",
@@ -1151,7 +1160,8 @@
       "publisher": "NSW Government",
       "sha256": "615b1a903f21b2a79acfc7b136494ec183f0e2189a5123569c88fcb42eb021f4",
       "source_id": "NER-NSWGOV-2021-GAZETTE-643",
-      "title": "NSW Government Gazette No 643, 17 December 2021 (New England REZ declaration)"
+      "title": "NSW Government Gazette No 643, 17 December 2021 (New England REZ declaration)",
+      "manifest_included": false
     }
   ],
   "summary": {

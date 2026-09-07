@@ -7,7 +7,8 @@
     "Never add amounts across boundaries, stages, owners or families, and never convert or escalate dollars.",
     "Do not infer totals, overruns, like-for-like movement or missing values; unknown stays unknown.",
     "policy_chart.findings record the author's own chart values and their evidence status; never silently replace one.",
-    "Archived source bytes, not this generated pack, remain the canonical evidence objects."
+    "Archived source bytes, not this generated pack, remain the canonical evidence objects.",
+    "Source manifest paths are upstream provenance references, not files shipped in this package (manifest_included=false). Use local_path, derivative_path and sha256 for the included archives; obtain the full repository to resolve local files."
   ],
   "build_report": {
     "chart_rows_reviewed": 10,
@@ -250,8 +251,10 @@
       "vni-west-victoria",
       "western-renewables-link"
     ],
-    "path_base": "../../",
-    "research_cutoff": "2026-09-04"
+    "path_base": "./",
+    "research_cutoff": "2026-09-04",
+    "audit_correction_date": "2026-09-07",
+    "revision_note": "Archived-evidence audit corrections only; research cutoff remains 2026-09-04. Upstream build_report input hashes describe the historical upstream build, not this corrected package; referenced manifests are not asserted to be included."
   },
   "projects": [
     {
@@ -1406,7 +1409,7 @@
         },
         {
           "boundary": "330 kV H2P transmission network from the Energy Hubs to 13 330 kV switching stations, as described in the Main project scope underlying the Notice of Authorisation",
-          "comparability": "Contradicts the AER's 'around 150 km' H2P corridor figure (CWO-AO-2025-H2P-150KM) for what appears to be the same hub-to-project network boundary; see CONTRADICTION warning",
+          "comparability": "The chart's 150 km has positive support: CWO-18 p11 states a corridor of around 150 km and CWO-26 derivative line18 states 150 km of 330 kV generator-connection lines. CWO-23 p10 instead describes approximately 166 km of H2P lines, with conditional separable portions (pp12,19). Different vintages, corridor versus line measurement and conditional scope remain unreconciled. Retain an unresolved source discrepancy, not a same-boundary numerical disproof; five portions were excluded in 2025.",
           "date": "2024-06",
           "estimate_class": null,
           "excerpt": "comprising a total of approximately 166 kilometres \nof transmission lines (H2P Assets)",
@@ -1482,7 +1485,7 @@
         },
         {
           "boundary": "330 kV transmission lines for generator connections within the CWO REZ, as described by ACEREZ",
-          "comparability": "States the same 150 km figure as the AER's 'around 150 km' H2P corridor (CWO-AO-2025-H2P-150KM), but contradicts the ASL statement of reasons' 166 km H2P total (CWO-AO-2024-H2P-166KM) for what appears to be the same generator-connection network boundary; see CONTRADICTION warning",
+          "comparability": "The chart's 150 km has positive support: CWO-18 p11 states a corridor of around 150 km and CWO-26 derivative line18 states 150 km of 330 kV generator-connection lines. CWO-23 p10 instead describes approximately 166 km of H2P lines, with conditional separable portions (pp12,19). Different vintages, corridor versus line measurement and conditional scope remain unreconciled. Retain an unresolved source discrepancy, not a same-boundary numerical disproof; five portions were excluded in 2025.",
           "date": "2026",
           "estimate_class": null,
           "excerpt": "150 km of 330kV transmission lines for generator connections, stretching from Elong Elong in the west through to Barigan Creek in the east, via an energy hub at Merotherie.",
@@ -1560,14 +1563,14 @@
       "policy_chart": {
         "findings": [
           {
-            "evidence": "No archived source states 2029. AEMO's 2026 ISP gives December 2028 for the committed project; the AER records staged infrastructure completion between April 2028 and April 2030 with generation from December 2028 to September 2030; the Expansion, whose $855m sits in the same row's cost, is timed March 2033.",
+            "evidence": "2029 is not the AEMO 2026 committed-project timing of December 2028 (CWO-22 p23), but falls within the AER infrastructure-completion window April 2028-April 2030 (CWO-18 p12). Expansion timing is March 2033 (CWO-22 p57). The chart milestone is unspecified; a timing conflict applies only if comparing the same committed-project milestone.",
             "field": "date",
             "original": 2029,
             "pages": "CWO-22 PDF p23; CWO-18 PDF p12",
             "selected_observation": "CWO-AO-2026-COMMITTED-TIMING",
             "source_ids": "CWO-22; CWO-18",
-            "status": "contradicted",
-            "supported_value": "2028-12"
+            "status": "supported_with_boundary",
+            "supported_value": "December 2028 committed-project milestone; AER staged infrastructure completion April 2028-April 2030; expansion March 2033"
           },
           {
             "evidence": "Sum of three separately bounded observations: CWO-AO-2025-MAIN-REMADE $5,526.1m (nominal NER-equivalent, Main only, consumer-funded) + CWO-AO-2026-ENABLING-FINAL-INC $406.0m (real 2025-26, Enabling) + CWO-AO-2026-EXPANSION-COST $855m (dollar year not stated, Class 5b, not yet authorised) = $6,787.1m. No source publishes this total, the inputs are not on a common basis, and the sum omits generator-funded H2P and CSS, construction finance and the $186.8m Barigan Creek acquisition. See NON_ADDITIVE_BOUNDARIES (blocker).",
@@ -1577,7 +1580,7 @@
             "selected_observation": "CWO-AO-2025-MAIN-REMADE",
             "source_ids": "CWO-18; CWO-21; CWO-22",
             "status": "derived",
-            "supported_value": 6.7871
+            "supported_value": null
           },
           {
             "evidence": "6,000 MW is the declared intended network capacity after the December 2023 amendment, as reported by AEMO and the AER, not capacity available at the row's date: initial delivery is 4,500 MW, the AER states capacity is planned to increase to 6 GW by 2038, and the Expansion's +1,500 MW is timed March 2033. The row's single cell also sits alongside three other archived capacity measures (7.7 GW hosting, 7.7 GW aggregate access cap, 7.15/7.7 GW awarded access rights).",
@@ -1587,7 +1590,7 @@
             "selected_observation": "CWO-AO-2023-DECLARED-6GW",
             "source_ids": "CWO-22; CWO-18",
             "status": "supported_with_boundary",
-            "supported_value": 6
+            "supported_value": "6 GW. Boundary/qualification: 6,000 MW is the declared intended network capacity after the December 2023 amendment, as reported by AEMO and the AER, not capacity available at the row's date: initial delivery is 4,500 MW, the AER states capacity is planned to increase to 6 GW by 2038, and the Expansion's +1,500 MW is timed March 2033. The row's single cell also sits alongside three other archived capacity measures (7.7 GW hosting, 7.7 GW aggregate access cap, 7.15/7.7 GW awarded access rights)."
           },
           {
             "evidence": "The AER states core infrastructure comprises a 90 km transmission line corridor between Wollar and Elong Elong. The ASL statement of reasons for the Main authorisation corroborates this as the sum of two segments: an approximately 60 km line from Barigan Creek to Merotherie and an approximately 30 km line from Merotherie to Elong Elong (60+30=90). ACEREZ's own project page separately corroborates 90 km, stating the project consists of 90km of 500kV overhead transmission lines. The boundary is the Main core corridor only: it excludes the Enabling 330 kV lines and the Expansion's new Merotherie-A to Merotherie-B line, both of whose costs are inside this row's cost cell.",
@@ -1597,7 +1600,7 @@
             "selected_observation": "CWO-AO-2025-TRUNK-90KM",
             "source_ids": "CWO-18; CWO-23; CWO-26",
             "status": "supported",
-            "supported_value": 90
+            "supported_value": "90 km. Boundary/qualification: The AER states core infrastructure comprises a 90 km transmission line corridor between Wollar and Elong Elong. The ASL statement of reasons for the Main authorisation corroborates this as the sum of two segments: an approximately 60 km line from Barigan Creek to Merotherie and an approximately 30 km line from Merotherie to Elong Elong (60+30=90). ACEREZ's own project page separately corroborates 90 km, stating the project consists of 90km of 500kV overhead transmission lines. The boundary is the Main core corridor only: it excludes the Enabling 330 kV lines and the Expansion's new Merotherie-A to Merotherie-B line, both of whose costs are inside this row's cost cell."
           },
           {
             "evidence": "$6,787.1m / 90 km = 75.41. The numerator aggregates Main, Enabling and Expansion on three different bases while the denominator is the Main core corridor only, so the ratio is not a like-for-like unit cost. Inputs: CWO-AO-2025-MAIN-REMADE, CWO-AO-2026-ENABLING-FINAL-INC, CWO-AO-2026-EXPANSION-COST, CWO-AO-2025-TRUNK-90KM.",
@@ -1617,7 +1620,7 @@
             "selected_observation": null,
             "source_ids": "CWO-18; CWO-10; CWO-23",
             "status": "derived",
-            "supported_value": 4
+            "supported_value": "4 circuits. Boundary/qualification: No archived source states a circuit count. The AER states the transmission lines will be two double circuit 500 kV lines, the authorisation describes each corridor section as comprising two 500 kV double circuit lines, and the ASL statement of reasons for the Main authorisation describes both the Barigan Creek-Merotherie and Merotherie-Elong Elong segments as each comprising two 500 kV double circuit lines; 2 lines x 2 circuits = 4. Inputs: CWO-AO-2025-LINES-2, CWO-AO-2024-AUTH-DC-LINES, CWO-AO-2024-LINES-ASL-SOR."
           },
           {
             "evidence": "The AER states the transmission lines on the 90 km core corridor will be two double circuit 500 kV lines, initially operated at 330 kV between Merotherie and Elong Elong; the authorisation and the ASL statement of reasons both state the same composition for each of the Barigan Creek-Merotherie (approx. 60 km, operated at 500 kV) and Merotherie-Elong Elong (approx. 30 km, operated at 330 kV) sections.",
@@ -1627,7 +1630,7 @@
             "selected_observation": "CWO-AO-2025-LINES-2",
             "source_ids": "CWO-18; CWO-10; CWO-23",
             "status": "supported",
-            "supported_value": 2
+            "supported_value": "2 lines. Boundary/qualification: The AER states the transmission lines on the 90 km core corridor will be two double circuit 500 kV lines, initially operated at 330 kV between Merotherie and Elong Elong; the authorisation and the ASL statement of reasons both state the same composition for each of the Barigan Creek-Merotherie (approx. 60 km, operated at 500 kV) and Merotherie-Elong Elong (approx. 30 km, operated at 330 kV) sections."
           },
           {
             "evidence": "No archived source counts or assesses alternative routes for this project. The value is an author definition; see the AUTHOR_DECISION_REQUIRED warning.",
@@ -1647,7 +1650,7 @@
             "selected_observation": "CWO-AO-2024-SYNCONS-AUTH",
             "source_ids": "CWO-10; CWO-18; CWO-09; CWO-24",
             "status": "supported",
-            "supported_value": 1750
+            "supported_value": "Up to 1,750 MVA authorised Main system strength; AER 7 × 250 MVA units versus PACR 7 × 240 MVA units, unresolved rating discrepancy; not confirmed installed total"
           },
           {
             "evidence": "Archived sources name two energy hubs for the committed project (Merotherie and Elong Elong) and treat Barigan Creek as a switching station. The chart's 3 counts Merotherie-A, Merotherie-B and Elong Elong by combining the committed project with the future Expansion; no source counts hubs that way.",
@@ -1657,7 +1660,7 @@
             "selected_observation": "CWO-AO-2025-HUBS-2",
             "source_ids": "CWO-18; CWO-22",
             "status": "judgment",
-            "supported_value": 2
+            "supported_value": "2 hubs. Boundary/qualification: Archived sources name two energy hubs for the committed project (Merotherie and Elong Elong) and treat Barigan Creek as a switching station. The chart's 3 counts Merotherie-A, Merotherie-B and Elong Elong by combining the committed project with the future Expansion; no source counts hubs that way."
           },
           {
             "evidence": "No archived source states an installed transformer MVA total. The 2026 ISP states 4 x 1,500 MVA 500/330/33 kV transformers at the committed Merotherie substation, 3 x 1,500 MVA at the Expansion's Merotherie-B and 3 x 1,500 MVA at the expanded Elong Elong; (4+3+3) x 1,500 = 15,000 MVA. The figure therefore mixes committed and future scope. Inputs: CWO-AO-2026-TX-MEROTHERIE-A, CWO-AO-2026-TX-MEROTHERIE-B, CWO-AO-2026-TX-ELONG.",
@@ -1667,17 +1670,17 @@
             "selected_observation": null,
             "source_ids": "CWO-22",
             "status": "derived",
-            "supported_value": 15000
+            "supported_value": "15000 MVA (chart arithmetic, not unit count). Boundary/qualification: No archived source states an installed transformer MVA total. The 2026 ISP states 4 x 1,500 MVA 500/330/33 kV transformers at the committed Merotherie substation, 3 x 1,500 MVA at the Expansion's Merotherie-B and 3 x 1,500 MVA at the expanded Elong Elong; (4+3+3) x 1,500 = 15,000 MVA. The figure therefore mixes committed and future scope. Inputs: CWO-AO-2026-TX-MEROTHERIE-A, CWO-AO-2026-TX-MEROTHERIE-B, CWO-AO-2026-TX-ELONG."
           },
           {
-            "evidence": "Two archived sources state 150 km: the AER's remade determination states the hub to project 330 kV network will cover a corridor of around 150 km, and ACEREZ's own project page states the project consists of 150 km of 330kV transmission lines for generator connections. A third, the ASL statement of reasons for the Main authorisation, instead states the 330 kV H2P network from the Energy Hubs to 13 switching stations comprises a total of approximately 166 kilometres of transmission lines. All three describe the same H2P/generator-connection network boundary but state different lengths; the contradiction is retained unresolved. The H2P network is generator-funded and includes conditional separable portions, five of which were excluded in 2025.",
+            "evidence": "The chart's 150 km has positive support: CWO-18 p11 states a corridor of around 150 km and CWO-26 derivative line18 states 150 km of 330 kV generator-connection lines. CWO-23 p10 instead describes approximately 166 km of H2P lines, with conditional separable portions (pp12,19). Different vintages, corridor versus line measurement and conditional scope remain unreconciled. Retain an unresolved source discrepancy, not a same-boundary numerical disproof; five portions were excluded in 2025.",
             "field": "feeder_lines_km",
             "original": 150,
             "pages": "CWO-18 PDF p11; CWO-23 PDF p10; CWO-26 web",
-            "selected_observation": null,
+            "selected_observation": "CWO-AO-2025-H2P-150KM",
             "source_ids": "CWO-18; CWO-23; CWO-26",
-            "status": "contradicted",
-            "supported_value": null
+            "status": "supported_with_boundary",
+            "supported_value": "Around 150 km H2P corridor / 150 km generator-connection lines; unresolved 166 km conditional/vintage alternative"
           }
         ],
         "original_row": {
@@ -1696,7 +1699,7 @@
           "transformers": 15000,
           "trunk_km": 90
         },
-        "overall_status": "Publishable only with corrections: the cost and millions-per-trunk-km cells are non-additive author aggregates, the date cell is contradicted by every archived timing, and the hubs, circuits, transformers and alt-routes cells are author derivations or judgments rather than sourced values."
+        "overall_status": "Publishable only with corrections: the cost and millions-per-trunk-km cells are non-additive author aggregates, the date cell requires a defined milestone and the feeder length has an unresolved source discrepancy, and the hubs, circuits, transformers and alt-routes cells are author derivations or judgments rather than sourced values."
       },
       "project_id": "CWO-PROJECT-MAIN",
       "source_ids": [
@@ -2039,7 +2042,7 @@
         {
           "code": "CONTRADICTION",
           "finding": "The AER states the hub to project 330 kV network covers a corridor of around 150 km, and ACEREZ's own project page corroborates 150 km of 330kV transmission lines for generator connections, while the ASL statement of reasons for the Main authorisation states the 330 kV H2P network from the Energy Hubs to 13 switching stations comprises a total of approximately 166 kilometres of transmission lines.",
-          "implication": "All three figures are retained unresolved (two sources at 150 km, one at 166 km). Do not silently prefer either value for the H2P/feeder length; the chart's feeder_lines_km finding is recorded as contradicted rather than supported.",
+          "implication": "The chart's 150 km has positive support: CWO-18 p11 states a corridor of around 150 km and CWO-26 derivative line18 states 150 km of 330 kV generator-connection lines. CWO-23 p10 instead describes approximately 166 km of H2P lines, with conditional separable portions (pp12,19). Different vintages, corridor versus line measurement and conditional scope remain unreconciled. Retain an unresolved source discrepancy, not a same-boundary numerical disproof; five portions were excluded in 2025.",
           "pinpoints": "CWO-18 PDF p11; CWO-23 PDF p10; CWO-26 web",
           "severity": "warning",
           "source_ids": "CWO-18; CWO-23; CWO-26"
@@ -2062,8 +2065,8 @@
         },
         {
           "code": "AUTHOR_DECISION_REQUIRED",
-          "finding": "The chart's date cell reads 2029. No archived source states 2029: AEMO gives December 2028 for the committed project, the AER gives staged infrastructure completion between April 2028 and April 2030 with generation from December 2028 to September 2030, and the Expansion whose cost is in the same row is timed March 2033.",
-          "implication": "The author must choose which milestone the date column represents and whether one date can stand for a row that aggregates three projects.",
+          "finding": "2029 is not the AEMO 2026 committed-project timing of December 2028 (CWO-22 p23), but falls within the AER infrastructure-completion window April 2028-April 2030 (CWO-18 p12). Expansion timing is March 2033 (CWO-22 p57). The chart milestone is unspecified; a timing conflict applies only if comparing the same committed-project milestone.",
+          "implication": "Define the milestone before comparing dates; 2029 is within the AER staged window.",
           "pinpoints": "CWO-18 PDF p12; CWO-22 PDF pp23, 57",
           "severity": "warning",
           "source_ids": "CWO-18; CWO-22"
@@ -3992,7 +3995,7 @@
             "selected_observation": "HUM-AO-2024-ISP-COST",
             "source_ids": "HUM-AEMO-2024-ISP-A5; HUM-AER-2024-CPA2; HUM-AEMO-2023-FL3; HUM-NSW-2024-DECISION; HUM-AEMO-2026-ISP-A5",
             "status": "supported_with_boundary",
-            "supported_value": 4892
+            "supported_value": "4892 AUD million. Boundary/qualification: The only archived amount that rounds to $4.9 billion is AEMO's 2024 ISP expected cost of $4,892 million in June 2023 dollars, Class 3 (-5% to +12%), for the HumeLink candidate option. The 2026 ISP publishes no cost for HumeLink because it is now committed, so the chart's cell is two ISP vintages old. It is not the controlling regulatory amount: the AER determined $4,573.5 million across all stages (real 2022-23, excluding equity raising). Other dated amounts on other boundaries are Transgrid's $4,881m (June 2023 dollars, escalators and equity raising deducted), AEMO's feedback-loop total of $4.88 billion ($2022-23), and the NSW planning capital investment value of $4.8 billion. Whether the author intended the ISP estimate, the feedback-loop total, or a scope-complete total that also includes the separately actionable Wondalga switching station at $220 million cannot be determined from the workbook; see AUTHOR_DECISION_REQUIRED."
           },
           {
             "evidence": "AEMO's 2026 ISP states that after HumeLink is in service the transfer capability between SNSW and CNSW will increase by 2,200 MW in both directions, and the 2024 ISP reports 2,200 MW in both directions as additional network capacity. That is a direction-specific transfer-capability increase on one flow path, not a rating of the line or a single 'network capacity'. The workbook does not define the column. Different dated measures exist for the same project: 2,570 MW of additional firm capacity or generation accommodated (PADR and PACR), 2,230-2,570 MW of Tumut to Sydney transfer uplift (2020 ISP), and REZ hosting figures of +1,000 MW at Wagga Wagga (2020 ISP) and 400 MW in N5 / 2,200 MW in N6+N7 (2026 ISP).",
@@ -4002,7 +4005,7 @@
             "selected_observation": "HUM-AO-2026-ISP-CAPACITY",
             "source_ids": "HUM-AEMO-2026-ISP-A5; HUM-AEMO-2024-ISP-A5; HUM-TG-2021-PACR; HUM-AEMO-2020-ISP-A3",
             "status": "supported_with_boundary",
-            "supported_value": 2200
+            "supported_value": "2200 MW. Boundary/qualification: AEMO's 2026 ISP states that after HumeLink is in service the transfer capability between SNSW and CNSW will increase by 2,200 MW in both directions, and the 2024 ISP reports 2,200 MW in both directions as additional network capacity. That is a direction-specific transfer-capability increase on one flow path, not a rating of the line or a single 'network capacity'. The workbook does not define the column. Different dated measures exist for the same project: 2,570 MW of additional firm capacity or generation accommodated (PADR and PACR), 2,230-2,570 MW of Tumut to Sydney transfer uplift (2020 ISP), and REZ hosting figures of +1,000 MW at Wagga Wagga (2020 ISP) and 400 MW in N5 / 2,200 MW in N6+N7 (2026 ISP)."
           },
           {
             "evidence": "The NSW planning decision approves development of around 365 kilometres of new double circuit 500 kV transmission lines, and the 2026 ISP records -365 km when HumeLink moved from actionable to committed. Neither source labels the metric, so route-km versus circuit-km is unresolved and is not resolved here. Two other archived lengths exist on other bases: approximately 630 km of upgrades (2020 ISP, before the all-double-circuit refinement, where the PADR's three sections were 260 km, 110 km and 260 km) and around 360 km (AER 2022 and AER 2023). The chart defines trunk km as total distance rated at 500 kV; the Gugaa to Wagga Wagga line is built to 500 kV but initially operated at 330 kV and its length is not stated anywhere in the archive.",
@@ -4012,7 +4015,7 @@
             "selected_observation": "HUM-AO-2024-PLANNING-LENGTH",
             "source_ids": "HUM-NSW-2024-DECISION; HUM-AEMO-2026-ISP-A5; HUM-AEMO-2020-ISP-A3; HUM-AER-2022-CPA1P1; HUM-AER-2023-CPA1P2",
             "status": "supported_with_boundary",
-            "supported_value": 365
+            "supported_value": "365 km. Boundary/qualification: The NSW planning decision approves development of around 365 kilometres of new double circuit 500 kV transmission lines, and the 2026 ISP records -365 km when HumeLink moved from actionable to committed. Neither source labels the metric, so route-km versus circuit-km is unresolved and is not resolved here. Two other archived lengths exist on other bases: approximately 630 km of upgrades (2020 ISP, before the all-double-circuit refinement, where the PADR's three sections were 260 km, 110 km and 260 km) and around 360 km (AER 2022 and AER 2023). The chart defines trunk km as total distance rated at 500 kV; the Gugaa to Wagga Wagga line is built to 500 kV but initially operated at 330 kV and its length is not stated anywhere in the archive."
           },
           {
             "evidence": "The cell is the chart's own arithmetic: 4,900 divided by 365 = 13.4247. Its inputs are the chart's cost cell and trunk km cell, not two sourced observations on a common boundary, and no archived source publishes a cost per kilometre for HumeLink. Substituting the AER all-stage allowance (HUM-AO-2024-AER-ALLSTAGE, $4,573.5m) over the same 365 km gives 12.53; substituting the 2020 ISP's 630 km over the 2024 ISP cost (HUM-AO-2024-ISP-COST) gives 7.77. The ratio therefore carries the boundary problems of both inputs.",
@@ -4022,7 +4025,7 @@
             "selected_observation": null,
             "source_ids": "HUM-AEMO-2024-ISP-A5; HUM-NSW-2024-DECISION",
             "status": "derived",
-            "supported_value": 13.424657534246577
+            "supported_value": "13.424657534246577 AUD million per km (chart-derived). Boundary/qualification: The cell is the chart's own arithmetic: 4,900 divided by 365 = 13.4247. Its inputs are the chart's cost cell and trunk km cell, not two sourced observations on a common boundary, and no archived source publishes a cost per kilometre for HumeLink. Substituting the AER all-stage allowance (HUM-AO-2024-AER-ALLSTAGE, $4,573.5m) over the same 365 km gives 12.53; substituting the 2020 ISP's 630 km over the 2024 ISP cost (HUM-AO-2024-ISP-COST) gives 7.77. The ratio therefore carries the boundary problems of both inputs."
           },
           {
             "evidence": "Transgrid confirmed to the AER that in all-double-circuit Option 3C two circuits are constructed on one double circuit transmission tower, i.e. one line of towers, and that the preferred option is a complete double circuit configuration between all three substation locations. So 2 circuits is correct for a single line section. The project as a whole is three such sections: the 2026 ISP lists three new 500 kV transmission circuits between Maragle-Bannaby, Maragle-Gugaa and Gugaa-Bannaby, and the 2024 ISP adds that these circuits are built on double circuit transmission structures. Read against the workbook's definition ('New parallel 500kV circuits added') the chart's 2 counts one section, not the project. The archive uses 'lines' (2021 PACR) and 'circuits' (2026 ISP) for the same three elements and does not reconcile the terms.",
@@ -4032,7 +4035,7 @@
             "selected_observation": "HUM-AO-2021-RFI-CIRCUITS",
             "source_ids": "HUM-TG-2021-RFI1; HUM-AEMO-2026-ISP-A5; HUM-AEMO-2024-ISP-A5; HUM-TG-2021-PACR",
             "status": "supported_with_boundary",
-            "supported_value": 2
+            "supported_value": "2 circuits. Boundary/qualification: Transgrid confirmed to the AER that in all-double-circuit Option 3C two circuits are constructed on one double circuit transmission tower, i.e. one line of towers, and that the preferred option is a complete double circuit configuration between all three substation locations. So 2 circuits is correct for a single line section. The project as a whole is three such sections: the 2026 ISP lists three new 500 kV transmission circuits between Maragle-Bannaby, Maragle-Gugaa and Gugaa-Bannaby, and the 2024 ISP adds that these circuits are built on double circuit transmission structures. Read against the workbook's definition ('New parallel 500kV circuits added') the chart's 2 counts one section, not the project. The archive uses 'lines' (2021 PACR) and 'circuits' (2026 ISP) for the same three elements and does not reconcile the terms."
           },
           {
             "evidence": "The archived scope is three new 500 kV transmission lines forming an electrical loop between Maragle, Wagga Wagga and Bannaby, each constructed double-circuit, which is three lines of towers under the workbook's definition ('Number of lines of towers'), not one. The chart's 1 is correct only for a single section. A further separate line is in scope: a new 500 kV double-circuit line between Gugaa and Wagga Wagga initially operated at 330 kV. The PACR also warns that its schematic lines represent circuits and are not intended to represent transmission line routes, so the count depends on which convention the author is using.",
@@ -4042,7 +4045,7 @@
             "selected_observation": "HUM-AO-2021-PACR-LINES",
             "source_ids": "HUM-TG-2021-PACR; HUM-AEMO-2026-ISP-A5; HUM-TG-2021-RFI1",
             "status": "supported_with_boundary",
-            "supported_value": 3
+            "supported_value": "3 lines. Boundary/qualification: The archived scope is three new 500 kV transmission lines forming an electrical loop between Maragle, Wagga Wagga and Bannaby, each constructed double-circuit, which is three lines of towers under the workbook's definition ('Number of lines of towers'), not one. The chart's 1 is correct only for a single section. A further separate line is in scope: a new 500 kV double-circuit line between Gugaa and Wagga Wagga initially operated at 330 kV. The PACR also warns that its schematic lines represent circuits and are not intended to represent transmission line routes, so the count depends on which convention the author is using."
           },
           {
             "evidence": "Alternative geographically separated corridors are an author definition that no archived source supplies; per the contract alt_routes is always a judgment. The archive contains competing, unresolved statements about route diversity rather than a count: the PADR treated the loop as offering greater route-diversity opportunity while deferring final diversity decisions; Wunelli alleged the developed 3C configuration had limited diversity potential; and the AER rejected the route-diversity grounds of the dispute while requiring a different option (1C-new) to be added. September 2021 route changes removed two proposed segments and added a Gilmore Valley connection. None of this establishes a corridor count of 0 or any other number.",
@@ -4082,7 +4085,7 @@
             "selected_observation": "HUM-AO-2026-ISP-TX-MARAGLE",
             "source_ids": "HUM-AEMO-2026-ISP-A5; HUM-AEMO-2024-ISP-A5; HUM-TG-2021-PACR; HUM-AEMO-2020-ISP-A3",
             "status": "derived",
-            "supported_value": 7500
+            "supported_value": "7500 MVA (chart arithmetic, not unit count). Boundary/qualification: 7,500 MVA is the sum of the published unit ratings and counts: three 500/330 kV 1,500 MVA transformers at Maragle (HUM-AO-2026-ISP-TX-MARAGLE, count 3) plus two at the new Gugaa substation (HUM-AO-2026-ISP-TX-GUGAA, count 2), i.e. 5 x 1,500 MVA. No archived source publishes a cumulative MVA total; the addition is the chart's. The same five units are described in the 2021 PACR (as 500/330/33 kV at Maragle and the new Wagga Wagga substation) and in the 2020 ISP and 2024 ISP, so the scope has been stable since 2020."
           },
           {
             "evidence": "No archived source states that HumeLink includes no lower-voltage feeder lines, so the 0 cannot be marked supported. The archive in fact describes lower-voltage connections inside the approved scope whose route lengths are not published: a new 500 kV double-circuit line between Gugaa and Wagga Wagga initially operated at 330 kV (2026 ISP; a 330 kV double circuit connection to the existing Wagga Wagga substation in the 2021 PACR), and a demolition and rebuild of around 2 km of Line 51 as a double circuit 330 kV line (NSW planning decision). Whether these meet the workbook's feeder-line definition, and what length to record, is unresolved.",
@@ -5358,14 +5361,14 @@
             "supported_value": "November 2029"
           },
           {
-            "evidence": "AEMO 2026 ISP Appendix A5 reports $1,364 million, Class 5b (±50%), for CNSW-SNW Option 1. The chart's $1.36bn is that amount expressed in billions. The dollar year is not stated in the table, and the 2024 ISP $1,099m and the May 2023 NSW Network Infrastructure Strategy Stage 1 figure of about $1 billion are separate non-comparable observations.",
+            "evidence": "AEMO 2026 p39 reports $1,364m, Class 5b ±50%, for CNSW-SNW Option 1. Footnote79 includes Waratah Super Battery and related upgrades; do not reduce the cost boundary to the 110 km line alone. The original $1.36bn is consistent with rounding, but the dollar year is unstated. The 2024 $1,099m and 2023 approximately $1bn observations are separate non-comparable vintages.",
             "field": "cost_aud_billion",
             "original": 1.36,
             "pages": "39",
             "selected_observation": "HTP-AO-2026-COST",
             "source_ids": "HUM-AEMO-2026-ISP-A5",
             "status": "supported",
-            "supported_value": 1364
+            "supported_value": "1,364 AUD million; CNSW-SNW Option 1 including Waratah Super Battery and related upgrades (AEMO 2026 p39 footnote79); Class 5b ±50%, dollar year unstated; not the 110 km line alone"
           },
           {
             "evidence": "AEMO 2026 states forward additional network capacity of 5,000 MW, described as accommodation of additional new generation from north of Bayswater and 2/3 generation from Central West New South Wales, plus REZ N10: 2,000 MW. The boundary is a network hosting/transfer uplift across the CNSW-SNW flow path, not a rating of the single Olney-Bayswater South line; the EnergyCo strategy frames the same project as lifting supportable combined REZ output from 3 GW to as much as 8 GW.",
@@ -5375,7 +5378,7 @@
             "selected_observation": "HTP-AO-2026-CAPACITY-FORWARD",
             "source_ids": "HUM-AEMO-2026-ISP-A5; CWO-04",
             "status": "supported_with_boundary",
-            "supported_value": 5000
+            "supported_value": "5000 MW. Boundary/qualification: AEMO 2026 states forward additional network capacity of 5,000 MW, described as accommodation of additional new generation from north of Bayswater and 2/3 generation from Central West New South Wales, plus REZ N10: 2,000 MW. The boundary is a network hosting/transfer uplift across the CNSW-SNW flow path, not a rating of the single Olney-Bayswater South line; the EnergyCo strategy frames the same project as lifting supportable combined REZ output from 3 GW to as much as 8 GW."
           },
           {
             "evidence": "EnergyCo's 2026 transmission infrastructure page states 'The new overhead 500 kV transmission line will span 110 kilometres, connecting existing transmission lines at Bayswater and Olney, near Eraring,' and the EnergyCo project page states 'a new, 110-kilometre, overhead 500 kilovolt (kV) transmission line between Bayswater in the Upper Hunter and Olney in the Lower Hunter.' No AEMO ISP appendix states a route length.",
@@ -5385,7 +5388,7 @@
             "selected_observation": "HTP-AO-2026-ENERGYCO-TRUNK-KM",
             "source_ids": "HTP-ENERGYCO-2026-INFRA-PAGE; HTP-ENERGYCO-2026-PROJECT-PAGE",
             "status": "supported",
-            "supported_value": 110
+            "supported_value": "110 km. Boundary/qualification: EnergyCo's 2026 transmission infrastructure page states 'The new overhead 500 kV transmission line will span 110 kilometres, connecting existing transmission lines at Bayswater and Olney, near Eraring,' and the EnergyCo project page states 'a new, 110-kilometre, overhead 500 kilovolt (kV) transmission line between Bayswater in the Upper Hunter and Olney in the Lower Hunter.' No AEMO ISP appendix states a route length."
           },
           {
             "evidence": "The chart's ratio is cost_aud_billion times 1000 divided by trunk_km: 1.36 * 1000 / 110 = 12.363636363636365. Both inputs are now archived: cost_aud_billion is the $1,364m AEMO 2026 ISP figure (HTP-AO-2026-COST) expressed and rounded to $1.36bn, and trunk_km is the 110 km EnergyCo route length (HTP-AO-2026-ENERGYCO-TRUNK-KM). This reproduces the chart's existing cell exactly; no new value is computed.",
@@ -5395,7 +5398,7 @@
             "selected_observation": null,
             "source_ids": "HUM-AEMO-2026-ISP-A5; HTP-ENERGYCO-2026-INFRA-PAGE; HTP-ENERGYCO-2026-PROJECT-PAGE",
             "status": "derived",
-            "supported_value": 12.363636363636365
+            "supported_value": "12.363636363636365 AUD million per km (chart-derived). Boundary/qualification: The chart's ratio is cost_aud_billion times 1000 divided by trunk_km: 1.36 * 1000 / 110 = 12.363636363636365. Both inputs are now archived: cost_aud_billion is the $1,364m AEMO 2026 ISP figure (HTP-AO-2026-COST) expressed and rounded to $1.36bn, and trunk_km is the 110 km EnergyCo route length (HTP-AO-2026-ENERGYCO-TRUNK-KM). This reproduces the chart's existing cell exactly; no new value is computed."
           },
           {
             "evidence": "AEMO 2026 describes 'A new 500 kV double-circuit line between Olney substation and Bayswater South substation'; a double-circuit line carries two circuits. AEMO 2024 uses the same double-circuit wording for the near Eraring to near Bayswater line. EnergyCo's 2026 transmission infrastructure page corroborates this: 'It will be supported by double-circuit steel lattice towers,' adding a physical boundary (towers up to 85 m tall, generally spaced 300-600 m apart) without changing the two-circuit count.",
@@ -5405,7 +5408,7 @@
             "selected_observation": "HTP-AO-2026-CIRCUITS",
             "source_ids": "HUM-AEMO-2026-ISP-A5; HUM-AEMO-2024-ISP-A5; HTP-ENERGYCO-2026-INFRA-PAGE",
             "status": "supported",
-            "supported_value": 2
+            "supported_value": "2 circuits. Boundary/qualification: AEMO 2026 describes 'A new 500 kV double-circuit line between Olney substation and Bayswater South substation'; a double-circuit line carries two circuits. AEMO 2024 uses the same double-circuit wording for the near Eraring to near Bayswater line. EnergyCo's 2026 transmission infrastructure page corroborates this: 'It will be supported by double-circuit steel lattice towers,' adding a physical boundary (towers up to 85 m tall, generally spaced 300-600 m apart) without changing the two-circuit count."
           },
           {
             "evidence": "AEMO 2026 describes a single new 500 kV double-circuit line between Olney and Bayswater South substations. EnergyCo's 2026 pages corroborate a single line and add a route boundary: the transmission infrastructure page states 'The new overhead 500 kV transmission line will span 110 kilometres, connecting existing transmission lines at Bayswater and Olney, near Eraring,' and the project page adds that it will 'create a 500 kV ring of transmission infrastructure' by connecting to the state's existing 500 kV lines.",
@@ -5415,7 +5418,7 @@
             "selected_observation": "HTP-AO-2026-LINES",
             "source_ids": "HUM-AEMO-2026-ISP-A5; HTP-ENERGYCO-2026-INFRA-PAGE; HTP-ENERGYCO-2026-PROJECT-PAGE",
             "status": "supported",
-            "supported_value": 1
+            "supported_value": "1 lines. Boundary/qualification: AEMO 2026 describes a single new 500 kV double-circuit line between Olney and Bayswater South substations. EnergyCo's 2026 pages corroborate a single line and add a route boundary: the transmission infrastructure page states 'The new overhead 500 kV transmission line will span 110 kilometres, connecting existing transmission lines at Bayswater and Olney, near Eraring,' and the project page adds that it will 'create a 500 kV ring of transmission infrastructure' by connecting to the state's existing 500 kV lines."
           },
           {
             "evidence": "Route diversity is an author definition. The author counts 1 because completing the northern Sydney Ring gives an alternative 500 kV path south from Bayswater, discounting sections that parallel the existing 330 kV corridor. Archived sources make network-flow and enabled-generation claims only; no captured source counts alternative routes. The NSW Network Infrastructure Strategy's third-corridor indication for HTP Stage 2 is a map feature and does not appear in the archived text derivative, so it is not cited.",
@@ -5455,7 +5458,7 @@
             "selected_observation": "HTP-AO-2026-TRANSFORMERS",
             "source_ids": "HUM-AEMO-2026-ISP-A5; HUM-AEMO-2024-ISP-A5",
             "status": "supported",
-            "supported_value": 3000
+            "supported_value": "3000 MVA (chart arithmetic, not unit count). Boundary/qualification: AEMO 2026 and AEMO 2024 both state 'Two 500/330 kV 1,500 MVA transformers at Eraring substation'. The chart's 3000 is the two stated 1,500 MVA units expressed as a combined MVA figure; the sources state the unit rating and the count, not the combined figure."
           },
           {
             "evidence": "No archived source states that the project includes or excludes hub-to-project feeder lines. The author's zero rests on EIS Table 4.1, which was not captured (NSW planning portal returned HTTP 404 on both routes).",
@@ -5953,8 +5956,8 @@
           "value": 235
         },
         {
-          "boundary": "Stage 1 including facilitation for Stage 2; Project Marinus, excluding separately stated NWTD",
-          "comparability": "Not like-for-like with AEMO 2024",
+          "boundary": "Stage 1 including facilitation for Stage 2; Project Marinus, including NWTD; study-period valuation, not lifetime construction outturn",
+          "comparability": "Project Marinus includes Marinus Link and NWTD (2025 RIT-T pp6,18). The $5,035m Stage 1 and $2,535m Stage 2 figures, in June 2023 prices, are Project Marinus study-period costs, not Link-only construction outturn; the valuation period is shorter than project life and depends on cable 2 timing. AEMO 2026 p59 reports $7,570m in the feedback-loop context. Stage 2 Option 2A differs from Option 2: the source removes $184m Burnie-Hampshire Hills scope transferred to T2 Option 1, giving $2,351m in $2023 and $2,485m in $2025. No like-for-like Link-only replacement for the chart's $5.5bn is established; do not derive one by subtraction. Funding is not capex.",
           "date": "2025-07",
           "estimate_class": null,
           "excerpt": "The costs for Project Marinus are $5,035 million for the first stage (which includes facilitation for stage 2), and $2,535 million for completion of the second stage.",
@@ -5972,8 +5975,8 @@
           "value": 5035
         },
         {
-          "boundary": "Completion of Stage 2; Project Marinus, excluding separately stated NWTD",
-          "comparability": "Not like-for-like with AEMO 2024",
+          "boundary": "Completion of Stage 2; Project Marinus, including NWTD; study-period valuation, not lifetime construction outturn",
+          "comparability": "Project Marinus includes Marinus Link and NWTD (2025 RIT-T pp6,18). The $5,035m Stage 1 and $2,535m Stage 2 figures, in June 2023 prices, are Project Marinus study-period costs, not Link-only construction outturn; the valuation period is shorter than project life and depends on cable 2 timing. AEMO 2026 p59 reports $7,570m in the feedback-loop context. Stage 2 Option 2A differs from Option 2: the source removes $184m Burnie-Hampshire Hills scope transferred to T2 Option 1, giving $2,351m in $2023 and $2,485m in $2025. No like-for-like Link-only replacement for the chart's $5.5bn is established; do not derive one by subtraction. Funding is not capex.",
           "date": "2025-07",
           "estimate_class": null,
           "excerpt": "$2,535 million for completion of the second stage.",
@@ -5992,7 +5995,7 @@
         },
         {
           "boundary": "TasNetworks NWTD component only",
-          "comparability": "Separate delivery/funding boundary",
+          "comparability": "NWTD component included in Project Marinus stage costs; not an additional project total",
           "date": "2025-07",
           "estimate_class": null,
           "excerpt": "The NWTD component is $1,144 million for the first stage, and $525 million for the second stage.",
@@ -6011,7 +6014,7 @@
         },
         {
           "boundary": "TasNetworks NWTD component only",
-          "comparability": "Separate delivery/funding boundary",
+          "comparability": "NWTD component included in Project Marinus stage costs; not an additional project total",
           "date": "2025-07",
           "estimate_class": null,
           "excerpt": "$525 million for the second stage.",
@@ -6029,8 +6032,8 @@
           "value": 525
         },
         {
-          "boundary": "Project Marinus Stage 1 plus Stage 2, as reported in feedback-loop context",
-          "comparability": "Source-defined total; not construction outturn",
+          "boundary": "Project Marinus Stage 1 plus Stage 2 including NWTD, feedback-loop reported study-period cost; not Link-only",
+          "comparability": "Project Marinus includes Marinus Link and NWTD (2025 RIT-T pp6,18). The $5,035m Stage 1 and $2,535m Stage 2 figures, in June 2023 prices, are Project Marinus study-period costs, not Link-only construction outturn; the valuation period is shorter than project life and depends on cable 2 timing. AEMO 2026 p59 reports $7,570m in the feedback-loop context. Stage 2 Option 2A differs from Option 2: the source removes $184m Burnie-Hampshire Hills scope transferred to T2 Option 1, giving $2,351m in $2023 and $2,485m in $2025. No like-for-like Link-only replacement for the chart's $5.5bn is established; do not derive one by subtraction. Funding is not capex.",
           "date": "2026-06",
           "estimate_class": null,
           "excerpt": "the total cost (in $2023) of the project ($7,570 million), including Stage 1 ($5,035 million) and Stage 2 ($2,535 million)",
@@ -6384,14 +6387,14 @@
             "supported_value": "December 2034 (Stage 2 proponent timing); Stage 1 December 2030"
           },
           {
-            "evidence": "No archived source states $5.5 billion for any Project Marinus boundary. For the chart's own boundary (Marinus Link 1 & 2) AEMO's 2026 feedback-loop assessment reports a total project cost of $7,570 million in $2023. Separately stated observations range from $3,481m (2021 PACR, $2020) to $5,035m Stage 1 plus $2,535m Stage 2 ($2023). NWTD ($1,144m plus $525m) is excluded from these figures. Separately, the September 2025 joint ministerial release reports $3.8bn CEFC funding secured for Stage 1 at financial close, alongside unstated equity commitments from the Commonwealth, Tasmania and Victoria; this is a funding/debt figure for Stage 1 only, not a total project cost, and does not state $5.5bn for any boundary either.",
+            "evidence": "Project Marinus includes Marinus Link and NWTD (2025 RIT-T pp6,18). The $5,035m Stage 1 and $2,535m Stage 2 figures, in June 2023 prices, are Project Marinus study-period costs, not Link-only construction outturn; the valuation period is shorter than project life and depends on cable 2 timing. AEMO 2026 p59 reports $7,570m in the feedback-loop context. Stage 2 Option 2A differs from Option 2: the source removes $184m Burnie-Hampshire Hills scope transferred to T2 Option 1, giving $2,351m in $2023 and $2,485m in $2025. No like-for-like Link-only replacement for the chart's $5.5bn is established; do not derive one by subtraction. Funding is not capex.",
             "field": "cost_aud_billion",
             "original": 5.5,
             "pages": "HUM-AEMO-2026-ISP-A5 p59; ML-TN-2025-RITT p18; HUM-AEMO-2024-ISP-A5 p37; ML-TN-2021-PACR p16; ML-DCCEEW-2025-FID web",
             "selected_observation": "ML-AO-2026-FL-TOTAL",
             "source_ids": "HUM-AEMO-2026-ISP-A5; ML-TN-2025-RITT; HUM-AEMO-2024-ISP-A5; ML-TN-2021-PACR; ML-DCCEEW-2025-FID",
-            "status": "contradicted",
-            "supported_value": "7570 AUD million in $2023 (Stage 1 $5,035m plus Stage 2 $2,535m, as reported by AEMO)"
+            "status": "gap",
+            "supported_value": null
           },
           {
             "evidence": "Every archived planner and proponent source states 1,500 MW, not 1,400 MW. AEMO separately reports directional combined transfer limits with Basslink of 1,728 MW (VIC to TAS) and 2,094 MW (TAS to VIC), so 1.4 GW matches neither the nameplate nor a stated transfer limit.",
@@ -6510,7 +6513,7 @@
           "transformers": 0,
           "trunk_km": 345
         },
-        "overall_status": "The row should not be published as-is: the cost and capacity cells are contradicted by archived sources, the length and ratio cells are derivations under a definition Marinus does not meet, and five topology cells are gaps or author judgments."
+        "overall_status": "The cost replacement is unresolved on a Link-only boundary; two-link nameplate capacity is 1.5 GW, contradicting 1.4 GW. Length and ratio remain author derivations; topology gaps remain."
       },
       "project_id": "ML-PROJECT-MARINUS",
       "source_ids": [
@@ -6526,14 +6529,14 @@
         "ML-TN-2025-RITT"
       ],
       "summary": {
-        "analysis_conclusion": "Published amounts are discrete observations with different scope, price, maturity and sunk-cost treatment. They do not establish a simple cost-overrun series or one reconciled current total.",
+        "analysis_conclusion": "Project Marinus includes Marinus Link and NWTD (2025 RIT-T pp6,18). The $5,035m Stage 1 and $2,535m Stage 2 figures, in June 2023 prices, are Project Marinus study-period costs, not Link-only construction outturn; the valuation period is shorter than project life and depends on cable 2 timing. AEMO 2026 p59 reports $7,570m in the feedback-loop context. Stage 2 Option 2A differs from Option 2: the source removes $184m Burnie-Hampshire Hills scope transferred to T2 Option 1, giving $2,351m in $2023 and $2,485m in $2025. No like-for-like Link-only replacement for the chart's $5.5bn is established; do not derive one by subtraction. Funding is not capex.",
         "capacity": "Two staged 750 MW monopole HVDC links (1,500 MW total), operating alongside Basslink.",
         "completion_date": null,
         "current_status": "Stage 1 anticipated following the reported 1 August 2025 government FID; Stage 2 actionable and reassessed.",
         "delivery_status": "Stage 1 anticipated project (AEMO 2026 ISP); Stage 2 reassessed as an actionable ISP project (TAS-SEV Option 2A). No construction outturn captured.",
         "dependent_projects": "Tasmania REZ Expansion (T2 Option 1) builds the Burnie-Hampshire Hills 220 kV lines removed from Stage 2 Option 2A; North West Transmission Developments (TasNetworks); existing Basslink interconnector operates in parallel.",
         "funding_pathway": "Actionable ISP project under the RIT-T, feedback-loop and contingent-project framework. AEMO reports a Tasmanian, Victorian and Australian government Final Investment Decision for Stage 1 on 1 August 2025; the operative decision or funding instrument is not archived.",
-        "identity": "One provisional Project Marinus; Stage 1 and Stage 2 are separate components/versions pending lifecycle review.",
+        "identity": "Project Marinus comprises Marinus Link (HVDC interconnector) and TasNetworks NWTD (HVAC network works); Stage 1 and Stage 2 and Option 2/2A are distinct scope/version boundaries.",
         "name": "Project Marinus",
         "owner": "Marinus Link Pty Ltd delivers the HVDC interconnector; TasNetworks delivers the North West Transmission Developments (NWTD) HVAC works. AEMO reports both collectively as Project Marinus.",
         "schedule": "Stage 1: December 2030. Stage 2 proponent timing: December 2034.",
@@ -6644,7 +6647,7 @@
         },
         {
           "code": "CONTRADICTION",
-          "finding": "The chart row states $5.5 billion and 1.4 GW. No archived source states either value for any Project Marinus boundary; sources state 1,500 MW and, for the chart's own two-stage boundary, a reported total of $7,570 million in $2023.",
+          "finding": "Project Marinus includes Marinus Link and NWTD (2025 RIT-T pp6,18). The $5,035m Stage 1 and $2,535m Stage 2 figures, in June 2023 prices, are Project Marinus study-period costs, not Link-only construction outturn; the valuation period is shorter than project life and depends on cable 2 timing. AEMO 2026 p59 reports $7,570m in the feedback-loop context. Stage 2 Option 2A differs from Option 2: the source removes $184m Burnie-Hampshire Hills scope transferred to T2 Option 1, giving $2,351m in $2023 and $2,485m in $2025. No like-for-like Link-only replacement for the chart's $5.5bn is established; do not derive one by subtraction. Funding is not capex. Separately, the chart's 1.4 GW contradicts the source-defined two-link nameplate of 1.5 GW (AEMO 2026 pp26,58-59).",
           "implication": "The cost and capacity cells should not be published as they stand. Publish the source-defined observations with their boundaries, or mark the cells as under review.",
           "pinpoints": "HUM-AEMO-2026-ISP-A5 pp26, 58-59; ML-TN-2025-RITT p18; ML-TN-2021-PACR p77",
           "severity": "blocker",
@@ -6692,15 +6695,15 @@
         },
         {
           "code": "SHARED_ATTRIBUTION",
-          "finding": "Tasmania REZ Expansion (T2 Option 1) and the NWTD works share scope and benefits with Project Marinus but are separate actionable projects with their own cost boundaries.",
-          "implication": "Do not allocate Tasmania REZ Expansion or NWTD amounts to the Marinus chart row, and do not treat the row as covering all Tasmanian works enabled by the interconnector.",
+          "finding": "NWTD is a component of Project Marinus. Tasmania REZ Expansion is a separate actionable project receiving the Burnie-Hampshire Hills scope under Option 2A.",
+          "implication": "Do not double count NWTD within Project Marinus or re-add transferred T2 Option 1 scope to Option 2A. A Link-only cost is unresolved.",
           "pinpoints": "HUM-AEMO-2026-ISP-A5 pp26, 58-59; ML-TN-2025-RITT p18",
           "severity": "warning",
           "source_ids": "HUM-AEMO-2026-ISP-A5; ML-TN-2025-RITT"
         },
         {
           "code": "CHART_DERIVATION",
-          "finding": "The chart's 345 km trunk length is the sum of two separately stated approximate HVDC cable lengths (255 km subsea, 90 km underground), and Millions/trunk KM is a workbook formula over that sum and the contradicted cost cell.",
+          "finding": "The chart's 345 km trunk length is the sum of two separately stated approximate HVDC cable lengths (255 km subsea, 90 km underground), and Millions/trunk KM is a workbook formula over that sum and the unresolved Link-only cost cell.",
           "implication": "Neither derived cell is an archived figure. Publish the two length observations separately, and do not publish a cost per kilometre.",
           "pinpoints": "ML-TN-2025-RITT p6",
           "severity": "warning",
@@ -6708,8 +6711,8 @@
         },
         {
           "code": "AUTHOR_DECISION_REQUIRED",
-          "finding": "Three definitions are the author's to settle: whether any inclusive cost view (Project Marinus plus NWTD) may be published; whether an HVDC cable route counts as trunk kilometres when the chart defines trunk as distance rated at 500 kV; and how alt routes and hubs are counted for a subsea interconnector.",
-          "implication": "Until the author decides, the cost cell stays at the source-defined boundary, the trunk cell stays marked as derived, and alt_routes and hubs stay marked as judgments.",
+          "finding": "Project Marinus includes Marinus Link and NWTD (2025 RIT-T pp6,18). The $5,035m Stage 1 and $2,535m Stage 2 figures, in June 2023 prices, are Project Marinus study-period costs, not Link-only construction outturn; the valuation period is shorter than project life and depends on cable 2 timing. AEMO 2026 p59 reports $7,570m in the feedback-loop context. Stage 2 Option 2A differs from Option 2: the source removes $184m Burnie-Hampshire Hills scope transferred to T2 Option 1, giving $2,351m in $2023 and $2,485m in $2025. No like-for-like Link-only replacement for the chart's $5.5bn is established; do not derive one by subtraction. Funding is not capex.",
+          "implication": "The Link-only cost replacement remains unresolved; the trunk cell stays derived and alt_routes and hubs remain author judgments.",
           "pinpoints": "Policy Paper Chart notes rows 16-22; ML-TN-2025-RITT p6; HUM-AEMO-2026-ISP-A5 pp26-27",
           "severity": "warning",
           "source_ids": ""
@@ -7686,7 +7689,7 @@
             "selected_observation": "NER-AO-2025-CONSULT-CIRCUITS",
             "source_ids": "NER-ENERGYCO-2025-CONSULTATION",
             "status": "derived",
-            "supported_value": 4
+            "supported_value": "4 circuits. Boundary/qualification: EnergyCo's 2025 Generation and Storage Consultation Paper states the New REZ Network Infrastructure's new transmission infrastructure comprises two new double-circuit 500 kV transmission lines to Bayswater Power Station (NER-AO-2025-CONSULT-LINES, NER-AO-2025-CONSULT-CIRCUITS). Two lines at two circuits per double-circuit line is 2 x 2 = 4 circuits, matching the chart's cell. AEMO's archived 2026 ISP delivery scope does not state this count itself; its scope list enumerates five distinct double-circuit lines (Central B - Bayswater South 500 kV DCST, Central A - Bayswater South 500 kV DCST, Central A - Central B 500 kV DCST, Central A - North 500 kV built / 330 kV operated DCST, and two 330 kV DCST lines between Central B and East), so this derivation applies to the two Bayswater-connecting lines the consultation paper describes, not the whole delivery scope. The Bulk Corridor Design Refinement report the author also cited is still not archived."
           },
           {
             "evidence": "EnergyCo's 2025 Generation and Storage Consultation Paper states the New REZ Network Infrastructure's new transmission infrastructure comprises two new double-circuit 500 kV transmission lines connecting the New England REZ to the existing NSW transmission network near Bayswater Power Station, matching the chart's cell directly. The archived 2026 ISP Appendix A5 does not state this itself; its delivery scope enumerates five distinct double-circuit lines (three at 500 kV, one 500 kV built / 330 kV operated, and 330 kV lines between Central B and East), on a different counting boundary from the chart's trunk-line count. The Bulk Corridor Design Refinement report the author also cited is still not archived.",
@@ -7696,7 +7699,7 @@
             "selected_observation": "NER-AO-2025-CONSULT-LINES",
             "source_ids": "NER-ENERGYCO-2025-CONSULTATION",
             "status": "supported",
-            "supported_value": 2
+            "supported_value": "2 lines. Boundary/qualification: EnergyCo's 2025 Generation and Storage Consultation Paper states the New REZ Network Infrastructure's new transmission infrastructure comprises two new double-circuit 500 kV transmission lines connecting the New England REZ to the existing NSW transmission network near Bayswater Power Station, matching the chart's cell directly. The archived 2026 ISP Appendix A5 does not state this itself; its delivery scope enumerates five distinct double-circuit lines (three at 500 kV, one 500 kV built / 330 kV operated, and 330 kV lines between Central B and East), on a different counting boundary from the chart's trunk-line count. The Bulk Corridor Design Refinement report the author also cited is still not archived."
           },
           {
             "evidence": "Route redundancy is an author definition no source supplies. The author reasons that because the two parallel lines share a single 140 m corridor with a 70 m easement each, there is no effective route redundancy; that corridor width statement is from the unarchived Bulk Corridor Design Refinement report. No archived source counts alternative routes.",
@@ -7726,7 +7729,7 @@
             "selected_observation": "NER-AO-2026-HUBS",
             "source_ids": "HUM-AEMO-2026-ISP-A5; NER-ENERGYCO-2025-BULKCORRIDOR",
             "status": "supported_with_boundary",
-            "supported_value": 5
+            "supported_value": "5 hubs. Boundary/qualification: The archived 2026 ISP delivery scope names five hubs inside CNSW-NNSW Option 1: Central B Hub, North and East Hubs, Central South Hub and Central A Hub. The count matches the chart's 5, but the chart's names and voltages (Central South 500 kV, Central Hub A 500 kV, Central Hub B 500 kV, East 330 kV, North 330 kV) come from the EnergyCo interactive map, which is not archived; the ISP describes North and East as 330 kV hubs and Central South as 500 kV without a five-hub tally of its own. The Bulk Corridor Design Refinement Report corroborates the count and its history: its main text describes 'Four energy hubs' (p25), and footnote 2 on the same page states the total number of energy hubs increased to five following the splitting of the central hub into two substations (Central Hub A and Central Hub B) in October 2025, matching the 2026 ISP's five-hub scope."
           },
           {
             "evidence": "The chart cell is a sum of two archived line items: four 500/330/33 kV 1,500 MVA transformers at Central B Hub (NER-AO-2026-TFMR-CENTRALB) plus three 500/330/33 kV 1,500 MVA transformers at Central A Hub (NER-AO-2026-TFMR-CENTRALA), that is (4 x 1,500) + (3 x 1,500) = 10,500 MVA. The four 340 MVA phase shifting transformers at Central B (NER-AO-2026-PST-CENTRALB) are a separate archived item and are not in the total. AEMO does not publish the 10,500 MVA total itself, and it states the final scope is subject to the procurement outcome.",
@@ -7736,7 +7739,7 @@
             "selected_observation": "NER-AO-2026-TFMR-CENTRALB",
             "source_ids": "HUM-AEMO-2026-ISP-A5",
             "status": "derived",
-            "supported_value": 10500
+            "supported_value": "10500 MVA (chart arithmetic, not unit count). Boundary/qualification: The chart cell is a sum of two archived line items: four 500/330/33 kV 1,500 MVA transformers at Central B Hub (NER-AO-2026-TFMR-CENTRALB) plus three 500/330/33 kV 1,500 MVA transformers at Central A Hub (NER-AO-2026-TFMR-CENTRALA), that is (4 x 1,500) + (3 x 1,500) = 10,500 MVA. The four 340 MVA phase shifting transformers at Central B (NER-AO-2026-PST-CENTRALB) are a separate archived item and are not in the total. AEMO does not publish the 10,500 MVA total itself, and it states the final scope is subject to the procurement outcome."
           },
           {
             "evidence": "No archived source documents hub-to-project feeder lines for the NIP, and none states their absence either. The author's note records only that no feeder lines are yet documented, in contrast with Central-West Orana. The zero is therefore an absence of evidence, not a sourced zero.",
@@ -9291,7 +9294,7 @@
             "selected_observation": "PEC-AO-2026-TG-REOPENER-COST-TABLE3",
             "source_ids": "PEC-AER-2026-REOPEN; PEC-TG-PROJECT-PAGE; PEC-AER-2021-TRANSGRID-DECISION; PEC-AER-2021-ELECTRANET-DECISION",
             "status": "supported_with_boundary",
-            "supported_value": 3.628
+            "supported_value": "3.628 AUD billion. Boundary/qualification: TransGrid's February 2026 application to reopen its 2023-2028 revenue determination states a forecast total capital expenditure to complete PEC of $3,628 million (real 2022-23), compared with the AER's inflation-adjusted $2,121 million PEC CPA allowance; the application's own cover letter rounds this to 'the forecast cost to deliver PEC had increased to $3.6 billion.' This is TransGrid's (NSW) forecast only, following the Contract Failure Transgrid's Board recognised on 25 October 2023 - it is a proponent application, not an AER-approved amount, and it is not stated to include ElectraNet's SA component. It is on a different price basis and boundary from the AER's 2021 $457.4m/$1,817.9m ($2017-18) determinations and the AER's $2.3bn ($2017-18) descriptive figure. The chart's $4.1 billion still matches only Transgrid's separate estimate of social value generated from June 2023 to June 2026 - a benefit measure, not capital expenditure; see CHART_DERIVATION."
           },
           {
             "evidence": "No archived source states 2.2 GW on any boundary. AEMO 2026 states 150 MW after Stage 1 and that the NSW-SA interconnector is expected to increase to 800 MW in both directions after Stage 2 (0.8 GW). AEMO 2024 states Stage 1 150 MW, Stage 2 800 MW NSW-SA and 100 MW VIC-SA. The joint ElectraNet/Transgrid project page corroborates this, describing the interconnector as built with 'approximately 800MW transfer capacity'. REZ network limits (S2 800, N5 800, SWNSW1 400) are a separate measure and are not interconnector capacity.",
@@ -9301,7 +9304,7 @@
             "selected_observation": "PEC-AO-2026-CAP-POST-STAGE2",
             "source_ids": "HUM-AEMO-2026-ISP-A5; HUM-AEMO-2024-ISP-A5; PEC-JOINT-2026-PROJECT-PAGE",
             "status": "contradicted",
-            "supported_value": 0.8
+            "supported_value": "0.8 GW. Boundary/qualification: No archived source states 2.2 GW on any boundary. AEMO 2026 states 150 MW after Stage 1 and that the NSW-SA interconnector is expected to increase to 800 MW in both directions after Stage 2 (0.8 GW). AEMO 2024 states Stage 1 150 MW, Stage 2 800 MW NSW-SA and 100 MW VIC-SA. The joint ElectraNet/Transgrid project page corroborates this, describing the interconnector as built with 'approximately 800MW transfer capacity'. REZ network limits (S2 800, N5 800, SWNSW1 400) are a separate measure and are not interconnector capacity."
           },
           {
             "evidence": "No archived source defines a trunk length for Project EnergyConnect. Transgrid's June 2026 completion release now gives an exact match for the chart's 160 km - 'the first stage of the project, a 160km line from the South Australian border to Buronga and into Victoria' - but that is Stage 1 alone, not the interconnector trunk. Other archived candidates remain: the 165 km Dinawan to Wagga Wagga section (built 500 kV, operated at 330 kV); 135 km (SA border-Buronga) and 375 km (Buronga-Dinawan), both 330 kV; and a 540 km Buronga-Wagga Wagga Stage 2 line per the same release. Both Transgrid's own page and the joint ElectraNet/Transgrid project page state the whole project stretches 900 km, and both Transgrid's completion release and the joint project page separately state a 700 km NSW section (which does not reconcile arithmetically with the individually stated 330/500 kV section lengths, 675 km). The South Australian route length is not stated anywhere in the archive.",
@@ -9311,10 +9314,10 @@
             "selected_observation": "PEC-AO-2026-TG-STAGE1-KM-160",
             "source_ids": "PEC-TG-PROJECT-PAGE; PEC-TG-2026-COMPLETION; PEC-JOINT-2026-PROJECT-PAGE",
             "status": "supported_with_boundary",
-            "supported_value": 160
+            "supported_value": "160 km. Boundary/qualification: No archived source defines a trunk length for Project EnergyConnect. Transgrid's June 2026 completion release now gives an exact match for the chart's 160 km - 'the first stage of the project, a 160km line from the South Australian border to Buronga and into Victoria' - but that is Stage 1 alone, not the interconnector trunk. Other archived candidates remain: the 165 km Dinawan to Wagga Wagga section (built 500 kV, operated at 330 kV); 135 km (SA border-Buronga) and 375 km (Buronga-Dinawan), both 330 kV; and a 540 km Buronga-Wagga Wagga Stage 2 line per the same release. Both Transgrid's own page and the joint ElectraNet/Transgrid project page state the whole project stretches 900 km, and both Transgrid's completion release and the joint project page separately state a 700 km NSW section (which does not reconcile arithmetically with the individually stated 330/500 kV section lengths, 675 km). The South Australian route length is not stated anywhere in the archive."
           },
           {
-            "evidence": "25.625 = 4,100 / 160, dividing the chart's cost cell by its trunk cell. Both inputs fail: the $4.1bn is a social-value figure (PEC-AO-2026-TG-SOCIAL-VALUE), not capital cost, and 160 km is one 165 km section of a 900 km project (PEC-AO-2026-KM-DINAWAN-WAGGA, PEC-AO-2026-KM-WHOLE). No archived source supports a $/km for PEC on any boundary.",
+            "evidence": "25.625 = 4,100 / 160 uses the chart inputs, but $4.1bn is social value, not capex (PEC-TG-PROJECT-PAGE line1705), and 160 km is the sourced Stage 1 SA-border-Buronga-and-Victoria length (PEC-TG-2026-COMPLETION lines161-166), not the whole 900 km project. A social-benefit numerator and a stage-only denominator do not establish project construction cost per km.",
             "field": "millions_per_trunk_km",
             "original": 25.625,
             "pages": "PEC-TG-PROJECT-PAGE derivative lines 1207, 1327, 1705",
@@ -9331,16 +9334,16 @@
             "selected_observation": "PEC-AO-2024-CIRCUITS",
             "source_ids": "HUM-AEMO-2024-ISP-A5; HUM-AEMO-2026-ISP-A5",
             "status": "supported_with_boundary",
-            "supported_value": 2
+            "supported_value": "2 circuits. Boundary/qualification: AEMO describes every new PEC line section as double-circuit, so 2 is right per line but is not a project-wide count. It is also time-dependent: Bundey-Buronga was strung one circuit initially in Stage 1, and the second 330 kV circuit is closed in Stage 2."
           },
           {
-            "evidence": "AEMO's delivery scope lists at least five distinct new or converted line sections at three voltages: Robertstown-Bundey 275 kV, Bundey-Buronga 330 kV, Buronga-Red Cliffs 220 kV, Buronga-Dinawan 330 kV and Dinawan-Wagga Wagga 500 kV, plus the Para-Robertstown 275 kV conversion into Tungkillo. No source states a project-wide line count of 1.",
+            "evidence": "AEMO 2024 pp17-18 lists multiple physical sections/lines. The chart's one line may instead mean one interconnector corridor; no chart-compatible line count is established without defining lines versus sections/corridors.",
             "field": "lines",
             "original": 1,
             "pages": "HUM-AEMO-2024-ISP-A5 pp17-18",
             "selected_observation": "PEC-AO-2024-LINES",
             "source_ids": "HUM-AEMO-2024-ISP-A5",
-            "status": "contradicted",
+            "status": "supported_with_boundary",
             "supported_value": null
           },
           {
@@ -9361,7 +9364,7 @@
             "selected_observation": "PEC-AO-2026-SYNCON-DINAWAN",
             "source_ids": "HUM-AEMO-2026-ISP-A5; PEC-TG-PROJECT-PAGE",
             "status": "contradicted",
-            "supported_value": 100
+            "supported_value": "2 × 100 MVA per synchronous condenser at Dinawan; additional 1 × 100 MVA at Buronga; not a certified project-wide total"
           },
           {
             "evidence": "No archived source counts hubs for PEC. AEMO states a new 330 kV switching station at Dinawan and Transgrid a new 4.5ha substation near Bundure; whether a switching station counts as a hub is an author definition, so 0 is neither supported nor contradicted.",
@@ -9384,14 +9387,14 @@
             "supported_value": null
           },
           {
-            "evidence": "The project scope includes a new Buronga to Red Cliffs 220 kV double-circuit line, and Transgrid records the upgrade of about 22 km of existing 220 kV transmission between Buronga substation and Red Cliffs, replacing lattice structures with 79 monopoles. Lower-voltage works are not zero.",
+            "evidence": "Approximately 22 km of 220 kV Buronga-Red Cliffs works is sourced (AEMO 2024 p18; Transgrid project page line1262). It is an interconnector spur: zero lower-voltage works is false, but whether this is a hub-to-project feeder depends on the chart definition. No unqualified REZ-feeder replacement is established.",
             "field": "feeder_lines_km",
             "original": 0,
             "pages": "HUM-AEMO-2024-ISP-A5 p18; PEC-TG-PROJECT-PAGE derivative line 1262",
             "selected_observation": "PEC-AO-2026-KM-REDCLIFFS",
             "source_ids": "HUM-AEMO-2024-ISP-A5; PEC-TG-PROJECT-PAGE",
-            "status": "contradicted",
-            "supported_value": 22
+            "status": "supported_with_boundary",
+            "supported_value": "Approximately 22 km 220 kV Buronga-Red Cliffs works; feeder classification unresolved"
           }
         ],
         "original_row": {
@@ -9410,7 +9413,7 @@
           "transformers": 0,
           "trunk_km": 160
         },
-        "overall_status": "Not publishable as-is: the cost cell rests on a social-value figure rather than capital expenditure, and the closest capital-cost figure archived - TransGrid's own $3,628m (real 2022-23) February 2026 reopener forecast - is a proponent application on a different boundary and basis, not an approved amount. The trunk length now matches a sourced 160 km Stage 1 section exactly, but that is one section of a nine-hundred-kilometre project, and the capacity, syncon, transformer and feeder cells are contradicted by the archived scope."
+        "overall_status": "Not publishable as-is: the cost cell rests on a social-value figure rather than capital expenditure, and the closest capital-cost figure archived - TransGrid's own $3,628m (real 2022-23) February 2026 reopener forecast - is a proponent application on a different boundary and basis, not an approved amount. The trunk length now matches a sourced 160 km Stage 1 section exactly, but that is one section of a nine-hundred-kilometre project, and the capacity, syncon and transformer cells conflict on stated source boundaries; line and feeder counts require explicit definitions."
       },
       "project_id": "PEC-PROJECT-PEC",
       "source_ids": [
@@ -9429,7 +9432,7 @@
         "PEC-TG-PROJECT-PAGE"
       ],
       "summary": {
-        "analysis_conclusion": "There is no archived reconciled whole-project cost for Project EnergyConnect. The AER approved two separate owner allowances, $457.4m ($2017-18) for ElectraNet and $1,817.9m ($2017-18) for TransGrid, and described the project as a proposed $2.3 billion ($2017-18) contingent project. TransGrid's February 2026 reopener application, citing Contract Failure, now states a forecast cost of $3,628 million (real 2022-23) to complete TransGrid's own NSW component - a proponent forecast, not an AER-approved amount, and not stated to include ElectraNet's SA works. The chart's $4.1 billion still matches only Transgrid's separate social-value claim, a benefit measure, and the chart's 160 km now has an exact but different match: Transgrid's June 2026 completion release states Stage 1 (SA border to Buronga and into Victoria) is 160 km, distinct from the 165 km Dinawan-Wagga Wagga section and from the 900 km whole-route figure both Transgrid's page and the joint ElectraNet/Transgrid project page state. Cost, capacity, trunk km, syncons, transformers and feeder km all fail on the chart's boundaries.",
+        "analysis_conclusion": "There is no archived reconciled whole-project cost for Project EnergyConnect. The AER approved two separate owner allowances, $457.4m ($2017-18) for ElectraNet and $1,817.9m ($2017-18) for TransGrid, and described the project as a proposed $2.3 billion ($2017-18) contingent project. TransGrid's February 2026 reopener application, citing Contract Failure, now states a forecast cost of $3,628 million (real 2022-23) to complete TransGrid's own NSW component - a proponent forecast, not an AER-approved amount, and not stated to include ElectraNet's SA works. The chart's $4.1 billion still matches only Transgrid's separate social-value claim, a benefit measure, and the chart's 160 km now has an exact but different match: Transgrid's June 2026 completion release states Stage 1 (SA border to Buronga and into Victoria) is 160 km, distinct from the 165 km Dinawan-Wagga Wagga section and from the 900 km whole-route figure both Transgrid's page and the joint ElectraNet/Transgrid project page state. Cost, capacity, trunk km, syncons and transformers require the stated boundary corrections; line and feeder interpretations depend on explicit chart definitions.",
         "capacity": "Stage 1 delivered 150 MW in both directions between NSW and SA. AEMO expects the NSW-SA interconnector to increase to 800 MW in both directions after Stage 2, with a further 100 MW VIC-SA. No archived source states 2.2 GW.",
         "completion_date": "Stage 1: late 2024 (AEMO 2026), though Transgrid's June 2026 completion release instead says Stage 1 'became operational last year' (i.e. 2025) - a contradiction, not resolved. Stage 2: November 2027 (AEMO 2026), against Transgrid's stated NEM integration by end of 2026; Transgrid's June 2026 release reports the 700 km NSW section construction complete and Stage 2 being energised ahead of inter-network testing",
         "current_status": "Committed and under construction. AEMO's 2026 ISP records Stage 1 (Robertstown via Bundey to Buronga) completed in late 2024 and Stage 2 committed for November 2027; Transgrid's own page states construction and initial energisation are complete with NEM integration due by the end of 2026. Transgrid's June 2026 completion release states construction of the 700 km NSW section is complete and Stage 2 (the 540 km Buronga-Wagga Wagga line) is being energised ahead of AEMO's inter-network testing; it also states Stage 1 (160 km, SA border to Buronga and into Victoria) 'became operational last year', which is not consistent with AEMO's 'late 2024' Stage 1 completion date. Transgrid's February 2026 application to reopen its 2023-2028 revenue determination cites Contract Failure (recognised by Transgrid's Board on 25 October 2023) and a resulting forecast cost increase to $3,628 million (real 2022-23) to complete the NSW component; this reopener had not been decided by the AER as at the 2026-09-03 research cutoff.",
@@ -9830,7 +9833,7 @@
           "id": "SRS-AO-2026-PADR-OPT6-NOMINAL",
           "label": "Transgrid PADR Option 6 capital cost estimate as quoted by AEMO",
           "measure": "cost",
-          "notes": "The PADR itself is unavailable (SRS-TG-PADR-DIRECT, SRS-TG-PADR-INDEX). AEMO's quoted figure is $3,519m, not the $3,510m used in the chart notes.",
+          "notes": "The immutable chart contains $3.5bn, consistent with rounding the PADR Option 6 total of $3,519m nominal to one decimal billion. The source gives Stage 1 $1,135m and Stage 2 $2,384m, P50 Class 5 (+100%/-50%). AEMO's $2,621m modelled $2025 amount is a different price basis. No transcription error is established (PADR p38; AEMO 2026 p43).",
           "pages": "43",
           "price_basis": "Nominal (Transgrid applied escalation to 2025-26 estimates)",
           "project_id": "SRS-PROJECT-SRS",
@@ -10355,7 +10358,7 @@
         },
         {
           "boundary": "PADR Option 6 Stage 1: South Creek substation and power flow control (series reactors)",
-          "comparability": "Matches the ODP timing for Stage 1 works",
+          "comparability": "PADR earliest-service modelling in 2030/31 differs from the June 2026 ISP ODP, which delivers both stages in 2033-34 (AEMO 2026 Appendix A5 PDF p44, footnote 87). Keep the modelling and ODP milestone definitions separate.",
           "date": "2026-05",
           "estimate_class": null,
           "excerpt": "The earliest in-service timing modelled for Option 6 is 2030/31 for the South Creek substation and power flow control scope (series reactors), and 2033/34 for the 500 kV transmission line, which considers early works commencing in 2026/27.",
@@ -10709,14 +10712,14 @@
             "supported_value": "2033-34"
           },
           {
-            "evidence": "Transgrid's own PADR, now archived, states Option 6's total capital cost as $3,519 million (nominal), staged $1,135 million (Stage 1) then $2,384 million (Stage 2), confirming AEMO's secondhand quotation. The chart's 3.510 is not a separate basis but a transcription of 3,519 (last two digits transposed). For the same combined boundary AEMO separately states a modelled $2025 cost of $2,621 million ($261m + $2,360m), which is not comparable on price basis.",
+            "evidence": "The immutable chart contains $3.5bn, consistent with rounding the PADR Option 6 total of $3,519m nominal to one decimal billion. The source gives Stage 1 $1,135m and Stage 2 $2,384m, P50 Class 5 (+100%/-50%). AEMO's $2,621m modelled $2025 amount is a different price basis. No transcription error is established (PADR p38; AEMO 2026 p43).",
             "field": "cost_aud_billion",
             "original": 3.5,
             "pages": "38; 43",
             "selected_observation": "SRS-AO-2026-PADR-OPT6-TOTAL-COST",
             "source_ids": "SRS-TG-2026-PADR; HUM-AEMO-2026-ISP-A5",
-            "status": "contradicted",
-            "supported_value": 3.519
+            "status": "supported_with_boundary",
+            "supported_value": "3.519 AUD billion nominal, combined Option 6 stages; P50 Class 5 (+100%/-50%); rounds to original 3.5"
           },
           {
             "evidence": "Transgrid's own PADR states that Option 6, once complete (both stages), adds 3.6 GW of transfer capacity to the network supplying Sydney, Newcastle and Wollongong from the south -- the same combined Option 6 boundary the chart represents. AEMO separately states 3,600 MW forward capacity for the 500 kV transmission option alone (and 0 MW for the power flow control option).",
@@ -10726,7 +10729,7 @@
             "selected_observation": "SRS-AO-2026-PADR-OPT6-CAPACITY",
             "source_ids": "SRS-TG-2026-PADR; HUM-AEMO-2026-ISP-A5",
             "status": "supported",
-            "supported_value": 3.6
+            "supported_value": "3.6 GW. Boundary/qualification: Transgrid's own PADR states that Option 6, once complete (both stages), adds 3.6 GW of transfer capacity to the network supplying Sydney, Newcastle and Wollongong from the south -- the same combined Option 6 boundary the chart represents. AEMO separately states 3,600 MW forward capacity for the 500 kV transmission option alone (and 0 MW for the power flow control option)."
           },
           {
             "evidence": "Transgrid's June 2023 Southern Ring preparatory-activities document, now archived, states the new Bannaby-South Creek 500 kV double-circuit overhead line has an approximate length of 114 km, matching the chart exactly. However, Transgrid's later 2026 PADR instead describes the (differently scoped) Bannaby-South Western Sydney 500 kV line as extending to around 100 km, so the chart's figure reflects an earlier preparatory estimate, not the current PADR boundary.",
@@ -10736,10 +10739,10 @@
             "selected_observation": "SRS-AO-2023-SOUTHERN-RING-LENGTH",
             "source_ids": "SRS-TG-2023-SOUTHERN-RING; SRS-TG-2026-PADR",
             "status": "supported_with_boundary",
-            "supported_value": 114
+            "supported_value": "114 km. Boundary/qualification: Transgrid's June 2023 Southern Ring preparatory-activities document, now archived, states the new Bannaby-South Creek 500 kV double-circuit overhead line has an approximate length of 114 km, matching the chart exactly. However, Transgrid's later 2026 PADR instead describes the (differently scoped) Bannaby-South Western Sydney 500 kV line as extending to around 100 km, so the chart's figure reflects an earlier preparatory estimate, not the current PADR boundary."
           },
           {
-            "evidence": "Chart derivation: 3,510 AUD million divided by 114 km. The 114 km is now archived (2023 Southern Ring document), but 3,510 does not match any archived cost figure -- the archived PADR Table 3.1 total for Option 6 is $3,519 million, not $3,510 million -- so the ratio as calculated still cannot be validated.",
+            "evidence": "30.70175438596491 = 3,500 AUD million / 114 km, using the original chart inputs. The $3.5bn rounds the $3,519m nominal Option 6 estimate; the 114 km is the older 2023 preparatory route, whereas the 2026 PADR describes approximately 100 km on a revised scope. This mixed-vintage ratio is not a reconciled source-defined construction cost per km (2023 preparatory p8; PADR pp38,43).",
             "field": "millions_per_trunk_km",
             "original": 30.70175438596491,
             "pages": "",
@@ -10756,7 +10759,7 @@
             "selected_observation": "SRS-AO-2026-CIRCUITS",
             "source_ids": "HUM-AEMO-2026-ISP-A5; SRS-TG-2026-PADR",
             "status": "supported",
-            "supported_value": 2
+            "supported_value": "2 circuits. Boundary/qualification: AEMO describes a double-circuit 330 kV transmission line built to a 500 kV design between Bannaby and the new South Creek switching station. Transgrid's own PADR (Option 6) confirms a new 500 kV double circuit transmission line between Bannaby and South Western Sydney."
           },
           {
             "evidence": "A single new line is described between Bannaby and South Creek; the other line works are rebuild and reconductoring of existing lines. Transgrid's own PADR (Option 6) likewise describes a single new 500 kV double circuit line commissioned from Bannaby to South Western Sydney.",
@@ -10766,7 +10769,7 @@
             "selected_observation": "SRS-AO-2026-LINES",
             "source_ids": "HUM-AEMO-2026-ISP-A5; SRS-TG-2026-PADR",
             "status": "supported",
-            "supported_value": 1
+            "supported_value": "1 lines. Boundary/qualification: A single new line is described between Bannaby and South Creek; the other line works are rebuild and reconductoring of existing lines. Transgrid's own PADR (Option 6) likewise describes a single new 500 kV double circuit line commissioned from Bannaby to South Western Sydney."
           },
           {
             "evidence": "No archived source counts alternative routes. The count rests on the author's reading of PADR Figure 2.5 and on the Sydney Ring providing a 500 kV path north of Bannaby; shared South Creek and Sydney West interfaces mean geographic diversity is not equivalent to independent route security.",
@@ -10806,7 +10809,7 @@
             "selected_observation": "SRS-AO-2026-TRANSFORMERS",
             "source_ids": "HUM-AEMO-2026-ISP-A5",
             "status": "supported",
-            "supported_value": 4500
+            "supported_value": "4500 MVA (chart arithmetic, not unit count). Boundary/qualification: AEMO states the South Creek 330/500 kV upgrade includes three 1,500 MVA 500/330 kV transformers, corresponding to the chart's 4,500 MVA installed rating. The superseded 2024 alternative Option 2 had two 1,500 MVA units."
           },
           {
             "evidence": "No archived source states hub-to-project feeder lines or their length for this project; the archived scope contains no feeder lines, but the absence is not stated as a quantity.",
@@ -10835,7 +10838,7 @@
           "transformers": 4500,
           "trunk_km": 114
         },
-        "overall_status": "Topology, capacity, circuits, lines and transformer cells are supported by the archived 2026 ISP and, for capacity, circuits and lines, corroborated directly by Transgrid's now-archived PADR; the cost cell is contradicted because the chart's $3.510bn does not match either archived total ($2,621m AEMO-modelled or $3,519m PADR Option 6, of which $3.510bn is a transcription); trunk_km is supported with a boundary caveat (2023 preparatory 114 km vs the PADR's newer ~100 km), and the millions-per-trunk-km ratio still rests on the chart's unverified 3,510 figure, so the row should not be published as-is."
+        "overall_status": "Cost supported with rounding and price-basis qualifications. Topology, capacity and transformer evidence retained; 114 km preparatory versus approximately 100 km PADR scope remains unreconciled. 30.70175438596491 = 3,500 AUD million / 114 km, using the original chart inputs. The $3.5bn rounds the $3,519m nominal Option 6 estimate; the 114 km is the older 2023 preparatory route, whereas the 2026 PADR describes approximately 100 km on a revised scope. This mixed-vintage ratio is not a reconciled source-defined construction cost per km (2023 preparatory p8; PADR pp38,43)."
       },
       "project_id": "SRS-PROJECT-SRS",
       "source_ids": [
@@ -10846,7 +10849,7 @@
         "SRS-TG-2026-PROJECTPAGE"
       ],
       "summary": {
-        "analysis_conclusion": "The archived record supports the topology, capacity and transformer figures. Transgrid's own PADR is now archived and directly states Option 6's total capital cost as $3,519 million (nominal), staged $1,135 million then $2,384 million; this confirms AEMO's secondhand quotation and shows the chart's $3.510 billion is a transcription of $3,519 million, not a separate basis. The chart's 114 km matches Transgrid's archived 2023 preparatory estimate for the Bannaby-South Creek line, but the archived 2026 PADR instead describes the (now differently scoped) line as extending to around 100 km.",
+        "analysis_conclusion": "The immutable chart contains $3.5bn, consistent with rounding the PADR Option 6 total of $3,519m nominal to one decimal billion. The source gives Stage 1 $1,135m and Stage 2 $2,384m, P50 Class 5 (+100%/-50%). AEMO's $2,621m modelled $2025 amount is a different price basis. No transcription error is established (PADR p38; AEMO 2026 p43). 30.70175438596491 = 3,500 AUD million / 114 km, using the original chart inputs. The $3.5bn rounds the $3,519m nominal Option 6 estimate; the 114 km is the older 2023 preparatory route, whereas the 2026 PADR describes approximately 100 km on a revised scope. This mixed-vintage ratio is not a reconciled source-defined construction cost per km (2023 preparatory p8; PADR pp38,43).",
         "capacity": "3,600 MW additional forward capacity from the 500 kV option; 0 MW from the power flow control option. Existing CNSW-SNW South flow path is modelled at 2,540 MW (peak/summer typical) and 2,720 MW (winter).",
         "completion_date": "2033-34 financial year (2026 ISP ODP)",
         "current_status": "Actionable ISP project in the 2024 and 2026 ISPs; Transgrid's PADR is under consultation. No approval, feedback-loop confirmation or final decision is archived.",
@@ -10959,16 +10962,16 @@
         },
         {
           "code": "AUTHOR_DECISION_REQUIRED",
-          "finding": "Two archived cost figures exist for this row on different bases: the AEMO-modelled $2,621m ($2025, both options combined) and Transgrid's own PADR Option 6 total of $3,519m (nominal, staged $1,135m then $2,384m). The chart's $3.510bn matches neither basis and is a transcription of $3,519m.",
-          "implication": "The author must choose which basis the chart publishes ($2025 modelled or nominal PADR) and correct the transcription; the pack neither converts between price bases nor treats the difference as growth.",
+          "finding": "The immutable chart contains $3.5bn, consistent with rounding the PADR Option 6 total of $3,519m nominal to one decimal billion. The source gives Stage 1 $1,135m and Stage 2 $2,384m, P50 Class 5 (+100%/-50%). AEMO's $2,621m modelled $2025 amount is a different price basis. No transcription error is established (PADR p38; AEMO 2026 p43).",
+          "implication": "The immutable chart contains $3.5bn, consistent with rounding the PADR Option 6 total of $3,519m nominal to one decimal billion. The source gives Stage 1 $1,135m and Stage 2 $2,384m, P50 Class 5 (+100%/-50%). AEMO's $2,621m modelled $2025 amount is a different price basis. No transcription error is established (PADR p38; AEMO 2026 p43).",
           "pinpoints": "HUM-AEMO-2026-ISP-A5 p43 (footnote 85); SRS-TG-2026-PADR p38",
           "severity": "blocker",
           "source_ids": "HUM-AEMO-2026-ISP-A5; SRS-TG-2026-PADR"
         },
         {
-          "code": "CONTRADICTION",
-          "finding": "The chart notes cite $3.510 billion for PADR Option 6. Transgrid's own PADR, now archived, states Option 6's total capital cost as $3,519 million (nominal), confirming the archived AEMO quotation of the same figure; the chart value matches neither this total nor AEMO's separately archived $2,621 million ($2025) modelled total for the same two options combined.",
-          "implication": "The $3.510bn is a transcription of $3,519m (last two digits transposed), not a distinct sourced figure; it also does not match the AEMO-modelled total on a different price basis. Both must be resolved before publication.",
+          "code": "NON_COMPARABLE_SERIES",
+          "finding": "The immutable chart contains $3.5bn, consistent with rounding the PADR Option 6 total of $3,519m nominal to one decimal billion. The source gives Stage 1 $1,135m and Stage 2 $2,384m, P50 Class 5 (+100%/-50%). AEMO's $2,621m modelled $2025 amount is a different price basis. No transcription error is established (PADR p38; AEMO 2026 p43).",
+          "implication": "Retain rounding, nominal/modelled price bases and estimate uncertainty; no numerical cost contradiction is established.",
           "pinpoints": "SRS-TG-2026-PADR p38; HUM-AEMO-2026-ISP-A5 p43 (footnote 85)",
           "severity": "warning",
           "source_ids": "SRS-TG-2026-PADR; HUM-AEMO-2026-ISP-A5"
@@ -10999,8 +11002,8 @@
         },
         {
           "code": "CHART_DERIVATION",
-          "finding": "The millions-per-trunk-km cell (30.70) is 3,510 divided by 114. The 114 km is now archived (2023 Southern Ring document), but 3,510 does not match any archived cost figure -- the archived PADR Option 6 total is $3,519 million, not $3,510 million.",
-          "implication": "The ratio's cost input remains an unverified transcription and cannot be validated against any archived source; recomputing with the archived $3,519 million would give a different ratio.",
+          "finding": "30.70175438596491 = 3,500 AUD million / 114 km, using the original chart inputs. The $3.5bn rounds the $3,519m nominal Option 6 estimate; the 114 km is the older 2023 preparatory route, whereas the 2026 PADR describes approximately 100 km on a revised scope. This mixed-vintage ratio is not a reconciled source-defined construction cost per km (2023 preparatory p8; PADR pp38,43).",
+          "implication": "30.70175438596491 = 3,500 AUD million / 114 km, using the original chart inputs. The $3.5bn rounds the $3,519m nominal Option 6 estimate; the 114 km is the older 2023 preparatory route, whereas the 2026 PADR describes approximately 100 km on a revised scope. This mixed-vintage ratio is not a reconciled source-defined construction cost per km (2023 preparatory p8; PADR pp38,43).",
           "pinpoints": "Policy Paper Chart.xlsx Sheet1, Sydney Ring South row",
           "severity": "warning",
           "source_ids": ""
@@ -11669,7 +11672,7 @@
             "supported_value": "2031-11"
           },
           {
-            "evidence": "No archived source states a NSW-only whole-project cost. The chart's 3.7 is half of a whole-interconnector amount, matched by the identical 3.7 in the VNI West (VIC) row. The only current whole-VNI figure is $7,600m ($2025, Class 4, two Dinawan transformers) per VNN-AO-2026-VNIWEST-TOTAL, which halves to 3.8, not 3.7; historical whole-VNI figures are VNN-AO-2024-VNIWEST-3499, VNN-AO-2024-VNIWEST-3614 and, from the AER, $3,963.6m ($Real 2022-23, VNN-AO-2024-AER-VNIWEST-TOTAL). The exact input the author halved is not reconstructible from the archive. The only NSW-specific approved amount now archived is the AER's stage 1 early works determination: Transgrid proposed $1,096.3 million ($Real 2022-23) for the New South Wales portion of the project (VNN-AO-2024-AER-CPA-PROPOSED), and the AER substituted $948.8 million ($Real 2022-23, VNN-AO-2024-AER-CPA-APPROVED). Both are a partial, stage 1 early works boundary, not the whole NSW component cost the chart cell implies, so neither resolves the chart's 3.7.",
+            "evidence": "The identical $3.7bn NSW and Victoria chart entries have no evidenced current state allocation. $3.7bn is not half of the 2026 $7.6bn whole-VNI total (half is $3.8bn). The author's exact derivation is unresolved. Historical PACR Option 5A allocations ($1,755m Victoria / $1,744m NSW, FY2020-21, p48) do not allocate the 2026 total; NSW $948.8m approved early works is not a NSW whole-project estimate.",
             "field": "cost_aud_billion",
             "original": 3.7,
             "pages": "HUM-AEMO-2026-ISP-A5 p52; HUM-AEMO-2024-ISP-A5 p45; VNN-AER-2024-CPADETERMINATION pp3, 6-7",
@@ -11686,7 +11689,7 @@
             "selected_observation": "VNN-AO-2026-REZ-1800",
             "source_ids": "HUM-AEMO-2026-ISP-A5; HUM-AEMO-2020-ISP-A3",
             "status": "supported_with_boundary",
-            "supported_value": 1800
+            "supported_value": "1800 MW. Boundary/qualification: AEMO 2026 states a +1,800 MW expansion of REZ transfer capacity from Dinawan, but only as the separately modelled N5 Option 2 third-transformer increment above the base N5 figure of 600 MW; it is not the NSW component's base capacity. AEMO 2020 separately reported +1,800 MW southward VIC-NSW transfer for the Kerang route, a different (whole-interconnector, superseded) boundary."
           },
           {
             "evidence": "PACR Table 6 (p48) gives an approximate NSW line length of 203 km for preferred Option 5A (184 km was Option 5, superseded). This is an indicative corridor-stage length between Dinawan and the WRL connection, not a built 500 kV trunk length as the chart defines it; no NSW-specific length is stated elsewhere.",
@@ -11696,10 +11699,10 @@
             "selected_observation": "VNN-AO-2023-PACR-NSW-LENGTH-203",
             "source_ids": "VNV-TRANSGRID-2023-PACR",
             "status": "supported_with_boundary",
-            "supported_value": 203
+            "supported_value": "203 km. Boundary/qualification: PACR Table 6 (p48) gives an approximate NSW line length of 203 km for preferred Option 5A (184 km was Option 5, superseded). This is an indicative corridor-stage length between Dinawan and the WRL connection, not a built 500 kV trunk length as the chart defines it; no NSW-specific length is stated elsewhere."
           },
           {
-            "evidence": "Workbook ratio of the chart's own cost and trunk cells (3.7 billion / 240 km). The cost cell is an author split with no NSW-only whole-project figure archived (see cost_aud_billion), and the trunk cell's only archived figure (184 km, a PACR cost-estimating assumption, not the chart's boundary) does not match the chart's 240 km, so the ratio cannot be validated against any archived source.",
+            "evidence": "The identical $3.7bn NSW and Victoria chart entries have no evidenced current state allocation. $3.7bn is not half of the 2026 $7.6bn whole-VNI total (half is $3.8bn). The author's exact derivation is unresolved. Historical PACR Option 5A allocations ($1,755m Victoria / $1,744m NSW, FY2020-21, p48) do not allocate the 2026 total; NSW $948.8m approved early works is not a NSW whole-project estimate.",
             "field": "millions_per_trunk_km",
             "original": 15.416666666666668,
             "pages": "",
@@ -11716,7 +11719,7 @@
             "selected_observation": "VNN-AO-2026-CIRCUITS-DC",
             "source_ids": "HUM-AEMO-2026-ISP-A5",
             "status": "supported_with_boundary",
-            "supported_value": 2
+            "supported_value": "2 circuits. Boundary/qualification: AEMO 2026 describes upgrading the existing Dinawan - Wagga Wagga - Gugaa double-circuit line from 330 kV to 500 kV operation with a bypass at Wagga Wagga. Two circuits are therefore uprated existing circuits (built at 500 kV under Project EnergyConnect and HumeLink), not new-build circuits."
           },
           {
             "evidence": "The NSW component's line scope is the single Dinawan - Wagga Wagga - Gugaa double-circuit corridor, plus a Gugaa cut-in and a rebuild of a section of line TL51 between Gugaa and Wagga on the existing easement, which the source does not count as lines.",
@@ -11726,7 +11729,7 @@
             "selected_observation": "VNN-AO-2026-CIRCUITS-DC",
             "source_ids": "HUM-AEMO-2026-ISP-A5",
             "status": "supported_with_boundary",
-            "supported_value": 1
+            "supported_value": "1 lines. Boundary/qualification: The NSW component's line scope is the single Dinawan - Wagga Wagga - Gugaa double-circuit corridor, plus a Gugaa cut-in and a rebuild of a section of line TL51 between Gugaa and Wagga on the existing easement, which the source does not count as lines."
           },
           {
             "evidence": "Alternative-route counting is an author definition no source supplies. AEMO 2020 did present Shepparton and Kerang route alternatives for VNI West, and the current route was selected as option 5A in the May 2023 RIT-T, so a zero depends entirely on the author's definition of a live alternative.",
@@ -11766,7 +11769,7 @@
             "selected_observation": "VNN-AO-2026-TRF-3X1500",
             "source_ids": "HUM-AEMO-2026-ISP-A5; HUM-AEMO-2024-ISP-A5",
             "status": "contradicted",
-            "supported_value": 1500
+            "supported_value": "3 × 1,500 MVA per Dinawan transformer in N5 scope; only 2 units included in reported VNI cost; third separately modelled; no silent total"
           },
           {
             "evidence": "No archived source states a feeder-line length for the South West NSW REZ component, and the sources do not use a feeder-line category, so the zero is neither supported nor contradicted.",
@@ -11795,7 +11798,7 @@
           "transformers": 6000,
           "trunk_km": 240
         },
-        "overall_status": "The row describes a NSW half of a project whose archived cost, capacity and timing evidence exists only at whole-interconnector or conditional-option boundaries, so its headline cost is an author split, its transformer rating is contradicted, and its route, syncon and feeder cells are unsupported."
+        "overall_status": "The identical $3.7bn NSW and Victoria chart entries have no evidenced current state allocation. $3.7bn is not half of the 2026 $7.6bn whole-VNI total (half is $3.8bn). The author's exact derivation is unresolved. Historical PACR Option 5A allocations ($1,755m Victoria / $1,744m NSW, FY2020-21, p48) do not allocate the 2026 total; NSW $948.8m approved early works is not a NSW whole-project estimate."
       },
       "project_id": "VNN-PROJECT-VNI-NSW",
       "source_ids": [
@@ -11810,7 +11813,7 @@
         "VNV-TRANSGRID-2023-PACR"
       ],
       "summary": {
-        "analysis_conclusion": "Every archived monetary figure is a whole-VNI West boundary ($7,600m 2026; $3,499m 2024 inclusive of WRL; $3,614m modelled). No archived source allocates a NSW share, so the chart's 3.7 is an author split of a whole-interconnector amount, not a sourced NSW cost.",
+        "analysis_conclusion": "The identical $3.7bn NSW and Victoria chart entries have no evidenced current state allocation. $3.7bn is not half of the 2026 $7.6bn whole-VNI total (half is $3.8bn). The author's exact derivation is unresolved. Historical PACR Option 5A allocations ($1,755m Victoria / $1,744m NSW, FY2020-21, p48) do not allocate the 2026 total; NSW $948.8m approved early works is not a NSW whole-project estimate.",
         "capacity": "AEMO 2026 reports REZ N5: 600 MW, plus a separately modelled +1,800 MW REZ transfer from Dinawan conditional on a third Dinawan transformer (N5 Option 2). The interconnector Stage 2 adds forward 1,890 MW / reverse 1,670 MW.",
         "completion_date": "South West NSW REZ component: August 2029 (proponent advice, 2026 ISP). Whole VIC-NSW link: November 2031.",
         "current_status": "Actionable NSW project progressing under the Electricity Infrastructure Investment Act 2020 (NSW); RIT-T concluded May 2023 (option 5A) and feedback loop confirmed December 2023; early works under way.",
@@ -11943,8 +11946,8 @@
       "warnings": [
         {
           "code": "CHART_DERIVATION",
-          "finding": "The chart's 3.7 cost is half of a whole-interconnector amount: the VNI West (NSW) and VNI West (VIC) rows carry the identical 3.7, and no archived source states a NSW-only cost. The only current whole-VNI figure, $7,600m ($2025, Class 4, two transformers), halves to 3.8, so the halved input cannot be identified in the archive.",
-          "implication": "The cell must not be published as a NSW project cost. Either restate it as an explicitly labelled half of the $7,600m whole-project amount or leave it unsourced.",
+          "finding": "The identical $3.7bn NSW and Victoria chart entries have no evidenced current state allocation. $3.7bn is not half of the 2026 $7.6bn whole-VNI total (half is $3.8bn). The author's exact derivation is unresolved. Historical PACR Option 5A allocations ($1,755m Victoria / $1,744m NSW, FY2020-21, p48) do not allocate the 2026 total; NSW $948.8m approved early works is not a NSW whole-project estimate.",
+          "implication": "The identical $3.7bn NSW and Victoria chart entries have no evidenced current state allocation. $3.7bn is not half of the 2026 $7.6bn whole-VNI total (half is $3.8bn). The author's exact derivation is unresolved. Historical PACR Option 5A allocations ($1,755m Victoria / $1,744m NSW, FY2020-21, p48) do not allocate the 2026 total; NSW $948.8m approved early works is not a NSW whole-project estimate.",
           "pinpoints": "HUM-AEMO-2026-ISP-A5 p52",
           "severity": "blocker",
           "source_ids": "HUM-AEMO-2026-ISP-A5"
@@ -12989,14 +12992,14 @@
             "supported_value": "2031-11"
           },
           {
-            "evidence": "No source states $3.7bn for VNI West. The chart value equals half of the 2026 ISP reported $7,600m ($2025, Class 4 -30%/+50%) for 'South West NSW REZ + Interconnector' (VNV-AO-2026-REPORTED-TOTAL), split evenly across the VIC and NSW chart rows. AEMO publishes no Victoria/NSW allocation; the 2024 observations ($3,499m in 2020-21 dollars inclusive of $315m WRL, VNV-AO-2024-ISP-OPT1-COST; $3,614m modelling conversion, VNV-AO-2024-ISP-MODELLING) are also whole-interconnector and not comparable. The PACR (now archived) does state a Victoria/NSW split for its own May 2023 Option 5A estimate ($1,755m Victoria / $1,744m New South Wales, FY2020-21 dollars, VNV-AO-2023-PACR-COST) and the PADR similarly splits its superseded Option 1 estimate ($1,605m Victoria / $1,651m New South Wales, VNV-AO-2022-PADR-COST). These are captured as observations but are not used to construct a Victoria-only chart headline: they are a different vintage, price basis and RIT-T scope than the 2026 ISP's $7,600m reported total, and AEMO's current reporting still bundles 'South West NSW REZ + Interconnector' as one figure with no allocation of its own.",
+            "evidence": "The identical $3.7bn NSW and Victoria chart entries have no evidenced current state allocation. $3.7bn is not half of the 2026 $7.6bn whole-VNI total (half is $3.8bn). The author's exact derivation is unresolved. Historical PACR Option 5A allocations ($1,755m Victoria / $1,744m NSW, FY2020-21, p48) do not allocate the 2026 total; NSW $948.8m approved early works is not a NSW whole-project estimate.",
             "field": "cost_aud_billion",
             "original": 3.7,
             "pages": "HUM-AEMO-2026-ISP-A5 p52; HUM-AEMO-2024-ISP-A5 p45",
             "selected_observation": "VNV-AO-2026-REPORTED-TOTAL",
             "source_ids": "HUM-AEMO-2026-ISP-A5; HUM-AEMO-2024-ISP-A5",
             "status": "derived",
-            "supported_value": 7.6
+            "supported_value": null
           },
           {
             "evidence": "No source states a single 1.8 GW capacity for VNI West. The 2026 ISP states directional additional network capacity for the VIC-NSW component: forward 1,890 MW and reverse 1,670 MW, plus REZ V1 1,580 MW and WV2 200 MW. The only 1,800 MW in the sources is the separate third-Dinawan-transformer REZ expansion (VNV-AO-2026-CAP-THIRD-TF), a different boundary.",
@@ -13006,7 +13009,7 @@
             "selected_observation": "VNV-AO-2026-CAP-FORWARD",
             "source_ids": "HUM-AEMO-2026-ISP-A5",
             "status": "supported_with_boundary",
-            "supported_value": 1.89
+            "supported_value": "1.89 GW. Boundary/qualification: No source states a single 1.8 GW capacity for VNI West. The 2026 ISP states directional additional network capacity for the VIC-NSW component: forward 1,890 MW and reverse 1,670 MW, plus REZ V1 1,580 MW and WV2 200 MW. The only 1,800 MW in the sources is the separate third-Dinawan-transformer REZ expansion (VNV-AO-2026-CAP-THIRD-TF), a different boundary."
           },
           {
             "evidence": "The 2023 PACR (Table 6, p48) states an approximate indicative line length of 206 km for the Victorian portion of the preferred Option 5A route (between EnergyConnect at Dinawan and the WRL connection point), with 203 km for the New South Wales portion; a route has not yet been determined and the figure is taken as the centre of the area of interest. This is a state-portion boundary, not the chart's implied whole-project trunk length, and belongs to a different (2023, FY2020-21 dollars) vintage than the 2026 ISP figures used elsewhere on this row. The PADR's earlier, superseded Option 1 route (via Bendigo) was approximately 400 km whole-route with no state split stated.",
@@ -13016,10 +13019,10 @@
             "selected_observation": "VNV-AO-2023-PACR-ROUTE-LENGTH",
             "source_ids": "VNV-TRANSGRID-2023-PACR",
             "status": "supported_with_boundary",
-            "supported_value": 206
+            "supported_value": "206 km. Boundary/qualification: The 2023 PACR (Table 6, p48) states an approximate indicative line length of 206 km for the Victorian portion of the preferred Option 5A route (between EnergyConnect at Dinawan and the WRL connection point), with 203 km for the New South Wales portion; a route has not yet been determined and the figure is taken as the centre of the area of interest. This is a state-portion boundary, not the chart's implied whole-project trunk length, and belongs to a different (2023, FY2020-21 dollars) vintage than the 2026 ISP figures used elsewhere on this row. The PADR's earlier, superseded Option 1 route (via Bendigo) was approximately 400 km whole-route with no state split stated."
           },
           {
-            "evidence": "The trunk_km gap is now closed with a Victorian-portion length (206 km, PACR Table 6), but the numerator remains unusable: the chart's cost cell is a derived half of a whole-interconnector figure and no archived source states a Victoria-only cost for the current (2026 ISP) reported total that this pack treats as authoritative (see the cost_aud_billion finding and the AUTHOR_DECISION_REQUIRED warning on Victoria/NSW cost allocation). The ratio cannot be computed without constructing a Victoria-only cost, which this pack does not do.",
+            "evidence": "The identical $3.7bn NSW and Victoria chart entries have no evidenced current state allocation. $3.7bn is not half of the 2026 $7.6bn whole-VNI total (half is $3.8bn). The author's exact derivation is unresolved. Historical PACR Option 5A allocations ($1,755m Victoria / $1,744m NSW, FY2020-21, p48) do not allocate the 2026 total; NSW $948.8m approved early works is not a NSW whole-project estimate.",
             "field": "millions_per_trunk_km",
             "original": 15.416666666666668,
             "pages": "",
@@ -13036,7 +13039,7 @@
             "selected_observation": "VNV-AO-2026-CIRCUITS",
             "source_ids": "HUM-AEMO-2026-ISP-A5; VNV-VIC-GAZETTE-2023-S267",
             "status": "supported",
-            "supported_value": 2
+            "supported_value": "2 circuits. Boundary/qualification: The 2026 ISP describes a new 500 kV double-circuit overhead line from near Bulgana to Tragowel (near Kerang) to Dinawan; the 2024 ISP describes the same double-circuit configuration. The 2023 s16Y Ministerial Order (Schedule 1, the earliest statutory specification of the preferred option) already specified the same new 500 kV double-circuit overhead line from a new terminal station near Kerang to Dinawan and to Bulgana Terminal Station."
           },
           {
             "evidence": "The 2026 ISP describes one new 500 kV double-circuit line on the Bulgana - Tragowel - Dinawan corridor. The 2023 s16Y Ministerial Order (Schedule 1) specifies the same single new line as the VNI West preferred option; no route length is stated in either.",
@@ -13046,7 +13049,7 @@
             "selected_observation": "VNV-AO-2026-LINES",
             "source_ids": "HUM-AEMO-2026-ISP-A5; VNV-VIC-GAZETTE-2023-S267",
             "status": "supported",
-            "supported_value": 1
+            "supported_value": "1 lines. Boundary/qualification: The 2026 ISP describes one new 500 kV double-circuit line on the Bulgana - Tragowel - Dinawan corridor. The 2023 s16Y Ministerial Order (Schedule 1) specifies the same single new line as the VNI West preferred option; no route length is stated in either."
           },
           {
             "evidence": "Alternative-route counting is an author definition; no archived source counts 'alternative routes' the way the chart cell implies. The PADR and PACR are now archived and do describe multiple credible options: the PADR assessed Option 1 (VNI West, preferred, via Bendigo) against Option 2 (a Victorian Transmission Link brought forward ahead of VNI West); the Additional Consultation Report and PACR assessed Option 5, Option 5A (preferred) and two sensitivities (Option 5A westerly sensitivity; Option 5 without series compensation), with Options 1, 3 and 3A considered and not progressed. None of this constitutes a stated 'alt_routes' count for the chart's purposes.",
@@ -13086,7 +13089,7 @@
             "selected_observation": "VNV-AO-2026-TRAGOWEL-TF",
             "source_ids": "HUM-AEMO-2026-ISP-A5",
             "status": "derived",
-            "supported_value": 1000
+            "supported_value": "2 × 1,000 MVA per Tragowel transformer; excludes Dinawan units; chart 2,000 MVA is author arithmetic, not a source-stated total"
           },
           {
             "evidence": "No archived source states feeder or connection line lengths. The 2026 scope mentions 220 kV connections from the new Tragowel Terminal Station to the existing 220 kV lines near Kerang without any length.",
@@ -13289,7 +13292,7 @@
       "warnings": [
         {
           "code": "CHART_DERIVATION",
-          "finding": "The chart's $3.7bn cost cell is not a sourced value: it is half of AEMO's 2026 reported $7,600m ($2025) whole-project figure, with the same 3.7 placed in both the VNI West (VIC) and VNI West (NSW) rows.",
+          "finding": "The identical $3.7bn NSW and Victoria chart entries have no evidenced current state allocation. $3.7bn is not half of the 2026 $7.6bn whole-VNI total (half is $3.8bn). The author's exact derivation is unresolved. Historical PACR Option 5A allocations ($1,755m Victoria / $1,744m NSW, FY2020-21, p48) do not allocate the 2026 total; NSW $948.8m approved early works is not a NSW whole-project estimate.",
           "implication": "Label the cell derived and show the $7,600m whole-project figure with its boundary; do not present $3.7bn as a Victorian cost or compare it with the 2024 $3,499m/$3,614m observations.",
           "pinpoints": "HUM-AEMO-2026-ISP-A5 p52",
           "severity": "warning",
@@ -13937,7 +13940,7 @@
           "status": "anticipated project",
           "uncertainty": null,
           "unit": "date",
-          "value": null
+          "value": "November 2029"
         },
         {
           "boundary": "Anticipated project completion; the delivery scope table states July 2027 for full capacity after all testing",
@@ -14124,24 +14127,24 @@
             "supported_value": "November 2029"
           },
           {
-            "evidence": "No archived source states a WRL cost of $1.6 billion, or any standalone WRL estimate. The only archived WRL-specific amount is $315 million in 2020-21 (FY2020-21) dollars, stated by AEMO 2024 as included within the VNI West quoted project cost of $3,499 million - a different boundary, price basis and date. The now-archived joint VNI West PACR (VNV-TRANSGRID-2023-PACR, the primary source AEMO's 2024 summary draws on) independently states the same $315 million WRL incremental cost, itemised separately as 'Included cost' within both the Option 5 ($3,406m) and Option 5A ($3,499m) all-states totals, and describes it as the direct cost of modifying WRL so it can connect VNI West at Bulgana. supported_value is in AUD million, not the chart's AUD billion; no conversion is asserted. Both AEMO project tables leave WRL's reported/expected cost blank. See SOURCE_UNAVAILABLE warnings for the 2019 PACR, VicGrid/NEVA and the AusNet cost update, and the AUTHOR_DECISION_REQUIRED note on the chart's $1.6 billion figure's likely origin.",
+            "evidence": "No archived source states a WRL cost of $1.6 billion, or any standalone WRL estimate. The only archived WRL-specific amount is $315 million in 2020-21 (FY2020-21) dollars, stated by AEMO 2024 as included within the VNI West quoted project cost of $3,499 million - a different boundary, price basis and date. The now-archived joint VNI West PACR (VNV-TRANSGRID-2023-PACR, the primary source AEMO's 2024 summary draws on) independently states the same $315 million WRL incremental cost, itemised separately as 'Included cost' within both the Option 5 ($3,406m) and Option 5A ($3,499m) all-states totals, and describes it as the direct cost of modifying WRL so it can connect VNI West at Bulgana. No standalone replacement is established; $315m is the included WRL modification increment, not standalone WRL capex. Both AEMO project tables leave WRL's reported/expected cost blank. See SOURCE_UNAVAILABLE warnings for the 2019 PACR, VicGrid/NEVA and the AusNet cost update, and the AUTHOR_DECISION_REQUIRED note on the chart's $1.6 billion figure's likely origin.",
             "field": "cost_aud_billion",
             "original": 1.6,
             "pages": "45; 48",
             "selected_observation": "WRL-AO-2024-WRL-IN-VNI-315",
             "source_ids": "HUM-AEMO-2024-ISP-A5; VNV-TRANSGRID-2023-PACR",
             "status": "supported_with_boundary",
-            "supported_value": 315
+            "supported_value": null
           },
           {
-            "evidence": "AusNet states WRL is 'Capable of carrying more than 3,000MW of energy' - a proponent capability lower bound on an undefined basis, matching the chart's 3 GW in magnitude only. AEMO's project-specific figures are different quantities: 1,460 MW renewable capacity harnessed, 695 MW additional MEL-WNV network capacity and V2 310 MW. supported_value is in MW. The 2023 s16Y Ministerial Order (VNV-VIC-GAZETTE-2023-S267) states only qualitative benefits for WRL ('alleviating network constraints and increasing hosting capacity in Victoria's west') and states no WRL capacity figure of any kind.",
+            "evidence": "AusNet states WRL is 'Capable of carrying more than 3,000MW of energy' - a proponent capability lower bound on an undefined basis, matching the chart's 3 GW in magnitude only. AEMO's project-specific figures are different quantities: 1,460 MW renewable capacity harnessed, 695 MW additional MEL-WNV network capacity and V2 310 MW. The lower bound and capability definition must be retained. The 2023 s16Y Ministerial Order (VNV-VIC-GAZETTE-2023-S267) states only qualitative benefits for WRL ('alleviating network constraints and increasing hosting capacity in Victoria's west') and states no WRL capacity figure of any kind.",
             "field": "network_capacity_gw",
             "original": 3,
             "pages": "WRL-AUSNET-PROJECT derivative line 49; HUM-AEMO-2026-ISP-A5 pp24-25; VNV-VIC-GAZETTE-2023-S267 p11",
             "selected_observation": "WRL-AO-2026-AUSNET-CAPABILITY",
             "source_ids": "WRL-AUSNET-PROJECT; HUM-AEMO-2026-ISP-A5; VNV-VIC-GAZETTE-2023-S267",
             "status": "supported_with_boundary",
-            "supported_value": 3000
+            "supported_value": "More than 3,000 MW proponent carrying capability, undefined basis; not exactly 3 GW guaranteed transfer"
           },
           {
             "evidence": "AusNet describes WRL as a proposed new 190 kilometre overhead line from Bulgana to Sydenham, the same trunk the chart measures. Neither AEMO ISP appendix states a route length.",
@@ -14151,7 +14154,7 @@
             "selected_observation": "WRL-AO-2026-TRUNK-190KM",
             "source_ids": "WRL-AUSNET-PROJECT",
             "status": "supported",
-            "supported_value": 190
+            "supported_value": "190 km. Boundary/qualification: AusNet describes WRL as a proposed new 190 kilometre overhead line from Bulgana to Sydenham, the same trunk the chart measures. Neither AEMO ISP appendix states a route length."
           },
           {
             "evidence": "Chart calculation: $1.6 billion divided by 190 km. The length input is supported (WRL-AO-2026-TRUNK-190KM) but the cost input is not: no archived source states $1.6 billion for WRL, so this ratio inherits an unsupported numerator. See CHART_DERIVATION warning.",
@@ -14171,7 +14174,7 @@
             "selected_observation": "WRL-AO-2026-CIRCUITS-2",
             "source_ids": "HUM-AEMO-2026-ISP-A5; VNV-VIC-GAZETTE-2023-S267",
             "status": "supported",
-            "supported_value": 2
+            "supported_value": "2 circuits. Boundary/qualification: AEMO 2026 describes a planned 500 kV double-circuit overhead line from Bulgana to Sydenham, and the delivery scope specifies switched shunt line reactors at the end of each circuit. The 2023 s16Y Ministerial Order's Schedule 2 (VNV-VIC-GAZETTE-2023-S267), the legal instrument specifying the WRL Uprate, independently corroborates this: a new 500 kV double-circuit SYTS-BGTS line with switched shunt line reactors at the end of each circuit."
           },
           {
             "evidence": "AEMO 2026 delivery scope states a single new transmission line: 'A new 500 kV double-circuit transmission line from Sydenham Terminal Station to Bulgana Terminal Station'. The 2023 s16Y Ministerial Order's Schedule 2 (VNV-VIC-GAZETTE-2023-S267) independently specifies the same single new line, SYTS to BGTS, as the WRL Uprate augmentation.",
@@ -14181,7 +14184,7 @@
             "selected_observation": "WRL-AO-2026-LINES-1",
             "source_ids": "HUM-AEMO-2026-ISP-A5; VNV-VIC-GAZETTE-2023-S267",
             "status": "supported",
-            "supported_value": 1
+            "supported_value": "1 lines. Boundary/qualification: AEMO 2026 delivery scope states a single new transmission line: 'A new 500 kV double-circuit transmission line from Sydenham Terminal Station to Bulgana Terminal Station'. The 2023 s16Y Ministerial Order's Schedule 2 (VNV-VIC-GAZETTE-2023-S267) independently specifies the same single new line, SYTS to BGTS, as the WRL Uprate augmentation."
           },
           {
             "evidence": "Author definition. No archived source counts alternative routes for WRL. The 2019 RIT-T option set and the WRL EES route alternatives are unarchived, so a zero cannot be evidenced either way.",
@@ -14518,7 +14521,8 @@
       "publisher": "EnergyCo NSW",
       "sha256": "b6f15d5c05e8d6e66b5ebea801b7c97f38e24525c14e01af67d184b1085cc741",
       "source_id": "ATE15-EC-FUND-1",
-      "title": "$225 million South West REZ investment announcement"
+      "title": "$225 million South West REZ investment announcement",
+      "manifest_included": false
     },
     {
       "derivative_path": "sources/central-west-orana/cwo-01-aemo-2020-isp-appendix-3.txt",
@@ -14531,7 +14535,8 @@
       "publisher": "AEMO",
       "sha256": "285a01a1df766879e95d4c4bcad4044b7acfade3dfb01b1c905f5805fc877bdf",
       "source_id": "CWO-01",
-      "title": "2020 Integrated System Plan, Appendix 3: Network Investments"
+      "title": "2020 Integrated System Plan, Appendix 3: Network Investments",
+      "manifest_included": false
     },
     {
       "derivative_path": "sources/central-west-orana/cwo-02-nsw-gazette-2021-569-declaration.txt",
@@ -14544,7 +14549,8 @@
       "publisher": "NSW Government",
       "sha256": "18449682ae305fd9ca8912d8feaf52026bfd501bad0692e6af23a82e3ef11f00",
       "source_id": "CWO-02",
-      "title": "Renewable Energy Zone (Central-West Orana) Order 2021"
+      "title": "Renewable Energy Zone (Central-West Orana) Order 2021",
+      "manifest_included": false
     },
     {
       "derivative_path": "sources/central-west-orana/cwo-04-energyco-2023-network-infrastructure-strategy.txt",
@@ -14557,7 +14563,8 @@
       "publisher": "EnergyCo NSW",
       "sha256": "10b8fac054a4823c555a98589ce9e257e73f6c58d15b02f086320e08353fa03a",
       "source_id": "CWO-04",
-      "title": "Network Infrastructure Strategy for NSW"
+      "title": "Network Infrastructure Strategy for NSW",
+      "manifest_included": false
     },
     {
       "derivative_path": "sources/central-west-orana/cwo-05-energyco-2023-network-infrastructure-strategy-appendix-b.txt",
@@ -14570,7 +14577,8 @@
       "publisher": "EnergyCo NSW",
       "sha256": "fa778f02762732e4ab9befa524861618b2a39d4e6764c99aea679a7ec36015e3",
       "source_id": "CWO-05",
-      "title": "Network Infrastructure Strategy for NSW, Appendix B"
+      "title": "Network Infrastructure Strategy for NSW, Appendix B",
+      "manifest_included": false
     },
     {
       "derivative_path": "sources/central-west-orana/cwo-06-nsw-gazette-2023-580-capacity-amendment.txt",
@@ -14583,7 +14591,8 @@
       "publisher": "NSW Government",
       "sha256": "54f7cc691d9c611f2d0e74ee245f63255cbae9e5b58dd3dbe75f705e643cb8f5",
       "source_id": "CWO-06",
-      "title": "Renewable Energy Zone (Central-West Orana) Order 2023"
+      "title": "Renewable Energy Zone (Central-West Orana) Order 2023",
+      "manifest_included": false
     },
     {
       "derivative_path": "sources/central-west-orana/cwo-07-nsw-gazette-2024-116-access-scheme-amendment.txt",
@@ -14596,7 +14605,8 @@
       "publisher": "NSW Government",
       "sha256": "fa2cc46d638eb77c108eddbf35c35009adc082bf562a7817b718bfcd58d5c1f7",
       "source_id": "CWO-07",
-      "title": "Renewable Energy Zone (Central-West Orana) Access Scheme (Amendment) Order 2024"
+      "title": "Renewable Energy Zone (Central-West Orana) Access Scheme (Amendment) Order 2024",
+      "manifest_included": false
     },
     {
       "derivative_path": "sources/central-west-orana/cwo-08-nsw-gazette-2024-137-network-specification.txt",
@@ -14609,7 +14619,8 @@
       "publisher": "NSW Government",
       "sha256": "1fa415a2f1256f587b94134012213963f8fc1f0991b8af6bf6abab6f29975390",
       "source_id": "CWO-08",
-      "title": "Renewable Energy Zone (Central-West Orana) Order 2024"
+      "title": "Renewable Energy Zone (Central-West Orana) Order 2024",
+      "manifest_included": false
     },
     {
       "derivative_path": "sources/central-west-orana/cwo-09-energyco-2024-infrastructure-planner-recommendation.txt",
@@ -14622,7 +14633,8 @@
       "publisher": "EnergyCo NSW",
       "sha256": "2132928b201fedc9933b4e9d3589ca536906286f46b2a66cb59beeea25adc106",
       "source_id": "CWO-09",
-      "title": "Central-West Orana REZ Infrastructure Planner Recommendation Public Report"
+      "title": "Central-West Orana REZ Infrastructure Planner Recommendation Public Report",
+      "manifest_included": false
     },
     {
       "derivative_path": "sources/central-west-orana/cwo-10-asl-2024-main-authorisation.txt",
@@ -14635,7 +14647,8 @@
       "publisher": "AEMO Services",
       "sha256": "f1791da0fac007f2513cc878aa09e338bffa84e45bce753a16ca56059bdb26c8",
       "source_id": "CWO-10",
-      "title": "Notice of Authorisation – Main CWO REZ Network Infrastructure Project"
+      "title": "Notice of Authorisation – Main CWO REZ Network Infrastructure Project",
+      "manifest_included": false
     },
     {
       "derivative_path": "sources/central-west-orana/cwo-11-asl-2024-enabling-authorisation.txt",
@@ -14648,7 +14661,8 @@
       "publisher": "AEMO Services",
       "sha256": "a7979dd9ac8b334d14a27b8d88865bf2f1dd11a310dec4210c27f6b65c56d78a",
       "source_id": "CWO-11",
-      "title": "Notice of Authorisation – Enabling CWO REZ Network Infrastructure Project"
+      "title": "Notice of Authorisation – Enabling CWO REZ Network Infrastructure Project",
+      "manifest_included": false
     },
     {
       "derivative_path": "sources/central-west-orana/cwo-12-aer-2024-initial-main-revenue-determination.txt",
@@ -14661,7 +14675,8 @@
       "publisher": "Australian Energy Regulator",
       "sha256": "744d3282b20507dcc78fc40958ced36dd8635e48b15b3814355d4fe301296564",
       "source_id": "CWO-12",
-      "title": "CWO REZ network project revenue determination"
+      "title": "CWO REZ network project revenue determination",
+      "manifest_included": false
     },
     {
       "derivative_path": "sources/central-west-orana/cwo-13-asl-2025-access-fee-statement-of-reasons.txt",
@@ -14674,7 +14689,8 @@
       "publisher": "AEMO Services",
       "sha256": "043f607cdd6dddd884322cb59426337e6965badb11b1e048617414471dd5e85f",
       "source_id": "CWO-13",
-      "title": "Statement of Reasons – CWO REZ Access Fee Determinations"
+      "title": "Statement of Reasons – CWO REZ Access Fee Determinations",
+      "manifest_included": false
     },
     {
       "derivative_path": "sources/central-west-orana/cwo-14-asl-2025-access-fee-liverpool-range-stage-1.txt",
@@ -14687,7 +14703,8 @@
       "publisher": "AEMO Services",
       "sha256": "20b29682328a953438fe3e09f3c468a490041d4abfa35e047a31292365fc04dd",
       "source_id": "CWO-14",
-      "title": "Access Fee Determination – Liverpool Range Wind Farm Stage 1"
+      "title": "Access Fee Determination – Liverpool Range Wind Farm Stage 1",
+      "manifest_included": false
     },
     {
       "derivative_path": "sources/central-west-orana/cwo-15-asl-2025-access-fee-liverpool-range-stage-2.txt",
@@ -14700,7 +14717,8 @@
       "publisher": "AEMO Services",
       "sha256": "86f2da944050d13ca3bb75a52fbaf1c4abd954ecc4eb554703bfe7e13af64054",
       "source_id": "CWO-15",
-      "title": "Access Fee Determination – Liverpool Range Wind Farm Stage 2"
+      "title": "Access Fee Determination – Liverpool Range Wind Farm Stage 2",
+      "manifest_included": false
     },
     {
       "derivative_path": "sources/central-west-orana/cwo-16-energyco-2025-transfer-capacity-determination.txt",
@@ -14713,7 +14731,8 @@
       "publisher": "EnergyCo NSW",
       "sha256": "65c68ff1d82a01a4367c8491bb942d0805cbba281411d375fb2df56e0ab2f4c9",
       "source_id": "CWO-16",
-      "title": "Transfer Capacity Determination for the Central-West Orana REZ"
+      "title": "Transfer Capacity Determination for the Central-West Orana REZ",
+      "manifest_included": false
     },
     {
       "derivative_path": "sources/central-west-orana/cwo-17-energyco-2025-final-headroom-decision.txt",
@@ -14726,7 +14745,8 @@
       "publisher": "EnergyCo NSW",
       "sha256": "ea616d48d0a64d6d3ed5046c103fc94638c2667e70e107755c4f8be7e1ff4673",
       "source_id": "CWO-17",
-      "title": "Central-West Orana Renewable Energy Zone Headroom Assessment – Final Decision"
+      "title": "Central-West Orana Renewable Energy Zone Headroom Assessment – Final Decision",
+      "manifest_included": false
     },
     {
       "derivative_path": "sources/central-west-orana/cwo-18-aer-2025-remade-main-revenue-determination.txt",
@@ -14739,7 +14759,8 @@
       "publisher": "Australian Energy Regulator",
       "sha256": "0593086da052d6d3bf4eff6c5cb20f02b0646d4fb66a747c090f4418d3461c8e",
       "source_id": "CWO-18",
-      "title": "Revenue Determination – ACEREZ – Main Central-West Orana REZ network project – Summary report"
+      "title": "Revenue Determination – ACEREZ – Main Central-West Orana REZ network project – Summary report",
+      "manifest_included": false
     },
     {
       "derivative_path": "sources/central-west-orana/cwo-19-asl-2025-barigan-transfer-letter.txt",
@@ -14752,7 +14773,8 @@
       "publisher": "AusEnergy Services Limited",
       "sha256": "9c5dec2814c6725faee15e75afed4c17121567d70e0e4889f5c6c710825bc98c",
       "source_id": "CWO-19",
-      "title": "Central West Orana Renewable Energy Zone – Transfer of Barigan Creek from ACEREZ Partnership to Transgrid"
+      "title": "Central West Orana Renewable Energy Zone – Transfer of Barigan Creek from ACEREZ Partnership to Transgrid",
+      "manifest_included": false
     },
     {
       "derivative_path": "sources/central-west-orana/cwo-20-nsw-gazette-2025-11-480-bannaby.txt",
@@ -14765,7 +14787,8 @@
       "publisher": "NSW Government",
       "sha256": "9405a55d3db6fd04d988d9f2a99c5b58e1ee055fdb21b07878577cb387dbf1fb",
       "source_id": "CWO-20",
-      "title": "Renewable Energy Zone (Central-West Orana) Amendment Order 2025"
+      "title": "Renewable Energy Zone (Central-West Orana) Amendment Order 2025",
+      "manifest_included": false
     },
     {
       "derivative_path": "sources/central-west-orana/cwo-21-aer-2026-enabling-final-decision.txt",
@@ -14778,7 +14801,8 @@
       "publisher": "Australian Energy Regulator",
       "sha256": "082cac2d9302ad55c4de29f187f988e05501cc5479f1f07b836adcf37c766f39",
       "source_id": "CWO-21",
-      "title": "AER Final Decision – Transgrid – Enabling Central-West Orana REZ non-contestable project 2026–31"
+      "title": "AER Final Decision – Transgrid – Enabling Central-West Orana REZ non-contestable project 2026–31",
+      "manifest_included": false
     },
     {
       "derivative_path": "sources/central-west-orana/cwo-22-aemo-2026-isp-appendix-a5.txt",
@@ -14791,7 +14815,8 @@
       "publisher": "AEMO",
       "sha256": "7df9478c9ca00964219ec301552902cf4fd338c159509daa7f4b900c668364c8",
       "source_id": "CWO-22",
-      "title": "2026 Integrated System Plan, Appendix A5: Network Investments"
+      "title": "2026 Integrated System Plan, Appendix A5: Network Investments",
+      "manifest_included": false
     },
     {
       "derivative_path": "sources/central-west-orana/cwo-23-asl-2024-statement-of-reasons-main.txt",
@@ -14804,7 +14829,8 @@
       "publisher": "AEMO Services",
       "sha256": "cb2ffd7d7d00a67a81af270098766ff71ea47cb865f7ce84387ffd14b0930c2a",
       "source_id": "CWO-23",
-      "title": "Statement of Reasons – Main CWO REZ Network Infrastructure Project Authorisation"
+      "title": "Statement of Reasons – Main CWO REZ Network Infrastructure Project Authorisation",
+      "manifest_included": false
     },
     {
       "derivative_path": "sources/central-west-orana/cwo-24-transgrid-2025-system-strength-pacr.txt",
@@ -14817,7 +14843,8 @@
       "publisher": "Transgrid",
       "sha256": "6b744793b8f6fe41e8f296b646a46b2981b557ec9db6ab7432d5ea477ff3e518",
       "source_id": "CWO-24",
-      "title": "Meeting system strength requirements in NSW – Project Assessment Conclusions Report"
+      "title": "Meeting system strength requirements in NSW – Project Assessment Conclusions Report",
+      "manifest_included": false
     },
     {
       "derivative_path": "sources/central-west-orana/cwo-25-nsw-gazette-2022-591-access-scheme-order.txt",
@@ -14830,7 +14857,8 @@
       "publisher": "NSW Government",
       "sha256": "9671ee1c8cf4c80c9b460181a452b5900f92f6bb0ff6661b7fc61b2334c8c4d8",
       "source_id": "CWO-25",
-      "title": "NSW Government Gazette No 591, December 2022 (Renewable Energy Zone (Central-West Orana) Access Scheme Order 2022)"
+      "title": "NSW Government Gazette No 591, December 2022 (Renewable Energy Zone (Central-West Orana) Access Scheme Order 2022)",
+      "manifest_included": false
     },
     {
       "derivative_path": "sources/central-west-orana/cwo-26.txt",
@@ -14843,7 +14871,8 @@
       "publisher": "ACEREZ",
       "sha256": "baaab2d19fce531401a31cb82d4cc4029bb9676fc755c3fe944dd662ed258bb7",
       "source_id": "CWO-26",
-      "title": "The Project - Central-West Orana Renewable Energy Zone Transmission Network"
+      "title": "The Project - Central-West Orana Renewable Energy Zone Transmission Network",
+      "manifest_included": false
     },
     {
       "derivative_path": "sources/central-west-orana/cwo-27.txt",
@@ -14856,7 +14885,8 @@
       "publisher": "NSW Department of Planning, Housing and Infrastructure",
       "sha256": "3c20f06ad250fe3e84bf4a2db552f1ae961d85a1c12f2d1a848e935567751a67",
       "source_id": "CWO-27",
-      "title": "Consolidated Approval - Central-West Orana REZ Transmission Project (SSI 48323210)"
+      "title": "Consolidated Approval - Central-West Orana REZ Transmission Project (SSI 48323210)",
+      "manifest_included": false
     },
     {
       "derivative_path": "sources/hunter-transmission-project/htp-aer-2025-finaldecision.txt",
@@ -14869,7 +14899,8 @@
       "publisher": "Australian Energy Regulator",
       "sha256": "3b670085ae270e992e93e77363db36a6d805f39cc46b6318d227dc3d8c647a03",
       "source_id": "HTP-AER-2025-FINALDECISION",
-      "title": "AER Final Decision: Ausgrid Hunter-Central Coast REZ non-contestable network infrastructure project 2026-31"
+      "title": "AER Final Decision: Ausgrid Hunter-Central Coast REZ non-contestable network infrastructure project 2026-31",
+      "manifest_included": false
     },
     {
       "derivative_path": "sources/hunter-transmission-project/htp-energyco-2026-transmission-infrastructure-page.txt",
@@ -14882,7 +14913,8 @@
       "publisher": "EnergyCo NSW",
       "sha256": "a98e044f972103d07dbe237bd10c5b4fab06e2df5909412d830a71bed424aa3c",
       "source_id": "HTP-ENERGYCO-2026-INFRA-PAGE",
-      "title": "Hunter Transmission Project – transmission infrastructure web page"
+      "title": "Hunter Transmission Project – transmission infrastructure web page",
+      "manifest_included": false
     },
     {
       "derivative_path": "sources/hunter-transmission-project/htp-energyco-2026-project-page.txt",
@@ -14895,7 +14927,8 @@
       "publisher": "EnergyCo NSW",
       "sha256": "dacdfe0f166484c39448cab918d7d382555fc4fc6d9e374f44fd62fcf4ec56e4",
       "source_id": "HTP-ENERGYCO-2026-PROJECT-PAGE",
-      "title": "Hunter Transmission Project – project web page"
+      "title": "Hunter Transmission Project – project web page",
+      "manifest_included": false
     },
     {
       "derivative_path": "sources/hunter-transmission-project/htp-nswgov-2022-gazette-569.txt",
@@ -14908,7 +14941,8 @@
       "publisher": "NSW Government",
       "sha256": "f38fb437821a804df4c49e88d8c2b62866254bbe57f0d86563999cd6e2b43108",
       "source_id": "HTP-NSWGOV-2022-GAZETTE-569",
-      "title": "NSW Government Gazette No 569, 9 December 2022 (Hunter-Central Coast REZ declaration)"
+      "title": "NSW Government Gazette No 569, 9 December 2022 (Hunter-Central Coast REZ declaration)",
+      "manifest_included": false
     },
     {
       "derivative_path": "sources/humelink/text/AEMO-2018-ISP.txt",
@@ -14921,7 +14955,8 @@
       "publisher": "Australian Energy Market Operator",
       "sha256": "94dd5a31ee55ff4280af3673ea9409901a2cea0ed4b625d5af4ecb9d4ec5e029",
       "source_id": "HUM-AEMO-2018-ISP",
-      "title": "Integrated System Plan"
+      "title": "Integrated System Plan",
+      "manifest_included": false
     },
     {
       "derivative_path": "sources/humelink/text/AEMO-2018-ISP-appendices.txt",
@@ -14934,7 +14969,8 @@
       "publisher": "Australian Energy Market Operator",
       "sha256": "062acf7685bcfac64d537fb778ce9f3e2960fe3b9efa47ac43a506c0a89952c4",
       "source_id": "HUM-AEMO-2018-ISP-APP",
-      "title": "Integrated System Plan Appendices"
+      "title": "Integrated System Plan Appendices",
+      "manifest_included": false
     },
     {
       "derivative_path": "sources/humelink/text/AEMO-2020-ISP.txt",
@@ -14947,7 +14983,8 @@
       "publisher": "Australian Energy Market Operator",
       "sha256": "a174be3f75bf6dcebf38e8fcb6fb05aaa7cde37afc361273d7277e44ce2759f1",
       "source_id": "HUM-AEMO-2020-ISP",
-      "title": "2020 Integrated System Plan"
+      "title": "2020 Integrated System Plan",
+      "manifest_included": false
     },
     {
       "derivative_path": "sources/humelink/text/AEMO-2020-ISP-Appendix-3.txt",
@@ -14960,7 +14997,8 @@
       "publisher": "Australian Energy Market Operator",
       "sha256": "285a01a1df766879e95d4c4bcad4044b7acfade3dfb01b1c905f5805fc877bdf",
       "source_id": "HUM-AEMO-2020-ISP-A3",
-      "title": "2020 ISP Appendix 3 Network Investments"
+      "title": "2020 ISP Appendix 3 Network Investments",
+      "manifest_included": false
     },
     {
       "derivative_path": "sources/humelink/text/AEMO-2022-HumeLink-early-works-feedback-loop.txt",
@@ -14973,7 +15011,8 @@
       "publisher": "Australian Energy Market Operator",
       "sha256": "ea75608f12d04601e699ae857f092f3f61b63bbbce7d6c2dbe01722faa7d0ace",
       "source_id": "HUM-AEMO-2022-FL1",
-      "title": "Integrated System Plan Feedback Loop Notice HumeLink Early Works"
+      "title": "Integrated System Plan Feedback Loop Notice HumeLink Early Works",
+      "manifest_included": false
     },
     {
       "derivative_path": "sources/humelink/text/AEMO-2022-ISP.txt",
@@ -14986,7 +15025,8 @@
       "publisher": "Australian Energy Market Operator",
       "sha256": "047166b47c6871dc11e081422c5f0c2c70312d4c16df29f5535ad7d269a208dc",
       "source_id": "HUM-AEMO-2022-ISP",
-      "title": "2022 Integrated System Plan"
+      "title": "2022 Integrated System Plan",
+      "manifest_included": false
     },
     {
       "derivative_path": "sources/humelink/text/AEMO-2023-HumeLink-expanded-early-works-feedback-loop.txt",
@@ -14999,7 +15039,8 @@
       "publisher": "Australian Energy Market Operator",
       "sha256": "b3e59a92c76f70a3575cf21052602856d268a817744652f4a6c2d385a382699b",
       "source_id": "HUM-AEMO-2023-FL2",
-      "title": "Integrated System Plan Feedback Loop Notice HumeLink Early Works"
+      "title": "Integrated System Plan Feedback Loop Notice HumeLink Early Works",
+      "manifest_included": false
     },
     {
       "derivative_path": "sources/humelink/text/AEMO-2023-HumeLink-full-project-feedback-loop.txt",
@@ -15012,7 +15053,8 @@
       "publisher": "Australian Energy Market Operator",
       "sha256": "12563576521c7f8af2b987061433c43326a8f7f23b55bb5a8bb71b76063f4d68",
       "source_id": "HUM-AEMO-2023-FL3",
-      "title": "Integrated System Plan Feedback Loop Notice HumeLink"
+      "title": "Integrated System Plan Feedback Loop Notice HumeLink",
+      "manifest_included": false
     },
     {
       "derivative_path": "sources/humelink/text/AEMO-2024-HumeLink-feedback-loop-notice.txt",
@@ -15025,7 +15067,8 @@
       "publisher": "Australian Energy Market Operator",
       "sha256": "76893dfb5b9ea2f764d5612f1af083217a7a0e7048d4b6c6a46656c4456793ee",
       "source_id": "HUM-AEMO-2024-FL4",
-      "title": "Integrated System Plan Feedback Loop Notice HumeLink"
+      "title": "Integrated System Plan Feedback Loop Notice HumeLink",
+      "manifest_included": false
     },
     {
       "derivative_path": "sources/humelink/text/AEMO-2024-ISP-Appendix-5.txt",
@@ -15038,7 +15081,8 @@
       "publisher": "Australian Energy Market Operator",
       "sha256": "ea99b4260753614c970abbe7b2e3f91b931f5e99d58105cbd8ca509282934149",
       "source_id": "HUM-AEMO-2024-ISP-A5",
-      "title": "2024 ISP Appendix A5 Network Investments"
+      "title": "2024 ISP Appendix A5 Network Investments",
+      "manifest_included": false
     },
     {
       "derivative_path": "sources/humelink/text/AEMO-2026-ISP-Appendix-5.txt",
@@ -15051,7 +15095,8 @@
       "publisher": "Australian Energy Market Operator",
       "sha256": "7df9478c9ca00964219ec301552902cf4fd338c159509daa7f4b900c668364c8",
       "source_id": "HUM-AEMO-2026-ISP-A5",
-      "title": "2026 ISP Appendix A5 Network Investments"
+      "title": "2026 ISP Appendix A5 Network Investments",
+      "manifest_included": false
     },
     {
       "derivative_path": "sources/humelink/text/AER-2021-HumeLink-RITT-dispute-determination.txt",
@@ -15064,7 +15109,8 @@
       "publisher": "Australian Energy Regulator",
       "sha256": "c5c57a53249929b8936790021c95f64a5dfe81f1a334a17e3445bd580898a106",
       "source_id": "HUM-AER-2021-DISPUTE-DETERMINATION",
-      "title": "Determination on RIT-T dispute Transgrid HumeLink"
+      "title": "Determination on RIT-T dispute Transgrid HumeLink",
+      "manifest_included": false
     },
     {
       "derivative_path": "sources/humelink/text/AER-2022-HumeLink-Stage1-Part1-determination.txt",
@@ -15077,7 +15123,8 @@
       "publisher": "Australian Energy Regulator",
       "sha256": "5089a9c17a1098e55ef6a419e05e906791539ced5e82cea8a2408646658997f1",
       "source_id": "HUM-AER-2022-CPA1P1",
-      "title": "Determination HumeLink Stage 1 Early Works"
+      "title": "Determination HumeLink Stage 1 Early Works",
+      "manifest_included": false
     },
     {
       "derivative_path": "sources/humelink/text/AER-2023-HumeLink-Stage1-Part2-determination.txt",
@@ -15090,7 +15137,8 @@
       "publisher": "Australian Energy Regulator",
       "sha256": "7f7e9c3bd80dc9b31617d732eeca931cfd8ed5ede7a7d10b3b8d27d338f84da5",
       "source_id": "HUM-AER-2023-CPA1P2",
-      "title": "Determination HumeLink Stage 1 Part 2"
+      "title": "Determination HumeLink Stage 1 Part 2",
+      "manifest_included": false
     },
     {
       "derivative_path": "sources/humelink/text/AER-2024-HumeLink-Stage2-determination.txt",
@@ -15103,7 +15151,8 @@
       "publisher": "Australian Energy Regulator",
       "sha256": "aabdeb4681461fdc58ca8e79ff5f425452e4532b47f62e9349c8d206cb5bbb5d",
       "source_id": "HUM-AER-2024-CPA2",
-      "title": "Determination Transgrid HumeLink Stage 2 Contingent Project"
+      "title": "Determination Transgrid HumeLink Stage 2 Contingent Project",
+      "manifest_included": false
     },
     {
       "derivative_path": "sources/humelink/text/NSW-2024-HumeLink-planning-assessment-report.txt",
@@ -15116,7 +15165,8 @@
       "publisher": "NSW Department of Planning Housing and Infrastructure",
       "sha256": "5a29c47a1f187afed38860d472e51147019b335c9f1417f618ef9d031ab25e74",
       "source_id": "HUM-NSW-2024-ASSESSMENT",
-      "title": "HumeLink State significant infrastructure assessment report"
+      "title": "HumeLink State significant infrastructure assessment report",
+      "manifest_included": false
     },
     {
       "derivative_path": "sources/humelink/text/NSW-2024-HumeLink-planning-notice-of-determination.txt",
@@ -15129,7 +15179,8 @@
       "publisher": "NSW Government Planning Housing and Infrastructure",
       "sha256": "f4134a67811e39796aae64bc2be2c505cf53d552f76a03aceae96b686bbed602",
       "source_id": "HUM-NSW-2024-DECISION",
-      "title": "Notice of decision HumeLink"
+      "title": "Notice of decision HumeLink",
+      "manifest_included": false
     },
     {
       "derivative_path": "sources/humelink/text/Transgrid-2019-HumeLink-PSCR.txt",
@@ -15142,7 +15193,8 @@
       "publisher": "Transgrid",
       "sha256": "b9eb74f53e4de76de5aa978104bf8b281ddfbbdf4fe67faeeb90071e3dc87460",
       "source_id": "HUM-TG-2019-PSCR",
-      "title": "Reinforcing the NSW Southern Shared Network to increase transfer capacity to demand centres"
+      "title": "Reinforcing the NSW Southern Shared Network to increase transfer capacity to demand centres",
+      "manifest_included": false
     },
     {
       "derivative_path": "sources/humelink/text/Transgrid-2020-HumeLink-PADR-amended.txt",
@@ -15155,7 +15207,8 @@
       "publisher": "Transgrid",
       "sha256": "63b0a1dc00d1294a2089dfa8a799e622322b9d61b6f7cdc71f087672da870950",
       "source_id": "HUM-TG-2020-PADR",
-      "title": "Reinforcing the NSW Southern Shared Network to increase transfer capacity to demand centres"
+      "title": "Reinforcing the NSW Southern Shared Network to increase transfer capacity to demand centres",
+      "manifest_included": false
     },
     {
       "derivative_path": "sources/humelink/text/Transgrid-2021-HumeLink-newsletter-September.txt",
@@ -15168,7 +15221,8 @@
       "publisher": "Transgrid",
       "sha256": "755a8e120fa8874fbe03ef1bcaa3cf6dfa191af11d68a5f24c456611fa3ed016",
       "source_id": "HUM-TG-2021-NEWS-SEP",
-      "title": "HumeLink Update"
+      "title": "HumeLink Update",
+      "manifest_included": false
     },
     {
       "derivative_path": "sources/humelink/text/Transgrid-2021-HumeLink-PACR.txt",
@@ -15181,7 +15235,8 @@
       "publisher": "Transgrid",
       "sha256": "ff1bad2422066aa94562d2acd6f73805c8c0d3b6cf9f2ec163275a8709c9f126",
       "source_id": "HUM-TG-2021-PACR",
-      "title": "Reinforcing the NSW Southern Shared Network to increase transfer capacity to demand centres (HumeLink)"
+      "title": "Reinforcing the NSW Southern Shared Network to increase transfer capacity to demand centres (HumeLink)",
+      "manifest_included": false
     },
     {
       "derivative_path": "sources/humelink/text/Transgrid-2021-HumeLink-PACR-addendum.txt",
@@ -15194,7 +15249,8 @@
       "publisher": "Transgrid",
       "sha256": "2bb70e8f74d45430612ade09de0dd970def38480a99e5fa9b30857e2cbbd9290",
       "source_id": "HUM-TG-2021-PACR-ADD",
-      "title": "Addendum to Project Assessment Conclusions Report"
+      "title": "Addendum to Project Assessment Conclusions Report",
+      "manifest_included": false
     },
     {
       "derivative_path": "sources/humelink/text/Transgrid-2021-HumeLink-AER-RFI-response-1.txt",
@@ -15207,7 +15263,8 @@
       "publisher": "Transgrid",
       "sha256": "4f794db61c209e29ab92366d2b7a6c205aa23fc20caee5ba864a11e96b9ab27a",
       "source_id": "HUM-TG-2021-RFI1",
-      "title": "Response to AER information request"
+      "title": "Response to AER information request",
+      "manifest_included": false
     },
     {
       "derivative_path": "sources/humelink/text/Transgrid-2022-HumeLink-CPA1-scope-definition.txt",
@@ -15220,7 +15277,8 @@
       "publisher": "Transgrid",
       "sha256": "004884bb264e301ceb21759be161634e5d070f06d0418a2ca8950880007b2a9d",
       "source_id": "HUM-TG-2022-CPA1-SCOPE",
-      "title": "A.2 Scope definition document HumeLink Stage 1 early works Contingent Project Application"
+      "title": "A.2 Scope definition document HumeLink Stage 1 early works Contingent Project Application",
+      "manifest_included": false
     },
     {
       "derivative_path": "sources/humelink/text/Transgrid-2024-HumeLink-CPA2-principal-application.txt",
@@ -15233,7 +15291,8 @@
       "publisher": "Transgrid",
       "sha256": "421137246621dd8752de438c8103e5320812f0f3ed7dc718d88e9fe41103e248",
       "source_id": "HUM-TG-2024-CPA2",
-      "title": "A.1 Principal Application HumeLink CPA Stage 2"
+      "title": "A.1 Principal Application HumeLink CPA Stage 2",
+      "manifest_included": false
     },
     {
       "derivative_path": "sources/humelink/text/Transgrid-2024-HumeLink-MCC-assessment.txt",
@@ -15246,7 +15305,8 @@
       "publisher": "Transgrid",
       "sha256": "bb495f07820456588f26f699722ea6dd6a01f072e67ad19023a2b1c01de2f902",
       "source_id": "HUM-TG-2024-MCCA",
-      "title": "Reinforcing the NSW Southern Shared Network HumeLink Material change in circumstance assessment"
+      "title": "Reinforcing the NSW Southern Shared Network HumeLink Material change in circumstance assessment",
+      "manifest_included": false
     },
     {
       "derivative_path": "sources/humelink/hum-tg-2025-west-news-oct.txt",
@@ -15259,7 +15319,8 @@
       "publisher": "Transgrid",
       "sha256": "292b509ece2ef2ce8ce006b006c9c370f99f93937ab0db8cdce0b3b8128de6a3",
       "source_id": "HUM-TG-2025-WEST-NEWS-OCT",
-      "title": "HumeLink West Quarterly Newsletter - October 2025"
+      "title": "HumeLink West Quarterly Newsletter - October 2025",
+      "manifest_included": false
     },
     {
       "derivative_path": "sources/humelink/text/Wunelli-2021-HumeLink-dispute-notice.txt",
@@ -15272,7 +15333,8 @@
       "publisher": "Wunelli Pty Ltd",
       "sha256": "212ba7d1f24b164a080149c1105930c5a248ce1719ff964ae4beb688e3fc433a",
       "source_id": "HUM-WUN-2021-DISPUTE",
-      "title": "Reinforcing the NSW Southern Shared Network RIT-T Notice of Dispute"
+      "title": "Reinforcing the NSW Southern Shared Network RIT-T Notice of Dispute",
+      "manifest_included": false
     },
     {
       "derivative_path": "sources/marinus-link/ml-dcceew-2025-fid.txt",
@@ -15285,7 +15347,8 @@
       "publisher": "Australian Government / Ministers for Climate Change and Energy",
       "sha256": "a1bd65fb72c560349661aca6e5540b94f2036b29fd21af4e3091305f147106f1",
       "source_id": "ML-DCCEEW-2025-FID",
-      "title": "Joint media release: Marinus Link reaches financial close, connecting Tasmania's renewables to the world"
+      "title": "Joint media release: Marinus Link reaches financial close, connecting Tasmania's renewables to the world",
+      "manifest_included": false
     },
     {
       "derivative_path": "sources/marinus-link/text/EY-2024-Marinus-Link-Gross-Benefits.txt",
@@ -15298,7 +15361,8 @@
       "publisher": "Ernst & Young for TasNetworks",
       "sha256": "637ad96fa75ffa1bb6ad891f8b92d4fc0555f453e604d7873fad24d23324b190",
       "source_id": "ML-EY-2024-RITT",
-      "title": "Project Marinus RIT-T update gross benefits report"
+      "title": "Project Marinus RIT-T update gross benefits report",
+      "manifest_included": false
     },
     {
       "derivative_path": "sources/marinus-link/text/EY-2025-Marinus-Link-Gross-Benefits-Addendum.txt",
@@ -15311,7 +15375,8 @@
       "publisher": "Ernst & Young for TasNetworks",
       "sha256": "d90ff9076eaf9ad9fdb6cec1657af17c15c1ec9e345039b718672fb64b3263e8",
       "source_id": "ML-EY-2025-ADD",
-      "title": "Gross market benefit assessment addendum"
+      "title": "Gross market benefit assessment addendum",
+      "manifest_included": false
     },
     {
       "derivative_path": "sources/marinus-link/ml-mlpl-2025-contract.txt",
@@ -15324,7 +15389,8 @@
       "publisher": "Marinus Link Pty Ltd",
       "sha256": "4c4e5fee2ee5c50acd2a3b32616822a51e4b8e7d8c74e34f5a80f338b050bc06",
       "source_id": "ML-MLPL-2025-CONTRACT",
-      "title": "Marinus Link awards major contract for civils and construction"
+      "title": "Marinus Link awards major contract for civils and construction",
+      "manifest_included": false
     },
     {
       "derivative_path": "sources/marinus-link/text/TasNetworks-2021-Project-Marinus-PACR.txt",
@@ -15337,7 +15403,8 @@
       "publisher": "TasNetworks",
       "sha256": "35abb33c57ae71d89a38881d2ada5f4eacd8e74393e6d4171a512a0a0cc94609",
       "source_id": "ML-TN-2021-PACR",
-      "title": "Project Marinus RIT-T Project Assessment Conclusions Report"
+      "title": "Project Marinus RIT-T Project Assessment Conclusions Report",
+      "manifest_included": false
     },
     {
       "derivative_path": "sources/marinus-link/text/TasNetworks-2025-Marinus-Link-RIT-T-update-summary.txt",
@@ -15350,7 +15417,8 @@
       "publisher": "TasNetworks",
       "sha256": "b3659c9f6c20e915f65988837c6f80f356e1991c1e2827a5d2a4233569fa3fdd",
       "source_id": "ML-TN-2025-RITT",
-      "title": "Project Marinus RIT-T update report summary"
+      "title": "Project Marinus RIT-T update report summary",
+      "manifest_included": false
     },
     {
       "derivative_path": "sources/new-england-rez/ner-energyco-2025-bulkcorridor.txt",
@@ -15363,7 +15431,8 @@
       "publisher": "EnergyCo NSW",
       "sha256": "b89e12611d1b80f885f5a9cc0c033d9adc94c951d1040e764b94e71d58bc0f2d",
       "source_id": "NER-ENERGYCO-2025-BULKCORRIDOR",
-      "title": "New England REZ Bulk Corridor Design Refinement Report"
+      "title": "New England REZ Bulk Corridor Design Refinement Report",
+      "manifest_included": false
     },
     {
       "derivative_path": "sources/new-england-rez/ner-energyco-2025-generation-storage-consultation.txt",
@@ -15376,7 +15445,8 @@
       "publisher": "EnergyCo NSW",
       "sha256": "960198ef247ef568951de1997b2888c5f6723326be5474d9c2b1f425aa4b312a",
       "source_id": "NER-ENERGYCO-2025-CONSULTATION",
-      "title": "New England REZ Generation and Storage Consultation Paper"
+      "title": "New England REZ Generation and Storage Consultation Paper",
+      "manifest_included": false
     },
     {
       "derivative_path": "sources/new-england-rez/ner-energyco-2026-feedback-report.txt",
@@ -15389,7 +15459,8 @@
       "publisher": "EnergyCo NSW",
       "sha256": "ac200b72ff428ec334fa99a6cf72fa086a7a7caa3532a71b2b946a7d4a93037e",
       "source_id": "NER-ENERGYCO-2026-FEEDBACK",
-      "title": "New England REZ Community Feedback Report (April 2026) incl. Bulk Corridor Refinement Study"
+      "title": "New England REZ Community Feedback Report (April 2026) incl. Bulk Corridor Refinement Study",
+      "manifest_included": false
     },
     {
       "derivative_path": "sources/new-england-rez/ner-nswgov-2021-gazette-643.txt",
@@ -15402,7 +15473,8 @@
       "publisher": "NSW Government",
       "sha256": "615b1a903f21b2a79acfc7b136494ec183f0e2189a5123569c88fcb42eb021f4",
       "source_id": "NER-NSWGOV-2021-GAZETTE-643",
-      "title": "NSW Government Gazette No 643, 17 December 2021 (New England REZ declaration)"
+      "title": "NSW Government Gazette No 643, 17 December 2021 (New England REZ declaration)",
+      "manifest_included": false
     },
     {
       "derivative_path": "sources/project-energyconnect/text/ElectraNet-2020-PEC-principal-application.txt",
@@ -15415,7 +15487,8 @@
       "publisher": "ElectraNet",
       "sha256": "bd0c09c2c0926a4c2705cb3cb9dcedbcd0a7d4b3e1dc0196c31be034f1dc503e",
       "source_id": "PEC-AER-2020-ELECTRANET-APPLICATION",
-      "title": "Project EnergyConnect contingent project application"
+      "title": "Project EnergyConnect contingent project application",
+      "manifest_included": false
     },
     {
       "derivative_path": "sources/project-energyconnect/text/TransGrid-2020-PEC-principal-application.txt",
@@ -15428,7 +15501,8 @@
       "publisher": "TransGrid",
       "sha256": "f0c51ab0add31e2057f7a1db26dc2496e86ae49ce4d0829504f5d521fb6d22b1",
       "source_id": "PEC-AER-2020-TRANSGRID-APPLICATION",
-      "title": "Project EnergyConnect principal application"
+      "title": "Project EnergyConnect principal application",
+      "manifest_included": false
     },
     {
       "derivative_path": "sources/project-energyconnect/text/AER-2021-ElectraNet-PEC-determination.txt",
@@ -15441,7 +15515,8 @@
       "publisher": "Australian Energy Regulator",
       "sha256": "8a33b67b5636db0c8a94c16e64e686fa587afa82cd1796e1c60627b523f6e26c",
       "source_id": "PEC-AER-2021-ELECTRANET-DECISION",
-      "title": "Final Decision ElectraNet Project EnergyConnect contingent project"
+      "title": "Final Decision ElectraNet Project EnergyConnect contingent project",
+      "manifest_included": false
     },
     {
       "derivative_path": "sources/project-energyconnect/text/AER-2021-TransGrid-PEC-determination.txt",
@@ -15454,7 +15529,8 @@
       "publisher": "Australian Energy Regulator",
       "sha256": "79cc7ed762ccd98448a5d3e61a9246a6f02822d8add5137aee6380aca7b02e41",
       "source_id": "PEC-AER-2021-TRANSGRID-DECISION",
-      "title": "Final Decision TransGrid Project EnergyConnect contingent project"
+      "title": "Final Decision TransGrid Project EnergyConnect contingent project",
+      "manifest_included": false
     },
     {
       "derivative_path": "sources/project-energyconnect/pec-aer-2026-reopen.txt",
@@ -15467,7 +15543,8 @@
       "publisher": "TransGrid (application to Australian Energy Regulator)",
       "sha256": "4445466951c37241b06a461e7348b48b82453d4c41c3c34bf3245ac64ac520e6",
       "source_id": "PEC-AER-2026-REOPEN",
-      "title": "Project EnergyConnect - An application to reopen the 2023-2028 Revenue Determination"
+      "title": "Project EnergyConnect - An application to reopen the 2023-2028 Revenue Determination",
+      "manifest_included": false
     },
     {
       "derivative_path": "sources/project-energyconnect/pec-joint-2026-project-page.txt",
@@ -15480,7 +15557,8 @@
       "publisher": "ElectraNet / Transgrid",
       "sha256": "d7b387e27a5dab19b0e4de672ea27a75b7ca21c4d04d7be5ce5010a793fe4469",
       "source_id": "PEC-JOINT-2026-PROJECT-PAGE",
-      "title": "Project EnergyConnect - official joint project website"
+      "title": "Project EnergyConnect - official joint project website",
+      "manifest_included": false
     },
     {
       "derivative_path": "sources/project-energyconnect/pec-tg-2026-attachment2.txt",
@@ -15493,7 +15571,8 @@
       "publisher": "TransGrid (application to Australian Energy Regulator)",
       "sha256": "45f333644fdb7a0fd9527c78c2e31bef20d59d112486ba0ba1a84e908b5f9a3c",
       "source_id": "PEC-TG-2026-ATTACHMENT2",
-      "title": "Attachment 2 - Project EnergyConnect and Contract Failure"
+      "title": "Attachment 2 - Project EnergyConnect and Contract Failure",
+      "manifest_included": false
     },
     {
       "derivative_path": "sources/project-energyconnect/pec-tg-2026-completion.txt",
@@ -15506,7 +15585,8 @@
       "publisher": "Transgrid",
       "sha256": "110333c1b8a06351e3ebf1260388c7391ed6a0156950173e505f6b98e29ae36a",
       "source_id": "PEC-TG-2026-COMPLETION",
-      "title": "EnergyConnect powers up as clean energy transition forges ahead"
+      "title": "EnergyConnect powers up as clean energy transition forges ahead",
+      "manifest_included": false
     },
     {
       "derivative_path": "sources/project-energyconnect/text/Transgrid-PEC-project-page.html.txt",
@@ -15519,7 +15599,8 @@
       "publisher": "Transgrid",
       "sha256": "51468440327d7430eb082e12bce43063714e69a075618d24ec1d8bf34b9c8662",
       "source_id": "PEC-TG-PROJECT-PAGE",
-      "title": "EnergyConnect project page"
+      "title": "EnergyConnect project page",
+      "manifest_included": false
     },
     {
       "derivative_path": "sources/sydney-ring-south/srs-transgrid-2023-southern-ring-isp-preparatory.txt",
@@ -15532,7 +15613,8 @@
       "publisher": "Transgrid",
       "sha256": "9cf943c9725506c2061b473dfd5f137e9d9f3c39bfa107f56709d590d1d1e38a",
       "source_id": "SRS-TG-2023-SOUTHERN-RING",
-      "title": "ISP Preparatory Activities – Reinforcing Sydney, Newcastle and Wollongong Supply (Southern Ring)"
+      "title": "ISP Preparatory Activities – Reinforcing Sydney, Newcastle and Wollongong Supply (Southern Ring)",
+      "manifest_included": false
     },
     {
       "derivative_path": "sources/sydney-ring-south/srs-transgrid-2026-padr.txt",
@@ -15545,7 +15627,8 @@
       "publisher": "Transgrid",
       "sha256": "517d1eb0e2c80ded447674209123f492706fa4a6f9b7ea90faa0ad3ad91943f6",
       "source_id": "SRS-TG-2026-PADR",
-      "title": "Sydney Ring South Project Assessment Draft Report"
+      "title": "Sydney Ring South Project Assessment Draft Report",
+      "manifest_included": false
     },
     {
       "derivative_path": "sources/sydney-ring-south/srs-tg-2026-projectpage.txt",
@@ -15558,7 +15641,8 @@
       "publisher": "Transgrid",
       "sha256": "8cfcc447d18066eced1ac4c05c6fcaf6a5a516b22122e1b9a9e818ec59816ea8",
       "source_id": "SRS-TG-2026-PROJECTPAGE",
-      "title": "Sydney Ring South project page"
+      "title": "Sydney Ring South project page",
+      "manifest_included": false
     },
     {
       "derivative_path": "sources/vni-west-nsw/vnn-aer-2024-cpadetermination.txt",
@@ -15571,7 +15655,8 @@
       "publisher": "Australian Energy Regulator",
       "sha256": "c42227e30e2f904793c4fb570b870812a1e32ba12443ef1c7caa4c6f83fe4865",
       "source_id": "VNN-AER-2024-CPADETERMINATION",
-      "title": "AER Determination: Transgrid VNI West Stage 1 Early Works Contingent Project"
+      "title": "AER Determination: Transgrid VNI West Stage 1 Early Works Contingent Project",
+      "manifest_included": false
     },
     {
       "derivative_path": "sources/vni-west-nsw/vnn-energyco-2026-swrez-transmission.txt",
@@ -15584,7 +15669,8 @@
       "publisher": "EnergyCo NSW",
       "sha256": "1e98b54767663de3ea4f0877f4645f5819596ebeec5967d2aa390686107bfd23",
       "source_id": "VNN-ENERGYCO-2026-SWREZ-TRANSMISSION",
-      "title": "South West REZ transmission and generation projects (incl. VNI West NSW)"
+      "title": "South West REZ transmission and generation projects (incl. VNI West NSW)",
+      "manifest_included": false
     },
     {
       "derivative_path": "sources/vni-west-nsw/vnn-tg-2026-projectpage.txt",
@@ -15597,7 +15683,8 @@
       "publisher": "Transgrid",
       "sha256": "4115bf41d6897075aa3037b68acf52ddc9068c8eeac920e14cea0396c97327e5",
       "source_id": "VNN-TG-2026-PROJECTPAGE",
-      "title": "VNI West project page"
+      "title": "VNI West project page",
+      "manifest_included": false
     },
     {
       "derivative_path": "sources/vni-west-victoria/vnv-transgrid-2022-padr.txt",
@@ -15610,7 +15697,8 @@
       "publisher": "AEMO Victorian Planning / Transgrid",
       "sha256": "93f1470468bad4797d4e0e74b5439145cbcba43e529224568739def4fc297ca7",
       "source_id": "VNV-TRANSGRID-2022-PADR",
-      "title": "VNI West RIT-T Project Assessment Draft Report"
+      "title": "VNI West RIT-T Project Assessment Draft Report",
+      "manifest_included": false
     },
     {
       "derivative_path": "sources/vni-west-victoria/vnv-transgrid-2023-pacr.txt",
@@ -15623,7 +15711,8 @@
       "publisher": "AEMO Victorian Planning / Transgrid",
       "sha256": "73d5ee909a76135417b3798fafa5796f72820f5734e65c6de94794b1a45cea3d",
       "source_id": "VNV-TRANSGRID-2023-PACR",
-      "title": "VNI West RIT-T Project Assessment Conclusions Report Volume 1"
+      "title": "VNI West RIT-T Project Assessment Conclusions Report Volume 1",
+      "manifest_included": false
     },
     {
       "derivative_path": "sources/vni-west-victoria/vnv-vic-gazette-2023-s060.txt",
@@ -15636,7 +15725,8 @@
       "publisher": "Victorian Government Gazette",
       "sha256": "3c95c5ff69d33b48155e1d4d6f1508d3c1dda7a297260c2ddf116bcae0b85165",
       "source_id": "VNV-VIC-GAZETTE-2023-S060",
-      "title": "VNI West and WRL Ministerial Order (Electricity (Victoria) Act 2005 s16Y), Special Gazette S60"
+      "title": "VNI West and WRL Ministerial Order (Electricity (Victoria) Act 2005 s16Y), Special Gazette S60",
+      "manifest_included": false
     },
     {
       "derivative_path": "sources/vni-west-victoria/vnv-vic-gazette-2023-s267-vni-west-wrl-ministerial-order.txt",
@@ -15649,7 +15739,8 @@
       "publisher": "Victorian Government Gazette",
       "sha256": "50fee6d5bc5ee8e22151052fc6abb68740fa8f50036b3f14b03cfa84e21ac98a",
       "source_id": "VNV-VIC-GAZETTE-2023-S267",
-      "title": "VNI West and WRL Ministerial Order (Electricity (Victoria) Act 2005 s16Y), Special Gazette S267"
+      "title": "VNI West and WRL Ministerial Order (Electricity (Victoria) Act 2005 s16Y), Special Gazette S267",
+      "manifest_included": false
     },
     {
       "derivative_path": "sources/vni-west-victoria/vnv-vic-gazette-2024-s605.txt",
@@ -15662,7 +15753,8 @@
       "publisher": "Victorian Government Gazette",
       "sha256": "2779d1540db0de41a110e6a25ef75d1bdffe84bd5b4dde6009d5a73ac92d10ce",
       "source_id": "VNV-VIC-GAZETTE-2024-S605",
-      "title": "CEO VicGrid to Assist AEMO (VNI West) Ministerial Order, Special Gazette S605 (amends s16Y Orders)"
+      "title": "CEO VicGrid to Assist AEMO (VNI West) Ministerial Order, Special Gazette S605 (amends s16Y Orders)",
+      "manifest_included": false
     },
     {
       "derivative_path": "sources/vni-west-victoria/vnv-vic-gazette-2025-s590.txt",
@@ -15675,7 +15767,8 @@
       "publisher": "Victorian Government Gazette",
       "sha256": "2255f91235e8f10a3bde52044f920fa1b52ed324b124b3ed024f8d948efc379b",
       "source_id": "VNV-VIC-GAZETTE-2025-S590",
-      "title": "VicGrid Ministerial Order Amendment, Special Gazette S590 (substitutes 'VicGrid' for 'CEO VicGrid to assist AEMO', commences 1 November 2025)"
+      "title": "VicGrid Ministerial Order Amendment, Special Gazette S590 (substitutes 'VicGrid' for 'CEO VicGrid to assist AEMO', commences 1 November 2025)",
+      "manifest_included": false
     },
     {
       "derivative_path": "sources/vni-west-victoria/vnv-vniwproject-2026-project-overview.txt",
@@ -15688,7 +15781,8 @@
       "publisher": "VNI West project (Transgrid/AVP)",
       "sha256": "04077a3a44815c3a18a70408b85f47b561b62c788bd5da16fbeef8724f804182",
       "source_id": "VNV-VNIW-2026-OVERVIEW",
-      "title": "VNI West project overview web page"
+      "title": "VNI West project overview web page",
+      "manifest_included": false
     },
     {
       "derivative_path": "sources/western-renewables-link/wrl-ausnet-2025-contractor.txt",
@@ -15701,7 +15795,8 @@
       "publisher": "AusNet",
       "sha256": "3cdbed555d2cc60caceb3131521eb4d1e03151421d506e1cfaf2c057a9b902e1",
       "source_id": "WRL-AUSNET-2025-CONTRACTOR",
-      "title": "Western Renewables Link construction contractor appointed"
+      "title": "Western Renewables Link construction contractor appointed",
+      "manifest_included": false
     },
     {
       "derivative_path": "sources/western-renewables-link/text/ausnet-wrl-project.txt",
@@ -15714,7 +15809,8 @@
       "publisher": "AusNet",
       "sha256": "53f5548f37063ec5cd8b495b3db840717b3fd33ac34b6933e3c08e7a6e6c07a4",
       "source_id": "WRL-AUSNET-PROJECT",
-      "title": "Western Renewables Link project webpage"
+      "title": "Western Renewables Link project webpage",
+      "manifest_included": false
     }
   ],
   "warning_codes": [

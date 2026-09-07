@@ -2,9 +2,11 @@
   "build": {
     "contract": "v1",
     "family_slug": "sydney-ring-south",
-    "path_base": "../../../",
+    "path_base": "../",
     "project_id": "SRS-PROJECT-SRS",
-    "research_cutoff": "2026-09-04"
+    "research_cutoff": "2026-09-04",
+    "audit_correction_date": "2026-09-07",
+    "revision_note": "Archived-evidence audit corrections only; research cutoff remains 2026-09-04. Upstream build_report input hashes describe the historical upstream build, not this corrected package; referenced manifests are not asserted to be included."
   },
   "components": [
     {
@@ -156,7 +158,7 @@
       "id": "SRS-AO-2026-PADR-OPT6-NOMINAL",
       "label": "Transgrid PADR Option 6 capital cost estimate as quoted by AEMO",
       "measure": "cost",
-      "notes": "The PADR itself is unavailable (SRS-TG-PADR-DIRECT, SRS-TG-PADR-INDEX). AEMO's quoted figure is $3,519m, not the $3,510m used in the chart notes.",
+      "notes": "The immutable chart contains $3.5bn, consistent with rounding the PADR Option 6 total of $3,519m nominal to one decimal billion. The source gives Stage 1 $1,135m and Stage 2 $2,384m, P50 Class 5 (+100%/-50%). AEMO's $2,621m modelled $2025 amount is a different price basis. No transcription error is established (PADR p38; AEMO 2026 p43).",
       "pages": "43",
       "price_basis": "Nominal (Transgrid applied escalation to 2025-26 estimates)",
       "project_id": "SRS-PROJECT-SRS",
@@ -681,7 +683,7 @@
     },
     {
       "boundary": "PADR Option 6 Stage 1: South Creek substation and power flow control (series reactors)",
-      "comparability": "Matches the ODP timing for Stage 1 works",
+      "comparability": "PADR earliest-service modelling in 2030/31 differs from the June 2026 ISP ODP, which delivers both stages in 2033-34 (AEMO 2026 Appendix A5 PDF p44, footnote 87). Keep the modelling and ODP milestone definitions separate.",
       "date": "2026-05",
       "estimate_class": null,
       "excerpt": "The earliest in-service timing modelled for Option 6 is 2030/31 for the South Creek substation and power flow control scope (series reactors), and 2033/34 for the 500 kV transmission line, which considers early works commencing in 2026/27.",
@@ -1035,14 +1037,14 @@
         "supported_value": "2033-34"
       },
       {
-        "evidence": "Transgrid's own PADR, now archived, states Option 6's total capital cost as $3,519 million (nominal), staged $1,135 million (Stage 1) then $2,384 million (Stage 2), confirming AEMO's secondhand quotation. The chart's 3.510 is not a separate basis but a transcription of 3,519 (last two digits transposed). For the same combined boundary AEMO separately states a modelled $2025 cost of $2,621 million ($261m + $2,360m), which is not comparable on price basis.",
+        "evidence": "The immutable chart contains $3.5bn, consistent with rounding the PADR Option 6 total of $3,519m nominal to one decimal billion. The source gives Stage 1 $1,135m and Stage 2 $2,384m, P50 Class 5 (+100%/-50%). AEMO's $2,621m modelled $2025 amount is a different price basis. No transcription error is established (PADR p38; AEMO 2026 p43).",
         "field": "cost_aud_billion",
         "original": 3.5,
         "pages": "38; 43",
         "selected_observation": "SRS-AO-2026-PADR-OPT6-TOTAL-COST",
         "source_ids": "SRS-TG-2026-PADR; HUM-AEMO-2026-ISP-A5",
-        "status": "contradicted",
-        "supported_value": 3.519
+        "status": "supported_with_boundary",
+        "supported_value": "3.519 AUD billion nominal, combined Option 6 stages; P50 Class 5 (+100%/-50%); rounds to original 3.5"
       },
       {
         "evidence": "Transgrid's own PADR states that Option 6, once complete (both stages), adds 3.6 GW of transfer capacity to the network supplying Sydney, Newcastle and Wollongong from the south -- the same combined Option 6 boundary the chart represents. AEMO separately states 3,600 MW forward capacity for the 500 kV transmission option alone (and 0 MW for the power flow control option).",
@@ -1052,7 +1054,7 @@
         "selected_observation": "SRS-AO-2026-PADR-OPT6-CAPACITY",
         "source_ids": "SRS-TG-2026-PADR; HUM-AEMO-2026-ISP-A5",
         "status": "supported",
-        "supported_value": 3.6
+        "supported_value": "3.6 GW. Boundary/qualification: Transgrid's own PADR states that Option 6, once complete (both stages), adds 3.6 GW of transfer capacity to the network supplying Sydney, Newcastle and Wollongong from the south -- the same combined Option 6 boundary the chart represents. AEMO separately states 3,600 MW forward capacity for the 500 kV transmission option alone (and 0 MW for the power flow control option)."
       },
       {
         "evidence": "Transgrid's June 2023 Southern Ring preparatory-activities document, now archived, states the new Bannaby-South Creek 500 kV double-circuit overhead line has an approximate length of 114 km, matching the chart exactly. However, Transgrid's later 2026 PADR instead describes the (differently scoped) Bannaby-South Western Sydney 500 kV line as extending to around 100 km, so the chart's figure reflects an earlier preparatory estimate, not the current PADR boundary.",
@@ -1062,10 +1064,10 @@
         "selected_observation": "SRS-AO-2023-SOUTHERN-RING-LENGTH",
         "source_ids": "SRS-TG-2023-SOUTHERN-RING; SRS-TG-2026-PADR",
         "status": "supported_with_boundary",
-        "supported_value": 114
+        "supported_value": "114 km. Boundary/qualification: Transgrid's June 2023 Southern Ring preparatory-activities document, now archived, states the new Bannaby-South Creek 500 kV double-circuit overhead line has an approximate length of 114 km, matching the chart exactly. However, Transgrid's later 2026 PADR instead describes the (differently scoped) Bannaby-South Western Sydney 500 kV line as extending to around 100 km, so the chart's figure reflects an earlier preparatory estimate, not the current PADR boundary."
       },
       {
-        "evidence": "Chart derivation: 3,510 AUD million divided by 114 km. The 114 km is now archived (2023 Southern Ring document), but 3,510 does not match any archived cost figure -- the archived PADR Table 3.1 total for Option 6 is $3,519 million, not $3,510 million -- so the ratio as calculated still cannot be validated.",
+        "evidence": "30.70175438596491 = 3,500 AUD million / 114 km, using the original chart inputs. The $3.5bn rounds the $3,519m nominal Option 6 estimate; the 114 km is the older 2023 preparatory route, whereas the 2026 PADR describes approximately 100 km on a revised scope. This mixed-vintage ratio is not a reconciled source-defined construction cost per km (2023 preparatory p8; PADR pp38,43).",
         "field": "millions_per_trunk_km",
         "original": 30.70175438596491,
         "pages": "",
@@ -1082,7 +1084,7 @@
         "selected_observation": "SRS-AO-2026-CIRCUITS",
         "source_ids": "HUM-AEMO-2026-ISP-A5; SRS-TG-2026-PADR",
         "status": "supported",
-        "supported_value": 2
+        "supported_value": "2 circuits. Boundary/qualification: AEMO describes a double-circuit 330 kV transmission line built to a 500 kV design between Bannaby and the new South Creek switching station. Transgrid's own PADR (Option 6) confirms a new 500 kV double circuit transmission line between Bannaby and South Western Sydney."
       },
       {
         "evidence": "A single new line is described between Bannaby and South Creek; the other line works are rebuild and reconductoring of existing lines. Transgrid's own PADR (Option 6) likewise describes a single new 500 kV double circuit line commissioned from Bannaby to South Western Sydney.",
@@ -1092,7 +1094,7 @@
         "selected_observation": "SRS-AO-2026-LINES",
         "source_ids": "HUM-AEMO-2026-ISP-A5; SRS-TG-2026-PADR",
         "status": "supported",
-        "supported_value": 1
+        "supported_value": "1 lines. Boundary/qualification: A single new line is described between Bannaby and South Creek; the other line works are rebuild and reconductoring of existing lines. Transgrid's own PADR (Option 6) likewise describes a single new 500 kV double circuit line commissioned from Bannaby to South Western Sydney."
       },
       {
         "evidence": "No archived source counts alternative routes. The count rests on the author's reading of PADR Figure 2.5 and on the Sydney Ring providing a 500 kV path north of Bannaby; shared South Creek and Sydney West interfaces mean geographic diversity is not equivalent to independent route security.",
@@ -1132,7 +1134,7 @@
         "selected_observation": "SRS-AO-2026-TRANSFORMERS",
         "source_ids": "HUM-AEMO-2026-ISP-A5",
         "status": "supported",
-        "supported_value": 4500
+        "supported_value": "4500 MVA (chart arithmetic, not unit count). Boundary/qualification: AEMO states the South Creek 330/500 kV upgrade includes three 1,500 MVA 500/330 kV transformers, corresponding to the chart's 4,500 MVA installed rating. The superseded 2024 alternative Option 2 had two 1,500 MVA units."
       },
       {
         "evidence": "No archived source states hub-to-project feeder lines or their length for this project; the archived scope contains no feeder lines, but the absence is not stated as a quantity.",
@@ -1161,7 +1163,7 @@
       "transformers": 4500,
       "trunk_km": 114
     },
-    "overall_status": "Topology, capacity, circuits, lines and transformer cells are supported by the archived 2026 ISP and, for capacity, circuits and lines, corroborated directly by Transgrid's now-archived PADR; the cost cell is contradicted because the chart's $3.510bn does not match either archived total ($2,621m AEMO-modelled or $3,519m PADR Option 6, of which $3.510bn is a transcription); trunk_km is supported with a boundary caveat (2023 preparatory 114 km vs the PADR's newer ~100 km), and the millions-per-trunk-km ratio still rests on the chart's unverified 3,510 figure, so the row should not be published as-is."
+    "overall_status": "Cost supported with rounding and price-basis qualifications. Topology, capacity and transformer evidence retained; 114 km preparatory versus approximately 100 km PADR scope remains unreconciled. 30.70175438596491 = 3,500 AUD million / 114 km, using the original chart inputs. The $3.5bn rounds the $3,519m nominal Option 6 estimate; the 114 km is the older 2023 preparatory route, whereas the 2026 PADR describes approximately 100 km on a revised scope. This mixed-vintage ratio is not a reconciled source-defined construction cost per km (2023 preparatory p8; PADR pp38,43)."
   },
   "schema": "ate.project-evidence-pack.v2",
   "sources": [
@@ -1176,7 +1178,8 @@
       "publisher": "Australian Energy Market Operator",
       "sha256": "ea99b4260753614c970abbe7b2e3f91b931f5e99d58105cbd8ca509282934149",
       "source_id": "HUM-AEMO-2024-ISP-A5",
-      "title": "2024 ISP Appendix A5 Network Investments"
+      "title": "2024 ISP Appendix A5 Network Investments",
+      "manifest_included": false
     },
     {
       "derivative_path": "sources/humelink/text/AEMO-2026-ISP-Appendix-5.txt",
@@ -1189,7 +1192,8 @@
       "publisher": "Australian Energy Market Operator",
       "sha256": "7df9478c9ca00964219ec301552902cf4fd338c159509daa7f4b900c668364c8",
       "source_id": "HUM-AEMO-2026-ISP-A5",
-      "title": "2026 ISP Appendix A5 Network Investments"
+      "title": "2026 ISP Appendix A5 Network Investments",
+      "manifest_included": false
     },
     {
       "derivative_path": "sources/sydney-ring-south/srs-transgrid-2023-southern-ring-isp-preparatory.txt",
@@ -1202,7 +1206,8 @@
       "publisher": "Transgrid",
       "sha256": "9cf943c9725506c2061b473dfd5f137e9d9f3c39bfa107f56709d590d1d1e38a",
       "source_id": "SRS-TG-2023-SOUTHERN-RING",
-      "title": "ISP Preparatory Activities – Reinforcing Sydney, Newcastle and Wollongong Supply (Southern Ring)"
+      "title": "ISP Preparatory Activities – Reinforcing Sydney, Newcastle and Wollongong Supply (Southern Ring)",
+      "manifest_included": false
     },
     {
       "derivative_path": "sources/sydney-ring-south/srs-transgrid-2026-padr.txt",
@@ -1215,7 +1220,8 @@
       "publisher": "Transgrid",
       "sha256": "517d1eb0e2c80ded447674209123f492706fa4a6f9b7ea90faa0ad3ad91943f6",
       "source_id": "SRS-TG-2026-PADR",
-      "title": "Sydney Ring South Project Assessment Draft Report"
+      "title": "Sydney Ring South Project Assessment Draft Report",
+      "manifest_included": false
     },
     {
       "derivative_path": "sources/sydney-ring-south/srs-tg-2026-projectpage.txt",
@@ -1228,11 +1234,12 @@
       "publisher": "Transgrid",
       "sha256": "8cfcc447d18066eced1ac4c05c6fcaf6a5a516b22122e1b9a9e818ec59816ea8",
       "source_id": "SRS-TG-2026-PROJECTPAGE",
-      "title": "Sydney Ring South project page"
+      "title": "Sydney Ring South project page",
+      "manifest_included": false
     }
   ],
   "summary": {
-    "analysis_conclusion": "The archived record supports the topology, capacity and transformer figures. Transgrid's own PADR is now archived and directly states Option 6's total capital cost as $3,519 million (nominal), staged $1,135 million then $2,384 million; this confirms AEMO's secondhand quotation and shows the chart's $3.510 billion is a transcription of $3,519 million, not a separate basis. The chart's 114 km matches Transgrid's archived 2023 preparatory estimate for the Bannaby-South Creek line, but the archived 2026 PADR instead describes the (now differently scoped) line as extending to around 100 km.",
+    "analysis_conclusion": "The immutable chart contains $3.5bn, consistent with rounding the PADR Option 6 total of $3,519m nominal to one decimal billion. The source gives Stage 1 $1,135m and Stage 2 $2,384m, P50 Class 5 (+100%/-50%). AEMO's $2,621m modelled $2025 amount is a different price basis. No transcription error is established (PADR p38; AEMO 2026 p43). 30.70175438596491 = 3,500 AUD million / 114 km, using the original chart inputs. The $3.5bn rounds the $3,519m nominal Option 6 estimate; the 114 km is the older 2023 preparatory route, whereas the 2026 PADR describes approximately 100 km on a revised scope. This mixed-vintage ratio is not a reconciled source-defined construction cost per km (2023 preparatory p8; PADR pp38,43).",
     "capacity": "3,600 MW additional forward capacity from the 500 kV option; 0 MW from the power flow control option. Existing CNSW-SNW South flow path is modelled at 2,540 MW (peak/summer typical) and 2,720 MW (winter).",
     "completion_date": "2033-34 financial year (2026 ISP ODP)",
     "current_status": "Actionable ISP project in the 2024 and 2026 ISPs; Transgrid's PADR is under consultation. No approval, feedback-loop confirmation or final decision is archived.",
@@ -1345,16 +1352,16 @@
     },
     {
       "code": "AUTHOR_DECISION_REQUIRED",
-      "finding": "Two archived cost figures exist for this row on different bases: the AEMO-modelled $2,621m ($2025, both options combined) and Transgrid's own PADR Option 6 total of $3,519m (nominal, staged $1,135m then $2,384m). The chart's $3.510bn matches neither basis and is a transcription of $3,519m.",
-      "implication": "The author must choose which basis the chart publishes ($2025 modelled or nominal PADR) and correct the transcription; the pack neither converts between price bases nor treats the difference as growth.",
+      "finding": "The immutable chart contains $3.5bn, consistent with rounding the PADR Option 6 total of $3,519m nominal to one decimal billion. The source gives Stage 1 $1,135m and Stage 2 $2,384m, P50 Class 5 (+100%/-50%). AEMO's $2,621m modelled $2025 amount is a different price basis. No transcription error is established (PADR p38; AEMO 2026 p43).",
+      "implication": "The immutable chart contains $3.5bn, consistent with rounding the PADR Option 6 total of $3,519m nominal to one decimal billion. The source gives Stage 1 $1,135m and Stage 2 $2,384m, P50 Class 5 (+100%/-50%). AEMO's $2,621m modelled $2025 amount is a different price basis. No transcription error is established (PADR p38; AEMO 2026 p43).",
       "pinpoints": "HUM-AEMO-2026-ISP-A5 p43 (footnote 85); SRS-TG-2026-PADR p38",
       "severity": "blocker",
       "source_ids": "HUM-AEMO-2026-ISP-A5; SRS-TG-2026-PADR"
     },
     {
-      "code": "CONTRADICTION",
-      "finding": "The chart notes cite $3.510 billion for PADR Option 6. Transgrid's own PADR, now archived, states Option 6's total capital cost as $3,519 million (nominal), confirming the archived AEMO quotation of the same figure; the chart value matches neither this total nor AEMO's separately archived $2,621 million ($2025) modelled total for the same two options combined.",
-      "implication": "The $3.510bn is a transcription of $3,519m (last two digits transposed), not a distinct sourced figure; it also does not match the AEMO-modelled total on a different price basis. Both must be resolved before publication.",
+      "code": "NON_COMPARABLE_SERIES",
+      "finding": "The immutable chart contains $3.5bn, consistent with rounding the PADR Option 6 total of $3,519m nominal to one decimal billion. The source gives Stage 1 $1,135m and Stage 2 $2,384m, P50 Class 5 (+100%/-50%). AEMO's $2,621m modelled $2025 amount is a different price basis. No transcription error is established (PADR p38; AEMO 2026 p43).",
+      "implication": "Retain rounding, nominal/modelled price bases and estimate uncertainty; no numerical cost contradiction is established.",
       "pinpoints": "SRS-TG-2026-PADR p38; HUM-AEMO-2026-ISP-A5 p43 (footnote 85)",
       "severity": "warning",
       "source_ids": "SRS-TG-2026-PADR; HUM-AEMO-2026-ISP-A5"
@@ -1385,8 +1392,8 @@
     },
     {
       "code": "CHART_DERIVATION",
-      "finding": "The millions-per-trunk-km cell (30.70) is 3,510 divided by 114. The 114 km is now archived (2023 Southern Ring document), but 3,510 does not match any archived cost figure -- the archived PADR Option 6 total is $3,519 million, not $3,510 million.",
-      "implication": "The ratio's cost input remains an unverified transcription and cannot be validated against any archived source; recomputing with the archived $3,519 million would give a different ratio.",
+      "finding": "30.70175438596491 = 3,500 AUD million / 114 km, using the original chart inputs. The $3.5bn rounds the $3,519m nominal Option 6 estimate; the 114 km is the older 2023 preparatory route, whereas the 2026 PADR describes approximately 100 km on a revised scope. This mixed-vintage ratio is not a reconciled source-defined construction cost per km (2023 preparatory p8; PADR pp38,43).",
+      "implication": "30.70175438596491 = 3,500 AUD million / 114 km, using the original chart inputs. The $3.5bn rounds the $3,519m nominal Option 6 estimate; the 114 km is the older 2023 preparatory route, whereas the 2026 PADR describes approximately 100 km on a revised scope. This mixed-vintage ratio is not a reconciled source-defined construction cost per km (2023 preparatory p8; PADR pp38,43).",
       "pinpoints": "Policy Paper Chart.xlsx Sheet1, Sydney Ring South row",
       "severity": "warning",
       "source_ids": ""
