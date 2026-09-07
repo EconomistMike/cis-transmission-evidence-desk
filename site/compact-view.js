@@ -81,7 +81,7 @@ const tableWidths={
 // Appended evidence includes a leading family column.
 tableWidths['chart-evidence'].unshift(180);
 function discloseCell(td){
- if(td.querySelector('[data-card],button'))return;
+ if(td.querySelector('[data-card],button,.record-basis'))return;
  const sources=[...td.children].filter(x=>x.classList.contains('inline-source'));
  if(sources.length){if(sources.length>2){const more=document.createElement('details');more.className='cell-more';more.innerHTML=`<summary>${sources.length-2} more sources</summary>`;sources.slice(2).forEach(s=>more.append(s));td.append(more);}return;}
  if(td.querySelector('a,details'))return;
