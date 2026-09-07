@@ -21,9 +21,10 @@
    const pack=packsBySlug[row.family];if(!pack)throw new Error('Unknown latest chart family: '+row.family);
    const obs=Object.fromEntries(pack.observations.map(o=>[o.id,o]));
    const links=row.refs.map(id=>{const o=obs[id];if(!o)throw new Error('Unknown latest chart observation: '+id);return `<span data-observation-ref="${esc(id)}" title="${esc(id)}">${sourceLink(o.source_id,o.pages)}</span>`;}).join('');
-   return `<tr data-project="${esc(pack.name)}" data-latest-chart-row="${esc(row.scope)}" data-search="${esc(row.scope+' '+row.cells.join(' '))}"><th scope="row">${esc(row.scope)}</th>${row.cells.map(value=>`<td>${esc(value)}</td>`).join('')}<td>${links}</td></tr>`;
+   const compactCell=value=>{const text=String(value),missing=text.includes('Not established'),qualified=!missing&&/(unresolved|unstated|separate|scope|scoped|not |pending|differs|per |see |indicative|future|alternative|no source|no total|not final)/i.test(text),tone=missing?'red':qualified?'amber':'green',mark=missing?'×':qualified?'!':'✓',label=missing?'Not established':qualified?'Qualified or scoped':'Source-backed';return `<td><span class="latest-compact-cell"><span>${esc(text)}</span><span class="signal ${tone}" title="${label}" aria-label="${label}">${mark}</span></span></td>`;};
+   return `<tr data-project="${esc(pack.name)}" data-latest-chart-row="${esc(row.scope)}" data-search="${esc(row.scope+' '+row.cells.join(' '))}"><th scope="row">${esc(row.scope)}</th>${row.cells.map(compactCell).join('')}<td><details class="latest-chart-sources"><summary>${row.refs.length} source record${row.refs.length===1?'':'s'}</summary>${links}</details></td></tr>`;
   }).join('');
-  return `<div class="sheet-title latest-chart-title"><h2>Full source-backed chart</h2><span class="pill">Scopes kept separate</span></div><p class="latest-chart-note">Workbook column order, rebuilt from our evidence. “Not established” is not zero; alternative-route counts are not source-defined. Cost/km is omitted because the available figures are not comparable line-construction rates.</p><div class="table-wrap latest-chart-wrap" role="region" aria-label="Full source-backed latest evidence chart, scroll for more columns" tabindex="0"><table class="latest-full-chart"><thead><tr>${LatestChart.columns.map((c,i)=>`<th scope="col">${esc(c)}</th>`).join('')}</tr></thead><tbody>${rows}</tbody></table></div>`;
+  return `<p class="compact-legend"><span class="signal green">✓</span> Source-backed <span class="signal amber">!</span> Qualified / scoped <span class="signal red">×</span> Not established · Open sources for detail.</p><div class="table-wrap latest-chart-wrap" role="region" aria-label="Full source-backed latest evidence chart, scroll for more columns" tabindex="0"><table class="latest-full-chart"><thead><tr>${LatestChart.columns.map(c=>`<th scope="col">${esc(c)}</th>`).join('')}</tr></thead><tbody>${rows}</tbody></table></div>`;
  }
  function observation(o) {
   if (!o) throw new Error('Latest evidence selection has no observation');
@@ -40,18 +41,19 @@
    <details class="latest-detail"><summary>Scope, source wording and qualifications</summary><p class="latest-boundary">${esc(o.boundary||'Scope not stated')}</p><p>${esc(o.excerpt||'No excerpt recorded')}</p><p>${esc(o.status||'')}</p><p>${esc(o.comparability||'')}</p><p>${esc(o.notes||'')}</p></details>
   </div>`;
  }
+ const chartSection=document.createElement('section');chartSection.id='latest-chart';chartSection.className='mode';
+ chartSection.innerHTML=`<header class="page-head"><div><div class="kicker">Our evidence, comparable structure</div><h1>Latest evidence chart</h1></div><p>Workbook column order rebuilt from source records. Scopes and stages stay separate; unavailable values are not zero.</p></header><div class="sheet-title latest-chart-title"><h2>Chart and evidence</h2><span class="pill">Scopes kept separate</span></div><p class="latest-chart-note">Evidence through 4 September 2026. Cost/km is omitted because the available figures are not comparable line-construction rates.</p>${latestChart()}`;
  const section=document.createElement('section');section.id='latest';section.className='mode';
  section.innerHTML=`<header class="page-head"><div><div class="kicker">Source-defined figures</div><h1>Latest recorded evidence</h1><p>Evidence through 4 September 2026. Dates, stages and price bases are not interchangeable.</p></div></header>
  <p class="latest-intro">Source figures, not workbook scores. Related scopes are separate; do not add them. Missing information is not zero.</p>
- ${latestChart()}
- <div class="sheet-title latest-detail-title"><h2>Detailed evidence</h2><span class="pill">Source observations</span></div>
  <div class="table-wrap latest-wrap" role="region" aria-label="Latest recorded evidence, scroll for more columns" tabindex="0"><table class="latest-table"><colgroup><col style="width:160px"><col style="width:380px"><col style="width:270px"><col style="width:270px"></colgroup><thead><tr><th>Project</th><th>Cost evidence</th><th>Capacity measures</th><th>Delivery milestones</th></tr></thead><tbody>${D.packs.map(p=>{
   const config=selections[p.family_slug],obs=Object.fromEntries(p.observations.map(o=>[o.id,o]));
   return `<tr data-project="${esc(p.name)}" data-search="${esc(JSON.stringify(p.summary))}"><td><h2>${esc(p.policy_chart.original_row.project)}</h2><details><summary>Project scope</summary><p>${esc(p.summary.identity)}</p><p>${esc(p.summary.delivery_status)}</p></details></td>${['cost','capacity','completion'].map(k=>`<td><h3 class="mobile-cell-label">${{cost:'Cost evidence',capacity:'Capacity measures',completion:'Delivery milestones'}[k]}</h3>${k==='cost'?`<p class="latest-caveat">${esc(config.caveat)}</p>`:''}${config[k].map(id=>observation(obs[id])).join('')||'<p class="missing-evidence">Not established in this snapshot.</p>'}</td>`).join('')}</tr>`;
  }).join('')}</tbody></table><div class="empty" style="display:none">No matching evidence. Clear the search or project filter.</div></div>`;
- document.getElementById('dashboard').before(section);
+ document.getElementById('dashboard').before(chartSection,section);
  const nav=document.querySelector('.mode-nav');
- const latestButton=document.createElement('button');latestButton.dataset.mode='latest';latestButton.textContent='Latest evidence';latestButton.onclick=()=>activateMode('latest');nav.prepend(latestButton);
+ const recordsButton=document.createElement('button');recordsButton.dataset.mode='latest';recordsButton.textContent='Evidence records';recordsButton.onclick=()=>activateMode('latest');nav.prepend(recordsButton);
+ const chartButton=document.createElement('button');chartButton.dataset.mode='latest-chart';chartButton.textContent='Latest chart';chartButton.onclick=()=>activateMode('latest-chart');nav.prepend(chartButton);
  const labels={chart:'Supplied workbook',dashboard:'Comparison summary',policy:'Detailed analysis',workbook:'Evidence records',desk:'Comparison findings'};
  nav.querySelectorAll('button').forEach(b=>{if(labels[b.dataset.mode])b.textContent=labels[b.dataset.mode];});
  const toggle=document.createElement('div');toggle.className='perspective-toggle';toggle.setAttribute('role','group');toggle.setAttribute('aria-label','Evidence perspective');
@@ -63,21 +65,21 @@
   document.body.dataset.evidencePerspective=value;
   document.getElementById('rail-scope').textContent=value==='evidence'?'10 project families':'Supplied workbook snapshot';
   toggle.querySelectorAll('button').forEach(b=>b.setAttribute('aria-pressed',String(b.dataset.perspective===value)));
-  nav.querySelectorAll('button').forEach(b=>{b.hidden=value==='evidence'?comparisonViews.includes(b.dataset.mode):b.dataset.mode==='latest';});
+  nav.querySelectorAll('button').forEach(b=>{b.hidden=value==='evidence'?comparisonViews.includes(b.dataset.mode):['latest','latest-chart'].includes(b.dataset.mode);});
   const u=new URL(location);u.searchParams.set('perspective',value);history.replaceState(null,'',u);
  }
  activateMode=function(id) {
-  if(id==='latest')perspective('evidence');
+  if(['latest','latest-chart'].includes(id))perspective('evidence');
   else if(comparisonViews.includes(id))perspective('comparison');
   const filter=document.getElementById('filter');
-  filter.hidden=id==='latest';
-  if(id==='latest')filter.value='';
+  filter.hidden=['latest','latest-chart'].includes(id);
+  if(['latest','latest-chart'].includes(id))filter.value='';
   originalActivate(id);
  };
- toggle.querySelectorAll('button').forEach(b=>b.onclick=()=>{perspective(b.dataset.perspective);activateMode(b.dataset.perspective==='evidence'?'latest':'chart');});
+ toggle.querySelectorAll('button').forEach(b=>b.onclick=()=>{perspective(b.dataset.perspective);activateMode(b.dataset.perspective==='evidence'?'latest-chart':'chart');});
  const params=new URL(location).searchParams,view=params.get('view');
  // Existing deep links to comparison views keep their meaning. A bare URL is evidence-first.
  const initial= params.get('perspective')==='comparison'||comparisonViews.includes(view)?'comparison':'evidence';
  perspective(initial);
- activateMode(view==='workbook'?'workbook':initial==='comparison'?(comparisonViews.includes(view)?view:'chart'):'latest');
+ activateMode(view==='workbook'?'workbook':initial==='comparison'?(comparisonViews.includes(view)?view:'chart'):(view==='latest'?'latest':'latest-chart'));
 })();
