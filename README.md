@@ -2,6 +2,8 @@
 
 An editable, static evidence explorer for ten Australian transmission project families. It includes the policy-chart review, source records, archived documents, an Excel workbook and JSON evidence packs.
 
+**Live explorer:** <https://subtle-lasso-pwzp.here.now/> — account-owned, non-expiring hosting on here.now.
+
 **Research cut-off: 4 September 2026.** This is a research snapshot, not an approved publication or a statement of current project status. The interface preserves disputed figures, gaps, assumptions and scope differences. Read the evidence notes before reusing a number.
 
 ## View locally
