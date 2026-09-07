@@ -4,6 +4,8 @@ An editable, static evidence explorer for ten Australian transmission project fa
 
 **Live explorer:** <https://subtle-lasso-pwzp.here.now/> — account-owned, non-expiring hosting on here.now.
 
+**Audit status:** corrections required. The exports reconcile, but the 7 September audit found substantive scope/unit errors in some research interpretations. Read [PACKAGE-AUDIT.md](PACKAGE-AUDIT.md) before reusing the chart or its suggested replacements.
+
 **Research cut-off: 4 September 2026.** This is a research snapshot, not an approved publication or a statement of current project status. The interface preserves disputed figures, gaps, assumptions and scope differences. Read the evidence notes before reusing a number.
 
 ## View locally
