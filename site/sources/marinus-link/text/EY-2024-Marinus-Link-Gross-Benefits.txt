@@ -1,0 +1,2966 @@
+--- PDF page 1 ---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Gross market benefit
+assessment of
+Marinus Link
+
+Marinus Link Pty Ltd
+28 March 2024
+
+--- PDF page 2 ---
+
+
+A member firm of Ernst & Young Global Limited
+Liability limited by a scheme approved under Professional Standards Legislation EY   i
+
+Ernst & Young
+111 Eagle Street
+Brisbane  QLD  4000 Australia
+GPO Box 7878 Brisbane  QLD  4001
+ Tel: +61 7 3011 3333
+Fax: +61 7 3011 3100
+ey.com/au
+
+Release Notice
+Ernst & Young ("EY") was engaged on the instructions of Marinus Link Pty Ltd ("Client") to undertake market modelling
+of system costs and benefits to forecast the gross benefit of the proposed Marinus Link interconnector (the “Project”),
+in accordance with the service order dated 14 March 2023 (the “Engagement Agreement”).
+The results of EY’s wo rk are set out in this report (“Report”) , including the assumptions and qualifications made in
+preparing the Report. The Report should be read in its entirety including this release notice, the applicable scope of
+the work and any limitations. A reference to the Report includes any part of the Report.
+EY has prepared the Report for the benefit of the Client and has considered only the interest of the Client. EY has not
+been engaged to act, and has not acted, as advisor to any other party. Accordingly, EY makes no representations as
+to the appropriateness, accuracy or completeness of the Report for any other party's purposes. EY commenced its
+work on 20 September 2023, and completed the work on 21 March 2024. Therefore, the Report does not take account
+of events or circumstances arising after 21 March 2024 and EY has no responsibility to update the Report for any such
+events or circumstances.
+No reliance may be placed upon the Report or any of its contents by any party other than the Client (“Third Parties” or
+“you”). Any Third Parties receiving a copy of the Report must make and rely on their own enquiries in relation to the
+issues to which the Report relates, the contents of the Report and all matters arising from or relating to or in any way
+connected with the Report or its contents. EY disclaims all responsibility to any Third Parties for any loss or liability
+that the Third Parties may suffer or incur arising from or relating to or in any way connected with the contents of the
+Report, the provision of the Report to the Third Parties or the reliance upon the Report by the Third Parties.
+No claim or demand or any actions or proceedings may be brought agai nst EY arising from or connected with the
+contents of the Report or the provision of the Report to the Third Parties. EY will be released and forever discharged
+from any such claims, demands, actions or proceedings. In preparing this Report EY has considered and relied upon
+information provided to us by the Client and other stakeholders engaged in the process and other sources believed to
+be reliable and accurate. EY has not been informed that any information supplied to it, or obtained from public sources,
+was false or that any material information has been withheld from it. EY does not imply, and it should not be construed
+that EY has performed an audit, verification or due diligence procedures on any of the information provided to us. EY
+has not independe ntly verified, nor accept any responsibility or liability for independently verifying, any such
+information nor does EY make any representation as to the accuracy or completeness of the information.  Neither EY
+nor any member or employee thereof undertakes responsibility in any way whatsoever or liability for any loss or
+damage to any person in respect of errors in this Report arising from incorrect information provided to EY.
+Modelling work performed as part of  our scope inherently requires assumptions about future behaviours and market
+interactions, which may result in forecasts that deviate from future conditions. There will usually be differences
+between estimated and actual outcomes, because events and circumstances frequently do not occur as expected, and
+those differences may be material. EY takes no responsibility that the projected outcomes will be achieved. EY
+highlights that the analysis included in this Report does not constitute investment advice or a  recommendation on a
+future course of action. EY provides no assurance that the scenarios that have been modelled will be accepted by any
+relevant authority or third party.
+EY has consented to the Report being published electronically on the Client’s websites for informational purposes only.
+EY has not consented to distribution or disclosure beyond this. The material contained in the Report, including the EY
+logo, is copyright. The copyright in the material contained in the Report itself, excluding EY logo,  vests in the Client.
+The Report, including the EY logo, cannot be altered without prior written permission from EY.
+Readers are advised that the outcomes provided are based on many detailed assumptions underpinning the scenarios,
+and the key assumptions a re described in the Report. These assumptions were selected by the Client. The modelled
+scenarios represent three possible future options for the development and operation of the National Electricity Market,
+and it must be acknowledged that many alternative futures exist. Alternative futures beyond those presented have not
+been evaluated as part of this Report.
+EY’s liability is limited by a scheme approved under Professional Standards Legislation.
+
+--- PDF page 3 ---
+
+
+A member firm of Ernst & Young Global Limited
+Liability limited by a scheme approved under Professional Standards Legislation EY   ii
+
+Table of Contents
+1. Executive summary ....................................................................................................... 1
+2. Introduction .................................................................................................................. 8
+3. Scenario assumptions .................................................................................................. 10
+3.1 Overview of input assumptions for scenarios ............................................................ 10
+3.2 Overview of input assumptions for Pre-Draft ISP scenarios ........................................ 12
+3.3 Differences in assumptions with and without Marinus Link ......................................... 13
+4. Methodology ............................................................................................................... 15
+4.1 Long-term investment planning ............................................................................... 15
+4.2 Reserve constraint in long-term investment planning ................................................ 16
+4.3 Cost-benefit analysis .............................................................................................. 17
+5. Transmission ............................................................................................................... 18
+5.1 Regional definitions ............................................................................................... 18
+5.2 Interconnector loss models ..................................................................................... 18
+5.2.1 Marinus Link loss model ...................................................................................... 18
+5.3 Interconnector capabilities ..................................................................................... 19
+5.3.1 Tasmania inertia constraints ............................................................................... 20
+6. Demand ...................................................................................................................... 22
+7. Supply ........................................................................................................................ 24
+7.1 Tasmanian hydroelectric generators ........................................................................ 24
+7.2 Wind and solar energy projects and REZ representation ............................................ 25
+7.3 Generator forced outage rates and maintenance ...................................................... 27
+7.4 Generator technical parameters .............................................................................. 28
+7.5 Coal-fired generators ............................................................................................. 28
+7.6 Gas-fired generators .............................................................................................. 28
+7.7 Storage-limited generators ..................................................................................... 28
+8. Forecast NEM outlook in the without Marinus Link case ................................................... 29
+8.1 Forecast coal power plant withdrawal ...................................................................... 29
+8.2 Forecast NEM capacity and generation outlook ......................................................... 30
+9. Forecast gross market benefit outcomes ....................................................................... 34
+9.1 Summary of forecast gross market benefit outcomes across scenarios ....................... 34
+9.2 Market modelling outcomes for Step Change scenario ............................................... 36
+9.2.1 Forecast gross market benefits, Step Change scenario .......................................... 36
+9.2.2 Forecast NEM generation development plan, Step Change scenario ........................ 37
+9.3 Market modelling outcomes for Progressive Change scenario .................................... 38
+9.3.1 Forecast gross market benefits, Progressive Change scenario ............................... 38
+9.3.2 Forecast NEM generation development plan, Progressive Change scenario  ............. 38
+9.4 Market modelling outcomes for Green Energy Exports scenario ................................. 39
+9.4.1 Forecast gross market benefits, Green Energy Exports scenario ............................. 39
+9.4.2 Forecast NEM generation development plan, Green Energy Exports scenario  .......... 40
+9.5 Market modelling outcomes for the Marinus Link timing sensitivities  .......................... 41
+9.6 Other sensitivities .................................................................................................. 44
+9.6.1 Summary of forecast gross market benefit outcomes across sensitivities  ................ 44
+--- PDF page 4 ---
+
+
+A member firm of Ernst & Young Global Limited
+Liability limited by a scheme approved under Professional Standards Legislation EY   iii
+
+9.6.2 Hydrogen load, committed Tasmanian PHES and Victoria offshore wind delay
+sensitivities .................................................................................................................... 46
+9.6.3 Gas price sensitivities ......................................................................................... 47
+9.6.4 Large-scale battery capital cost sensitivities ......................................................... 48
+9.6.5 Discount rate sensitivities ................................................................................... 49
+9.7 Comparison to Marinus Link RIT-T scenarios and outcomes ....................................... 49
+Appendix A Glossary of terms ............................................................................................. 51
+
+
+--- PDF page 5 ---
+
+
+
+A member firm of Ernst & Young Global Limited
+Liability limited by a scheme approved under Professional Standards Legislation EY   1
+
+1. Executive summary
+Following the conclusion of the Project Marinus Regulatory Investment Test for Transmission
+(RIT-T)1 by TasNetworks in June 2021, the electricity sector in Australia has continued to
+experience a period of change in policy settings and project and cost outlooks. Due to the extent of
+these changes, Marinus Link Pty Ltd (MLPL), engaged EY to undertake further market modelling of
+system costs to forecast the gross market benefits to the National Electricity Market (NEM) of an
+additional interconnector between Tasmania and Victoria.
+The proposed second interconnector would comprise a high-voltage direct current (HVDC) link
+between Tasmania and Victoria, known as Marinus Link, plus augmentation to the alternating
+current (AC) transmission networks to ensure the full capacity of Marinus Link can be supported by
+each regions’ transmission network.
+This Report describes the key modelling outcomes and insights as well as the assumptions and input
+data sources and the modelling methods used. Our work was limited to an evaluation of potential
+gross market benefits based on inputs and assumptions underlying each scenario selected by MLPL
+in accordance with the CBA guidelines. These forecast outcomes must be compared to the cost of
+Marinus Link to determine the forecast net economic benefit. That evaluation is not part of the
+scope of this Report. It is performed by MLPL outside of this Report using the forecast gross market
+benefits from this Report and other inputs and has been prepared and published by MLPL. 2
+EY was engaged to compute the least-cost generation dispatch and capacity development plan for
+the National Electricity Market (NEM) for the three scenarios in the Australian Energy Market
+Operator’s (AEMO) Draft 2024 Integrated System Plan (ISP) 3, being: the Step Change, Progressive
+Change and Green Energy Exports scenarios (the 2023-24 scenarios), as well as several
+sensitivities. The modelling for each of three scenarios combined the following input assumptions:
+► The 2023 Input, Assumptions and Scenarios Report (2023 IASR)4 relating to policies, costs
+and generator technical parameters.
+► AEMO’s August 2023 Electricity Statement of Opportunities5 demand projections provided by
+AEMO to Marinus Link Pty Ltd (consistent with AEMO’s demand projections in the Draft 2024
+ISP3).
+► The assumed timing for major transmission upgrades based on AEMO’s outcomes from the
+Draft 2024 ISP3.
+The 2023-24 scenarios adhere to the following philosophies, which were developed by AEMO in
+consultation with stakeholders:6
+► Step Change: Decarbonisation efforts that support Australia’s share in limiting global
+temperature rise to below 2˚C compared to pre-industrial levels. This scenario uses significant
+transport electrification, as well as developing hydrogen production or l ow emissions
+alternatives to support domestic industrial loads. This is a refinement of the 2021 AEMO IASR
+
+1 TasNetworks, 24 June 2021, Input assumptions and scenario workbook for Project Marinus PACR. Available at:
+https://www.marinuslink.com.au/rit-t-process/. Accessed 27 March 2024.
+2 MLPL, 28 March 2024, RIT-T Update – Summary Report, Available at: https://www.marinuslink.com.au/rit-t-process/.
+Accessed 28 March 2024.
+3 AEMO, 15 December 2023, Draft 2024 ISP. Available at: https://aemo.com.au/consultations/current-and-closed-
+consultations/draft-2024-isp-consultation. Accessed 27 March 2024.
+4 AEMO, 8 September 2023, 2023 IASR Assumptions Workbook v5.2. Available at:
+https://aemo.com.au/consultations/current-and-closed-consultations/2023-inputs-assumptions-and-scenarios-consultation.
+Accessed 27 March 2024.
+5 AEMO, National Electricity and Gas Forecasting. Available at:
+http://forecasting.aemo.com.au/Electricity/AnnualConsumption/Operational. Accessed 27 March 2024.
+6 AEMO, July 2023, 2023 IASR Report. Available at: https://aemo.com.au/-/media/files/major-
+publications/isp/2023/2023-inputs-assumptions-and-scenarios-report.pdf?la=en. Accessed 27 March 2024.
+--- PDF page 6 ---
+
+
+
+A member firm of Ernst & Young Global Limited
+Liability limited by a scheme approved under Professional Standards Legislation EY   2
+
+Step Change scenario. The scenario name ‘Step Change’ is the same as the name of a scenario
+in TasNetworks1 the Project Marinus RIT-T, but the underlying assumptions are different.
+► Progressive Change: Aims to meet Australia’s current Paris Agreement commitment of 43%
+emissions reduction by 2030 and net zero emissions by 2050. However, this scenario is
+hindered by a reduction in industrial loads, higher technology costs and supply chain
+challenges. Assumed Tasmanian load is lowest in this scenario.
+► Green Energy Exports: Very strong decarbonisation domestically and global, including the
+strong use of electrification, green hydrogen and biomethane. This is a refinement of the 2021
+AEMO IASR Hydrogen Superpower scenario. Assumed Tasmanian load is highest in this
+scenario.
+Common policy settings across the three 2023-24 scenarios include the Federal Government’s 82%
+renewables target by 2030, NSW Electricity Infrastructure Roadmap target, Queensland Renewable
+Energy Target, Tasmanian Renewable Energy Target, Victorian Renewable Energy Target, Victorian
+Energy Storage Target and the Victorian Offshore Wind Target.
+The modelling methodology follows the Cost benefit analysis guidelines (CBA guidelines) published
+by the Australian Energy Regulator (AER),7 which contain the applicable RIT-T guidelines for
+Actionable ISP projects including Marinus Link. The model was used to compute a plan without
+Marinus Link and with several different Marinus Link size and timing options across the scenarios
+and sensitivities:
+► Without-Marinus Link and two sizes of Marinus Link: one 750 MW link and two 750 MW links to
+give a total of 1,500 MW transfer capacity.
+► The first stage of Marinus Link commissioned during 2029-30 and different timings for the
+second stage of Marinus Link ranging in two-year increments from 2031-32 to 2035-36.
+To assess the least-cost solution with and without Marinus Link, EY’s Time Sequential Integrated
+Resource Planner (TSIRP) model is used. It makes decisions for each hourly dispatch interval in
+relation to:
+► The generation dispatch level for each power plant along with the charging and discharging of
+storage. Generators are assumed to be dispatched at their short run marginal cost (SRMC),
+which is derived from their variable operation and maintenance (VOM) and fuel costs. The
+generation for each dispatch interval is subject to the modelled availability of power stations in
+each hour (those that are not on planned or un-planned outages), network limitations and
+energy limits (e.g., storage levels).
+► Commissioning new entrant capacity for wind, solar PV SAT, CCGT, OCGT8, large-scale
+battery, PHES.
+► The withdrawal of existing generation on a least-cost basis, often to meet the emissions
+budgets assumed in the modelled scenario and sensitivities.
+The hourly decisions consider certain assumed operational constraints, including:
+► Supply must equal demand in each region for all dispatch intervals plus a reserve margin, with
+unserved energy (USE) costed at the value of customer reliability (VCR) .
+► Minimum loads for coal generators.
+► Interconnector flow limits (between regions).
+► Maximum and minimum storage (conventional storage hydro, PHES, virtual power plant (VPP)
+and large-scale battery) reservoir limits and cyclic efficiency.
+
+7 Australian Energy Regulator, 25 August 2020, Cost benefit analysis guidelines. Available at:
+https://www.aer.gov.au/networks-pipelines/guidelines-schemes-models-reviews/guidelines-to-make-the-integrated-system-
+plan-actionable. Accessed 27 March 2024.
+8 PV = photovoltaics, SAT = Single Axis Tracking, CCGT = Combined-Cycle Gas Turbine, OCGT = Open-Cycle Gas Turbine.
+--- PDF page 7 ---
+
+
+
+A member firm of Ernst & Young Global Limited
+Liability limited by a scheme approved under Professional Standards Legislation EY   3
+
+► New entrant capacity build limits for wind and solar for each Renewable Energy Zone (REZ)
+where applicable, and PHES in each region.
+► Carbon budget constraints, as defined in the ISP for the modelled scenario s.
+► Renewable energy targets where applicable by region or NEM-wide.
+► Other constraints such as Tasmanian inertia constraints, as defined in the Report.
+From the hourly time-sequential modelling the following costs were computed, as defined in the
+AER’s CBA guidelines9:
+► Capex costs of new generation and storage capacity installed.
+► Total fixed operation and maintenance (FOM) costs of all generation and storage capacity.
+► Total VOM costs of all generation and storage capacity.
+► Total fuel costs of all generation capacity.
+► Total cost of voluntary (demand-side participation, DSP) and USE.
+► Transmission expansion costs associated with REZ development.
+► Retirement/rehabilitation costs to cover decommissioning, demolition and site rehabilitation.
+► Synchronous condenser costs to meet Tasmanian inertia requirements.
+The forecast gross market benefits capture the impact of transmission losses to the extent that
+losses across interconnectors affect the generation that needs to be dispatched in each dispatch
+interval. The forecast gross market benefits also capture the impact of differences in cyclic
+efficiency losses in storages, including PHES and large-scale batteries.
+For each simulation, we computed the sum of these cost components and compared the difference
+between with Marinus Link case and the without Marinus Link Base Case across the 26-year period
+(the Modelling Period), from 2024-25 to 2049-50. The difference in the calculated present value of
+costs is the forecast gross market benefits10 associated with Marinus Link proceeding. The gross
+market benefits are discounted to 1 July 2023 using a 7% real, pre-tax discount rate, consistent
+with the central value applied by AEMO in the 2023 AEMO IASR11 as selected by Marinus Link Pty
+Ltd. This discount rate is higher than those applied in previous Marinus Link studies (such as the
+RIT-T) and as such the outcomes detailed below are not directly comparable. A summary of the
+gross market benefits of Marinus Link in the three scenarios over the Modelling Period is shown in
+Table 1.
+Table 1: Overview of scenarios with associated forecast gross market benefits for Marinus Link over the Modelling Period
+discounted to 1 July 2023. All dollar values are presented in $million, real June 2023.
+Marinus Link
+size
+Marinus Link
+timing Step Change Progressive
+Change
+Green Energy
+Exports
+Scenario
+weighted
+average12
+1,500 MW 2029-30 &
+2033-34 4,035 5,664 6,160 5,038
+
+9 Australian Energy Regulator, 25 August 2020, Cost benefit analysis guidelines. Available at:
+https://www.aer.gov.au/networks-pipelines/guidelines-schemes-models-reviews/guidelines-to-make-the-integrated-system-
+plan-actionable. Accessed 27 March 2024.
+10 In this Report we use the term gross market benefit to mean “market benefit” as defined in the AER’s Cost benefit
+analysis guidelines, and “net economic benefit” in the same manner defined in the guidelines.
+11 AEMO, 8 September 2023, 2023 IASR Assumptions Workbook v5.2. Available at:
+https://aemo.com.au/consultations/current-and-closed-consultations/2023-inputs-assumptions-and-scenarios-consultation.
+Accessed 27 March 2024.
+12 AEMO, 15 December 2023, Draft 2024 ISP. Available at: https://aemo.com.au/consultations/current-and-closed-
+consultations/draft-2024-isp-consultation. Accessed 27 March 2024.
+--- PDF page 8 ---
+
+
+
+A member firm of Ernst & Young Global Limited
+Liability limited by a scheme approved under Professional Standards Legislation EY   4
+
+Marinus Link
+size
+Marinus Link
+timing Step Change Progressive
+Change
+Green Energy
+Exports
+Scenario
+weighted
+average12
+750 MW 2029-30 3,283 4,460 4,767 4,000
+
+Figure 1 shows that in all scenarios, there are two key drivers of forecast benefits for Marinus Link:
+► The largest driver is capex savings across the NEM associated with the deferral or avoidance of
+investment in new generation and storage.
+► The second largest driver is mainland fuel cost savings associated with reduced use of coal and
+gas as fuel.
+This is consistent with the two largest sources of forecast benefits from the Project Assessment
+Conclusions Report (PACR) for the Marinus Link RIT-T by TasNetworks13.
+Figure 1: Composition of forecast total gross market benefits of Marinus Link stage 1 2029-30 and stage 2 2033-34 over
+the Modelling Period discounted to 1 July 2023. All dollar values are presented in $million, real June 2023.
+
+The forecast capex savings associated with Marinus Link are predominantly driven by the
+combination of high capacity factor wind resource in Tasmania, as per the 2023 AEMO IASR
+assumptions, coupled with the legislated Tasmanian Renewable Energy Target (TRET) . By better
+connecting Tasmania with the mainland, Marinus Link is forecast to unlock the potential for high
+quality Tasmanian wind, new entrant Tasmanian PHES and existing conventional Tasmanian
+hydroelectric power stations to offset the need for higher cost mainland renewable capacity and
+gas-fired generation as the NEM transitions from existing thermal generation to a higher proportion
+of renewables.
+Marinus Link is forecast to result in fuel cost savings on the mainland by enabling better access to
+existing Tasmanian hydroelectric generators, as a lower cost alternative to the construction and
+operation of dispatchable gas on the mainland. The extent of these saving varies by scenario, along
+with the size and timing of Marinus Link. For the Green Energy Exports scenario, fuel cost savings
+
+13 TasNetworks, 24 June 2021, Input assumptions and scenario workbook for Project Marinus PACR. Available at:
+https://www.marinuslink.com.au/rit-t-process/. Accessed 27 March 2024.
+-1,000
+0
+1,000
+2,000
+3,000
+4,000
+5,000
+6,000
+7,000
+Step Change Progressive Change Green Energy Exports
+Marinus Link gross market benefits ($m)
+Capex FOM Fuel VOM REZ expansion USE & DSP Rehab Sync con Total
+--- PDF page 9 ---
+
+
+
+A member firm of Ernst & Young Global Limited
+Liability limited by a scheme approved under Professional Standards Legislation EY   5
+
+are also forecast to accrue due to a reduction in generation from hydrogen turbines from the
+late-2030s with Marinus Link.
+The Progressive Change scenario is forecast to have higher potential benefits for Marinus Link
+compared to the Step Change scenario. This is primarily due to the Progressive Change scenario
+having less Tasmanian demand than the Step Change scenario, as per the 2023 AEMO IASR
+assumptions. In the Progressive Change scenario, without Marinus Link, much of the new
+renewable generation that is forecast to be installed in Tasmania to achieve the TRET is curtailed,
+or spilled, since local Tasmanian demand is not high enough to fully utilise this generation. While
+this still occurs in the Step Change scenario, the additional Tasmanian load reduces the volume of
+spilled renewable generation without Marinus Link. When included, Marinus Link is forecast to
+better connect Tasmania with the mainland, which allows the rest of the NEM to benefit from
+Tasmanian renewable capacity.
+The Green Energy Exports scenario is forecast to have higher benefits for Marinus Link compared
+to the Step Change scenario. For this scenario, potential capex benefits are not only forecast to
+occur in the mainland, but also in Tasmania. As per the 2023 AEMO IASR assumptions, Tasmanian
+electricity consumption increases significantly over the Modelling Period in the Green Energy
+Exports scenario due to assumed hydrogen production. By the early 2030s, assumed Tasmanian
+demand is approximately six-fold higher than current annual consumption. The TSIRP model
+captures wind and solar diversity across NEM regions by basing their hourly availability profile on
+multiple historical weather patterns targeting different capacity factors for each weather reference
+year. Due to the variable nature of renewable energy, some forecast years have lower availability
+than others. During the forecast years coinciding with lower-than-average capacity factors,
+Tasmania can import more energy from the mainland with Marinus Link, compared to the
+without-Marinus Link counterfactual. This is forecast to result in capex savings for Tasmania, since
+it provides a lower cost alternative than overbuilding capacity to ensure Tasmania can supply
+hydrogen production targets during years of low variable renewable availability.
+Prior to the release of the Draft 2024 ISP, MLPL had also instructed EY to model the Step Change,
+Progressive Change, Green Energy Exports scenarios and several sensitivities in antic ipation of the
+Draft 2024 ISP publication in December 2023. That modelling had been done based on AEMO’s
+latest information at the time. As a result, those scenarios (referred to in this Report as the
+Pre-Draft ISP scenarios) and their sensitivities assumed the timing of major transmission upgrades
+based on the Final 2022 ISP outcomes. There were also several other smaller changes to input
+assumptions based on interpretation of the 2023 IASR prior to the publication of the Draft 2024
+ISP including:
+► Queensland coal-fired generator maximum retirement dates extended beyond the expected
+closure year associated with the Queensland Energy and Jobs Plan (QEJP).
+► Virtual power plant (VPP) were not assumed to contribute to meeting the Victoria Energy
+Storage Target of 2.6 GW by 2030 and 6.3 GW by 2035.
+These sensitivities explored the alternative timing of the second stage of Marinus Link.
+Other sensitivities in this Report include a hydrogen load adjustment, a change in committed
+Tasmanian pumped hydro energy storage (PHES) capacity, a delay in the Victorian offshore wind
+target, different discount rates, different gas prices and different battery capital costs.
+Table 2 summarises the forecast gross market benefits associated with the sensitivities for the
+timing and size of Marinus Link, which were computed in November 2023, prior to the publication
+of AEMO’s Draft 2024 ISP. Table 2 shows that if the assumed Marinus Link timing is unchanged,
+then there is a relatively small change in forecast gross market benefits – the difference is shown in
+brackets and reflects the difference in gross market benefits in Table 2 compared to Table 1.  By
+inference the relative magnitude of forecast benefits between different assumed timings for
+Marinus Link would be similar for the Draft 2024 ISP scenarios.
+--- PDF page 10 ---
+
+
+
+A member firm of Ernst & Young Global Limited
+Liability limited by a scheme approved under Professional Standards Legislation EY   6
+
+Table 2: Overview of forecast gross market benefits for Marinus Link in the Pre-Draft ISP scenarios discounted to 1 July
+2023 and change relative to core scenarios in brackets. All dollar values are presented in $million, real June 2023.
+Marinus Link
+size
+Marinus Link
+timing
+Pre-Draft ISP
+Step Change–
+Pre-Draft ISP
+Progressive
+Change
+Pre-Draft ISP
+Green Energy
+Exports
+Scenario
+weighted
+average14
+1,500 MW
+2029-30 &
+2031-32 4,336 6,038 6,395 5,359
+2029-30 &
+2033-34
+4,224
+(+189)
+5,953
+(+290)
+6,164
+(+4)
+5,241
+(+204)
+2029-30 &
+2035-36 4,105 5,812 5,914 5,093
+750 MW 2029-30 3,502
+(+219)
+4,691
+(+231)
+4,768
+(+1)
+4,191
+(+191)
+
+One of the primary drivers for differences between the core scenarios in this Report compared to
+the Pre-Draft ISP scenarios is changes in augmentation timings between the Draft 2024 ISP 14 and
+the Final 2022 ISP15. The Pre-Draft ISP scenarios include later timings for augmentations, such as
+VNI West, and some differences in REZ transmission assumptions associated with interconnector
+projects, resulting in small increases in forecast benefits of Marinus Link.
+Several sensitivities were selected by MLPL to test the robustness of the magnitude of market
+benefits. All sensitivities were conducted on the Pre-Draft ISP Step Change scenario with Marinus
+Link stage 1 2029-30 and stage 2 2033-34 which had a forecast gross market benefit of $4,224m.
+An overview of the sensitivities is given in Table 3.
+Table 3: Overview of sensitivities with associated forecast gross market benefits for Marinus Link stage 1 2029-30 and
+stage 2 2033-34 discounted to 1 July 2023. All dollar values are presented in $million, real June 2023.
+Sensitivity Variation to Pre-Draft ISP scenario
+Forecast
+gross market
+benefits ($m)
+Change in
+forecast
+market
+benefits ($m)
+Progressive
+hydrogen load
+The Step Change Tasmanian hydrogen load trajectory is replaced
+with the Progressive Change hydrogen load trajectory.16 5,317 1,093
+750 MW
+committed
+Tasmanian PHES
+A 750 megawatt (MW) Tasmanian Pumped Hydro Energy
+Storage (PHES) project is committed from 2032-33. 4,904 680
+Victoria offshore
+wind delay
+Victorian offshore wind targets delayed by 5 years, with the
+9 gigawatt (GW) capacity target now to be met in 2045-46. 4,394 170
+High gas price
+Gas prices for all existing and new entrant generators increased
+by 40% from the 2023 AEMO IASR Step Change scenario.16
+e.g. Victorian OCGT gas price ranging between $15/GJ and
+$20/GJ from the mid-2020s onward.
+4,801 576
+Low gas price
+Gas prices for all existing and new entrant generators decreased
+by 40% from the 2023 AEMO IASR Step Change scenario. 16
+e.g. Victorian OCGT gas price ranging between $6/GJ and $9/GJ
+from the mid-2020s onward.
+3,411 -814
+
+14 AEMO, 15 December 2023, Draft 2024 ISP. Available at: https://aemo.com.au/consultations/current-and-closed-
+consultations/draft-2024-isp-consultation. Accessed 27 March 2024.
+15 AEMO, 30 June 2022, 2022 ISP. Available at: https://aemo.com.au/en/energy-systems/major-publications/integrated-
+system-plan-isp/2022-integrated-system-plan-isp. Accessed 27 March 2024.
+16 AEMO, 8 September 2023, 2023 IASR Assumptions Workbook v5.2: https://aemo.com.au/consultations/current-and-
+closed-consultations/2023-inputs-assumptions-and-scenarios-consultation. Accessed 27 March 2024.
+--- PDF page 11 ---
+
+
+
+A member firm of Ernst & Young Global Limited
+Liability limited by a scheme approved under Professional Standards Legislation EY   7
+
+Sensitivity Variation to Pre-Draft ISP scenario
+Forecast
+gross market
+benefits ($m)
+Change in
+forecast
+market
+benefits ($m)
+High battery
+capital cost
+Apply the 2023 AEMO IASR Progressive Change battery capex
+scenario (higher than the Step Change trajectories).16 4,254 29
+Low battery
+capital cost
+Apply the 2023 AEMO IASR Green Energy Exports battery capex
+scenario (lower than the Step Change trajectories).16 3,977 -248
+
+Benefits for Marinus Link are forecast to increase in scenarios with lower Tasmanian demand,
+increased Tasmanian storage capacity and delayed Victorian offshore wind targets. The forecast
+increase in capex and fuel cost benefits under these scenarios are predominantly attributed to
+Marinus Link being able to export relatively higher amounts of renewable energy from Tasmania to
+the mainland, displacing higher cost gas generation. The high gas price sensitivity is also forecast
+to lead to greater Marinus Link gross market benefit due to more incentive to build new wind and
+solar capacity to avoid higher cost gas generation. The opposite true for the low gas price
+sensitivity. A small additional benefit is forecast for the high battery capital cost sensitivity and vice
+versa for the low battery capital cost sensitivity.
+Further sensitivities adjusting the discount rate were also run on the Pre-Draft ISP Step Change
+scenario with Marinus Link stage 1 2029-30 and stage 2 2033-34, which are described in Table 4.
+Note that for the discount rate sensitivities, the alternate rates were applied when annualising costs
+to compute the least-cost solution and to the annual market benefit outcomes (rather than just
+discounting annual market benefits outcomes with the alternate discount rate). A different d iscount
+rate would also need to be applied to the costs of Marinus Link used in the calculation of net
+economic benefits.
+Table 4: Overview of adjusted discount rate sensitivities with associated forecast gross market benefits for Marinus Link
+stage 1 2029-30 and stage 2 2033-34 for the Pre-Draft ISP Step Change scenario discounted to 1 July 2023. All dollar
+values are presented in $million, real June 2023.
+Since Marinus Link is forecast to have positive gross market benefits from the time it is assumed to
+be commissioned, an increase in the discount rate leads to a decrease in the total discounted
+market benefits. The alternate rates also lead to different least-cost capacity mix outcomes. A
+lower rate promotes technologies with longer repayment periods to become more competitive and
+the weighting of later decisions increases. This is observed when the discount rate is reduced as
+more PHES capacity is forecast instead of large-scale battery storage. Wind capacity is also
+forecast to be built in marginally higher amounts. As the amount of new entrant capacity increases,
+Marinus Link therefore has greater ability to defer capital expenditure resulting in higher gross
+market benefits. The opposite is true for a higher discount rate which is forecast to result in lower
+discounted gross market benefits for Marinus Link.
+
+17 AEMO, 8 September 2023, 2023 IASR Assumptions Workbook v5.2: https://aemo.com.au/consultations/current-and-
+closed-consultations/2023-inputs-assumptions-and-scenarios-consultation. Accessed 27 March 2024.
+Sensitivity Variation to Pre-Draft ISP scenario
+Forecast gross
+market benefits
+($m)
+High discount
+rate
+An increased discount rate and weighted-average-cost-of-capital (WACC) of
+10.50% has been applied for the selected scenario, in line with the 2023 AEMO
+IASR upper bound.17
+3,186
+Low discount
+rate
+A reduced discount rate and WACC of 3.00% has been applied for the selected
+scenario, in line with the 2023 AEMO IASR lower bound.17 6,084
+--- PDF page 12 ---
+
+
+
+A member firm of Ernst & Young Global Limited
+Liability limited by a scheme approved under Professional Standards Legislation EY   8
+
+2. Introduction
+Marinus Link Pty Ltd has engaged EY to undertake market modelling of system costs to forecast
+the gross market benefits to the NEM of an addition interconnector between Tasmania and Victoria.
+The proposed second interconnector would comprise an HVDC link between Tasmania and Victoria,
+known as Marinus Link, plus augmentation to the AC transmission networks to ensure the full
+capacity of Marinus Link can be supported by each regions’ transmission network.
+This Report describes the key modelling outcomes and insights as well as the assumptions and input
+data sources and the modelling methods used. It forms a supplementary report to MLPL’s analysis
+of net economic benefits of Marinus Link, prepared and published by MLPL. 18
+EY was engaged to compute the least-cost generation dispatch and capacity development plan for
+the NEM for the three scenarios in the Draft 2024 ISP 19, being: the Step Change, Progressive
+Change and Green Energy Exports scenarios (the 2023-24 scenarios), as well as several
+sensitivities. The modelling for each of three scenarios combined the following:
+► The 2023 IASR20 input assumptions relating to policies, costs and generator technical
+parameters.
+► AEMO’s August 2023 Electricity Statement of Opportunities21 demand projections by AEMO
+provided to Marinus Link Pty Ltd (consistent with AEMO’s demand projections in the Draft
+2024 ISP).
+► The assumed timing for major transmission upgrades based on AEMO’s outcomes from the
+Draft 2024 ISP, published in December 2023. 19
+The modelling methodology follows the CBA guidelines for actionable ISP projects published by the
+AER22. The model was used to compute a plan without Marinus Link and with several different
+Marinus Link size and timing options across the three scenarios and a range of sensitivities:
+► Without-Marinus Link and two sizes of Marinus Link: one 750 MW link and two 750 MW links to
+give a total of 1,500 MW transfer capacity.
+► The first stage of Marinus Link commissioned during 2029-30 and different timings for the
+second stage of Marinus Link ranging in two-year increments from 2031-32 to 2035-36.
+► Various sensitivities to input assumptions across a selected scenario including a hydrogen load
+adjustment, a change in committed Tasmanian PHES capacity, a delay in the Victorian offshore
+wind target, different discount rates, different gas prices and different battery costs.
+The descriptions of outcomes in this Report are focussed on identifying and explaining the key
+sources of forecast gross market benefits. The categories of gross market benefits modelled are
+changes in:
+► Capital costs of new generation and storage capacity installed.
+
+18 MLPL, 28 March 2024, RIT-T Update – Summary Report, Available at: https://www.marinuslink.com.au/rit-t-process/.
+Accessed 28 March 2024.
+19 AEMO, 15 December 2023, Draft 2024 ISP. Available at: https://aemo.com.au/consultations/current-and-closed-
+consultations/draft-2024-isp-consultation. Accessed 27 March 2024.
+20 AEMO, 8 September 2023, 2023 IASR Assumptions Workbook v5.2. Available at:
+https://aemo.com.au/consultations/current-and-closed-consultations/2023-inputs-assumptions-and-scenarios-consultation.
+Accessed 27 March 2024.
+21 AEMO, National Electricity and Gas Forecasting. Available at:
+http://forecasting.aemo.com.au/Electricity/AnnualConsumption/Operational. Accessed 27 March 2024.
+22 Australian Energy Regulator, 25 August 2020, Cost benefit analysis guidelines. Available at:
+https://www.aer.gov.au/networks-pipelines/guidelines-schemes-models-reviews/guidelines-to-make-the-integrated-system-
+plan-actionable. Accessed 27 March 2024.
+--- PDF page 13 ---
+
+
+
+A member firm of Ernst & Young Global Limited
+Liability limited by a scheme approved under Professional Standards Legislation EY   9
+
+► Total FOM costs of all generation and storage capacity.
+► Total VOM costs of all generation and storage capacity.
+► Total fuel costs of all generation capacity.
+► Total cost of voluntary and involuntary load curtailment.
+► Transmission expansion costs associated with REZ development.
+► Transmission and storage losses which form part of the demand to be supplied, which are
+calculated dynamically within the model.
+► Retirement/rehabilitation costs to cover decommissioning, demolition and site rehabilitation .
+► Synchronous condenser costs to meet Tasmanian inertia requirements.
+Each category of forecast gross market benefits is computed annually across the 26-year Modelling
+Period, from 2024-25 to 2049-50. The forecast benefits presented are discounted to 1 July 2023
+using a 7% real, pre-tax discount rate, consistent with the central value applied by AEMO in the
+2023 IASR23.
+The forecast gross market benefits of each scenario and sensitivity need to be compared to the
+ongoing cost of Marinus Link to determine the forecast net economic benefit for that case. That
+evaluation is not part of the scope of this gross market benefits assessment and hence has not been
+included in this Report. It is performed by MLPL outside of this Report using the forecast gross
+market benefits from this Report and other inputs.
+The Report is structured as follows:
+► Section 3 describes the input assumptions and scenarios modelled in this study.
+► Section 4 provides an overview of the methodology applied in the modelling and computation
+of forecast gross market benefits.
+► Section 5 outlines model design and input data related to representation of the transmission
+network and transmission losses.
+► Section 6 outlines model design and input data related to demand.
+► Section 7 provides an overview of model inputs and methodologies related to supply of energy.
+► Section 8 presents the NEM capacity and generation outlook without Marinus Link for the three
+scenarios.
+► Section 9 presents the forecast gross market benefits associate with Marinus Link. It is
+focussed on identifying and explaining the key sources of forecast gross market benefits for
+the Step Change scenario, while providing a summary of other scenarios and sensitivities.
+
+23 AEMO, 8 September 2023, 2023 IASR Assumptions Workbook v5.2. Available at:
+https://aemo.com.au/consultations/current-and-closed-consultations/2023-inputs-assumptions-and-scenarios-consultation.
+Accessed 27 March 2024.
+--- PDF page 14 ---
+
+
+
+A member firm of Ernst & Young Global Limited
+Liability limited by a scheme approved under Professional Standards Legislation EY   10
+
+3. Scenario assumptions
+3.1 Overview of input assumptions for scenarios
+Marinus Link gross market benefits have been forecast under the Step Change, Progressive Change
+and Green Energy Exports scenarios in accordance with CBA guidelines for actionable ISP projects
+published by the Australian Energy Regulator. The modelling combines input assumptions on
+policies, costs and generator technical parameters from the AEMO 2023 IASR24 with demand
+projections provided by AEMO to MLPL in September 2023 for use in this assessment and assumed
+timing of major transmission upgrades based on the Draft 2024 Integrated System Plan (ISP)
+outcomes25. A more comprehensive list of assumptions and their sources is summarised in Table 5.
+All input assumptions were selected by MLPL in accordance with the CBA guidelines.
+Table 5: Overview of key input parameters in the Step Change, Progressive Change and Green Energy Exports scenarios
+Key drivers input parameter
+Scenario
+Step Change Progressive Change Green Energy Exports
+Underlying consumption 2023 ESOO26 – Step
+Change
+2023 ESOO26 – Progressive
+Change
+2023 ESOO26 – Green
+Energy Exports
+Committed and anticipated
+generation Committed and anticipated generators from the 2023 IASR Assumptions Workbook24
+New entrant capital cost for
+wind, solar PV, SAT, OCGT,
+CCGT, PHES large-scale
+batteries and hydrogen
+turbine
+2023 IASR Assumptions
+Workbook24 – Step Change
+2023 IASR Assumptions
+Workbook24 – Progressive
+Change
+2023 IASR Assumptions
+Workbook24 – Green Energy
+Exports
+Retirements of coal-fired
+power stations
+2023 IASR Assumptions Workbook24: In line with expected closure year, or earlier if
+economic or driven by decarbonisation objectives.
+Queensland coal retirements no later than the QEJP retirement schedule.
+Consistent with Draft 2024 Integrated System Plan (ISP) outcomes25
+Gas fuel price 2023 IASR Assumptions
+Workbook24 – Step Change
+2023 IASR Assumptions
+Workbook24 – Progressive
+Change
+2023 IASR Assumptions
+Workbook24 – Green Energy
+Exports
+Coal fuel price 2023 IASR Assumptions
+Workbook24 – Step Change
+2023 IASR Assumptions
+Workbook24 – Progressive
+Change
+2023 IASR Assumptions
+Workbook24 – Green Energy
+Exports
+NEM carbon budget
+2023 IASR Assumptions
+Workbook24 – Step Change:
+681 mega ton (Mt) CO2-e
+2024-25 to 2051-52
+2023 IASR Assumptions
+Workbook24 – Progressive
+Change: 1,203 Mt CO2-e
+2024-25 to 2051-52
+2023 IASR Assumptions
+Workbook24 – Green Energy
+Exports: 357 Mt CO2-e
+2024-25 to 2051-52
+Federal renewable energy
+target
+82% share of renewable generation by 2029-30
+Consistent with 2023 IASR Assumptions Workbook24
+
+24 AEMO, 8 September 2023, 2023 IASR Assumptions Workbook v5.2: https://aemo.com.au/consultations/current-and-
+closed-consultations/2023-inputs-assumptions-and-scenarios-consultation. Accessed 27 March 2024.
+25 AEMO, 15 December 2023, Draft 2024 ISP. Available at: https://aemo.com.au/consultations/current-and-closed-
+consultations/draft-2024-isp-consultation. Accessed 27 March 2024.
+26 AEMO, National Electricity and Gas Forecasting. Available at:
+http://forecasting.aemo.com.au/Electricity/AnnualConsumption/Operational. Accessed 27 March 2024.
+--- PDF page 15 ---
+
+
+
+A member firm of Ernst & Young Global Limited
+Liability limited by a scheme approved under Professional Standards Legislation EY   11
+
+Key drivers input parameter
+Scenario
+Step Change Progressive Change Green Energy Exports
+Victoria policy
+Victoria Renewable Energy Target (VRET) – 40% by 2025, 65% by 2030 and 95% by
+2035
+Victoria Energy Storage Target – 2.6 GW by 2030 and 6.3 GW by 2035
+Victoria Offshore Wind Target – 2 GW by 2032, 4 GW by 2035 and 9 GW by 2040
+Consistent with 2023 IASR Assumptions Workbook24
+Queensland Renewable
+Energy Target (QRET)
+50% by 2029-30, 70% by 2031-32 and 80% by 2034-35
+Consistent with 2023 IASR Assumptions Workbook24
+Tasmanian Renewable
+Energy Target (TRET)
+100% by 2022, linear trajectory from the mid-2020s to 150% available renewable
+generation by 2030 and 200% by 2040 as a percentage of 2020 demand in Tasmania.
+The trajectory can be exceeded if part of the least cost solution.
+Consistent with 2023 IASR Assumptions Workbook24
+NSW Electricity
+Infrastructure Roadmap
+NSW Roadmap, with at least the same amount of electricity as 8 GW in New England,
+3 GW in the Central West Orana (CWO) REZ and 1 GW of additional capacity and 2 GW of
+long duration storage (8 hrs or more) by 2029-30.
+Consistent with 2023 IASR Assumptions Workbook24
+Victorian SIPS
+300 MW/450 megawatt-hour (MWh), 250 MW for SIPS service during summer. In the
+summer months the remaining 50 MW can be deployed in the market on a commercial
+basis, in the winter months the full capacity is available. From April 2032 the full
+capacity is available to the market.
+Consistent with 2023 IASR Assumptions Workbook24
+EnergyConnect 2024 ISP committed project27: EnergyConnect commissioned by July 2026
+Western Renewables Link 2024 ISP anticipated project27. Western Victoria upgrade commissioned by July 2027
+HumeLink
+Draft 2024 ISP outcome27
+– Step Change: HumeLink
+commissioned by July
+2029
+Draft 2024 ISP outcome27
+– Progressive Change:
+HumeLink commissioned
+by July 2030
+Draft 2024 ISP outcome27
+– Green Energy Exports:
+HumeLink commissioned
+by July 2029
+New-England REZ
+Transmission
+Earliest in-service date
+advised by proponent27:
+► New England REZ
+Transmission Link 1
+commissioned by
+September 2028,
+Draft 2024 ISP outcome27
+– Step Change:
+► New England REZ
+Upgrade
+commissioned by July
+2030,
+► New England REZ
+Transmission Link 2
+commissioned by July
+2034
+Draft 2024 ISP outcome27
+– Progressive Change:
+► New England REZ
+Transmission Link 1
+commissioned by July
+2031,
+► New England REZ
+Upgrade
+commissioned by July
+2031
+► New England REZ
+Extension
+commissioned by July
+2042
+Earliest in-service date
+advised by proponent27:
+► New England REZ
+Transmission Link 1
+commissioned by
+September 2028,
+Draft 2024 ISP outcome27
+– Green Energy Exports:
+► New England REZ
+Upgrade
+commissioned by July
+2030,
+► New England REZ
+Transmission Link 2
+commissioned by July
+2032
+Marinus Link
+Several different size and timings as per MLPL assumptions: The first stage of Marinus
+Link commissioned by October 2029 and the second stage of Marinus Link
+commissioned by July 2033.
+
+27 Scenario specific optimal timing updated based on earliest estimated commissioning date from relevant Transmission
+Network Service Provider. AEMO, Appendix 5: 2024 Integrated System Plan, available at https://aemo.com.au/-
+/media/files/stakeholder_consultation/consultations/nem-consultations/2023/draft-2024-isp-consultation/appendices/a5-
+network-investments.pdf?la=en. Accessed 27 March 2024.
+--- PDF page 16 ---
+
+
+
+A member firm of Ernst & Young Global Limited
+Liability limited by a scheme approved under Professional Standards Legislation EY   12
+
+Key drivers input parameter
+Scenario
+Step Change Progressive Change Green Energy Exports
+Queensland-New South
+Wales interconnector (QNI)
+Connect
+Draft 2024 ISP outcome27
+– Step Change: QNI
+Connect commissioned by
+July 2033
+Draft 2024 ISP outcome27
+– Progressive Change: QNI
+Connect commissioned by
+July 2036
+Draft 2024 ISP outcome27
+– Green Energy Exports:
+QNI Connect commissioned
+by July 2030
+Victoria-New South Wales
+Interconnector (VNI) West
+Earliest in-service date
+advised by proponent27:
+VNI West commissioned by
+December 2029
+Draft 2024 ISP outcome27
+– Progressive Change: VNI
+West commissioned by
+July 2034
+Draft 2024 ISP outcome27
+– Green Energy Exports:
+VNI West commissioned by
+July 2031
+Snowy 2.0 Snowy 2.0 is commissioned by December 2029
+Consistent with the 2023 IASR Assumptions Workbook24.
+Borumba PHES Borumba PHES is commissioned by July 2030
+Consistent with the nearest financial year in the 2023 IASR Assumptions Workbook24
+Discount rate 7% real, pre-tax24
+
+3.2 Overview of input assumptions for Pre-Draft ISP scenarios
+The sensitivities completed in November 2023, prior to the publication of the Draft 2024 ISP
+assume the timing of major transmission upgrades and associated increase in REZ transmission
+limits based on the 2022 ISP outcomes28 as summarised in Table 6. There were also several other
+smaller changes to input assumptions based on interpretation of the 2023 IASR prior to the
+publication of the Draft 2024 ISP including:
+► Queensland coal-fired generator maximum retirement dates extended beyond the expected
+closure year associated with the QEJP.
+► Virtual power plant (VPP) were not assumed to contribute to meeting the Victoria Energy
+Storage Target of 2.6 GW by 2030 and 6.3 GW by 2035.
+► Revised Tranche 2 transmission expansion cost for Central West Orana from $0.08m/MW to
+$0.16m/MW to reflect updated scope and alignment with the New South Wales Network
+Infrastructure Strategy.
+This Report refers to these as the Pre-Draft ISP scenarios.
+Table 6: Overview of key input parameters in the Pre-Draft ISP Step Change, Progressive Change and Green Energy
+Exports scenarios
+Key drivers input parameter
+Pre-Draft ISP scenario
+Step Change Progressive Change Green Energy Exports
+EnergyConnect 2022 ISP anticipated project29: EnergyConnect commissioned by July 2026
+Western Renewables Link 2022 ISP anticipated project27. Western Victoria upgrade commissioned by July 2026
++1 year
+
+28 AEMO, 30 June 2022, 2022 ISP. Available at: https://aemo.com.au/en/energy-systems/major-publications/integrated-
+system-plan-isp/2022-integrated-system-plan-isp. Accessed 27 March 2024.
+29 AEMO, Appendix 5: 2022 Integrated System Plan, available at https://aemo.com.au/-/media/files/major-
+publications/isp/2022/2022-documents/a5-network-investments.pdf?la=en. Accessed 27 March 2024.
+--- PDF page 17 ---
+
+
+
+A member firm of Ernst & Young Global Limited
+Liability limited by a scheme approved under Professional Standards Legislation EY   13
+
+Key drivers input parameter
+Pre-Draft ISP scenario
+Step Change Progressive Change Green Energy Exports
+HumeLink
+2022 ISP outcome27 – Step
+Change: HumeLink
+commissioned by July
+2028
+-1 year
+2022 ISP outcome27 –
+Progressive Change:
+HumeLink commissioned
+by July 2035
++5 years
+2022 ISP outcome27 –
+Hydrogen Superpower:
+HumeLink commissioned
+by July 2027
+-2 years
+New-England REZ
+Transmission
+2022 ISP outcome27 – Step
+Change: New England REZ
+Transmission Link
+commissioned by July
+2027, New England REZ
+Extension commissioned
+by July 2035
+Stage 1: -1 year
+Stage 2: +1 year
+2022 ISP outcome27 –
+Progressive Change: New
+England REZ Transmission
+Link commissioned by July
+2027, New England REZ
+Extension commissioned
+by July 2038
+Stage 1: -4 year
+Stage 2: -4 year
+2022 ISP outcome27 –
+Hydrogen Superpower:
+New England REZ
+Transmission Link
+commissioned by July
+2027, New England REZ
+Extension commissioned
+by July 2031
+Stage 1: -1 year
+Stage 2: -1 year
+Marinus Link
+Several different size and timings as per MLPL assumptions: The first stage of Marinus
+Link commissioned by October 2029 and different timings for the second stage of
+Marinus Link ranging in two-year increments from July 2031 to July 2035.
+Queensland-New South
+Wales interconnector (QNI)
+Connect
+2022 ISP outcome27 – Step
+Change: QNI Connect
+commissioned by July
+2032
+-1 year
+2022 ISP outcome27 –
+Progressive Change: QNI
+Connect commissioned by
+July 2036
+No change
+2022 ISP outcome27 –
+Hydrogen Superpower: QNI
+Connect commissioned by
+July 2029
+-1 year
+Victoria-New South Wales
+Interconnector (VNI) West
+2022 ISP outcome27 – Step
+Change: VNI West
+commissioned by July
+2031
++2 years
+2022 ISP outcome27 –
+Progressive Change: VNI
+West commissioned by
+July 2038
++4 years
+2022 ISP outcome27 –
+Hydrogen Superpower: VNI
+West commissioned by
+July 2030
++1 year
+
+3.3 Differences in assumptions with and without Marinus Link
+Across all scenarios and sensitivities, development of Marinus Link is associated with the following
+four additional changes assumed by MLPL consistent with the AEMO 2023 IASR30:
+► A 100 MW expansion of West Coast power scheme’s capacities 31.
+► A 150 MW upgrade of Tarraleah’s capacity and a 90 MW upgrade of Gordon’s capacity.
+► A reduced REZ transmission expansion cost applied for the Central Highlands REZ, after
+Marinus Link stage 1 is commissioned. The assumed linearised cost decreases from
+$0.63m/MW to $0.29m/MW.
+► A reduced REZ transmission expansion cost applied for the North West Tasmania REZ, after
+Marinus Link stage 1 is commissioned. The assumed linearised cost decreases from
+$0.38m/MW to $0.035m/MW.
+
+30 AEMO, 8 September 2023, 2023 IASR Assumptions Workbook v5.2. Available at:
+https://aemo.com.au/consultations/current-and-closed-consultations/2023-inputs-assumptions-and-scenarios-consultation.
+Accessed 27 March 2024.
+31 Capacity of the Anthony Pieman scheme is assumed to increase from 500 MW to 580 MW. Capacity of the John Butters
+scheme is assumed to increase from 155.4 MW to 174.4 MW.
+--- PDF page 18 ---
+
+
+
+A member firm of Ernst & Young Global Limited
+Liability limited by a scheme approved under Professional Standards Legislation EY   14
+
+MLPL also assumed a 10 percentage point decrease in monthly minimum whole of system reservoir
+volumes in Tasmania (Prudent Storage Levels, PSLs). 32
+The cost differential between the with and without Marinus Link simulations is factored in extern ally
+by MLPL. Any cost differential associated with these five factors are also dealt with by MLPL. EY’s
+work captures any changes in gross market benefits resulting from these changes.
+
+32 The PSL profile is imposed as part of Tasmania’s energy security plan mandated by the Tasmanian Government to
+manage the consequences of an extended Basslink outage. For more detail see Section 7.1. The decrease in PSL profile with
+Marinus Link is a modelling assumption selected by TasNetworks for the Marinus Link RIT-T and does not represent
+Tasmanian Government policy.
+--- PDF page 19 ---
+
+
+
+A member firm of Ernst & Young Global Limited
+Liability limited by a scheme approved under Professional Standards Legislation EY   15
+
+4. Methodology
+4.1 Long-term investment planning
+EY has applied linear programming techniques to perform hourly time-sequential, least-cost,
+long-term NEM development optimisation modelling spanning 26 years from 2024-25 to 2049-50.
+The modelling methodology follows the CBA guidelines for actionable ISP projects published by the
+Australian Energy Regulator33. The forecast gross market benefits of Marinus Link are calculated as
+the difference in the system cost that is forecast with and without Marinus Link.
+Based on the full set of input assumptions, the model makes decisions that minimise the overall
+cost to supply the electricity demand for the NEM over the entire Modelling Period, with respect to:
+► Capex costs of new generation and storage capacity installed.
+► FOM costs of all generation and storage capacity.
+► VOM costs of all generation and storage capacity.
+► Fuel costs for all generation capacity.
+► DSP and USE costs.
+► Transmission expansion costs associated with REZ development.
+► Retirement/rehabilitation costs to cover decommissioning, demolition and site rehabilitation.
+► Synchronous condenser costs to meet Tasmanian inertia requirements.
+Transmission34 and storage losses form part of the demand to be supplied and are calculated
+dynamically within the model within the cost minimisation objective.
+To determine the least-cost solution, the model makes decisions for each hourly 35 dispatch interval
+in relation to:
+► The generation dispatch level for each power plant along with the charging and discharging of
+storage. Generators are assumed to be dispatched according to their SRMC, which is derived
+from their VOM and fuel costs, as well as technical parameters. The generation for each
+dispatch interval is subject to the modelled availability of power stations in each hour ( subject
+to planned or unplanned outages or variable renewable availability), network limitations and
+energy limits (e.g., storage levels).
+► Commissioning new entrant capacity for onshore wind, offshore wind, solar PV SAT, CCGT,
+OCGT, large-scale battery and PHES.
+These hourly decisions take into account constraints that include:
+► Supply must equal demand in each region for all dispatch intervals, while maintaining a reserve
+margin, with USE costed at the VCR.
+► Minimum loads for some generators.
+► Transmission interconnector flow limits (between regions).
+► Maximum and minimum storage reservoir limits (for conventional storage hydro, PHES, VPP
+and large-scale battery).
+
+33  Australian Energy Regulator, 25 August 2020, Cost benefit analysis guidelines. Available at:
+https://www.aer.gov.au/networks-pipelines/guidelines-schemes-models-reviews/guidelines-to-make-the-integrated-system-
+plan-actionable. Accessed 27 March 2024.
+34 For the transmission elements modelled, described in Section 5.
+35 Whilst the NEM is dispatched on five-minute intervals, the model resolution is hourly as a compromise between managing
+computation time while still capturing the renewable and storage resources in sufficient detail for the purposes of the
+modelling.
+--- PDF page 20 ---
+
+
+
+A member firm of Ernst & Young Global Limited
+Liability limited by a scheme approved under Professional Standards Legislation EY   16
+
+► Transmission access and resource build limits for wind and solar in each REZ and costs
+associated with increasing these limits.
+► Emission and carbon budget constraints, as defined for each scenario.
+► Renewable energy targets where applicable by region or NEM-wide.
+The model does not include all intra-regional transmission constraints. It contains only inter-
+regional transfer limits (between regions) and REZ transmission constraints within each region36.
+The model factors in the annual costs, including annualised capital costs, for all new generator
+capacity and the model decides how much new capacity, storage and REZ transmission to build in
+each region to deliver the least-cost market outcome.
+The model meets the specified carbon budget at least cost, which may be by either building new
+lower emissions plant or reducing operation of higher emissions plant, or both.
+There are three main types of generation that are scheduled by the model:
+► Dispatchable generators, typically coal, gas and liquid fuel which are assumed to have
+unlimited energy resource in general. The running cost for these generators is the sum of the
+VOM and fuel costs. FOM costs are another component of the running cost of generators
+contributing to expected earlier economic retirements37. Coal generators and some CCGTs
+have minimum loads to reflect operational stability limits and high start-up costs and this
+ensures they are always online when available. This is consistent with the self -commitment
+nature of the design of the NEM. On the other hand, peaking generators have no minimum
+operating level and start whenever the cost of supply is at or above their variable costs and
+operate for a minimum of one hour.
+► Wind and solar generators are fully dispatched according to their available variable resource in
+each hour, unless spilled due to oversupply or constrained by network limitations.
+► Storage plant of all types (conventional hydro generators with storages, PHES, large-scale
+battery and VPPs) are operated to minimise the overall system costs. This means they tend to
+generate at times of high cost of supply, e.g., when the demand for power is high, and so
+dispatching energy-limited generation will avoid utilisation of high-cost plant such as gas-fired
+or liquid fuel generators. Conversely, at times of low supply cost, e.g., when there is a
+prevailing surplus of renewable generation capacity, storage hydro preserves energy and PHES
+and large-scale batteries operate in pumping or charging mode.
+4.2 Reserve constraint in long-term investment planning
+As per the AEMO ISP methodology38 assumed by MLPL, the TSIRP model ensures there is sufficient
+dispatchable capacity in each region to meet peak demand by enforcing regional minimum reserve
+levels to allow for generation contingencies, which can occur at any time.
+All dispatchable generators in each region are eligible to contribute to reserve (except storage39)
+and headroom that is available from interconnectors. The hourly modelling accounts for load
+diversity and sharing of reserves across the NEM and so minimises the amount of reserve carried,
+
+36 Including an additional cost for transmission upgrades to facilitate REZ development where this forms part of the input
+data.
+37 Note that earlier coal retirements are an outcome of the least cost optimisation rather than revenue assessment.
+38 AEMO, June 2023, ISP Methodology, available at https://aemo.com.au/-
+/media/files/stakeholder_consultation/consultations/nem-consultations/2023/isp-methodology-2023/isp-
+methodology_june-2023.pdf?la=en. Accessed 27 March 2024.
+39 PHES, VPPs and large-scale battery storages are usually fully dispatched during the peak demand periods and thus will be
+unable to contribute to reserve. In the event that they are not dispatched fully, it is likely that they will have insufficient
+energy in storage.
+--- PDF page 21 ---
+
+
+
+A member firm of Ernst & Young Global Limited
+Liability limited by a scheme approved under Professional Standards Legislation EY   17
+
+and provides reserve from the lowest cost providers, including allowing for each region to
+contribute to its neighbours’ reserve requirements through interconnector s.
+In the modelling presented in this Report, a single contingency reserve requirement was applied
+with a high penalty cost. This amount of reserve is intended to allow sufficient capacity for
+operational reliability in the event that conditions vary from the perfect -foresight optimisation
+model (e.g., variability in production from variable renewable energy sources, different forced
+outage patterns, sub-optimal operation of storage)40.
+There are two geographical levels of reserve constraints applied:
+► Reserve constraints are applied to each region.
+► The model ensures that interconnector headroom is backed by spare capacity in the
+neighbouring regions through an additional reserve constraint.
+4.3 Cost-benefit analysis
+From the hourly time-sequential modelling, the cost categories listed in Section 4.1 are computed
+as defined in the RIT-T for actionable ISP projects.
+For each scenario and sensitivity with Marinus Link, a matched without Marinus Link counterfactual
+(referred to as the Base Case) long-term generation and investment plan is simulated. The changes
+in each of the cost categories are computed as the forecast gross market benefits due to Marinus
+Link.
+Each component of forecast gross market benefits is computed annually over the 26-year Modelling
+Period. In this Report, we summarise the forecast benefit and cost streams using a single value
+computed as the net present value (NPV)41, discounted to 1 July 2023 at a 7% real, pre-tax
+discount rate, consistent with the 2023 IASR42.
+The forecast gross market benefits of each scenario and sensitivity need to be compared to the
+cost in the relevant case to determine whether there is a positive forecast net economic benefit.
+That evaluation is not part of our scope and hence has not been included in this Report. It is
+performed by MLPL outside of this Report using the forecast gross market benefits from this
+Report and other inputs.
+
+40 This constraint is applied to only a subset of simulation hours when demand is high to reduce the optimisation problem
+size.
+41 We use the term net present value rather than present value as there are positive and negative components of market
+benefits captured; however, we do not consider augmentation costs.
+42 AEMO, 8 September 2023, 2023 IASR Assumptions Workbook v5.2. Available at
+https://aemo.com.au/consultations/current-and-closed-consultations/2023-inputs-assumptions-and-scenarios-consultation.
+Accessed 27 March 2024.
+--- PDF page 22 ---
+
+
+
+A member firm of Ernst & Young Global Limited
+Liability limited by a scheme approved under Professional Standards Legislation EY   18
+
+5. Transmission
+5.1 Regional definitions
+A five-node setup was implemented in the modelling presented in this Report to represent the inter-
+regional network limitations and transmission losses. The regions and regional reference nodes are
+listed in Table 7.
+Table 7: Regions, zones and reference nodes
+Region Regional Reference Node (RRN)
+Queensland (QLD) South Pine 275 kV
+New South Wales (NSW) Sydney West 330 kV
+Victoria (VIC) Thomastown 66 kV
+South Australia (SA) Torrens Island 66 kV
+Tasmania (TAS) George Town 220 kV
+
+5.2 Interconnector loss models
+Dynamic loss equations for the existing network are sourced from the 2023 IASR.43
+5.2.1 Marinus Link loss model
+Losses on interconnectors between Tasmania and Victoria (on the cable and converter stations) are
+calculated dynamically in each dispatch interval using a loss equation. The loss is apportioned to the
+two regions using a proportioning factor.
+Consistent with the Marinus Link RIT-T by TasNetworks, the main assumptions for Marinus Link
+are44:
+► 1,500 MW modelled as two 750 MW cables.
+► There is a bi-directional flow limit of 750 MW, measured at the receiving end.
+► Dynamic losses are allocated to the sending end.
+► Dynamic losses along the cable are described as loss equations shown in Figure 2,
+provided by TasNetworks. This is determined by the type of conductor , voltage of the cable
+and length of the cable and incorporates converter station losses.
+
+
+43 AEMO, 8 September 2023, 2023 IASR Assumptions Workbook v5.2. Available at
+https://aemo.com.au/consultations/current-and-closed-consultations/2023-inputs-assumptions-and-scenarios-consultation.
+Accessed 27 March 2024.
+44 TasNetworks, 24 June 2021, Input assumptions and scenario workbook for Project Marinus PACR. Available at:
+https://www.marinuslink.com.au/rit-t-process/. Accessed 27 March 2024.
+--- PDF page 23 ---
+
+
+
+A member firm of Ernst & Young Global Limited
+Liability limited by a scheme approved under Professional Standards Legislation EY   19
+
+Figure 2: Dynamic loss equation for Marinus Link
+
+Basslink and Marinus Link are modelled to share flows to minimise aggregate losses between
+Tasmania and Victoria.
+5.3 Interconnector capabilities
+The notional limits imposed on interconnectors are shown in Table 8.
+Table 8: Notional interconnector capabilities used in the modelling (sourced from the Draft 2024 ISP45)
+Interconnector
+(From node – To node) Import46 notional limit  Export47 notional limit
+QNI 1,165 MW summer
+1,170 MW winter 745 MW summer/winter
+QNI Connect 2,865 MW summer
+2,870 MW winter 2,205 MW summer/winter
+Terranora 150 MW summer
+200 MW winter 50 MW summer/winter
+EnergyConnect
+(NSW-SA) 800 MW 800 MW
+VIC-NSW 400 MW
+2,205 MW (after VNI West)
+1,000 MW
+3,045 MW (after VNI West)
+Heywood
+(VIC-SA)
+650 MW (before EnergyConnect)
+750 MW (after EnergyConnect)
+650 MW (before EnergyConnect)
+750 MW (after EnergyConnect)
+
+45 AEMO, 8 September 2023, 2023 IASR Assumptions Workbook v5.2. Available at
+https://aemo.com.au/consultations/current-and-closed-consultations/2023-inputs-assumptions-and-scenarios-consultation.
+Accessed 27 March 2024.
+46 Import refers to power being transferred from the ‘To node’ to the ‘From node’ and follows NEM convention where the
+‘From node’ is the most southerly or easterly node, and the ‘To node’ is the most northerly or westerly node. E.g., import on
+Marinus Link implies southward flow and import on Heywood and EnergyConnect implies eastward flow.
+47 Export refers to power being transferred from the ‘From node’ to the ‘To node’ and follows NEM convention where the
+‘From node’ is the most southerly or easterly node, and the ‘To node’ is the most northerly or westerly node. E.g., export on
+Marinus Link implies northward flow and export on Heywood and EnergyConnect implies westward flow.
+0
+5
+10
+15
+20
+25
+30
+35
+-750 -650 -550 -450 -350 -250 -150 -50 50 150 250 350 450 550 650 750
+Loss (MW)
+Flow (MW)
+Basslink Marinus Link 750 MW
+--- PDF page 24 ---
+
+
+
+A member firm of Ernst & Young Global Limited
+Liability limited by a scheme approved under Professional Standards Legislation EY   20
+
+Interconnector
+(From node – To node) Import46 notional limit  Export47 notional limit
+Murraylink
+(VIC-SA) 200 MW 220 MW
+Basslink
+(TAS-VIC) 478 MW 478 MW
+Marinus Link48
+(TAS-VIC)
+750 MW for the first stage and
+1,500 MW after the second stage (for
+applicable variants)
+750 MW for the first stage and
+1,500 MW after the second stage (for
+applicable variants)
+
+The following interconnectors are included in the left-hand side of constraint equations which may
+restrict them below the notional limits specified in Table 8:
+► Heywood + EnergyConnect has combined transfer export and import limits of 1,300  MW and
+1,450 MW, respectively. The model will dispatch across the two links to minimise costs.
+► Basslink and Marinus Link are included in the Tasmania inertia constraints described in
+Section 5.3.1.
+5.3.1 Tasmania inertia constraints
+An inertia constraint was included in the generation development plan to ensure the aggregate
+level of inertia in Tasmania in each dispatch interval is sufficient to meet minimum requirements.
+These minimum levels ensure each region can be operated in a satisfactory operating state in the
+event the region is islanded as defined in the National Electricity Rules49.
+A linear inertia requirement described in the Marinus Link RIT-T by TasNetworks50 was imposed,
+which accounts for the effect of Tasmanian demand, interconnector flows, seasonal differences in
+hydro minimum loads and the effect of variable wind production and PHES development. The set of
+inertia constraints account for the contribution of Tasmanian generator s to inertia with
+requirements varying with import, export and Tasmania demand conditions. Applicable
+hydroelectric generators are also able to operate in synchronous condenser mode at a cost of
+$0.17/MW.s, as per the Marinus Link RIT-T50. Details of these constraints are included in this
+document for completeness in the remainder of this section.
+The following requirements and inertia coefficients are consistent with the Marinus Link RIT-T50.
+On export, sum of terms in Table 9, hard-export column ≥ 810
+On import, sum of terms in Table 9, hard-import column ≥ 450 - 0.07*Tasmanian demand
+At all times, sum of terms in Table 9, hard-minimum column ≥ 3,800
+
+48 The 2023 IASR imposes a combined Basslink + Marinus Link constraint on import limits as the ISP model does not
+consider Tasmanian inertia requirements. As this Report explicitly models inertia constraints the import limit constraints are
+not imposed.
+49 Australian Energy Market Commission, 12 August 2019, National Electricity Rules, version 124, 5.20B.2
+50 TasNetworks, 24 June 2021, Input assumptions and scenario workbook for Project Marinus PACR. Available at:
+https://www.marinuslink.com.au/rit-t-process/. Accessed 27 March 2024.
+--- PDF page 25 ---
+
+
+
+A member firm of Ernst & Young Global Limited
+Liability limited by a scheme approved under Professional Standards Legislation EY   21
+
+Table 9: Tasmania minimum inertia left-hand side constraint terms
+Term in inertia
+constraint
+equation left-
+hand side
+Hard constraint51 Constraint for synchronous condenser costing
+Contribution
+on export
+(MW.s)
+Contribution
+on import
+(MW.s)
+Contribution
+to minimum
+(MW.s)
+Contribution
+on export
+(MW.s)
+Contribution
+on import
+(MW.s)
+Contribution
+to minimum
+(MW.s)
+TAS-Vic flow -5.04*export
+flow (MW)
+5.95*import
+flow (MW) 0 -5.04*export
+flow (MW)
+5.95*import
+flow (MW) 0
+Tasmanian
+wind 0 -1.17*dispatch
+(MW) 0 0 -1.17*dispatch
+(MW) 0
+Tasmanian
+PHES 3.33*capacity (MW) 3.33*dispatch (MW)
+John Butters 600 3.9*dispatch (MW)
+Poatina 1,713 5.0*dispatch (MW)
+Anthony
+Pieman 4*dispatch_no-sync (MW)* + 1,652 4*dispatch (MW)
+Gordon 4.3*dispatch_no-sync (MW)* + 626 4.3*dispatch (MW)
+Mersey Forth
+Lower 3.4*dispatch_no-sync (MW)* + 565 3.4*dispatch (MW)
+Mersey Forth
+Upper 2.8*dispatch_no-sync (MW)* + 149 2.8*dispatch (MW)
+Lower Derwent 3.7*dispatch (MW)
+Tarraleah 4.0*dispatch (MW)
+Trevallyn 4.3*dispatch (MW)
+Tungatinah 3.2*dispatch (MW)
+Bell Bay 8.6*dispatch (MW)
+Tamar Valley
+CCGT 7.7*dispatch (MW)
+Tamar Valley
+OCGT 7.7*dispatch (MW)
+
+Since John Butters and Poatina can operate as a generator or synchronous condenser, they are
+assumed to contribute at full value to the hard constraint. PHES is assumed to also contribute
+inertia by operating as a generator, pump or synchronous condenser and so terms for each appear
+in the hard constraint.
+The cost of operation as a synchronous condenser, when required, is computed through an
+additional constraint with terms using the right three columns of Table 9. These constraints can
+violate at a cost of 17 cents/MWs. The total violation cost is an estimate of the cost of running
+Poatina, John Butters and PHES as synchronous condensers to meet the minimum inertia
+requirement.
+
+51 A hard constraint is one that cannot be violated.
+--- PDF page 26 ---
+
+
+
+A member firm of Ernst & Young Global Limited
+Liability limited by a scheme approved under Professional Standards Legislation EY   22
+
+6. Demand
+The TSIRP model captures forecast demand diversity across regions by basing the overall shape of
+hourly demand on nine historical financial years ranging from 2010-11 to 2018-1952. Demand
+timeseries were provided to EY by AEMO through MLPL for the purpose of this modelling. The nine
+reference years are repeated sequentially throughout the Modelling Period as shown in Figure 3.
+Figure 3: Sequence of demand reference years applied to forecast
+Modelled year Reference year
+2024-25 2015-16
+2025-26 2016-17
+2026-27 2017-18
+2027-28 2018-19
+2028-29 2010-11
+2029-30 2011-12
+2030-31 2012-13
+2031-32 2013-14
+2032-33 2014-15
+2033-34 2015-16
+2034-35 2016-17
+2035-36 2017-18
+2036-37 2018-19
+… …
+2047-48 2011-12
+2048-49 2012-13
+2049-50 2013-14
+
+This method ensures the timing of high and low demands across regions reflects historical patterns,
+while accounting for projected changes in rooftop PV generation and other behind-the-meter loads
+and generators that may alter the size of peaks and their timing across regions. Overall, due to
+distributed PV uptake, we generally see the peak operational demand dispatch intervals shifting
+later in the day throughout the Modelling Period.
+The reference year pattern is also consistent with site-specific hourly large-scale wind and solar
+availability (see Section 7.1) and hydro inflows. This maintains correlations between weather
+patterns, demand, wind, large-scale solar and distributed PV availability.
+
+52 These reference years were chosen due to only having Tasmanian hydro hourly traces for these nine reference years.
+Having more accurate Tasmanian hydro traces was deemed more material to modelling outcomes than having additional
+reference years.
+--- PDF page 27 ---
+
+
+
+A member firm of Ernst & Young Global Limited
+Liability limited by a scheme approved under Professional Standards Legislation EY   23
+
+MLPL selected demand forecasts from the ESOO 202353 consistent with the relevant scenarios in
+the 2023 IASR54, which are used as inputs to the modelling. Figure 4 shows the assumed NEM
+operational demand for the modelled scenarios, inclusive of hydrogen demand.
+Figure 4: Assumed annual operational demand in the modelled scenarios for the NEM, inclusive of hydrogen demand
+
+
+53 AEMO, National Electricity and Gas Forecasting. Available at:
+http://forecasting.aemo.com.au/Electricity/AnnualConsumption/Operational. Accessed 27 March 2024.
+54  AEMO, 8 September 2023, 2023 IASR Assumptions Workbook v5.2. Available at:
+https://aemo.com.au/consultations/current-and-closed-consultations/2023-inputs-assumptions-and-scenarios-consultation.
+Accessed 27 March 2024.
+0.0
+100.0
+200.0
+300.0
+400.0
+500.0
+600.0
+700.0
+800.0
+900.0Operational demand - sent-out (TWh)
+Step Change Progressive Change Green Energy Exports
+--- PDF page 28 ---
+
+
+
+A member firm of Ernst & Young Global Limited
+Liability limited by a scheme approved under Professional Standards Legislation EY   24
+
+7. Supply
+7.1 Tasmanian hydroelectric generators
+Most of Hydro Tasmania’s generators are part of connected systems or cascades of multiple
+generators and variously sized storages along various Tasmanian river systems. Consistent with the
+Marinus Link RIT-T by TasNetworks55, we used a ten-pond model of the schemes which aggregated
+some generators within schemes. Figure 5 shows the structure of the cascades modelled. Data for
+modelling of the Hydro Tasmania generators was provided to Marinus Link Pty Ltd by Hydro
+Tasmania.
+Figure 5: Cascades modelled
+
+The hourly generation profile of each scheme is determined by the model, which maximises the
+value of energy available. Water use in each scheme over the 26-year Modelling Period is optimised
+subject to reservoir levels at the start of the study, hourly inflows and minimum monthly whole-of-
+system reservoir levels. Hourly reservoir inflow data was sourced from Hydro Tasmania.
+Additionally, small non-scheduled generators are modelled explicitly and spill is allowed for all
+ponds except Gordon and Poatina.
+The whole-of-Tasmanian system reservoir volume is known as Total Energy in Storage and the
+monthly minimums are the prudent storage level (PSL) profile. The PSL is imposed as part of
+Tasmania’s energy security plan mandated by the Tasmanian Government to manage the
+consequences of an extended Basslink outage56.These levels vary throughout the year to match
+long-term seasonal rainfall patterns as shown in Figure 6. In the model, these minimums from the
+Marinus Link RIT-T by TasNetworks55 were imposed on the first day of each month.
+Upon entry of Marinus Link, there is an assumed ten percentage point decrease in the PSL profile,
+which represents a reversion to values that were applied prior to the energy security review that
+followed the extended outage of Basslink in 2016. The decrease in PSL profile with Marinus Link
+was consistent with the Marinus Link RIT-T undertaken by TasNetworks55. This was selected by
+MLPL on the basis that the assumptions detailed in the Tasmanian Energy Security Taskforce Final
+
+55 TasNetworks, 24June 2021, Input assumptions and scenario workbook for Project Marinus PACR. Available at:
+https://www.marinuslink.com.au/rit-t-process/. Accessed 27 March 2024.
+56 Hydro Tasmania, Secure Energy. Available at: https://www.hydro.com.au/clean-energy/secure-energy. Accessed
+27 March 2024.
+
+--- PDF page 29 ---
+
+
+
+A member firm of Ernst & Young Global Limited
+Liability limited by a scheme approved under Professional Standards Legislation EY   25
+
+Report57, upon which the PSL is based, would no longer be valid with the introduction of Marinus
+Link, and a revision to the former PSL profile could be justified. This PSL reduction does not
+represent Tasmanian Government policy. This decrease delivers a one -off quantity of additional
+water for generation and ongoing greater flexibility in use of Hydro Tasmania’s storages.
+Figure 6: Assumed PSL profile for Hydro Tasmania's reservoirs
+
+7.2 Wind and solar energy projects and REZ representation
+Several generators not yet built are assumed to progress through to commercial operation in all
+simulations. The source of this list is AEMO’s 2023 IASR Assumptions Workbook58 for existing,
+committed and anticipated projects.
+Existing and new wind and solar projects are modelled based on nine years of historical weather
+data59 and the methodology for each category of wind and solar project is summarised in Table 10.
+All large-scale wind and solar availability profiles are developed by EY.
+
+57 Tasmanian Government, Tasmanian Energy Security Taskforce Final Report. Available at:
+https://www.stategrowth.tas.gov.au/energy_and_resources/tasmanian_energy_security_taskforce/final_report. Accessed
+27 March 2024.
+58 AEMO, 8 September 2023, 2023 IASR Assumptions Workbook v5.2: https://aemo.com.au/consultations/current-and-
+closed-consultations/2023-inputs-assumptions-and-scenarios-consultation. Accessed 27 March 2024.
+59 As described by Australian Government Bureau of Meteorology, ACCESS NWP Data Information. Available at:
+http://www.bom.gov.au/nwp/doc/access/NWPData.shtml. Accessed 27 March 2024.
+0%
+7%
+15%
+22%
+29%
+37%
+44%
+0
+1,000
+2,000
+3,000
+4,000
+5,000
+6,000
+1 Jan 1 Feb 1 Mar 1 Apr 1 May 1 Jun 1 Jul 1 Aug 1 Sep  1 Oct 1 Nov 1 Dec
+Prudent Storage Level (%)
+Prudent Storage Level (GWh)
+PSL pre-Marinus Link commissioning PSL post-Marinus Link commissioning
+--- PDF page 30 ---
+
+
+
+A member firm of Ernst & Young Global Limited
+Liability limited by a scheme approved under Professional Standards Legislation EY   26
+
+Table 10: Summary of wind and solar availability methodology
+Technology Category Capacity factor methodology Reference year treatment
+Wind
+Existing
+Specify long-term target based on
+nine-year average in AEMO ESOO
+2019 traces60,61 where available,
+otherwise past meteorological
+performance.
+Capacity factor varies with
+reference year based on site-
+specific, historical, near-term
+wind speed forecasts.
+Committed new entrant
+Reference year specific targets
+based on capacity factor of nearest
+REZ, medium quality tranche in
+AEMO’s 2021 ISP Inputs and
+Assumptions workbook62,63.
+Generic REZ new entrants
+Reference year specific targets
+based on AEMO’s 2023 ISP Inputs
+and Assumptions workbook64. One
+high quality option and one medium
+quality option per REZ.
+Solar PV
+Fixed Flat
+Plate
+Existing Annual capacity factor based on
+technology and site-specific solar
+insolation measurements.
+Capacity factor varies with
+reference year based on
+historical, site-specific insolation
+measurements. Solar PV SAT
+Existing
+Committed new entrant
+Reference year specific targets
+based on capacity factor of nearest
+REZ, in AEMO’s 2021 ISP Inputs
+and Assumptions workbook62,63.
+Generic REZ new entrant
+Reference year specific targets
+based on AEMO’s 2023 ISP Inputs
+and Assumptions workbook64.
+All existing and committed large-scale wind and solar farms in the NEM are modelled on an
+individual basis. Each project has a location-specific availability profile based on historical resource
+availability. The availability profiles are derived using nine years of historical weather data covering
+financial years between 2010-11 and 2018-19 (inclusive) and synchronised with the hourly
+demand profile. Wind and solar availability profiles used in the modelling reflect generation patterns
+occurring in the nine historical years, and these generation patterns are repeated throughout the
+Modelling Period as shown in Figure 3.
+The availability profiles for wind generation are derived from simulated wind speeds from the
+Australian Bureau of Meteorology’s Numerical Weather Prediction systems 65 at a representative
+hub height. Wind speeds are converted into power using a generic wind farm power curve. The wind
+speed profiles are scaled to achieve the average target capacity factor across the nine historical
+
+60 AEMO, 2019 Electricity Statement of Opportunities: 2019 Wind Traces and 2019 Solar Traces. Available at:
+https://www.aemo.com.au/energy-systems/electricity/national-electricity-market-nem/nem-forecasting-and-
+planning/forecasting-and-reliability/nem-electricity-statement-of-opportunities-esoo Accessed 27 March 2024.
+61 On the whole, capacity factor estimates for existing projects have not materially changed between the Marinus Link RIT-T
+and this Report.
+62 AEMO, 10 December 2021, Input and Assumptions Workbook v3.3. Available at:
+https://aemo.com.au/consultations/current-and-closed-consultations/2021-planning-and-forecasting-consultation-on-
+inputs-assumptions-and-scenarios. Accessed 27 March 2024.
+63 On the whole, capacity factor estimates for medium quality tranche wind and solar PV within a REZ have not materially
+changed between the 2021 IASR and the 2023 IASR for the relatively small number of committed generators.
+64 AEMO, 8 September 2023, 2023 IASR Assumptions Workbook v5.2. Available at:
+https://aemo.com.au/consultations/current-and-closed-consultations/2023-inputs-assumptions-and-scenarios-consultation.
+Accessed 27 March 2024.
+65 As described by Australian Government Bureau of Meteorology, ACCESS NWP Data Information. Available at:
+http://www.bom.gov.au/nwp/doc/access/NWPData.shtml. Accessed 27 March 2024.
+--- PDF page 31 ---
+
+
+
+A member firm of Ernst & Young Global Limited
+Liability limited by a scheme approved under Professional Standards Legislation EY   27
+
+years. The profiles reflect inter-annual variations, but at the same time achieve long-term capacity
+factors in line with historical performance (existing wind farms) or the values used in the AEMO
+2019 ESOO and 2023 ISP inputs and assumptions66 for each REZ.
+The availability profiles for solar are derived using solar irradiation data from satellite imagery
+processed by the Australian Bureau of Meteorology. As for wind profiles, the solar profiles reflect
+inter-annual variations over nine historical years, but at the same time achieve long-term capacity
+factors in line with historical performance (existing solar farms) or target AEMO’s capacity factor
+for each REZ.
+Wind and solar capacity expansion in each REZ is limited by four parameters based on the AEMO
+2023 IASR assumptions workbook66.
+► Transmission-limited total build limit (MW) representing the amount of dispatch supported by
+current intra-regional transmission infrastructure.
+► A transmission expansion cost ($/MW) representing an indicative linear network expansion
+cost to develop a REZ beyond current capabilities and connect the REZ to t he nearest major
+load centre.
+► Resource limits (MW) representing the maximum amount of capacity expected to be feasibly
+developed in a REZ based on topography, land use etc at the given capex.
+► A resource limit violation penalty factor ($/MW) to build additional capacity beyond the
+resource limit. This represents additional capex to build on sites with higher land costs.
+The TSIRP model incurs the additional transmission expansion cost to build more capacity up to the
+resource limit, and potentially beyond the limit at cost, if it is part of the least-cost development
+plan.
+AEMO’s 2023 IASR Assumptions workbook also includes intra-regional flow between nodes within
+the same region66. Due to using a five-node model (i.e. one node per region), it is not possible to
+model intra-regional flow for REZ transmission limits. As a result, MLPL has agreed to revert to the
+final 2022 ISP assumptions for REZs which are contained in intra-regional flow constraints66,67.
+Solar PV and wind generation are dispatched at their available resource limit unless curtailed
+economically (when sufficient sources of must-run generation and generation with cost at or below
+their VOM are available) or by other constraints such as transmission limits.
+7.3 Generator forced outage rates and maintenance
+Full and partial forced outage rates for all generators as well as mean time to repair used in the
+modelling are based on the AEMO 2023 IASR Assumptions workbook.66
+All unplanned forced outage patterns are set by a random number generator for each existing
+generator. The seed for the random number generator is set such that the same forced outage
+pattern exists between the Base Case and the with Marinus Link case. New entrant generators are
+de-rated by their equivalent forced outage rate.
+Planned maintenance events for existing generators are scheduled during low demand periods and
+the number of days required for maintenance is set based on the AEMO 2023 IASR Assumptions
+workbook.66
+
+66 AEMO, 8 September 2023, 2023 IASR Assumptions Workbook v5.2. Available at:
+https://aemo.com.au/consultations/current-and-closed-consultations/2023-inputs-assumptions-and-scenarios-consultation.
+Accessed 27 March 2024.
+67 This was applied to several REZs in Queensland, including Northern QLD, Isaac, Fitzroy, Wide Bay and Darling Downs.
+--- PDF page 32 ---
+
+
+
+A member firm of Ernst & Young Global Limited
+Liability limited by a scheme approved under Professional Standards Legislation EY   28
+
+7.4 Generator technical parameters
+Technical generator parameters applied are as detailed in the 2023 IASR Assumptions Workbook68
+for AEMO’s long-term planning model, except as noted in the Report.
+7.5 Coal-fired generators
+Coal-fired generators are treated as dispatchable between minimum load and maximum load. Must
+run generation is dispatched whenever available at least at its minimum load. As with the 2023
+IASR Assumptions Workbook68, maximum loads vary seasonally. This reduces the amount of
+available capacity in the summer periods.
+7.6 Gas-fired generators
+Gas-fired CCGT plant also typically have a must-run component and so are dispatched at or above
+their minimum load to deliver efficient fuel consumption.
+In line with the 2023 IASR Assumptions Workbook68, a minimum load of 46% of capacity for all new
+CCGTs has been applied to reflect minimum load conditions for assumed efficient use of gas and
+steam turbines in CCGT operating mode.
+OCGTs are assumed to operate with no minimum load. As a result, they start and are dispatched for
+a minimum of one hour when the cost of supply is at or above their SRMC.
+7.7 Storage-limited generators
+Conventional hydro with storages, PHES and batteries are dispatched in each interval such that
+they are most effective in reducing the costs of generation up to the limits of their storage
+capacity.
+Hourly hydro inflows to the reservoirs and ponds are computed from monthly values sourced from
+the AEMO 2023 IASR Assumptions workbook and the median hydro climate factor trajectory for
+the respective scenario applied69. The Tasmanian hydro schemes, including run-of-river plants,
+were modelled using a ten-pond model, with additional information for hourly inflow data sourced
+from Hydro Tasmania as described in Section 7.1. Additionally, small non-scheduled generators are
+modelled explicitly and spill is allowed for all ponds except Gordon and Poatina.
+
+68 AEMO, 8 September 2023, 2023 IASR Assumptions Workbook v5.2. Available at:
+https://aemo.com.au/consultations/current-and-closed-consultations/2023-inputs-assumptions-and-scenarios-consultation.
+Accessed 27 March 2024.
+69 AEMO, 30 June 2022, Input and Assumptions Workbook v3.4. Available at: https://aemo.com.au/en/energy-
+systems/major-publications/integrated-system-plan-isp/2022-integrated-system-plan-isp/current-inputs-assumptions-and-
+scenarios. Accessed 27 March 2024.
+--- PDF page 33 ---
+
+
+
+A member firm of Ernst & Young Global Limited
+Liability limited by a scheme approved under Professional Standards Legislation EY   29
+
+8. Forecast NEM outlook in the without Marinus Link case
+Before presenting the forecast benefits of the options, it is useful to understand the expected
+capacity and generation outlooks in the modelled scenarios, and the underlying input assumptions
+driving those outlooks in the case without Marinus Link counterfactual.
+8.1 Forecast coal power plant withdrawal
+Based on the scenario settings described in Section 3, and in line with the 2024 ISP methodology,
+thermal generation retirements are determined on a least-cost basis. Coal generator retirements
+are assumed to occur at or earlier than their end-of-technical-life or announced retirement year.
+The announced retirement schedules for coal units are based on the 2023 IASR Assumptions
+Workbook70. Forecast coal capacity in the with Marinus Link case across all scenarios as an output
+of the modelling is illustrated in Figure 7.
+Figure 7: Forecast coal capacity in the NEM by year across all scenarios in the without Marinus Link case71 (solid lines
+and dashed lines demonstrate the coal capacity forecasts in this model and ISP 2022 outcomes, respectively)
+
+The forecast pace of the transition is predominantly determined by a combination of assumed
+carbon budgets, renewable energy targets (federal, NSW Electricity Infrastructure Roadmap, VRET,
+QRET and TRET), demand outlook and end-of-life for existing assets in a system developed and
+dispatched at least cost. The model forecasts the entire coal capacity withdraws by the early 2030s
+in the Green Energy Exports scenario, and around 2040 for the Step Change scenario. In the
+Progressive Change scenario, coal-fired generation is forecast to remain until the end of the
+Modelling Period.
+The National Electricity Rules require generators to provide three years notice of closure. As such,
+the coal capacity forecast in 2025-26 is higher in this Report compared to the 2022 ISP outcomes,
+which allowed coal retirements from the beginning of 2025-26. From the late 2020s, the scenarios
+in this Report are forecast to have less coal capacity than their corresponding 2022 ISP scenario
+outcomes due to the more ambitious renewable energy target policy assumed in the AEMO 2023
+
+70 AEMO, 8 September 2023, 2023 IASR Assumptions Workbook v5.2: https://aemo.com.au/consultations/current-and-
+closed-consultations/2023-inputs-assumptions-and-scenarios-consultation. Accessed 27 March 2024.
+71 In the model 2,880 MW from the four units of Eraring retires in August 2025 (after the beginning of the 2025-26
+financial year).
+0
+5
+10
+15
+20
+25Coal capacity (GW)
+Step Change Progressive Change
+Green Energy Exports Step Change (2022 ISP)
+Progressive Change (2022 ISP) Hydrogen Superpower (2022 ISP)
+Announced retirements
+--- PDF page 34 ---
+
+
+
+A member firm of Ernst & Young Global Limited
+Liability limited by a scheme approved under Professional Standards Legislation EY   30
+
+IASR72. This is particularly relevant for the Progressive Change scenario where earlier withdrawals
+occur due to the assumed 82% federal renewable generation target.
+Although some scenario names may overlap with the Marinus Link RIT-T by TasNetworks73, such as
+the Step Change scenario, the underlying assumptions are different. Compared to the Marinus Link
+RIT-T, the three scenarios in this Report are generally forecast to have a faster transition from
+existing thermal generation towards variable renewable energy resources.
+8.2 Forecast NEM capacity and generation outlook
+The NEM-wide capacity mix forecast in the Step Change scenario without Marinus Link is shown in
+Figure 8 and the corresponding generation mix in Figure 9. In this scenario, the forecast generation
+capacity of the NEM shifts towards increasing capacity of wind and solar, complemented by large-
+scale battery, PHES, and gas.
+Figure 8: NEM capacity mix forecast for the Step Change scenario without Marinus Link74
+
+Figure 9: NEM generation mix forecast for the Step Change scenario without Marinus Link
+
+
+72 AEMO, 8 September 2023, 2023 IASR Assumptions Workbook v5.2: https://aemo.com.au/consultations/current-and-
+closed-consultations/2023-inputs-assumptions-and-scenarios-consultation. Accessed 27 March 2024.
+73 TasNetworks, 24 June 2021, Input assumptions and scenario workbook for Project Marinus PACR. Available at:
+https://www.marinuslink.com.au/rit-t-process/. Accessed 27 March 2024.
+74 Dispatchable battery includes both large-scale battery and VPP.
+0
+50
+100
+150
+200
+250Capacity (GW)
+Black Coal Brown Coal CCGT Gas - Steam
+OCGT / Diesel Hydro Wind Solar PV
+Distributed PV Hydrogen Turbine Dispatchable Battery Pumped Hydro
+0
+100
+200
+300
+400
+500Generation (TWh)
+Black Coal Brown Coal CCGT Gas - Steam
+OCGT / Diesel Hydro Wind Solar PV
+Distributed PV Hydrogen Turbine Dispatchable Battery Pumped Hydro
+--- PDF page 35 ---
+
+
+
+A member firm of Ernst & Young Global Limited
+Liability limited by a scheme approved under Professional Standards Legislation EY   31
+
+Up to 2030, new wind and solar build is largely driven by the assumed federal renewable energy
+target. During this time period, the federal renewable energy policy drives outcomes ahead of
+state-based renewable energy targets and entry of renewable capacity to replace coal retirements
+to achieve the assumed carbon budget. To replace the retiring capacity, wind capacity is
+predominantly forecast to be installed throughout the mid-to-late 2020s, along with large-scale
+battery and pumped hydro storage capacity in line with the assumed state-based storage targets.
+Solar PV and OCGT capacity are forecast to increase from the late 2030s complementing other
+technologies. The forecast new gas-fired capacity also supports reserve requirements. Overall, the
+NEM is forecast to have roughly 281 GW total (generation and storage) capacity by 2049-50
+(including distributed PV which is an input assumption).
+The other selected scenarios vary in the pace of the energy transition fr om the Step Change
+scenario. Figure 10 and Figure 12 show the differences in the NEM capacity development of the
+other two scenarios relative to the Step Change scenario, while Figure 11 and Figure 13 show
+generation differences. The differences are presented as alternative scenario minus the Step
+Change scenario75 and both capacity and generation differences for each scenario show similar
+trends.
+Figure 10 and Figure 11 show that the Progressive Change scenario is forecast to retain coal
+generation and install less wind and solar generation compared to the Step Change scenario largely
+due to a less restrictive carbon budget, and lower forecast demand. Additionally, Tasmanian load is
+assumed to be consistently lower in the Progressive Change scenario compared to Step Change,
+averaging approximately 7,000 GWh lower from the early 2030’s onwards.
+Figure 10: Difference in NEM capacity forecast between the Progressive Change and Step Change scenarios without
+Marinus Link
+
+
+75 For example, Figure 10 shows Progressive Change capacity minus Step Change capacity. A net negative position indicates
+that the Progressive Change scenario has less capacity than the Step Change scenario, and vice versa.
+-80
+-70
+-60
+-50
+-40
+-30
+-20
+-10
+0
+10Capacity difference (GW)
+Black Coal Brown Coal CCGT Gas - Steam
+OCGT / Diesel Hydro Hydrogen Turbine Wind
+Solar PV Distributed PV Dispatchable Battery Pumped Hydro
+--- PDF page 36 ---
+
+
+
+A member firm of Ernst & Young Global Limited
+Liability limited by a scheme approved under Professional Standards Legislation EY   32
+
+Figure 11: Difference in NEM generation forecast between the Progressive Change and Step Changes scenarios without
+Marinus Link
+
+Figure 12 and Figure 13 show that the Green Energy Exports scenario is forecast to withdraw coal
+generation and install wind and solar generation more rapidly than the Step Change scenario due to
+a more restrictive carbon budget and higher demand forecast. Additionally, Tasmanian load
+remains consistently higher in the Green Energy Exports scenario compared to Step Change.
+Figure 12: Difference in NEM capacity forecast between the Green Energy Exports and Step Change scenarios without
+Marinus Link
+
+-200
+-150
+-100
+-50
+0
+50
+Generation difference (TWh)
+Black Coal Brown Coal CCGT Gas - Steam
+OCGT / Diesel Hydro Hydrogen Turbine Wind
+Solar PV Distributed PV Dispatchable Battery Pumped Hydro
+-50
+0
+50
+100
+150
+200
+250Capacity difference (GW)
+Black Coal Brown Coal CCGT Gas - Steam
+OCGT / Diesel Hydro Hydrogen Turbine Wind
+Solar PV Distributed PV Dispatchable Battery Pumped Hydro
+--- PDF page 37 ---
+
+
+
+A member firm of Ernst & Young Global Limited
+Liability limited by a scheme approved under Professional Standards Legislation EY   33
+
+Figure 13: Difference in NEM generation forecast between the Green Energy Exports and Step Change scenarios without
+Marinus Link
+
+-100
+0
+100
+200
+300
+400
+500
+600
+700Generation difference (TWh)
+Black Coal Brown Coal CCGT Gas - Steam
+OCGT / Diesel Hydro Hydrogen Turbine Wind
+Solar PV Distributed PV Dispatchable Battery Pumped Hydro
+--- PDF page 38 ---
+
+
+
+A member firm of Ernst & Young Global Limited
+Liability limited by a scheme approved under Professional Standards Legislation EY   34
+
+9. Forecast gross market benefit outcomes
+9.1 Summary of forecast gross market benefit outcomes across
+scenarios
+Table 11 shows the forecast gross market benefits of Marinus Link over the 26-year Modelling
+Period from 2024-25 to 2049-50 for the Step Change, Progressive Change and Green Energy
+Exports scenarios.
+Table 11: Overview of scenarios with associated forecast gross market benefits for Marinus Link over the Modelling
+Period discounted to 1 July 2023. All dollar values are presented in $million, real June 2023.
+Marinus Link
+size
+Marinus Link
+timing Step Change Progressive
+Change
+Green Energy
+Exports
+Scenario
+weighted
+average76
+1,500 MW 2029-30 &
+2033-34 4,035 5,664 6,160 5,038
+750 MW 2029-30 3,283 4,460 4,767 4,000
+
+The forecast gross market benefits of each scenario must be compared to the cost of Marinus Link
+to determine the forecast net economic benefit for each option. That evaluation is not part of our
+scope and hence has not been included in this Report. It is performed by MLPL outside of this
+Report using the forecast gross market benefits from this Report and other inputs.
+In all scenarios, the forecast benefits for Marinus Link are primarily driven by capex saving across
+the NEM, followed by mainland fuel cost saving as the second highest source of forecast benefit, as
+displayed in Figure 14. This is consistent with the two largest sources of forecast benefits from the
+PACR for the Marinus Link RIT-T by TasNetworks77. While Figure 14 presents outcomes from the
+middle timing of 2033-34 for stage 2, other cases considering an earlier or later second stage entry
+have a similar composition of market benefits.
+
+76 AEMO, 15 December 2023, Draft 2024 ISP. Available at: https://aemo.com.au/consultations/current-and-closed-
+consultations/draft-2024-isp-consultation. Accessed 27 March 2024.
+77 TasNetworks, 24 June 2021, Input assumptions and scenario workbook for Project Marinus PACR. Available at:
+https://www.marinuslink.com.au/rit-t-process/. Accessed 27 March 2024.
+--- PDF page 39 ---
+
+
+
+A member firm of Ernst & Young Global Limited
+Liability limited by a scheme approved under Professional Standards Legislation EY   35
+
+Figure 14: Composition of forecast total gross market benefits of Marinus Link stage 1 2029-30 and stage 2 2033-34
+over the Modelling Period discounted to 1 July 2023. All dollar values are presented in $million, real June 2023.
+
+The forecast capex savings associated with Marinus Link are predominantly driven by the
+combination of high capacity factor wind resource in Tasmania, as per the 2023 AEMO IASR
+assumptions, coupled with the legislated TRET. By better connecting Tasmania with the mainland,
+Marinus Link is forecast to unlock the potential for high quality Tasmanian wind, new entry pumped
+hydro and existing conventional Tasmanian hydroelectric power stations to offset the need for
+higher cost mainland renewable capacity and gas-fired generation as the NEM transitions from
+existing thermal generation to a higher proportion of renewables.
+Marinus Link is forecast to result in fuel cost savings on the mainland by enabling better  access to
+existing Tasmanian hydroelectric generators and wind resource, as a lower cost alternative to the
+construction and operation of dispatchable gas on the mainland. The extent of these saving varies
+by scenario, along with the size and timing of Marinus Link. For the Green Energy Exports scenario,
+fuel cost savings are also forecast to accrue due to a reduction in generation from hydrogen
+turbines from the late-2030s with Marinus Link.
+The Progressive Change scenario is forecast to have higher benefits for Marinus Link than the Step
+Change scenario. This is primarily due to the Progressive Change scenario having less Tasmanian
+demand than the Step Change scenario, as per the 2023 AEMO IASR assumptions. In the
+Progressive Change scenario, without Marinus Link, much of the new renewable generation that is
+forecast to be installed in Tasmania to achieve the TRET is curtailed, or spilled, since local
+Tasmanian demand is not high enough to fully utilise this generation. While this still occurs in the
+Step Change scenario, the additional Tasmanian load reduces the volume of spilled renewable
+generation without Marinus Link. When included, Marinus Link is forecast to  better connect
+Tasmania with the mainland, which allows the rest of the NEM to benefit from Tasmanian  renewable
+capacity.
+The Green Energy Exports scenario is also forecast to have higher benefits for Marinus Link than
+the Step Change scenario. For this scenario, capex benefits are not only forecast to occur in the
+mainland, but also in Tasmania. As per the 2023 AEMO IASR assumptions, Tasmanian electricity
+consumption increases significantly over the Modelling Period in the Green Energy Exports scenario
+due to an assumed uptake in demand for hydrogen production. By the early 2030s, Tasmanian
+demand is approximately six-fold higher than current annual consumption. The TSIRP model
+-1,000
+0
+1,000
+2,000
+3,000
+4,000
+5,000
+6,000
+7,000
+Step Change Progressive Change Green Energy Exports
+Marinus Link gross market benefits ($m)
+Capex FOM Fuel VOM REZ expansion USE & DSP Rehab Sync con Total
+--- PDF page 40 ---
+
+
+
+A member firm of Ernst & Young Global Limited
+Liability limited by a scheme approved under Professional Standards Legislation EY   36
+
+captures forecast wind and solar diversity across NEM regions by basing their hourly availability
+profile on multiple historical weather patterns, targeting different capacity factors for each
+historical weather reference year, as per the 2023 AEMO IASR assumptions. Due to the variable
+nature of renewable energy, some forecast years have lower availability than others. During the
+forecast years coinciding with lower-than-average capacity factors, Tasmania can import more
+energy from the mainland with Marinus Link, compared to the without-Marinus Link counterfactual.
+This is forecast to result in capex savings for Tasmania, since it provides a lower cost alternative
+than overbuilding capacity to ensure Tasmania can supply hydrogen production targets during
+years of low variable renewable availability.
+In the remainder of this section:
+► Sections 9.2 to 9.4 describe the market dynamics for each of the three scenarios with
+assumed commissioning of two stages of Marinus Link, with the first stage commissioned in
+2029-30 and the second stage in 2033-34.
+► Section 9.5 outlines differences in forecast outcomes with different assumed timing of Marinus
+Link.
+► Section 9.6 then outlines the Marinus Link sensitivities.
+► Section 9.7 briefly compares the assumed scenarios and forecast outcomes to the Marinus
+Link RIT-T.
+9.2 Market modelling outcomes for Step Change scenario
+9.2.1 Forecast gross market benefits, Step Change scenario
+The annual gross market benefits forecast from the inclusion of Marinus Link stage 1 2029-30 and
+stage 2 2033-34 in Step Change scenario are depicted in Figure 15 on an annual basis. Over the
+Modelling Period, it is forecast that the inclusion of Marinus Link results in $4,035m in gross
+market benefits.
+Figure 15: Annual Marinus Link market benefit forecast for Step Change scenario discounted to 1 July 2023, Marinus
+Link stage 1 2029-30 and stage 2 2033-34. All dollar values are presented in $million, real June 2023.
+
+Market benefits due to Marinus Link are predominantly forecast to occur after the assumed
+commissioning of its first stage in 2029-30. However, some of the forecast benefits accrue prior to
+its installation due to differences in the least-cost development plan that are forecast to pre-empt
+the Project’s commissioning. Most of the potential benefit with Marinus Link is forecast to be from
+the reduction in expected capex and fuel costs. In the first few years post Marinus Link
+commissioning, the bulk of the potential market benefits are forecast to come from capex savings
+in avoided mainland generation investment. Following this, the bulk of the potential benefits are
+-100
+-50
+0
+50
+100
+150
+200
+250
+300
+350Annual gross market benefits ($m)
+Capex FOM Fuel
+VOM REZ expansion USE / DSP
+Rehab Sync con Total
+--- PDF page 41 ---
+
+
+
+A member firm of Ernst & Young Global Limited
+Liability limited by a scheme approved under Professional Standards Legislation EY   37
+
+forecast to come from fuel savings as Marinus Link enables displacement of mainland gas-fired
+generation originally used to fill part of the supply gap left by coal retirements. Towards the last six
+years of the forecast, the largest component of forecast market benefits reverts to capex as
+Tasmanian wind capacity displaces mainland renewable capacity.
+9.2.2 Forecast NEM generation development plan, Step Change scenario
+The differences in the forecast capacity and generation outlooks in Step Change scenario across
+the NEM with and without Marinus Link are shown in Figure 16 and Figure 17, respectively.
+Figure 16: Capacity difference with and without Marinus Link for Step Change scenario, Marinus Link stage 1 2029-30
+and stage 2 2033-34
+
+Figure 17: Generation difference with and without Marinus Link for Step Change scenario, Marinus Link stage 1 2029-30
+and stage 2 2033-34
+
+Figure 16 shows that wind, solar PV and gas capacity across the NEM are forecast to be avoided
+with inclusion of Marinus Link.
+Figure 17 shows that forecast wind generation increases despite a reduction in overall wind
+capacity. This occurs because Marinus Link provides access to higher capacity factor Tasmanian
+wind resource, allowing investment in higher quality wind resource in place of mainland wind
+capacity. Additionally, Marinus Link is forecast to reduce Tasmanian wind curtailment by facilitating
+-5,000
+-4,000
+-3,000
+-2,000
+-1,000
+0
+1,000
+2,000Capacity difference (MW)
+Black coal Brown coal CCGT Gas - steam
+OCGT / diesel Hydro Hydrogen turbine Wind
+Solar PV Distributed PV Dispatchable battery Pumped hydro
+-6,000
+-4,000
+-2,000
+0
+2,000
+4,000
+6,000Generation difference (GWh)
+Black coal Brown coal CCGT Gas - steam
+OCGT / diesel Hydro Wind Solar PV
+Distributed PV Dispatchable battery Pumped hydro
+--- PDF page 42 ---
+
+
+
+A member firm of Ernst & Young Global Limited
+Liability limited by a scheme approved under Professional Standards Legislation EY   38
+
+increased export to the mainland. Coal-fired generation is forecast to increase output with Marinus
+Link while still meeting the assumed emissions budget over the full 26-year Modelling Period. This
+is achieved because Marinus Link is forecast to decrease reliance on gas generation in later years
+by improving diversity in generation sources and load. Essentially, Marinus Link is forecast to allow
+the NEM to achieve the assume renewable energy and emissions targets at lower cost ( excluding
+consideration of the cost of Marinus Link itself).
+9.3 Market modelling outcomes for Progressive Change scenario
+9.3.1 Forecast gross market benefits, Progressive Change scenario
+The annual gross market benefit forecast for the inclusion of Marinus Link stage 1 2029-30 and
+stage 2 2033-34 in Progressive Change scenario are depicted in Figure 18 on an annual basis. Over
+the Modelling Period, it is forecast that the inclusion of Marinus Link results in $5,664m in gross
+market benefits.
+Figure 18: Annual market benefit forecast for Progressive Change scenario discounted to 1 July 2023, Marinus Link
+stage 1 2029-30 and stage 2 2033-34. All dollar values are presented in $million, real June 2023.
+
+Similar to the Step Change scenario, the highest annual benefits of Marinus Link are forecast to
+accrue once Marinus Link is commissioned. Differences in the forecast capacity and generation
+outlook during the 2020s result in temporary negative benefits in 2028-29 as part of the long-term
+least cost expansion of the NEM over the full Modelling Period. The Progressive Change scenario is
+forecast to have higher gross benefits than the Step Change scenario, partly due to the Progressive
+Change scenario having a lower assumed demand trajectory in Tasmania. In low Tasmanian demand
+scenarios without Marinus Link, much of the new renewable generation that is forecast to be
+installed in Tasmania to achieve the TRET is spilled, since local Tasmanian demand is not high
+enough to fully utilise this generation. In the with Marinus Link case, this energy can instead be
+exported to the mainland, displacing gas generation and mainland renewable capacity, which is
+forecast to result in fuel cost and capex savings. It is noted that the benefit of this scenario isn’t
+solely driven by lower Tasmanian demand, but rather the fact that mainland demand growth
+outstrips Tasmanian demand growth.
+9.3.2 Forecast NEM generation development plan, Progressive Change
+scenario
+The differences in the forecast capacity and generation outlooks in Progressive Change scenario
+across the NEM with and without Marinus Link stage 1 2029-30 and stage 2 2033-34 are shown in
+Figure 19 and Figure 20, respectively.
+-400
+-200
+0
+200
+400
+600Annual gross market benefits ($m)
+Capex FOM Fuel
+VOM REZ expansion USE & DSP
+Rehab Sync con Total
+Total - Step Change
+--- PDF page 43 ---
+
+
+
+A member firm of Ernst & Young Global Limited
+Liability limited by a scheme approved under Professional Standards Legislation EY   39
+
+Figure 19: Capacity difference with and without Marinus Link for Progressive Change scenario, Marinus Link stage 1
+2029-30 and stage 2 2033-34
+
+Figure 20: Generation difference with and without Marinus Link for Progressive Change scenario, Marinus Link stage 1
+2029-30 and stage 2 2033-34
+
+Figure 19 and Figure 20 show that investment in new wind and solar PV is forecast to be avoided
+from 2029-30, when the first stage of Marinus Link is assumed to be commissioned. From the
+early-2030s onward, Marinus Link is forecast to avoid mainland dispatchable gas generation by
+better connecting existing Tasmanian hydroelectric generators and new Tasmanian wind to the
+mainland as a lower cost alternative.
+9.4 Market modelling outcomes for Green Energy Exports scenario
+9.4.1 Forecast gross market benefits, Green Energy Exports scenario
+The forecast gross market benefits for the inclusion of Marinus Link stage 1 2029-30 and stage 2
+2033-34 in the Green Energy Exports scenario are depicted in Figure 21 on an annual basis. Over
+the Modelling Period, it is forecast that the inclusion of Marinus Link will result in $6,160m in gross
+market benefits.
+-5,000
+-4,000
+-3,000
+-2,000
+-1,000
+0
+1,000
+2,000Capacity difference (MW)
+Black coal Brown coal CCGT
+Gas - steam OCGT / diesel Hydro
+Hydrogen turbine Wind Solar PV
+Distributed PV Dispatchable battery Pumped hydro
+-6,000
+-4,000
+-2,000
+0
+2,000
+4,000
+6,000Generation difference (GWh)
+Black coal Brown coal CCGT
+Gas - steam OCGT / diesel Hydro
+Hydrogen turbine Wind Solar PV
+Distributed PV Dispatchable battery Pumped hydro
+--- PDF page 44 ---
+
+
+
+A member firm of Ernst & Young Global Limited
+Liability limited by a scheme approved under Professional Standards Legislation EY   40
+
+Figure 21: Annual market benefit forecast for Green Energy Exports scenario discounted to 1 July 2023, Marinus Link
+stage 1 2029-30 and stage 2 2033-34. All dollar values are presented in $million, real June 2023.
+
+Under this scenario, Marinus Link is forecast to accrue more benefit throughout the Modelling
+Period, than the Step Change scenario. The bulk of the benefit comes from forecast capex savings
+associated with Marinus Link. Due to having a much higher assumed demand trajectory than other
+scenarios and a higher proportion of variable renewable energy required to meet this demand ,
+there is greater opportunity for Marinus Link to offset mainland capacity development. The
+commissioning of Marinus Link allows for capex savings, as a larger portion of demand can be met
+with higher capacity factor Tasmanian wind and the diverse renewable energy can be better shared
+bidirectionally between Tasmania and the rest of the NEM. This scenario is forecast to have less
+fuel cost savings from the mid-2020s to the mid-2030s than the Step Change scenario, since the
+constraining carbon budget significantly restricts the amount of coal and gas generation that can
+occur in the Green Energy Exports scenario. Fuel cost saving that are forecast from the mid-2030s
+onward are inclusive of hydrogen as a fuel source.
+Potential gross benefits are also forecast to accrue in the years prior to commissioning Marinus
+Link stage one. The potential capex savings are driven by a deferral in mainland project expenditure
+in anticipation of Marinus Link commissioning. Additionally, forecast fuel savings in 2024-25 are
+driven by foreknowledge that Marinus Link increases renewable support between states once
+commissioned. This provides additional headroom in the long-term emissions budget, meaning
+higher emission but lower cost fuels (black and brown coal) can generate in place of lower emission,
+higher cost fuels (natural gas) in 2024-25 to minimise system cost.
+9.4.2 Forecast NEM generation development plan, Green Energy Exports
+scenario
+The differences in the forecast capacity and generation outlooks in the Green Energy Exports
+scenario across the NEM with and without Marinus Link are shown in Figure 22 and Figure 23,
+respectively. Throughout the Modelling Period, the primary source of forecast benefits of Marinus
+Link are driven by the forecast reduction in new entrant installation across NEM (Figure 22). With
+Marinus Link, Tasmanian renewable generation, including existing hydro, is forecast to be better
+utilised to help meet the assumed emission target, reducing the requirement for new entrant
+capacity in the mainland.
+-200
+-100
+0
+100
+200
+300
+400
+500Annual gross market benefits ($m)Capex FOM Fuel
+VOM REZ expansion USE & DSP
+Rehab Sync con Total
+Total - Step Change
+--- PDF page 45 ---
+
+
+
+A member firm of Ernst & Young Global Limited
+Liability limited by a scheme approved under Professional Standards Legislation EY   41
+
+Figure 22: Capacity difference with and without Marinus Link for Green Energy Exports scenario, Marinus Link stage 1
+2029-30 and stage 2 2033-34
+
+Figure 23: Generation difference with and without Marinus Link for Green Energy Exports scenario, Marinus Link stage 1
+2029-30 and stage 2 2033-34
+
+Figure 22 shows the forecast reduction in new entrant capacities; this is primarily a reduction in
+solar PV and OCGTs. Figure 23 shows that Marinus Link is forecast to reduce solar operation across
+the NEM as a result of having better access to high capacity factor Tasmanian wind generation
+instead.
+9.5 Market modelling outcomes for the Marinus Link timing
+sensitivities
+This section presents the forecast market benefits for Marinus Link across each Pre-Draft ISP
+scenario for the timing variants. These variants allow comparison of market benefits to a single
+stage only, and earlier and later variants of the second stage. The commissioning dates as follows:
+► First stage only commissioned in 2029-30.
+-8,000
+-6,000
+-4,000
+-2,000
+0
+2,000
+4,000Capacity difference (MW)
+Black coal Brown coal CCGT
+Gas - steam OCGT / diesel Hydro
+Hydrogen turbine Wind Solar PV
+Distributed PV Dispatchable battery Pumped hydro
+-9,000
+-6,000
+-3,000
+0
+3,000
+6,000
+9,000Generation difference (GWh)
+Black coal Brown coal CCGT
+Gas - steam OCGT / diesel Hydro
+Hydrogen turbine Wind Solar PV
+Distributed PV Dispatchable battery Pumped hydro
+--- PDF page 46 ---
+
+
+
+A member firm of Ernst & Young Global Limited
+Liability limited by a scheme approved under Professional Standards Legislation EY   42
+
+► First stage in 2029-30 and second stage commissioned by 2031-32.
+► First stage in 2029-30 and second stage commissioned by 2035-36.
+Prior to the release of the Draft 2024 ISP, MLPL had instructed EY to model the Step Change,
+Progressive Change, Green Energy Exports scenarios in anticipation of the Draft 2024 ISP
+publication in December 2023. These sensitivities were completed in November 2023. Because of
+this, they apply the input assumptions summarised in Section 3.2. The forecast market benefits are
+summarised in Table 12. When assumed Marinus Link timing is the same, there is a small change in
+forecast gross market benefits as shown in the values in brackets in Table 12. By inference the
+relative magnitude of forecast benefits between assumed different timings for Marinus Link is
+expected to be similar for the Draft 2024 ISP scenarios.
+Table 12: Overview of forecast gross market benefits for Marinus Link in the Pre-Draft ISP scenarios over the Modelling
+Period discounted to 1 July 2023 and change relative to core scenarios in brackets. All dollar values are presented in
+$million, real June 2023.
+Marinus Link
+size
+Marinus Link
+timing
+Pre-Draft ISP
+Step Change
+Pre-Draft ISP
+Progressive
+Change
+Pre-Draft ISP
+Green Energy
+Exports
+Scenario
+weighted
+average78
+1,500 MW
+2029-30 &
+2031-32 4,336 6,038 6,395 5,359
+2029-30 &
+2033-34
+4,224
+(+189)
+5,953
+(+290)
+6,164
+(+4)
+5,241
+(+204)
+2029-30 &
+2035-36 4,105 5,812 5,914 5,093
+750 MW 2029-30 3,502
+(+219)
+4,691
+(+231)
+4,768
+(+1)
+4,191
+(+191)
+
+One of the primary drivers for differences between the core scenarios in this Report compared to
+the Pre-Draft ISP scenarios is changes in augmentation timings between the Draft 2024 ISP 78 and
+the Final 2022 ISP79. The Pre-Draft ISP scenarios includes later timings for augmentations, such as
+VNI West, and some differences in REZ transmission assumptions associated with interconnector
+projects, resulting in small increases in forecast benefits of Marinus Link.
+The combination of these factors is forecast to impact the three scenarios to different extents. The
+forecast gross market benefits change by the largest amount for the Progressive Change scenario,
+since it has the largest changes in network augmentation timings (up to five years).
+Figure 24, Figure 25 and Figure 26 display the forecast gross market benefits across each of the
+Pre-Draft ISP scenarios, respectively.
+
+78 AEMO, 15 December 2023, Draft 2024 ISP. Available at: https://aemo.com.au/consultations/current-and-closed-
+consultations/draft-2024-isp-consultation. Accessed 27 March 2024.
+79 AEMO, 30 June 2022, 2022 ISP. Available at: https://aemo.com.au/en/energy-systems/major-publications/integrated-
+system-plan-isp/2022-integrated-system-plan-isp. Accessed 27 March 2024.
+--- PDF page 47 ---
+
+
+
+A member firm of Ernst & Young Global Limited
+Liability limited by a scheme approved under Professional Standards Legislation EY   43
+
+Figure 24: Annual market benefit forecast for the Pre-Draft ISP Step Change scenario discounted to 1 July 2023, with
+single and second-stage Marinus Link timing variants. All dollar values are presented in $million, real June 2023.
+
+Figure 25: Annual market benefit forecast for Pre-Draft ISP Progressive Change scenario discounted to 1 July 2023,
+with single and second-stage Marinus Link timing variants. All dollar values are presented in $million, real June 2023.
+
+0
+50
+100
+150
+200
+250
+300Annual gross market benefits ($m)
+2031-32 2033-34 2035-36 First stage only
+-400
+-300
+-200
+-100
+0
+100
+200
+300
+400
+500
+600Annual gross market benefits ($m)
+2031-32 2033-34 2035-36 First stage only
+--- PDF page 48 ---
+
+
+
+A member firm of Ernst & Young Global Limited
+Liability limited by a scheme approved under Professional Standards Legislation EY   44
+
+Figure 26: Annual market benefit forecast for Pre-Draft ISP Green Energy Exports scenario discounted to 1 July 2023,
+with single and second-stage Marinus Link timing variants. All dollar values are presented in $million, real June 2023.
+
+Across each Pre-Draft ISP scenario, the earlier the second stage of Marinus Link is commissioned
+the greater the forecast annual gross market benefits. As the second-stage timing is delayed, the
+benefits are reduced until the second stage is commissioned. Once the second stage is online the
+annual gross market benefits across the three timings converge.
+Similarly, a single stage only Marinus Link leads to the lowest gross market benefits due to less
+transfer capacity between Tasmania and Victoria.
+Note, this report comments on the gross market benefits of Marinus Link. Further analysis would
+have to be conducted against project costs, noting that costs vary with stage timing.
+9.6 Other sensitivities
+9.6.1 Summary of forecast gross market benefit outcomes across
+sensitivities
+MLPL instructed EY to undertake additional sensitivities to test the robustness of the magnitude
+and timing of forecast gross market benefits of Marinus Link. All sensitivities were conducted on
+the Pre-Draft ISP Step Change scenario with Marinus Link stage 1 2029-30 and stage 2 2033-34
+which had a forecast gross market benefit of $4,224m. The sensitivities test adjusting a range of
+input assumptions such as demand, gas prices and battery capex trajectory. The list of sensitivities
+and their associated forecast gross market benefits are presented in Table 13.
+0
+50
+100
+150
+200
+250
+300
+350
+400
+450Annual gross market benefits ($m)
+2031-32 2033-34 2035-36 First stage only
+--- PDF page 49 ---
+
+
+
+A member firm of Ernst & Young Global Limited
+Liability limited by a scheme approved under Professional Standards Legislation EY   45
+
+Table 13: Overview of sensitivities with associated forecast gross market benefits for Marinus Link stage 1 2029-30 and
+stage 2 2033-34 over the Modelling Period discounted to 1 July 2023. All changes are relative to the Pre-Draft ISP Step
+Change scenario with Marinus Link stage 1 2029 30 and stage 2 2033 34 which had a forecast gross market benefit of
+$4,224m over the Modelling Period. All dollar values are presented in $million, real June 2023.
+Sensitivity Variation to Pre-Draft ISP scenario
+Forecast
+gross market
+benefits ($m)
+Change in
+forecast
+market
+benefits ($m)
+Progressive
+hydrogen load
+The Step Change Tasmanian hydrogen load trajectory is replaced
+with the Progressive Change hydrogen load trajectory from the
+2023 AEMO IASR.80
+5,317 1,093
+750 MW
+committed
+Tasmanian
+PHES
+A 750 MW Tasmanian Pumped Hydro Energy Storage (PHES)
+project is committed from 2032-33. 4,904 680
+Victoria
+offshore wind
+delay
+Victorian offshore wind targets delayed by five years, with the
+9 GW capacity target now to be met in 2045-46. 4,394 170
+High gas price
+Gas prices for all existing and new entrant generators increased by
+40% from the 2023 AEMO IASR Step Change scenario.80
+e.g. Victorian OCGT gas price ranging between $15/GJ and
+$20/GJ from the mid-2020s onward.
+4,801 576
+Low gas price
+Gas prices for all existing and new entrant generators decreased by
+40% from the 2023 AEMO IASR Step Change scenario.80
+e.g. Victorian OCGT gas price ranging between $6/GJ and $9/GJ
+from the mid-2020s onward.
+3,411 -814
+High battery
+capital cost
+Apply the 2023 AEMO IASR Progressive Change battery capex
+scenario (higher than the Step Change trajectories).80  4,254 29
+Low battery
+capital cost
+Apply the 2023 AEMO IASR Green Energy Exports battery capex
+scenario (lower than the Step Change trajectories).80  3,977 -248
+
+Further sensitivities adjusting the discount rate were also conducted on the Pre-Draft ISP Step
+Change scenario with the outcomes detailed in Table 14. Note that for the discount rate
+sensitivities, the alternate rates were applied when annualising costs to compute the least -cost
+solution and to the annual market benefit outcomes (rather than just discounting annual market
+benefits outcomes with the alternate discount rate). A different discount rate would also need to be
+applied to the costs of Marinus Link used in the calculation of net economic benefits.
+Table 14: Overview of adjusted discount rate sensitivities with associated forecast gross market benefits over the
+Modelling Period for Marinus Link stage 1 2029-30 and stage 2 2033-34 for the Pre-Draft ISP Step Change scenario
+discounted to 1 July 2023. All dollar values are presented in $million, real June 2023.
+
+80 AEMO, 8 September 2023, 2023 IASR Assumptions Workbook v5.2: https://aemo.com.au/consultations/current-and-
+closed-consultations/2023-inputs-assumptions-and-scenarios-consultation. Accessed 27 March 2024.
+Sensitivity Variation to Pre-Draft ISP scenario
+Forecast gross
+market benefits
+($m)
+High discount
+rate
+An increased discount rate and WACC of 10.50% has been applied for the
+selected scenario, in line with the 2023 AEMO IASR upper bound.80 3,186
+Low discount
+rate
+A reduced discount rate and WACC of 3.00% has been applied for the selected
+scenario, in line with the 2023 AEMO IASR lower bound.80  6,084
+--- PDF page 50 ---
+
+
+
+A member firm of Ernst & Young Global Limited
+Liability limited by a scheme approved under Professional Standards Legislation EY   46
+
+9.6.2 Hydrogen load, committed Tasmanian PHES and Victoria offshore
+wind delay sensitivities
+Figure 27 presents the forecast benefit of Marinus Link for the 2033-34 second stage timing under
+the Pre-Draft ISP Step Change scenario, compared to the same scenario but with a Progressive
+Change hydrogen load, 750 MW committed Tasmanian PHES and Victoria offshore wind delay
+sensitivities.
+Figure 27: Annual market benefit forecast for Marinus Link 2033-34 second stage timing sensitivities discounted to
+1 July 2023. All dollar values are presented in $million, real June 2023.
+
+Given significant uncertainty on the scale, timing and location of hydrogen load in the NEM, and the
+inclusion of a large hydrogen load in Tasmania for the Step Change scenario, MLPL instructed the
+impact of the large hydrogen load to be analysed through a sensitivity. The Progressive hydrogen
+load sensitivity assumes a lower Tasmanian hydrogen demand trajectory and forecasts gross
+market benefits for Marinus Link at $5,317m. This is $1,093m higher than the Pre-Draft ISP Step
+Change scenario for the corresponding size and timing of Marinus Link. Similar to the reasoning for
+the higher benefits for the Progressive Change scenario compared to the Step Change scenario,
+lower Tasmanian demand results in higher spill of Tasmanian generation to meet TRET without
+Marinus Link. With Marinus Link, the spilt energy can instead be exported to the mainland leading to
+fuel cost and capex savings from displacing gas and renewable generation.
+Given the potential for additional Tasmanian PHES capacity to be committed prior to Marinus Link
+commissioning, MLPL requested its impact be explored through a sensitivity. Committed Tasmanian
+PHES (750 MW from 2032-33) also results in a higher forecast benefit of $4,904m, $680m higher
+than the equivalent Pre-Draft ISP Step Change scenario. The cost of this committed PHES capacity
+is included in both the Marinus Link and without Marinus Link counterfactual simulations but can be
+better utilised with Marinus Link which increases forecast gross benefits.
+Without Marinus Link, it is forecast that the committed PHES cannot be as effectively utilised, which
+increases system cost relative to the equivalent simulation without committed Tasmanian PHES.
+Given the potential uncertainty associated with the timing of delivery of the Victorian offshore wind
+target and its close network proximity Marinus Link, MLPL requested the impact of a delay to
+Victorian offshore wind be to explored through a sensitivity. There is a $170m increase in forecast
+benefits from the equivalent Step Change scenario when the Victorian offshore wind targets are
+delayed by five years. This is primarily due to the export from Marinus Link having to compete with
+less mainland generation when commissioned.
+-50
+0
+50
+100
+150
+200
+250
+300
+350
+400Annual gross market benefits ($m)
+Step Change scenario Progressive hydrogen load
+750 MW committed Tasmanian PHES Victoria offshore wind delay
+--- PDF page 51 ---
+
+
+
+A member firm of Ernst & Young Global Limited
+Liability limited by a scheme approved under Professional Standards Legislation EY   47
+
+9.6.3 Gas price sensitivities
+Figure 28 and Figure 29 present the gas prices and annual forecast benefit for the high and low gas
+price sensitivities, with a comparison to the equivalent Pre-Draft ISP Step Change scenario.
+Figure 28: Victorian new entrant OCGT gas price for core Step Change scenario and accompanying low and high price
+sensitivities
+
+Figure 29: Annual market benefit forecast for gas price sensitivities with Marinus Link 2033-34 second stage timing
+discounted to 1 July 2023. All dollar values are presented in $million, real June 2023.
+Overall, a high gas price results in $4,801m of forecast benefits for Marinus Link, $576m higher
+than the equivalent Pre-Draft ISP Step Change scenario. A higher gas price leads to a reduction in
+utilisation of existing gas plant, and also an increase in renewable and storage technologies
+installed to meet demand in its place. Hence, Marinus Link has greater benefits due to its ability to
+offset the mainland capacity required to meet demand as well as displacing higher cost gas
+generation of existing plants.
+Conversely, a reduction in the gas price leads to a $814m fall in forecast market benefits of
+Marinus Link. A lower gas price means existing gas units are forecast to be more heavily utilised
+and hence, less new entrant wind capacity is forecast to be installed. Instead, when new entrant
+capacity is needed, higher levels of gas fired generation and lower levels of other technologies are
+0
+5
+10
+15
+20
+25Gas price ($/GJ)
+Step Change scenario High gas price Low gas price
+-50
+0
+50
+100
+150
+200
+250
+300
+350Annual gross market benefits ($m)
+Step Change scenario High gas price Low gas price
+--- PDF page 52 ---
+
+
+
+A member firm of Ernst & Young Global Limited
+Liability limited by a scheme approved under Professional Standards Legislation EY   48
+
+forecast to be commissioned. Marinus Link therefore has reduced opportunity to generate capex
+savings by reducing investment.
+9.6.4 Large-scale battery capital cost sensitivities
+Figure 30 and Figure 31 show the sample Victorian four-hour battery capital cost and the annual
+forecast benefit for the high and low battery capital cost sensitivities, with a comparison to the
+equivalent Pre-Draft ISP Step Change scenario and Marinus Link timing.
+Figure 30: Victorian new entrant battery four-hour capital cost for core Step Change scenario and accompanying low and
+high capital cost sensitivities
+
+Figure 31: Annual market benefit forecast for capital cost sensitivities with Marinus Link 2033-34 second stage timing
+discounted to 1 July 2023. All dollar values are presented in $million, real June 2023.
+
+A minor increase in forecast benefits of $29m is estimated for the high battery capital cost
+sensitivity while benefits are forecast to decrease by $248m when assuming a low battery capital
+cost. For the high battery capital cost sensitivity, approximately 5 GW less battery capacity is
+forecast to be installed compared to the Pre-Draft ISP Step Change scenario, regardless of Marinus
+Link. When battery capital cost is reduced, approximately 5.5 GW of additional batteries are
+forecast to be installed. The vast majority of expected battery capacity difference are observed on
+the mainland, whereas the forecast Tasmanian battery capacity remains largely the same
+0
+500
+1000
+1500
+2000
+2500
+3000Battery 4hr capital cost ($/kW)
+Step Change scenario High battery capital cost Low battery capital cost
+0
+50
+100
+150
+200
+250
+300
+350Annual gross market benefits ($m)
+Step Change scenario High battery capital cost Low battery capital cost
+--- PDF page 53 ---
+
+
+
+A member firm of Ernst & Young Global Limited
+Liability limited by a scheme approved under Professional Standards Legislation EY   49
+
+regardless of the assumed capital cost trajectory. A lower battery capital cost means that it is more
+economical to install mainland storage, leading to less need for energy to be imported from
+Tasmania resulting in reduced forecast benefits for Marinus Link.
+The opposite is true for assumed higher battery capex, however the magnitude of the impact on
+forecast gross benefits of Marinus Link is not as large. This is because the assumed capital cost of
+PHES is unchanged relative to the Pre-Draft ISP Step Change scenario and provides an alternative
+to large-scale battery under the higher battery capex sensitivity. Hence, the model forecasts lower
+battery storage build and in turn, greater build of mainland PHES. This leads to an overall minimal
+change in the gross benefit between the sensitivity and scenario.
+9.6.5 Discount rate sensitivities
+The forecast gross market benefits for Marinus Link varied under different assumed discount rates.
+With input assumptions otherwise the same as the Pre-Draft ISP Step change scenario, they were:
+► $3,186m real June 2023 dollars discounted to 1 July 2023 using a discount rate of 10.50%.
+► $6,084m real June 2023 dollars discounted to 1 July 2023 using a discount rate of 3.00%.
+A different discount rate would also need to be applied to the costs of Marinus Link used in the
+calculation of net economic benefits.
+Since Marinus Link is forecast to have positive gross market benefits from the time it is assumed  to
+be commissioned, an increase in the discount rate and WACC leads to a decrease in the total
+discounted market benefits. The alternate rates also lead to different least -cost capacity mix
+outcomes. By increasing the discount rate and WACC, technologies with shorter repayment periods
+become more competitive to build and the weighting of later decisions decreases. Consequently,
+the total amount of dispatchable battery capacity built is forecast to increase and the amount of
+PHES to decrease. A higher amount of new entrant solar PV is forecast to be built and reduced
+economic thermal retirements are forecast to occur. As the amount of new entrant capacity
+decreases, Marinus Link has less ability to defer capital expenditure and hence, market benefits
+decrease with a higher discount rate.
+A lower discount rate increases total discounted market benefits in the NPV calculation but also
+promotes technologies with longer repayment periods to become more competitive and increases
+the weighting of later decisions. This is observed when the discount rate is reduced as more PHES
+capacity is forecast instead of large-scale battery storage. Wind capacity is also forecast to be built
+in marginally higher amounts while thermal retirements are forecast to marginally reduce. As the
+amount of new entrant capacity increases, Marinus Link therefore has greater ability to defer
+capital expenditure resulting in higher gross market benefits.
+9.7 Comparison to Marinus Link RIT-T scenarios and outcomes
+The final stage of the Marinus Link RIT-T, the PACR was published by TasNetworks in June 202181.
+It modelled five core scenarios named Central, Slow Change, High DER, Fast Change and Step
+Change. Although the Step Change scenario name remains in use in the Draft 2024 ISP and in this
+Report, the underlying assumptions are different. Several noticeable changes include:
+► Compared to the Marinus Link RIT-T, the three scenarios in this Report are generally forecast
+to have a faster transition from existing thermal generation towards variable renewables
+energy due to new state and federal policy commitments including an expanded VRET, QRET
+and federal net zero emissions by 2050. All scenarios in this Report assume a cumulative
+emission budget, whereas in the PACR, only the Step Change and Fast Change scenarios did
+so. However, even then, the assumed NEM-wide cumulative emissions budget to 2050 is
+
+81 TasNetworks, 24 June 2021, Input assumptions and scenario workbook for Project Marinus PACR. Available at:
+https://www.marinuslink.com.au/rit-t-process/. Accessed 27 March 2024.
+--- PDF page 54 ---
+
+
+
+A member firm of Ernst & Young Global Limited
+Liability limited by a scheme approved under Professional Standards Legislation EY   50
+
+significantly more restrictive in this Report’s Step Change scenario than the PACR’s Step
+Change scenario.
+► Generator cost assumptions have increased for the 2020s due to lingering global supply chain
+constraints from the COVID-19 pandemic.
+In this Report, benefits are discounted to 1 July 2023 using a 7% real, pre-tax discount rate,
+consistent with the central value applied by AEMO in the 2023 AEMO IASR82. This discount rate is
+higher than those applied in previous Marinus Link studies (such as the RIT -T). As such, the
+magnitude of forecast gross market benefit outcomes are not directly comparable.
+The two largest sources of forecast benefits in both this Report and the Marinus Link RIT-T are
+potential capex saving across the NEM, followed by potential mainland fuel cost saving.
+
+82 AEMO, 8 September 2023, 2023 IASR Assumptions Workbook v5.2. Available at:
+https://aemo.com.au/consultations/current-and-closed-consultations/2023-inputs-assumptions-and-scenarios-consultation.
+Accessed 27 March 2024.
+--- PDF page 55 ---
+
+
+
+A member firm of Ernst & Young Global Limited
+Liability limited by a scheme approved under Professional Standards Legislation EY   51
+
+Appendix A Glossary of terms
+Abbreviation Meaning
+AC Alternating Current
+AEMO Australian Energy Market Operator
+AER Australian Energy Regulator
+Capex Capital Expenditure
+CBA Cost Benefit Analysis
+CO2 Carbon Dioxide
+CCGT Combined-Cycle Gas Turbine
+DSP Demand side participation
+ESOO Electricity Statement of Opportunities
+FOM Fixed Operation and Maintenance
+GW Gigawatt
+HVDC High-Voltage Direct Current
+ISP Integrated System Plan
+IASR Inputs, Assumptions and Scenarios Report
+$m Million dollars
+Mt Mega Ton
+MW Megawatt
+MWh Megawatt-hour
+NEM National Electricity Market
+NPV Net Present Value
+NSW New South Wales
+OCGT Open-Cycle Gas Turbine
+PACR Project Assessment Conclusions Report
+PHES Pumped Hydro Energy Storage
+PSL Prudent Storage Level
+PV Photovoltaic
+QEJP Queensland Energy and Jobs Plan
+QLD Queensland
+QNI Queensland-New South Wales interconnector
+QRET Queensland Renewable Energy Target
+REZ Renewable Energy Zone
+--- PDF page 56 ---
+
+
+
+A member firm of Ernst & Young Global Limited
+Liability limited by a scheme approved under Professional Standards Legislation EY   52
+
+Abbreviation Meaning
+RIT-T Regulatory Investment Test for Transmission
+SA South Australia
+SAT Single Axis Tracking
+SRMC Short-Run Marginal Cost
+TAS Tasmania
+TRET Tasmanian Renewable Energy Target
+TSIRP Time-sequential integrated resource planner
+USE Unserved Energy
+VCR Value of Customer Reliability
+VIC Victoria
+VNI Victoria-New South Wales Interconnector
+VOM Variable Operation and Maintenance
+VRET Victoria Renewable Energy Target
+VPP Virtual Power Plant
+WACC Weighted Average Cost of Capital
+
+--- PDF page 57 ---
+
+
+
+
+
+EY  |  Building a better working world
+EY exists to build a better working world, helping to create
+long-term value for clients, people and society and build
+trust in the capital markets.
+Enabled by data and technology, diverse EY teams in over
+150 countries provide trust through assurance and help
+clients grow, transform and operate.
+Working across assurance, consulting, law, strategy, tax
+and transactions, EY teams ask better questions to find
+new answers for the complex issues facing our world
+today.
+EY refers to the global organization, and may refer to one or more, of the member
+firms of Ernst & Young Global Limited, each of which is a separate legal entity.
+Ernst & Young Global Limited, a UK company limited by guarantee, does not
+provide services to clients. Information about how EY collects and uses personal
+data and a description of the rights individuals have under data protection
+legislation are available via ey.com/privacy. EY member firms do not practice law
+where prohibited by local laws. For more information about our organization,
+please visit ey.com.
+© 2024 Ernst & Young, Australia
+All Rights Reserved.
+Liability limited by a scheme approved under Professional Standards Legislation.
+ey.com

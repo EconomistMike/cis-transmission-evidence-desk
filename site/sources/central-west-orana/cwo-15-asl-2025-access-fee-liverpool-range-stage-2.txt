@@ -1,0 +1,332 @@
+
+
+===== PDF PAGE 1 =====
+
+© AEMO Services 2025  | Access Fee Determination Central-West Orana Renewable Energy Zone1
+Access Fee Determination 
+Central-West Orana Renewable Energy Zone
+Made under the Electricity Infrastructure Investment Act 2020 (NSW)
+19 March 2025
+1 Introduction
+1.1 Access Fees
+(a)  In accordance with section 26 of the EII Act, this 
+Determination sets out the Access Fees determined 
+by the Consumer Trustee that are payable by the 
+Access Right Holder to the Scheme Financial Vehicle 
+for participating in the Access Scheme. 
+(b) Each of Annexure 1 (“Access Fee Formula”) and 
+Annexure 2 (“Access Fee Variables”) form a part of 
+this Determination.
+(c)  The Consumer Trustee may vary the Access Fees in 
+accordance with section 2 (“Access Fee Variation”) of 
+this Determination. 
+(d)  Nothing in this Determination in any way restricts or 
+limits the powers of the Consumer Trustee or fetters 
+the Consumer Trustee in the exercise of its statutory 
+functions or powers pursuant to any legislation. 
+(e)  In this Determination, a reference to a document 
+includes a reference to that document as amended, 
+transferred, novated, varied or replaced from time to 
+time in accordance with its respective terms. 
+1.2 Payment of Access Fees
+The Access Right Holder must pay the Access Fees to 
+the Scheme Financial Vehicle for the Payment Term in 
+accordance with the Access Payment Deed. 
+1.3 Access Fees exclusive of GST
+(a) Access Fees are exclusive of GST.
+(b)  If GST is payable, or notionally payable, on a supply 
+made in connection with this Determination, then: 
+ (i)  this Determination and the Access Fees remain 
+valid; and 
+ (ii)  the payment, or notional payment, of GST will be 
+in accordance with the Access Payment Deed. 
+1.4 Errors 
+If there is an error or omission in this Determination, and 
+the law permits it to be corrected, then the Consumer 
+Trustee must:
+(a)  notify the affected Access Right Holder of the error 
+or omission and consult with the Access Right 
+Holder; 
+(b)  as soon as reasonably possible, rectify the error or 
+omission; and
+(c)  provide the affected Access Right Holder, Scheme 
+Financial Vehicle and the Infrastructure Planner with a 
+corrected version of the Determination.
+Authorised by AEMO Services Limited, exercising the authority of the Consumer Trustee, in accordance with its 
+resolution dated 19 March 2025. 
+Nevenka Codevelle 
+Executive General Manager, AEMO Services
+Date
+Tilt Renewables Australia Pty Ltd (ACN 101 038 331) as trustee for Liverpool Range 
+Wind Farm Project Trust (ABN 14 658 244 914)
+Liverpool Range Wind Farm Stage 2
+16/4/2025
+
+===== PDF PAGE 2 =====
+
+© AEMO Services 2025  | Access Fee Determination Central-West Orana Renewable Energy Zone2
+2 Access Fee Variation 
+2.1 Variation timing
+(a) A Variation Event is the occurrence of an event after 
+the date of this Determination which, in accordance 
+with this section 2 (“Access Fee Variation”), results in 
+the Consumer Trustee varying the H2P Fee or CSS 
+Fee. 
+(b)  The H2P Fee or CSS Fee may only be varied before 
+the Access Fee Payment Date.    
+2.2 H2P Fee Variation
+(a) An H2P Scope Change Event (Access Right Holder 
+initiated): 
+ (i) occurs if the Infrastructure Planner:
+  (A)  approves a change to the Project 
+Characteristics or the Key Project Equipment 
+proposed by the Access Right Holder in 
+accordance with the Access PDA; and
+  (B)  provides the Consumer Trustee with details 
+of the changes to the cost of the H2P Asset 
+to be paid under the Project Deed (including 
+the Infrastructure Planner’s fees for the H2P 
+Asset); and
+ (ii) may increase or decrease the H2P Fee.  
+(b) An H2P Asset Sharing Event (Infrastructure Planner 
+initiated): 
+ (i) occurs if:
+  (A)  another person with an Access Right will 
+use the same H2P Asset as the Access Right 
+Holder and has provided security for the H2P 
+Assets in accordance with that other person’s 
+Access Payment Deed; and
+  (B)  the Infrastructure Planner provides the 
+Consumer Trustee with details of the changes 
+to the cost of the H2P Asset to be paid by 
+the Access Right Holder under the Project 
+Deed; and
+ (ii) may only decrease the H2P Fee.
+(c) Subject to section 2.4 (“Consumer Trustee 
+information request”), if paragraph (a) or (b) is 
+satisfied, the Consumer Trustee must:
+ (i)  update the Variation Inputs at Annexure 2 
+(“Access Fee Variables”) with the revised values 
+received from the Infrastructure Planner under 
+paragraphs (a)(i)(B) and (b)(i)(B); 
+ (ii)  vary the H2P Fee using the revised values in 
+accordance with Annexure 2 (“Access Fee 
+Variables”), the EII Act and the EII Regulations; 
+and
+ (iii)  update the Fee Components at Annexure 1 
+(“Access Fee Formula”) with the revised H2P Fee.    
+   
+2.3 CSS Fee Variation
+(a) A CSS Fee Reduction Event (Infrastructure Planner 
+initiated):
+ (i)  occurs if the Consumer Trustee is notified that the 
+Infrastructure Planner is satisfied that the Access 
+Right Holder has met the tests specified in the 
+CSS Fee Reduction Methodology; and  
+ (ii)  may only decrease the CSS Fee by up to a 
+maximum of 45%.
+(b) Subject to section 2.4 (“Consumer Trustee 
+information request”), if paragraph (a) is satisfied, the 
+Consumer Trustee must:
+ (i)  vary the CSS Fee in accordance with Annexure 2 
+(“Access Fee Variables”), the EII Act and the EII 
+Regulations; and
+ (ii)  update the Fee Components at Annexure 1 
+(“Access Fee Formula”) with the revised CSS Fee.    
+2.4 Consumer Trustee information request
+The Consumer Trustee may request the Access Right 
+Holder, the Infrastructure Planner and/or the Network 
+Operator for any information the Consumer Trustee 
+requires to vary the H2P Fee or CSS Fee.
+2.5  Provision of revised Access Fee Formula 
+components
+(a)  If the Consumer Trustee varies the H2P Fee or CSS 
+Fee under this section 2 (“Access Fee Variation”) and 
+updates Annexure 1 (“Access Fee Formula”), it must 
+provide a copy of the revised Annexure 1 (“Access 
+Fee Formula”) to the Access Right Holder, Scheme 
+Financial Vehicle and the Infrastructure Planner.
+(b)  On and from the date this Determination is varied for 
+the relevant Variation Event:
+(i) the revised Annexure 1 (“Access Fee Formula”) 
+and Annexure 2 (“Access Fee Variables”) form 
+part of this Determination; and
+(ii) the revised Annexure 1 (“Access Fee Formula”) 
+will be used by the Scheme Financial Vehicle to 
+calculate the Access Fee.
+
+===== PDF PAGE 3 =====
+
+© AEMO Services 2025  | Access Fee Determination Central-West Orana Renewable Energy Zone3
+3	 Definitions 	
+Term Definition
+Access Fee The fee payable for each Calendar Quarter in respect of the Access Right for the Project 
+calculated in accordance with the Access Fee Formula 
+Access Fee Formula The annexure containing the equation for calculating the Access Fee payable in respect 
+of a Calendar Quarter of the Payment Term and each of its components annexed to, 
+and part of, this Determination as Annexure 1 (“Access Fee Formula”)
+Access Fee Payment Date As defined in the Access Payment Deed 
+Access Payment Deed The “Access Payment Deed” between the Scheme Financial Vehicle and the Access 
+Right Holder in respect of the Project
+Access PDA The “Project Development Agreement” between the Infrastructure Planner and the 
+Access Right Holder in respect of the Project
+Access Right As defined in the Access Scheme Declaration
+Access Right Holder A person that holds an Access Right granted under the Access Scheme Declaration, 
+being the person identified on the cover page of this Determination or any transferee of 
+that person’s Access Right as recorded in the Access Rights Register from time to time
+Access Rights Register As defined in the Access Scheme Declaration
+Access Scheme The access scheme declared under the Access Scheme Declaration
+Access Scheme 
+Declaration
+The declaration made by the Minister for Energy in accordance with s 24(1) of the EII 
+Act under the Renewable Energy Zone (Central-West Orana) Access Scheme Order 
+2022 on 19 December 2022 and published in the NSW Government Gazette on 23 
+December 2022
+Bidirectional Unit 
+Capacity
+The nameplate capacity in MW of the “Bidirectional Unit” (as defined in the Access 
+PDA) which forms part of the Project
+Calendar Quarter A period of three consecutive calendar months starting on each of 1 January, 1 April, 1 
+July and 1 October
+C&E Fee Community and Employment Fee determined in accordance with section 26 of the EII 
+Act as defined in Annexure 1  (“Access Fee Formula”)
+Central-West Orana REZ The renewable energy zone declared under the CWO REZ Declaration
+Consumer Trustee The consumer trustee as defined in the EII Act, which: (a) as at the date of this 
+Determination, is AEMO Services Limited; and (b) includes any person or body 
+appointed to replace AEMO Services Limited as the consumer trustee
+CSS Centralised system strength
+CSS Fee The fee payable by the Access Right Holder with respect to the CSS cost applicable to 
+the Project as set out in Annexure 1 (“Access Fee Formula”)
+CSS Fee Reduction Event As defined in section 2.3 (“CSS Fee Variation”) of this Determination
+CSS Fee Reduction 
+Methodology
+As defined in the Access PDA
+CWO REZ Declaration The declaration made by the Minister for Energy under section 19 of the EII Act on 5 
+November 2021
+Determination This Access Fee Determination
+EII Act Electricity Infrastructure Investment Act 2020 (NSW)
+EII Regulations Electricity Infrastructure Investment Regulation 2021 (NSW)
+
+===== PDF PAGE 4 =====
+
+© AEMO Services 2025  | Access Fee Determination Central-West Orana Renewable Energy Zone4
+Term Definition
+Fee Components Each of the values contained in the table at Annexure 1 (“Access Fee Formula”) under 
+the heading “Fee Components”
+Fixed Indexation As defined in Annexure 1 (“Access Fee Formula”)
+GST As defined in A New Tax System (Goods and Services Tax) Act 1999 (Cth)
+H2P Asset As defined in the Access PDA
+H2P Asset Sharing Event As defined in section 2.2(b) (“H2P Fee Variation”) of this Determination
+H2P Fee The fee payable by the Access Right Holder with respect to the H2P Asset cost 
+applicable to the Project as set out in Annexure 1 (“Access Fee Formula”)
+H2P Scope Change Event As defined in section 2.2(a) (“H2P Fee Variation”) of this Determination
+Infrastructure Planner The infrastructure planner for the Central-West Orana REZ, being Energy Corporation of 
+New South Wales as appointed under the CWO REZ Declaration
+Key Project Equipment As defined in the Access PDA
+Maximum Capacity As defined in Annexure 1 (“Access Fee Formula”)
+Network Operator The network operator authorised to carry out the network infrastructure project for the 
+Central-West Orana REZ
+Non-C&E Fee As defined in Annexure 1 (“Access Fee Formula”)
+Payment Term As defined in the Access Payment Deed 
+Project The project as defined in the Access Payment Deed, and to which the Access Right 
+Holder’s Access Right relates, being the project identified on the cover page of this 
+Determination
+Project Characteristics As defined in the Access PDA
+Project Deed The CWO REZ Project Deed between the Infrastructure Planner and the Network 
+Operator
+Scheme Financial Vehicle 
+or SFV
+The body responsible for entering into and enforcing the Access Payment Deed with 
+Access Right Holders and collecting Access Fees and securities, consistent with the 
+terms of the Access Payment Deed
+Variation Event As defined in section 2 (“Access Fee Variation”) of this Determination
+Variation Inputs Each of the values contained in the table at Annexure 2 (“Access Fee Variables”) under 
+the heading “Variation Inputs”
+
+===== PDF PAGE 5 =====
+
+© AEMO Services 2025  | Access Fee Determination Central-West Orana Renewable Energy Zone5
+Annexure 1: Access Fee Formula 
+The Access Fee payable in respect of a Calendar Quarter of the Payment Term (Relevant Quarter) will be calculated in 
+accordance with the following formula:
+Access FeeQ = (((C&E FeeQ + Non C&E FeeQ + CSS FeeQ) x Maximum Capacity) + H2P FeeQ) x Fixed Indexation 
+Each of the Access Fee formula components is set out below, as varied from time to time by the Consumer Trustee in 
+accordance with this Determination.
+Fee Components1
+Base Fee 
+C&E FeeQ $575/MW  
+Non C&E FeeQ $425/MW2 
+CSS Fee 
+CSS FeeQ $3,090.84/MW
+H2P Fee 
+H2P FeeQ $1,524,456.88 per Calendar Quarter
+Other Components 
+Maximum Capacity the Maximum Capacity value for the relevant Access Right in respect of the Project as set out 
+in the Access Rights Register, and as amended from time to time
+Fixed Indexation 1.00619224632563609n, where n means the number of Calendar Quarters (including any 
+partial Calendar Quarters) that have passed from the start of the Payment Term to the start of 
+the Relevant Quarter
+Change Log 
+Date Change
+1	 	Each	of	the	Base	Fee	Components,	CSS	Fee	Components	and	H2P	Fee	is	denoted	by	“Q”	indicating	a	quarterly	figure	as	required	to	calculate	the	quarterly	Access	Fee.	.
+2  $125/MW of the total Non C&E FeeQ	(i.e.	$425/MW)	represents	a	contribution	to	the	administration	costs	in	respect	of	the	Central-West	Orana	REZ	Access	Scheme	in	
+accordance	with	section	26(1)(b)	of	the	EII	Act.
+
+===== PDF PAGE 6 =====
+
+© AEMO Services 2025  | Access Fee Determination Central-West Orana Renewable Energy Zone6
+Annexure 2: Access Fee Variables
+Variation Inputs
+The below table sets out each of the values to be utilised by the Consumer Trustee in varying the H2P Fee. These values 
+will be updated from time to time for H2P Fee Variation Events in accordance with section 2.2. 
+H2P Capex
+P&O (On & Off-site Prelims, 
+Design and Overheads)
+TX (Transmission costs)
+SS (Switching station costs) 
+IP Fee
+L (Land access costs)
+E (Easements costs)
+BO (Biodiversity offsets)
+Fixed inputs
+Financing Cost 0.18 
+WACCQ 0.0175 
+rQ 0.00619224632563609 
+rn 2.136775329
+Term (quarters) 124
+H2P Useful Life (quarters) 200
+H2P O&MQ 0.0025
+
+
+===== PDF PAGE 7 =====
+
+© AEMO Services 2025  | Access Fee Determination Central-West Orana Renewable Energy Zone7
+Variation Calculation 
+If a Variation Event occurs, the CSS Fee or H2P Fee is to be varied by the Consumer Trustee as set out below:   
+CSS Fee
+CSS FeeQ
+=
+where
+•   Previous CSS FeeQ = the CSS FeeQ value set out in Annexure 1 immediately prior to the 
+CSS Fee Reduction Event. 
+H2P Fee 
+H2P FeeQ = H2P Capital ComponentQ – H2P TV ComponentQ + H2P O&M ComponentQ
+H2P Capital 
+ComponentQ =
+H2P TV 
+ComponentQ =
+H2P RABTV 
+(straight line 
+method)
+=
+H2P O&M 
+ComponentQ
+= H2P Capex x H2P O&MQ
+where: 
+• H2P Capex = P&O + TX + SS
+See Variation Inputs for relevant inputs.
+Change Log 
+Date Change
+Previous CSS FeeQ x , 11 – 45% x min
+Maximum Capacity (MW)
+Bidirectional Unit Capacity (MW)

@@ -1,0 +1,1398 @@
+
+
+===== PDF PAGE 1 =====
+
+EnergyCo 
+energyco.nsw.gov.au 
+The Energy Corporation of NSW (EnergyCo) is part of the Department of Climate Change, Energy, the Environment and Water 
+(DCCEEW) 
+Central-West Orana Renewable Energy 
+Zone 
+Rationale and basis for EnergyCo’s network recommendations 
+May 2024 
+ 
+ 
+
+===== PDF PAGE 2 =====
+
+ 
+Central-West Orana Renewable Energy Zone | 2 
+Acknowledgement of Country 
+Energy Corporation of New South Wales acknowledges that it stands on Aboriginal land. We 
+acknowledge the Traditional Custodians of the land and we show our respect for Elders past 
+and present through thoughtful and collaborative approaches to our work, seeking to 
+demonstrate our ongoing commitment to providing places in which Aboriginal people are 
+included socially, culturally and economically. 
+Published by Energy Corporation of New South Wales, NSW Department of Climate Change, Energy, the 
+Environment and Water 
+energyco.nsw.gov.au 
+Central-West Orana Renewable Energy Zone  
+First published: May 2024 
+Copyright and disclaimer 
+© State of New South Wales through the Energy Corporation of New South Wales, NSW Department of 
+Climate Change, Energy, the Environment and Water 2024. Information contained in this publication is based 
+on knowledge and understanding at the time of writing, May 2024, and is subject to change. For more 
+information, please visit energy.nsw.gov.au/copyright 
+TMP-MC-R-DC-V1.2 
+ 
+ 
+
+===== PDF PAGE 3 =====
+
+ 
+Central-West Orana Renewable Energy Zone | 3 
+Contents 
+Acknowledgement of Country .................................................................................................................. 2 
+Foreword ...................................................................................................................................................... 4 
+About EnergyCo .......................................................................................................................................... 7 
+Summary of recommendations................................................................................................................. 9 
+Costs of the Central-West Orana REZ .............................................................................................................................. 11 
+Expected benefits of the Central-West Orana REZ ................................................................................................... 13 
+Background to the Central-West Orana REZ ................................................................................................................ 13 
+Expected benefit of the Central-West Orana Renewable Energy Zone .............................................16 
+The Central-West Orana REZ network infrastructure project ........................................................... 26 
+The Core Infrastructure.......................................................................................................................................................... 27 
+The Hub to Project network ................................................................................................................................................. 29 
+System strength infrastructure ......................................................................................................................................... 30 
+Delivery ............................................................................................................................................................................................ 31 
+Network Operator for the Central-West Orana REZ Network Infrastructure Project ................................ 31 
+Cost recovery for the Central-West Orana RNIP ......................................................................................................... 32 
+REZ network infrastructure project options ......................................................................................... 34 
+The Enabling REZ network infrastructure project ............................................................................... 39 
+Network Operator for the Enabling RNIP ....................................................................................................................... 40 
+Cost recovery for the Enabling RNIP ................................................................................................................................ 40 
+ 
+ 
+
+===== PDF PAGE 4 =====
+
+ 
+Central-West Orana Renewable Energy Zone | 4 
+     
+James Hay 
+Chief Executive, EnergyCo 
+Foreword 
+Central-West Orana Renewable Energy Zone (REZ) is a major step in 
+transforming the New South Wales electricity system.  
+Modernising our NSW electricity system is not only essential for clean, 
+reliable and affordable energy, it also creates diverse, high-quality and 
+sustainable job opportunities across our regional communities. Just as 
+the regions are the engine room for a large chunk of our economy, REZs 
+are our modern power stations, bringing together lowest cost generation 
+with storage and network infrastructure to practically deliver the energy 
+transition as part of the NSW Electricity Infrastructure Roadmap 
+(Roadmap).  
+More than helping deliver the transition, the Central-West Orana REZ will 
+generate significant long-term financial and economic benefits for both 
+NSW electricity consumers and the local communities that host this 
+infrastructure.  
+The scope of our Infrastructure Planner Recommendation for the 
+Central-West Orana REZ is aligned with the trajectory outlined in our 
+NSW Network Infrastructure Strategy, a 20-year strategy developed and 
+informed by feedback received through public consultation. Our 
+recommended REZ reflects the ‘deliver now’ framework and lays the 
+foundations to be able to meet the ‘secure now’ and ‘plan for the future’ 
+scenarios if required over the coming decades. Our recommended project 
+is also consistent with the cost estimates included in the strategy. 
+The REZ is expected to create net financial benefits for all NSW 
+electricity consumers that are more than $3 billion greater than the costs 
+in real terms, compared to a scenario where it is not built. 
+NSW Department of Climate Change, Energy, the Environment and 
+Water’s detailed independent modelling forecasts that without the 
+Roadmap, NSW residential customers would face bills that are $156 
+higher on average per year between 2022-23 and 2039-40, while small 
+businesses would face bills that are $530 higher on average per year. 
+The Central-West Orana REZ is a key part of unlocking these benefits. 
+On top of this, the Central-West Orana REZ is expected to drive up to $20 
+billion in private investment in solar, wind and energy storage projects, 
+supporting around 5,000 jobs during peak construction.  
+We have kept local communities at the heart of our work. We relocated 
+the corridor from the Merriwa Casillis Plateau to avoid impacts on 
+
+
+===== PDF PAGE 5 =====
+
+ 
+Central-West Orana Renewable Energy Zone | 5 
+agricultural land, and we coordinated the design of hub to project 
+network to reduce spaghetti junctions of poles and wires. Local 
+communities will benefit directly through EnergyCo’s Central-West 
+Orana REZ Community and Employment Benefit Program, designed in 
+consultation with the community. The first instalment of this is the 
+$128 million program announced in October 2023. Applications for this 
+instalment will open mid-2024 . Hundreds of millions of dollars will 
+continue to flow through this program to local projects and communities 
+over the coming decades and create employment opportunities, 
+effectively leveraging the fees paid by the wind, solar and energy 
+storage projects connecting to the REZ. Landowners hosting new high 
+voltage transmission lines will also share in the benefits of the REZ in an 
+Australian First – the NSW Government’s Strategic Benefit Payment 
+Scheme – which will provide a payment of $200,000 per kilometre of 
+easement (indexed to inflation) paid out in annual instalments over 20 
+years. 
+The Central-West Orana REZ is not only critical to meeting legislated 
+energy security and renewable energy targets, it will also support a step 
+change in reducing emissions, to help meet the Climate Change (Net Zero 
+Futures) Act 2023. It is expected to reduce emissions by over 11 million 
+tonnes by 2045. This is equivalent to the current emissions from all NSW 
+passenger vehicles for a year. 
+Since completing the analysis contained in this report we have continued 
+to progress our work to develop the Central-West Orana REZ. In 
+December last year, we entered into a Commitment Deed with ACEREZ, a 
+consortium sponsored by ACCIONA, Cobra and Endeavour Energy, to 
+design, build, finance, operate and maintain the Central-West Orana REZ 
+transmission network for the next 35 years, subject to regulatory 
+approvals. This is the first time the NSW Government has competitively 
+procured a new transmission network operator, with delay and cost 
+overrun risks to be substantially borne by the network operator, rather 
+than passing them straight to electricity consumers.  
+The importance of this REZ to NSW and national decarbonisation 
+ambitions is reflected in detailed and collaborative work on finance with 
+the Clean Energy Finance Corporation (CEFC). The CEFC has prioritised 
+investment in the Central-West Orana REZ via the $19 billion CEFC 
+Rewiring the Nation Fund and, together with EnergyCo, is progressing 
+associated financing arrangements. For the first arrangement, the CEFC 
+and EnergyCo are set to execute a $490 million financing agreement 
+which is estimated to deliver as much as a nominal $240 million in 
+
+===== PDF PAGE 6 =====
+
+ 
+Central-West Orana Renewable Energy Zone | 6 
+benefits to NSW electricity consumers in the form of lower project costs 
+over the 20-year tenure of the loan. 
+In April, we opened the Central-West Orana REZ access rights 
+application process to solar, wind and energy storage projects seeking to 
+connect to the REZ. While this process is still underway, I’m delighted to 
+share that we’ve received applications totalling 7.7 gigawatts of 
+generation and storage capacity. 
+We have also continued to progress consultation on planning approvals 
+for the REZ network infrastructure. The environmental impact statement 
+for the REZ was placed on public exhibition last year, allowing 
+stakeholders to have their say on the project. EnergyCo has reviewed the 
+submissions and published a Response to Submissions report. This 
+feedback from the community informed a number of key changes to the 
+project, which are described and assessed in an Amendment report. 
+State and Commonwealth planning approvals are expected in mid-2024. 
+In parallel, we have reached in principle agreements with 97% of private 
+landowners, laying the foundations to progress the development of the 
+REZ. 
+EnergyCo in exercising our coordination role as the Infrastructure 
+Planner has worked with the NSW Department of Climate Change, 
+Energy, the Environment and Water (Energy, Climate Change and 
+Sustainability); AEMO Services; the Australian Energy Market Operator 
+(AEMO); Transgrid and other relevant network service providers; 
+renewable generation and storage developers, investors and financiers; 
+and local councils in the Central-West Orana region in developing its 
+recommendation.  
+Moving forward, in addition to the parties who have been integral to date, 
+emphasis will move increasingly to local governments, communities and 
+rest of NSW government in areas as diverse as health and transport and 
+education to deliver the REZs and really capture and maximise the 
+benefits and opportunities.  
+Central-West Orana REZ is a significant first for NSW and forms part of 
+the vital suite of investments, small and large, that will underpin the 
+transition.  
+I’d like to acknowledge the innovation, dedication, vision and practical 
+problem solving of all involved and note the massive progress and major 
+effort still required. 
+  
+
+===== PDF PAGE 7 =====
+
+ 
+Central-West Orana Renewable Energy Zone | 7 
+About EnergyCo 
+The Energy Corporation of NSW (EnergyCo) is a statutory authority established under the NSW 
+Energy and Utilities Administration Act 1987. 
+EnergyCo has been appointed Infrastructure Planner under section 63 of the NSW Electricity 
+Infrastructure Investment Act 2020 (EII Act), under which it may act to investigate, plan, coordinate 
+and promote energy infrastructure development in NSW for NSW’s five Renewable Energy Zones 
+(REZs) and for two Priority Transmission Infrastructure Projects (PTIPs), the Waratah Super Battery 
+Project and the Hunter Transmission Project. This role helps deliver on the objectives of affordable, 
+reliable and sustainable electricity for NSW consumers and economic and social benefits for local 
+and First Nations communities, while also encouraging investment in new electricity infrastructure. 
+EnergyCo's primary statutory function is "to investigate, plan, coordinate and 
+carry out the planning and design" of generation infrastructure as well as the 
+construction and operation of storage and network infrastructure. 
+As Infrastructure Planner, EnergyCo acts in three ways to practically coordinate network with 
+generation and storage infrastructure: 
+ 
+plans and procures major network infrastructure projects to unlock 
+additional network capacity across the State 
+ 
+designs and manages network access schemes to ensure new generation 
+and storage projects can get connected and stay connected 
+ 
+coordinates local community engagement to support joined-up delivery of 
+major infrastructure and benefits. 
+ 
+In these roles, EnergyCo works in close collaboration with the Australian Energy Market Operator 
+(AEMO), AEMO Services as the Consumer Trustee, Transgrid as the system operator and 
+jurisdictional planning body, and the distribution network service providers. 
+
+
+===== PDF PAGE 8 =====
+
+ 
+Central-West Orana Renewable Energy Zone | 8 
+This work can only be successful if there is effective engagement with and between relevant 
+stakeholders. EnergyCo therefore leads community and industry engagement to support the 
+delivery of REZs and PTIPs, and to deliver tangible benefits for local communities and First Nations 
+Peoples, and to promote local development opportunities.   
+
+===== PDF PAGE 9 =====
+
+ 
+Central-West Orana Renewable Energy Zone | 9 
+Summary of recommendations 
+The Central-West Orana Renewable Energy Zone (REZ) network 
+infrastructure projects are the first to be recommended by the 
+Energy Corporation of NSW (EnergyCo) as the Infrastructure Planner 
+under the Electricity Infrastructure Investment Act 2020 (EII Act).  
+EnergyCo, in its role as the Infrastructure Planner for the Central-West Orana REZ, has made its 
+recommendations for the REZ network infrastructure projects required for the REZ to the Consumer 
+Trustee under section 30 of the EII Act. This document has been prepared to provide a summary of 
+EnergyCo’s recommendations to the Consumer Trustee for the REZ and the basis for these 
+recommendations. Because of the ongoing procurement process for the REZ at the time of 
+publication, this report seeks to strike a balance between transparency of the details of EnergyCo’s 
+recommendations and commercial-in-confidence considerations for the project. Certain commercial, 
+financial and cost information cannot be communicated before the projects reach financial close. 
+EnergyCo recommended to the Consumer Trustee that it authorise the ACEREZ Partnership 
+(ACEREZ) as the Network Operator to carry out the Central-West Orana REZ network infrastructure 
+project (Central-West Orana RNIP).1 This project consists of an expandable 4.5 gigawatt (GW) 
+network2 spanning from Wollar to Elong Elong via Merotherie in the Central-West and Orana region 
+of NSW (Figure 1). It includes: 
+ A 500 kilovolt (kV) network (with some components operated at 330 kV), a new switching station 
+at Barigan Creek and energy hubs at Merotherie and Elong Elong (referred to as the core 
+infrastructure) 
+ A 330 kV hub to project network, which allows new renewable energy generation and storage 
+projects to connect to the Core Infrastructure via the energy hubs through shared infrastructure 
+at Merotherie and Elong Elong  
+ 
+1 EnergyCo made this recommendation consistent with its functions as the Infrastructure Planner under section 31(1)(b) of the EII Act and 
+clause 19A(2) of the Electricity Infrastructure Investment Regulation 2021 (EII Regulation), 
+2 Stage 1 of Hunter Transmission Project, a Priority Transmission Infrastructure Project (PTIP) under the EII Act, is required for Central-
+West Orana REZ to reach 4.5GW of network transfer capacity. As indicated in the Network Infrastructure Strategy, HTP Stage 1 is 
+expected to be complete by 2027/2028, well in advance of the commissioning of the full Central-West Orana RNIP transfer capacity. 
+
+===== PDF PAGE 10 =====
+
+ 
+Central-West Orana Renewable Energy Zone | 10 
+ System strength infrastructure, which includes a system strength solution for an installed 1,750 
+MVA to ensure that the network has adequate system strength to enable output from the 
+renewable energy generation and storage projects from day one. 
+Construction of the Central-West Orana RNIP is expected to begin in early 2025 and be completed 
+by 2028 with the project expected to be fully operational by 2030.  
+ 
+Figure 1: The Central-West Orana RNIP 
+ 
+ 
+EnergyCo also recommended the Consumer Trustee authorise the NSW Electricity Networks 
+Operations Pty Limited as trustee for the NSW Electricity Networks Operations Trust (trading as 
+Transgrid) as the Network Operator to carry out the Enabling RNIP (Figure 2). This project consists 
+of: 
+ A new 330 kV transmission line between the Bayswater substation and Liddell substation 
+(marked ‘A’ in Figure 2);  
+
+
+===== PDF PAGE 11 =====
+
+ 
+Central-West Orana Renewable Energy Zone | 11 
+ A new 330 kV transmission line between the Mt Piper substation and the Wallerawang 
+substation (marked ‘B’ in Figure 2);  
+ Barigan Creek 500 kV Switchyard cut-in works (marked ‘C’ in Figure 2); and 
+ Facilitation of outages on Transgrid’s existing 330 kV transmission line to enable overcrossings 
+for the 500 kV Central-West Orana RNIP. 
+Figure 2: The Enabling RNIP 
+ 
+Collectively, the Central-West Orana RNIP and the Enabling RNIP make up the Central-West Orana 
+REZ.  
+Costs of the Central-West Orana REZ 
+The National Electricity Rules-equivalent consumer-funded capital cost of the Central-West Orana 
+REZ is expected be around $5.45 billion (nominal value, adjusted for inflation) for recommendation 
+and authorisation purposes as of February 2024. This falls within the range of cost estimates 
+published in the NSW Government’s May 2023 Network Infrastructure Strategy. 
+This amount includes:  
+ The costs of the design and construction of the core network infrastructure for the Central-West 
+Orana RNIP  
+
+
+===== PDF PAGE 12 =====
+
+ 
+Central-West Orana Renewable Energy Zone | 12 
+ ACEREZ and upfront development costs  
+ Costs related to the development and delivery of the Central-West Orana REZ including property 
+acquisition, biodiversity offsets, local community commitments and road upgrades 
+ Costs of works on Transgrid’s existing network to deliver the Enabling RNIP (Figure 2). 
+The capital cost amount above does not include: 
+ Costs that are to be borne by new renewable generation and storage projects relating to the 
+development and delivery of the hub to project network and the centralised system strength 
+solution.  
+ Financing costs during construction.   
+ Contingency amounts for the above costs.  
+The final cost of the Central-West Orana REZ, determined by the Australian Energy Regulator 
+(AER)3, will include these costs. 
+The final cost figure is subject to adjustment pending contract finalisation matters ahead of 
+financial close, including outcomes of access allocation process for generator contributions, 
+changes in foreign exchange and commodity prices, and the outcomes of the AER revenue 
+determination. 
+The importance of this REZ to NSW and national decarbonisation ambitions is reflected in detailed 
+and collaborative work on finance with the Clean Energy Finance Corporation (CEFC). The CEFC has 
+prioritised investment in the Central-West Orana RNIP via the $19 billion CEFC Rewiring the Nation 
+Fund and, together with EnergyCo, is progressing associated financial agreements, to be confirmed 
+in due course.   
+Through the Rewiring the Nation Fund, the CEFC is charged with addressing the financial barriers 
+that may impede the critical transformation to low cost and low emissions renewable energy, while 
+working to ensure the lowest consumer cost impact. EnergyCo is confident the flexible financing 
+approach of the CEFC will enable the achievement of substantial project delivery savings as the 
+Central-West Orana RNIP takes shape. For the first arrangement, the CEFC and EnergyCo are set to 
+execute a $490 million financing agreement which is estimated to deliver as much as a nominal 
+$240 million in benefits to NSW electricity consumers in the form of lower project costs over the 20-
+year tenure of the loan. 
+The CEFC is also working with the ACEREZ consortium on associated investment opportunities via 
+the Rewiring the Nation Fund, with details to be confirmed as the transaction progresses toward 
+financial close. In its first investment via the Rewiring the Nation Fund, the CEFC committed $100 
+ 
+ 
+
+===== PDF PAGE 13 =====
+
+ 
+Central-West Orana Renewable Energy Zone | 13 
+million towards the delivery of clean energy projects via the NSW Electricity Infrastructure 
+Roadmap. 
+Expected benefits of the Central-West Orana REZ 
+The REZ is expected to deliver over $3 billion (net present value, real, $2022) of net benefits to 
+NSW electricity consumers to 20784 relative to a counterfactual where the REZ is not developed, 
+but the minimum Infrastructure Investment Objectives of 12 GW of additional generation 
+infrastructure by 2030 are still achieved.5  
+The REZ will improve energy reliability and security and has been designed to be able to continue to 
+supply electricity in a scenario where there is a reasonably probability of an event that impacts the 
+availability of the infrastructure. It is expected to bring on approximately 8 GW6 of new renewable 
+energy generation projects. It will also facilitate the connection of additional storage projects.7 This 
+will improve the sustainability of electricity supply and support the achievement of legislated 
+renewable energy and emissions reduction targets.  
+The REZ will also generate significant economic benefits for the Central-West Orana region and for 
+the State, bringing billions in private investment in electricity generation and storage projects to the 
+region by 2030. In addition, through its Industry and Aboriginal Participation Plan, ACEREZ has 
+committed to targets for local content, learning workers, Aboriginal participation and 
+underrepresented workers.  
+Background to the Central-West Orana REZ 
+A key feature of the Electricity Infrastructure Roadmap (the Roadmap), the EII Act and EII 
+Regulation, is the establishment of REZs. The Roadmap defines REZs as: “the modern-day equivalent 
+of traditional power stations. They combine generation, transmission, storage and system strength 
+services to ensure a secure, affordable and reliable energy system. They will play a crucial role in 
+delivering affordable energy to help replace the State's existing power stations as they retire.”8  
+ 
+4 The technical life of the network infrastructure is expected to be 50 to 60 years.  
+5 The costs used to calculate the net benefit of the Central-West Orana REZ has been based on the net present value of the Regulated 
+Service Payments made to ACEREZ over the concession period and the terminal value.   
+6 The Central-West Orana REZ, being a 4.5 GW REZ, is expected to be able to host up to 8 GW of new renewable energy generation 
+projects. However, the initial aggregate maximum capacity cap, which sets the upper limit on the new renewable energy generation 
+projects that can be hosted by the REZ network infrastructure based on achieving a target transmission curtailment level, is set at 5.84 
+GW. This was based on a REZ with a 3 GW transfer capacity. Once the 4.5 GW REZ network infrastructure has been authorised a 
+headroom assessment can be conducted under the access scheme to increase the aggregate maximum capacity of projects that can 
+connect.  This additional capacity is not currently available under the Access Rights Application Process. 
+7 While energy storage projects count towards the aggregate maximum capacity cap under the CWO REZ Access Scheme, energy 
+storage may act as a load where there is excess generation within the REZ, and as a generator where there is limited generation available 
+within the REZ. This will be considered by the Infrastructure Planner in Headroom Assessments which could identify the opportunity.  
+8 NSW Electricity Infrastructure Roadmap Overview, p26.  
+
+===== PDF PAGE 14 =====
+
+ 
+Central-West Orana Renewable Energy Zone | 14 
+The Roadmap has been designed to coordinate investment in transmission and renewable energy 
+generation and storage projects, including through REZs. The framework that supports the 
+development of REZs under the EII Act and EII Regulation will ensure that investment in renewable 
+energy generation, transmission and storage is orderly, timely, optimised and efficient. It also allows 
+for careful and deliberate consideration of community priorities and concerns.  
+The amended Central-West Orana REZ Declaration, gazetted on 15 December 2023,9 sets out that 
+the Central-West Orana REZ:  
+ Comprises of the specified geographical area identified in Figure 3;10  
+ Comprises of the specified network infrastructure as set out in the Central-West Orana REZ 
+Declaration; and  
+ Has an intended network capacity for network infrastructure of 6 GW.11 
+On 19 April 2024, further amendments to the Central-West Orana REZ Declaration were gazetted to 
+update Schedule 2 to the Declaration.12 
+Figure 3: Central West Orana Renewable Energy zone, specified geographical area 
+ 
+ 
+9 Government Gazette No 580 of Friday 15 December 2023 
+10 Central-West Orana REZ Declaration, Schedule 1 
+11 Central-West Orana REZ Declaration, clause 5 
+12 Government Gazette No 137 of Friday 19 April 2024 
+
+
+===== PDF PAGE 15 =====
+
+ 
+Central-West Orana Renewable Energy Zone | 15 
+The Minister for Energy appointed EnergyCo as the Infrastructure Planner under section 63(1) of the 
+EII Act.13 The Infrastructure Planner has a number of functions, including: 
+ to make and enter into contracts or other agreements in connection with the exercise of its 
+functions under the EII Act, 
+ to investigate, plan, co-ordinate and carry out planning and design of generation infrastructure,  
+ to investigate, plan, co-ordinate and carry out planning, design, construction and operation of 
+storage and network infrastructure.14 
+  
+ 
+13 Central-West Orana REZ Declaration, clause 6 
+14 EII Act, s63(4)(a), (b), (c).  
+
+===== PDF PAGE 16 =====
+
+ 
+Central-West Orana Renewable Energy Zone | 16 
+Expected benefit of the Central-West 
+Orana Renewable Energy Zone 
+The Central-West Orana REZ will provide NSW electricity consumers 
+with reliable, affordable, and secure electricity supply while 
+positioning the NSW economy for a rapidly decarbonising 
+environment. Local communities will receive a share of the benefits 
+of the REZ through funding for community benefits programs and the 
+creation of job opportunities.      
+The Central-West Orana REZ is critical to improving the reliability and security of electricity supply. 
+It will also generate significant long-term financial benefits for NSW electricity consumers, while 
+supporting achievement of the State’s legislated emissions reduction targets. The REZ is expected 
+to achieve these outcomes while creating economic opportunities for the Central-West Orana region 
+and for the State, including through local content requirements and the creation of jobs and 
+employment opportunities.  
+Importantly, local communities will benefit from the REZ, through the provision of funding for the 
+delivery of community projects and the creation of job opportunities. Disruption to local communities 
+will be minimised to the extent possible through both the design of the physical infrastructure and 
+in the commercial arrangements that support delivery.  
+Reliable and secure electricity supply  
+As coal-fired generators exit the NSW electricity market, the supply of electricity from other 
+sources, including REZs, will become increasingly critical for ensuring the reliable and secure 
+supply of electricity to NSW electricity consumers.  
+The Central-West Orana REZ has been designed to satisfy the N-1 planning standard and N-1 Secure 
+operating standard. These standards mean that the network capacity of 4.5 GW will be available 
+during normal system conditions, while also catering for a single credible contingency event. The N-
+1 Secure12F
+15 operating standard was determined appropriate as it allows AEMO to meet existing 
+ 
+15 Clause 4.2.6 General principles for maintaining power system security. 
+
+===== PDF PAGE 17 =====
+
+ 
+Central-West Orana Renewable Energy Zone | 17 
+obligations to re-secure the power system following a single credible contingency event at the 
+levels of reserve NSW is currently operated to and without load shedding (Box 1).13F
+16 Adopting this 
+standard: 
+ Avoids creating costly increases to the reserve levels AEMO must hold; 
+ Minimises the risk of curtailing the output of low cost REZ generation during peak periods; and  
+ Reduces the risk of load shedding following a credible contingency. 
+Box 1: Considerations for reliable and secure electricity supply: N-1 and N-1 Secure 
+N-1 and N-1 Secure 
+‘N-1’ is a planning standard and is a system security measure such that if a network component should fail 
+or be shut down in a network operating at the maximum forecast levels of transmission and supply, network 
+security is still guaranteed. For example, a system consisting of four circuits should operate such that three 
+circuits (N-1) could handle the load. Thus, if one of the four circuits failed, the system would not be 
+overloaded. 
+‘N-1 Secure’ is an operating standard. Under the N-1 Secure standard, defined under clause 4.2.6(b) of the 
+National Electricity Rules (NER), AEMO is required to return the power system to a secure operating state 
+following a contingency event as soon as it is practical to do so, and in any event, within 30 minutes. This 
+may require AEMO to re-dispatch generation in the affected region to reduce the flows on some 
+transmission elements and can include load shedding.  
+There are practical considerations that limit AEMO’s ability to re-dispatch additional generation, which 
+places constraints on the allowable flows over transmission lines. EnergyCo’s working assumption is that 
+AEMO can re-dispatch a maximum of 1,400 MW of generation within 30 minutes. This aligns with both the 
+level of reserve assumed in the NSW Energy Security Target (under the EII Act) and the level of reserve 
+which AEMO notifies the market of lack of reserve through market notices. 
+Further to the application of the N-1 planning standard and N-1 Secure operating standard, 
+EnergyCo will apply a Network Operator Performance Regime which requires ACEREZ to meet 
+specified availability and reliability targets.17 Failure to meet these targets results in an abatement 
+to the annual revenue owing to ACEREZ.  EnergyCo considers that it is reasonable to expect higher 
+performance from the REZ network infrastructure than the exisiting transmission network given 
+that it is a greenfield project which will become the State’s major future power station and needs to 
+be sufficiently reliable.  
+The REZ includes centralised system strength infrastructure which will facilitate the connection of 
+up to 5.84 GW of renewable energy generation to the REZ network infrastructure.18 This solution will 
+ 
+16 The extent to which the Central-West Orana REZ is able to supply 4.5 GW of electricity at any point of time is dependent on the profile 
+of the renewable energy generators connected to the Central-West Orana REZ.  
+17 Further information about the Network Operator Performance Regime is set out in the Central-West Orana REZ Access Rights Application 
+Process Guideline, which is available from EnergyCo’s website.  
+18 The system strength solution has been sized to support the initial aggregate maximum capacity cap of 5.84 GW, which is set out in the 
+Central-West Orana REZ Access Scheme. The system strength solution does not constrain additional renewable generation and storage 
+projects connecting in the future. However, if additional renewable generation and storage projects do connect, there will need to be 
+additional procurement of centralised system strength, or new projects will need to mitigate their system strength impact under the NER.  
+For the Central-West Orana REZ initial allocation of access rights, standalone storage will be required to self-remediate any system 
+strength impact and will not pay access fees.  
+
+===== PDF PAGE 18 =====
+
+ 
+Central-West Orana Renewable Energy Zone | 18 
+enable system strength within the REZ and NSW electricity market more broadly to be maintained 
+within AEMO limits. This contributes to the secure delivery of electricity supply. 
+Financial benefits of the Central-West Orana REZ 
+The financial benefits of the Central-West Orana REZ, and of REZs in general, result from the ability 
+to connect more renewable energy generation, located in regions where there are better quality 
+renewable resources, to the electricity system. CSIRO analysis shows that new onshore wind and 
+solar generation is the lowest cost, low carbon electricity generation technology even after taking 
+into account the additional costs of integrating these technologies into the electricity system.19 It 
+follows that increasing the supply of new renewable energy generation will put downward pressure 
+on wholesale electricity prices in the National Electricity Market (NEM), resulting in lower costs for 
+NSW electricity consumers.  
+The Central-West Orana REZ is expected to result in net financial benefit for NSW electricity 
+consumers of over $3 billion ($real, 2022) to 2078, relative to a scenario in which the REZ is not built 
+but where the Roadmap target of 12 GW by 2030 is still met.20 This scenario likely provides a lower 
+estimate of the benefits of the Central-West Orana REZ as it relies on low likelihood assumptions 
+that if the Central-West Orana REZ does not proceed, other REZs can vary in both timing and size to 
+be developed just in time to minimise prices for NSW electricity consumers.  
+EnergyCo considered a range of sensitivities to assess the value of the Central-West Orana REZ. 
+The results of this sensitivity analysis are presented in Table 1.  
+Table 1: Financial benefit of the Central-West Orana REZ to NSW electricity consumers1 1 F 
+Scenario (compared to counterfactual) NPV (real 2022) 
+2024-2078 
+Central $3.0 billion 
+Credible Upside $4.4 billion 
+Conservative Downside $1.2 billion 
+The net financial benefit considers both the savings resulting from the REZ and the costs. The 
+categories of savings and costs are summarised in the below table.  
+  
+ 
+19 CSIRO, GenCost: Annual insights into the cost of future electricity generation in Australia, 2023-24.  
+20 The costs taken into account in calculation of the net financial benefit are the total costs put forward by the recommended Network 
+Operator for the recommended Central-West Orana RNIP and are inclusive of the costs of the enabling works. 
+
+===== PDF PAGE 19 =====
+
+ 
+Central-West Orana Renewable Energy Zone | 19 
+Table 2: Categories of savings and costs for NSW electricity consumers considered in the net financial benefit of the 
+Central-West Orana REZ 
+Saving/cost Description 
+Category (for 
+Central-West 
+Orana REZ) 
+Source 
+Wholesale 
+electricity prices 
+The reduction in wholesale electricity market 
+prices over the life of the REZ, relative to a 
+counterfactual where the REZ is not developed.  
+Saving Wholesale 
+electricity market 
+modelling 
+Network build  The counterfactual assumes that other REZs 
+can vary in size and timing to address a 
+shortfall in transmission capacity resulting 
+from the REZ not proceeding. The total cost of 
+the network build under the counterfactual 
+scenario is then compared to the total cost of 
+the network build under a scenario where the 
+REZ is developed to determine a saving or cost.  
+Saving Wholesale 
+electricity market 
+modelling 
+REZ network 
+infrastructure 
+The capital and operating costs associated 
+with designing, constructing, financing, owning 
+and operating the REZ network infrastructure. 
+The REZ network infrastructure costs include 
+the costs of the core infrastructure, the hub to 
+project network, the system strength 
+infrastructure and an allowance for the 
+enabling connection works. 
+Cost Provided by the 
+Network Operator 
+Generator 
+contributions 
+(Access Fees) 
+Generators will substantially pay for the hub to 
+project network and system strength 
+infrastructure costs through access fees. 
+These contributions are recognised as an 
+offset to the REZ network infrastructure costs 
+as these costs are not borne directly by NSW 
+electricity consumers.  
+Offset Estimated access 
+fees based on 
+information 
+provided by the 
+Network Operator 
+ 
+
+===== PDF PAGE 20 =====
+
+ 
+Central-West Orana Renewable Energy Zone | 20 
+Saving/cost Description 
+Category (for 
+Central-West 
+Orana REZ) 
+Source 
+Long-term energy 
+service 
+agreements 
+(LTESA)21 
+An LTESA is a financial derivative contract 
+between an LTES Operator and the SFV that is 
+intended to provide an LTES Operator with 
+mitigation against unexpectedly low electricity 
+prices and exposure to upside where electricity 
+prices are higher. The LTESA achieves this by 
+providing the LTES Operator with a series of 
+options to enter into fixed length derivative 
+arrangements. 
+EnergyCo has considered LTESAs as a cost to 
+consumers for the purpose of this exercise. 
+However, consumer risk to incentivise projects 
+is only at the low end of the wholesale price 
+market. The consumer bears the cost (if market 
+prices are below the fixed price and $0) and 
+the consumer receives the benefit if market 
+prices are higher. 
+Cost  Wholesale 
+electricity market 
+modelling 
+Total emissions Adding additional low or zero emissions 
+renewable generation resources displaces 
+output from emissions intensive generation 
+resources, lowering NSW total emissions.  
+Saving Wholesale 
+electricity market 
+modelling and the 
+NSW 
+Government’s 
+carbon value.22  
+ 
+The central scenario is consistent with the Step Change Scenario in the Australian Energy Market 
+Operator (AEMO) 2022 Integrated System Plan.23 It does not include insurance value or future value.  
+The credible upside scenario includes insurance and future value (including the costs associated 
+with the potential uprating) in addition to the costs and savings in the central scenario. This 
+insurance value has been conservatively estimated as approximately $960 million.24 This is the 
+additional value provided by the REZ when events occur in the NEM that are not expected or 
+anticipated, and which disrupt the supply/demand balance in NSW. This could include where, for 
+example, there is a significant and permanent increase in demand due to an unexpected increase in 
+ 
+21 On 22 April 2024, AEMO Services announced that Tender 5 will not include generation LTESAs and instead will projects that would have 
+been eligible for a generation LTESA could bid for a Generation Capacity Investment Scheme Agreement (CISA) under the Australian 
+Government’s Capacity Investment Scheme.  
+22 The NSW Government’s carbon value is published in its Cost Benefit Analysis TPG23-08: Carbon value in cost-benefit analysis technical 
+note. This is available from www.treasury.nsw.gov.au.  
+23 All figures are inclusive of the estimated cost of LTESA. 
+24 This value has been estimated on the basis of a scenario where there is a faster than expected coal fired generation exit. A 17 percent 
+weighting has been applied to the benefits of this scenario, reflecting the probability weighting of this scenario applied by AEMO in the 
+Integrated System Plan.  
+
+===== PDF PAGE 21 =====
+
+ 
+Central-West Orana Renewable Energy Zone | 21 
+electric vehicle uptake or where there is an unexpected change in the generation mix as a result of 
+a catastrophic failure or unplanned exit. In these instances, the REZ provides insurance value by 
+being available to meet electricity demand. In its absence, wholesale electricity prices would be 
+expected to be higher.     
+The REZ also embeds optionality which facilitates a future value. Components of the network will be 
+built at 500 kV but initially operated at 330 kV. This means the network can be uprated in the future, 
+if and when there is sufficient generation seeking to connect, and where this is in the long-term 
+financial interests of NSW electricity consumers. This would increase the network capacity from 4.5 
+GW to 6 GW and allow for the connection of additional renewable energy generation and storage 
+projects. The future value of this is conservatively estimated at $256 million.25 This value does not 
+include estimation of the benefit to the local community of avoiding prolonged construction 
+disruption nor any additional works that may be needed within Transgrid’s network to enable 6 GW 
+to be exported from the REZ to the NSW electricity market.  
+The conservative downside scenario utilises a higher discount rate and a lower estimation of the 
+benefits of the REZ post the end of the wholesale electricity market modelling horizon to account 
+for uncertainty.26 
+This analysis shows that under all plausible scenarios, the REZ delivers significant net benefits to 
+NSW electricity consumers. 
+Sustainability 
+The Climate Change (Net Zero Future) Act 2023 legislates a number of greenhouse gas emissions 
+reduction targets for NSW, including: 
+ A reduction of at least 50 per cent greenhouse gas emissions by 2030 compared to 2005 levels;  
+ A reduction of at least 70 per cent greenhouse gas emissions by 2035 compared to 2005 levels; 
+and 
+ Net zero greenhouse gas emissions in NSW by 2050.   
+The achievement of these greenhouse gas emissions reduction targets will be supported through 
+the achievement of the Infrastructure Investment Objectives under the EII Act. This includes the 
+construction of renewable energy generation infrastructure that generates at least 12 GW of 
+electricity.  
+The Commonwealth Government has also committed to targets for the reduction of greenhouse gas 
+emissions, including a 43 per cent reduction on emissions by 2030 relative to 2005 levels, and net 
+ 
+25 The modelling assumes that the option is exercised in 2038. This assumption was based on the optimised network build as set out in the 
+NSW Network Infrastructure Strategy (May 2023). This assumption is considered underestimate future value as the option to uprate the 
+Central-West Orana REZ would likely be exercised only where there is a significant benefit in doing so.  
+26 The wholesale electricity market modelling horizon was 2027 to 2045.  
+
+===== PDF PAGE 22 =====
+
+ 
+Central-West Orana Renewable Energy Zone | 22 
+zero emissions by 2050. To support the achievement of this target, the Commonwealth Government 
+has set a target for electricity generation to be 82 per cent renewable by 2030. A significant portion 
+of the investment that will be needed to meet these targets will need to be made in NSW, as the 
+state with the most generation capacity, the largest electricity load and the highest peak demand.  
+The Central-West Orana REZ is expected to make a meaningful contribution to the achievement of 
+both the NSW and Commonwealth Government targets. In providing an initial 4.5 GW of capacity 
+and flexibility to provide additional capacity into the future, the REZ will be a meaningful part of a 
+package of solutions to assist in transforming the electricity sector to reduce emissions in line with 
+committed targets.   
+In this context, the REZ is expected to result in an emissions saving of over 11 Mt of CO₂-e over the 
+life of the infrastructure. This is relative to a counterfactual where no Central-West Orana REZ is 
+built but other REZs are able to expand to address any shortfall in transmission capacity. Valuing 
+these emissions in accordance with the NSW Treasury’s guidance for Carbon Value in cost-benefit 
+analysis results in an additional benefit of approximately $1 billion to NSW electricity consumers.27 
+This benefit is included in all scenarios for the net financial benefit presented in Table 1.  
+Regional and employment growth 
+The REZ is expected to provide significant economic growth opportunities. The project is set to drive 
+up to $20 billion in private investment in the Central-West Orana region, and is expected to support 
+around 5,000 construction jobs in the region at its peak of construction. Renewable generation and 
+storage projects seeking to connect to the REZ network infrastructure will result in additional jobs 
+and investment in the region.  
+ACEREZ has prepared an Industry and Aboriginal Participation Plan consistent with the guidance 
+and requirements of: 
+ The Renewable Energy Sector Board’s Plan;  
+ First Nations Guidelines; and 
+ First Nations Guidelines: Increasing Central-West Orana income and employment opportunities 
+from electricity infrastructure projects.  
+Through the Industry and Aboriginal Participation Plan, ACEREZ has committed to provide 
+significant economic growth opportunities, including minimum targets that in many instances 
+exceed the minimum targets set in the Renewable Energy Sector Board Plan and First Nations 
+Guidelines, for: 
+ 
+27 NSW Treasury, Technical note to NSW Government Guide to Cost-Benefit Analysis TPG23-08: Carbon value in cost-benefit analysis, 2 
+March 2023.   
+
+===== PDF PAGE 23 =====
+
+ 
+Central-West Orana Renewable Energy Zone | 23 
+ Local manufacturing, services and construction opportunities and growth, across both the 
+design and construction and operations and maintenance phases of the project  
+ Development of skilled workers with minimum targets for both learning workers28 and 
+apprentices 
+ Aboriginal employment opportunities  
+ Employment opportunities for underrepresented workers.  
+ACEREZ has recognised the First Nations lands of the Wiradjuri, Wailwan and Kamilaroi as the 
+immediate region equal to Central-West Orana for industry and workforce engagement purposes. 
+ACEREZ aims to prioritise Aboriginal-owned businesses located on these lands to drive long-term 
+economic benefit to the Aboriginal people. It has developed targets relating to Aboriginal 
+employment opportunities and Aboriginal-owned business opportunities in partnership with 
+Murawin, the First Nations social impact consultancy.  
+Transgrid will also be contractually obligated to meet minimum First Nations Guidelines and 
+Renewable Energy Sector Board Plan targets in the development of their Industry and Aboriginal 
+Participation Plan for the REZ enabling works. 
+Fostering local community support 
+Further to the economic benefits expected to accrue to the Central-West Orana region under 
+commitments made by ACEREZ, EnergyCo has been conscious of ensuring that local communities 
+benefit from the REZ, and that any disruptions are minimised to the extent possible. Securing the 
+support of local communities for the REZ is critical to enabling the delivery of the REZ and realising 
+its benefits for NSW electricity consumers.  
+Local communities are expected to benefit from the REZ through: 
+ The Community and Employment Benefit Program which will provide communities in the REZ 
+with $128 million, over four years from 2024. This is the first instalment of the hundreds of 
+millions in funding that will flow to local projects and communities over the coming decades and 
+create employment opportunities, collected from fees paid by the wind, solar and energy 
+storage projects connecting to the REZ. 
+ New income streams for landowners from the lease payments for hosting new renewable 
+energy and storage projects 
+ 
+28 Learning worker is a worker without qualifications or who needs to update their qualifications or skills to meet the needs of the 
+infrastructure project. This includes trainees and apprentices. Once defined as a learning worker, the worker maintains this status for the 
+duration of the project. Office of Energy and Climate Change, NSW Renewable Energy Sector Board’s Plan, September 2022, p.74.  
+
+===== PDF PAGE 24 =====
+
+ 
+Central-West Orana Renewable Energy Zone | 24 
+ The Strategic Benefit Payment Scheme which will provide landowners hosting new high voltage 
+transmission projects with a payment of $200,000 per kilometre of easement (indexed to 
+inflation) paid out in annual instalments over 20 years.  
+ Employment and training programs to promote job opportunities and the use of local content, 
+goods and services.  
+EnergyCo has worked with landowners to negotiate the route for transmission towers and power 
+lines across their properties and have final agreement with 82% and in-principle agreements with a 
+further 15% of landowners.  
+The REZ has been designed to minimise the impact on the local community to the extent possible, 
+noting it is not always possible to entirely eliminate all impacts. EnergyCo has sought to achieve this 
+through the development of the route for the REZ, in the design of the physical infrastructure and in 
+the design of the commercial arrangements that support the development of the REZ.  
+The route of the REZ was developed to minimise impact on prime agricultural land valued by the 
+local community.  
+In 2021, Transgrid carried out consultation on a preliminary study corridor which received strong 
+community feedback. This helped inform the NSW Government’s decision to relocate the corridor 
+from the Merriwa Casillis Plateau where there was high value agricultural land, to a southern 
+location that traversed mining areas.   
+EnergyCo consulted with the community on a broad study corridor in 2022 and responded to 
+community and stakeholder feedback to refine this into the current alignment.29 An assessment of 
+impacts, including those about agricultural land use were addressed in the recently exhibited 
+Environmental Impact Statement. The Environmental Impact Statement was exhibited between 28 
+September and 8 November 2023, with the Response to Submissions and Amendment report 
+published in early March 2024.  
+EnergyCo considered community and landowner feedback during the project development phase, 
+which contributed to many changes to configuration and alignment of infrastructure. This included 
+realignment of the 330kV transmission line connection to the Liverpool Range Wind Farm, and more 
+recent alignment changes that have been made in response to landowner feedback.30  
+In relation to the design of the physical infrastructure, EnergyCo has sought to minimise the impact 
+to the local community through: 
+ 
+29 Central-West Orana Renewable Energy Zone Transmission project: Amendment Report, March 2024.  
+https://majorprojects.planningportal.nsw.gov.au/prweb/PRRestService/mp/01/getContent?AttachRef=SSI-
+48323210%2120240308T055200.412%20GMT 
+30 These transmission line changes are described and assessed in the Amendment Report available on the NSW Government Planning 
+Portal. 
+
+===== PDF PAGE 25 =====
+
+ 
+Central-West Orana Renewable Energy Zone | 25 
+ Creating an option to uprate components of the REZ network infrastructure initially operated at 
+330 kV to 500 kV. This provides an opportunity to increase the capacity of the REZ by 1.5 GW in 
+the future to respond to changing NSW electricity needs. Exercising this option would require 
+no new easements or large-scale construction activities avoiding any further disruption to local 
+communities.   
+ The hub to project network, which enables new renewable generation and storage projects to 
+share the connection to the core infrastructure rather than each project being responsible for 
+its own connection. Well-coordinated, shared connection infrastructure minimises impacts on 
+land and land usage, reduces the number of landowners impacted, and reduces the severity of 
+the impact. In the vicinity of energy hubs, shared connection infrastructure will avoid the 
+creation of ‘spaghetti’ connections that have become a key concern of local communities in 
+other regions.  
+EnergyCo has also used the commercial arrangements that support the REZ to minimise the impact 
+of construction on the local community.  
+Incentives for on-time delivery 
+Under the Project Deed, EnergyCo will incentivise ACEREZ to deliver the REZ to the agreed project 
+schedule, with commercial implications for failing to meet key project milestones. This mitigates the 
+risk that the period of construction is prolonged.  
+The connection of new renewable generation and storage projects is the key driver of benefits for 
+NSW electricity consumers. To connect these projects and realise their benefits as soon as possible, 
+ACEREZ will deliver the hub to project network alongside the core infrastructure.  
+Under the contractual agreement ACEREZ will not receive: 
+ The debt component of its annual payment if it does not complete the construction in time with 
+the agreed schedule up to the point of time that construction is completed; and 
+ The equity component of its annual payment if it is not able to commission the hub to project 
+connections in accordance with the agreed schedule due to its own actions up to the point in 
+time where hub to project connections are commissioned.  
+In the event ACEREZ is delayed in these milestones, and the cause of the delay is attributable to 
+ACEREZ, there is no ability to make up lost payments.  
+
+===== PDF PAGE 26 =====
+
+ 
+Central-West Orana Renewable Energy Zone | 26 
+The Central-West Orana REZ network 
+infrastructure project 
+The Central-West Orana Renewable Energy Zone Network 
+Infrastructure Project (RNIP) is an expandable 4.5 GW REZ which 
+spans a corridor from Barigan Creek near Wollar to Elong Elong via 
+Merotherie. It allows for the connection of approximately 8 GW of 
+new renewable generation projects and additional storage projects. 
+EnergyCo has recommended this project be carried out by ACEREZ. 
+The Central-West Orana RNIP, which is recommended to be carried out by ACEREZ, consists of:  
+ A 500 kV network (with some components operated at 330 kV), a new switching station at 
+Barigan Creek and energy hubs at Merotherie and Elong Elong (known as the core 
+infrastructure) 
+ A 330 kV hub to project network which provides new renewable energy generation and storage 
+projects with the option to connect to the core infrastructure via the energy hubs through 
+shared infrastructure at Merotherie and Elong Elong  
+ System strength infrastructure, which includes a system strength solution for an installed 1,750 
+MVA to ensure that the network has adequate system strength to enable output from the 
+renewable energy generators from day one. 
+The Central-West Orana RNIP is shown in Figure 4 below.  
+
+===== PDF PAGE 27 =====
+
+ 
+Central-West Orana Renewable Energy Zone | 27 
+Figure 4: The Central-West Orana RNIP 
+ 
+The Core Infrastructure 
+The core infrastructure is the backbone of the Central-West Orana RNIP. It enables the connection 
+of new renewable generation and storage projects to the NEM, facilitating the delivery of low cost, 
+renewable electricity to NSW electricity consumers.  
+The core infrastructure of the Central-West Orana RNIP comprises the transmission network 
+spanning a corridor between Wollar and Elong Elong, via Merotherie. The core infrastructure is 
+recommended to be designed, constructed, financed, owned and operated by ACEREZ for a period 
+of 35 years, at which point it will be transferred to the NSW Government. The core infrastructure 
+includes: 
+ A new switching station at Barigan Creek, located near Wollar, which physically connects the 
+Central-West Orana REZ network infrastructure to the NSW transmission network 
+ Energy hubs at Merotherie and Elong Elong which facilitate the connection of new renewable 
+generation and storage projects to the core infrastructure 
+
+
+===== PDF PAGE 28 =====
+
+ 
+Central-West Orana Renewable Energy Zone | 28 
+ Two double circuit steel tower (DCST) 500 kV transmission lines connecting the Barigan Creek 
+switching station and the Merotherie energy hub, which are approximately 60 kilometres in 
+length 
+ Two DCST 500 kV transmission lines, operated at 330 kV, connecting the Merotherie and Elong 
+Elong energy hubs, which are approximately 30 kilometres in length.  
+The core infrastructure provides 4.5 GW of transmission capacity, enabling the connection of 
+approximately 8 GW of new renewable generation and storage projects. Building the core 
+infrastructure at 500 kV but operating components at 330 kV provides a cost-efficient option to 
+expand the Central-West Orana REZ should additional transmission capacity be needed in the 
+future. With the market changing rapidly as existing generation reaches the end of its technical life 
+and the uncertainty this creates, EnergyCo considers that creating an option to expand the REZ 
+relatively quickly is in the long-term financial interests of NSW electricity consumers.  
+Proposed route of the core infrastructure 
+At a high level, the route and location of the Core Infrastructure includes:  
+ A 60-kilometre transmission line corridor from Wollar to Merotherie comprising generally of 
+two, 70 metre easements to support two 500 kV DCST lines; 
+ A 30-kilometre transmission line corridor from Merotherie to Elong Elong comprising generally 
+of two, 70 metre easements to support two 500 kV DCST lines operating initially at 330 kV; 
+ Freehold property at Wollar to host the Barigan Creek Switching Station infrastructure; 
+ Freehold property at Merotherie to host the Merotherie Energy Hub infrastructure; and 
+ Freehold property at Elong Elong to host the Elong Elong Energy Hub infrastructure.  
+The location of the Barigan Creek Switching Station and the Merotherie and Elong Elong energy 
+hubs is set out in Table 3. 
+Table 3: Location of the Barigan Creek Switching Station and the Merotherie and Elong Elong energy hubs 
+Site Location 
+Barigan Creek Switching 
+Station  
+A new switching station along the existing 500 kV transmission 
+network, located around six kilometres south of the township of 
+Wollar, and 320 metres southwest of the existing Transgrid Wollar 
+Substation off Barigan Road in the Mid-Western Regional local 
+government area. 
+The Barigan Creek Switching Station would provide a connection 
+point between the project and the existing transmission network. 
+
+===== PDF PAGE 29 =====
+
+ 
+Central-West Orana Renewable Energy Zone | 29 
+Site Location 
+Merotherie Energy Hub   The Merotherie Energy Hub is located along Merotherie Road, 
+Merotherie in the Mid-Western Regional local government area. The 
+nearest town is Dunedoo, located around 17 kilometres to the 
+northwest of the Merotherie Energy Hub.  
+The Merotherie Energy Hub would provide a connection between the 
+hub to project network infrastructure and the Core Infrastructure. 
+Elong Elong Energy Hub   The Elong Elong Energy Hub is located on Dapper Road, Cobbora in 
+the Warrumbungle local government area. The nearest town is 
+Dunedoo, around 22 kilometres to the northeast.  
+The energy hub would provide a connection between the hub to 
+project network infrastructure and the Core Infrastructure. 
+Further detail relating to the proposed location and route of the core infrastructure is available from 
+the NSW Government Planning Portal.  
+The Hub to Project network 
+EnergyCo will enable new renewable generation and storage projects, awarded an access right in 
+the initial allocation, to physically connect to the core infrastructure through a coordinated 330 kV 
+network of transmission infrastructure (known as the hub to project network). The hub to project 
+network will span from the connection point of each new renewable generation and storage project 
+awarded an access right to the core infrastructure via the designated energy hubs.31  
+Once built, the hub to project network will be shared REZ network infrastructure that could allow for 
+additional augmentations or expansions to support connection of additional renewable generation 
+and storage projects in the future.  
+The hub to project network design accommodates uncertainty regarding which new renewable 
+generation and storage projects will ultimately be successful in obtaining an access right. Each 
+element of the hub to project network will only proceed on the basis that successful projects 
+allocated an access right execute the access right agreements and provide the required bonding 
+prior to financial close of the Central-West Orana RNIP. As such, the exact scope and costs of hub to 
+project network will only be known once the initial access rights allocation is completed. 
+The hub to project network was designed this way so that these assets will only be built if the 
+renewable generation and storage projects are very likely to be in a position to connect. This is 
+because the hub to project network is substantially paid for by new renewable generation and 
+storage projects through access fees. As these costs are not borne by NSW electricity consumers, 
+they are not included in the capital cost of the Central-West Orana REZ presented in this document.  
+ 
+31 https://www.energyco.nsw.gov.au/industry/central-west-orana-rez-access-rights-application-process  
+
+===== PDF PAGE 30 =====
+
+ 
+Central-West Orana Renewable Energy Zone | 30 
+Route of the hub to project network 
+At a high level, the current planned route and location of the hub to project network infrastructure 
+includes: 
+ A total of 166 kilometres of transmission line corridor between the Merotherie Energy Hub and 
+Elong Elong Energy Hub to the prospective generation projects, comprising generally of 60 
+metre easements to host single or double circuit 330 kV lines; and 
+ Freehold property options for the hub to project 330 kV switching stations. 
+Further detail relating to the proposed location and route of the hub to project network is available 
+from the NSW Government Planning Portal. 
+System strength infrastructure  
+To ensure timely commissioning of new renewable generation, and hybrid generation and storage 
+projects in the Central-West Orana REZ, EnergyCo recommended that the Central-West Orana RNIP 
+include centralised system strength infrastructure to support the stable operation of up to 5.84 GW 
+of initial renewable generation, and hybrid generation and storage projects. This solution allows for 
+coordination of system strength throughout the Central-West Orana RNIP and ensures that 
+adequate provisions are made for all new renewable generation, and hybrid generation and storage 
+projects.  
+Renewable generation and hybrid generation and storage projects connecting to the Central-West 
+Orana RNIP will be required to pay a component of access fees for centralised system strength 
+provided by ACEREZ.  
+Pending formal gazettal and AEMO concurrence of new regulatory amendments under 
+development, access right holders (other than standalone storage projects) will not be exposed to 
+the NER system strength mitigation requirements as part of the connection process (either through 
+self-remediation or by paying the NER system strength charge). This is because access right holders 
+(other than standalone storage) will pay for the centralised system strength assets through their 
+access fees. Transgrid as the Jurisdictional Planning Body and System Strength Service Provider for 
+NSW will treat access right holders in the same way as generators who self-remediate their system 
+strength impact under the NER. On this basis, Transgrid considers its system strength obligations in 
+relation to those generators are limited to meeting NER minimum requirements at declared system 
+strength nodes. 
+It is intended that any system strength that is not required to meet the demand from renewable 
+generation, and hybrid and storage projects connecting to the Central-West Orana RNIP will be 
+taken into account by Transgrid in making decisions on whether to make additional investments to 
+meet their NER requirements. EnergyCo and Transgrid will engage in joint planning to ensure that 
+
+===== PDF PAGE 31 =====
+
+ 
+Central-West Orana Renewable Energy Zone | 31 
+system strength investments are efficient and are not over-procured based on expected network 
+need.  
+In the future, there may be a range of options to meet the system strength requirements of plant 
+connected to the Central-West Orana RNIP beyond the initial system strength solution procured by 
+ACEREZ for the initial allocation of access right holders under the Access Scheme.  
+Given that the centralised system strength solution is substantially paid for by new renewable 
+generation and storage projects (with the exception of standalone storage projects), these costs 
+have not been included in the capital cost of the Central-West Orana RNIP presented in this 
+document.  
+Delivery 
+Major construction of the Central-West Orana RNIP is planned to commence in early 2025, with 
+initial operations to commence by 2028, subject to NSW Government and Commonwealth planning 
+approvals. The Central-West Orana RNIP will be progressively commissioned from 2028 to 2030. 
+The construction phase is scheduled to take approximately four years from commencement through 
+to demobilisation and site rehabilitation. 
+Network Operator for the Central-West Orana REZ Network 
+Infrastructure Project 
+ACEREZ is a partnership between Spanish sustainable infrastructure and renewables multinational 
+conglomerate Acciona, NSW-based electricity distribution network service provider Endeavour 
+Energy, and Cobra, the renewable energy development platform of Vinci Group, the French based 
+global leader in construction. The ACEREZ partners have collectively delivered more than 30,000 
+kilometres of transmission lines and delivered, owned or operated more than 660 substations. 
+Globally, the consortium has invested in over $35 billion of infrastructure.  
+EnergyCo is satisfied the ACEREZ Partnership has the necessary financial and technical capability 
+to deliver the recommended Central-West Orana RNIP. ACEREZ was selected as the preferred 
+Network Operator for the Central-West Orana RNIP through a competitive tender process, 
+consistent with the requirements and provisions of the EII Act and EII Regulation and the NSW 
+Government Procurement Policy Framework. EnergyCo and ACEREZ executed a Commitment Deed 
+for the Central-West Orana REZ in December 2023.  
+EnergyCo and ACEREZ will enter into a Project Deed for the Central-West Orana REZ following the 
+AER’s revenue determination for the Central-West Orana REZ.  
+
+===== PDF PAGE 32 =====
+
+ 
+Central-West Orana Renewable Energy Zone | 32 
+Cost recovery for the Central-West Orana RNIP 
+Following an authorisation of the Central-West Orana RNIP by the Consumer Trustee, ACEREZ will 
+submit a revenue proposal to the AER. If the AER considers that the competitive tender process to 
+select ACEREZ was genuine and appropriate it is able to adopt the outcomes of the tender in its 
+determination. This would be subject to the AER checking that the resulting development and 
+construction capital costs from the tender are lower than the Maximum Capital Cost set by the 
+Consumer Trustee.  
+The Maximum Capital Cost sets “a maximum amount that for the prudent, efficient, and reasonable 
+capital costs for the development and construction of the REZ network infrastructure project that 
+may be determined” by the AER.32 If the Maximum Capital Cost is not exceeded, the AER will 
+determine the payments to ACEREZ for carrying out the Central West Orana RNIP (known as 
+“Regulated Service Payments”) consistent with the tender outcomes negotiated by EnergyCo with 
+ACEREZ. The AER has no role in assessing project options, including timing and scope.  
+Once a revenue determination has been made, EnergyCo and ACEREZ are expected to enter into a 
+Project Deed which will govern the delivery and operation of the Central-West Orana RNIP. The 
+Project Deed is the overarching contractual document which sets out how ACEREZ must carry out 
+the Central-West Orana RNIP and provides EnergyCo with oversight of its activities.  
+Under the Project Deed, ACEREZ will be entitled to two sources of revenue:  
+ Regulated Service Payments payable by the Scheme Financial Vehicle over the concession 
+period (35 years from financial close) as determined by the AER in its revenue determination 
+ An Expiry Payment from the NSW Government at the end of the concession (expected in 2059).  
+The Scheme Financial Vehicle is required to pay ACEREZ’s Regulated Service Payments in 
+accordance with the AER’s revenue determination and the EII Act. Regulated Service Payments can 
+only be varied if the AER remakes or adjusts its revenue determination in accordance with the EII 
+Act. 
+The Scheme Financial Vehicle will recover these costs from NSW electricity consumers via 
+distribution network service provider charges and ultimately NSW electricity consumers, and 
+through the access fees paid by access right holders.  
+Under the access fee structure for the Central-West Orana RNIP, the costs associated with hub to 
+project network will be substantially recovered from access right holders. However, if there are 
+residual costs, these will be recovered from NSW electricity consumers. EnergyCo has mitigated the 
+ 
+32 EII Act, s31(2). The Maximum Capital Cost is provided to the AER by the Consumer Trustee on a confidential basis. 
+
+===== PDF PAGE 33 =====
+
+ 
+Central-West Orana Renewable Energy Zone | 33 
+risk of a residual cost by only finalising the scope of the hub to project network once new renewable 
+energy generation and storage projects have: 
+ been allocated an access right and has executed an access right agreement; and 
+ provided the required bonding prior to financial close of the Central-West Orana RNIP.  
+On the basis of this mitigation, EnergyCo considers there to be a low risk that NSW electricity 
+consumers will bear residual cost associated with the hub to project network. 
+The costs of the system strength infrastructure are expected to be fully recovered from renewable 
+energy generation access right holders through access fees. The access fee also includes a 
+component from access right holders to reduce consumer contributions to the costs of the Central-
+West Orana REZ core infrastructure. 
+The Expiry Payment recognises that the useful technical life of the Central-West Orana RNIP will 
+extend beyond the concession period. The NSW Government will make an Expiry Payment to 
+ACEREZ for the Central-West Orana RNIP to recognise the value of the project at the time the 
+network infrastructure is transferred to the NSW Government.  
+
+===== PDF PAGE 34 =====
+
+ 
+Central-West Orana Renewable Energy Zone | 34 
+REZ network infrastructure project 
+options 
+The EII Act requires EnergyCo to assess and make recommendations 
+in relation to the different options for REZ network infrastructure 
+projects to provide the intended network capacity for a REZ.  
+In forming its recommendation on the Central-West Orana RNIP, EnergyCo considered seven options 
+(referred to as REZ network infrastructure options). These are summarised in Table 4. 
+Table 4: REZ network infrastructure options 
+Network 
+Infrastructure 
+Option 
+Barigan Creek 
+to Merotherie 
+Merotherie to Elong 
+Elong 
+Meshing/Southern 
+extension 
+Network capacity 
+Option 1 Two 330 kV 
+DCST   
+Two 330 kV DCST  None 3 GW 
+Option 2a One 500 kV 
+DCST  
+One 500 kV DCST 
+and one 330 kV 
+single circuit via 
+Orana 
+330 kV single circuit 
+via Stubbo 
+2.2 GW 
+Option 2b One 500 kV 
+DCST 
+One 330 kV DCST 
+from Merotherie to 
+Elong Elong 
+330 kV DCST to line 
+79 at Uungula  
+2.2 GW 
+Option 3a Two 500 kV 
+DCST              
+One 500 kV DCST 
+(operated at 330kV) 
+and 330 kV single 
+circuit via Orana 
+None 4.5 GW 
+Option 3b Two 500 kV 
+DCST              
+One 500 kV DCST & 
+330 kV single circuit 
+via Orana 
+None 6 GW 
+Option 3c Two 500 kV 
+DCST              
+Two 500 kV DCST None 6 GW 
+
+===== PDF PAGE 35 =====
+
+ 
+Central-West Orana Renewable Energy Zone | 35 
+Network 
+Infrastructure 
+Option 
+Barigan Creek 
+to Merotherie 
+Merotherie to Elong 
+Elong 
+Meshing/Southern 
+extension 
+Network capacity 
+Option 3d 
+Recommended 
+option 
+Two 500 kV 
+DCST              
+Two 500 kV DCST (all 
+operated at 330 kV) 
+None 4.5 GW 
+ 
+EnergyCo assessed these options in accordance with the REZ network infrastructure options 
+assessment framework (presented in Figure 5). The criteria considered within the REZ network 
+infrastructure options assessment framework were developed to be consistent with the objects of 
+the EII Act, and specifically to: 
+ Improve the affordability, reliability, security and sustainability of electricity supply;18F
+33 
+ Coordinate investment in new generation, storage, network and related infrastructure;19F
+34 and 
+ Foster local community support for investment in new generation, storage, network and related 
+infrastructure.35 
+EnergyCo considered these EII Act objects to be most relevant to the decision regarding which 
+option to recommend for the Central-West Orana RNIP. EnergyCo has considered the remaining 
+objects of the EII Act in other decisions relating to the recommended RNIP, including the 
+acceptance of ACEREZ’s Industry and Aboriginal Participation Plan. 
+ 
+33 EII Act, s3(3)(a) 
+34 EII Act, s3(3)(b)  
+35 EII Act, s3(3)(d) 
+
+===== PDF PAGE 36 =====
+
+ 
+Central-West Orana Renewable Energy Zone | 36 
+Figure 5: REZ Network Infrastructure options assessment framework 
+ 
+ 
+The criteria included in the REZ network infrastructure options assessment framework were not 
+weighted, consistent with the EII Act objects which have equal importance under the EII Act. 
+EnergyCo considered the performance of REZ network infrastructure options against each criterion 
+on a relative, not absolute basis, with the exception of the second criterion which considered the 
+extent to which options can be operated safely and enhance reliability and security of electricity 
+supply. This criterion was scored on a pass or fail basis.  
+The assessment of the RNI options against the criterion is set out in Table 5.  
+  
+
+
+===== PDF PAGE 37 =====
+
+ 
+Central-West Orana Renewable Energy Zone | 37 
+Table 5: Assessment of RNI options against the assessment framework 
+ Consistency with the 
+REZ declaration, 
+Network Infrastructure 
+Strategy, and 
+Infrastructure 
+Investment Objectives 
+Safety, reliability and 
+security performance 
+(Pass/Fail) 
+Affordability for 
+NSW electricity 
+customer  
+Community support 
+Option 1 Not consistent with 
+criteria 
+Pass Not consistent 
+with criteria 
+Consistent with 
+criteria 
+Option 2a Not consistent with 
+criteria 
+Fail Not assessed 
+Option 2b Not consistent with 
+criteria 
+Fail Not assessed 
+Option 3a Most consistent against 
+criteria 
+Pass Consistent with 
+criteria 
+ Not consistent with 
+criteria 
+Option 3b Consistent with criteria Pass Most consistent 
+against criteria 
+ Not consistent with 
+criteria 
+Option 3c Consistent with criteria Pass Most consistent 
+against criteria 
+Most consistent 
+against criteria 
+Option 3d Most consistent against 
+criteria 
+Pass Most consistent 
+against criteria 
+Most consistent 
+against criteria 
+Key: Most consistent  Consistent  Not consistent  
+ 
+Based on the application of the REZ network infrastructure options assessment framework, 
+EnergyCo identified Option 3d as the recommended Central-West Orana RNIP: 
+ In relation to the REZ declaration, Network Infrastructure Strategy, and Infrastructure 
+Investment Objectives, EnergyCo considered Option 3d, alongside Option 3a, to be the most 
+consistent with the optimal requirements identified. Similar to Option 3a, Option 3d provides 
+4.5 GW of transfer capacity initially, with the option to increase this to 6 GW by converting a 
+component of the infrastructure to operate at 500 kV (from 330 kV).  
+ On safety, reliability and security performance, Option 3d meets N-1 and N-1 Secure standards, 
+enhancing the reliability and security of supply; 
+
+===== PDF PAGE 38 =====
+
+ 
+Central-West Orana Renewable Energy Zone | 38 
+ On affordability for NSW electricity customers, Option 3d provided positive net financial benefit 
+to NSW electricity customers, had a lower risk of providing insufficient capacity or of being 
+underutilised and performed reasonably with respect to cost efficiency relative to other options; 
+and 
+ On local community support, Option 3d was considered to perform well, consistent with option 
+3c. 
+  
+
+===== PDF PAGE 39 =====
+
+ 
+Central-West Orana Renewable Energy Zone | 39 
+The Enabling REZ network 
+infrastructure project 
+The Enabling RNIP will allow the Central-West Orana RNIP to 
+connect to the NSW electricity transmission network. This project is 
+essential to allow for the benefits of the Central-West Orana RNIP 
+for NSW electricity consumers to be realised.  
+The Enabling RNIP, recommended to be carried out by Transgrid, consists of: 
+ A new 330 kV transmission line between the Bayswater substation and Liddell substation;  
+ A new 330 kV transmission line between the Mt Piper substation and Wallerawang substation;  
+ Barigan Creek 500 kV Switchyard cut in works; and 
+ Facilitation of outages on Transgrid’s existing 330 kV transmission line to enable overcrossings 
+for the 500 kV Central-West Orana RNIP. 
+The Enabling RNIP is shown in Figure 6. 
+Figure 6: Enabling RNIP 
+ 
+
+
+===== PDF PAGE 40 =====
+
+ 
+Central-West Orana Renewable Energy Zone | 40 
+The Enabling RNIP is anticipated to be complete by mid-2027.  
+The Barigan Creek cut-in works will be developed and completed, in coordination with ACEREZ’s 
+Barigan Creek construction program with energisation scheduled for mid-2027. 
+Bayswater to Liddell and Mt. Piper to Wallerawang are expected to be progressed simultaneously, 
+with completion scheduled for mid-2027.  
+Facilitation of outages on Transgrid’s existing 330 kV transmission line to enable overcrossings for 
+the 500 kV Central-West Orana RNIP are expected between late-2025 and late-2026.   
+Route of the Enabling RNIP 
+The Enabling RNIP involves mostly existing easements around Bayswater power station, Mount 
+Piper power station and the proposed Barigan Creek site.  
+Network Operator for the Enabling RNIP 
+Transgrid is registered as a TNSP in NSW under the NER and operates the NSW transmission 
+network to which the Central-West Orana RNIP connects under a 99-year lease with the NSW 
+Government. 
+EnergyCo determined to procure the Enabling RNIP through a non-contestable procurement 
+process. The primary reason for this decision was that the works involved in the Enabling RNIP are 
+not readily separable from the existing NSW electricity transmission network, operated by Transgrid 
+under a 99-year lease. Therefore, it was not considered feasible for a party other than Transgrid to 
+complete the works.  
+Cost recovery for the Enabling RNIP 
+As the Enabling RNIP is procured under a non-contestable procurement process, the ultimate costs 
+of the Enabling RNIP are subject to the AER’s Transmission Efficiency Test.36  
+Subject to authorisation, Transgrid will:  
+ Be required to submit a revenue proposal to the AER for Part 5 of the EII Act;37 
+ Receive a revenue determination from the AER for carrying out the Enabling RNIP;38 and  
+ 
+36 AER - Transmission Efficiency Test and revenue determination final guideline non-contestable network infrastructure projects - April 
+2023 | Australian Energy Regulator (AER) 
+37 EII Regulation, cl 48. 
+38 EII Act, s 38(1). 
+
+===== PDF PAGE 41 =====
+
+ 
+Central-West Orana Renewable Energy Zone | 41 
+ Receive payments from the Scheme Financial Vehicle in accordance with the payment schedule 
+to the revenue determination.39  
+As per the Central-West Orana RNIP, the Scheme Financial Vehicle will recover the costs of the 
+Enabling RNIP from NSW electricity consumers via distribution network service providers charges. 
+ 
+ 
+ 
+39 EII Act, s 39(1) and EII Regulation, cl 52. 

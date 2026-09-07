@@ -1,0 +1,218 @@
+{
+  "chart_rows_reviewed": 10,
+  "chart_rows_total": 10,
+  "contract": "v1",
+  "failure_count": 0,
+  "generated_packs": [
+    "central-west-orana",
+    "humelink",
+    "hunter-transmission-project",
+    "marinus-link",
+    "new-england-rez",
+    "project-energyconnect",
+    "sydney-ring-south",
+    "vni-west-nsw",
+    "vni-west-victoria",
+    "western-renewables-link"
+  ],
+  "packs": [
+    {
+      "chart_row": "Central West Orana REZ",
+      "counts": {
+        "components": 9,
+        "findings": 12,
+        "observations": 64,
+        "sources": 26,
+        "timeline": 23,
+        "warnings": 18
+      },
+      "failures": [],
+      "family_slug": "central-west-orana",
+      "input_sha256": "401896c071397b0b1c4471e9190ccdfb76f29abedc0b8cf3773858672a74f3a4",
+      "project_id": "CWO-PROJECT-MAIN",
+      "status": "passed",
+      "unpaged_sources": [
+        "CWO-26"
+      ]
+    },
+    {
+      "chart_row": "HumeLink",
+      "counts": {
+        "components": 15,
+        "findings": 12,
+        "observations": 91,
+        "sources": 27,
+        "timeline": 28,
+        "warnings": 15
+      },
+      "failures": [],
+      "family_slug": "humelink",
+      "input_sha256": "6fbcecc9789cb2af6b1bb714ef2da82034a5d266199126916dc1857d2c7345e5",
+      "project_id": "HUM-PROJECT-HUMELINK",
+      "status": "passed",
+      "unpaged_sources": []
+    },
+    {
+      "chart_row": "Hunter Transmission Project",
+      "counts": {
+        "components": 7,
+        "findings": 12,
+        "observations": 39,
+        "sources": 8,
+        "timeline": 7,
+        "warnings": 14
+      },
+      "failures": [],
+      "family_slug": "hunter-transmission-project",
+      "input_sha256": "3f012d09107af2896b439a5c9390cfcc77df8199dc6f0792795d88bbb5703532",
+      "project_id": "HTP-PROJECT-HTP",
+      "status": "passed",
+      "unpaged_sources": [
+        "HTP-ENERGYCO-2026-INFRA-PAGE",
+        "HTP-ENERGYCO-2026-PROJECT-PAGE"
+      ]
+    },
+    {
+      "chart_row": "Marinus Link 1 & 2",
+      "counts": {
+        "components": 7,
+        "findings": 12,
+        "observations": 32,
+        "sources": 10,
+        "timeline": 9,
+        "warnings": 12
+      },
+      "failures": [],
+      "family_slug": "marinus-link",
+      "input_sha256": "24302130a7cc2dc5c043c68b649a1beffb7d79c307a0ce6ae6a61050169322b4",
+      "project_id": "ML-PROJECT-MARINUS",
+      "status": "passed",
+      "unpaged_sources": [
+        "ML-DCCEEW-2025-FID",
+        "ML-MLPL-2025-CONTRACT"
+      ]
+    },
+    {
+      "chart_row": "New England REZ",
+      "counts": {
+        "components": 13,
+        "findings": 12,
+        "observations": 41,
+        "sources": 8,
+        "timeline": 7,
+        "warnings": 18
+      },
+      "failures": [],
+      "family_slug": "new-england-rez",
+      "input_sha256": "ca434c1941bb3263d8eecf95fff7ddf8c93dca896e62ea806f82d0213f9bb32d",
+      "project_id": "NER-PROJECT-NIP",
+      "status": "passed",
+      "unpaged_sources": []
+    },
+    {
+      "chart_row": "Project EnergyConnect",
+      "counts": {
+        "components": 11,
+        "findings": 12,
+        "observations": 61,
+        "sources": 13,
+        "timeline": 15,
+        "warnings": 12
+      },
+      "failures": [],
+      "family_slug": "project-energyconnect",
+      "input_sha256": "8d4e76ff1b6b25f6890078ec6fdcc715c1fa3c2dafd5676c81030daa662c3be9",
+      "project_id": "PEC-PROJECT-PEC",
+      "status": "passed",
+      "unpaged_sources": [
+        "PEC-JOINT-2026-PROJECT-PAGE",
+        "PEC-TG-2026-COMPLETION",
+        "PEC-TG-PROJECT-PAGE"
+      ]
+    },
+    {
+      "chart_row": "Sydney Ring South",
+      "counts": {
+        "components": 9,
+        "findings": 12,
+        "observations": 49,
+        "sources": 5,
+        "timeline": 9,
+        "warnings": 14
+      },
+      "failures": [],
+      "family_slug": "sydney-ring-south",
+      "input_sha256": "03b287a93304b744c5b48853bef8a936ebc3d3ea5c29adce38ea3d3394013346",
+      "project_id": "SRS-PROJECT-SRS",
+      "status": "passed",
+      "unpaged_sources": [
+        "SRS-TG-2026-PROJECTPAGE"
+      ]
+    },
+    {
+      "chart_row": "VNI West (NSW)",
+      "counts": {
+        "components": 7,
+        "findings": 12,
+        "observations": 28,
+        "sources": 9,
+        "timeline": 13,
+        "warnings": 16
+      },
+      "failures": [],
+      "family_slug": "vni-west-nsw",
+      "input_sha256": "678f05bad172e444b4855c7df96165817450f0af491ec1ef866538edf1eef034",
+      "project_id": "VNN-PROJECT-VNI-NSW",
+      "status": "passed",
+      "unpaged_sources": [
+        "ATE15-EC-FUND-1",
+        "VNN-ENERGYCO-2026-SWREZ-TRANSMISSION",
+        "VNN-TG-2026-PROJECTPAGE"
+      ]
+    },
+    {
+      "chart_row": "VNI West (VIC)",
+      "counts": {
+        "components": 7,
+        "findings": 12,
+        "observations": 44,
+        "sources": 10,
+        "timeline": 16,
+        "warnings": 15
+      },
+      "failures": [],
+      "family_slug": "vni-west-victoria",
+      "input_sha256": "c8a827341523554b035af8dba136f91d8ea648163125ea72b98a0c8fc38a34e1",
+      "project_id": "VNV-PROJECT-VNI-VIC",
+      "status": "passed",
+      "unpaged_sources": [
+        "VNV-VNIW-2026-OVERVIEW"
+      ]
+    },
+    {
+      "chart_row": "Western Renewables Link",
+      "counts": {
+        "components": 14,
+        "findings": 12,
+        "observations": 30,
+        "sources": 6,
+        "timeline": 11,
+        "warnings": 16
+      },
+      "failures": [],
+      "family_slug": "western-renewables-link",
+      "input_sha256": "6da49dd86396cdbf5fa5e87dd939f60fd01b55cdb0cbc714625dde4643d635a0",
+      "project_id": "WRL-PROJECT-WRL",
+      "status": "passed",
+      "unpaged_sources": [
+        "WRL-AUSNET-2025-CONTRACTOR",
+        "WRL-AUSNET-PROJECT"
+      ]
+    }
+  ],
+  "research_cutoff": "2026-09-04",
+  "skipped_files": [
+    "cwo-identity.json"
+  ],
+  "status": "passed"
+}

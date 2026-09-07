@@ -1,0 +1,106 @@
+# New England REZ Network Infrastructure Project
+
+## Overview
+
+NER-PROJECT-NIP | Research cut-off: 2026-09-04 | 8 sources | 41 observations
+
+## Identity and status
+
+**Identity.** The declared New England Renewable Energy Zone is a statutory area declared on 17 December 2021 under the Electricity Infrastructure Investment Act 2020 (NSW); it is not itself a cost-bearing project. The Project is the New England REZ Network Infrastructure Project (NIP), the network works EnergyCo coordinates inside that area. Physical works (hubs, lines, transformers) are Components of the NIP, not separate Projects. QNI Connect and the Hunter Transmission Project are separate Projects in dependency relationships, not NIP scope.
+
+**Current status.** Classified by AEMO in the 2026 ISP as an anticipated project progressing under the Electricity Infrastructure Investment Act 2020 (NSW), previously modelled in two parts and now to be completed in one part (CNSW-NNSW Option 1). EnergyCo is competitively procuring a network operator and a development finance entity; final scope and cost are stated to be subject to that procurement outcome. Declared Critical State Significant Infrastructure in June 2024 (as reported by AEMO; the planning record itself was not captured).
+
+**Capacity.** The declaration intent recorded by AEMO is 8,000 MW of additional transmission network capacity for the REZ area. The 2026 ISP delivery-scope table reports 6,000 MW forward and 6,000 MW reverse additional network capacity for the NIP. EnergyCo's 2023 strategy separately labels 6 GW (Deliver Now), 0.8 GW (Secure Now) and 1.5 GW (Plan for the Future) options and states the Deliver Now options would limit capacity to 6 GW, down from the intended 8 GW. These figures have different boundaries and are never added.
+
+**Schedule.** Expected delivery date of January 2034 (AEMO 2026 ISP Appendix A5). The 2024 ISP recorded proponent timing of June 2031 for Flow Path Option 1 / REZ N2 Option 1 and June 2033 for Flow Path Option 2.
+
+**Owner.** EnergyCo NSW is the infrastructure planner responsible for coordinating development of the REZ; a network operator to design, build, finance, operate and maintain the infrastructure is still being competitively procured.
+
+**Funding pathway.** Electricity Infrastructure Investment Act 2020 (NSW); actionable/anticipated New South Wales project outside the ISP RIT-T framework. A development finance entity procurement has commenced. No AER revenue determination or authorisation was captured.
+
+**Delivery status.** Anticipated (AEMO 2026 ISP). Not committed; no construction contract or outturn cost captured.
+
+**Dependent projects.** Hunter Transmission Project (CNSW-SNW Option 1) as the downstream flow path; QNI Connect (NNSW-SQ Option 2, a future ISP project) states the New England REZ Network Infrastructure Project as a pre-requisite. No scope or cost is transferred between them.
+
+## Policy Paper Chart row
+
+| Field | Original value | Status | Supported value | Selected observation | Source ids and pages |
+| --- | --- | --- | --- | --- | --- |
+| date | 2034 | supported | January 2034 | NER-AO-2026-COMPLETION | HUM-AEMO-2026-ISP-A5; 30, 31 |
+| cost_aud_billion | 5.914000000000001 | gap |  |  |  |
+| network_capacity_gw | 8 | supported_with_boundary | 8,000 MW (8 gigawatts) intended network capacity declared for the New England REZ area; 8 GW is also the proponent's stated future potential capacity for the NIP | NER-AO-2021-GAZETTE-8GW | NER-NSWGOV-2021-GAZETTE-643; HUM-AEMO-2026-ISP-A5; CWO-04; NER-ENERGYCO-2025-CONSULTATION; NER-NSWGOV-2021-GAZETTE-643 p3; HUM-AEMO-2026-ISP-A5 pp30-31; CWO-04 pp13, 35; NER-ENERGYCO-2025-CONSULTATION pp9, 51 |
+| trunk_km | 305 | supported_with_boundary | 305 km: total length of transmission corridor for the 'new study corridor' option in the EnergyCo Bulk Corridor Design Refinement Report (Nov 2025), Table E-1 (p16) and Table 6-1 (p48) | NER-AO-2025-BULKCORRIDOR-LEN-NEW | NER-ENERGYCO-2025-BULKCORRIDOR; 16, 48 |
+| millions_per_trunk_km | 19.390163934426234 | gap |  |  |  |
+| circuits | 4 | derived | 4 | NER-AO-2025-CONSULT-CIRCUITS | NER-ENERGYCO-2025-CONSULTATION; 11 |
+| lines | 2 | supported | 2 | NER-AO-2025-CONSULT-LINES | NER-ENERGYCO-2025-CONSULTATION; 11 |
+| alt_routes | 0 | judgment |  |  |  |
+| syncons_mva | 0 | gap |  |  |  |
+| hubs | 5 | supported_with_boundary | 5 | NER-AO-2026-HUBS | HUM-AEMO-2026-ISP-A5; NER-ENERGYCO-2025-BULKCORRIDOR; HUM-AEMO-2026-ISP-A5 pp31-32; NER-ENERGYCO-2025-BULKCORRIDOR p25 |
+| transformers | 10500 | derived | 10500 | NER-AO-2026-TFMR-CENTRALB | HUM-AEMO-2026-ISP-A5; 31 |
+| feeder_lines_km | 0 | gap |  |  |  |
+
+Date, capacity, trunk length, lines and hubs resolve to archived sources (the 2026 ISP, EnergyCo's 2025 consultation paper, the Bulk Corridor Design Refinement Report and the 2021 declaration gazette) with boundary caveats, circuits and the transformer total are clean derivations of archived line items, but the cost, syncons and feeder cells still have no archived support, so the row should not be published as-is.
+
+## Headline observations
+
+| Id | Date | Measure | Value and unit | Price basis | Estimate class | Uncertainty | Boundary | Source id | Pages |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| NER-AO-2021-GAZETTE-8GW | 2021-12-17 | capacity | 8000 MW |  |  |  | Declared New England REZ statutory area (specified geographical area and Schedule 2 network infrastructure), not the NIP delivery scope | NER-NSWGOV-2021-GAZETTE-643 | 3 |
+| NER-AO-2022-COST-LINK | 2022-06 | cost | 1900 AUD million |  |  | ±50% | New England REZ Transmission Link as defined in the 2022 ISP, an actionable New South Wales project | HUM-AEMO-2022-ISP | 72 |
+| NER-AO-2023-STRAT-DELIVER-NOW-EST | 2023-05 | cost | 7800 AUD million |  |  |  | All Deliver Now options across Central-West Orana, New England, South West and Hunter-Central Coast combined, not New England alone | CWO-04 | 9 |
+| NER-AO-2024-COST-FP1 | 2024-06 | cost | 1834 AUD million |  |  | ±50% | Flow path CNSW-NNSW Option 1 only, on the superseded two-part scope | HUM-AEMO-2024-ISP-A5 | 30 |
+| NER-AO-2024-COST-N2OPT1 | 2024-06 | cost | 370 AUD million |  | Class 5b | ±50% | REZ N2 Option 1 only (North, Central South and East switching stations and connecting lines) | HUM-AEMO-2024-ISP-A5 | 30 |
+| NER-AO-2024-COST-FP2 | 2024-06 | cost | 1493 AUD million |  | Class 5b | ± 50% | Flow path CNSW-NNSW Option 2 only; the table states CNSW-NNSW Option 1 is a prerequisite | HUM-AEMO-2024-ISP-A5 | 30 |
+| NER-AO-2025-CONSULT-LINES | 2025-08 | lines | 2 count |  |  |  | New transmission lines connecting the New England REZ to the existing NSW network near Bayswater Power Station | NER-ENERGYCO-2025-CONSULTATION | 11 |
+| NER-AO-2025-CONSULT-CIRCUITS | 2025-08 | circuits | 2 circuits per line |  |  |  | Per-line circuit configuration of the two new 500 kV lines to Bayswater Power Station; not a total circuit count | NER-ENERGYCO-2025-CONSULTATION | 11 |
+| NER-AO-2025-BULKCORRIDOR-LEN-NEW | 2025-11 | trunk_km | 305 km |  |  |  | New study corridor (the option this report recommends for stakeholder engagement, detailed environmental assessment and Reference Design development), total length of transmission corridor, metrics current as of Jul-25 | NER-ENERGYCO-2025-BULKCORRIDOR | 16, 48 |
+| NER-AO-2026-COST-REPORTED-NULL | 2026-06 | cost | AUD million |  |  |  | CNSW-NNSW Option 1, the whole NIP delivery scope | HUM-AEMO-2026-ISP-A5 | 31 |
+| NER-AO-2026-COMPLETION | 2026-06 | completion | 2034-01 date |  |  |  | Whole NIP completed in one part | HUM-AEMO-2026-ISP-A5 | 30 |
+| NER-AO-2026-TFMR-CENTRALB | 2026-06 | transformers_mva | 1500 MVA |  |  |  | Per-unit rating at Central B Hub; four units stated | HUM-AEMO-2026-ISP-A5 | 31 |
+| NER-AO-2026-HUBS | 2026-06 | hubs | 5 count |  |  |  | Hubs named inside CNSW-NNSW Option 1: Central B, North, East, Central South, Central A | HUM-AEMO-2026-ISP-A5 | 31 |
+
+## Timeline
+
+- 2021-12-17 — New England REZ declared (statutory declaration, primary instrument): Declared under the Electricity Infrastructure Investment Act 2020 (NSW) via the Renewable Energy Zone (New England) Order 2021 (NSW Government Gazette No 643, 17 December 2021), stating an intended network capacity of 8 gigawatts for network infrastructure in the zone; EnergyCo appointed as infrastructure planner. [NER-NSWGOV-2021-GAZETTE-643; 3]
+- 2022-06 — 2022 ISP: New England REZ Transmission Link (historical planner representation): Actionable New South Wales project for delivery in 2027-28, progressing under the Electricity Infrastructure Investment Act 2020 (NSW); estimated to cost $1.9 billion ±50% and to unlock approximately 6,000 MW of VRE and storage capacity. [HUM-AEMO-2022-ISP; 72]
+- 2023-05 — EnergyCo NSW Network Infrastructure Strategy (planner strategy): Sets Deliver Now (6 GW), Secure Now (0.8 GW) and Plan for the Future (1.5 GW) options for New England, states Deliver Now would limit capacity to 6 GW against the intended 8 GW, and proposes initial energisation in 2029. [CWO-04; 9, 11, 13, 25, 35]
+- 2024-06 — 2024 ISP two-part representation (superseded planner representation): Flow path CNSW-NNSW Option 1 ($1,834m, ±50%), REZ N2 Option 1 ($370m, Class 5b) and Flow path CNSW-NNSW Option 2 ($1,493m, Class 5b) with proponent timing of June 2031 and June 2033. AEMO notes EnergyCo's May 2024 refined scoping was released too late for the final 2024 ISP model. [HUM-AEMO-2024-ISP-A5; 30-31]
+- 2024-06 — Critical State Significant Infrastructure declaration (reported, primary planning record unavailable): AEMO records that the NSW Minister for Planning and Public Spaces declared the project Critical State Significant Infrastructure. The planning portal record returned HTTP 404 and the EnergyCo EIS route HTTP 403. [HUM-AEMO-2026-ISP-A5; 30]
+- 2025-11 — Bulk Corridor Design Refinement Report published (proponent technical report, recommendation not yet finalised): EnergyCo's comparative assessment of the Refined PSC (346 km) against a new study corridor to the east (305 km) recommends proceeding with the new study corridor for stakeholder engagement, detailed environmental assessment and Reference Design development; footnote records the hub count increased from four to five following the October 2025 split of the Central hub into Central Hub A and Central Hub B. [NER-ENERGYCO-2025-BULKCORRIDOR; 7, 16, 19, 25, 48]
+- 2026-06 — 2026 ISP: anticipated, single-part project (current planner evidence): Classified as anticipated with an expected delivery date of January 2034; EnergyCo advises completion in one part (CNSW-NNSW Option 1); network operator and development finance entity procurements under way; delivery-scope table reports 6,000 MW forward and reverse with a blank reported-cost field; scope revised since 2024 including a 170 km extension to Northern Hub. [HUM-AEMO-2026-ISP-A5; 12, 30-32]
+
+## Warnings and open decisions
+
+- AUTHOR_DECISION_REQUIRED#1 (blocker): The chart's $5.914bn cost has no archived support. It is a sum of three option costs from the Draft 2026 ISP Appendix 5 (pages 34-35), which is not in the archive; the archived final 2026 ISP Appendix A5 leaves the NIP's reported cost blank and its pages 34-35 are the Gladstone Project. The archived 2024 ISP option costs sum to $3,697m on a superseded two-part scope. The author must either supply the Draft 2026 ISP Appendix 5 capture, restate the cell against the archived final ISP (which publishes no cost), or withdraw the figure. The row should not be published with this cost cell as-is. [HUM-AEMO-2026-ISP-A5; HUM-AEMO-2024-ISP-A5; HUM-AEMO-2026-ISP-A5 pp30-32, 34-35; HUM-AEMO-2024-ISP-A5 p30]
+- AUTHOR_DECISION_REQUIRED#14 (warning): The circuits (4) and lines (2) cells rest on a one-corridor, two-double-circuit-500-kV-line reading that the archived 2026 ISP does not state; its scope list enumerates five distinct double-circuit lines at 500 kV and 330 kV. The author must define the counting boundary (trunk corridor only, or all double-circuit lines in scope) and supply a source for it, or accept the cells as gaps. [HUM-AEMO-2026-ISP-A5; HUM-AEMO-2026-ISP-A5 pp31-32]
+- AUTHOR_DECISION_REQUIRED#15 (warning): The syncons_mva (0) and feeder_lines_km (0) cells assert absence, but no archived source states that synchronous condensers or hub-to-project feeder lines are excluded from the NIP scope; they are merely not listed. The author must decide whether a zero means 'none in the archived scope list' or 'sourced absence', and label the chart accordingly. AEMO also warns the final scope is subject to procurement. [HUM-AEMO-2026-ISP-A5; HUM-AEMO-2026-ISP-A5 pp31-32]
+- AUTHOR_DECISION_REQUIRED#16 (warning): The hubs cell (5) matches the count of hubs named in the archived 2026 ISP scope, but the chart's hub names and voltages come from the unarchived EnergyCo interactive map, and the archived EnergyCo 2023 strategy describes four new substation hubs for the Deliver Now option. The author must confirm the hub definition and which source the chart's naming is presented against. [HUM-AEMO-2026-ISP-A5; CWO-04; HUM-AEMO-2026-ISP-A5 pp31-32; CWO-04 p11]
+- AUTHOR_DECISION_REQUIRED#17 (warning): alt_routes (0) is an author definition of route redundancy that no source supplies, and its stated basis (shared 140 m corridor with 70 m easements) is from an unarchived report. The definition must be published with the chart or the cell withdrawn. [Author note: Bulk Corridor Design Refinement p15 fn1]
+- SOURCE_UNAVAILABLE#2 (warning): The Draft 2026 ISP Appendix 5, the author's stated source for the three option costs totalling $5.9 billion, is not in the manifest and was not among the acquisition targets. The three amounts cannot be verified, recorded as observations, or summed. Cite nothing from it. [Author note: Draft 2026 ISP, Appendix 5, pages 34 and 35]
+- SOURCE_UNAVAILABLE#3 (warning): EnergyCo's current New England REZ scope and procurement page was not captured (HTTP 403 on both /ne and /our-projects/new-england-rez). Current proponent scope, hub naming, route length and procurement status cannot be verified against the proponent; AEMO's account is the only evidence. [ENE-SCOPE-ENERGYCO; discovery records D-ENE-006, D-ENE-007]
+- SOURCE_UNAVAILABLE#4 (warning): AEMO's Transmission Augmentation Information page was not captured (HTTP 403 on both routes). The January 2034 delivery date and the one-part scope advice rest on AEMO's appendix text citing that page; the underlying EnergyCo advice is unverified. [ENE-TAI-AEMO; discovery records D-ENE-008, D-ENE-009]
+- SOURCE_UNAVAILABLE#5 (warning): The CSSI/EIS planning record for the NIP was not captured (NSW Planning HTTP 404, EnergyCo EIS route HTTP 403). The June 2024 CSSI declaration, environmental impact statement scope, route length and asset schedules are unverified; the EIS route-length and line-count evidence available for Hunter Transmission Project has no counterpart here. [ENE-CSSI; discovery records D-ENE-010, D-ENE-011]
+- SOURCE_UNAVAILABLE#6 (warning): The EnergyCo interactive map (caportal.com.au/energyco/rez), the author's source for the five named hubs and their voltages, is not archived. The hub count is corroborated by the archived 2026 ISP scope list, but the chart's hub names and voltages are not verifiable; treat the naming as unsourced. [Author note: EnergyCo interactive map, accessed 1 September 2026]
+- CHART_DERIVATION#7 (warning): Three chart cells are calculations rather than published values: transformers 10,500 MVA is (4 x 1,500) + (3 x 1,500) from two archived HUM-AEMO-2026-ISP-A5 scope bullets, circuits 4 is 2 x 2 from EnergyCo's 2025 consultation paper's two double-circuit 500 kV lines, and millions_per_trunk_km 19.39 is $5,914m divided by 305 km. The transformer total and the circuits total are each auditable against an archived source but are not figures the source itself publishes as a total; the ratio has no archived inputs at all and must not be presented as sourced. [HUM-AEMO-2026-ISP-A5; NER-ENERGYCO-2025-CONSULTATION; HUM-AEMO-2026-ISP-A5 p31; NER-ENERGYCO-2025-CONSULTATION p11]
+- NON_ADDITIVE_BOUNDARIES#8 (warning): The 8,000 MW declared intent, the 6,000 MW forward and 6,000 MW reverse 2026 delivery-scope figures, the 2024 flow path 3,000 MW and REZ N2 2,000/1,000/3,000 MW figures, and the EnergyCo 6 GW / 0.8 GW / 1.5 GW option capacities all have distinct boundaries. The 2024 option costs $1,834m, $370m and $1,493m likewise sit on separate option boundaries with Option 2 conditional on Option 1. Do not add any of these figures together, and do not treat the 2024 option costs as a decomposition of the current single-part project. [HUM-AEMO-2026-ISP-A5; HUM-AEMO-2024-ISP-A5; CWO-04; HUM-AEMO-2026-ISP-A5 pp30-31; HUM-AEMO-2024-ISP-A5 p30; CWO-04 pp9, 11, 13, 35]
+- NON_COMPARABLE_SERIES#9 (warning): The 2022 $1.9bn New England REZ Transmission Link estimate, the 2024 three-option costs, the 2023 EnergyCo portfolio-level $7.8bn Deliver Now estimate and the blank 2026 reported cost differ in project definition, scope, maturity and price basis. Do not build a cost series or calculate an escalation or overrun across them. [HUM-AEMO-2022-ISP; HUM-AEMO-2024-ISP-A5; HUM-AEMO-2026-ISP-A5; CWO-04; HUM-AEMO-2022-ISP p72; HUM-AEMO-2024-ISP-A5 p30; HUM-AEMO-2026-ISP-A5 p31; CWO-04 p9]
+- PRICE_BASIS_UNKNOWN#10 (warning): None of the archived cost observations states a dollar year: the 2024 ISP option costs, the 2022 ISP $1.9bn estimate and the EnergyCo 2023 portfolio estimate all lack a price basis. No real-terms comparison or escalation can be performed between them. [HUM-AEMO-2024-ISP-A5; HUM-AEMO-2022-ISP; CWO-04; HUM-AEMO-2024-ISP-A5 p30; HUM-AEMO-2022-ISP p72; CWO-04 p9]
+- SCOPE_TRANSFER#11 (warning): The NIP scope has been revised since the 2024 ISP: two modelled parts consolidated into one part (CNSW-NNSW Option 1) and the scope extended to Northern Hub with an additional 170 km. The 2024 option costs, capacities and timings describe a different scope. Any comparison across ISP vintages must state the scope change first. [HUM-AEMO-2026-ISP-A5; HUM-AEMO-2024-ISP-A5; HUM-AEMO-2026-ISP-A5 pp12, 30; HUM-AEMO-2024-ISP-A5 pp30-31]
+- OUTTURN_UNKNOWN#12 (warning): No AER determination, authorisation, construction contract or outturn cost for the NIP was captured, and the project is anticipated rather than committed. Every monetary and length figure remains a planner or strategy estimate; none is a delivered cost. [HUM-AEMO-2026-ISP-A5; HUM-AEMO-2026-ISP-A5 pp30-31]
+- MONITOR_LATER#13 (warning): AEMO states the final scope and cost is subject to the outcome of EnergyCo's competitive procurement of a network operator, and a development finance entity procurement has commenced. Hub count, transformer schedule, route length and cost may all change on procurement award; re-check after the operator is appointed. [HUM-AEMO-2026-ISP-A5; HUM-AEMO-2026-ISP-A5 pp30-31, footnote 56]
+- SHARED_ATTRIBUTION#18 (warning): The 2026 ISP's +1,166 km anticipated-length increase covers the New England REZ NIP and Project Marinus Stage 1 together, and the 2024 Flow path Option 2 capacity assumes downstream limitations are addressed by the Hunter Transmission Project. Neither figure can be attributed to the NIP alone; QNI Connect's separate $2,989m cost likewise belongs to that project even though it names the NIP as a pre-requisite. [HUM-AEMO-2026-ISP-A5; HUM-AEMO-2024-ISP-A5; HUM-AEMO-2026-ISP-A5 pp12, 63-64; HUM-AEMO-2024-ISP-A5 p30]
+
+## Sources
+
+| Source id | Publisher | Title | Date | Derivative path | SHA-256 (12) |
+| --- | --- | --- | --- | --- | --- |
+| CWO-04 | EnergyCo NSW | Network Infrastructure Strategy for NSW | 2023-05-01 | sources/central-west-orana/cwo-04-energyco-2023-network-infrastructure-strategy.txt | 10b8fac054a4 |
+| HUM-AEMO-2022-ISP | Australian Energy Market Operator | 2022 Integrated System Plan | 2022-06-30 | sources/humelink/text/AEMO-2022-ISP.txt | 047166b47c68 |
+| HUM-AEMO-2024-ISP-A5 | Australian Energy Market Operator | 2024 ISP Appendix A5 Network Investments | 2024-06 | sources/humelink/text/AEMO-2024-ISP-Appendix-5.txt | ea99b4260753 |
+| HUM-AEMO-2026-ISP-A5 | Australian Energy Market Operator | 2026 ISP Appendix A5 Network Investments | 2026-06 | sources/humelink/text/AEMO-2026-ISP-Appendix-5.txt | 7df9478c9ca0 |
+| NER-ENERGYCO-2025-BULKCORRIDOR | EnergyCo NSW | New England REZ Bulk Corridor Design Refinement Report | 2025-11 | sources/new-england-rez/ner-energyco-2025-bulkcorridor.txt | b89e12611d1b |
+| NER-ENERGYCO-2025-CONSULTATION | EnergyCo NSW | New England REZ Generation and Storage Consultation Paper | 2025-08 | sources/new-england-rez/ner-energyco-2025-generation-storage-consultation.txt | 960198ef247e |
+| NER-ENERGYCO-2026-FEEDBACK | EnergyCo NSW | New England REZ Community Feedback Report (April 2026) incl. Bulk Corridor Refinement Study | 2026-04 | sources/new-england-rez/ner-energyco-2026-feedback-report.txt | ac200b72ff42 |
+| NER-NSWGOV-2021-GAZETTE-643 | NSW Government | NSW Government Gazette No 643, 17 December 2021 (New England REZ declaration) | 2021-12-17 | sources/new-england-rez/ner-nswgov-2021-gazette-643.txt | 615b1a903f21 |
+
+Verify any figure by grepping its excerpt in the derivative path above before asserting it.

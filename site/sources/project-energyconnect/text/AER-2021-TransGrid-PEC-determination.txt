@@ -1,0 +1,1589 @@
+--- PDF physical page 1 ---
+
+
+
+
+
+
+
+
+
+
+FINAL DECISION
+
+TransGrid
+Contingent Project
+
+Project EnergyConnect
+
+ May 2021
+
+--- PDF physical page 2 ---
+
+
+© Commonwealth of Australia 2021
+This work is copyright. In addition to any use permitted under the Copyright Act 1968,
+all material contained within this work is provided under a Creative Commons
+Attributions 3.0 Australia licence, with the exception of:
+ the Commonwealth Coat of Arms
+ the ACCC and AER logos
+ any illustration, diagram, photograph or graphic over which the Australian
+Competition and Consumer Commission does not hold copyright, but which may be
+part of or contained within this publication. The details of the relevant licence
+conditions are available on the Creative Commons website, as is the full legal code
+for the CC BY 3.0 AU licences.
+Requests and inquiries concerning reproduction and rights should be addressed to the:
+
+Director, Corporate Communications,
+Australian Competition and Consumer Commission,
+GPO Box 3131,
+Canberra ACT 2601
+or publishing.unit@accc.gov.au.
+Inquiries about this publication should be addressed to:
+Australian Energy Regulator
+GPO Box 520
+Melbourne  Vic  3001
+Tel: 1300 585 165
+Email: AERInquiry@aer.gov.au
+
+AER reference: 65362
+--- PDF physical page 3 ---
+1
+
+Executive Summary
+Project EnergyConnect is a proposed new high-voltage power line between South
+Australia at Robertstown and New South Wales at Wagga Wagga, together with a
+spur line linking to Victoria at Red Cliffs. It will be jointly constructed and operated by
+ElectraNet (South Australia) and TransGrid (New South Wales).
+TransGrid has applied to the Australian Energy Regulator (AER) to increase its
+revenue allowance to fund construction of the New South Wales component of the
+project. This is the final step in the regulatory process before TransGrid may begin
+recovering the costs of the project from customers.
+TransGrid forecast capital expenditure for the New South Wales component of the
+project of $1,866.3 million ($2017-18). This component of the project is proposed to
+be completed by June 2023.
+Our role is to determine the incremental revenues that will be added to TransGrid's
+revenue allowance, and the forecast prudent and efficient capital expenditure and
+operating expenditure required to deliver the project.
+Table 1 sets out the incremental revenues that will be added to TransGrid's revenue
+allowance, the forecast prudent and efficient capital expenditure and operating
+expenditure required to deliver the project, and the estimated impact on the
+transmission component of residential customer electricity bills in New South Wales.
+Table 1 Project EnergyConnect contingent project — assessment of
+forecast expenditure, revenues and bill impact — New South Wales
+Project EnergyConnect
+Incremental revenue to be recovered from customers
+in 2022-23 $61.5 million
+Indicative increase in residential electricity bills in
+New South Wales in 2022-23  $11
+Indicative increase in residential electricity bills in
+New South Wales between 2023-24 and 2027-28 $22 p.a.
+Forecast capital expenditure ($2017-18) $1,817.9 million
+Forecast operating expenditure ($2017-18) $2.5 million
+Source:  AER analysis.
+TransGrid and ElectraNet have demonstrated the project will proceed
+Contingent projects are significant network augmentation projects that may arise
+during a regulatory control period but the need and or timing is uncertain. While the
+expenditures for such projects do not form part of the total forecast expenditure in a
+--- PDF physical page 4 ---
+2
+
+normal revenue determination, the project costs may ultimately be recovered from
+customers if certain conditions are met (also called a 'trigger event').
+On 30 April 2018, we released our final decision on TransGrid's revenue
+determination for the 2018–23 regulatory control period. This final decision
+established three necessary conditions that would allow TransGrid to recover the
+prudent and efficient costs of Project EnergyConnect from customers:
+ successful completion of a regulatory investment test for transmission (RIT-T)
+demonstrating an overall network investment by all parties involved in the
+interconnector construction that maximises the positive net economic benefits
+from establishing a new high voltage interconnection from South Australia,
+and/or that addresses a reliability corrective action
+ determination by the AER that the proposed investment satisfies the RIT-T, and
+ TransGrid Board commitment to proceed with the project subject to the AER
+amending the revenue determination pursuant to the Rules.
+We are satisfied that all three conditions have been met and as such TransGrid is
+now entitled to recover revenues from consumers to deliver the project.
+In February 2019, ElectraNet completed the South Australia Energy Transformation
+RIT-T demonstrating that a new SA-NSW interconnector was the preferred option
+that maximised net economic benefits. This process was undertaken by ElectraNet
+to explore options for reducing the cost of providing secure and reliable electricity to
+SA in the near term, while facilitating the longer-term transition of the energy sector
+across the National Electricity Market (NEM). As this project involves
+interconnection with New South Wales, it became a joint project with TransGrid.
+On 24 January 2020, we determined under clause 5.16.6 of the NER that the
+preferred option identified by ElectraNet’s RIT-T satisfies the RIT-T requirements.
+Under the NER, ElectraNet is required to re-apply the RIT-T if, in its reasonable
+opinion, Project EnergyConnect is no longer the preferred option that maximises the
+net economic benefits (unless the AER determines otherwise).
+In September 2020, ElectraNet published an updated cost benefit analysis that
+accounted for revised project costs, and inputs and assumptions from the Australian
+Energy Market Operator’s 2020 Integrated System Plan. This updated analysis
+indicated that the net benefits of the project are likely to be positive and that the
+project remains the preferred option. Therefore, ElectraNet concluded that there is
+no need to reapply the RIT-T for this project.
+On 28 September 2020, we advised ElectraNet that its updated cost benefit analysis
+provided a not unreasonable basis for its opinion that the project remains the
+preferred option.
+On 31 March 2021, ElectraNet published a review of whether recent market
+developments could result in a material change of circumstances that may lead to
+the project no longer being the preferred option. ElectraNet's assessment concluded
+that the announcements were likely to have an overall positive impact on the
+--- PDF physical page 5 ---
+3
+
+modelled net benefits of the project, and that it is not reasonably likely that there has
+been a material change of circumstances. This was supported by further analysis
+undertaken by AEMO.
+On 29 April 2021, the TransGrid Board made a resolution committing to proceed
+with the project subject to the AER amending its revenue determination.
+The forecast costs of Project EnergyConnect
+The key component of TransGrid's application and driver of the incremental
+revenues that would be recovered from consumers following a contingent project
+determination is the forecast amount of capital expenditure reasonably required to
+construct the project.
+In September 2020, TransGrid submitted an initial application that proposed
+$1,894.6 million ($2017-18) in capex to undertake the Project EnergyConnect
+contingent project. TransGrid reduced this to $1,866.3 million in its April 2021
+revised application, following consideration of a preliminary assessment we
+published in December 2020 as well as further information about its expected
+project costs.
+We have examined TransGrid's proposed capex forecast and consider that a
+reasonable estimate of prudent and efficient capex required to deliver the project is
+$1,817.9 million ($2017-18). This is 2.6 per cent less than TransGrid's April 2021
+revised proposal.
+The majority of TransGrid's forecast capex would be incurred by an efficient and
+prudent operator to deliver this project. Approximately 77 per cent of the forecast
+capex has been market tested through a comprehensive and competitive tendering
+process, and therefore reflects a realistic expectation of actual costs that can be
+delivered by the market. The proposed project scope reflects refinements in line
+route, cost-efficient design and construction techniques, and lower costs for large
+specialist equipment than TransGrid could acquire itself.
+We note that TransGrid's forecast capex for transmission lines is higher than
+comparable benchmarks. This may be explained by the specific line route, line
+deviations, market conditions, and project specific topographical, geotechnical and
+other factors. However, we consider it is also likely to be influenced by TransGrid's
+project delivery model and its proposal to enter into a fixed-price contract with a
+single supplier to design, procure and construct all of the required works. While not
+unreasonable, this is a conservative approach to contracting as it transfers the
+majority of project risk to the contractor.
+The remaining components of the project include significant forecast costs for
+acquiring land and easements and offsetting the environmental impact of the project
+on biodiversity and endangered species. We consider that TransGrid's revised
+proposal included reasonable estimates of acquiring land and easements and the
+expectation of its likely environmental obligations under New South Wales and
+Commonwealth legislation. This is supported by extensive field surveys, refinements
+--- PDF physical page 6 ---
+4
+
+to its project route and construction plans, and feedback from the relevant New
+South Wales regulator on the expected environmental impacts.
+In making a final determination, we have considered further information provided by
+TransGrid since it submitted its revised proposal, including the impact of further
+completed biodiversity field survey results and identified route deviations. We have
+also accounted for more accurate information about some of the cost inputs to the
+forecast environmental offsets capex, including land valuations.
+However, we have not included additional allowances for project risks as proposed
+by TransGrid, as we consider that our forecast of capex provides for TransGrid's
+prudent and efficient project costs and TransGrid is best placed to mitigate the
+likelihood of additional costs being incurred in the delivery of the project.
+Next steps
+The incremental revenues we have approved in this determination will now be
+added to TransGrid's total maximum allowed revenues for the 2018–23 regulatory
+control period. This follows the process set out in clause 6A.8.2 of the NER.
+The increase in allowed revenues will be reflected in customer bills in 2022-23, the
+final year of the regulatory control period. The actual project costs will added to
+TransGrid's regulated asset base at the beginning of the next regulatory control
+period.
+
+--- PDF physical page 7 ---
+5
+
+Contents
+
+Executive Summary ........................................................................................1
+Contents...........................................................................................................5
+ Project EnergyConnect contingent project ............................................6
+ Our contingent project determination.....................................................8
+ The conditions required for a determination ........................................ 10
+ Prudent and efficient project expenditure ............................................ 14
+4.1 Forecast of capital expenditure ...................................................... 14
+4.2 Forecast of operating expenditure ................................................. 29
+4.3 Application of expenditure incentive schemes ............................. 29
+ Calculation of incremental allowed revenues ...................................... 31
+A Submissions ........................................................................................... 34
+
+--- PDF physical page 8 ---
+6
+
+ Project EnergyConnect contingent project
+Project EnergyConnect is a proposed $2.3 billion ($2017-18) contingent project to
+construct a new high voltage power line over a route of approximately 860 km
+connecting the electricity networks of South Australia at Robertstown and New
+South Wales at Wagga Wagga.
+Project EnergyConnect is the preferred option identified in the South Australia
+Energy Transformation Regulatory Investment Test for Transmission (RIT-T)
+process. This process has been undertaken by ElectraNet to explore options for
+reducing the cost of providing secure and reliable electricity to SA in the near term,
+while facilitating the longer-term transition of the energy sector across the NEM. As
+this project involves interconnection with New South Wales, it is a joint project with
+TransGrid.
+TransGrid proposes that the construction of the New South Wales component of the
+interconnector will be completed by June 2023. TransGrid is seeking $63 million in
+incremental revenues over the 2018–23 regulatory control period to construct its
+component of the project.1 The actual project capex would then be added to
+TransGrid's regulatory asset base (RAB) at the end of the regulatory control period.
+TransGrid's allowed revenues for the 2018-23 regulatory control period did not
+include funding for the delivery of this project. This project involved a significant
+augmentation to the network, but the need, cost and timing of the project was
+uncertain. TransGrid was allowed to apply to the AER to seek an increase in its
+allowed revenue when the need, timing and cost of the project was more certain.
+On 29 June 2020, TransGrid submitted an initial application to the AER seeking an
+increase in its allowed revenue to construct the New South Wales component of the
+project. TransGrid applied under the contingent project process set out in clause
+6A.8.2 of the NER. TransGrid noted that it was part way through its tender process
+and its forecast capex for the project at this time was likely to substantially change.
+On 23 July 2020, we wrote to TransGrid advising that we could not at that time
+commence the formal contingent project determination process because
+TransGrid’s application did not meet the pre-requisites for the decision making
+process under the NER to commence, as it:
+ did not contain a forecast of capital expenditure which TransGrid considered was
+reasonably required for the purpose of undertaking the contingent project, as
+required by clause 6A.8.2(b)(3) of the NER, and
+
+
+1  This reflects our calculation of the differences in TransGrid's total maximum allowable revenues with and
+without its proposed forecast capex for Project EnergyConnect, based on the post-tax revenue model
+submitted as part of TransGrid's April 2021 revised contingent project application.
+--- PDF physical page 9 ---
+7
+
+ was subject to a claim of confidentiality, over its entirety, that meant the
+application is not capable of being published in accordance with clause 6A.8.2(c)
+of the NER.
+On 30 September 2020, TransGrid submitted an updated application to the AER.
+ElectraNet also submitted an application for the South Australian component.
+On 18 December 2020, we published a preliminary position on TransGrid's
+contingent project application. This provided our preliminary assessment of
+TransGrid's proposed capex and opex required for the project. However, we stated
+that we were not yet able to make a determination to increase TransGrid's allowed
+revenue so that it can begin recovering the project costs from customers. This was
+because we were not satisfied that TransGrid's Board has committed to proceed
+with the project, which was a requirement for the AER to make a determination.
+On 30 April 2021, TransGrid submitted a revised contingent project application. This
+application included a revision to its proposed capex for the project, and an updated
+resolution from TransGrid's Board committing to proceed with the project.
+--- PDF physical page 10 ---
+8
+
+ Our contingent project determination
+Contingent projects are significant network augmentation projects that may arise
+during a regulatory control period, but the need and or timing of the project is
+uncertain. As such, project costs are not provided for in expenditure forecasts as
+part of the revenue determination for a regulatory control period. In this context,
+consumers should not be charged for new significant projects until the cost is
+reasonably known and it is certain the project will proceed.
+Under clause 6A.8.2 of the NER, TransGrid may apply to amend its existing revenue
+determination to increase allowed revenues for a contingent project. However, we
+are only required to determine the incremental revenues required to deliver the
+contingent project if we are satisfied that a specific trigger event has occurred, and
+the project exceeds a cost threshold.
+As set out in section 3, the Project EnergyConnect contingent project application
+meets the conditions required for us to make a determination because:
+ we are satisfied that each element of the trigger event for this project has
+occurred
+ we are satisfied that the capex amount sought exceeds the applicable materiality
+threshold of $36 million.
+We have now made a determination on TransGrid's contingent project application in
+accordance with clause 6A.8.2 of the NER, which specifies the process we must
+undertake and the determination we must make on a contingent project application.
+In accordance with clause 6A.8.2(e) of the NER, we have determined:
+ the total capex that is reasonably required for the project and the amount of
+capex for each remaining year of the regulatory control period (see section 4.1)
+ the incremental opex for each remaining year of the regulatory control period
+(section 4.2)
+ the incremental revenue which is likely to be required by TransGrid for each
+remaining regulatory year as a result of the efficient capex and opex for the
+contingent project (see section 5), and
+ that the project has commenced and is likely to be completed by June 2023.
+We are also required to publish TransGrid's application and invite interested parties
+to make written submissions.2 We sought submissions on TransGrid's initial
+application in October 2020, and on TransGrid's revised application in May 2021. A
+summary of submissions received and our consideration of the issues raised is
+included at Attachment A.
+
+
+2  NER, cl. 6A.8.2(c).
+--- PDF physical page 11 ---
+9
+
+In making our determination, we were required under clause 6A.8.2(f) to consider
+whether we can accept TransGrid's proposed revenues and project expenditure
+included in its application. This includes considering if its proposed project costs are
+prudent and efficient. If we are not satisfied that we can accept ElectraNet's forecast
+revenues and project costs, we can determine a different forecast.
+Based on our review of TransGrid's application, and additional analysis undertaken
+for us by Energy Market Consulting associates (EMCa), we do not accept
+TransGrid's forecast capex for the project. We have determined a different capex
+forecast that reflects the prudent and efficient costs that we consider are reasonably
+required for delivering the project. Our reasoning is set out in section 4.1.
+We have now amended TransGrid's 2018–23 revenue determination to add these
+additional allowed revenues and costs. This is accompanied by a supporting post-
+tax revenue model on our website that sets out the calculation of ElectraNet's
+annual revenues, including the contingent project allowance.
+
+--- PDF physical page 12 ---
+10
+
+ The conditions required for a determination
+Under clause 6A.8.2 of the NER, we are only required to determine the incremental
+revenues required to deliver the contingent project if we are satisfied that a specific
+trigger event has occurred, and the project exceeds a cost threshold.
+The project trigger for Project EnergyConnect
+In our final decision on TransGrid's 2018–23 revenue determination, we set out
+three elements of an event that would trigger the New South Wales component of
+the Project EnergyConnect contingent project. These conditions ensured that the
+need and timing for the project is reasonably certain. Table 2 outlines these
+conditions.
+Table 2 Project EnergyConnect contingent project trigger conditions
+Condition Description of condition
+1
+Successful completion of a regulatory investment test for transmission
+demonstrating an overall network investment by all parties involved in the
+interconnector construction that maximises the positive net economic benefits
+from establishing a new high voltage interconnection from South Australia,
+and/or that addresses a reliability corrective action.
+2 Determination by the AER that the proposed investment satisfies the RIT -T.
+3 TransGrid Board commitment to proceed with the project subject to the AER
+amending the revenue determination pursuant to the Rules.
+4
+Clauses 1 and 2 do not apply if a change in the law occurs that allows the
+inclusion of the proposed investment in TransGrid's maximum allowed revenue
+under this revenue determination even if a RIT-T is not carried out.
+Source:  AER, ElectraNet transmission revenue determination, Attachment 6 - Capital expenditure, May 2018.
+Before we can make a determination to allow TransGrid to recover revenues from
+consumers to deliver the project, we must be satisfied the three conditions of the
+trigger event have occurred.
+The first condition relates to the regulatory investment test undertaken by
+ElectraNet. The process undertaken by ElectraNet, as described below, has
+satisfied the first condition to trigger the contingent project.
+In February 2019, ElectraNet published its final report from the South Australian
+Energy Transformation RIT-T process. This report identified a new SA-NSW
+interconnector as the preferred option that maximised the net economic benefits. As
+this project involves interconnection with New South Wales, it is a joint project with
+TransGrid. At this time, the total project cost was estimated at $1.5 billion.
+--- PDF physical page 13 ---
+11
+
+On 24 January 2020, we determined under clause 5.16.6 of the NER that the
+preferred option identified by ElectraNet’s RIT-T satisfies the RIT-T. This satisfied
+the second condition to trigger the contingent project.
+Under the NER, ElectraNet (as the project proponent) is required to re-apply the
+RIT-T if, in its reasonable opinion, the project is no longer the preferred option that
+maximises the net economic benefits (unless the AER determines otherwise).
+In our January 2020 determination, we stated that if updated costs and benefits of
+the project differ materially from the analysis in the RIT-T, ElectraNet should
+consider whether there has been a material change in circumstances such that the
+preferred option may no longer maximise the positive net economic benefits.
+On 29 June 2020, TransGrid provided an initial contingent project application for its
+component of the project. This application proposed a significantly higher estimate
+of capital costs for the New South Wales component than assumed in the RIT-T. In
+July 2020, the Australian Energy Market Operator (AEMO) published its final 2020
+Integrated System Plan (ISP) that identified this project as an 'actionable project'.
+ElectraNet conducted an updated cost benefit analysis using the updated 2020 ISP
+inputs and assumptions and took into account the revised capital costs for the
+project. This updated analysis indicated that the net benefits of the project are likely
+to be positive. ElectraNet provided this updated analysis to us seeking our
+confirmation that the project remained the preferred option and therefore there is no
+need to reapply the RIT-T.
+On 28 September 2020, we advised ElectraNet that its updated cost benefit
+analysis, which relied on AEMO inputs and assumptions from the 2020 ISP,
+provided a not unreasonable basis for ElectraNet’s opinion that Project
+EnergyConnect remained the preferred option. However, we highlighted that the net
+benefits remain finely balanced and there is a significant zone of uncertainty
+associated with the benefits.
+In our preliminary position paper in December 2020, we noted that there have been
+a number of recent developments in the NEM that potentially impact on the net
+benefits from Project EnergyConnect. These included:
+ The Australian Government’s commitment to finance up to 1,000MW of gas
+generation in the Hunter Valley by April 2021.
+ The New South Wales Government’s legislation (referred to as the NSW
+Electricity Infrastructure Investment Act 2020) targeting 12GW of renewable
+energy across a number of designated renewable energy zones with associated
+transmission upgrades and 2GW of long duration storage by 2030 as well as
+facilitating the installation of dispatchable capacity.
+ The Victorian Government’s budget announcements about the creation of new
+renewable energy zones and completion of tendering for the System Integrity
+Protection Scheme (i.e. a new battery service).
+--- PDF physical page 14 ---
+12
+
+ Legislation for the Tasmanian Renewable Energy Target to double Tasmania's
+renewable generation to 200 per cent of current needs by 2040.
+ The announcement by AGL on its intention to build a 250MW battery at Torrens
+Island in South Australia by 2024.
+ElectraNet and AEMO subsequently identified additional developments, including:
+ The South Australian Government publishing its Climate Change Action Plan
+2021-25 which included the objective of accelerating renewable energy.
+ AEMO's December 2020 consultation on updated gas prices for its 2022 ISP.
+ The March 2021 announcement of the early closure of Yallourn power station.
+On 23 February 2021, AEMO published a letter setting out its assessment of the
+impact of a number of these policy announcements, as well as the impact of
+assumptions on the requirements for synchronous generating units in South
+Australia. AEMO considered that the market appears to be developing more in line
+with the Fast Change scenario modelled in the 2020 ISP than the Central scenario,
+but that the net benefits of PEC remain similar under both scenarios. AEMO's letter
+therefore concluded that the project is still expected to deliver net market benefits.
+On 31 March 2021, ElectraNet published a review of whether the recent
+developments could result in a material change of circumstances under the NER
+that may lead to the project no longer being the preferred option. The review
+assessed the direction and quantum of impact that each market development could
+have on the benefits of Project EnergyConnect. ElectraNet's assessment concluded
+that the announcements were likely to have an overall positive impact on the
+modelled net benefits of the project, and that it is therefore not reasonably likely that
+there has been a material change of circumstances.
+On 29 April 2021, the TransGrid Board committed to proceed with the NSW section
+of Project EnergyConnect subject to the AER awarding incremental revenue
+commensurate with the capital and operating costs of the project as proposed by the
+company. This satisfied the third and final condition to trigger the contingent project.
+Expenditure threshold
+The expenditure threshold applicable to the forecast capex for the project is:3
+either $30 million or 5% of the value of the maximum allowed revenue for
+the relevant Transmission Network Service Provider for the first year of the
+relevant regulatory control period whichever is the larger amount.
+
+
+3  NER, clause 6A.8.1(b)(2)(iii).
+--- PDF physical page 15 ---
+13
+
+Five per cent the maximum allowed revenue in the first year of TransGrid's 2018–23
+regulatory control period is $36 million. This is higher than $30 million and is
+therefore the applicable threshold for the Project EnergyConnect contingent project.
+TransGrid's forecast capex for the contingent project is $1,866.3 million ($2017-18).
+This exceeds (and therefore meets) the expenditure threshold of $36 million.
+--- PDF physical page 16 ---
+14
+
+ Prudent and efficient project expenditure
+This section outlines our consideration of TransGrid's proposed forecast capex and
+opex for Project EnergyConnect, and our determination on the prudent and efficient
+expenditure reasonably necessary to undertake the project.
+These forecasts of capex and opex are building block inputs to determine the
+incremental revenue TransGrid may recover in the current regulatory control period.
+They will also be added to the target capex and opex for TransGrid's expenditure
+incentive schemes.4 Any incentive rewards and penalties TransGrid receives as a
+result of under or overspending on the project will be applied as additional revenue
+adjustments in the next regulatory control period.
+4.1 Forecast of capital expenditure
+Table 3 sets out our determination on the total capex required for the project and the
+capex for each year of the 2018-23 regulatory control period based on our analysis
+to date. We have not accepted TransGrid's proposed forecast capex (as submitted
+to us on 30 April 2021) and have substituted a different forecast.
+Table 3 AER determination of forecast capex ($m, 2017-18)
+ 2018-19 2019-20 2020-21 2021-22 2022-23  Total
+TransGrid's proposal  3.5  23.1  216.4  910.5  712.9  1,866.3
+AER estimate 3.4  22.8  214.2  878.4  699.0  1,817.9
+Difference (%) -1.7% -1.2% -1% -3.5% -2% -2.6%
+Difference ($m) -0.1 -0.3 -2.2 -32.1 -13.9 -48.4
+Source:  TransGrid, Project EnergyConnect - Revised Capex Application, 30 April 2021, p. 4; AER analysis.
+Note: Numbers may not add up due to rounding. Excludes equity raising costs.
+TransGrid's revised contingent project application forecasts that the project will
+require $1,866.3 million ($2017-18) in total capex.5 This is a reduction of
+$28.4 million (or 1.5 per cent) from $1,894.6 million in total capex that TransGrid
+proposed in its September 2020 contingent project application.
+Table 4 provides a summary of the components of TransGrid's proposed forecast
+capex and the changes from its September 2020 application.
+
+
+4  The Capital Expenditure Sharing Scheme (CESS) and the Efficiency Benefit Sharing Scheme (EBSS).
+5  TransGrid, Project EnergyConnect - Revised Capex Application, 30 April 2021, p. 4.
+--- PDF physical page 17 ---
+15
+
+Table 4 Summary of TransGrid's forecast capex components
+Million ($2017-18) Sept. 2020
+proposal
+April 2021
+proposal Change
+Transmission lines and substation works  1,240.3  1,240.3  0
+Large specialist equipment 140.2 140.2 0
+Other construction costs and allowances 88.2 70.5 -17.6
+TransGrid's project delivery costs 135.8 135.8 0
+Environmental offsets (including risk) 165.6 166.7 1.1
+Land and easement acquisition 121.5 109.6 -11.8
+Real labour cost escalation 3.2 3.2 0
+Total 1,894.6 1,866.3 -28.4
+Source:  AER analysis.
+TransGrid's contingent project application included a range of supporting
+documents. This includes a detailed scope of work document, a summary of its
+procurement process and a detailed break-down of the project cost elements. It also
+included supporting consultant reports.
+Overall conclusion on TransGrid's proposed capex
+We have examined TransGrid's proposed capex forecast and found that a prudent
+and efficient estimate of the forecast capex for the New South Wales component of
+Project EnergyConnect is $1,817.9 million ($2017-18). This is 2.6 per cent less than
+TransGrid's proposal.
+The majority of TransGrid's capex forecast would be incurred by an efficient and
+prudent operator to deliver this project. In particular:
+ TransGrid's forecast capex for transmission lines, substations and large
+specialist equipment comprises the majority of forecast project costs. TransGrid
+has undertaken a comprehensive competitive tendering process, and this
+process has realised cost savings. While at the higher end of an acceptable
+range, these are likely to reasonably reflect prudent and efficient expenditure.
+ TransGrid has estimated additional construction costs provisions that are
+contingencies for uncertainty and risks of project delay not borne by the
+contractor. TransGrid has adopted a reasonably prudent probabilistic risk-based
+approach to estimating these costs
+ TransGrid has reasonably valued the land and easements necessary to locate
+the new transmission lines and substations.
+ TransGrid's internal project delivery costs are reasonably required for a project of
+the size and complexity of Project EnergyConnect.
+--- PDF physical page 18 ---
+16
+
+ TransGrid's approach to estimating the likely efficient costs required to offset the
+environmental impact from clearing vegetation and locating powerlines near
+threatened species, as required under New South Wales and Commonwealth
+legislation. This is supported by extensive field surveys, feedback from the
+relevant New South Wales regulators, and the identification of land available to
+offset the estimated environmental impacts.
+However, in making a final determination, we have considered more recent and
+accurate information provided by TransGrid about its expected environmental offset
+obligations and the expected efficient costs of meeting these obligations. We have
+also accounted for more recent information about the expected costs of route
+deviations. This updated information supported a lower amount of forecast capex
+than TransGrid proposed in its April 2021 revised application.
+Table 5 sets out our assessment of TransGrid's capex components and how we
+arrived at our alternative estimate of total capex for the project.
+Table 5 Assessment of TransGrid's capex components ($m, 2017-18)
+Capex component TransGrid estimate
+(April 2021)  AER estimate Difference
+Lines and substations 1,240.3  1,240.3  0
+Large specialist
+equipment 140.2 140.2 0
+Other construction costs 70.5 63.8 -6.7
+Property and
+easements 135.8 135.8 0
+Environmental offset
+costs (including risk) 166.7 125.0 -41.6
+Project delivery costs 109.6 109.6 0
+Real cost escalation 3.2 3.2  0
+Total project capex 1,866.3 1,817.9  -48.4
+Difference     -2.6%
+Source:  AER analysis.
+Note: Numbers may not add up due to rounding.
+We were supported by our consultants, EMCa, which applied its technical and
+engineering expertise to examine the capex forecast, identify key areas of
+TransGrid's application that required further analysis, and assess the prudency and
+efficiency of the forecast.
+Our decision has also been informed by submissions from stakeholders and
+TransGrid's engagement with us over the process. This has included responding to
+--- PDF physical page 19 ---
+17
+
+our information requests and providing further information in response to the
+preliminary assessment we published in December 2020. This process has ensured
+we have all the necessary information to make a fully informed decision.
+The remainder of this section sets out our findings in more detail about TransGrid's:
+ tendered costs for transmission lines and substation works
+ other transmission and substation construction cost allowances
+ project delivery costs
+ land and easement purchase costs, and
+ environmental offset costs.
+Tendered costs for transmission lines and substation works
+TransGrid is outsourcing the design, construction and delivery of the New South
+Wales component of Project EnergyConnect to a third party engineering contractor.
+The two tendered components are $1,240.3 million ($2017-18) for transmission lines
+and substation works, and $140.2 for the purchasing of large specialist equipment.
+These comprise 74 per cent of the total project costs.
+These costs reflect the outcome of a competitive tendering and procurement
+process TransGrid has been conducting since 2019. As a result of its tendering
+process, it has chosen a single supplier to undertake all the necessary works (and
+purchasing of materials and equipment) under a fixed price design, engineering and
+construct contract. TransGrid is currently finalising the project design and regulatory
+approvals, and is expecting to execute a fixed price design and construct contract
+with its preferred contractor shortly, subject to this determination.
+We consider that the majority of TransGrid's forecast capex for transmission lines
+and substations is likely to reasonably reflect the efficient costs that would be
+incurred by a prudent operator. This is because:
+ TransGrid's forecast capex is the result of a comprehensive and competitive
+tendering process which means that the materials and construction costs have
+been market tested and reflect a realistic expectation of costs that can be
+delivered.
+ TransGrid's proposed scope of works that are reflected in the tendered costs is
+appropriate and reflects refinements in line route, cost-efficient design and
+construction techniques, and lower costs for large specialist equipment than
+TransGrid could achieve itself.
+Despite this, however, we note that TransGrid's forecast capex for transmission
+lines (which comprises the majority of the costs) are higher than some comparable
+benchmarks. Specifically, when we compare TransGrid's forecast capex per
+kilometre of line, it is higher than ElectraNet's component of Project EnergyConnect
+and higher than benchmarks from Jacobs' Transmission Line Cost Review that it
+undertook for ElectraNet.
+--- PDF physical page 20 ---
+18
+
+There are likely multiple reasons why TransGrid's costs are higher than comparable
+benchmarks, including the specific line route, line deviation, topographical and
+geotechnical issues, construction techniques, and other factors
+One potentially important reason is TransGrid's project delivery model and contract
+it proposes to enter into with the successful tenderer. As noted, TransGrid proposes
+to enter into a fixed-price contract with a single supplier to design, procure and
+construct all of the required works. This is effectively a 'turn-key' project in which the
+contractor will procure all materials and equipment, construct the necessary
+infrastructure, and deliver the completed product to TransGrid. TransGrid's
+responsibilities will be limited to high level design, contractual oversight, regulatory
+approvals, land access, and integration.
+This is a conservative approach to contracting as it transfers the majority of risk to
+the contractor. This will provide cost certainty and reduce delivery risk for both
+TransGrid and consumers. However, it likely increases tendered costs because the
+contractor will instead bear procurement and construction risk. Alternative
+contracting approaches may lower tendered costs but would potentially increase
+TransGrid's own costs (including overheads and contract management) and risk.
+This may be reasonable where it efficiently balances risk such that the party most
+able to bear a specific risk should incur the costs. For Project EnergyConnect, this
+contracting model may be appropriate for TransGrid given that it is relatively
+inexperienced in delivering a project as large and complex as Project
+EnergyConnect. It may also have reduced TransGrid's own project delivery costs,
+when compared to alternative project delivery and contracting models.
+However, based on the information available to us, we are not able to identify the
+quantum of project risk held by the contractor and its forecast costs for specific
+items and responsibilities. This means we cannot effectively assess whether
+contractor risk is potentially driving higher transmission line costs, and how the
+quantum of risk is being shared between the contractor and TransGrid.
+We recognise that given the contracts were entered into following a competitive
+tender process, any risk premium included in the contracted prices will at least
+reflect the lowest efficient amount that the contractors are willing to bear.
+TransGrid's approach also in large part protects consumers from the risk of project
+cost overruns due to poor project delivery or unforeseen events. On balance, our
+view is TransGrid's tendered costs are likely to reasonably reflect the prudent and
+efficient costs required to deliver the project.
+Other transmission and substation construction costs
+In addition to the tendered costs for the transmission lines and substation works,
+TransGrid's April 2021 proposal included $70.5 million in other construction costs
+that it considers may be incurred in the construction of Project EnergyConnect, but
+which were not included in the bidder’s proposal. This includes:
+ $43.7 million in 'other construction costs'. This includes allowances for
+construction delays (e.g. Covid-19, extreme weather, unforeseen environmental
+--- PDF physical page 21 ---
+19
+
+approval requirements, EIS approval delay, micro-siting alignment issues, track
+possessions delays and baseline planning conditions), as well as project
+commissioning and safety and quality assurance program costs.
+ $26.8 million as for route deviations. This amount reflects an estimate of the
+capex to construct transmission lines in a different alignment to those considered
+in the original tendered costs, based on the need to avoid specific land for
+environmental, cultural heritage or other concerns.
+These costs largely reflect allowances for risk and uncertainty (with the exception of
+commissioning and safety and quality assurance program costs).
+TransGrid accepted our revised estimates of other construction costs
+TransGrid's initial application proposed $58.2 million for other construction cost
+allowances that were not included in the preferred tenderer's bid.
+In our December 2020 preliminary assessment, we considered that it was
+reasonable for TransGrid to include allowances for these types of costs in its
+forecast. However, these costs largely reflected allowances for risk and uncertainty,
+and we considered that TransGrid had not quantified these costs in a way that
+prudently reflects the nature of the risk. In particular, it had not consistently
+quantified the costs in a probabilistic way by assessing both the cost of the identified
+consequence and the likelihood of the cost being incurred.
+We considered that assigning a probability weighting to these risk costs would result
+in a more reasonable estimate of prudent and efficient costs. We reviewed the basis
+for the proposed cost allowances and applied a probabilistic assessment of known
+risks associated with the proposed costs that reflects the stage of the project in the
+delivery cycle and complexity of the works involved for this project.
+Our alternative estimate was $43.7 million for other construction cost allowances.
+TransGrid has accepted the approach we adopted in our preliminary assessment
+and our revised estimates for the other construction cost allowances.
+TransGrid provided updated information about expected route deviations
+TransGrid's initial application also proposed $30 million for potential route
+deviations. TransGrid reduced this forecast to $26.8 million in its revised proposal.
+TransGrid provided information about actual or expected route deviations that it has
+identified as it progressed the design and planning of the project with its preferred
+contractor. Specifically, TransGrid has identified route deviations that are, or are
+expected to be, required due to community concerns in the more highly populated
+areas of the route near Wagga-Wagga.
+In addition, TransGrid's application stated that there was a risk that route deviations
+may be required in the preceding sections of the project route. While it did not
+provide information about expected deviations or community opposition in specific
+sections of the route, it proposed a general allowance to account for the risk that
+additional deviations will be required.
+--- PDF physical page 22 ---
+20
+
+In May 2021, TransGrid provided further information about actual route deviations
+that had been identified on these preceding sections of the line. It identified seven
+deviations that were required to minimise environmental disturbance or a land use
+conflict.
+We consider that this additional information provides a more accurate picture of the
+costs that will be required for known and expected deviations on the project route,
+and we have incorporated this into our forecast capex for the project. Our capex
+forecast differs from TransGrid's by $6.7 million as it accounts for the most recent
+estimates of route deviations, as opposed to a general allowance that does not
+reflect the actual conditions or expected risks.
+Project delivery costs
+TransGrid forecasts $135.6 million ($2017-18) in project delivery overhead costs for
+its component of Project EnergyConnect. This is comprised of:
+ $97 million in forecast staffing for project development and delivery (including
+actual costs incurred to date for design and procurement)
+ $27 million in land and environmental management (including stakeholder
+engagement)
+ $12 million in bidder payments (compensation to unsuccessful tenderers).
+We have benchmarked TransGrid's project delivery costs because they are most
+comparable to TransGrid’s overheads on historical projects. As shown in Figure 1,
+TransGrid’s project delivery costs for Project EnergyConnect are significantly less
+than the forecast project delivery costs on its recent QNI Minor project, as well as its
+annual capitalised overheads.
+Figure 1 Capitalised overheads as proportion of total capex (TransGrid)
+
+Source:  TransGrid, ElectraNet, AER analysis.
+Land and
+environment
+Bidder payments
+0%
+1%
+2%
+3%
+4%
+5%
+6%
+7%
+8%
+9%
+10%
+PEC (TransGrid) PEC (ElectraNet) QNI (TransGrid) TransGrid (annual
+capex)Project Delivery
+--- PDF physical page 23 ---
+21
+
+These results are consistent with our expectations of forecast project delivery costs
+from a prudent operator in these circumstances. While the project is more complex
+than a typical brownfields project in terms of planning and project management, this
+is offset by the size of the project and the ability to spread fixed costs over a larger
+amount of material and contracting costs. This is also consistent with ElectraNet’s
+forecast project delivery costs for its component of Project EnergyConnect, which
+are likely higher than TransGrid’s in part due to its smaller total project costs.
+We also sought advice from EMCa to examine TransGrid's assumptions about
+project staffing, forecast unit costs (e.g. wages and corporate overheads) and its
+project delivery plan. This supported our top-down benchmarks by reviewing the
+forecast from a bottom-up perspective. EMCa found that TransGrid's labour and
+labour-related costs were reasonably estimated. However, it did observe that
+TransGrid's labour rates appear to be at the higher end of an acceptable range, and
+that some of its resource profiles may be biased towards overstatement of actual
+needs.
+Land and easement acquisition
+TransGrid has forecast $109.6 million ($2017-18) in capex for the purchase of new
+easements, land for substations, and associated costs relating to compensating
+landowners along the route between the South Australian border and Wagga-
+Wagga. This comprises 5.8 per cent of total project forecast capex.
+We have reviewed these costs by examining the basis of estimate and the various
+assumptions. We found that the majority of the easement and land acquisition costs
+are likely reasonably estimated, and are supported by independent data on land
+valuations in New South Wales. In particular, TransGrid's estimated market value of
+land is consistent with land sales in similar regions of New South Wales as
+contained in the NSW 2019 Australian Farmland Values report from the Rural Bank.
+In addition to the market value of land, TransGrid’s forecast includes a $19.8 million
+contingency for negotiating with landowners to secure easements at above market
+rates. This is a reduction from $29.9 million in its September 2020 proposal.
+TransGrid's primary reason for including a negotiating allowance is the desire to
+avoid compulsory acquisition of property along the route. TransGrid considers
+compulsory acquisition will be detrimental to relationships with landowners and may
+delay project construction. In the absence of compulsory acquisition, TransGrid will
+negotiate with landowners on a commercial basis to reach agreement.
+TransGrid's negotiating allowance is informed by advice from its property consultant
+about the average negotiating margin required to secure land and avoid compulsory
+acquisition. This is informed by case studies from land acquisition costs in other
+infrastructure projects, as well as the value of land TransGrid has already been able
+to acquire for the project to date. While TransGrid's proposal is informed by this
+advice, TransGrid adopts a lower negotiating margin than its consultant.
+--- PDF physical page 24 ---
+22
+
+TransGrid has been able to negotiate acquisition of, or access to, up to 40 per cent
+of required land and easements for the project to date. This land is primarily in the
+western sections of the route which TransGrid has prioritised through its early
+engagement and investigations processes. TransGrid has sought confidentiality
+over the actual agreed values and as such we will refer to the outcomes in more
+general terms as relevant.
+The majority of the value of the land that TransGrid has negotiated access to was
+agreed to at rates above estimated market value. However, the negotiated margins
+above market value were less than half of the margins included in TransGrid's
+proposal, on average.
+In PIAC's submission to TransGrid's revised proposal, it stated:
+PIAC also does not support TransGrid’s proposed increased allowance for
+land and easement costs. We consider a case has not been made to
+provide an allowance beyond the AER’s preliminary position based o n the
+average actual margin of land TransGrid has already acquired along the
+route.
+PIAC agrees with TransGrid that being able to negotiate with landholders to
+acquire the necessary property and easements for PEC is preferable to
+compulsory acquisition of  property. However, we question whether it is
+appropriate for NSW consumers to bear costs above market price for such
+negotiated outcomes given the primary direct beneficiary of this relationship -
+building approach is TransGrid.
+We agree that TransGrid is best placed to negotiate access to property and
+easements with landowners, and that it should not be compensated for costs above
+what is prudently required to meet the needs of the project. In our December 2020
+preliminary assessment, we considered that a negotiating margin that reflected the
+actual land agreements obtained to date was appropriate.
+However, we recognise that the actual costs of acquiring land will depend on the
+outcome of the negotiations, and it may be higher than what has been observed to
+date. If these costs are necessary to prudently avoid compulsory land acquisition,
+this will be in the interests of consumers as it will avoid project delay.
+TransGrid's consultant considered that there are reasons to suggest that the final
+negotiated land values will be significantly higher than what has been observed to
+date. Specifically:
+ The negotiation margins have increased over time as TransGrid settles more
+agreements, and the proportion of higher margin settlements has also increased.
+If the observed trend continued, then the negotiated land values across the
+entire route may be higher than TransGrid's proposal.
+ The remaining sections of the route are closer to the higher value, higher
+populated and more intensively used sections of the network. It expects to
+experience higher landowner opposition and therefore higher negotiating
+premiums to secure land.
+--- PDF physical page 25 ---
+23
+
+ Anecdotal evidence from other infrastructure projects, including transmission
+network service providers in Australia, suggests that high land values are
+common to incentivise landowners to enter into timely agreements.
+We consider that TransGrid's allowance for land negotiations is likely at the higher
+end of a reasonable range. The actual agreements obtained to date are lower than
+TransGrid's proposal. However, there is a reasonable prospect that TransGrid will
+overall be required to pay higher land values to secure land in a timely fashion and
+avoid compulsory acquisition or additional route deviations. This will likely benefit
+consumers where it avoids project delay or additional project costs.
+Environmental offsets
+TransGrid’s forecast includes capex to offset the biodiversity impact arising from the
+construction of the project. This is required under the Biodiversity Conservation Act
+2016 (NSW), the Environment Protection and Biodiversity Conservation Act 1999
+(Cth), and associated regulations.
+The environmental impact of the project is determined by a credit system, where
+credits are generated when land is disturbed. The amount of biodiversity credits will
+be determined by the New South Wales Department of Planning, Industry and
+Environment (DPIE) based on an application from TransGrid.
+The environmental credit liabilities are resolved when equivalent credit offsets are
+obtained either through the offsets register, when a protected area of land is
+established (called a Biodiversity Stewardship Agreement or BSA), and/or through
+payments into a biodiversity conservation fund.
+TransGrid’s revised capex forecast includes $148.2 million ($2017-18) for its
+environmental offset costs. This reflects TransGrid's estimate of the costs to acquire
+and establish BSA land, as well as payments into the biodiversity conservation fund.
+TransGrid also proposed an additional $18.5 million for biodiversity risk costs.
+We consider that a reasonable estimate of likely costs required for environmental
+offsets is $125 million ($2017-18). In coming to this position, we have considered
+the offset information contained in the documents submitted to us by TransGrid in its
+contingent project application, as well as more recent information and detailed offset
+estimates provided to us by TransGrid and contained in environmental reports
+related to this project.
+Our capex estimate is lower than what was proposed by TransGrid because:
+ we accounted for updated capex estimates we received from TransGrid and its
+consultant since it submitted its revised proposal, which accounted for the
+impact of more recent field survey results
+ we accounted for more accurate estimates of BSA land values compared to what
+was adopted by TransGrid in its forecast
+ we did not include an allowance for additional environmental offset risk.
+--- PDF physical page 26 ---
+24
+
+We also note that our assessment of required capex is materially higher than our
+preliminary assessment. Our preliminary assessment was informed by the
+information available at the time about TransGrid's likely environmental obligations
+and the likely capex required to meet these obligations. However, the information
+TransGrid has provided as part of its revised proposal and in response to further
+information requests provides us with a more accurate representation of its likely
+regulatory obligations and the efficient estimate of the expected capex.
+TransGrid has established the need to offset environmental impacts
+The forecast capex for environmental offsets is primarily driven by the need to offset
+an amount of biodiversity credits generated by the project.
+TransGrid's forecast is informed by field surveys undertaken by environmental
+consultants WSP. They undertook studies that identified a range of scenarios of
+environmental impact of the project along the proposed route, and their likely impact
+in terms of the estimated types and amounts of environmental credits.
+As noted above, the actual amount of biodiversity credits that TransGrid will need to
+offset will be determined by the New South Wales DPIE, based on an application
+from TransGrid. TransGrid and its consultant WSP have adopted a strategy that
+separates the proposed project into the western and eastern sections of the route,
+and progressed its environmental studies and regulatory approvals separately. It
+expects to achieve final regulatory approvals by mid-to-late 2022.
+WSP’s initial reports describe its assumptions in relation to clearance impacts and
+environmental credits as conservative, and intended to be replaced with more
+accurate estimates as they undertake field work and studies. The forecast estimates
+of environmental disturbance and credits has been updated over time and now
+provide a reasonably realistic estimate. In particular:
+ In November 2019, WSP conducted an initial desktop study based on a
+preliminary project route and mapping of expected environmental impacts using
+established biodiversity databases.
+ In October 2020, TransGrid provided the New South Wales DPIE with its draft
+assessment of the environmental impact on the western section of the route,
+which reflected completed field surveys and a refined project route. This was
+contained in a draft Biodiversity Development Assessment Report (BDAR).
+ In April 2021, TransGrid submitted an updated BDAR for the western section of
+the route which accounted for feedback from the New South Wales DPIE, and
+further refinements to the construction plan. This increased the western credit
+liability estimates by 30 per cent.
+ In its April 2021 revised proposal, TransGrid provided an update on the
+estimated environmental credit on the eastern section of the route, reflecting the
+updated information incorporated into the western section. However, it did not
+account for any further field surveys.
+--- PDF physical page 27 ---
+25
+
+ In May 2021, TransGrid provided the results of updated field survey results on
+the eastern section of the network. It had completed 70 per cent of the surveys
+of vegetation ecosystems and 50 per cent of endangered species. These field
+surveys supported an eastern credit liability that was double the initial desktop
+surveys.
+In our December 2020 preliminary assessment, we noted that the amount of
+biodiversity that had been verified by field surveys at that time supported a lower
+estimate of environmental credits. However, the updated information that TransGrid
+has received has substantially increased the estimate of the likely environmental
+impact of the project and provides a more accurate representation of the amount of
+environmental credits it will be required to offset.
+We recognise that the actual credit liability that will be established by the New South
+Wales DPIE is not yet known. However, as TransGrid's May 2021 estimate is
+informed by significant field surveys and feedback from the DPIE on the draft
+environmental assessment of the western section of the project, we consider that
+this estimate provides a reasonable indication of TransGrid's likely regulatory
+obligation. This conclusion is supported by EMCa's review of this aspect of
+TransGrid's revised application.6
+TransGrid adopts a prudent capex strategy
+TransGrid's April 2021 proposed forecast for environmental offsets capex is
+comprised of three separate elements:
+ $80.1 million to cover the costs of acquiring and managing land for BSAs
+ $46.2 million for payments into the biodiversity conservation fund to cover
+disturbance to vegetation ecosystems that cannot be offset through land, and
+ $21.9 million for payments into the biodiversity conservation fund to cover
+disturbance to endangered species that cannot be offset through land.
+TransGrid's capex is informed by advice from its environmental consultant WSP on
+the strategy to adopt to offset the expected environmental credits and the costs of
+doing so. As noted previously, TransGrid has a number of options available to
+resolve its obligations, including establishing protected areas of land, or paying into
+a conservation fund, or obtaining offsets from an established register. The costs of
+paying into the conservation fund is generally the most expensive approach.
+We consider that TransGrid has adopted a prudent strategy that attempts to
+minimise costs by seeking to identify available land to offset its environmental
+credits, and only pay into the fund where land cannot be identified (or where specific
+land is otherwise more expensive than the fund payments).
+
+
+6  EMCa, Review of Aspects of Environmental Offset Forecast Capex, May 2021, p. 8.
+--- PDF physical page 28 ---
+26
+
+TransGrid and WSP have to date identified up to twelve different parcels of land that
+may be suitable for establishing protected land. Based on WSP's estimate of the
+specific environmental credits that need to be offset, it then selected four of these
+land parcels as being appropriate to maximise the use of land to meet its credit
+liabilities, and minimise the cost of payments into the fund. It has not been able to
+identify land that would be suitable to offset the entirety of the environmental impact.
+The proposed strategy to acquire four parcels of land to meet a large proportion of
+its estimated offset liability saves up to $135 million in total payments into the fund.7
+This is a significant amount of savings and reflects a prudent strategy.
+Furthermore, the specific land that TransGrid and WSP identified is also the land
+that maximises these savings, as other land options are more expensive or offset
+fewer environmental credits and therefore require more payments into the fund.8
+This is illustrated in WSP's September 2020 report, which examined the incremental
+savings from different land options. As shown in Table 6, the addition of two land
+parcels identified as "12 and 8" maximised the potential savings relative to other
+land options. These two land options are reflected in the forecast capex.
+Table 6 Environmental offset savings from different land options —
+WSP September 2020 report
+
+Source:  WSP, Biodiversity Memo, September 2020, p. 12.
+While TransGrid has proposed a prudent strategy to meet its environmental
+obligations, we explored further opportunities to reduce forecast capex so that it
+reflected a reasonably realistic estimate of the expected costs.
+In May 2021, we discussed with TransGrid further opportunities to minimise the
+residual amounts forecast to be paid into the fund based on the findings from the
+
+
+7  WSP, Response to AER preliminary position TransGrid Contingent Project EnergyConnect December 2020 –
+Environmental Offset Costs, 23 March 2021, p. 21
+8  As shown in Table 4.3 of WSP's September 2020 memo, the land options of 12 and 8 maximise the savings
+from the alternative of paying solely into the fund to meet the credit liability. These land parcels     WSP memo
+27 August 2020, Table 4.3, p. 12
+
+--- PDF physical page 29 ---
+27
+
+most recently completed field surveys. In response, TransGrid’s consultant reduced
+its estimate of the fund payments for ecosystem credits, reducing the forecast capex
+for ecosystem fund payments by $15.2 million. This reduced its forecast
+environmental offset capex to $134 million ($2017-18).
+We also examined the unit costs inputs for land and fund payments.
+The forecast costs of paying into a fund were estimated using actual credit prices
+that are published in the New South Wales biodiversity offset payment calculator,
+and likely reflect a realistic estimate of the cost of paying into the fund. However, the
+forecast costs of acquiring and managing land are based on estimated land values.
+TransGrid has already negotiated an agreed price for acquiring two of the required
+land parcels. The price for acquiring the remaining two land parcels is based on an
+assumed average land price from WSP. While WSP's average price is broadly
+consistent with the average price of land in that region of New South Wales, we
+have available more specific estimates of the land values from TransGrid's property
+consultant (which were originally provided to estimate the land required for
+easements). The estimated value of the land is lower than the average value
+estimated by WSP by approximately $9.5 million. This conclusion is supported by
+EMCa's review of this aspect of TransGrid's revised application.9
+TransGrid has stated that adopting the estimated costs of acquiring the actual land
+parcels identified, rather than an average cost, will result in an allowance that will be
+materially lower than its actual costs. It noted that it has not yet progressed
+negotiations on the identified land and, at this stage, all of the twelve land options
+are equally likely to be progressed. The expected average cost of these land options
+is higher than the preferred parcels that comprise TransGrid's capex forecast. It may
+also consider alternative options that are further afield of the expected impact sites.
+While we accept that TransGrid may not obtain access to its preferred land parcels
+and its actual costs will be different, this would not necessarily be the prudent
+outcome. As noted above, the chosen land parcels are those that maximise the
+savings to consumers as it avoids paying higher costs into the conservation fund. If
+an alternative average land valuation was adopted instead, TransGrid would also
+need to consider whether the use of alternative land options would otherwise
+increase total capex as more payments may be needed into the conservation fund.
+We also note that TransGrid's land value costs could be lower than forecast if it
+identified additional cheaper land options through further field research and/or
+additional land that has may offset a higher amount of environmental credits.
+
+
+
+
+9  EMCa, Review of Aspects of Environmental Offset Forecast Capex, May 2021, pp. 14-15.
+--- PDF physical page 30 ---
+28
+
+An allowance for biodiversity offset risk is not justified
+TransGrid’s revised application included $18.5 million capex for biodiversity offset
+risk. This reflects the risk that TransGrid will not be able to identify and establish
+suitable protected land for the eastern section of its route and will need to rely wholly
+on fund payments to meet its credit liabilities. It estimates that there is a 20 per cent
+likelihood that it will need to pay wholly into the conservation fund.
+TransGrid considers its revised capex forecast to be conservative because it is
+calculated based on one risk only and does not include any risk costs for the
+western section.10 TransGrid submitted that its environmental offset costs are
+beyond its control because the credit liability is determined by the New South Wales
+DPIE. TransGrid further submitted that it needs to acquire land sites to offset the
+credit liability, which will depend on the availability of suitable like-for-like sites as
+well as the willingness of landowners to enter into agreements.
+As we noted above, we accept that there is some risk that TransGrid may not be
+able to establish suitable land agreements, although this this would likely not be a
+prudent outcome. TransGrid has currently identified the prudent option that
+maximises the potential cost savings to consumers. TransGrid should only be
+compensated for the likelihood that these costs will increase where it is outside its
+control and necessary to meet its regulatory obligations.
+The risk that TransGrid will not be able to acquire the land necessary to meet its
+regulatory obligations prudently is a delivery risk that is within its control. This is
+acknowledged by a review of TransGrid's capital expenditure by HoustonKemp,
+which stated:
+TransGrid does have control over its negotiations with landowners to enter
+into BSAs, which is one of the factors that will determine biodiversity cost
+outcomes.
+TransGrid can mitigate this risk through early engagement with landowners, but has
+chosen not to do so. The specific land that WSP has identified as optimal to offset
+the expected environmental disturbance was originally identified in 2019.11 It
+appears TransGrid has not taken further actions since this time to engage with the
+landowners and potentially negotiate options to acquire this land, despite this being
+a relatively low cost activity that would significantly reduce its expected costs.
+Furthermore, we consider there are likely opportunities for TransGrid to reduce,
+rather than increase, its overall environmental offset capex and this balances the
+need for any risk allowance. These opportunities include:
+
+
+10  TransGrid, Project EnergyConnect Contingent Project Application – Revised Capex Application, 30 April 2021,
+p. 27.
+11  WSP, Revised estimate of EnergyConnect Biodiversity Offset Liability and Update to Strategy,
+9 September 2020, p.16.
+--- PDF physical page 31 ---
+29
+
+ Identifying other land options that are lower in costs or provide greater potential
+to offset environmental credits (as previously noted).
+ Maximising the use of identified land to meet credit liabilities that are intended to
+be paid into the fund.
+ Reducing or mitigating its environmental impact such as through the route
+deviations already identified, and micro-sitting.
+ Trading and selling its credits to further reduce costs, and using the existing
+offsets register, as allowed under the NSW legislation.
+4.2 Forecast of operating expenditure
+Table 7 sets out our determination of the incremental opex for each year of the
+2018–23 regulatory control period. TransGrid's forecast opex for Project
+EnergyConnect is $2.5 million over the 2018–23 regulatory period.
+We have made no adjustment to TransGrid's proposed incremental opex in its
+application. TransGrid's incremental opex is minimal given that the interconnector
+will be under construction, and will enter service, at the end of the current regulatory
+period. Future maintenance and other opex associated with the new assets will be
+recovered in future regulatory periods.
+Table 7 Proposed incremental opex forecast ($m, 2017-18)
+ 2018-19 2019-20 2020-21 2021-22 2022-23 Total
+Total opex -  0.0  0.1  0.5  1.9  2.5
+Source:  TransGrid's contingent project application.
+4.3 Application of expenditure incentive schemes
+The forecast capex approved in this determination will be added to the target capex
+for the capital expenditure sharing scheme (CESS) and the target opex for the
+efficiency benefit sharing scheme (EBSS).
+Under the schemes that apply to TransGrid over the 2018–23 regulatory control
+period, target capex and opex allowances are based on our approved allowance (as
+determined prior to the start of the regulatory control period), plus any adjustments
+we allow for contingent projects.12 Any incentive rewards and penalties TransGrid
+receives as a result of under or overspending on the project would be applied as
+additional revenue adjustments in the next regulatory control period.
+
+
+12  AER, Better regulation: Capital expenditure incentive guideline for electricity network service providers,
+November 2013, p. 6.
+--- PDF physical page 32 ---
+30
+
+TransGrid’s revised proposal requested that the environmental offsets component of
+projects costs be excluded from the application of the CESS, if the AER were to not
+apply a risk allowance for environmental offsets in its determination.
+We are not able to make a decision on whether and how the CESS will apply as part
+of the contingent project decision. The scope of contingent project decisions is
+limited to only varying the revenue determination to the extent necessary to adjust
+forecast capex, opex and revenue.13 The decision on the rewards or penalties
+applied under the CESS as a result of expenditure in the 2018–23 regulatory control
+period will be made at the time of the next revenue determination.
+Our preference is to apply the CESS where possible, and provide for a prudent and
+efficient forecast of all project costs consistent with the intent of the ex-ante
+framework, with actual capex rolled into the RAB at the end of the regulatory control
+period. This is important to maintain incentives on TransGrid to minimise its costs,
+including on environmental offsets.
+
+
+13  NER, cl. 6A.8.2(h).
+--- PDF physical page 33 ---
+31
+
+ Calculation of incremental allowed revenues
+This section calculates the incremental revenue that TransGrid would recover from
+customers to account for our determination of efficient project costs. We have
+applied an annual building block revenue approach, in accordance with clause
+6A.8.2(h) of the NER. TransGrid's application is consistent with this approach.
+Table 8 shows that TransGrid is entitled to recover $61.5 million ($ nominal) in
+additional revenues from customers over the 2018–23 regulatory control period.
+As a result of recovering these revenues, we estimate that the transmission
+component of average residential electricity bills in New South Wales will increase
+by $11 in 2022-23 and by $22 per year for the 2023–28 regulatory control period.
+Table 8 Incremental revenue calculation ($m, nominal)
+
+2018–19 2019–20 2020–21 2021–22 2022–23 Total
+Return on capital 0.0 1.3 2.8 16.6 75.4 96.1
+Return of capital  0.0 –0.1 –0.7 –6.4 –30.7 –37.8
+Straight-line depreciation 0.0 0.4 0.4 0.4 0.5 1.8
+Less: inflation indexation on
+opening RAB 0.0 0.5 1.1 6.9 31.1 39.6
+Operating expenditure 0.0 0.0 0.1 0.6 2.2 2.9
+Revenue adjustments 0.0 0.0 0.0 0.0 0.0 0.0
+Net tax allowance 0.0 –0.6 –0.6 –0.3 0.8 –0.7
+Annual building block
+revenue requirement
+(unsmoothed)a 0.0 0.7 1.6 10.5 47.7 60.5
+Annual expected
+maximum allowable
+revenue (smoothed) 0.0 0.0 0.0 0.0 61.5 61.5
+Increase to annual
+expected MAR
+(smoothed) (%)
+0.0% 0.0% 0.0% 0.0% 7.2% 1.6%
+Source:  AER analysis.
+Note: The incremental revenue requirements for 2019–20, 2020–21 and 2021–22 do not flow into the expected
+MAR for these years and are instead smoothed into the expected MAR for 2022–23.
+  The return of capital or regulatory depreciation is e qual to the straight-line depreciation less the inflation
+indexation on the opening RAB. The straight -line depreciation increases from 2019 -20 due to increased
+2018-19 equity raising costs. The inflation indexation on opening RAB increases from 2019-20 due to the
+as-incurred PEC capex which begins to enter the RAB from the end of 2018-19.
+--- PDF physical page 34 ---
+32
+
+Table 9 shows the effect of the resultant incremental increase in revenues on
+TransGrid's total annual building block revenue requirement (unsmoothed),
+expected maximum allowable revenues and the X-factor for each regulatory year of
+the remainder of the regulatory control period.
+Table 9 Annual building block revenue requirement, expected MAR
+and X-factors ($m, nominal)
+ 2018–19 2019–20 2020–21 2021–22 2022–23 Total
+Annual building block
+revenue requirement
+(unsmoothed)
+
+734.3
+
+776.4
+
+786.8
+
+817.2
+
+876.5
+
+3,991.2
+Annual expected MAR
+(smoothed)
+
+734.3
+
+759.5
+
+779.5
+
+809.1
+
+913.4
+
+3,995.8
+X-factors –0.5% –1.0% –0.2% –1.3% –10.2% n/a
+Source: AER analysis.
+Other issues: Asset lives and VNI Minor Capex
+Standard asset life for ‘Equity raising costs' asset class
+We have applied an updated standard asset life of 40.3 years to the 'Equity raising
+costs' asset class for regulatory depreciation purposes. This reflects our approach
+from the preliminary position which TransGrid adopted for its revised proposal.
+Using this approach TransGrid calculated a standard asset life of 40.4 years in its
+revised proposal. TransGrid's revised proposal also adopted a slight amendment we
+made in our preliminary position to the weighted average calculation.
+We calculate the standard asset life of equity raising costs by taking the weighted
+average (by forecast net capex) of the standard asset lives for each depreciating
+asset class over the 2018–23 regulatory control period. This reflects the lives of the
+mix of assets making up the forecast net capex, because the equity raising cost
+benchmark is associated with that forecast. While TransGrid applied this approach
+in its revised proposal, we recalculate the standard asset life because our final
+assessment of forecast capex is different to TransGrid's revised proposal.
+Standard tax asset life for 'Synchronous condensers' asset class
+Our final decision is to apply a standard tax asset life of 30 years for the new
+'Synchronous condensers' asset class consistent with our preliminary position.
+TransGrid's revised proposal adopted our preliminary position amendment for this
+standard tax asset life.
+In the preliminary position we amended the tax asset life to 30 years from
+TransGrid’s proposed standard tax asset life of 40 years. We consider 30 years is
+consistent with the effective life for condensing assets for tax purposes as
+--- PDF physical page 35 ---
+33
+
+determined by the ATO.14 We consider that the standard tax asset life for the
+purpose of calculating the corporate income tax building block should be consistent
+with the relevant tax ruling for depreciating assets, which may be different to the
+economic life for regulatory depreciation purposes.
+Expenditure for VNI Minor contingent project
+In TransGrid's revised proposal PTRM, the incremental capex and opex for PEC
+were added to expenditure previously approved for the 2018–23 regulatory control
+period. However, while this previously approved expenditure reflected updates for
+the QNI minor contingent project it did not reflect updates for the more recently
+approved VNI Minor contingent project. We note that while this adjustment does not
+materially impact the incremental revenue, we consider it appropriate to include the
+approved expenditure for the VNI Minor contingent project to calculate the correct
+total forecast revenue. We have therefore amended the relevant inputs to include
+the VNI Minor contingent project expenditure in TransGrid's PTRM for this final
+decision.
+
+
+
+
+
+14  ATO, Taxation Ruling TR2020/3– Income tax: effective life of depreciating assets (applicable from 1 July 2020).
+--- PDF physical page 36 ---
+34
+
+A Submissions
+Interested parties were invited to provide submissions on TransGrid and
+ElectraNet’s initial contingent project applications by 30 October 2020, and on the
+businesses' revised contingent project applications by 17 May 2021. We have
+considered these submissions in the course of our assessment of ElectraNet's
+contingent project application. Table 10 provides a summary of the key issues
+raised in the submissions received and responses to those issues.
+Table 10 Summary of submissions to contingent project applications
+Issue AER consideration
+Project scope not consistent with RIT -T
+
+Sam Trinca
+TransGrid’s contingent project application is not
+consistent with the preferred Option C3, as identified in
+the RIT -T as it involves a new substation at Dinawan
+and does not connect to Darlington Point.
+The benefit of the original route included providing grid
+access to solar farms and avoiding the implementation
+of TransGrid’s western grid stability project.
+The AER should conclude that the relevant 'trigger
+event' for Project EnergyConnect has not occurred,
+given the new option was not identified and developed
+during the RIT-T process.
+We consider that the overall route option presented
+remains consistent with that assessed in the RIT-T,
+being a 330 kV transmission line from Robertstown in
+SA to Wagga-Wagga in NSW, with a 220 kV spur line to
+Red Cliffs in Victoria. The specific line route was not
+determined at the time of publication of the RIT-T project
+assessment conclusions report. Detailed route planning
+and selection is a matter for TransGrid, subject to
+delivering the identified need of the project
+The route refinement through Dinawan is considered by
+TransGrid to be necessary to secure the transmission
+line corridor and of equivalent cost. Bypassing
+Darlington Point involves a shorter line route and is less
+complex in terms of project delivery risk.
+The line route realignment through Dinawan does not
+materially affect the level of benefits of the Project
+assessed in the RIT-T. The scope and cost of the
+proposed solution remains consistent with that required
+to deliver the requirements of the project.
+Addressing network constraints in South Western NSW
+was not an identified need of the South Australian
+Energy Transformation RIT-T. TransGrid has initiated a
+separate RIT-T process to address these constraints.
+As set out in section 2, we are satisfied that all elements
+of the trigger event have occurred.
+NSW and South Australia costs and benefits
+Sam Trinca
+A majority of the benefits of Project EnergyConnect
+accrue to South Australia. However, given that the
+majority of the length of the proposed line lies in NSW, a
+disproportionate share of the costs will ultimately be
+borne by the NSW consumer.
+Public Interest Advocacy Centre
+PIAC recommends revisiting the current inter-regional
+transmission cost allocation to more fairly share costs
+between NSW and SA consumers from Project
+EnergyConnect.
+There is a misalignment between who pays and who
+benefits. Recovering costs from parties on a beneficiary-
+pays basis, and ensuring all groups of consumers
+The RIT-T assesses net benefits to the market, not only
+consumers, or consumers in particular regions.
+The NER do not currently provide for the recovery of
+project costs from generators or other parties.
+Currently, the NER allocate the costs of inter-regional
+transmission investments geographically. We note that
+inter-regional transmission charging and cost recovery
+arrangements continue to be subject to review, however
+amending these arrangements is not within the scope of
+the AER's review of contingent project applications.
+We note that TransGrid and ElectraNet’s modelling of
+customer bill impacts identify a net benefit from the
+project for consumers in both SA and NSW.
+--- PDF physical page 37 ---
+35
+
+exposed to costs receive a material net benefit, must be
+required for large transmission projects. PIAC supports
+urgent regulatory reforms to this end, and delaying
+approval of PEC if needed.
+Benefits of the project
+Major Energy Users
+While supportive in principle, the MEU has concerns
+about the latest information used to justify the long term
+benefits of the project given the current costs.
+It considers that the AER needs to investigate the
+project more fully and get formal stakeholder input into
+whether the project does deliver the net benefits
+claimed, and remains concerned over key inputs such
+as gas prices and discount rates.
+Considers the net benefits of the project are overstated
+and uncertain, and have not been subject to sufficient
+stakeholder review as costs have increased from the
+RIT-T stage.
+AEMO has not completed work reviewing the two unit
+constraint as part of the PSFRR. The absence of this
+review casts doubt on the net benefit of the project.
+Public Interest Advocacy Centre
+PIAC is concerned that the project does not present a
+reasonable “return on investment” for consumers under
+the current regulatory framework. The most recent
+modelling paints a picture of a project with high costs
+and comparatively small net benefits.
+ENGIE
+The latest costs appear to exceed the value of the net
+benefits determined by the AER in the RIT-T. The
+proponents have also claimed additional benefits, with
+TransGrid submitting a report from FTI Consulting that
+assessed so-called “wider benefits”. ENGIE is
+concerned over the sharp rise in costs on the project
+and urges the AER to do whatever it can within its
+powers to impose appropriate cost discipline on the
+proponents and ensure only efficient costs are allowed.
+Origin
+Capital costs have risen and the net benefits of the
+project are now marginal at $148 million in the central
+scenario, with the breakeven cost of the project being
+$2.7 billion. This implies that an 11% increase in costs
+would make the interconnector uneconomic.
+It is important that the AER is confident that the latest
+cost estimates are robust and reasonable given the
+updated analysis was not carried out under the full
+robustness of the RIT-T process.
+Reach Solar
+Continues to support PEC and the assessment of
+continued net benefits of the project, which it considers
+are likely to be understated.
+Acciona
+Strongly supports Project EnergyConnect and considers
+that its timely approval and construction is key to
+unlocking future renewable energy projects in NSW and
+
+If a material change in circumstances occurs which, in
+ElectraNet's reasonable opinion as the project
+proponent, means that Project EnergyConnect is no
+longer the preferred option, then the NER requires
+ElectraNet to reapply the RIT-T unless the AER
+determines otherwise.
+On 23 February 2021, AEMO published a letter setting
+out its assessment of the impact of a number of recent
+policy announcements, as well as the impact of
+assumptions on the requirements for synchronous
+generating units in South Australia. AEMO's letter
+concluded that the project is still expected to deliver net
+markets benefits.
+On 31 March 2021, ElectraNet published a review of
+whether the recent developments could result in a
+material change of circumstances under the NER that
+may lead to the project no longer being the preferred
+option. ElectraNet's assessment concluded that the
+announcements were likely to have an overall positive
+impact on the modelled net benefits of the project, and
+that it is not reasonably likely that there has been a
+material change of circumstances.
+We have reviewed the prudent and efficient costs of
+delivering the project in accordance with the contingent
+project assessment process under the NER. We do not
+accept TransGrid's proposed forecast capex and have
+estimated a different forecast which we consider
+reasonably reflects prudent and efficient costs. Our
+forecast is approximately 2.6 per cent lower than
+TransGrid's estimate.
+--- PDF physical page 38 ---
+36
+
+SA, including the South-West REZ where Acciona has a
+proposed 1.5GW hybrid renewable energy project.
+The ability to progress the South-West REZ renewables
+project is constrained by the lack of certainty on the
+timeframe for delivery of Project EnergyConnect, and
+Acciona would welcome its timely approval.
+Business SA
+Supportive of the project proceeding on the basis of
+benefits of greater sharing of resources across the NEM
+and additional capacity for renewable generation
+connections
+Risk and cost sharing
+Public Interest Advocacy Centre
+PIAC recommends examining alternative options for risk
+and cost allocation for the project in order to allocate
+risks to parties better able to manage them and to
+recover costs on a more beneficiary-pays basis.
+Consumers are not well-placed to manage the risk of
+cost increases or the failure to deliver the modelled
+benefits of Project EnergyConnect. An alternative could
+include PIAC’s risk and cost sharing model for
+Renewable Energy Zones to recover some costs from
+connecting generators as Project EnergyConnect is
+expected to enable new renewable generation
+connection along its path.
+Major Energy Users
+Considers the Capital Expenditure Sharing Scheme
+should be applied to PEC, but independently such that
+underspends in other areas cannot be used to ‘hide’
+overspends on PEC.
+Energy Users' Association of Australia
+The AER should ensure the proponents bear their
+appropriate share of the project’s risk. Consumers have
+no ability to mitigate those risks and are left with paying
+the increased costs from poor project management.
+We note that there is currently no provision for the
+recovery of the costs of the project from generators or
+other parties under the rules applicable to our
+determination on the Project EnergyConnect contingent
+project.
+The CESS will apply to expenditure by the businesses
+on Project EnergyConnect, in accordance with their
+current revenue determinations and version 1 of the
+CESS. It is not open to the AER to apply version 1 of the
+CESS in the manner proposed by the MEU. The CESS
+is intended to balance incentives for businesses to
+achieve efficiencies across a regulatory control period,
+and encourage efficient expenditure within the overall
+total capex allowance. The CESS is able to account for
+proposals for material capex deferrals across regulatory
+periods to help ensure businesses are not rewarded for
+efficiencies not achieved.
+Biodiversity risk costs
+
+ENGIE
+ENGIE is interested to understand the appropriateness
+of TransGrid’s claim for “biodiversity risk costs” and
+ElectraNet’s for “project risk”.
+As discussed in section 4.1, we assessed the prudent
+and efficient costs TransGrid requires for environmental
+offset costs. We considered further information provided
+by TransGrid since it submitted its revised proposal,
+including the impact of further completed biodiversity
+field survey results. We have also accounted for more
+accurate information about some of the cost inputs for
+environmental offsets, including land valuations.
+However, we have not included any additional
+allowances for project risks for environmental offsets, as
+we consider that our forecast of capex provides for
+TransGrid's prudent and efficient project costs and
+TransGrid is best placed to mitigate the likelihood of
+additional costs being incurred in project delivery.
+Land and easement purchase costs
+
+Public Interest Advocacy Centre
+PIAC does not support TransGrid’s proposed increased
+allowance for land and easement costs. It considered
+that a case has not been made to provide an allowance
+As discussed in section 4.1, we consider that
+TransGrid's allowance for land and easement purchase
+is likely at the higher end of a reasonable range. The
+actual agreements it has obtained to date are lower than
+TransGrid's proposal. However, there is a reasonable
+prospect that TransGrid will be required to pay higher
+land values to secure land in a timely fashion and avoid
+--- PDF physical page 39 ---
+37
+
+beyond the average actual margin of land TransGrid has
+already acquired along the route.
+PIAC agrees with TransGrid that being able to negotiate
+with landholders to acquire the necessary property and
+easements for PEC is preferable to compulsory
+acquisition of property. However, it questions whether it
+is appropriate for NSW consumers to bear costs above
+market price for such negotiated outcomes given the
+primary direct beneficiary of this relationship-building
+approach is TransGrid.
+
+compulsory acquisition or additional route deviations.
+This will likely benefit consumers where it avoids project
+delay or additional project costs.
+
+Real input escalators
+
+ENGIE
+TransGrid’s claim for “real input escalators” also requires
+closer scrutiny, especially when ElectraNet does not
+appear to have sought similar.
+TransGrid has applied real cost escalation to its
+expenditure forecasts to capture costs expected to rise
+faster than inflation. TransGrid’s claim for “real input
+escalators” includes:
+• Zero real input cost escalation to materials.
+• Application of the AER’s approved real labour input
+cost escalators to labour.
+• Total forecast capex for real input cost escalation of
+$3.2 million ($2017-18).
+We consider TransGrid's application of real labour cost
+escalation is consistent with its revenue determination.
+Upgrade of line sections to 500kV
+
+Reach Solar
+Reach supports the project as an important part of the
+ISP as an ‘actionable’ project. Reach supports an
+upgrade of key sections to 500kV to future proof the
+project, which would complement HumeLink, which is
+planned at 500kV.
+TransGrid has not proposed to build sections of the line
+at 500kV. The scope of the proposed solution remains
+consistent with that required to deliver on the
+requirements of the project identified in the RIT-T.
+We expect that any incremental costs required to
+construct sections of the line with a higher capacity to
+complement the HumeLink project would require
+justification and funding through the regulatory process
+for that project.

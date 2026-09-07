@@ -1,0 +1,834 @@
+
+===== PDF PAGE 1 =====
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Month YYYY 
+ 
+ 
+ 
+Subtitle 
+Scope/ purpose e.g. A report for the National 
+Electricity Market 
+ 
+Report Title  
+Statement of Reasons 
+Authorisation of Main Central-West 
+Orana Renewable Energy Zone Network 
+Infrastructure Project  
+Public summary of reasons for Consumer 
+Trustee’s authorisation decision
+June 2024
+===== PDF PAGE 2 =====
+© AEMO Services 2024  |  Authorisation of Main Central-West Orana Renewable Energy Zone Network Infrastructure Project 
+2
+Important notice
+The Consumer Trustee has published this summary of reasons for its decision to authorise the Main Central-West Orana 
+Renewable Energy Zone Network Infrastructure Project for information purposes only. It is published to outline the 
+approach taken by the Consumer Trustee in reaching its decision, is a summary of that decision and is not intended to 
+be comprehensive. To the maximum extent permitted by law, the Consumer Trustee (including its officers, employees, 
+agents, contractors and consultants) expressly disclaims any and all liability relating to or resulting from the use of, or 
+reliance on, the information in this document by any person or entity. 
+Any specific questions should be addressed to the Consumer Trustee at stakeholderengagement@aemoservices.com.au
+===== PDF PAGE 3 =====
+© AEMO Services 2024  |  Authorisation of Main Central-West Orana Renewable Energy Zone Network Infrastructure Project 
+3
+Contents
+Summary .................................................................................................................................................................4
+Context .......................................................................................................................................................................4
+Decision ......................................................................................................................................................................4
+1. Introduction  .....................................................................................................................................................6
+2. The role of the Consumer Trustee ....................................................................................................................7
+3.  The Main CWO REZ Network Infrastructure Project ........................................................................................9
+3.1 The CWO REZ ..................................................................................................................................................9
+3.2 The Main CWO REZ Network Infrastructure Project ......................................................................................10
+3.3  Network operator for the Main CWO REZ Network Infrastructure Project ....................................................12
+4. Reasons for Decision ......................................................................................................................................13
+4.1 Development pathway contained in the latest IIO Report ............................................................................ 13
+4.2 Long-term financial interests of NSW electricity customers  .......................................................................... 14
+4.2.1 Quantitative Risk Assessment ...........................................................................................................15
+4.2.2 Qualitative Risk Assessment ............................................................................................................. 17
+4.3 Objects of the EII Act .....................................................................................................................................19
+4.4 RES Board Plan and First Nations Guidelines  ...............................................................................................21
+5. Maximum capital cost ....................................................................................................................................23
+6.  Appendix – Legal requirements for the decision  ...........................................................................................24
+===== PDF PAGE 4 =====
+© AEMO Services 2024  |  Authorisation of Main Central-West Orana Renewable Energy Zone Network Infrastructure Project 
+4
+Summary
+Context
+The Electricity Infrastructure Investment Act 2020 (EII Act) creates a framework for the delivery of new network 
+infrastructure in NSW renewable energy zones (REZs). Under this framework AEMO Services Limited (AEMO 
+Services), as the Consumer Trustee, considers recommendations from the Energy Corporation of New South Wales 
+(EnergyCo) as Infrastructure Planner for network infrastructure projects in REZs, and whether to authorise the 
+recommended network operator to carry out the recommended project.
+Under this framework, the Infrastructure Planner assesses different options for “REZ Network Infrastructure Projects” 
+and recommends which REZ Network Infrastructure Project option best meets consumer and community needs to the 
+Consumer Trustee. 
+The Infrastructure Planner also assesses and recommends a network operator to carry out the project as well as 
+overseeing the design and delivery of the project, including undertaking engagement with local communities.
+On receiving a recommendation from the Infrastructure Planner, the Consumer Trustee is to independently 
+satisfy itself that the recommended project is in the long-term financial interests of NSW electricity customers (or 
+customers). To determine this, the Consumer Trustee considers the information set out in the Infrastructure Planner’s 
+recommendations and undertakes its own cost-benefit analysis (CBA). It also has to determine if the project meets 
+other legislative requirements for authorisation.
+If the Consumer Trustee authorises the Infrastructure Planner’s recommended network operator and project, the 
+Australian Energy Regulator (AER), in its role as Regulator, will then determine the prudent, efficient and reasonable 
+costs payable to the network operator for the delivery of the project.
+Decision
+The Consumer Trustee has received a recommendation from the Infrastructure Planner for two REZ Network 
+Infrastructure Projects (RNIP) in the Central-West Orana (CWO) REZ: 
+• The Main CWO REZ Network Infrastructure Project to be carried out by the ACEREZ Partnership, which in 
+summary involves the construction and operation1 of new network infrastructure in the CWO REZ to enable the 
+connection of renewable generation projects.
+• The Enabling CWO REZ Network Infrastructure Project to be carried out by Transgrid, which in summary involves 
+the construction and operation of new network infrastructure to connect the Main REZ Network Infrastructure 
+Project to the existing NSW transmission network and augment the capacity of the existing transmission network.
+Together, the projects are intended to deliver an additional 4.5 GW of network transfer capacity by 2027-28 to enable 
+up to 5.84 GW of new renewable generation and storage to connect to the electricity network in NSW. 
+This document summarises reasons for the Consumer Trustee’s decision relating to the Main CWO REZ Network 
+Infrastructure Project to be carried out by the ACEREZ Partnership. The Consumer Trustee has published another 
+document summarising the reasons for the decision relating to the Enabling CWO REZ Network Infrastructure Project 
+to be carried out by Transgrid.
+After considering the Infrastructure Planner’s recommendations, the Consumer Trustee has decided to authorise 
+ACEREZ Partnership to develop, construct, own, control and operate the Main CWO REZ Network Infrastructure 
+Project.
+In making this decision, the Consumer Trustee has adopted a risk-based approach to identify whether the risks and 
+foregone opportunities for NSW electricity customers of not authorising the project outweigh the risks of authorising 
+it. The Consumer Trustee adopted this approach given the large degree of uncertainty about the speed and scale of 
+investment required to deliver on the energy transition in NSW, which gives rise to investment uncertainty and risks of 
+both under and over investment. 
+1	 This	includes	network	infrastructure	both	within	and	outside	the	geographical	area	of	the	CWO	REZ	as	specified	in	the	CWO	REZ	Declaration.	See	Government	
+Gazette	of	NSW	Number	137	of	19	April	2024.
+===== PDF PAGE 5 =====
+© AEMO Services 2024  |  Authorisation of Main Central-West Orana Renewable Energy Zone Network Infrastructure Project 
+5
+The Consumer Trustee’s decision is based on its consideration of the Infrastructure Planner’s recommendations and 
+its own CBA. The CBA shows that, on the balance of optimistic and conservative scenarios, the project is likely to be 
+beneficial for NSW electricity customers over the 35-year concession period for which the ACEREZ Partnership will be 
+contracted, as well as over the lifetime of the assets. The CBA results also demonstrate that NSW electricity customers 
+are likely to be worse off if the project does not proceed. This is particularly the case if the future follows a fast change 
+trajectory with a high rate of electrification, consistent with a scenario aligned to achieve state and federal renewable 
+energy and net zero targets.
+While the results of the Consumer Trustee’s CBA are confidential, the final outcome is broadly aligned with the CBA 
+undertaken by the Infrastructure Planner to inform its recommendations to the Consumer Trustee. EnergyCo’s CBA 
+found that under a central scenario the two CWO RNIPs delivered a net benefit of over $3 billion (net present value, 
+real, $2022) to 2078.2  
+In conducting its assessment, the Consumer Trustee has identified a number of risks to the full realisation of these 
+benefits. These risks could arise if:
+• the costs to customers increase when the network operator is permitted to pass on costs to customers; or
+• access fees recovered from generators do not offset the full costs of the “hub to project” assets or system strength 
+assets; or 
+• the benefits of the project to customers decrease due to delays to delivery of the project or delays to forecast 
+generator connections.
+However, in the view of the Consumer Trustee, the mitigants identified by the Infrastructure Planner are sufficient so 
+that these risks are not material enough to undermine the overall net benefit of the project or justify a decision to not 
+authorise.
+The Main CWO REZ Network Infrastructure Project is expected to improve the affordability, reliability, security and 
+sustainability of electricity supply. The Infrastructure Planner has also implemented measures to achieve the objects 
+of the EII Act in the interests of customers, including securing local community support, promoting local industry and 
+jobs, and opportunities for First Nations people. Community stakeholders, such as local councils, have been consulted 
+by the Infrastructure Planner in their development of the project recommendation and this has been important in 
+ensuring the recommendation includes consideration of local community impacts.
+In summary, based on the Infrastructure Planner’s recommendations, the Consumer Trustee has determined that 
+authorising the Main CWO REZ Network Infrastructure Project is in the long-term financial interests of NSW electricity 
+customers and is consistent with the objects of the EII Act.
+2	 Available	at	 https://www.energyco.nsw.gov.au/news/central-west-orana-rez-infrastructure-planner-recommendation-public-report
+===== PDF PAGE 6 =====
+© AEMO Services 2024  |  Authorisation of Main Central-West Orana Renewable Energy Zone Network Infrastructure Project 
+6
+1. Introduction
+After considering the Infrastructure Planner’s recommendations, the Consumer Trustee has decided to authorise 
+network operators to carry out two REZ Network Infrastructure Projects for the Central-West Orana REZ under section 
+31(1)(b) of the EII Act:
+• The Main CWO REZ Network Infrastructure Project to be carried out by the ACEREZ Partnership, which in summary 
+involves the construction and operation of new network infrastructure in the CWO REZ to enable the connection of 
+renewable generation projects.3
+• The Enabling CWO REZ Network Infrastructure Project to be carried out by Transgrid, which in summary involves 
+the construction and operation of new network infrastructure to connect the Main REZ Network Infrastructure 
+Project to the existing NSW transmission network and augment the capacity of the existing transmission network.
+This document summarises the reasons for the Consumer Trustee’s decision relating to the Main CWO REZ Network 
+Infrastructure Project to be carried out by the ACEREZ Partnership. The Consumer Trustee has published another 
+document summarising the reasons for the Enabling CWO REZ Network Infrastructure Project to be carried out by 
+Transgrid.
+The Consumer Trustee’s authorisation decisions are set out in the Notices of Authorisation published on the AEMO 
+Services website.4 The Notices of Authorisation include full descriptions of the authorised projects, including the 
+scope and the conditions of the authorisations.
+The authorisation decisions recorded in the Notices of Authorisation were made by the AEMO Services Board, 
+exercising the authority of the Consumer Trustee. Due to a conflict of interest, the AEMO Services Chairman did 
+not take part in the making of the Consumer Trustee’s decision to authorise. The process and approach for making 
+this decision was generally consistent with that outlined in the Network Authorisation Process and Approach Paper 
+(NAPAP). 
+This document summarises for public release the reasons for the Consumer Trustee’s decision to authorise the Main 
+CWO REZ Network Infrastructure Project. It is provided to help stakeholders understand the approach taken by the 
+Consumer Trustee in determining to authorise the project. It does not form part of the Authorisation.
+3	 This	includes	network	infrastructure	both	within	and	outside	the	geographical	area	of	the	CWO	REZ	as	specified	in	the	CWO	REZ	Declaration.	See	Government	
+Gazette	of	NSW	Number	137	of	19	April	2024.
+4	 Available	at	 https://aemoservices.com.au/products/central-west-orana
+===== PDF PAGE 7 =====
+© AEMO Services 2024  |  Authorisation of Main Central-West Orana Renewable Energy Zone Network Infrastructure Project 
+7
+2. The role of the Consumer Trustee
+The Consumer Trustee has a function under section 31(1)(b) of the EII Act to decide whether or not to authorise 
+network operators to carry out REZ Network Infrastructure Projects recommended by EnergyCo in its role as 
+Infrastructure Planner under the EII Act. 
+When exercising this function, the Consumer Trustee is to act independently and in the long-term financial interests of 
+NSW electricity customers.5 The Consumer Trustee must also exercise its functions in a way that is consistent with the 
+objects set out in section 3 of the EII Act.6   
+An explanation of the Consumer Trustee’s authorisation functions, and the processes and approach the Consumer 
+Trustee adopts in performing those functions, is set out in the NAPAP , first published by the Consumer Trustee in 
+September 2023 and updated in March 2024.7   
+When deciding whether or not to authorise, the Consumer Trustee is required to consider the Infrastructure Planner’s 
+recommendations and decide whether the recommended project should be authorised. In doing so, its approach 
+is to undertake a CBA to determine if the project is in the long-term financial interests of customers against a 
+counterfactual where the recommended project does not proceed and to determine whether a decision to authorise 
+is consistent with the objects of the EII Act. 
+Importantly, the Consumer Trustee’s authorisation process and subsequent decision does not consider whether or 
+not there may be an alternative option for the recommended RNIP that better delivers in the long-term financial 
+interests of NSW electricity customers. It is the responsibility of EnergyCo, in exercising its statutory function as 
+the Infrastructure Planner, to assess and make recommendations to the Consumer Trustee about REZ network 
+infrastructure projects under section 30 of the EII Act and regulations made under the EII Act. In doing so, EnergyCo 
+draws on its technical expertise and deep knowledge of local environmental constraints and opportunities as well as 
+the concerns and needs of local communities, including First Nations people. 
+The Infrastructure Planner is required to consult with relevant stakeholders when developing its recommendations. 
+The Infrastructure Planner’s recommendations to the Consumer Trustee set out the consultation that it undertook with 
+AEMO, Transgrid and other relevant network operators, local councils, local communities, First Nations communities, 
+consumers and government, and how it took their feedback into account in developing its recommendations. As 
+explained in the NAPAP , the Consumer Trustee does not undertake its own stakeholder consultation when making an 
+authorisation decision and relies on the consultation undertaken by the Infrastructure Planner.
+Further, the Consumer Trustee does not assess the fitness of the network operator to carry out the project. EnergyCo 
+undertakes assessment of the network operator through its competitive tender processes and when recommending a 
+network operator through a non-contestable process. The network operator’s role and performance will be governed 
+by contractual arrangements between EnergyCo and the network operator, and relevant regulatory requirements 
+including National Electricity Rules registration requirements and the NSW transmission licencing regime. 
+The Consumer Trustee’s authorisation must require the network operator to enter into contractual arrangements 
+recommended by the Infrastructure Planner in its recommendations.8 The Consumer Trustee is not required to review 
+these recommended contractual arrangements and has not done so.9 The Consumer Trustee is also not required 
+to consider technical information, other than technical information specified in regulation 44 of the Electricity 
+Infrastructure Regulation 2021 (EII Regulation) and information provided to the Consumer Trustee in the Infrastructure 
+Planner’s recommendations.10  
+5	 Section	60(3)	EII	Act
+6	 Section	3(3)	EII	Act
+7	 Available	at	 https://aemoservices.com.au/our-role/authorisation-function
+8	 EII	Regulation,	regulation	19A(2)
+9	 EII	Regulation,	regulation	19A(3).	The	Infrastructure	Planner	Recommendations	Report	contained	a	summary	of	the	recommended	contractual	arrangements	but	the	
+Consumer	Trustee	was	not	provided	with	copies	of	the	relevant	agreements.
+10	 EII	Regulation,	regulation	19(2)
+===== PDF PAGE 8 =====
+© AEMO Services 2024  |  Authorisation of Main Central-West Orana Renewable Energy Zone Network Infrastructure Project 
+8
+Further, the Consumer Trustee’s authorisation decision does not consider whether the capital costs of the 
+recommended RNIPs are prudent, reasonable or efficient. Determining the prudent, reasonable and efficient costs 
+that can be recovered by the network operator is the responsibility of the Regulator under section 38 of the EII Act. 
+The AER has been appointed by the Minister as the Regulator for this purpose.
+In making this determination, the Regulator will consider a maximum capital cost amount provided to it by the 
+Consumer Trustee in accordance with section 31(2) of the EII Act. This maximum capital cost amount sets an upper 
+limit on the development and construction capital costs of the authorised project. Under the EII Act, the maximum 
+capital cost amount must be kept confidential between the Consumer Trustee and the Regulator and they must not 
+disclose the amount to any other person.
+===== PDF PAGE 9 =====
+© AEMO Services 2024  |  Authorisation of Main Central-West Orana Renewable Energy Zone Network Infrastructure Project 
+9
+3.  The Main CWO REZ Network  
+Infrastructure Project
+3.1 The CWO REZ
+The CWO REZ was declared by the Minister on 5 November 2021 under section 19(1) of the EII Act,11 comprising the 
+specified geographical area identified in Figure 1 below. On 15 December 2023, the Minister amended the CWO REZ 
+Declaration to increase the intended network capacity from 3 GW to 6 GW.12 Further amendments to the CWO REZ 
+Declaration were gazetted on 19 April 2024, to update Schedule 2 to the Declaration.13 
+Figure 1: Geographical area of the CWO REZ
+11	 Renewable	Energy	Zone	(Central-West	Orana)	Order	2021	(CWO REZ Declaration)	published	in	the	NSW	Government	Gazette	(NSW	Government	Gazette	No	569	of	
+5	November	2021)
+12	 Government	Gazette	of	NSW	Number	580	of	15	December	2023
+13	 Government	Gazette	of	NSW	Number	137	of	19	April	2024
+===== PDF PAGE 10 =====
+© AEMO Services 2024  |  Authorisation of Main Central-West Orana Renewable Energy Zone Network Infrastructure Project 
+10
+3.2 The Main CWO REZ Network Infrastructure Project
+The Main CWO REZ Network Infrastructure Project is one of two projects required to deliver an additional 4.5 GW of 
+network transfer capacity by 2027–28 to enable up to 5.84 GW of new renewable generation and storage to connect 
+to the electricity network in NSW. 
+The project involves the coordinated investment in new transmission network capacity, connection infrastructure and 
+system strength services to enable generation and storage projects to connect to the CWO REZ and provide benefits 
+to NSW electricity customers. The Infrastructure Planner’s forecast benefits to customers from the project include 
+reduced wholesale electricity prices, improved reliability and security of electricity supply, and reduced emissions.  
+The Main CWO REZ Network Infrastructure Project is described in the Notice of Authorisation and broadly consists of:
+(a)  a 500 kV transmission network from Wollar to Elong Elong via Merotherie with an initial transfer capacity at the 
+Barigan Creek switching station of 4.5 GW and comprising:
+ (1) a 500 kV switching station at Barigan Creek;
+ (2) a 500/330 kV substation at Merotherie (known as an Energy Hub); 
+ (3) a 330kV substation at Elong Elong (known as an Energy Hub);
+ (4)  an approximately 60 kilometre transmission line from Barigan Creek to Merotherie comprising two 500 kV 
+double circuit lines at an operating voltage of 500kV;
+ (5)  an approximately 30 kilometre transmission line from Merotherie to Elong Elong comprising two 500 kV 
+double circuit lines at an operating voltage of 330 kV;
+(b)  a 330 kV transmission network from the Energy Hubs to 13 330 kV switching stations that will connect potential 
+generation projects, with an operating voltage of 330 kV and comprising a total of approximately 166 kilometres 
+of transmission lines (H2P Assets);
+(c)   system strength infrastructure at the Energy Hubs, comprising synchronous condensers with a nominal nameplate 
+rating of up to 1,750 MVA.
+The scope and location of the Main CWO REZ Network Infrastructure Project are shown in the diagram in Figure 2 and 
+map in Figure 3.
+Figure 2: Main CWO REZ Network Infrastructure Project transmission lines and switching stations
+Elong Elong
+Merotherie
+Barigan Creek
+Uarbry West
+MER C4-1
+MER C1-1
+ELO C1-2
+ELO C2-1
+ELO C3-1
+ELO C3-2
+MER C2-1
+MER C3-1
+MER C3-2
+MER C3-3
+MER C3
+Uarbry East
+To Mt Piper
+To Wollar 
+and Bayswater
+500kV transmission lines
+500kV transmission lines (operated at 330kV)
+330kV transmission line (part of H2P Separable Portion)
+500/330kV Energy Hub
+330kV Energy Hub
+500kV switching station
+H2P switching station (part of H2P Separable Portion)
+Legend
+===== PDF PAGE 11 =====
+© AEMO Services 2024  |  Authorisation of Main Central-West Orana Renewable Energy Zone Network Infrastructure Project 
+11
+Figure 3: Main CWO REZ Network Infrastructure Project map
+GOOLMA GULGONG WOLLAR
+CASSILIS
+COBBORA
+DUNEDOO
+ELONG ELONG
+LEADVILLE
+COOLAH
+BIRRIWA
+ELONG ELONG
+UARBRY EAST
+UARBRY WEST
+MER C4-1
+MER C1-1
+MER C2-1
+MER C3
+MER C3-1
+MER C3-2
+MER C3-3
+ELO C1-2
+ELO C2-1
+ELO C3-1
+ELO C3-2
+MEROTHERIE
+BARIGAN CREEK
+500kV transmission lines
+500kV transmission lines 
+(operated at 330kV)
+330kV transmission lines
+500/330kV Energy Hub
+330kV Energy Hub
+H2P switching station (part  
+of H2P Separable Portion)
+500kV switching station
+Legend
+The Main CWO REZ Network Infrastructure Project is split into 11 separable portions. This enables parts of the project 
+that relate to H2P Assets to be removed from the scope and the costs of the project to be reduced if some of the H2P 
+Assets do not proceed because specified conditions are not met by 30 June 2025 in accordance with clause 6 of the 
+Notice of Authorisation. This protects customers from being required to fund the costs of these assets.
+===== PDF PAGE 12 =====
+© AEMO Services 2024  |  Authorisation of Main Central-West Orana Renewable Energy Zone Network Infrastructure Project 
+12
+3.3  Network operator for the Main CWO REZ Network Infrastructure 
+Project
+The authorised network operator for the Main CWO REZ Network Infrastructure Project is:
+• Cobra CWO NO Pty Limited (ACN 670 780 631) as trustee of the Cobra CWO NO Trust;
+• Concesiones CWO REZ NO Pty Limited (ACN 670 755 521) as trustee of the Concesiones CWO REZ NO Trust; and
+• Edwards REZ NO Pty Limited (ACN 670 791 321) as trustee of the Edwards REZ NO Trust, ERIC Epsilon REZ NO 
+1 Pty Ltd (ACN 669 396 801) as trustee of the ERIC Epsilon REZ NO Trust 1, ERIC Epsilon REZ NO 2 Pty Ltd (ACN 
+669 396 909) as trustee of the ERIC Epsilon REZ NO Trust 2, ERIC Epsilon REZ NO 3 Pty Ltd (ACN 669 397 040) as 
+trustee of the ERIC Epsilon REZ NO Trust 3 and ERIC Epsilon REZ NO 4 Pty Ltd (ACN 669 397 237) as trustee of the 
+ERIC Epsilon REZ NO Trust 4, being a partnership carried on under the name of Endeavour REZ NO Partnership,
+operating as a partnership carried on under the name of ACEREZ Partnership.
+The network operator was recommended by the Infrastructure Planner following a contestable procurement process 
+and is authorised to develop, construct, own, control and operate the project in accordance with the Notice of 
+Authorisation.
+The structure of the network operator and its key contractors is summarised in Figure 4.
+Figure 4: Network operator roles and responsibilities
+
+===== PDF PAGE 13 =====
+© AEMO Services 2024  |  Authorisation of Main Central-West Orana Renewable Energy Zone Network Infrastructure Project 
+13
+4. Reasons for Decision
+The following sections summarise the Consumer Trustee’s reasons for authorising the network operator to carry out 
+the Main CWO REZ Network Infrastructure Project and why the Consumer Trustee is satisfied that doing so meets the 
+relevant requirements under the EII Act and EII Regulation.
+The Consumer Trustee’s decision is based on its consideration of the Infrastructure Planner’s recommendation and the 
+Consumer Trustee’s obligations to:
+• consider the development pathway;
+• act independently and in the long-term financial interests of NSW electricity customers;
+• exercise its functions consistent with the objects of the EII Act; and
+• take into account the First Nations Guidelines and RES Board Plan when exercising its functions, and its ability to 
+set conditions on an authorisation consistent with the First Nations Guidelines and RES Board Plan.
+In making its authorisation decision, the Consumer Trustee considered the Infrastructure Planner Recommendations 
+Report (IPRR) provided by the Infrastructure Planner to the Consumer Trustee on 22 December 2023. The IPRR 
+sets out how the Infrastructure Planner considers that it has met the requirements of the EII Act and EII Regulation 
+in relation to the contents of its recommendations. It includes detailed information on a range of matters related 
+to the recommended project, including the Infrastructure Planner’s identification and assessment of options, its 
+assessment of the recommended network operator, its consultation with stakeholders and its justifications for how the 
+recommended project will promote the objects of the EII Act. 
+4.1 Development pathway contained in the latest IIO Report
+In exercising its functions to authorise a REZ Network Infrastructure Project, the Consumer Trustee is to consider the 
+development pathway contained in the latest Infrastructure Investment Objectives Report (IIO Report) prepared by 
+the Consumer Trustee under section 45 of the EII Act.14 
+The IIO Report contains the least-cost 20-year pathway for the optimal development of electricity generation, storage 
+and firming infrastructure to meet NSW’s legislated targets for renewable energy infrastructure (development 
+pathway). 
+The latest IIO Report is the final 2023 IIO Report, which was published by the Consumer Trustee on 21 December 
+2023.15 
+The development pathway in the final 2023 IIO Report is underpinned by REZ network infrastructure including three 
+Central-West Orana project options. The final 2023 IIO Report suggested the optimal timing for these options to be 
+4.5 GW of network transfer capacity in 2027–28, followed by an additional 1.5 GW in 2036–37 and a further 1.63 GW 
+of network capacity in 2040–41. This is consistent with the recommendations in the IPRR, which only recommend that 
+the Consumer Trustee authorise a project with a network capacity of 4.5 GW at this stage.
+The Consumer Trustee also adopted the development pathway from the final 2023 IIO Report (with minor updates) as 
+two of the scenarios considered in the Consumer Trustee’s CBA modelling discussed in section 4.2.1. This modelling 
+assessed whether authorising the two CWO REZ Network Infrastructure Projects would provide a net financial 
+benefit to NSW electricity customers compared with a counterfactual where the project is not carried out, but the 
+development pathway is still met. The minor amendments were required because of differences in assumptions due to 
+the different timing of the market modelling exercises.
+14	 EII	Act	section	31(5)
+15	 Available	at	https://aemoservices.com.au/our-role/infrastructure-investment-objectives-report
+===== PDF PAGE 14 =====
+© AEMO Services 2024  |  Authorisation of Main Central-West Orana Renewable Energy Zone Network Infrastructure Project 
+14
+During the course of finalising the 2023 IIO Report, the Australian Government announced its expansion of the Capacity 
+Investment Scheme (CIS)16 to support 32 GW of new capacity nationally to deliver its target of 82% renewable electricity 
+by 2030.17 While this announcement was not adopted as the basis for planning set out in the final 2023 IIO Report, 
+the authorisation decision has considered the role of the CWO REZ Network Infrastructure Projects in delivering an 
+accelerated development pathway aligned with actions under the National Energy Transformation Partnership or NETP . 18
+4.2	 Long-term	financial	interests	of	NSW	electricity	customers	
+The Consumer Trustee must act independently and in the long-term financial interests of NSW electricity customers 
+when exercising its functions.19   
+The Consumer Trustee assessed whether authorising the Main CWO REZ Network Infrastructure Project is in the long-
+term financial interests of NSW electricity customers by undertaking a CBA and a qualitative assessment of the risks to 
+customers. The results of these assessments are summarised below.  
+Based on these assessments, the Consumer Trustee considers that authorising the Main CWO REZ Network 
+Infrastructure Project is likely to have a net benefit and be in the long-term financial interests of NSW electricity 
+customers. 
+This document summarising the reasons for the decision does not set out the results of the Consumer Trustee’s 
+CBA or the amount of the net benefit the Consumer Trustee considers the project would deliver to NSW electricity 
+customers. That is because doing so could allow the network operator and potentially other stakeholders to derive 
+a reasonable estimate of the maximum capital cost that the Consumer Trustee must calculate and notify to the 
+Regulator under section 31(2) of the EII Act. The maximum capital cost is calculated based on the net benefit of the 
+project to NSW electricity customers and information on the payments to the network operator provided by the 
+Infrastructure Planner. The maximum capital cost is confidential to the Consumer Trustee and Regulator and must not 
+be disclosed to any other person.20  
+The maximum capital cost is an important protection for customers against the risk that the construction and 
+development capital costs of the project increase compared with the costs set out in the Infrastructure Planner’s 
+recommendations and result in the RNIP no longer having a net financial benefit to NSW electricity customers. The 
+requirement for the maximum capital cost to remain confidential to the Consumer Trustee and the Regulator supports 
+the effectiveness of this protection.
+16	 Announcement	was	made	by	Minister	Bowen	on	23	November	2023.	Available	at:	minister.dcceew.gov.au/bowen/media-releases/delivering-more-reliable-energy-all-
+australians
+17	 The	Australian	Government’ s	Powering	Australia	plan	is	part	of	Australia’ s	energy	strategies	and	frameworks.	More	information	is	available	at:	dcceew.gov.au/energy/
+strategies-and-frameworks/powering-australia
+18	 The	National	Energy	Transformation	Partnership	is	a	framework	for	Commonwealth,	state	and	territory	governments	to	work	together	on	reforms	to	help	transform	
+Australia’ s	energy	system	to	achieve	net	zero	by	2050.	More	information	is	available	at:	energy.gov.au/energy-and-climate-change-ministerial-council/national-energy-
+transformation-partnership
+19	 EII	Act	section	60(3)
+20	 EII	Act	section	31(3)
+===== PDF PAGE 15 =====
+© AEMO Services 2024  |  Authorisation of Main Central-West Orana Renewable Energy Zone Network Infrastructure Project 
+15
+4.2.1 Quantitative Risk Assessment
+Methodology
+The Consumer Trustee’s assessment of whether authorising the recommended project is in the long-term financial 
+interests of NSW electricity customers has been informed by cost-benefit analysis. The NAPAP outlines the Consumer 
+Trustee’s approach to undertaking cost-benefit analysis to inform its decisions.
+The CBA assesses the benefits of authorising the project based on the difference in consumer costs between two 
+cases: 
+• a base case, in which the two recommended CWO REZ Network Infrastructure Projects are built; and
+• a counterfactual case, in which the two recommended CWO REZ Network Infrastructure Projects are not built.
+The base case includes the costs of the CWO projects provided by the Infrastructure Planner, including a contingency 
+for cost increases.
+The same development pathway is met in both the base case and counterfactual case. 
+The benefits are then compared to the costs of the CWO RNIPs that will be paid by NSW electricity customers over 
+the concession period for the Main CWO REZ Network Infrastructure Project. If the benefits are higher than the costs, 
+the net present value (or NPV) will be positive and the benefit-cost ratio (or BCR) will be greater than 1.
+Figure 5 illustrates how total benefits are derived from the difference in costs between the base case and 
+counterfactual case. The costs of the recommended projects are excluded from the base case to allow the total 
+benefits to be compared to the cost of the recommended projects. 
+Figure 5 Illustration of total benefits
+Transmission
+Emissions
+Scheme
+Scheme
+Emissions
+Transmission
+Total benefits
+Wholesale
+Wholesale
+Present value of NSW consumer costs
+Counterfactual case 
+(without recommended RNIP)
+Base case 
+(with recommended RNIP)
+LEGEND
+Transmission
+The cost of transmission projects in NSW 
+that are not the recommended RNIP 
+which vary between the base case and 
+counterfactual case.
+Emissions
+Emissions costs associated with reduction 
+to carbon emissions in NSW due to the 
+recommended RNIP compared to the 
+counterfactual case.
+Scheme
+A proxy for payments made under LTESAs 
+to generation, long-duration storage, and 
+firming infrastructure.
+Wholesale
+Wholesale electricity costs are an output of 
+time-sequential market modelling.
+===== PDF PAGE 16 =====
+© AEMO Services 2024  |  Authorisation of Main Central-West Orana Renewable Energy Zone Network Infrastructure Project 
+16
+The Consumer Trustee’s CBA was undertaken for three market modelling scenarios and seven post-processing 
+sensitivities to test variables that drive electricity market outcomes and ultimately the net benefits to NSW electricity 
+customers, including demand-side and supply-side considerations. The modelling approach utilised a Monte Carlo 
+method with simulations across multiple permutations of demand, weather and thermal outage patterns for each 
+scenario.
+The Consumer Trustee considered the results of all the scenarios and sensitivities in reaching its decision to enable an 
+assessment of the net benefits to customers as well as the likelihood and materiality of the risks and uncertainties to 
+the financial interests of customers.
+The Consumer Trustee also adopted a ‘least regrets’ approach to assess upside and downside risks to NSW electricity 
+customers. This approach involves considering the potential upside for customers if the project delivers greater net 
+benefits to customers under some scenarios and sensitivities, and the potential downside risks for customers if the 
+project delivers net costs under some scenarios and sensitivities.
+The scenarios are summarised in Figure 6.
+Figure 6: Modelling scenarios used in the CBA
+IIO
+Baseline
+Delayed
+Transmission
+Powering 
+Australia
+Conservative downside scenario 
+representing a slower transition.
+Risk assessment scenario to test 
+reliance on other network projects in 
+a counterfactual world.
+Optimistic upside scenario 
+representing an accelerated 
+transition.
+Assumptions broadly in line with 
+2022 ISP , with lower demand 
+forecasts compared with the draft 
+2024 ISP .
+Assumptions in line with the IIO 
+Baseline scenario, except for delays 
+to key NSW network projects 
+(including Hunter-Central Coast, 
+New England and South West REZs, 
+as well as HumeLink & VNI West 
+projects).
+Assumptions more in line with the 
+2024 ISP , with higher demand values 
+compared to the 2022 ISP and a 
+national target for 82% renewable 
+electricity by 2030.
+ 
+Conclusions
+The CBA results overall indicate that the likely outcome of authorising the Main CWO REZ Network Infrastructure 
+Project is beneficial for NSW electricity customers on the balance of optimistic and conservative scenarios.
+The CBA results demonstrate that NSW electricity customers are likely to be worse off if the Main CWO REZ Network 
+Infrastructure Project does not proceed. This is particularly the case if the future follows an accelerated change 
+trajectory (consistent with the Powering Australia scenario) or the other network projects that the counterfactual relies 
+on are delayed (consistent with the Delayed Transmission scenario). 
+The post-processing sensitivities showed that the CBA results for each scenario are sensitive to forecasting inputs (for 
+example, assumptions about weather and outages). The sensitivities also demonstrated that the market modelling, 
+like all market modelling, is likely to have underestimated wholesale price volatility and that correcting for this 
+improves the overall CBA. Other sensitivities did not have a material impact on the CBA results.
+===== PDF PAGE 17 =====
+© AEMO Services 2024  |  Authorisation of Main Central-West Orana Renewable Energy Zone Network Infrastructure Project 
+17
+4.2.2 Qualitative Risk Assessment
+The Consumer Trustee undertook a qualitative assessment of the risks to the long-term financial interests of NSW 
+electricity customers. This risk assessment supports the results of the CBA by considering the potential impact of risks 
+that cannot be quantified in the CBA.
+The Consumer Trustee identified and documented plausible risks to the long-term financial interests of NSW 
+electricity customers related to:
+• Risks of the costs to customers of the project increasing compared with the costs used for the CBA modelling. This 
+included risks that the project costs may increase compared with the costs contained in the IPRR, that the access 
+fees recovered from generators may not recover the full H2P or centralised system strength (CSS) costs and that 
+customers may be required to fund some of those costs, or that the costs of the expected future upgrade of the 
+project’s network capacity to 6 GW may exceed the Infrastructure Planner’s estimates.
+• Risks of the modelled benefits not being realised or decreasing compared with the CBA results. This included risks 
+that completion of the project may be delayed or that generation and storage connections to the project may be 
+lower than forecast or occur later than forecast. The occurrence of any of these risks would reduce the modelled 
+benefits of reduced wholesale prices.
+• A risk relating to the timing or quantum of investment, being a risk of inconsistency with the objects of the EII Act, 
+which may result in the erosion of customer or community support for the NSW Electricity Infrastructure Roadmap. 
+This assessment focussed on risks to the affordability objective of the EII Act.
+For each risk, the Consumer Trustee assessed the likelihood and consequence of the risk compared with the 
+counterfactual, having regard to the measures adopted by the Infrastructure Planner to mitigate the risk. The risk 
+assessment was based on the potential impact of the risk on the expected net benefit of the project to customers 
+under the CBA, informed by sensitivity testing undertaken by the Consumer Trustee as part of the CBA modelling.  
+The Consumer Trustee’s risk assessment identified several risks that were rated as low and a small number of risks that 
+were rated as medium. No risks were rated as high or critical. The reasons for these risks being rated as only low or 
+medium include:
+• the inclusion of a contingency for expected cost increases in the CBA;
+• the relatively large net benefits identified in the CBA, which means that even a reasonably large increase in 
+the project’s costs is not expected to have a material impact on whether the project will deliver net benefits for 
+customers;
+• the applicable mitigation measures, which are discussed below; and
+• many of the identified risks would also apply in the counterfactual so do not materially affect the net benefits of the 
+project.
+===== PDF PAGE 18 =====
+© AEMO Services 2024  |  Authorisation of Main Central-West Orana Renewable Energy Zone Network Infrastructure Project 
+18
+Any large infrastructure project has a risk of the costs increasing or construction being delayed, but many of the 
+causes of such outcomes are not unique to the CWO RNIPs and would also be likely to affect the other transmission 
+projects in the counterfactual and therefore have a limited impact on the CBA results. The risk assessment, therefore, 
+focussed on risks that are unique to the recommended CWO projects or are materially greater for those projects than 
+for other projects in the counterfactual. 
+The risk assessment demonstrates that the mitigation measures adopted for the Main CWO REZ Network 
+Infrastructure Project are likely to result in an acceptable level of risk. These mitigation measures include:
+• limiting the circumstances in which payments to the network operator can increase under the Project Deed so that 
+payment amounts are largely fixed except for certain specified retained risks or permitted variations, with approval 
+from the AER required for any variations;
+• including a contingency for cost increases when setting the H2P and CSS cost component of access fees;
+• requiring access rights holders to provide bonding to cover the H2P and CSS component of access fees, which 
+reduces the risk of customers being required to cover those costs if an access rights holder does not proceed with 
+its connection or defaults on payments;
+• including a mechanism in the Project Deed and Notice of Authorisation to reduce the risks that NSW electricity 
+customers may be required to fund some of the H2P Assets if some of the relevant generation and storage projects 
+do not obtain access rights and pay access fees. The notice of authorisation sets out conditions that must be met 
+for each H2P Asset separable portion by 30 June 2025 and provides that the relevant separable portion will be 
+automatically excluded from the scope of the authorisation if those conditions are not met by that date;
+• the stakeholder consultation that has been undertaken by EnergyCo as set out in the IPRR; and
+• the relatively advanced stage of the Infrastructure Planner’s project planning, consent applications and other 
+preliminary activities compared with other projects in the counterfactual. 
+The Consumer Trustee does not consider that the identified risks are sufficient to undermine the outcomes of the CBA 
+and ultimately justify a decision to not authorise the CWO REZ Network Infrastructure Project. Even if the plausible 
+worst-case outcome occurs in relation to multiple risks, the project is still likely to have net benefits for NSW electricity 
+customers.  
+===== PDF PAGE 19 =====
+© AEMO Services 2024  |  Authorisation of Main Central-West Orana Renewable Energy Zone Network Infrastructure Project 
+19
+4.3 Objects of the EII Act
+The Infrastructure Planner and Consumer Trustee must exercise their functions in a way that is consistent with the 
+objects of the EII Act.21  
+Table 1: Objects of EII Act
+1 Objects of the EII Act
+a to improve the affordability, reliability, security and sustainability of electricity supply
+b to co-ordinate investment in new generation, storage, network and related infrastructure
+c to encourage investment in new generation, storage, network and related infrastructure by reducing risk for 
+investors
+d to foster local community support for investment in new generation, storage, network and related 
+infrastructure
+e to support economic development and manufacturing
+f to create employment, including employment for Aboriginal and Torres Strait Islander people
+g to invest in education and training
+h to promote local industry, manufacturing and jobs
+i to promote export opportunities for generation, storage and network technology
+2 Additional objects of Parts 4 to 6 of the EII Act
+a to increase employment and income opportunities for Aboriginal and Torres Strait Islander people in NSW
+b to promote consultation and negotiation with the traditional Aboriginal owners of land on which generation, 
+storage and network infrastructure is proposed to be constructed or operated under the Act
+21	 EII	Act	section	3(3)
+===== PDF PAGE 20 =====
+© AEMO Services 2024  |  Authorisation of Main Central-West Orana Renewable Energy Zone Network Infrastructure Project 
+20
+The Consumer Trustee relies on evidence provided by the Infrastructure Planner to satisfy itself that authorising the 
+project would be consistent with the objects.
+In assessing whether authorising the Main CWO REZ Network Infrastructure Project is consistent with the objects of 
+the EII Act, the Consumer Trustee considered:
+• The IPRR’s explanation of how the recommendations are consistent with each of the objects of the EII Act.
+• The IPRR’s explanation of the options assessment framework that was applied by the Infrastructure Planner in 
+recommending the network infrastructure project and how the relevant objects have been addressed as part of that 
+framework, including any trade-offs between objects. The Infrastructure Planner’s assessment framework includes 
+consideration of the objects related to improving the affordability, reliability, security and sustainability of electricity 
+supply; coordinating investment in new generation, storage, network and related infrastructure; and fostering local 
+community support for investment in new generation, storage, network and related infrastructure. The IPRR sets 
+out why the Infrastructure Planner assessed that the recommended option best promotes each of these objectives. 
+This assessment was informed by the Infrastructure Planner’s CBA of the options and their impact on affordability, 
+and by its consultation with stakeholders to understand and mitigate local community impacts.
+• The IPRR’s explanation of the consultation that was undertaken by the Infrastructure Planner with AEMO and 
+Transgrid, which informed the Consumer Trustee’s assessment that authorising the project is consistent with the 
+objects related to reliability and security of supply. 
+• The IPRR’s explanation of the consultation that was undertaken by the Infrastructure Planner with local councils, 
+local communities, consumer groups and First Nations people, which is relevant to the local community support 
+and consultation with traditional Aboriginal owners objects. 
+• The Consumer Trustee’s assessment of whether authorising the project is in the long-term financial interests of 
+NSW electricity customers as discussed in section 4.2, which informed the Consumer Trustee’s assessment that 
+authorising the project is consistent with the affordability object.
+• The Consumer Trustee’s assessment of whether the Infrastructure Planner’s recommendations are consistent 
+with the RES Board Plan recommendations as discussed in section 4.4, which informed the Consumer Trustee’s 
+assessment that authorising the project is consistent with the economic development, employment, education 
+training and local industry objects.
+• The Consumer Trustee’s assessment of whether the Infrastructure Planner’s recommendations are consistent with 
+the First Nations Guidelines as discussed in section 4.4, which informed the Consumer Trustee’s assessment that 
+authorising the project is consistent with the additional objects of Parts 4 to 6 of the EII Act.
+• The Consumer Trustee’s assessment of whether authorising the project would create any material risks to the 
+achievement of the objects or involve any material trade-offs between objects. The Consumer Trustee’s assessment 
+is that there are not any material risks to the achievement of the objects that mean that authorising the project 
+would not be consistent with the objects of the EII Act. 
+Having considered the Infrastructure Planner’s recommendations and the other matters discussed above, the 
+Consumer Trustee is satisfied that authorising the project is consistent with the objects of the EII Act.
+===== PDF PAGE 21 =====
+© AEMO Services 2024  |  Authorisation of Main Central-West Orana Renewable Energy Zone Network Infrastructure Project 
+21
+4.4	 RES	Board	Plan	and	First	Nations	Guidelines	
+The EII Act requires the Minister to issue guidelines about consultation and negotiation with the local Aboriginal 
+community in relation to relevant REZ Network Infrastructure Projects, for the purpose of increasing employment 
+and income opportunities for the local Aboriginal community (First Nations Guidelines).22 A First Nations Guideline 
+that applies generally across NSW was published by the Minister in August 2022.23 A region-specific First Nations 
+Guideline for Central-West Orana was first published in August 2022 and updated in October 2023.24  
+The EII Act also requires the Minister to establish the NSW Renewable Energy Sector Board (RES Board).25 The 
+RES Board’s functions including preparing a plan for the NSW renewable energy sector, including the manufacture 
+and construction of infrastructure in the renewable sector (RES Board Plan).26 The RES Board Plan was published in 
+September 2022.27 
+The Consumer Trustee must take into account the RES Board Plan when exercising its functions to authorise a REZ 
+Network Infrastructure Project.28 The Consumer Trustee may impose a condition on an authorisation to give effect to 
+the First Nations Guidelines or the RES Board Plan.29 
+The IPRR contains a detailed explanation of the commitments that have been made by the network operator for the 
+Main CWO REZ Network Infrastructure Project and the Infrastructure Planner’s views on how these commitments meet 
+each of the recommendations of the RES Board Plan and First Nations Guidelines. 
+The information in the IPRR in relation to the RES Board Plan demonstrates that the network operator will meet 
+the RES Board Plan recommendations in relation to eligibility criteria, industry participation plans, local content 
+targets, evidence requirements, national security requirements, Australian Standards and monitoring, reporting and 
+compliance. It also demonstrates that the network operator will meet the First Nations Guidelines recommendations 
+in relation to preparing and implementing an Aboriginal participation plan, best practice engagement and monitoring 
+and reporting.
+The Consumer Trustee considers that the information in the IPRR demonstrates that the network operator will meet:
+• each of the eligibility criteria and minimum local content targets set out in the RES Board Plan;
+• some of the stretch goals for local content set out in the RES Board Plan; 
+• each of the recommendations set out in the RES Board Plan; and
+• each of the recommendations in the First Nations Guidelines. 
+The IPRR states that:
+• the network operator has developed a draft Industry and Aboriginal Participation Plan (IAPP) to give effect to these 
+commitments;
+• the network operator will be contractually required to meet the targets contained in its commitments under the 
+commitment deed and project deed that will be entered into by the network operator and the Infrastructure 
+Planner; 
+• the network operator will commence consultation on the draft IAPP with relevant stakeholders including 
+government departments, First Nations peoples and local communities after entry into the commitment deed; and
+• the network operator is required to submit the final IAPP to the Infrastructure Planner within 20 business days of 
+financial close under the Project Deed, and to review and update the IAPP every six months. 
+22	 EII	Act	section	4(1)
+23	 Available	at	https://www.energy.nsw.gov.au/sites/default/files/2022-08/first-nations-guidelines-increasing-income-and-employment-opportunities-from-electricity-
+infrastructure-projects.pdf
+24 https://www.energy.nsw.gov.au/sites/default/files/2023-10/NSW_Central-West_Orana_First_Nations_Guidelines_Oct_2023.pdf
+25	 EII	Act	section	7(1)
+26	 EII	Act	section	7(4)
+27	 Available	at	https://www.energy.nsw.gov.au/sites/default/files/2022-09/nsw-renewable-energy-sector-board-plan.pdf
+28	 EII	Act	sections	4(4)	and	9(1)
+29	 EII	Act	sections	4(5)(b)	and	9(4)
+===== PDF PAGE 22 =====
+© AEMO Services 2024  |  Authorisation of Main Central-West Orana Renewable Energy Zone Network Infrastructure Project 
+22
+The Consumer Trustee notes that this recommended approach means that the IAPP had not been finalised at the 
+time of the authorisation decision and could change from the draft IAPP and the commitments set out in the IPRR. 
+However, the Consumer Trustee considers that this approach to finalisation of the IAPP is appropriate due to the 
+benefits of consultation and the protections provided by including the agreed targets in the commitment deed that 
+was signed by the network operator and Infrastructure Planner in December 2023.
+The Consumer Trustee considers that the commitments set out in the IPRR do not create risks for the achievement 
+of the objects of the EII Act or the long-term financial interests of NSW electricity customers. In particular, the IPRR 
+explains why the Infrastructure Planner considers that these commitments have not materially increased the cost of the 
+project.
+The Infrastructure Planner does not recommend that the authorisation contain any conditions related to RES Board 
+Plan and First Nations Guidelines matters. The Consumer Trustee does not consider that any such conditions are 
+required.
+The Consumer Trustee encourages stakeholders who have an interest in these issues to participate in the consultation 
+on the network operator’s Industry and Aboriginal Participation Plan. 
+===== PDF PAGE 23 =====
+© AEMO Services 2024  |  Authorisation of Main Central-West Orana Renewable Energy Zone Network Infrastructure Project 
+23
+5. Maximum capital cost
+As required by the EII Act, the Consumer Trustee has, by written notice to the Regulator, set a maximum amount for 
+the capital costs for development and construction of the Main CWO REZ Network Infrastructure Project that may be 
+determined by the Regulator under section 38(4).30  
+In accordance with section 31(3) of the EII Act, the Consumer Trustee or the Regulator must not disclose this maximum 
+amount to any person.
+AEMO Services sets the maximum capital cost amount by reference to the net benefit to customers from its CBA. It is 
+important to note that this CBA is conducted across a range of conservative and optimistic scenarios, which results in 
+a range of net benefit outcomes considered by AEMO Services in setting the maximum amount.
+30	 	EII	Act	section	31(2)
+===== PDF PAGE 24 =====
+© AEMO Services 2024  |  Authorisation of Main Central-West Orana Renewable Energy Zone Network Infrastructure Project 
+24
+6.  Appendix – Legal requirements for the 
+decision 
+# Requirement
+Reference in this 
+Statement of 
+Reasons
+1. After	considering	the	Infrastructure	Planner’ s	recommendations	in	relation	to	REZ	
+Network	Infrastructure	Projects,	the	Consumer	Trustee	may	(a)	recommend	the	Minister	
+give	a	direction	under	section	32	to	a	network	operator	for	a	REZ	Network	Infrastructure	
+Project,	or	(b)	authorise	a	network	operator	to	carry	out	a	REZ	Network	Infrastructure	
+Project	(EII	Act,	s31(1)).
+The	Consumer	Trustee	is	not	required	to	consider	technical	information	other	than	
+technical	information	specified	in	EII	Regulation,	clause	44,31	and	provided	to	the	
+Consumer	Trustee	in	the	Infrastructure	Planner’ s	recommendation	(EII	Regulation,	clause	
+19(2)).
+Section	4
+2. If	the	Consumer	Trustee	authorises	a	network	operator	under	subsection	(1)(b),	the	
+Consumer	Trustee	must,	by	written	notice	to	the	Regulator,	set	a	maximum	amount	for	
+the	prudent,	efficient	and	reasonable	capital	costs	for	development	and	construction	of	
+the	REZ	Network	Infrastructure	Project	that	may	be	determined	by	the	Regulator	under	
+section	38(4)	(EII	Act,	s31(3)).
+The	Consumer	Trustee	or	the	Regulator	must	not	disclose	the	maximum	amount	to	any	
+person	(EII	Act	s31(3)).
+Section	5	
+3. The	Consumer	Trustee	is	to	consider	the	development	pathway	contained	in	the	latest	
+report	by	the	Consumer	Trustee	under	section	45	(EII	Act,	s31(5)).
+Section	4.1
+4. The Consumer Trustee will consider whether to, with respect to the First Nations 
+Guidelines: 
+• include,	in	a	recommendation	to	the	Minister	under	section	31(1)(a),	a	
+recommendation	that	a	condition	be	imposed	on	the	Minister’ s	direction;	or
+• impose	a	condition	on	an	authorisation	under	section	31(1)(b)	(EII	Act,	s4(5)).
+Section	4.4
+5. The Consumer Trustee will take into account the plan for NSW renewable energy sector 
+(EII Act, s9(1)) and consider whether to:
+• in	a	recommendation	to	the	Minister	under	section	31(1)(a),	include	a	
+recommendation	that	a	condition	that	is	consistent	with	the	plan	be	imposed	on	the	
+Minister’ s	direction;	or
+• impose	a	condition	that	is	consistent	with	the	plan	on	an	authorisation	under	section	
+31(1)(b)	(EII	Act,	s9(3)-(4)).
+Section	4.4
+6. The	Consumer	Trustee	is	to	act	independently	and	in	the	long-term	financial	interests	of	
+NSW	electricity	customers	(EII	Act,	s60(3)).
+Sections	2 and 4.2
+7. The	Consumer	Trustee	must	exercise	its	function	in	a	way	that	is	consistent	with	the	
+objects	of	the	EII	Act	(EII	Act,	s3(3)).
+Section	4.3
+8. An	authorisation	by	the	Consumer	Trustee	must	require	the	network	operator	to	enter	
+into	the	recommended	contractual	arrangements	(EII	Regulation,	cl	19A(2)).
+See	Notice	of	
+Authorisation
+31	 EII	Regulation,	clause	44	specifies	the	following:		(a)		technical	specifications	about	the	following—(i)		proposed	routes	of	the	network	infrastructure,	including	
+substation	locations,	(ii)		connections	between	proposed	and	existing	network	infrastructure,	(iii)		the	operating	voltages	and	network	capacity	of	the	network	
+infrastructure,		(b)		how	the	project	will	ensure	the	safe	operation	of	the	network	infrastructure	and	the	reliability	and	security	of	electricity	supply,		(c)		how	the	project	
+will	meet	the	system	strength	requirements	under	the	National	Electricity	Rules	for	the	NSW	region,		(d)		if	the	project	includes	class	3	network	infrastructure—details	
+of	the	person	who	is	proposed	to	own	or	control	the	network	infrastructure.

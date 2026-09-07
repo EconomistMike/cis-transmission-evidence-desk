@@ -1,0 +1,1300 @@
+<html>
+<meta charset="UTF-8">
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no, maximum-scale=1, shrink-to-fit=no">
+    <meta name="format-detection" content="telephone=no">
+    <title>Project EnergyConnect</title>
+    <link rel="stylesheet" href="css/main_v004.css">
+    <script src="js/TweenMax.min.js"></script>
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+	<link rel="manifest" href="/site.webmanifest">
+	<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+	<meta name="msapplication-TileColor" content="#2b5797">
+	<meta name="theme-color" content="#ffffff">
+<script src="https://www.google.com/recaptcha/api.js" async defer></script>
+
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-134203666-1"></script>
+	<script>
+	  window.dataLayer = window.dataLayer || [];
+	  function gtag(){dataLayer.push(arguments);}
+	  gtag('js', new Date());
+
+	  gtag('config', 'UA-134203666-1');
+	</script>
+
+</head>
+    
+<body style="width:100%;height:100%; overflow-y:hidden;scroll-behavior:smooth;">
+
+    <!--Theatre Mode-->
+    <div class="theatreMode" id="theatre" style="display:none" onclick="playVid()">
+        <div class="container">
+            <img src="images/theatreMode/whiteCross.svg" style="position:absolute; width:30px; top:132px; left:1527px; cursor:pointer;">
+            <div class="video" id="video"></div> 
+        </div> 
+    </div>
+    
+    <!--Fixed Navigation Arrows-->
+    <div id="arrowsMob" style="display:none">
+        <div id="arrow1" class="pointer z100" style="position:fixed; width:200px;" onclick="moveAlittle(0)">
+            <img class="arrows" src="images/overlay/energyConnect-icons-arrowAlt_v001-01.svg" style="float:right;"/>
+            <h5 class="absolute" style="width:200px; text-align:right; top:30%; right:35%; text-shadow: 0 0 20px #fff, 0 0 20px #fff, 0 0 20px #fff;">
+                Scroll to find<br>
+                out more
+            </h5>
+        </div>
+    </div>
+
+    <div id="arrowsComp" style="display:none">
+        <div id="arrow3" class="pointer z100" style="position:fixed; width:200px;" onclick="moveAlittle(0)">
+            <img class="arrows" src="images/overlay/energyConnect-icons-arrowAlt_v001-01.svg" style="float:right;"/>
+            <h5 class="absolute" style="text-align:right; top:35%; right:35%; text-shadow: 0 0 20px #fff, 0 0 20px #fff, 0 0 20px #fff">
+                Scroll to find<br>
+                out more
+            </h5>
+        </div>
+        <div id="arrow4" class="pointer z100" style="position:fixed; width:200px; opacity:0;" onclick="moveAlittle(1)">
+            <img class="arrows" src="images/overlay/energyConnect-icons-arrowAlt_v001-01.svg" style="transform: rotate(180deg);"/>
+            <h5 style="position:absolute; left:35%; top:35%; text-shadow: 0 0 20px #fff, 0 0 20px #fff, 0 0 20px #fff;">
+                Scroll to find<br>
+                out more
+            </h5>
+        </div>
+    </div>
+
+
+    
+    <!--Main-->
+    <img id="h17" class="absolute pointer z101" src="images/onlineEngagementElectraNet_03.png" style="filter: drop-shadow(5px 5px 5px #77777777);" onClick="loadVirtualRoom()"/>
+    	
+    <div id="backgroundDiv" class="z0" style="background-image: linear-gradient(#83BFDB,#67CD94,#E1EC9A); position:fixed; width:100%; height:100%; bottom:0;"></div>
+    
+    <div class="imgdiv" id="imgdiv" style="font-size:100px;bottom:0;"> 
+		<a id="h19" class="black hideonbig shift" href="/news" style="position:absolute; z-index:102; font-family:proximaMedium; font-size:25px;"><img id="h19I" src="images/latestNews_icon.svg" style="margin-left:32px; height:70px; display:block;">Latest News</a>
+		<img  id="h22" onClick="loadVirtualRoom()"  class="black hideonbig shift"  src="images/onlineEngagementElectraNet_03.png" style="position:absolute; top:726px; left:412px; z-index:102; font-family:proximaMedium; font-size:23px;width:100px;cursor:pointer;">
+        <!--Home Page-->
+        <div class="innerImgDiv" id="homePage">
+            <img class="imgP" src="images/landingPage/transmissionLineFaint_v002.png" style="position:absolute;left:0%;top:0;height:100%">
+            <img id="h18" class="shift" src="images/overlay/logoVertical_v004.svg" style="position:absolute;left:0%;">
+            <img src="images/landingPage/skewBox2.svg" class="skewBox imgP" id="skewBox2" style="background:white">
+            <div class="straightBox imgP" id="straightBox1" style="background:white"></div>
+            <img id ="ribbon1" src="images/ribbon-SVGS/projectEnergyConnect-landingPage-ribbonCore_v012.svg" style="position:absolute; height:56%; width:auto;">
+            <h1 id="h1" class="shift" style="position:absolute; font-size:0.26em; line-height:1.2em;">
+                <br>
+                ElectraNet and Transgrid are partnering<br>
+                to deliver an energy interconnector<br/>
+                between the power grids of South<br />
+                Australia and New South Wales, with an<br>
+                added connection to Victoria
+            </h1>
+            <h1 id="h42" class="shift absoluteOpacity z4 font40">
+                Current status
+            </h1>
+            <div id="h4" class="shift absoluteOpacity">
+				<p>
+					Construction on Project EnergyConnect is well advanced in NSW and ElectraNet has<br>
+					completed the more than 200km component of the project in South Australia, from<br>
+					Robertstown to the South Australian border.<br>
+					<br>
+					Transgrid and its construction partner Elecnor Australia are getting on with the job of delivering<br>
+					the 700km NSW section of this nation-critical infrastructure.<br>
+					<br>
+					Works are well underway on the project’s western alignment and one of the biggest and most<br>
+					complex substations in the Southern Hemisphere is fast taking shape at Buronga and large<br>
+					equipment such as power transformers, a phase shifting transformer and two synchronous<br>
+					condensers have arrived on site.<br>
+					<br>
+					Construction works are also underway on the project’s eastern alignment including a world-class<br>
+					substation at Dinawan near Coleambally, NSW.
+				</p>
+
+            </div>
+<!--            <h1  id="h52" class="shift absoluteOpacity z4 font40">
+                Next steps
+            </h1>
+            <div id="h5" class="shift absoluteOpacity">
+                <p>
+					Construction of the South Australian component begins in early 2022 at the SA <br />
+					and NSW border and will head west towards Robertstown. Landholder engagement will <br />
+					be ongoing to manage onsite activities.<br />
+					<br />
+					Construction of the NSW component begins in early 2022 at the Buronga substation and<br />
+					will head west towards the SA border. Landholder engagement, Environmental Impact<br />
+					Statement preparation and exhibition for the Eastern section will be ongoing throughout<br />
+					the first half of 2022.<br />
+                </p>
+            </div>-->
+            <h1 id="h62" class="shift absoluteOpacity z4 font40">
+                What is an interconnector?
+            </h1>
+            <div id="h6" class="shift absoluteOpacity">
+                <p style="width:100%">  
+
+                    An electricity interconnector is a connection that allows power to flow between regions in the
+					<br>National Energy Market, providing access to a larger number of electricity generators.<br>Interconnectors are
+					common around the world, including here in Australia. Project EnergyConnect involves the construction of
+					a new 330 kilovolt (kV) above ground transmission line, with approximately<br>800MW transfer capacity.
+					Project EnergyConnect will connect South Australia and New South Wales,<br>with an added connection to north west Victoria.
+                </p>
+            </div>
+            <img id="h8" class="shift absoluteOpacity" src="images/landingPage//calendarCircle-charcoal-icon_v001.png"/>
+            <!--<img id="h10" class="shift absoluteOpacity" src="images/landingPage/auCircle-charcoal-icon_v001.png"/>-->
+            <img id="h11" class="shift absoluteOpacity" src="images/landingPage/projectEnergyConnectCircle-charcoal-icon_v001.png"/>
+            <a href="https://www.electranet.com.au/" target="_blank">
+                <img id="h13" class="shift imgHover absolute z4" src="images/landingPage/electranet_v001.png"  height="25px"/></a>
+            <a href="https://www.transgrid.com.au/" target="_blank">
+                <img id="h12" class="shift imgHover absolute z4" src="images/Transgrid_Logo_RGB.png"/>
+            </a>
+            <img src="images/landingPage/island-energyGeneration_v003.png" class="absolute pointer" id="h15" onClick="playVid()"/>
+            <div id="h16" class="shift absolute" onClick="playVid()">
+            </div>
+        </div>
+        
+        <!--About Page-->
+        <div class="innerImgDiv" style="background:#fff;" id="about">            
+			<img id ="ribbon2" src="images/ribbon-SVGS/projectEnergyConnect-aboutPage_v012.svg" style="position:absolute;">
+			<img class="imgP" src="images/aboutPage/image_01.jpg">
+            <h1 id="a1" class="shift" style="position:absolute; color:white; font-size:0.65em; line-height:1.1em; text-shadow: 1px 1px 8px #373737; opacity:0">
+                Enabling the transition of<br>
+                Australia's energy network<br>
+                to a greater mix of<br>
+                renewables
+            </h1>
+            <p id="a2" class="shift" style="position:absolute; color:white; opacity:0; text-shadow: 1px 1px 8px #373737;">
+                <span>
+				Project EnergyConnect's route passes though renewable energy zones in South Australia,<br>
+                New South Wales and Victoria. This means future renewable projects in these areas<br>
+                will be able to connect to the grid and supply new energy into the network.<br><br>
+                </span>
+            </p>
+            <h1 id="a3" class="shift absolute font48b" style="position:absolute; opacity:0;">
+                Forecast Benefits
+            </h1>
+            <p id="a4" class="shift" style="position:absolute; opacity:0;">
+                Project EnergyConnect will deliver a range of direct benefits<br>
+                for consumers in South Australia, New South Wales and Victoria including<br>
+                lower power prices, improved energy security and increased economic activity.<br><br>
+                
+				Opportunities will also be created for regional communities through job<br>
+                creation and local procurement during construction and in the longer<br>
+                term as new energy projects come online.
+            </p>
+            <h1 id="a7" class="shift2 a7">
+                Downward Pressure on Prices
+            </h1>            
+            <h1 id="a8" class="shift2 a7">
+                Energy Security
+            </h1>            
+            <h1 id="a9" class="shift2 a7">
+                Increased Economic Activity
+            </h1>
+            <ul id="a10" class="shift2 font18 energy" style="position:absolute;opacity:0;">
+                <li>
+                    Approximately <span>200 jobs</span> in SA and <span>1500 jobs</span> in NSW created during construction
+                </li>
+                <li style="padding-top:10px;">
+                    Increase in real incomes in regions hosting the interconnector infrastructure by <span>$163 million</span> in SA and <br /><span>$209 million</span> in NSW
+                </li>
+                <li style="padding-top:10px;">
+                    Enabling the development of <span>new renewable projects</span> at connection points and facilitating the growth of <br />associated industries
+                </li>
+                <li style="padding-top:10px;">
+                    Creating approximately <span>250 ongoing jobs</span> in SA and <span>700 ongoing jobs</span> in NSW from new energy generation<br /> projects that would be enabled by the interconnector
+
+                </li>
+            </ul>
+            <ul id="a11" class="shift2 font18 absoluteOpacity energy">
+                <li>
+                    Enabling a greater mix of <span>renewable energy generators</span> to connect into the network
+                </li>
+                <li style="padding-top:10px;">
+                    <span>Increasing reliability</span> and <span>confidence</span> in electricity supply
+                </li>
+            </ul>
+            <ul id="a12" class="shift2 font18 absoluteOpacity energy">
+				<!--<li>
+					Typical residential electricity bills are estimated to be reduced annually by <span>$100</span> in SA while businesses can expect higher savings,<br />proportional to their energy use. Project EnergyConnect will save NSW customers <span>$180</span> million per year
+				</li>-->
+				<li>
+					Once in full operation the new interconnector is expected to deliver bill savings of <span>$127</span> for a typical South Australian<br />residential power customer and between $6,000 and $18,000 for business customers.<br />Project EnergyConnect will save NSW customers <span>$180</span> million per year
+				</li>
+            </ul>
+            <img id="a14" class="shift3" src="images/aboutPage/dollarIcon.png" style="position:absolute;"/>
+            <img id="a15" class="shift3" src="images/aboutPage/shieldIcon.png" style="position:absolute;"/>
+            <img id="a16" class="shift3" src="images/aboutPage/graphIcon.png" style="position:absolute;"/>		
+            <img class="imgP" src="images/aboutPage/image_02.jpg" style="float:right">
+
+        </div>
+        
+        <!--Proposed Route-->
+        <div class="innerImgDiv" id="proposed">
+            <svg height="0" width="0" xmlns="http://www.w3.org/2000/svg">
+                <filter id="drop-shadow">
+                    <feGaussianBlur in="SourceAlpha" stdDeviation="4"/>
+                    <feOffset dx="1" dy="1" result="offsetblur"/>
+                    <feFlood flood-color="rgba(0,0,0,0.72)"/>
+                    <feComposite in2="offsetblur" operator="in"/>
+                    <feMerge>
+                        <feMergeNode/>
+                        <feMergeNode in="SourceGraphic"/>
+                    </feMerge>
+                </filter>
+            </svg>
+			<img id="australiaImg" src="images/potentialRoute/australia_v005.png" style="position:absolute;z-index:4" />
+            <img src="images/potentialRoute/skewBox3.svg" class="imgP" id="skewBox3" style="position:absolute;">
+            <div class="straightBox imgP" id="straightBox2" style="position:absolute;background:white;"></div>
+			<img id ="ribbon3" src="images/ribbon-SVGS/projectEnergyConnect-aboutRouteStatus-outlined_v014-01.svg" style="position:absolute; z-index:1; height:53%; width:auto;">
+
+            <h1 id="p1" class="shift font60 absoluteOpacity textShadow" style="color:white;">
+				Connecting Robertstown in<br>
+                South Australia and Wagga Wagga<br>
+                in New South Wales with a<br>
+                connection to north west Victoria
+                
+            </h1>
+            <h2 id="p2" class="shift proximaMedium absoluteOpacity textShadow font25">
+                Approximate total length of <span>900km</span>
+            </h2>
+            <h2 id="p3" class="shift proximaMedium absoluteOpacity textShadow font25">
+                Connecting <span>Robertstown</span> to <span>Wagga Wagga</span> via <span>Buronga</span><br>
+                with an added connection to <span>Red Cliffs</span>
+
+            </h2>
+            <h2 id="p11" class="shift proximaMedium absoluteOpacity textShadow font25">
+                &nbsp;
+            </h2>
+            <h2 id="p4" class="shift proximaMedium absoluteOpacity textShadow font25">
+				The route was selected after undertaking environmental, <br>
+				social, cultural and engineering studies, delivered by <br>
+				independent experts and informed by stakeholder and <br>
+				community feedback. Findings formed part of environmental <br>
+				and planning assessment processes and engineering design.
+            </h2>            
+            <h1 id="p6" class="shift absolute font60">
+                Selecting the route
+            </h1>
+            <div id="p7" class="shift absoluteOpacity">
+                <h2 style="font-size:0.27em; text-align:center;">
+                    Discussions with landholders
+                </h2>
+            </div>
+            <p id="p8" class="shift absoluteOpacity font18" style="text-align:center;">
+				We have met with relevant landholders to discuss<br/>
+				the proposed route. Discussions will be ongoing<br/>
+				as the project moves through the construction<br/>
+				stage, to plan and manage onsite activities.
+            </p>
+            <div id="p21" class="shift absoluteOpacity">
+                <h2 style="font-size:0.27em; text-align:center;">
+                    Environmental and planning <br> 
+                    assessments
+                </h2>
+            </div>
+            <p id="p22" class="shift absoluteOpacity font18" style="text-align:center;">
+				We have undertaken a range of studies as part<br>
+				of environmental and planning approval processes,<br>
+				to explore environmental, social, cultural and<br>
+				engineering considerations. 
+            </p>
+            <div id="p9" class="shift absoluteOpacity">
+                <h2 style="font-size:0.27em;">
+                    Community input
+                </h2>
+            </div>
+
+            
+            
+            <p id="p10" class="shift absoluteOpacity font18 z5" style="text-align:center;">
+				We have sought community views from the<br />outset and will continue to do so and encourage anyone interested in receiving project updates to<br /><span class="pointer" onclick="signup()" style="color:#813989">sign up here.</span>
+            </p>
+            <img id="p13" class="dropShadow shift absoluteOpacity" src="images/potentialRoute/doubleArrow.png"/>
+            <img id="p14" class="dropShadow shift absoluteOpacity" src="images/potentialRoute/marker.png"/>
+            <img id="p15" class="dropShadow shift absoluteOpacity" src="images/potentialRoute/personWithLeaf.png"/>
+            <div>
+                <img id="p16" class="shift absoluteOpacity" src="images/potentialRoute/person.png"/>
+                <img id="p23" class="shift absoluteOpacity" src="images/potentialRoute/leaf.png">
+                <img id="p17" class="shift absoluteOpacity" src="images/potentialRoute/speechBubble.png"/>
+            </div>
+            <h1 id="p19" class="shift absolute z2 font34">
+                <div style="float:left">Current engagement activities</div><img style="float:right;    transform: translate(20px);" id="p20" class="shift absolute pointer z2" src="images/onlineEngagementElectraNet_03.png" onClick="loadVirtualRoom()">
+            </h1>
+            
+        </div>
+        
+        <!--Status-->
+        <div class="innerImgDiv" id="status">
+            <h1 id="s1" class="shift absolute font48" style="color:black">
+                Anticipated<br>
+                Timelines
+            </h1>
+            <div id="s2" style="position:absolute; top:0; left:13168px">
+                <img id="l1" class="shift relativeOpacity z2"  src="images/status/lollipopisolated_v006/lollipopIsolated_v006-01.png" onmouseenter="spin('l1', null, 1)"/>
+                <img id="l2" class="shift relativeOpacity z2"  src="images/status/lollipopisolated_v006/lollipopIsolated_v006-02.png" onmouseenter="spin('l2', null, 1)"/>
+                <img id="l3" class="shift relativeOpacity z2"  src="images/status/lollipopisolated_v006/lollipopIsolated_v006-03.png" onmouseenter="spin('l3', null, 1)">
+                <img id="l4" class="shift relativeOpacity z2"  src="images/status/lollipopisolated_v006/lollipopIsolated_v006-04.png" onmouseenter="spin('l4', null, 1)"/>
+                <img id="l5" class="shift relativeOpacity z2"  src="images/status/lollipopisolated_v006/lollipopIsolated_v006-05.png" onmouseenter="spin('l5', null, 0)"/>
+                <img id="l6" class="shift relativeOpacity z2"  src="images/status/lollipopisolated_v006/lollipopIsolated_v006-06.png" onmouseenter="spin('l6', null, 0)"/>
+                <img id="l7" class="shift relativeOpacity z2"  src="images/status/lollipopisolated_v006/lollipopIsolated_v006-07.png" onmouseenter="spin('l7', null, 0)"/>
+                <!--<img id="l8" class="shift relativeOpacity z2"  src="images/status/lollipopisolated_v006/lollipopIsolated_v006-08.png" onmouseenter="spin('l8', null, 0)"/>-->
+                <img id="l9" class="shift relativeOpacity z2"  src="images/status/lollipopisolated_v006/lollipopIsolated_v006-09.png" onmouseenter="spin('l9', null, 0)"/>
+                <!--<img id="l10" class="shift relativeOpacity z2" src="images/status/lollipopisolated_v005/lollipopIsolated_v005-10.png" onmouseenter="spin('l10', null, 0)"/>
+                <img id="l11" class="shift relativeOpacity z2" src="images/status/lollipopisolated_v005/lollipopIsolated_v005-11.png" onmouseenter="spin('l11', null, 0)"/>
+                <img id="l12" class="shift relativeOpacity z2" src="images/status/lollipopisolated_v005/lollipopIsolated_v005-12.png" onmouseenter="spin('l12', null, 0)"/>
+                <img id="l13" class="shift relativeOpacity z2" src="images/status/lollipopisolated_v005/lollipopIsolated_v005-13.png" onmouseenter="spin('l13', null, 0)"/>
+                <img id="l14" class="shift relativeOpacity z2" src="images/status/lollipopisolated_v005/lollipopIsolated_v005-14.png" onmouseenter="spin('l14', null, 0)"/>
+                <img id="l15" class="shift relativeOpacity z2" src="images/status/lollipopisolated_v005/lollipopIsolated_v005-15.png" onmouseenter="spin('l15', null, 0)"/>-->
+            </div>     
+            <p id="s4" class="shift absoluteOpacity font17" style="z-index:100;">
+                
+            </p>         
+            <p id="s5" class="shift absoluteOpacity font17">
+
+            </p>            
+            <p id="s6" class="shift absoluteOpacity font17">
+               <span style="float:left;text-align:right">
+					AER <br />
+					EIS <br />
+					NER <br />
+					PEC <br />
+				</span><span style="float: left;width: 80%;text-align: left;font-family: proximaLight !important;padding-left: 20px;">
+					Australian Energy Regulator <br />
+					Environmental Impact Statement <br />
+					National Electricity Rules <br />
+					Project EnergyConnect <br />
+				</span>
+            </p>
+            <h1 id="s7" class="shift absolute z2 font48">
+                <div style="float:left">Community and Stakeholder Engagement</div><img id="s8" style="float:right" class="shift absolute pointer z2" src="images/overlay/getInvolved.png" onClick="signup()"/>
+
+            </h1>
+
+            <img id="transmissionMan" class="imgP" src="images/status/transmissionTowerMan.jpg" style="position:absolute; top:0px; height:100%" />
+			<img src="images/status/skewBox4.svg" class="imgP" id="skewBox4" style="position:absolute;height: 100%;">
+
+        </div>
+        
+        <!--NEM-->
+        <div class="innerImgDiv" id="nem">
+			<img id ="ribbon4" src="images/ribbon-SVGS/projectEnergyConnect-nemEngage-outlined_v009.svg" style="position:absolute; height:69.8%; width:auto;z-index:1">
+			<img src="images/nem/skewBox5.svg" class="imgP" id="skewBox5" style="position:absolute;height: 100%;"/>
+			<div class="imgP" id="straightBox4" style="position:absolute;background-image: linear-gradient(#83BFDB,#67CD94,#E1EC9A)"></div>
+			
+            <img id="australiaNEM" src="images/nem/australia-NEM_v003.png" style="position:absolute;top:20%;z-index:1" />
+            
+            <h1 id="n1" class="shift absoluteOpacity font40 white textShadow">
+                The National Electricity Market<br>
+                (NEM) operates across the eastern<br>
+                and southern states of Australia,<br>
+                extending from far north Queensland<br>
+                to western South Australia
+            </h1>
+
+            <div id="n3" class="shift absoluteOpacity z3" onmouseover="spin('n3',null,0)">
+                <h2 class="font25 center textShadow">
+                    <span>Energy<br>
+                    Generation</span>
+                </h2>
+                <div id="is1" class="nemIslands"></div>
+            </div>
+            <div id="n4" class="shift absoluteOpacity z3" onmouseover="spin('n4',null,0)">
+                <h2 class="font34 textShadow">
+                    <span>Transmission<br>
+                    Lines</span>
+                </h2>
+				<div id="is2" class="nemIslands2" style="background-position:33.4% 0px;"></div>
+            </div>            
+            <div id="n5" class="shift absoluteOpacity z3" onmouseover="spin('n5',null,0)">
+                <h2 class="font25 center textShadow">
+                    <span>Distribution<br>
+                    Lines</span>
+                </h2>
+
+				<div id="is3" class="nemIslands" style="background-position:66.4% 0px;"></div>            </div>            
+            <div id="n6" class="shift absoluteOpacity z3" onmouseover="spin('n6',null,0)">
+                <h2 class="font25 center textShadow">
+                    <span>Energy<br>
+                    Use</span>
+                </h2>
+
+				<div id="is4" class="nemIslands" style="background-position:100.1% 0px;"></div>            </div>
+            <h1 id="n7" class="shift absoluteOpacity font40 textShadow white" style="text-align:center;">
+                Enabling future renewable energy projects to connect to the electricity grid 
+            </h1>
+            <p id="n8" class="shift absoluteOpacity textShadow white" style="text-align:center;">
+				<span>The NEM involves wholesale generation that is transported via high voltage transmission lines<br>
+                from generators to large industrial energy users and to local electricity distributors, who deliver<br>
+                it to homes and businesses.</span>
+            </p>       
+        </div>
+        
+        <!--Engage-->
+        <div class="innerImgDiv" id="engage">
+            <div class="straightBox imgP" id="straightBox3" style="position:absolute;background:white;"></div>
+			<img src="images/engagePage/skewBox6_751H.svg" class="imgP" id="skewBox6" style="position: absolute;height: 100%;"/>
+
+            <h1 id="e1" class="shift absoluteOpacity font63">
+                Project EnergyConnect is<br>
+                focused on delivering benefits<br>
+                for customers, communities<br>
+                and businesses
+            </h1>
+            <p id="e2" class="shift absoluteOpacity">
+                We are committed to open and transparent engagement with stakeholders and community members.<br>
+				Updates will be made available on the Project EnergyConnect website when they are available.
+            </p>
+            <p id="e3" class="shift absoluteOpacity z1 center">
+				Project EnergyConnect has engaged with the community and stakeholders from its very beginning, keeping people informed and exploring their views to help shape the Project.<br><br>
+We will continue to keep you informed and welcome any questions, comments or feedback you might have.
+            </p>
+            <h1 id="e10" class="proximaMedium shift absoluteOpacity white center textShadow font34">
+                Contact Project EnergyConnect
+            </h1>
+            <p id="e4" style="z-index:2" class="proximaMedium shift absoluteOpacity white center font18">
+                <span class="textShadow">For SA and general enquiries,<br>
+                contact ElectraNet<br></span>
+                Email: <span><a href="mailto:ProjectEnergyConnect@electranet.com.au" style="color:white">ProjectEnergyConnect@electranet.com.au</a></span><br>
+                Phone: <span><a href="tel:1800 560 577" style="color:white">1800 560 577</a></span>
+                
+            </p>            
+            <p id="e7" style="z-index:2" class="proximaMedium shift absoluteOpacity white center font18">
+                <span class="textShadow">For NSW and Victoria enquiries,<br>
+                contact Transgrid<br></span>
+                Email: <span><a href="mailto:pec@transgrid.com.au" style="color:white">pec@transgrid.com.au</a></span><br>
+                Phone: <span><a href="tel:1800 49 06 66" style="color:white">1800 49 06 66</a></span><br><br>
+                
+            </p>            
+            <h2 id="e5" class="proximaMedium shift absoluteOpacity font18 textShadow white" style="z-index:3">
+                Sign up here for regular updates
+            </h2>
+            <div id="e6" class="shift absoluteOpacity z5" style="z-index:3">
+                <form style="text-size:0.12em; margin:0;" action="javascript:void(0)" method="POST" id="POSTFORM">
+                    <div class="g-recaptcha"
+					data-sitekey="6Lee0KcZAAAAACybnRvgA5mH5Ofhe8YSz5egoMC3"
+				  data-callback="sendData"
+				  data-size="invisible" style="transform:scale(0)">
+		</div>
+		<input id="f1" type="text" placeholder="Name" name="name" style="border: 1px; width:376px; height:27px; border:0; text-align: center; display:block; font-size:0.15em; border-radius:5px;">                    
+                    <input id="f2" type="text" placeholder="Email Address" name="email" style="border: 1px; width:376px; height:27px; border:0; text-align: center; display:block; font-size:0.15em; margin-top:5px; border-radius:5px;">                    
+                    <input id="f3" type="text" placeholder="Phone number (optional)" name="phone" style="border: 1px; width:376px; height:27px; border:0; text-align: center; display:block;font-size:0.15em; margin-top:5px; border-radius:5px;">
+                    <select id="f5" type="text" placeholder="Location" name="location" style="border: 1px; width:376px; height:27px; border:0; text-align: center; text-align-last:center; display:block;font-size:0.15em; margin-top:5px; border-radius:5px;">
+                        <option value="0" class="center">Location:</option>
+                        <option value="1" class="center">SA</option>
+                        <option value="2" class="center">NSW</option>
+                        <option value="3" class="center">VIC</option>
+                        <option value="4" class="center">Other</option>
+                    </select>
+                    <input id="f4" type="button" value="Sign Up" onClick="checkStuff()" style="font-size:0.15em; color:white; width:200px; height:37px; background-color:rgba(43,171,216,0.8); border:0; margin-top:5px; margin-left:5.85em; display:inline; border-radius:5px; -webkit-appearance:none;">
+                </form>
+            </div>
+			<img id="e11" class="absolute" src="images/engagePage/handsHoldingLightBulb.PNG" />
+            <img id="e8" class="shift absolute" src="images/overlay/getInvolved3.png" style=" opacity:1;"/>
+            <img id="e9" class="shift absoluteOpacity z2" src="images/engagePage/island-04-use_v003.png"/>
+            <a href="https://www.facebook.com/ProjectEnergyConnect/" target="_blank"><img class="shift absolute z2" id="e12" src="images/facebook_icon.svg"></a>            
+            <a href="https://www.facebook.com/TransGrid/" target="_blank"><img class="shift absolute z2" id="e13" src="images/facebook_icon.svg"></a>
+
+        </div>
+        
+    </div>
+    
+    <!--Navigation Bar-->
+    <nav class="navbar navbar-expand-lg navbar-light bg-light" style="overflow:hidden">
+        <a class="navbar-brand" onClick="moveTo(0,0)" style="cursor:pointer; height:77%;"><img src="images/overlay/logoHorizontal_v004.svg" height="100%" style="padding-left:15px;" id='logoHorizontal'></a>
+        <img class="collapsedTopButton" src="images/overlay/icon-menu_v001.png" height="35%" id="collapsedTopButton"  onClick="toggleLinks()">
+        <div class="navdiv collapsey" style="position:absolute; right:0px; top:0; height:100%;"> 
+            <ul class="navbar-nav" style="float:right; text-decoration:none; right:0; list-style: none; font-family: proximaMedium; margin:0;">
+                <li class="tabs"><a class="black" href="/news"><img src="images/latestNews_icon.svg" style="padding-right:5px; height:40px;">Latest News</a></li>
+                <li class="tabs"><a class="black" href="/events"><img src="images/upcomingEvents_icon.svg" style="padding-right:5px; height:40px;">Project Events</a></li>
+                <!--<li class="tabs"><a class="black" href="https://energyconnect.mysocialpinpoint.com.au/project-energyconnect-home" target="_blank"><img src="images/interactiveMap_icon.svg" style="padding-right:5px; height:40px;">Interactive Map</a></li>-->
+                <li class="tabs" onClick="toggleInfoDrop()"  style="cursor:pointer"><img src="images/moreInformation_icon.svg" style="padding-right:5px; height:40px; font-family: proximaMedium">More Information</li>
+                <li class="tabs" onClick="moveTo(5,0)" style="cursor:pointer"><img src="images/overlay/getInvolved2.png" style="padding-right:5px; height:40px;"></li>
+            </ul>
+        </div>
+    </nav>
+	<div  id="hamCollapse2" style="width: 234px;right: 198px;left: unset;top: calc(10% - 14px);z-index:100;position:fixed">
+        <div id="collapse2" style="overflow:hidden;height:0px;transition:all 250ms ease-out;">
+            <div style="height:600px;">
+                <ul style="background-colour: rgba(0,0,0,0); text-align:left">
+                    <div class="dropdown" style="width:200px;box-shadow: -5px 5px 7px 0px #888;" onClick="document.location='/resources'">
+                        <li style="display:inline-block">
+						  <img src="images/imgDoc_menu.svg" style="height:40px; padding-right:5px;">
+                          <p style="font-size:1rem; cursor:pointer; float:right; margin-top:10px; font-family: proximaMedium">
+                                Resources
+                            </p>
+                        </li>
+                    </div>
+                    <div class="dropdown" style="width:200px;box-shadow: -5px 5px 7px 0px #888;" onClick="document.location='/faqs'">
+                        <li style="display:inline-block">
+                            <img src="images/moreInformation_icon.svg" style="height:40px; padding-right:5px;">
+                            <p style="font-size:1rem; cursor:pointer; float:right; margin-top:10px; font-family: proximaMedium">
+                                FAQs
+                            </p>
+                        </li> 
+                    </div>
+				</ul>
+			</div>
+		</div>
+	</div>
+    <!--DropDown Menu-->
+    <div class="dropDownDiv" id="navCollapse">
+		<div style="float:left;width:42px;text-align:left;padding-bottom: 17px;" class="collapsey">
+        </div>
+        <div id="collapse" class="contentContainer" style="overflow:hidden;height:0px;transition:all 500ms ease-out;">
+            <div style="height:600px;">
+                <ul class="secretContent" style="background-colour: rgba(0,0,0,0);">
+                    <div class="dropdown" onClick="document.location='/news'">
+                        <li>
+                            <img src="images/latestNews_icon.svg" style="padding-right:5px;">
+                            <p class="dropdownp">
+                                Latest News
+                            </p>
+                        </li>
+                    </div>
+                    <div class="dropdown" onClick="document.location='/events'">
+                        <li>
+                            <img src="images/upcomingEvents_icon.svg" style="padding-right:5px;">
+                            <p class="dropdownp">
+                                Project Events
+                            </p>
+                        </li> 
+                    </div>
+                    <!--<div class="dropdown" onClick="document.location='https://energyconnect.mysocialpinpoint.com.au/project-energyconnect-home'">
+                        <li>
+                            <img src="images/interactiveMap_icon.svg" style="padding-right:5px;">
+                            <p class="dropdownp">
+                                Interactive Map
+                            </p>
+                        </li>
+                    </div>-->
+                    <div class="dropdown" onClick="document.location='/resources'">
+                        <li>
+                            <img src="images/imgDoc_menu.svg" style="padding-right:5px;">
+                            <p class="dropdownp">
+                                Resources
+                            </p>
+                        </li>
+                    </div>
+                    <div class="dropdown" onClick="document.location='/faqs'">
+                        <li>
+                            <img src="images/moreInformation_icon.svg" style="padding-right:5px;">
+                            <p class="dropdownp">
+                                FAQs
+                            </p>
+                        </li>
+                    </div>
+                    <div id="drop5" class="dropdown">
+                        <li>
+                            <p class="dropdownp" onClick="loadVirtualRoom()">
+                                Visit ElectraNet's online EIS engagement room
+                            </p>
+                        </li>                    </div>
+                </ul>
+                <ul class="nav-contentHidden" style="background-color: rgba(0,0,0,0);">
+                    <div id="drop1" class="dropdown" onClick="toggleLinks();moveAndToggle(1,0)">
+                        <li><p style="font-size:1rem; font-family: proximaMedium">About</p></li>
+                    </div>
+                    <div id="drop2" class="dropdown" onClick="toggleLinks();moveAndToggle(2,0)">
+                        <li><p style="font-size:1rem; font-family: proximaMedium">Interconnector Route</p></li>         
+                    </div>
+                    <div id="drop3" class="dropdown" onClick="toggleLinks();moveAndToggle(3,0)">
+                        <li><p style="font-size:1rem; font-family: proximaMedium">Status</p></li>
+                    </div>
+                    <div id="drop4" class="dropdown" onClick="toggleLinks();moveAndToggle(4,0)">
+                        <li><p style="font-size:1rem; font-family: proximaMedium">National Energy Market</p></li>
+                    </div>
+                    <div id="drop5" class="dropdown">
+                        <li><p style="font-size:1rem; font-family: proximaMedium" onClick="loadVirtualRoom()">Visit ElectraNet's online EIS engagement room</p></li>
+                    </div>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+    <script src="js/newFormat34.js"></script>
+    
+    
+    <script>
+//window.addEventListener("touchmove", function(event) {event.preventDefault();}, {passive: false} );
+        
+        function loadVirtualRoom(){
+			document.location = 'https://v2.communityanalytics.com.au/jbsg/ec'
+		}
+        
+        
+        
+        window.addEventListener("click", function(event){
+            if (event.target != document.getElementById('collapsedTopButton')) {
+                nav = document.getElementById('collapse')
+                nav.style.height = '0px';
+            }
+        });
+        
+        window.addEventListener("touchend", function(event){
+            if (event.target != document.getElementById('collapsedTopButton')) {
+                nav = document.getElementById('collapse')
+                nav.style.height = '0px';
+            }
+        });
+		
+		mobile = 0
+		scrollingType = 0
+		if ((typeof window.orientation !== "undefined") || (navigator.userAgent.indexOf('IEMobile') !== -1)) {
+			scrollingType = 1
+            document.getElementById('arrowsMob').style.display = 'block';
+            document.getElementById('navCollapse').style.width = '100%';
+            document.getElementById('navCollapse').style.fontSize = '1.5em';
+            if(/iP(hone|ad)/.test(window.navigator.userAgent)) {
+                window.setInterval(function(){if(window.scrollY > 0 ){window.scrollTo(window.scrollX,0)}}, 50);
+            }
+			mobile = 1
+		} else {
+			if (navigator.userAgent.indexOf('Edge') >= 0 || navigator.userAgent.indexOf('MSIE ') >= 0 || navigator.userAgent.indexOf('Trident/') >= 0){
+				scrollingType = 1
+			}
+			document.getElementById('arrowsComp').style.display = 'block';
+		}
+		
+		
+		if (scrollingType == 1){
+			document.getElementById('imgdiv').style.position= 'absolute';
+			document.getElementById('imgdiv').style.height= window.innerHeight;
+			document.getElementById('imgdiv').style.maxHeight= window.innerHeight;		
+		}
+		
+		function toggleInfoDrop(){
+			bb = document.getElementById('collapse2')
+			if (bb.style.height == '0px'){
+				document.getElementById('collapse').style.height = '0px'
+				bb.style.height = '125px'
+			} else {
+				bb.style.height = '0px'
+			}
+		}
+		function toggleInfoOff(){
+			document.getElementById('collapse2').style.height = '0px'
+			document.getElementById('collapse').style.height = '0px'
+			
+		}		
+		
+		
+		function checkphone(x){
+			number = x
+			if (number == ''){
+				return true
+			}
+			if (number[0] == '+'){
+				number = number.substr(1,number.length)
+			}
+			if (!(/^[\s\d]*$/.test(number)) || number.length < 8){
+				return false
+			}
+			return true
+		}
+		
+		
+		function checkStuff(){
+			
+			loc = document.getElementById('f5').value
+			name = document.getElementById('f1').value
+			email = document.getElementById('f2').value
+			phone = document.getElementById('f3').value
+			
+			if (loc == 0){
+				alert('Please select a location')
+			} else if (name.length == 0){
+				alert('Please enter a name')
+			} else if (email.length == 0){
+				alert('Please enter a email address')
+			} else if (!checkphone(phone)){
+				alert('Please enter a valid phone number')
+			} else if (email.match('@') == null){
+				alert('Please enter a valid email address')
+			} else if (email.split('@')[0].length < 1){
+				alert('Please enter a valid email address')
+			}	else {
+				grecaptcha.execute();
+		}
+	}
+		
+		
+        function converter(){
+            a = document.getElementById('imgdiv')
+            firstLen = a.children.length
+            for (i=0; i < firstLen; i++) {
+                g = document.getElementById('imgdiv').children[i]
+                gTop = g.offsetTop;
+                gLeft = g.offsetLeft;
+                secondLen = g.children.length
+                for (j=0; j < secondLen; j++) {
+                    b = g.children[j]
+                    name = b.id
+                    bLeft = b.offsetLeft;
+                    console.log(name+" "+((bLeft/969)-0.67595834113))
+                }
+            }
+        }
+
+        function getInnerHeight() {
+            return window.innerHeight    
+        }
+        
+        function setSum() {
+            sum = 0
+            for (i=0; i<length; i++) {
+                sum += ((imgDimensions[i][2]+imgDimensions[i][3])/imgDimensions[i][1])*innerHeight;
+            }
+        }
+            
+
+        window.onresize = function() {
+            format(getInnerHeight());
+            setSum();
+            maxWidth();
+            curPosition = pxRemover(document.getElementById('imgdiv').style.left)
+            document.getElementById('imgdiv').style.left = clampPx(curPosition) + 'px'
+            moveMainBoxLeft();
+            toggleInfoOff();
+        }
+        
+        window.addEventListener("orientationchange", function() {
+            format(getInnerHeight());
+            setSum();
+            maxWidth();
+            curPosition = pxRemover(document.getElementById('imgdiv').style.left)
+            document.getElementById('imgdiv').style.left = clampPx(curPosition) + 'px'
+            moveMainBoxLeft()
+            toggleInfoOff();
+        })
+        
+        function moveAndToggle(x,y) {
+            toggleLinks();
+            moveTo(x,y);
+            toggleInfoOff();
+        }        
+        
+        function signupAndToggle(x,y) {
+            toggleLinks();
+            signup();
+            toggleInfoOff();
+        }
+        
+        function toggleLinks() {
+            nav = document.getElementById('collapse')
+            if(nav.style.height == '0px'){
+				document.getElementById('collapse2').style.height = '0px'
+
+                nav.style.height = document.getElementById('collapse').children[0].clientHeight + 'px'
+            } else{
+                nav.style.height = '0px';
+            }
+        }
+        
+        mainBoxOffset = 0
+		function moveMainBoxLeft(){
+		width = window.innerWidth;
+		height = window.innerHeight;
+		ratio = height / width
+		if (height > width){
+			mainBoxOffset = 145 * 375 / 667 * ratio
+			document.getElementById('imgdiv').style.transform = 'translateX(-'+mainBoxOffset+'px)';
+		} else {
+			mainBoxOffset = 0
+			document.getElementById('imgdiv').style.transform = '';
+		}
+		document.getElementById('h17').style.left = document.getElementById('h1').offsetLeft + document.getElementById('h17').offsetWidth / 2 - mainBoxOffset +'px'
+		
+		}       
+        
+
+		
+        function pxRemover(x){
+			return +(x.slice(0,-2))
+        }
+        
+        function signup() {
+            moveTo(5,0)
+        }
+        
+        function animationHandler(){
+			
+			targetOffset =0 
+			if (scrollingType == 1){
+				targetOffset = window.pageXOffset * -1
+			} else {
+				targetOffset = document.getElementById('imgdiv').offsetLeft
+			}
+			animationDistance('h8', ['#h8', '#h42','#h4'],targetOffset)
+            //animationDistance('h10', ['#h10', '#h52','#h5'],targetOffset)
+            //animationDistance('h10', ['#h11', '#h62','#h6'],targetOffset)
+            animationDistance('a1', ['#a1', '#a2'],targetOffset)
+            animationDistance('a4', ['#a4','#a3'],targetOffset)
+            //animationDistance('a5', ['#a5'],targetOffset)
+            animationDistance('p1', ['#p1'],targetOffset)
+            animationDistance('p13', ['#p13', '#p2'],targetOffset)
+            animationDistance('p14', ['#p14', '#p3', '#p11'],targetOffset)
+            animationDistance('p15', ['#p15', '#p4'],targetOffset)
+            animationDistance('p16', ['#p16', '#p7','#p8'],targetOffset)
+            animationDistance('p23', ['#p23', '#p21', '#p22'], targetOffset)
+            animationDistance('p17', ['#p17', '#p9','#p10'],targetOffset)
+            //animationDistance('p18', ['#p18', '#p11', '#p12'],targetOffset)
+            animationDistance('e1', ['#e1','#e2'],targetOffset)
+            animationDistance('e3', ['#e3','#e8'],targetOffset)
+            animationDistance('e5', ['#e5','#e6','#e9'],targetOffset)
+            animationDistance('e4', ['#e4','#e7','#e12','#e13'],targetOffset)
+            animationDistance('e9', ['#e9'],targetOffset)
+            animationDistance('e10', ['#e10'],targetOffset)
+            //animationDistance('s3', ['#s3'],targetOffset)
+            animationDistance('s4', ['#s4'],targetOffset)
+            animationDistance('s5', ['#s5'],targetOffset)
+            animationDistance('s6', ['#s6'],targetOffset)
+            animationDistance('n1', ['#n1', '#n2'],targetOffset)
+            animationDistance('n3', ['#n3'],targetOffset)
+            animationDistance('n4', ['#n4'],targetOffset)
+            animationDistance('n5', ['#n5'],targetOffset)
+            animationDistance('n6', ['#n6'],targetOffset)
+            animationDistance('n7', ['#n7'],targetOffset)
+            animationDistance('n8', ['#n8'],targetOffset)
+            animationDistance('l1', ['#l1'],targetOffset)
+            animationDistance('l2', ['#l2'],targetOffset)
+            animationDistance('l3', ['#l3'],targetOffset)
+            animationDistance('l4', ['#l4'],targetOffset)
+            animationDistance('l5', ['#l5'],targetOffset)
+            animationDistance('l6', ['#l6'],targetOffset)
+            animationDistance('l7', ['#l7'],targetOffset)
+            //animationDistance('l8', ['#l8'],targetOffset)
+            animationDistance('l9', ['#l9'],targetOffset)
+            //animationDistance('l10', ['#l10'],targetOffset)
+            //animationDistance('l11', ['#l11'],targetOffset)
+            //animationDistance('l12', ['#l12'],targetOffset)
+            //animationDistance('l13', ['#l13'],targetOffset)
+            //animationDistance('l14', ['#l14'],targetOffset)
+            //animationDistance('l15', ['#l15'],targetOffset)
+            
+            //if (targetOffset <= (document.getElementById('a14').offsetLeft *-1) + 1700) {
+            if (targetOffset <= (document.getElementById('a14').offsetLeft * -1 + window.innerWidth)) {
+                TweenMax.to('#a14', .5, {x:0, rotation:360}) 
+                TweenMax.to('#a15', .5, {x:0, rotation:360, delay:0.25}) 
+                TweenMax.to('#a16', .5, {x:0, rotation:360, delay:0.5})
+                
+                TweenMax.to('#a7',1, {x:0, opacity:1, delay:1})
+                TweenMax.to('#a8',1, {x:0, opacity:1, delay:1.25})
+                TweenMax.to('#a9',1, {x:0, opacity:1, delay:1.5})
+                TweenMax.to('#a10',1, {x:0, opacity:1, delay:1.5})
+                TweenMax.to('#a11',1, {x:0, opacity:1, delay:1.25})
+                TweenMax.to('#a12',1, {x:0, opacity:1, delay:1})
+            }
+            if (mobile == 1){
+				if (targetOffset < -200) {
+					TweenMax.to('#arrow1', 1, {opacity:0})
+					setTimeout(function(){document.getElementById('arrow1').innerHTML = "";},1000);
+					TweenMax.to('#h17', 1, {opacity:0})
+				} else {
+					TweenMax.to('#arrow1', 1, {opacity:1})
+
+				}        
+			} else{
+				if (targetOffset < -200) {
+					TweenMax.to('#arrow4', 1, {opacity:1})
+					TweenMax.to('#h17', 1, {opacity:0})
+					document.getElementById('h17').removeAttribute('onclick')
+					document.getElementById('h17').style.cursor = 'default'
+					
+				} else {
+					TweenMax.to('#arrow4', 1, {opacity:0})
+					TweenMax.to('#h17', 1, {opacity:1})
+					document.getElementById('h17').setAttribute('onclick','loadVirtualRoom()')
+					document.getElementById('h17').style.cursor = 'pointer'
+				}
+				
+				if (targetOffset*-1 > document.getElementById('imgdiv').offsetWidth - (window.innerWidth) -600) {
+					TweenMax.to('#arrow3', 1, {opacity:0})
+				} else {
+					TweenMax.to('#arrow3', 1, {opacity:1})
+				}
+			}            
+            if (targetOffset <= (document.getElementById('e3').offsetLeft *-1) + 1700) {
+                TweenMax.to('#e3', 0.5, {x:0, opacity:1, delay:1})
+            }
+			
+        }
+        
+        function moveAlittle(dir) {
+			if (scrollingType == 1){
+				if (mobile == 1){
+					offset = window.innerWidth * 0.9
+				} else {
+					offset = 750
+				}
+				curPosition = window.pageXOffset
+				if (dir == 1) {
+					curPosition -= offset
+				}
+				else {
+					curPosition += offset
+				}
+				window.scrollTo(curPosition,0);
+			} else {
+				curPosition = pxRemover(document.getElementById('imgdiv').style.left)
+				if (dir == 1) {
+					curPosition += 750
+				}
+				else  {
+					curPosition -= 750
+				}
+				document.getElementById('imgdiv').style.left = clampPx(curPosition) + 'px'
+			}			
+            setTimeout(function(){animationHandler();},500)
+            toggleInfoOff();
+        }
+
+        //Youtube Api Loader
+        var tag = document.createElement('script');
+        tag.src = "https://www.youtube.com/iframe_api";
+        var firstScriptTag = document.getElementsByTagName('script')[0];
+        firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+
+        var player;
+        function onYouTubeIframeAPIReady() {
+        player = new YT.Player('video', {
+            height: '64.4%',
+            width: '100%',
+            videoId: 'qMxgjFxIVk4',
+            playerVars: {'autoplay':0},
+            });
+        }
+        
+        function spin(objectSpin, objectText, direction) {
+            if(objectText != null){
+                text(objectText, direction)
+            }
+            if (document.getElementById(objectSpin).curSpin != 1){
+                document.getElementById(objectSpin).curSpin = 1
+                if (direction == 1) {
+                    TweenMax.to('#'+objectSpin, 0.25, {y:5})
+                    TweenMax.to('#'+objectSpin, 0.25, {y:0, delay:0.25})
+                    setTimeout(function(){document.getElementById(objectSpin).curSpin=0},750)
+                } else {
+                    TweenMax.to('#'+objectSpin, 0.25, {y:-5})
+                    TweenMax.to('#'+objectSpin, 0.25, {y:0, delay:0.25})
+                    setTimeout(function(){document.getElementById(objectSpin).curSpin=0},750)
+                }
+            }
+        }
+
+        function playVid() {
+            a = document.getElementById('theatre')
+            vid = document.getElementById('video')
+            if (a.style.display == "none") {
+                a.style.display = "block"
+                TweenMax.to('#theatre', 1, {backgroundColor:"rgba(0,0,0,0.8)"})
+                setTimeout(function() {
+                    vid.style.display = "block"
+                }, 1000)
+            } else {
+                TweenMax.to('#theatre', 1, {backgroundColor:"rgba(0,0,0,0)"})
+                vid.style.display = "none"
+                player.pauseVideo();
+                setTimeout(function() {
+                    a.style.display = "none"
+                }, 1000)
+            }
+        }
+        
+        function playGraph() {
+            document.getElementById('video2').play()
+        }
+        
+        TweenMax.from('#h1', 0.5, {x:20, opacity:0})
+        TweenMax.from('#h2', 0.5, {x:20, opacity:0, delay:0.25})
+        TweenMax.to('#a2', 0.5, {x:0})
+        TweenMax.to('#a4', 0.5, {x:0})
+        TweenMax.to('#h17', 1/4, {y:-30, ease:Power2.easeOut, delay:1.75})
+        TweenMax.to('#h17', 1/2, {y:0, ease:Bounce.easeOut, delay:2})
+        
+        //event handlers for touch screen
+        ease = 500
+        touch = 0
+        currentTouchPos = 0
+        startx = 0
+        imageDiv = document.getElementById('imgdiv')
+        
+        function animationDistance(object, objectArray, curOffset) {
+            if(document.getElementById(object).style.opacity != 1) {
+                fadeDistance = window.innerWidth-10
+                length = objectArray.length
+                if (object[0] == 'l') {
+                    if (curOffset <= ((document.getElementById(object).offsetLeft+document.getElementById('s2').offsetLeft) *-1) + fadeDistance) {
+                        for (i=0; i<length; i++) {
+                                TweenMax.to(objectArray[i], 0.5, {x:0, opacity:1})
+                        }
+                    }
+                }else {
+                    if (curOffset <= (document.getElementById(object).offsetLeft *-1) + fadeDistance) {
+                        for (i=0; i<length; i++) {
+                            TweenMax.to(objectArray[i], 0.5, {x:0, opacity:1})
+                        }
+                    }
+                }
+            }
+        }
+        
+        imgDimensions = new Array()
+        //First Entry is Width
+        //Second Entry is Height
+        //Third Entry is Scroll
+		//Fourth Entry is Offset for subsequent Boxes (if widths change)
+        imgDimensions.push([4040,978,2990,-1050])
+        imgDimensions.push([5072,978,5072,-829+285])
+        imgDimensions.push([3262,978,3200,0])
+        imgDimensions.push([4601,978,4400,0])
+        imgDimensions.push([2635,978,4035,0])
+        imgDimensions.push([3703,978,3823,0])
+        
+        sum = 0
+        for (i=0; i<length; i++) {
+            sum += ((imgDimensions[i][2]+imgDimensions[i][3])/imgDimensions[i][1])*innerHeight;
+        }
+
+        document.getElementById('imgdiv').style.left = '0px'
+
+        speed = 150
+        function moveTo(x,y){
+            total = 0
+            for (i=0;i<x;i++){
+                total +=  imgDimensions[i][2] / imgDimensions[i][1] * window.innerHeight
+            }
+            e9 = document.getElementById('e9');
+            left = e9.offsetLeft;
+			switch(x){
+				case 1: total+= (2/1080*window.innerHeight);
+					break;
+				case 2: total-=(535/1080*window.innerHeight);
+					break;
+				case 3: total-=(460/1080*window.innerHeight);
+					break;
+				case 4: total-=(380/1080*window.innerHeight);
+					break;
+				//case 5: total-=(109/1080*window.innerHeight);
+				case 5: 
+					right = (document.getElementById('e7').offsetLeft+document.getElementById('e7').offsetWidth-window.innerWidth);
+					center = document.getElementById('e9').offsetLeft+document.getElementById('e7').offsetWidth*0.5-window.innerWidth*0.5
+					if (center < right){
+						total = center
+					} else{
+						total = right
+					}
+					break;
+				default: break;
+			} 
+			total -= mainBoxOffset
+			
+
+			if (scrollingType == 1){
+				//window.scrollTo({ left: total, behavior:'smooth'});
+				//window.scrollTo({top:0, left: total, behavior:'smooth'});
+				window.scrollTo(total,0);
+
+			} else {
+				document.getElementById('imgdiv').style.left = (total * -1 ) + 'px'
+				document.getElementById('imgdiv').style.top = y * -100 + '%'
+                if(document.getElementById('navCollapse').style.display == "block") {
+                    document.getElementById('navCollapse').style.display = "none"
+                }
+			}
+            if (x==1) {
+                TweenMax.to('#a1', 0.5, {x:0, opacity:1, delay:0.5})
+            }
+            else if (x==2) {
+                TweenMax.to('#p1', 0.5, {x:0, opacity:1, delay:0.5})
+            }                     
+            else if (x==4) {
+                TweenMax.to('#n1', 0.5, {x:0, opacity:1, delay:0.5})
+                TweenMax.to('#n2', 0.5, {x:0, opacity:1, delay:0.5})
+            }            
+            else if (x==5) {
+                TweenMax.to('#e1', 0.5, {x:0, opacity:1, delay:0.5})
+            }
+            setTimeout(function(){animationHandler();},500)
+        }
+        
+        //Event Handlers for wheel scroll
+        
+        scrollLimiter=0
+        multiplier = 1
+        var browser = navigator.userAgent.toLowerCase();
+		if (browser.indexOf('firefox') > -1) {
+			multiplier = 10
+		}
+		window.addEventListener('wheel', function(e) {
+			if (scrollLimiter < 3){
+				
+				if (scrollingType == 0){
+					
+					curPosition = pxRemover(document.getElementById('imgdiv').style.left)
+					if (e.deltaY != 0){
+						offset = e.deltaY
+						delt = Math.abs(offset)
+						if (delt > 40){
+							document.getElementById('imgdiv').style.transition = 'all 500ms ease 0s'
+							scrollLimiter += 1
+							setTimeout(function(){scrollLimiter -= 1},300)
+							move = speed
+						} else {
+							document.getElementById('imgdiv').style.transition = ''
+							move = delt
+						}
+
+						if (offset < 0) {
+							curPosition += move * multiplier
+						}
+						if (offset > 0) {
+							curPosition -= move* multiplier
+						}
+						document.getElementById('imgdiv').style.left = clampPx(curPosition) + 'px'
+					}
+				} else {
+					
+					curPosition = window.pageXOffset
+					if (e.deltaY != 0){
+						offset = e.deltaY
+						delt = Math.abs(offset)
+						if (delt > 40){
+							document.getElementById('imgdiv').style.transition = 'all 500ms ease 0s'
+							scrollLimiter += 1
+							setTimeout(function(){scrollLimiter -= 1},300)
+							move = speed
+						} else {
+							document.getElementById('imgdiv').style.transition = ''
+							move = delt
+						}
+						if (e.deltaY < 0) {
+							curPosition -= move
+						}
+						if (e.deltaY > 0) {
+							curPosition += move
+						}	
+						window.scrollTo(clampPx(curPosition*-1)*-1,0)
+						
+					}
+				}
+				animationHandler()
+				toggleInfoOff();
+				}
+			}
+        );
+        
+
+        
+		window.addEventListener('keydown', function (e) {
+			if ((e.keyCode == 39 && scrollingType == 0) || e.keyCode == 32 || e.keyCode == 34 || e.keyCode == 40){
+				moveAlittle(0)
+			} else if ((e.keyCode == 37 && scrollingType == 0) || e.keyCode == 33 || e.keyCode == 38){
+				moveAlittle(1)
+			} else if (e.keyCode == 35){
+				signup()
+			} else if (e.keyCode == 36){
+				moveTo(0,0)
+			}
+		});
+
+        function clampPx(x){
+            maxTranslation = (sum * -1 + window.innerWidth )*0.98
+            if (x > 0){
+                return 0
+            } else if(x < maxTranslation) {
+                return maxTranslation
+            }{
+                return x
+            }
+        }
+
+        function maxWidth(){
+            len = imgDimensions.length
+            total = 0
+            for (i=0;i<len;i++){
+                total +=  (imgDimensions[i][0] + imgDimensions[i][3])/ imgDimensions[i][1] * window.innerHeight
+            }
+            document.getElementById('imgdiv').style.width = total + 'px'
+        }
+
+        maxWidth();
+
+        document.getElementById('imgdiv').style.transition = 'all '+ease+'ms'+' ease';
+		window.addEventListener("scroll", function(){animationHandler();});
+
+
+function resetForm(x){
+	button = document.getElementById('f4')
+	button.setAttribute('onClick','checkStuff()')
+	button.value = "Sign Up"
+	button.style.backgroundColor = '#2babd8cc'
+	if (x == 1){
+		document.getElementById('f1').value = ''
+		document.getElementById('f2').value = ''
+		document.getElementById('f3').value = ''
+		document.getElementById('f5').value = 0
+	}
+
+}
+
+	function sendData() {
+		response = grecaptcha.getResponse();
+		button = document.getElementById('f4')
+		button.setAttribute('onClick','')
+		button.value = "Sending"
+		button.style.backgroundColor = '#868686'
+		
+		formChild = document.getElementById("POSTFORM").children
+		data = {'name':formChild[1].value, 'email':formChild[2].value, 'phone':formChild[3].value, 'location':formChild[4].value, 'response' : response}
+		var XHR = new XMLHttpRequest();
+		var urlEncodedData = "";
+		var urlEncodedDataPairs = [];
+		var name;
+
+		// Turn the data object into an array of URL-encoded key/value pairs.
+		for(name in data) {
+		urlEncodedDataPairs.push(encodeURIComponent(name) + '=' + encodeURIComponent(data[name]));
+		}
+
+		// Combine the pairs into a single string and replace all %-encoded spaces to
+		// the '+' character; matches the behaviour of browser form submissions.
+		urlEncodedData = urlEncodedDataPairs.join('&').replace(/%20/g, '+');
+
+		// Define what happens on successful data submission
+		XHR.addEventListener('load', function(event) {
+			button.value = "Sent"
+			button.style.backgroundColor = '#148c28'
+			setTimeout(function(){resetForm(1)},3000)
+			
+		});
+
+		// Define what happens in case of error
+		XHR.addEventListener('error', function(event) {
+			button.value = "Error"
+			button.style.backgroundColor = '#d82b2b'
+			setTimeout(function(){resetForm(0)},3000)
+		});
+
+		// Set up our request
+		XHR.open('POST', '/api/contact');
+
+		// Add the required HTTP header for form data POST requests
+		XHR.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded');
+
+		// Finally, send our data.
+		XHR.send(urlEncodedData);
+	}
+
+        format(getInnerHeight());
+        if (window.location.hash.substr(1) == 'getInvolved'){
+			moveTo(5,0);
+			} else if (window.location.hash.substr(1) == 'status'){
+				moveTo(3,0);
+				}{moveMainBoxLeft()}
+
+    </script>
+</body>
+</html>
+

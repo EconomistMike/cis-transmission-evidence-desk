@@ -1,0 +1,1624 @@
+--- PDF page 1 ---
+ 
+Official Official Official Official Official Official Official 
+Reinforcing the NSW Southern Shared Network to 
+increase transfer capacity to demand centres 
+(HumeLink)  
+Material change in circumstance assessment 
+Region: Southern New South Wales 
+Date of issue: 29 Feb 2024 
+  
+
+
+--- PDF page 2 ---
+ 
+1 | Reinforcing the NSW Southern Shared Network to increase transfer capacity to demand centres (HumeLink)  | Material change in 
+circumstance assessment ___________________________________________________________________________________________  
+Official Official Official 
+Official Official Official Official 
+Executive Summary 
+This report provides Transgrid’s assessment of whether the increase in the estimated capital costs for the 
+HumeLink project constitutes a material change in circumstance (MCC) as contemplated in the National 
+Electricity Rules (NER or the Rules), that would change the identification of the preferred option in the 2021 
+Regulatory Investment Test for Transmission (RIT-T) and may require re-application of the RIT-T. For the 
+purposes of this report we refer to this as whether an ‘MCC event’ has occured.  
+Transgrid has completed this assessment and determined that:  
+ the preferred option identified in the 2021 RIT-T has not changed; and 
+ therefore there is no requirement for Transgrid to re-apply the RIT-T (i.e. there has not been an 
+‘MCC event').  
+This assessment is in line with the requirements of clause 5.16A.4(n) in version 202 of the NER, which is 
+the version of the Rules applicable to an MCC assessment for Humelink.1  
+Transgrid completed the HumeLink RIT-T with the publication of the ‘Addendum to the Project Assessment 
+Conclusion Report’ (PACR Addendum) in December 2021. The PACR Addendum focussed on three 
+options: Option 2C and Option 3C from the original PACR (published in September 2021) plus an 
+additional option (Option 1C-new), arising from the AER’s determination on the dispute lodged following the 
+original PACR. 
+The PACR Addendum confirmed Option 3C as the preferred option (consistent with the original PACR). 
+This option (now known as the HumeLink Project) involves constructing three new 500 kV double-circuit 
+lines between Maragle, Wagga Wagga and Bannaby. 
+Transgrid has investigated whether the increase in the estimated capital cost for the Project means 
+that the preferred option identified in the RIT-T has changed  
+Transgrid has been progressing the development of the Project steadily since completion of the RIT-T 
+through our Stage 1 early works activities, which were approved by the Australian Energy Regulator (AER). 
+AEMO has confirmed in its feedback loop assessment (and in the draft ISP 2024) that taking into account 
+the updated estimate of the capital costs for Humelink, the Project still remains on the Optimal 
+Development Path (ODP). This means that the required trigger to submit the Humelink Stage 2 CPA has 
+been met, as per National Electricity Rules (NER) clause 5.22.15(b)(2). 
+We have recently submitted our Contingent Project Application (CPA) for Stage 2 (Delivery) of the Project. 
+Since the completion of the RIT-T, and informed by our early works activities, the capital cost estimates for 
+the Project have increased from $3.27 billion (June 2021 dollars) assumed for Option 3C at the time of the 
+PACR Addendum, to the current estimate of $4.88 billion (June 2023 dollars) reflected in our Stage 2 CPA. 
+This represents a cost increase of $1.06 billion in June 2023 dollar terms2, since the publication of the 
+PACR Addendum. 
+The NER covers situations where there has been a material change in circumstance following the 
+publication of a PACR, that may then require the re-application of the RIT-T (i.e. an ‘MCC event'). An 
+ 
+1 The Rules relating to material changes in circumstances were recently updated. Under the transitional provisions, the Rules 
+that were previously in force continue to apply to any RIT-T for which a Project Assessment Draft Report (PADR) was 
+published by 27 October 2023. 
+2 The $3.27 billion (June 20221 dollars) capex cost in the PACR Addendum is equal to $3.82 billion (June 2023 dollars). 
+
+--- PDF page 3 ---
+ 
+2 | Reinforcing the NSW Southern Shared Network to increase transfer capacity to demand centres (HumeLink)  | Material change in 
+circumstance assessment ___________________________________________________________________________________________  
+Official Official Official 
+Official Official Official Official 
+increase in the Project capex cost estimate, whilst it may be substantial, does not necessarily constitute an 
+MCC event for the purposes of the NER, that may require a re-application of the RIT-. A material change in 
+circumstance is referred in the NER as including, but not limited to, a change to the key inputs and 
+assumptions used in the RIT-T. 3 Where this occurs and in the reasonable opinion of the RIT-T proponent, 
+means that the preferred option identified in the PACR is no longer the preferred option, the RIT-T is 
+required to be re-applied unless otherwise determined by the AER (i.e. an MCC event has occurred).  
+Pursuant to the NER provisions, Transgrid has undertaken an assessment to evaluate whether the 
+increase in capital cost estimates for the Project represents an MCC event. In particular, we have assessed 
+whether the increase in estimated capital costs for the Project changes the preferred option identified in the 
+2021 PACR Addendum.    
+The MCC assessment considers the same three options as the PACR Addendum, with delayed 
+timing for Options 1C-new and Option 2C to ensure they reflect credible options 
+The MCC assessment presented in this report updates the NPV assessment presented in the PACR 
+Addendum for the three options which formed the focus of the RIT-T assessment: Option 1C-new, Option 
+2C and Option 3C.  
+To ensure options considered in the MCC assessment could still be delivered, and so remain credible 
+options (in line with the RIT-T requirements), the projected commissioning dates for Option 1C-new and 
+Option 2C have been updated to 2028/29. This reflects that, if these options were to be pursued now, there 
+would be a need to undertake early works to enable their final design and delivery.  
+The expected delivery date for Option 3C remains 2026/27, as early works have already been largely 
+completed for this option and therefore this date remains achievable.  
+The assessment is based on updated cost estimates for all three options 
+The updated NPV assessment reflects the increase in the capital cost estimates for Option 3C, as well as 
+updated cost estimates for Options 1C-new and Option 2C. The costs of these two options are expected to 
+be influenced by the same drivers that have led to the increase in the cost estimate for Option 3C, 
+including:  
+ increases in costs from increased global demand; 
+ supply chain disruptions; and 
+ fluctuations in global commodity market prices for raw materials. 
+Transgrid has therefore derived updated cost estimates for Options 1C-new and Option 2C by basing them 
+on the updated estimates for the equivalent components of Option 3C (which have been refined through early 
+works) and then applying a contingency to recognise the risks and impact on costs from changing options 
+and re-contracting at this stage.  
+The analysis also takes into account that some of the costs that have already been incurred for the Project 
+cannot now be avoided if an alternative option was to be pursued, and so are common across all options and 
+the base case. 
+The assessment also reflects an updated assessment of market benefits, based on the latest draft 
+2024 ISP assumptions 
+In addition to the updated cost estimates, the market benefit estimates have also been updated for this MCC 
+assessment, to incorporate the latest assumptions in AEMO’s draft 2024 ISP (including the timing for other 
+ 
+3 See clause 5.16A.4(o) of the NER. 
+
+--- PDF page 4 ---
+ 
+3 | Reinforcing the NSW Southern Shared Network to increase transfer capacity to demand centres (HumeLink)  | Material change in 
+circumstance assessment ___________________________________________________________________________________________  
+Official Official Official 
+Official Official Official Official 
+ISP projects in the draft ODP), as well as the latest information on generation commission timing (as 
+published by AEMO in its NEM Generation Information. 
+The updated market benefit assessment shows that the market benefits associated with the Project have 
+increased substantially since the 2021 RIT-T assessment.  This increase in market benefits is primarily 
+driven by the significant changes in the policy landscape (and therefore input assumptions) between the 
+analysis undertaken for the earlier RIT-T PACR and the MCC assessment presented in this report. In 
+particular, emissions targets and renewable energy policies today are much more ambitious than those 
+applied in all four scenarios in the PACR.  
+The faster transition to renewable energy and storage reflected in the latest ISP scenarios is associated 
+with greater utilisation of transmission between Wagga, Maragle and Bannaby, and greater opportunity for 
+Humelink to be utilised to avoid investment in renewable energy, storage and gas-fired generation. This is 
+further amplified by the substantial increase in the demand outlook in the draft 2024 ISP scenarios 
+compared to those which underpinned the earlier RIT-T assessment. 
+The NPV results show Option 3C continues to be the preferred option and so an MCC event has not 
+occurred 
+The NPV results from the MCC assessment (set out in Figure E1 below) show that Option 3C continues to 
+deliver a positive net market benefit and remains the highest ranked option across all three ISP scenarios, 
+as well as in the weighted outcome. Option 3C is expected to provide a positive net market benefit of $4.19 
+billion (on a weighted basis), which is 10 percent higher than the second ranked option (ie Option 2C). 
+Figure E1: Summary of the estimated net benefits, weighted across the three scenarios 
+ 
+This conclusion remains robust to changes in assumptions on discount rates, capital costs and higher 
+operating costs. The assessment in this report shows that capital costs of Option 3C would need to more 
+than double from the estimate used in this MCC assessment (and in our Stage 2 CPA) for the Project to no 
+longer provide a positive net benefit. 
+The MCC assessment therefore confirms that Option 3C remains the highest ranked option out of the three 
+options considered in the PACR-Addendum and continues to provide a materially positive net benefit, 
+despite the increase in its estimated capital cost. We therefore conclude that the increase in capital costs 
+has not affected the preferred option identified in the 2021 PACR Addendum. This means that an MCC 
+event has not occurred, and the RIT-T does not need to be reapplied for the Project (or an exemption 
+sought from the AER).  
+
+
+--- PDF page 5 ---
+ 
+4 | Reinforcing the NSW Southern Shared Network to increase transfer capacity to demand centres (HumeLink)  | Material change in 
+circumstance assessment ___________________________________________________________________________________________  
+Official Official Official 
+Official Official Official Official 
+Contents 
+Executive Summary ....................................................................................................................................... 1 
+1. Context and purpose of this report .......................................................................................................... 6 
+1.1. HumeLink is a key project underpinning the energy transition ............................................................. 6 
+1.2. This report assesses whether the increase in the capex estimate for HumeLink changes the 
+outcome of the earlier RIT-T ........................................................................................................................ 7 
+1.3. The HumeLink RIT-T was completed in December 2021 ..................................................................... 8 
+1.4. Transgrid has been progressing with Option 3C .................................................................................. 9 
+1.5. The capital cost estimate for the preferred option has increased since the publication of the PACR 
+Addendum .................................................................................................................................................. 10 
+1.6. Material change in circumstance provisions in the NER..................................................................... 10 
+1.7. This MCC assessment supports Transgrid’s stage 2 CPA ................................................................. 11 
+2. Approach to the MCC assessment ......................................................................................................... 14 
+2.1. All three options from the PACR Addendum have been assessed .................................................... 14 
+2.2. Options have been assessed from the perspective of the impact today of selecting each of the 
+options ........................................................................................................................................................ 14 
+2.3. The capital cost estimates for all three options have been updated .................................................. 15 
+2.4. Operating expenditure assumptions ................................................................................................... 19 
+2.5. The estimate of market benefits has also been updated to reflect the draft 2024 ISP assumptions . 19 
+3. Net present value results ........................................................................................................................ 24 
+3.1. Weighted net benefits .......................................................................................................................... 24 
+3.2. Step change scenario .......................................................................................................................... 25 
+3.3. Sensitivity analysis .............................................................................................................................. 26 
+3.3.1. Higher and lower network capital costs of the credible options ................................................... 26 
+3.3.2. Alternate commercial discount rate assumptions ........................................................................ 27 
+3.3.3. Higher opex percentage assumption ........................................................................................... 27 
+3.3.4. Removal of avoided voluntary load shedding benefits in 2029/30 under the Progressive Change 
+scenario .................................................................................................................................................. 28 
+3.4. Threshold testing of capital costs of Option 3C .................................................................................. 29 
+4. Conclusion ................................................................................................................................................ 30 
+Appendix A : Compliance checklist ........................................................................................................... 31 
+Appendix B : Options considered in the RIT-T assessment in the Addendum to the PACR .............. 32 
+Appendix C : Cost estimate methodology for Option 1C-new and Option 2C ...................................... 35 
+
+--- PDF page 6 ---
+ 
+5 | Reinforcing the NSW Southern Shared Network to increase transfer capacity to demand centres (HumeLink)  | Material change in 
+circumstance assessment ___________________________________________________________________________________________  
+Official Official Official 
+Official Official Official Official 
+Appendix D : MCC assessment modelled scenario key drivers input parameters .............................. 38 
+ 
+  
+
+--- PDF page 7 ---
+ 
+6 | Reinforcing the NSW Southern Shared Network to increase transfer capacity to demand centres (HumeLink)  | Material change in 
+circumstance assessment ___________________________________________________________________________________________  
+Official Official Official 
+Official Official Official Official 
+1. Context and purpose of this report 
+HumeLink is a major new transmission project which has been identified by the Australian Energy Market 
+Operator (AEMO) and the Federal and NSW governments as a key component of the energy market 
+transition. 
+The project involves around 365km of new 500 kV transmission lines connecting the greater Sydney load 
+centre with the Snowy 2.0 Hydroelectric Scheme and Project EnergyConnect (PEC) in south west New South 
+Wales (NSW). HumeLink will be Transgrid’s largest capital project since construction of our existing network. 
+1.1. HumeLink is a key project underpinning the energy transition 
+The importance of HumeLink cannot be underestimated, as it is critical to ensure a reliable and sustainable 
+supply of renewable energy for more than eight million individuals across NSW. 
+The draft 2024 ISP (as well as the 2022 ISP update) confirms that HumeLink continues to provide net benefits 
+to the market and remains a key component of the ISP Optimal Development Path (ODP), taking into account 
+the changes in the estimated capital cost of HumeLink as well as changes in the costs and timing of other 
+major developments in the National Electricity Market (NEM) more widely, and the revised delivery timing for 
+Snowy 2.0.5 
+Transgrid is committed to meeting a delivery date for HumeLink of July 2026, in line with the date identified 
+in AEMO’s Final 2022 Integrated System Plan (2022 ISP).   
+AEMO’s draft 2024 ISP confirms that HumeLink remains an actionable ISP project. AEMO highlights that 
+there is ‘a clear need for urgent delivery of all actionable transmission projects’,6 and calls for work on all 
+actionable projects ‘to commence or continue as soon as possible’.7 AEMO also notes that the actual delivery 
+dates for both future and actionable ISP projects are in the hands of the transmission network service 
+providers.8  
+AEMO’s draft 2024 ISP comments that maintaining the Project’s momentum is in consumers’ long-term 
+interest.9 Delivering HumeLink by July 2026 will ensure that its benefits are delivered as soon as possible at 
+the lowest sustainable cost to consumers. AEMO observes in the draft 2024 ISP that the sooner firmed 
+renewables are connected, the more secure the energy transition will be, and that any delay to the ODP will 
+increase risks to the energy transition and its benefits.10  
+Further, delivery of HumeLink in July 2026 is necessary to support the sequence of commissioning works 
+required to connect Snowy 2.0 and relieve network constraints in southern NSW. These works include 
+establishing a substation, 500kV connections and associated works that align with the first expected power 
+flows from Snowy 2.0, from July 2027 onwards. Any delay of HumeLink beyond 2026/27,11 would forgo 
+ 
+5  AEMO, Appendix 6. Cost Benefit Analysis – Appendix to the Draft 2024 Integrated System Plan for the National Electricity 
+Market, 15 December 2023, p 41. 
+6  AEMO, Draft 2024 Integrated System Plan for the National Electricity Market, 15 December 2023, p 11. 
+7  AEMO, Draft 2024 Integrated System Plan for the National Electricity Market, 15 December 2023, p 52. 
+8  AEMO, Draft 2024 Integrated System Plan for the National Electricity Market, 15 December 2023, p 52. 
+9  AEMO, Appendix 6. Cost Benefit Analysis – Appendix to the Draft 2024 Integrated System Plan for the National Electricity 
+Market, 15 December 2023, p 40-41. 
+10  AEMO, Draft 2024 Integrated System Plan for the National Electricity Market, 15 December 2023, p 74. 
+11  Consideration of a deferred timing of HumeLink to 2029 in the MCC assessment was raised in submissions to our draft 
+Stage 2 CPA. 
+
+--- PDF page 8 ---
+ 
+7 | Reinforcing the NSW Southern Shared Network to increase transfer capacity to demand centres (HumeLink)  | Material change in 
+circumstance assessment ___________________________________________________________________________________________  
+Official Official Official 
+Official Official Official Official 
+market benefits as it risks constraining Snowy 2.0 (ie, limiting its dispatch to 660 MW) and delay its full 
+connection to the transmission system. 
+The draft 2024 ISP highlights that transmission projects such as HumeLink will provide better access to deep 
+storage that can mitigate renewable droughts and balance energy across seasons.12 AEMO notes that 
+HumeLink will also provide value through:13 
+ increasing transfer capacity and stability limits between the Snowy Mountains and major load centres 
+(Sydney, Newcastle, Wollongong) to support NSW following coal retirements; 
+ avoiding more expensive builds to provide the required dispatchable firming capacity and generation; 
+and 
+ facilitating the development of renewable generation in Southern NSW. 
+To ensure the 2026/27 project timeframe is met, we submitted a HumeLink Stage 2 (Delivery) CPA to the 
+AER on 21 December 2023, to allow sufficient time for the regulatory and contracting processes.  
+1.2. This report assesses whether the increase in the capex estimate for HumeLink 
+changes the outcome of the earlier RIT-T 
+The estimated capital cost of HumeLink (as reflected in the draft 2024 ISP and in our Stage 2 CPA) has 
+increased materially since the RIT-T for HumeLink was conducted in 2021.  
+A material change in circumstance is referred in the NER as including, but not limited to, a change to the 
+key inputs and assumptions used in the RIT-T. 14 Where such a change occurs and, in the reasonable 
+opinion of the RIT-T proponent, means that the preferred option identified in the PACR is no longer the 
+preferred option, the RIT-T is required to be re-applied unless otherwise determined by the AER.  
+The MCC assessment in this report considers whether this increase in costs would change the identification 
+of the preferred option in the earlier RIT-T. For the purposes of this report we have termed this an ‘MCC 
+event’. The assessment is in line with the requirements of the National Electricity Rules (NER) as set out in 
+clause 5.16A.4(n).15 
+Publishing the MCC assessment following the submission of our Stage 2 CPA has allowed us to incorporate 
+the latest inputs from the draft 2024 ISP (published in mid-December 2023).  
+  
+ 
+12  AEMO, Draft 2024 Integrated System Plan for the National Electricity Market, 15 December 2023, p 64. 
+13  AEMO, Appendix 6. Cost Benefit Analysis – Appendix to the Draft 2024 Integrated System Plan for the National Electricity 
+Market, 15 December 2023, p 41. 
+14 See clause 5.16A.4(o) of the NER. 
+15  The version of this Rule that applies to HumeLink is that in NER version 202. 
+
+--- PDF page 9 ---
+ 
+8 | Reinforcing the NSW Southern Shared Network to increase transfer capacity to demand centres (HumeLink)  | Material change in 
+circumstance assessment ___________________________________________________________________________________________  
+Official Official Official 
+Official Official Official Official 
+Box 1: Summary of findings - increase in capital cost estimate does not change the preferred option identified in the 2021 RIT-T 
+The results set out in Figure 1.1 show that Option 3C remains the highest-ranking option out of the three 
+options considered in the earlier RIT-T, under each scenario as well as in the weighted outcome, despite 
+the increase in the capital expenditure estimates. 
+ 
+Figure 1.1: Summary of the estimated net benefits, weighted across the three scenarios ($bn, PV 2023 dollars) 
+ 
+Based on the assessment in this report, we confirm that the increase in the cost estimate for HumeLink 
+does not:  
+ change the identification of Option 3C as the preferred option in the earlier RIT-T assessment 
+(taking into account how the costs of the other options in the RIT-T would also be affected and the 
+updated estimate of market benefit); or 
+ result in the net market benefits of the Project becoming negative. 
+Transgrid therefore concludes that there is no requirement to re-apply the RIT-T to the HumeLink Project 
+(or to seek an exemption from the AER). The MCC assessment in this report continues to confirm that 
+progression of investment in Option 3C for delivery by July 2026 is expected to provide substantial net 
+benefits to consumers. 
+1.3. The HumeLink RIT-T was completed in December 2021 
+Transgrid completed the RIT-T for HumeLink with the publication of the ‘Addendum to the Project 
+Assessment Conclusion Report’ (PACR Addendum) in December 2021. 
+The PACR Addendum followed the publication of the original PACR in July 2021. A dispute was lodged with 
+the Australian Energy Regulator (AER) following the publication of the PACR, and in its determination on that 
+dispute the AER required Transgrid to amend the HumeLink PACR to cover an additional option (‘Option 1C-
+new’).16 Transgrid published this analysis by issuing the PACR Addendum.  
+The PACR Addendum presented the RIT-T NPV analysis for three options: 
+ Option 1C-new; 
+ 
+16  AER, Decision: Reinforcing the NSW Southern Shared Network (Humelink) Determination on dispute – application of the 
+regulatory investment test for transmission, November 2021, p 5. 
+
+
+--- PDF page 10 ---
+ 
+9 | Reinforcing the NSW Southern Shared Network to increase transfer capacity to demand centres (HumeLink)  | Material change in 
+circumstance assessment ___________________________________________________________________________________________  
+Official Official Official 
+Official Official Official Official 
+ Option 2C; and 
+ Option 3C (the RIT-T preferred option, which is now the HumeLink Project (‘the Project’)). 
+The PACR Addendum confirmed the outcome in the original PACR that Option 3C was the preferred option 
+under the RIT-T – as shown in Figure 1.2 below. Option 3C provided the highest net benefit, which was 
+estimated to be approximately $491 million (in PV terms, 2021 dollars) weighted across four scenarios.17  
+Figure 1.2: Summary of the estimated net benefits from the PACR Addendum (weighted across the four 2020 ISP scenarios and including 
+competition benefits) 
+ 
+The net market benefits of Option 3C was 23 per cent greater than the net benefits of the second-ranked 
+option (Option 2C), and Option 3C was the highest ranking option across a range of sensitivities presented 
+in the Addendum. 
+1.4. Transgrid has been progressing with Option 3C 
+Since completion of the RIT-T, Transgrid has been progressing Stage 1 (‘early works’) for the Project. In 
+particular, the AER approved funding for the following ‘early works’: 
+ Stage 1 (Part 1): which is enabling us to undertake a range of Stage 1 activities including project 
+design, stakeholder engagement, land-use planning and approvals and acquisition and project 
+management, and 
+ Stage 1 (Part 2): which enabled us to procure long lead equipment (LLE) for transformers, reactors, 
+conductors and steel towers through our Powering Tomorrow Together (PTT) program which 
+enables us to accelerate the delivery of transmission infrastructure across all of the actionable ISP 
+projects we are delivering and drive costs down through economies of scale and scope. 
+We expect to complete our Stage 1 activities by July 2024. 
+Our Stage 1 activities have enabled our Stage 2 capex forecast for the Project to be further refined. 
+Transgrid submitted a HumeLink Stage 2 (Delivery) CPA principal application (Stage 2 CPA) to the AER for 
+the Project on 21 December 2023, which covers the activities associated with the delivery of HumeLink. In 
+ 
+17  The 2020 ISP scenarios adopted in the PACR Addendum were the central scenario, fast change scenario, step change 
+scenario, and slow change scenario. 
+
+
+--- PDF page 11 ---
+ 
+10 | Reinforcing the NSW Southern Shared Network to increase transfer capacity to demand centres (HumeLink)  | Material change 
+in circumstance assessment _________________________________________________________________________________________  
+Official Official Official 
+Official Official Official Official 
+engaging with the AER, this MCC assessment complements the Stage 2 CPA and provides the AER with 
+the necessary information needed for them to make their determination. 
+1.5. The capital cost estimate for the preferred option has increased since the 
+publication of the PACR Addendum 
+Our Stage 1 activities have enabled us to refine our cost estimates for the Project from those adopted at 
+the time of the RIT-T (as reflected in the PACR and PACR Addendum). Our Stage 2 capex forecast is now 
+in line with an AACE class 2 to 3 cost estimate, to provide the necessary cost certainty that consumers will 
+not be over-or-under investing in the project. 
+The capital cost estimates for the Project have increased from the $3.27 billion (June 2021 dollars) 
+assumed at the time of the PACR to the current estimate of $4.88 billion (June 2023 dollars). This 
+represents a cost increase of $1.06 billion in June 2023 dollar terms.18 The increase in capital costs reflects 
+a number of factors, including: 
+ The detailed early works (including the procurement of LLE) that have enabled the project to be more 
+closely specified and costed. The cost estimate for the Project has been refined to an AACE class 2 
+to 3 (rather than the AACE class 4 estimate used in the RIT-T PACR) 
+ the surge in construction activity globally 
+ supply chain disruptions resulting in materials shortages 
+ the war in Ukraine driving up fuel costs, and  
+ fluctuations in global commodity market prices for raw materials (such as steel, concrete, copper and 
+aluminium) due to geopolitical factors, trade policies and supply disruptions.  
+Our Stage 2 CPA provides further detail on the basis of the updated capital cost estimate for the Project. 
+The increase in costs for the Project has the potential to lead to an MCC event (which may require re-
+application of the RIT-T), if the impact of the cost increase is to either: 
+ change the identification of the preferred option in the 2021 RIT-T assessment (taking into account 
+how the costs of the other options in the RIT-T may also be affected by the same drivers), or 
+ result in the net market benefits of the Project becoming negative. 
+The prospect of an MCC event due to an increase in the capital cost estimate for the Project is the subject 
+of this MCC assessment. 
+1.6. Material change in circumstance provisions in the NER 
+The NER covers a situation where there has been a material change in circumstance following the publication 
+of a PACR. It is important to note that the increase in the capital cost estimate for the Project, whilst 
+substantial, does not in itself mean that an MCC event has occurred for the purposes of the NER. 
+The NER MCC provisions were updated in October 2023. Under the transitional provisions, the NER 
+provisions that were in force prior to the new Rules coming into effect continue to apply to any RIT-T for 
+ 
+18  The PACR Addendum cost estimate of $3.27 billion in June 2021 dollars is equal to $3.82 billion in June 2023 dollars, 
+adjusted using a factor of 1.170 to account for inflation between June 2021 and June 2023. 
+
+--- PDF page 12 ---
+ 
+11 | Reinforcing the NSW Southern Shared Network to increase transfer capacity to demand centres (HumeLink)  | Material change 
+in circumstance assessment _________________________________________________________________________________________  
+Official Official Official 
+Official Official Official Official 
+which a Project Assessment Draft Report (PADR) was published by 27 October 2023. The earlier NER 
+provisions therefore continue to apply to HumeLink.19  
+In particular, clause 5.16A.4(n) from version 202 of the NER applies to Transgrid, as the RIT-T proponent for 
+HumeLink, and requires that: 
+(1) A RIT-T proponent has published on its website a project assessment conclusion report in respect of 
+a RIT-T project; and  
+(2) there has been [..]: 
+(i) a material change in circumstances which, in the reasonable opinion of the RIT-T proponent 
+means that the preferred option identified in the project assessment conclusions report is no 
+longer the preferred option; [..] 
+(ii) … 
+then the RIT-T proponent must re-apply the regulatory investment test for transmission, unless 
+otherwise determined by the AER. 
+The NER refers to a material change in circumstance as including, but not being limited to, a change to the 
+key inputs and assumptions (including as a result of an ISP Update) used in identifying:20 
+ the identified need described in the PACR; or 
+ the credible options assessed in the PACR. 
+Pursuant to these NER provisions, Transgrid has undertaken the MCC assessment presented in this report 
+to evaluate whether the change in the capital cost estimate for the Project represents an MCC event.    
+1.7. This MCC assessment supports Transgrid’s stage 2 CPA 
+Consistent with the NER provisions, the AER communicated with Transgrid on 22 August 202321 to inquire 
+whether there has been a material change in circumstance relevant to the completed RIT-T for 
+HumeLink,22 and requested that Transgrid:  
+ makes an assessment of whether a material change in circumstance has occurred, before the Stage 
+2 CPA for HumeLink is submitted; and 
+ confirms whether it has requested AEMO assess the impact of updated costs of the preferred option 
+on the ODP in the ISP. 
+AEMO’s assessment of HumeLink in the ODP in the draft 2024 ISP is based on slightly higher capital cost 
+estimate than considered in this MCC assessment. These costs have been further refined and updated for 
+the AEMO feedback loop, the Stage 2 CPA, and this MCC assessment. In particular: 
+ 
+19  ie, the provisions in NER (version 202).  
+20  NER (version 202), NER, clause 5.16A.4(o). 
+21  AER, Letter to Transgrid – Reinforcing Southern Shared Network RIT-T, 22 August 2023, p 1.  
+22  The AER’s inquiry was motivated by the update of costs of the preferred option for HumeLink by AEMO in its 
+Transmission Expansions Options Report on 28 July 2023 (where the cost estimate for Option 3C increased by $1.06 
+billion to $4.88 billion (June 2023 dollars), from an estimate of $3.27 billion (June 2021 dollars) in the PACR). 
+
+--- PDF page 13 ---
+ 
+12 | Reinforcing the NSW Southern Shared Network to increase transfer capacity to demand centres (HumeLink)  | Material change 
+in circumstance assessment _________________________________________________________________________________________  
+Official Official Official 
+Official Official Official Official 
+ AEMO’s draft 2024 ISP used $4,892 million ($2022-23);23 which has since been refined to  
+ the total capex of HumeLink (Stage 1 (Parts 1 & 2) and Stage 2) Transgrid submitted in the Stage 2 
+CPA is $4.92 billion24 ($2022-23): 
+ This is $4,881 million ($2022-23), once escalators ($4 million) and equity raising costs ($33 
+million) totalling $38 million are subtracted;25 
+ the cost estimate for the Project in this MCC assessment is also $4,881 million ($2022-23).  
+As noted earlier, the draft 2024 ISP (and the 2022 ISP Update) continues to confirm that HumeLink 
+remains a key component of the ISP ODP, taking into account the updated capital cost estimate. 
+Consistent with clause 5.16A.5(b)(2) of the NER, Transgrid also received notice from AEMO on 21 
+December 2023 that its feedback loop assessment confirmed that:26  
+ the HumeLink project addresses the relevant identified need and aligns with the ODP specified in 
+the most recent ISP; and 
+ the total cost of the project, $4.881 billion ($2022-23), does not change the status of the actionable 
+ISP project as part of the ODP specified in the most recent ISP. 
+AEMO has confirmed in its feedback loop assessment (and in the draft ISP 2024) that taking into account 
+the updated estimate of the capital costs for Humelink, the Project still remains on the ODP. This means 
+that the required trigger to submit the Humelink Stage 2 CPA has been met, as per National Electricity 
+Rules (NER) clause 5.22.15(b)(2). 
+Transgrid submitted its Stage 2 CPA for HumeLink to the AER on 21 December 2023 (before this MCC 
+assessment could be prepared) to progress the regulatory CPA process and facilitate the AER’s decision 
+within the timeframes required for contract execution.  
+Transgrid informed the AER at the time it lodged its CPA that it was intending to undertake this MCC 
+assessment, based on the assumptions contained in the 2023 IASR and the draft 2024 ISP that was 
+released by AEMO in mid-December 2023.  
+Transgrid and the AER subsequently agreed that this MCC assessment would be published in February 
+2024. This has allowed Transgrid time to incorporate the draft 2024 ISP assumptions, and ensures that the 
+analysis provided to stakeholders and to the AER in this MCC assessment is based on the most up to date 
+assumptions available. It has therefore avoided any need to revise or update the MCC assessment had it 
+been published earlier in December 2023. 
+Further, to progress the Stage 2 CPA for Humelink Transgrid publicly released a draft Stage 2 CPA on 8 
+December 2023 and invited stakeholders to make submissions. Two non-confidential submissions were 
+received, containing comments relating to various aspects of the Stage 2 CPA.  
+ 
+23 AEMO, Draft 2024 Integrated System Plan, 15 December 2023, p 57. We note that Appendix 6, page 41 to the Draft ISP 
+2024 includes a capex estimate of $4,987m, which reflects the escalation of the figure above.  
+24 Transgrid, HumeLink – Stage 2 (Delivery) Contingent Project Application, 21 December 2023, p 10. The Stage 2 CPA 
+contains capital costs totaling $4.92 billion, which is $4.919 billion when rounded to the nearest million. 
+25 Transgrid, HumeLink – Stage 2 (Delivery) Contingent Project Application, 21 December 2023, p 16. Amounts presented 
+may not add due to rounding. 
+26 AEMO, Integrated System Plan Feedback Look Notice – HumeLink, 21 December 2023. 
+
+--- PDF page 14 ---
+ 
+13 | Reinforcing the NSW Southern Shared Network to increase transfer capacity to demand centres (HumeLink)  | Material change 
+in circumstance assessment _________________________________________________________________________________________  
+Official Official Official 
+Official Official Official Official 
+Transgrid has provided these submissions to the AER and will also respond to the comments and 
+questions separately as part of the consultation process on the Stage 2 CPA. However, where issues were 
+raised relevant to the MCC assessment, we have taken these into account in preparing the analysis in this 
+report.    
+
+--- PDF page 15 ---
+ 
+14 | Reinforcing the NSW Southern Shared Network to increase transfer capacity to demand centres (HumeLink)  | Material change 
+in circumstance assessment _________________________________________________________________________________________  
+Official Official Official 
+Official Official Official Official 
+2. Approach to the MCC assessment 
+This section summarises the assessment we have undertaken to determine whether or not the increase in 
+the capital cost estimate represents an MCC event that would change the preferred option identified in the 
+earlier RIT-T for HumeLink (‘the MCC assessment’).  
+This MCC assessment and its contents does not preclude or prejudice any other public consultation or 
+process currently being undertaken in relation to HumeLink. 
+2.1. All three options from the PACR Addendum have been assessed  
+The three options assessed in the PACR Addendum have been considered in this MCC assessment to 
+determine whether there has been a material change in circumstance.  
+These options are: 
+ Option 1C-new: new double circuit 500 kV line between Maragle and Bannaby;  
+ Option 2C: new 500 kV double-circuit lines between Maragle, Wagga Wagga; and 
+ Option 3C (the RIT-T preferred option – currently being progressed by Transgrid): new 500 kV 
+double-circuit lines in an electrical ‘loop’ between Maragle, Wagga Wagga and Bannaby. 
+A brief description of each of these options is provided in Appendix A.  
+The focus on these three options in the PACR Addendum and also in this MCC assessment reflects the 
+benefits that are expected to arise from their common topology. In particular, Options 2C and 3C have a 
+wider footprint (via Wagga Wagga) compared to the other options considered earlier in the RIT-T process, 
+that opens up both direct and additional capacity for new renewable generation in southern NSW.  
+We note that the AER’s additional information request received on 19 January 2024 requests a 
+comparative market benefits analysis for at least the top three ranked credible options in the earlier PACR 
+Addendum.27 The assessment in this MCC report is consistent with this request. 
+2.2. Options have been assessed from the perspective of the impact today of selecting 
+each of the options  
+For the purposes of the MCC assessment, Transgrid has considered the impact on both investment timing 
+and costs of either continuing with the Project (Option 3C) or making a decision to switch to an alternative 
+option (ie, Option 1C-new or Option 2C). 
+As discussed above in section 1.4, Transgrid has been progressing early works for Option 3C as the 
+preferred option identified in the PACR and the PACR Addendum. These works involve activities that 
+include: 
+ design, stakeholder engagement, land-use planning and approvals and acquisition and project 
+management;28 and,  
+ 
+27 AER, Additional Information required: HumeLink Stage 2 Contingent Project Application, 19 January 2024. 
+28 These activities include submitting the environmental impact assessment to DPE, public display completed and project 
+team responding to feedback. 
+
+--- PDF page 16 ---
+ 
+15 | Reinforcing the NSW Southern Shared Network to increase transfer capacity to demand centres (HumeLink)  | Material change 
+in circumstance assessment _________________________________________________________________________________________  
+Official Official Official 
+Official Official Official Official 
+ procure long lead equipment (LLE) for transformers, reactors, conductors and steel towers. 
+These early work activities are largely specific to Option 3C and would not be generally transferable to 
+Option 1C-new or Option 2C, due to differences in technical design and the topology traversed by Option 
+3C compared to these other options. Effectively, Stage 1 early works has advanced Option 3C’s 
+timeframes, as intended, by two years, with approximately three years remaining to deliver the Project in 
+2026/27 from today’s perspective.  
+In contrast, there would be a five-year timeframe to deliver Option 1C-new or Option 2C if works on these 
+options were to start today, resulting in delivery being delayed to 2028/29. This longer timeframe is due to 
+the need for equivalent early works (that are largely completed for Option 3C) to be replicated for Option 
+1C-new or Option 2C.  
+Accordingly, we have assumed delivery of Option 1C-new and Option 2C will occur in 2028/29 in this MCC 
+assessment, to account for the time required to undertake early work activities, construction and delivery 
+for these alternative options. This delay ensures that these two options reflect ‘credible options’ that could 
+be delivered, in line with the RIT-T requirements. Delivery of Option 3C continues to be assumed in 
+2026/27 in line with the delivery date for HumeLink determined in the 2022 ISP and currently being 
+progressed by Transgrid. 
+Further, if an alternative option were pursued at this time, some of the early works costs that have already 
+been incurred for Option 3C as part of the Stage 1 activities could not now be avoided. This includes in 
+particular costs associated with design, stakeholder engagement, land-use planning, approvals and 
+acquisition and project management, specific to Option 3C. In other words, these costs are sunk from an 
+economic perspective and should not affect future decision making, including the identification of the 
+preferred option. We have identified costs of approximately $216 million as sunk.29 These costs have 
+therefore been included in the MCC assessment in the base case, as well as in all three option cases. 
+In addition to sunk costs, we have accounted for the additional costs that would be incurred if Option 3C 
+were to be cancelled in favour of an alternative option (ie Option 1C-new or Option 2C), or if the HumeLink 
+project were to be cancelled altogether (ie the base case). These costs have been estimated to be: 
+ $23 million in contractor costs to cancel the D&C contract; and 
+ $24 million for the cost of storage required to store long lead equipment items that are already on 
+order, until the later time that they would be needed. 
+2.3. The capital cost estimates for all three options have been updated  
+Transgrid’s capital cost estimate for Option 3C has increased by 28 per cent from $3,820 million to $4,881 
+million (June 2023 dollars).30  The increase in the cost estimates reflects a number of changes since 
+December 2021: 
+ refinement of cost estimates through Stage 1 Early Works: Transgrid has refined the cost of 
+delivering HumeLink through activities performed under a two part Stage 1 early works program. 
+These early works activities (which were approved by the AER) have allowed Transgrid to invest 
+time in the planning and design phase, continuing to consult with stakeholders, identifying and 
+ 
+29 Sunk costs of approximately $216 million have been incurred for Option 3C by the end of January 2024. 
+30 A escalation factor of 1.17 has been used to escalate 2021 dollars to 2023 dollars. 
+
+--- PDF page 17 ---
+ 
+16 | Reinforcing the NSW Southern Shared Network to increase transfer capacity to demand centres (HumeLink)  | Material change 
+in circumstance assessment _________________________________________________________________________________________  
+Official Official Official 
+Official Official Official Official 
+quantifying project risks, refine design to enable ordering of long lead equipment, and selecting our 
+design and construction (D&C) contractors through a competitive two stage Early Contractor 
+Involvement (ECI) process. Stage 1 activities have resulted in the Stage 2 capex forecast for the 
+Project being in line with an AACE class 2 to 3 cost estimate, to provide the necessary cost certainty 
+that consumers will not be over-or-under investing in HumeLink; 
+ increase in costs from increased global demand: an increase in the number of infrastructure 
+projects across the world as well as in Australia, coupled with the global transition to renewable 
+energy, has led to an increase in demand for the resources and services necessary to deliver 
+transmission projects; 
+ supply chain disruptions: supply chain disruptions have resulted in materials shortages, with the 
+war in Ukraine also driving up fuel costs; and  
+ fluctuations in global commodity market prices for raw materials, such as steel, concrete, 
+copper and aluminium due to geopolitical factors, trade policies and supply disruptions.  
+It is reasonable to expect that the same drivers that have led to the increase in the cost estimates for Option 
+3C would also affect the costs of the other options considered in the RIT-T, ie, that the options would all have 
+common cost drivers. Transgrid has therefore used the updated cost estimate for Option 3C (informed by 
+our early works activities) to inform the estimates of how the costs of Options 1C-new and Option 2C are also 
+likely to have changed. In particular, the starting point for the updated cost estimates for Option 1C-new and 
+Option 2C has been determined on the basis of applying the percentage increases in the costs of each 
+component of Option 3C, to equivalent or similar components of Option 1C-new and Option 2C.  
+In addition to the common cost drivers described above, cancelling Option 3C in favour of an alternative 
+option (ie Option 1C-new or Option 2C) would expose Transgrid to costs and risks associated with re-
+engaging contractors, the community, and other stakeholders. At a high level, these risks relate to: 
+ high costs arising from engaging contractors and labour with appropriate skills during a period where 
+there is a high level of activity around infrastructure projects; 
+ higher costs from project delay progress, where real costs of transmission projects are expected to 
+increase over the ISP horizon; and 
+ social licence and reputation risk due to a change in route and scope of works that would require re-
+engagement with stakeholders, including community stakeholders. 
+In undertaking the MCC assessment, we have therefore also updated the cost estimates for Option 1C-new 
+and Option 2C with a higher level of contingency to account for the higher level of risks involved in cancelling 
+Option 3C and progressing an alternative option.  
+A more detailed description of how Transgrid has developed and updated the option costs is set out in 
+Appendix C. 
+In relation to the coverage of the capex estimate for Option 3C,31 we note that the estimate incorporates the 
+costs associated with: 
+ a re-routing of the line through Green Hills, which has had a net impact of a $1 million increase in 
+ 
+31 Questions relating to the coverage of the Option 3C capex estimates were raised in the submissions to our Draft Stage 2 
+CPA. 
+
+--- PDF page 18 ---
+ 
+17 | Reinforcing the NSW Southern Shared Network to increase transfer capacity to demand centres (HumeLink)  | Material change 
+in circumstance assessment _________________________________________________________________________________________  
+Official Official Official 
+Official Official Official Official 
+capital costs;32 
+ development of a 500kV substation site at Gugaa, including the civil works and installation of HV 
+infrastructure.33 Approximately $85 million has been included in HumeLink cost estimates for the 
+Gugaa substation site. 
+However, despite this higher degree of cost certainty, we acknowledge that Transgrid may incur additional 
+costs relating to contract variations, as raised by submissions to the draft Stage 2 CPA.  
+To understand the effect of any changes to the costs of Option 3C arising from such variations on the MCC 
+assessment, we have undertaken threshold testing (in section 3.4).34 We conclude that there would need to 
+be a significant (and improbable) increase in costs for Option 3C to no longer provide positive net benefits. 
+We note that while the updated costs for Option 3C are considered to be consistent with an AACE 
+classification 2 to 3, as a result of the early works that Transgrid has undertaken in relation to this option 
+(which forms the basis of the HumeLink Project), the cost estimates for Option 1C-new and Option 2C are 
+necessarily not at the same expected degree of accuracy (as the same early works have not been undertaken 
+to inform the cost estimates for these two options).  
+Figure 2.1 shows the updated capital cost estimates, compared to the capital cost estimates in the earlier 
+PACR and PACR Addendum. Option capital costs have increased by between 28 per cent (for Option 3C) 
+and 43 per cent (for Option 2C). Most of the increase in capital costs relates to the cost of lines and 
+substations. For Option 2C, costs have increased proportionately more than Option 3C, which primarily 
+stems from an additional 30 kilometres of line length, with Wagga emerging as the pivotal point for load 
+management in the former, while 3C involves a shared load flow design encompassing Bannaby, Guga, 
+and Maragle. 
+For Option 3C, the increase in lines and substation costs is partially offset by a decrease in estimated 
+biodiversity offset costs. The detailed analysis and studies undertaken for Option 3C as part of our early 
+works activities have resulted in a refinement of the route and a consequent refinement and a quantifiable 
+reduction in the associated biodiversity costs for Option 3C.  This reduction is not also applicable to the 
+biodiversity costs for Options 1C-new and Option 2C, as the same early works to enable route refinement 
+have not occurred.  
+ 
+32 The incremental cost increase of $1 million reflects: 
+ avoiding nine landowners from the original route, that would be likely to have required a costly compulsory acquisition 
+process 
+ moving to a route over forestry plantation, which assists with access and possible structure locations, reducing overall 
+access tracks and access costs 
+ a significant reduction in biodiversity costs from re-routing from natural bushland to forestry plantation. 
+33 These costs are separate to works relating to VNI West, where the scope involves extension of the 500kV substation 
+bench to accommodate the VNI West High Voltage infrastructure. 
+34  Requests for sensitivity testing of the capex assumed from Option 3C were raised in the submissions to our Draft Stage 2 
+CPA. 
+
+--- PDF page 19 ---
+ 
+18 | Reinforcing the NSW Southern Shared Network to increase transfer capacity to demand centres (HumeLink)  | Material change 
+in circumstance assessment _________________________________________________________________________________________  
+Official Official Official 
+Official Official Official Official 
+Figure 2.1: Revised MCC HumeLink capital expenditure cost estimates compared to PACR Addendum capital expenditure cost estimates ($, 
+real 2023 dollars)  
+ 
+Table 2.1 sets out a breakdown of network capital costs and biodiversity costs by component for each of 
+the three options considered in this MCC assessment. 
+Fission, Transgrid’s independent cost advisor has provided a high-level cost estimate for Option 2C, which 
+falls within the range of Trangrid’s total cost estimate for Option 2C. Fission has quantified and 
+substantiated their input costs, and their independent estimate supports the accuracy of Trangrid’s 
+estimate. 
+
+
+--- PDF page 20 ---
+ 
+19 | Reinforcing the NSW Southern Shared Network to increase transfer capacity to demand centres (HumeLink)  | Material change 
+in circumstance assessment _________________________________________________________________________________________  
+Official Official Official 
+Official Official Official Official 
+Table 2.1: Breakdown of revised MCC HumeLink capital expenditure cost estimates ($m, real 2023 dollars)35 
+ Option 1C-new Option 2C Option 3C 
+Network capital costs    
+Lines 2,818  3,419 3,251 
+Substations 658  1,243 872 
+Land 173  277 248 
+Network capital cost total 3,650 4,939 4,372 
+    
+Biodiversity costs    
+Lines 656  656 499 
+Substations 19  19 10 
+Biodiversity cost total 675 675 510 
+    
+Total 4,325  5,614 4,881 
+2.4. Operating expenditure assumptions 
+Annual opex for each of the three options is assumed to be 0.5 per cent of capex relating to lines and 
+substations (ie excludes land and biodiversity offset costs). This assumption is consistent with that adopted 
+in the PACR Addendum and was derived through a bottom-up forecast employing our standard estimating 
+approach.  
+The lower assumed percentage for the opex compared to other RIT-T assessments reflects the 
+considerably higher capex associated with the options for HumeLink.36 
+To provide comfort that the assumed opex is not a material assumption affecting the outcomes of this MCC 
+assessment, we have undertaken sensitivity testing based on an opex assumption of 3.4 per cent of capex 
+(see section 3.3.3). 
+2.5. The estimate of market benefits has also been updated to reflect the draft 2024 ISP 
+assumptions  
+The market benefits arising as a result of the development of HumeLink mainly relate to benefits from the 
+impact of the investment on wholesale market outcomes. The main categories of wholesale market benefits 
+modelled for the PACR Addendum were: 
+ avoided generation and storage investment costs; 
+ avoided fuel costs; 
+ 
+35 Cost estimates are presented differently for the purposes of the MCC assessment compared to the Stage 2 CPA due to 
+undertaking the RIT-T analysis. The Stage 2 CPA cost estimates have been presented with a breakdown of contingencies 
+and risks. 
+36 Questions relating to the assumed level of opex, and requests for a sensitivity test, were raised in the submissions to our 
+Draft Stage 2 CPA. 
+
+--- PDF page 21 ---
+ 
+20 | Reinforcing the NSW Southern Shared Network to increase transfer capacity to demand centres (HumeLink)  | Material change 
+in circumstance assessment _________________________________________________________________________________________  
+Official Official Official 
+Official Official Official Official 
+ avoided REZ transmission costs; and 
+ competition benefits. 
+Since the publication of the PACR Addendum in December 2021 there have been a number of 
+developments in the wholesale market, which have led to AEMO updating the assumptions it adopts for the 
+ISP analysis. Transgrid therefore engaged EY to update the market modelling in the earlier PACR 
+Addendum to incorporate in this MCC assessment.  
+Transgrid notes that this update to the estimate of market benefits to reflect the latest ISP assumptions is in 
+line with the AER’s information request dated 19 January 2024. EY has modelled the wholesale market 
+benefits across the three ISP scenarios in the Draft 2024 ISP: Progressive change, Step change, and 
+Green energy exports. 
+In undertaking this modelling, EY has drawn on:  
+ AEMO’s 2024 Draft ISP Inputs and Assumptions v5.3, published in December 2023; 
+ The latest information on generation commission timing, as published by AEMO in its NEM 
+Generation Information on 8 September 2023, consistent with the ISP Methodology: 
+ In particular this includes a commissioning date for Snowy 2.0 in December 2028;37 
+ The timing for other ISP projects as set out in the draft 2024 ISP, published on 15 December 2023.  
+ The exception is the assumed timing of the delivery of HumeLink,38  which is assumed to occur 
+by July 2026 for Option 3C (reflecting the timeframe Transgrid is pursuing for the Project) and July 
+2028 for Options 1C-new and Option 2C (reflecting a realistic delivery timeframe for these 
+alternatives), in all scenarios.  
+Drawing on these assumptions, it is important to note that there have been significant changes between the 
+policy assumptions that underpin the analysis undertaken for the earlier RIT-T PACR and the MCC 
+assessment presented in this report.  
+Emissions targets and renewable energy policies today are much more ambitious than those applied in all 
+four scenarios in the PACR. In the PACR, all ISP scenarios had an emissions target of 26 per cent 
+reduction from 2005 levels by 2030. Only Step Change and Fast Change scenarios had further cumulative 
+emissions budgets (of 1,465 Mt and 2,208 Mt respectively for 2022-2050).  
+In contrast, all three scenarios modelled for the MCC have much more stringent carbon budgets to 2030 
+and 2050. The budget for 2025-2050 ranges from 357 Mt in the Green Energy Exports scenario to 681 Mt 
+in the Step Change scenario to 1,203 Mt in the Progressive Change scenario. In terms of carbon 
+abatement ambition, the slowest scenario modelled today is Progressive Change and the ambition is only 
+slightly lower than in the 2021 PACR's most ambitious scenario. 
+ 
+37  See https://aemo.com.au/energy-systems/major-publications/integrated-system-plan-isp/2024-integrated-system-plan-
+isp/current-inputs-assumptions-and-scenarios  
+38  The Draft 2024 Integrated System Plan assumes delivery of HumeLink in July 2030 under the progressive change 
+scenario, July 2029 under the step change scenario, and July 2029 under the green energy exports scenario. See AEMO, 
+Appendix 5. Network Investments – Appendix to the Draft 2024 Integrated System Plan for the National Electricity Market, 
+15 December 2023, p 23. 
+
+--- PDF page 22 ---
+ 
+21 | Reinforcing the NSW Southern Shared Network to increase transfer capacity to demand centres (HumeLink)  | Material change 
+in circumstance assessment _________________________________________________________________________________________  
+Official Official Official 
+Official Official Official Official 
+Renewable energy targets are also much more ambitious. The following policies are assumed in all 
+scenarios in the draft 2024 ISP (and consequently this MCCC assessment), over and above what was 
+assumed in the PACR: 
+ an Australian Government renewable energy target of 82 per cent by 2029/30; 
+ QEJP 70 per cent by 2032 and 80 per cent by 2035; 
+ VRET 65 per cent by 2030 (up from 50% assumed in the 2021 PACR) and 95 per cent by 2035; 
+ TRET 200 per cent by 2040 (only assumed in the Step Change scenario in the 2021 PACR); 
+ Victorian offshore wind target of 9 GW by 2040. 
+The overall effect of these policies is to accelerate the exit of coal-fired generators from the NEM and 
+accelerate the transition to renewable energy and storage, relative to the market modelling assessment 
+conducted for the PACR. This can be seen in Figure 2.2 which shows coal-fired capacity in the PACR 
+scenario outcomes (green lines) and draft 2024 ISP outcomes (blue lines, used as input to the modelling in 
+this MCC assessment). In all but the PACR step change scenario, coal retirement dates are brought 
+forward significantly in the market modelling based on the latest ISP assumptions. The PACR central 
+scenario, which had the highest scenario weighting at 40 per cent, forecast 8.5 GW of coal online in 2039-
+40. In contrast, the scenarios adopted in this MCC assessment forecast 0 MW in the Step Change and 
+Green Energy Exports scenarios and 3.7 GW in Progressive Change at the same point in time. 
+Figure 2.2: Coal retirement schedules PACR compared to the draft 2024 ISP 
+ 
+Scenarios with a faster transition to renewable energy and storage (ie, as reflected in the latest draft ISP 
+and this MCC assessment) are associated with greater utilisation of transmission between Wagga, Maragle 
+and Bannaby, and greater opportunity for Humelink to be utilised to avoid investment in renewable energy, 
+0510152025Coal capacity (GW)Humelink PACR Central 3CHumelink PACR Fast Change 3CHumelink PACR Slow Change 3CHumelink PACR Step Change 3CAEMO Draft ISP 2024 Progressive ChangeAEMO Draft ISP 2024 Step ChangeAEMO Draft ISP 2024 Green Energy ExportsAEMO Draft ISP 2024 Announced retirements
+
+--- PDF page 23 ---
+ 
+22 | Reinforcing the NSW Southern Shared Network to increase transfer capacity to demand centres (HumeLink)  | Material change 
+in circumstance assessment _________________________________________________________________________________________  
+Official Official Official 
+Official Official Official Official 
+storage and gas-fired generation. A reduction in coal and gas fuel use in the MCC scenarios relative to the 
+earlier PACR scenarios means there is reduced opportunity for Humelink to generate fuel cost savings, 
+making savings associated with avoided and deferred capex even more dominant.  
+The assumed demand outlook is another significant factor in setting the pace of transition. In the 2020 ISP 
+scenarios (which were used as the basis for the PACR), no scenarios considered hydrogen load within the 
+NEM. In contrast, the draft 2024 ISP Step Change and Green Energy Export scenarios both consider 
+domestic and export hydrogen load. Demand due to hydrogen loads (and other assumed loads) means 
+operational demand in these more recent scenarios is significantly higher than in any of the PACR 
+scenarios. Coupled with the changes emissions abatement and renewable energy policy assumptions 
+discussed above, this higher demand drives a faster build of wind and solar in the base case, and therefore 
+results in greater benefits from Humelink through avoided investment in generation, storage and REZ 
+transmission. 
+The high gross benefits in the Progressive Change scenario, despite the less restrictive carbon budget and 
+lower demand than the other two MCC scenarios, are driven by an interaction between demand reduction 
+assumptions, fixed coal closure dates and the 82 per cent NEM-wide renewable energy target for 2029/30. 
+This scenario assumes significant industrial load closures in both New South Wales and Queensland in 
+2029/30. The amount of coal-fired capacity remaining in the NEM (which is fixed based on the draft 2024 
+ISP outcomes) - which must run at minimum load when available - leaves no headroom for increased coal-
+fired generation, or gas capacity build and operation in 2029/30 while achieving the 82 per cent renewable 
+energy target. The least-cost development pathway to achieve the 82 per cent target is to install more 
+costly renewables and storage over gas-fired generation, leading to higher benefits when some of those 
+costs are avoided with Humelink. Assumed policy changes are expected to drive earlier transition from 
+coal-fired generation to renewables and storage. This has would increase opportunities for utilising 
+Humelink and drive an increase in forecast gross market benefits. 
+Finally, an additional change in estimating market benefits since the PACR addendum has been the 
+introduction of a 660MW constraint on generation export from Snowy 2.0 in the base case where HumeLink 
+does not proceed, in line with the latest ISP assumptions.39 The implication of this constraint is discussed in 
+Box 2 below. 
+Box 2: 660MW constraint on export limit from Snowy 2.0 in the absence of HumeLink  
+The earlier RIT-T PACR highlighted that access to the new renewable generation in southern NSW and 
+capacity of Snowy 2.0 will be “severely limited, without reinforcements from the Southern Shared 
+Network”. However, a constraint on the export limit from Snowy 2.0 was not reflected in the 2020 ISP 
+that informed the market modelling during the HumeLink RIT-T process. 
+Further in-depth studies performed by Transgrid since that time have identified an export limit of 660MW 
+applicable to Snowy 2.0, prior to completion of HumeLink.  
+These findings have flowed into the draft 2024 ISP and this MCC assessment, and both now include a 
+660MW constraint on the generation that can be dispatched from Snowy 2.0 (in the base case where 
+HumeLink is not progressed). This constraint arises from network congestion in the southern part of 
+Transgrid’s transmission network and limited line capacity between Lower Tumut and Upper Tumut. 
+This constraint has a material effect on the market benefits estimated for each of the credible options in 
+this MCC assessment, as they can each unlock the material levels of generation and long duration 
+ 
+39 Constraint is referred to in the 2023 IASR Assumptions Workbook regarding network capacity, flow path augmentation 
+options and the change log. 
+
+--- PDF page 24 ---
+ 
+23 | Reinforcing the NSW Southern Shared Network to increase transfer capacity to demand centres (HumeLink)  | Material change 
+in circumstance assessment _________________________________________________________________________________________  
+Official Official Official 
+Official Official Official Official 
+energy storage capacity that is provided by Snowy 2.0. This in turn avoids or defers significant 
+investments required in alternative storage and generation. 
+With respect to competition benefits, Transgrid has elected to exclude this category of benefit in this MCC 
+assessment. The complex modelling required, and the expected commonality of any such benefits across 
+the options assessed, is not considered proportionate relative to the requirements of this MCC assessment. 
+EY has modelled the wholesale market benefits across the three ISP scenarios in the Draft 2024 ISP: 
+Progressive change, Step change, and Green energy exports. We have used scenario weights consistent 
+with those proposed by AEMO in the draft 2024 ISP. 
+Table 2.2: Scenario weightings adopted for the MCC analysis 
+Scenario Scenario weightings 
+Progressive change 42 per cent 
+Step change 43 per cent 
+Green energy exports40 15 per cent 
+A summary of the principal assumptions underlying the market modelling is outlined in Appendix D, while a 
+comprehensive exploration of EY's wholesale market modelling, highlighting variances with AEMO's ISP 
+cost benefit analysis, is detailed in the separate EY report accompanying this assessment. 
+  
+ 
+40 Green energy exports scenario was referred to previously as the hydrogen superpower scenario. 
+
+--- PDF page 25 ---
+ 
+24 | Reinforcing the NSW Southern Shared Network to increase transfer capacity to demand centres (HumeLink)  | Material change 
+in circumstance assessment _________________________________________________________________________________________  
+Official Official Official 
+Official Official Official Official 
+3. Net present value results  
+Summary of key points:  
+ Option 3C remains the highest ranked option under all scenarios and the weighted outcome, and 
+continues to provide materially positive net benefits. 
+ Option 3C provides 10 per cent greater net benefits than the second-ranked option (Option 2C) 
+on a weighted basis. 
+ The largest category of market benefit provided by HumeLink is avoided generation/storage 
+investment costs which makes up approximately 92 per cent of gross market benefits. 
+ The NPV results are robust to changes in capital costs, discount rates and higher opex costs. 
+ Capital costs for Option 3C would need to increase 10 per cent for it to no longer be the preferred 
+option, and would need to more than double from the current estimate for the option to exhibit net 
+costs.  
+ These NPV results supports the conclusion that there has not been a material change in 
+circumstance, as defined under the NER. 
+This section presents the updated net present value results for the MCC assessment for Option 1C-new, 
+Option 2C and Option 3C (the current HumeLink Project). The net present value results include the 
+outcomes for each scenario as well as the weighted net market benefits for each option.  
+A breakdown under the step change scenario is also included, to provide a sense of the relative 
+contribution of each benefit and cost category. Detailed market modelling outcomes are provided in the 
+separate EY market modelling report. 
+3.1. Weighted net benefits 
+Figure 3.1 shows the estimated net market benefits for each of the credible options weighted across the three 
+ISP scenarios. The weights adopted follow those in the draft 2024 ISP: 
+ 43 per cent for the step change scenario; 
+ 42 per cent for the progressive change scenario; and  
+ 15 per cent for the green energy exports scenario. 
+On a weighted-basis, Option 3C is the top-ranked option and is expected to deliver approximately $4,186 
+million in net benefits, which is around 10 per cent greater than the net benefits of the second-ranked option 
+(Option 2C).  
+Option 3C is the top ranked option and provides material positive net benefits under all scenarios. 
+
+--- PDF page 26 ---
+ 
+25 | Reinforcing the NSW Southern Shared Network to increase transfer capacity to demand centres (HumeLink)  | Material change 
+in circumstance assessment _________________________________________________________________________________________  
+Official Official Official 
+Official Official Official Official 
+Figure 3.1: Summary of the estimated net benefits, weighted across the three scenarios ($bn, PV 2023 dollars) 
+  
+3.2. Step change scenario 
+The step change scenario is the most likely ISP scenario with a 43 per cent weighting. Under the step 
+change scenario, Option 3C provides gross market benefits of $7,254 million, of which the largest market 
+benefit category is avoided generation/storage investment costs that makes up approximately 88 per cent 
+of gross market benefits. The second largest benefit category is avoided voluntary load curtailment, which 
+makes up approximately 7 per cent of gross market benefits. 
+The remaining 5 per cent of gross market benefits is shared between avoided unserved energy, avoided 
+fuel costs and avoided REZ transmission costs. Figure 3.2 provides a breakdown of costs and benefits for 
+each option under the step change scenario. 
+Figure 3.2: Breakdown of gross benefits for each option under the step change scenario ($m, PV 2023 dollars) 
+ 
+  
+
+
+--- PDF page 27 ---
+ 
+26 | Reinforcing the NSW Southern Shared Network to increase transfer capacity to demand centres (HumeLink)  | Material change 
+in circumstance assessment _________________________________________________________________________________________  
+Official Official Official 
+Official Official Official Official 
+3.3. Sensitivity analysis 
+Four sensitivity tests have also been investigated to explore the robustness of the results presented in section 
+3.1, namely adopting: 
+ higher and lower network capital costs of the credible options; 
+ alternate commercial discount rate assumptions;  
+ a higher opex percentage assumption; and 
+ exclusion of voluntary load shedding benefits in the Progressive Change scenario. 
+Each of the sensitivity tests are discussed below. 
+3.3.1. Higher and lower network capital costs of the credible options 
+We have tested the sensitivity of the results to the underlying network capital costs of the credible options. 
+Figure 3.3 shows that Option 3C remains the top-ranked option if the capital cost assumptions are varied by 
+25 per cent (higher or lower) across the three options considered.  
+Under the assumption of 25% lower capital costs, the net benefits of Option 3C increase to $5,067 million.  
+However, under the 25 per cent higher assumed capital costs, Option 3C is found to have net benefits of 
+$3,304 million. 
+Figure 3.3: Impact of 25 per cent higher and lower network capital costs, weighted outcome ($m, PV 2023 dollars) 
+ 
+We note that we have applied the same +/-25% capital cost variation to Option 3C as to Options 1C-new 
+and 2C. However the expected accuracy of the current capital cost estimate for Option 3C is higher that for 
+the other two options, as a consequence of our Stage 1 earlier works is that this estimate is now 
+considered to be an AACE Class 2 estimate. 
+  
+
+
+--- PDF page 28 ---
+ 
+27 | Reinforcing the NSW Southern Shared Network to increase transfer capacity to demand centres (HumeLink)  | Material change 
+in circumstance assessment _________________________________________________________________________________________  
+Official Official Official 
+Official Official Official Official 
+3.3.2. Alternate commercial discount rate assumptions 
+Figure 3.4 illustrates the sensitivity of the results to adopting different discount rate assumptions in the NPV 
+assessment.  
+In particular, it illustrates the impact of adopting upper and lower bound discount rate assumptions 2023 IASR 
+assumptions:41  
+ high discount rate of 10.5 per cent; and 
+ low discount rate of 3.00 per cent. 
+Under both high and low discount rate, Option 3C is the top-ranked option and continues to deliver positive 
+net benefits. 
+Figure 3.4: Impact of different assumed discount rates, weighted outcome ($m, PV 2023 dollars) 
+ 
+3.3.3. Higher opex percentage assumption 
+Annual opex has been assumed to be 0.5 per cent of capex relating to lines and substations (ie excludes 
+land and biodiversity offset costs).  
+Sensitivity testing for the opex percentage has been undertaken to assess whether adoptiong a higher 
+opex percentage might change the ranking of options or cause net benefits from Option 3C to become 
+negative.  
+We find that assuming a higher opex percentage assumption of 3.4 per cent of capex would not lead to a 
+difference in the results. Option 3C remains the preferred option and continues to provide positive net 
+benefits. 
+ 
+ 
+41 AEMO, 2023 Inputs, Assumptions and Scenarios Report, July 2023, p 123. 
+
+
+--- PDF page 29 ---
+ 
+28 | Reinforcing the NSW Southern Shared Network to increase transfer capacity to demand centres (HumeLink)  | Material change 
+in circumstance assessment _________________________________________________________________________________________  
+Official Official Official 
+Official Official Official Official 
+Figure 3.5: Impact of higher opex percentage, weighted outcome ($m, PV 2023 dollars) 
+ 
+3.3.4. Removal of avoided voluntary load shedding benefits in 2029/30 under the Progressive 
+Change scenario 
+Wholesale market modelling involves the use of historical wind traces to model generation from wind as the 
+basis for forecasting for future periods. An artifact of historical wind traces is that a wind drought42 is 
+assumed to occur in 2029/30.  
+This leads to a significant one-off voluntary load shedding event under the base case in the Progressive 
+Change scenario (and to a lesser extent in the Step Change scenario), as voluntary load shedding is the 
+found to be the most cost-effective approach to meet the 82 per cent renewable energy target. Each option, 
+including Option 3C, is able to avoid this one-off voluntary load shedding event and therefore accrue a 
+market benefit. 
+To assess whether there is a material effect on the NPV outcomes from this one-off voluntary load 
+shedding event, we have removed avoided voluntary load shedding benefits in 2029/30 under the 
+Progressive Change scenario. 
+Figure 3.6 below shows the effect of removing avoided voluntary load shedding benefits in 2029/30 for 
+each of the three options considered in this MCC assessment under the Progressive Change scenario and 
+the weighted outcome.  
+The figure shows that Option 3C continues to provide positive net benefits and is still the highest ranked 
+option, even excluding the avoided voluntary load shedding benefits in 2029/30. 
+ 
+42 A large wind drought occurred in Central-West Orana and other nearby REZs in 2011/12, which is used as the whether 
+reference year for 2029/30. 
+
+
+--- PDF page 30 ---
+ 
+29 | Reinforcing the NSW Southern Shared Network to increase transfer capacity to demand centres (HumeLink)  | Material change 
+in circumstance assessment _________________________________________________________________________________________  
+Official Official Official 
+Official Official Official Official 
+Figure 3.6: Impact of removing avoided voluntary load shedding benefits in 2029/30, ($m, PV 2023 dollars) 
+ 
+3.4. Threshold testing of capital costs of Option 3C 
+Robustness of the MCC assessment to changes in the capital costs of Option 3C can the informed by 
+examining how much the capex of Option 3C would need to increase in order for Option 3C (as the 
+preferred option) to no longer be preferred or for Option 3C to have net costs (ie negative net benefits) that 
+would lead to a material change in circumstance. For the purposes of this threshold assessment we have 
+left the capex estimates for Option 1C-new and Option 2C unchanged.  
+In undertaking the threshold analysis, we find capex for Option 3C would need to increase by: 
+ 10 per cent for Option 3C to no longer be the preferred option on a weighted basis, assuming capex 
+for other options do not change; and 
+ at least 107 per cent for Option 3C to exhibit net costs (ie negative net benefits). 
+The capital cost increase required for Option 3C to exhibit net costs is unlikely due to the size of the 
+increase being significantly outside cost ranges for class 2 to 3 ACEE estimate. We also consider 
+increases in capital costs only for Option 3C such that it is no longer preferred is also unlikely as changes 
+in input costs (eg labour, materials, equipment) would affect all options.43  
+ 
+  
+ 
+43 While increases in capital costs only for Option 3C possible due to variable contracting arrangements, it is reasonable to 
+assume that Option 1C and Option 2C would also have similar contracting arrangements if pursued. 
+
+
+--- PDF page 31 ---
+ 
+30 | Reinforcing the NSW Southern Shared Network to increase transfer capacity to demand centres (HumeLink)  | Material change 
+in circumstance assessment _________________________________________________________________________________________  
+Official Official Official 
+Official Official Official Official 
+4. Conclusion 
+The MCC assessment finds that Option 3C, involving new 500 kV double-circuit lines in an electrical ‘loop’ 
+between Maragle, Wagga Wagga and Bannaby continues to be the preferred option and to provide positive 
+net benefits, despite the increase in the capital cost estimate for this option. 
+This result is found to be robust as Option 3C provides 10 per cent higher net benefits than the second 
+ranked option (Option 2C) and is shown to continue to be the preferred option across a range of 
+sensitivities and the threshold test for the increase in costs.  
+We therefore conclude that Option 3C remains the preferred option, and that an MCC event, as 
+contemplated in the NER, has not occurred. It follows that the RIT-T does not need to be re-applied for 
+HumeLink (or an exemption sought from the AER). 
+ 
+
+--- PDF page 32 ---
+ 
+31 | Reinforcing the NSW Southern Shared Network to increase transfer capacity to demand centres (HumeLink)  | Material change 
+in circumstance assessment _________________________________________________________________________________________  
+Official Official Official 
+Official Official Official Official 
+Appendix A : Compliance checklist 
+This appendix provides a checklist that sets out the additional information required by the AER as part of its 
+review of the Stage 2 CPA, as set out in its notice under clause 6A.8.2(h1) of the NER.44 
+Table 4.1: Additional information required by the AER 
+Additional information required by the AER Relevant section(s) in the 
+MCC assessment 
+To alleviate these concerns and to be satisfied that a material change in 
+circumstances has not occurred (whereby the preferred option identified in the 
+PACR Addendum is no longer the preferred option), we request that 
+TransGrid provide its updated NPV  
+analysis. This analysis should: 
+- 
+a) use the most recent AEMO Integrated System Plan (ISP) parameters 
+(from the draft 2024 ISP or the 2023 Inputs, Assumptions and 
+Scenarios Report). Where other data or assumptions are adopted, 
+TransGrid must provide detailed reasons and identify the impact of 
+this data or assumptions on the cost-benefit analysis. TransGrid 
+should also demonstrate whether any inputs and assumptions have 
+changed for the other credible options assessed in the PACR and its 
+Addendum; 
+Section 1.5 
+Section 2 
+Appendix C 
+b) include scenario analysis (and where required sensitivity analysis) to 
+test the robustness of the preferred option, by adopting the three 
+scenarios in the draft 2024 ISP (step change, progressive change and 
+green energy exports) and their weightings; 
+Section 2 
+ 
+c) include a comparative market benefits analysis for at least the top 
+three ranked credible options assessed in the PACR (amended PACR 
+published in December 2021) to demonstrate any impact on the 
+ranking of credible options and hence, the preferred option identified 
+in the PACR. These options include Option 1C-new, Option 2C and 
+Option 3C (preferred option); 
+Section 3 
+d) be provided in a Microsoft Excel workbook; and MCC assessment model 
+published with the MCC 
+assessment report on 
+Transgrid’s website 
+e) include any supporting reports (including consultant reports). Supporting reports 
+published with the MCC 
+assessment report on 
+Transgrid’s website 
+ 
+ 
+44 AER, Re: Notice under clause 6A.8.2(h1) of the National Electricity Rules, 19 January 2024, p 2. 
+
+--- PDF page 33 ---
+ 
+32 | Reinforcing the NSW Southern Shared Network to increase transfer capacity to demand centres (HumeLink)  | Material change 
+in circumstance assessment _________________________________________________________________________________________  
+Official Official Official 
+Official Official Official Official 
+Appendix B : Options considered in the RIT-T assessment in the 
+Addendum to the PACR 
+The Addendum to the PACR can be accessed from Transgrid’s website.45 For convenience, the three 
+options assessed in the Addendum to the PACR is described below for convenience. 
+B.1 Option 1C-new – A new 500 kV line between Maragle and Bannaby 
+Option 1C-new which has been included in this addendum is a 
+variant of Option 1C that involves constructing a new double circuit 
+500 kV line (instead of two lines) between Maragle and Bannaby. 
+The high level scope includes: 
+ Construct a double circuit 500 kV transmission line: 
+> Between Maragle Substation and Bannaby 500 kV Substation (274km) 
+ Three new 500/330/33 kV 1,500 MVA transformers at Maragle Substation 
+ Augment the Maragle Substation to accommodate the additional transmission 
+lines 
+ Augment the existing Bannaby Substation to accommodate the additional 
+transmission lines. 
+Preliminary modelling indicates that an additional 2,510 MW generation could be accommodated at times of 
+average import from VIC and average renewable generation in southern NSW under this option. 
+The estimated capital cost of this option is set out in the table below. 
+Table A B.1: The estimated capital costs for Option 1C-new 
+Cost estimate Unit Network capital 
+costs 
+Biodiversity costs Total 
+PACR addendum Real 2021 dollars $1,837 million $858 million $2,695 million 
+PACR addendum Real 2023 dollars $2,149 million $1,004 million $3,152 million 
+MCC Real 2023 dollars $3,650 million  $675 million $4,325 million 
+ 
+ 
+ 
+45  See https://www.transgrid.com.au/media/0ezampbw/humelink-rit-t-pacr-addendum.pdf 
+
+
+--- PDF page 34 ---
+ 
+33 | Reinforcing the NSW Southern Shared Network to increase transfer capacity to demand centres (HumeLink)  | Material change 
+in circumstance assessment _________________________________________________________________________________________  
+Official Official Official 
+Official Official Official Official 
+B.2 Option 2C – New 500 kV double-circuit lines between Maragle, Wagga Wagga and 
+Bannaby 
+This option involves constructing new 500 kV lines between 
+Maragle, Wagga Wagga and Bannaby. 
+The high level scope includes: 
+ New Wagga Wagga 500/330 kV Substation and 330 kV connection to the 
+existing Wagga Wagga Substation 
+ Construct four 500 kV transmission lines: 
+> Two lines between Maragle Substation and Wagga Wagga 500 kV 
+Substation (120km); and 
+> Two lines between Wagga Wagga Substation and Bannaby 500 kV 
+Substation (276km) 
+ Three new 500/330/33 kV 1,500 MVA transformers at Maragle Substation 
+and two new 500/330/33 kV 1,500 MVA transformers at Wagga Wagga Substation 
+ Augment the Maragle substation to accommodate the additional transmission lines 
+ Augment the existing Substations at Wagga Wagga and Bannaby to accommodate the additional transmission lines and 
+transformers 
+Preliminary modelling indicates that an additional 2,500 MW generation could be accommodated at times of 
+average import from VIC and average renewable generation in southern NSW. 
+The estimated capital cost of this option is set out in the table below.  
+Table A B.2: The estimated capital costs for Option 2C 
+Cost estimate Unit Network capital 
+costs 
+Biodiversity costs Total 
+PACR addendum Real 2021 dollars $2,544 million $803 million $3,347 million 
+PACR addendum Real 2023 dollars $2,976 million $939 million $3,915 million 
+MCC Real 2023 dollars $4,939 million  $676 million $5,615 million 
+ 
+B.3 Option 3C – New 500 kV double-circuit lines in an electrical ‘loop’ between Maragle, 
+Wagga Wagga and Bannaby  
+This option involves constructing new 500 kV double-circuit lines 
+between Maragle, Wagga Wagga and Bannaby. 
+The high level scope includes: 
+ New Wagga Wagga 500/330 kV Substation and 330 kV connection to the 
+existing Wagga Wagga Substation 
+ Construct three 500 kV transmission lines: 
+> Between Maragle and Bannaby 500 kV Substation (283km); 
+> Between Maragle and Wagga Wagga 500 kV Substation (125km); and 
+
+
+--- PDF page 35 ---
+ 
+34 | Reinforcing the NSW Southern Shared Network to increase transfer capacity to demand centres (HumeLink)  | Material change 
+in circumstance assessment _________________________________________________________________________________________  
+Official Official Official 
+Official Official Official Official 
+> Between Wagga Wagga and Bannaby 500 kV Substation (310km) 
+ Three new 500/330/33 kV 1,500 MVA transformers at Maragle Substation and two new 500/330/33 kV 1,500 MVA transformers at 
+new Wagga Wagga Substation 
+ Augment the Maragle Substation to accommodate the additional transmission lines 
+ Augment the existing Substations at Wagga Wagga and Bannaby to accommodate the additional transmission lines/transformers. 
+Preliminary modelling indicates that additional 2,570 MW generation could be accommodated at times of 
+average import from VIC and average renewable generation in southern NSW. 
+The estimated capital cost of this option is set out in the table below. 
+Table B.3: The estimated capital costs for Option 2C 
+Cost estimate Unit Network capital 
+costs 
+Biodiversity costs Total 
+PACR addendum Real 2021 dollars $1,809 million $845 million $3,266 million 
+PACR addendum Real 2023 dollars $2,116 million $988 million $3,820 million 
+MCC Real 2023 dollars $4,372 million  $510 million $4,881 million 
+  
+
+--- PDF page 36 ---
+ 
+35 | Reinforcing the NSW Southern Shared Network to increase transfer capacity to demand centres (HumeLink)  | Material change 
+in circumstance assessment _________________________________________________________________________________________  
+Official Official Official 
+Official Official Official Official 
+Appendix C : Cost estimate methodology for Option 1C-new and Option 2C 
+The cost estimates for Option 1C-new and Option 2C have been developed as Class 4 estimates, with an 
+accuracy of between -30 per cent  and +50 per cent. The cost estimates for Option 1C-new and Option 2C 
+have been developed based on Transgrid’s costing database. The Transgrid costing database is built on 
+completed costs on projects Transgrid has commissioned and is updated annually. 
+The key elements of the options cost estimates are made up of the following: 
+ Owners Costs including: 
+o Transgrid Labour 
+o Primary and Secondary Equipment 
+o Biodiversity  
+o Property and easement acquisition 
+o Contingency 
+ Contractor Costs including: 
+o Direct Job Costs (DJC) 
+o Preliminary Costs (including indirect Labour Costs) 
+Direct Job Costs 
+The first element in the development of the cost estimates is the build-up of the DJC. These are broken 
+down into expected works packages and the Transgrid costing database was used to build up these works 
+packages as cost estimates. For Option 1C-new the works packages developed were: 
+ 500kV D/C Bannaby - Gobarralong TL 
+ 500kV D/C Gobarralong - Maragle TL 
+ Bannaby 500kV Substation Augmentation 
+ New Maragle 500kV Substation 
+ Optical Repeater Site 
+And similarly, for Option 2C the following works packages were developed: 
+ 500kV D/C Bannaby to Gugaa TL 
+ 500kV D/C Gugaa to Maragle TL 
+ Bannaby 500kV Substation Augmentation 
+ New Maragle 500kV Substation 
+ New Gugaa 500/330kV Substation 
+ Optical Repeater Site 
+ Wagga 330kV Substation Augmentation 
+ 330kV D/C Gugaa - Wagga Line 
+Development of Factors 
+To ensure consistency of cost estimates for 1C-new, 2C, and 3C, a review of Option 3C cost estimates was 
+undertaken. It was calculated that there was a 124 per cent difference between the DJC cost estimates 
+developed using the Transgrid cost estimate database and the Contractor costs for CPA2. The key reason 
+
+--- PDF page 37 ---
+ 
+36 | Reinforcing the NSW Southern Shared Network to increase transfer capacity to demand centres (HumeLink)  | Material change 
+in circumstance assessment _________________________________________________________________________________________  
+Official Official Official 
+Official Official Official Official 
+for this increase is that the contractor market rates are current, while the internal estimated rates are based 
+on completed projects and therefore uses an older dataset.     
+A 24 per cent increase was applied to the Direct Job Costs (DJC) on Option 1C-new and Option 2C in line 
+with the increase found on Option 3C.  
+For a Class 4 estimate, the Owner's costs, Contractor Preliminaries, and other indirect costs are based on 
+factors of the DJC. These factors were derived from the contractor cost estimates for Option 3C. These 
+factors are as per the following:  
+ Contractor Preliminaries including all indirect labour is 51 per cent of DJC.   
+ Transgrid Labour is 18 per cent of the total Contractors Costs. 
+Long Led Time Equipment (LLE) 
+LLE is identified as transmission conductor including OPGW and OHEW, Transformers, and Reactors. The 
+cost estimates for Option 1C-new and Option 2C assumes that the LLE can be utilised from Option 3C, in 
+the event that Option 3C were cancelled in favour of another option.  
+Were Option 1C-new or Option 2C to be the preferred option it is expected to incur the LLE procurement 
+costs upfront in its first year, 2024, and on-going storage costs for the equipment until it is installed on site. 
+Property and Biodiversity Costs 
+The same biodiversity costs from the 2021 PACR were maintained for Option 1C-new and Option 2C. 
+For Option 3C it is noted that the costs for Biodiversity decreased from the 2021 PACR in real terms, this 
+was due to a detailed refinement of the EIS, including refined line routes, and completed surveys, which 
+has led to a reduction of species from the list of liabilities and a quantifiable reduction only applicable to 3C. 
+As the biodiversity costs for Option 1C-new and Option 2C have been determined using a desktop 
+analysis, a quantifiable reduction in these options is only possible during detailed development of the EIS 
+for these options. 
+The Property and Easement costs for Option 2C had seen a small increase by $55,000 based on a revised 
+desktop analysis. The 2021 PACR value for Property and Easement costs was maintained for Option 1C-
+new. 
+Contingency 
+There were two types of contingencies that were applied to the cost estimates for Option 1C-new and 
+Option 2C. The first of the contingencies was the contingency allowance calculated using the Hollmann 
+model. The same model used in the 2021 PACR was applied to the cost estimates in the MCC estimates. 
+For Option 1C-new the Hollmann contingency allowance was 27.03 per cent of the project cost estimate 
+and for Option 2 the Hollmann contingency allowance was 18.8 per cent.  
+In addition to the Hollmann contingency, it was identified that there are risks specific to cancelling Option 
+3C in favour of an alternative option i.e. Options 1C-new or 2C. There were two risks identified including: 
+ Potential for a 10 per cent increase in Contractor labour costs due to an increased demand in 
+labour resourcing in 2026.  
+
+--- PDF page 38 ---
+ 
+37 | Reinforcing the NSW Southern Shared Network to increase transfer capacity to demand centres (HumeLink)  | Material change 
+in circumstance assessment _________________________________________________________________________________________  
+Official Official Official 
+Official Official Official Official 
+ Increase in Contractor costs of 2.5 per cent, in line with AEMO’s 2023 Transmission Expansion 
+Options Report Figure 2 showing AEMO’s forecast of transmission costs over the ISP horizon. 
+ Increase of 50 per cent in cost estimate for Community Engagement to manage communication 
+and social acceptance with changing from Option 3C to an alternative option. Community 
+engagement costs on Option 3C are 1.3 per cent of the Project cost. It is expected that for Option 
+1C-new and Option 2C this cost would be an additional 50% on top of the existing Community 
+Engagement costs. A cost of $35 million was applied to the two options to account for this risk. 
+ 
+ 
+
+--- PDF page 39 ---
+ 
+38 | Reinforcing the NSW Southern Shared Network to increase transfer capacity to demand centres (HumeLink)  | Material change 
+in circumstance assessment _________________________________________________________________________________________  
+Official Official Official 
+Official Official Official Official 
+Appendix D : MCC assessment modelled scenario key drivers input 
+parameters 
+The table below summarises the key assumptions that the market modelling exercise draws upon. A 
+detailed discussion of EY’s wholesale market modelling is provided in the separate EY report 
+accompanying this report. 
+Table D.1: MCC assessment modelled scenario key drivers input parameters 
+Key drivers input 
+parameters 
+Step Change Progressive Change Green Energy Exports 
+Underlying consumption ESOO 2023 (draft ISP 2024)  
+– Step Change 
+ESOO 2023 (draft ISP 2024) 
+– Progressive Change 
+ESOO 2023 (draft ISP 2024) 
+– Green Energy Exports 
+New entrant capital cost for 
+wind, solar PV, SAT, OCGT, 
+CCGT, PSH, and large-scale 
+batteries 
+2023 Inputs and Assumptions 
+Workbook v5.2 – Step 
+Change 
+2023 Inputs and Assumptions 
+Workbook v5.2 – Progressive 
+Change 
+2023 Inputs and Assumptions 
+Workbook v5.2 – Green 
+Energy Exports 
+Retirements of coal-fired 
+power stations 
+2024 Draft ISP results 
+workbook – Step Change 
+ODP (CDP11)  
+In line with modelled closure 
+year outcomes 
+2024 Draft ISP results 
+workbook – Progressive 
+Change ODP (CDP11) 
+In line with modelled closure 
+year outcomes 
+2024 Draft ISP Workbook – 
+Green Energy Exports ODP 
+(CDP11) 
+In line with modelled closure 
+year  outcomes 
+Gas fuel cost 
+2023 Inputs and Assumptions 
+Workbook v5.2 – Step 
+change  
+ 
+2023 Inputs and Assumptions 
+Workbook v5.2 – Progressive 
+Change 
+ 
+2023 Inputs and Assumptions 
+Workbook v5.2 – Green 
+Energy Exports 
+ 
+Coal fuel cost 
+2023 Inputs and Assumptions 
+Workbook v5.2 – Step 
+change  
+ 
+2023 Inputs and Assumptions 
+Workbook v5.2 – Progressive 
+Change  
+ 
+2023 Inputs and Assumptions 
+Workbook v5.2 – Green 
+Energy Exports 
+ 
+NEM carbon budget to 
+achieve Federal 
+Government’s 2030 
+emissions reduction target 
+2023 Inputs and Assumptions Workbook v5.3: 630 Mt CO2-e 2024-25 to 2029-30 
+NEM carbon budget to 
+achieve 2050 temperature-
+linked emissions levels 
+2024 Draft ISP results 
+workbook – Step Change  
+664 Mt CO2-e 2024-25 to 
+2048-49 
+2024 Draft ISP results 
+workbook– Progressive 
+Change  
+890 Mt CO2-e 2024-25 to 
+2048-49 
+2024 Draft ISP results 
+workbook – Green Energy 
+Exports  
+355 Mt CO2-e 2024-25 to 
+2048-49 
+Federal Government 
+Renewable Energy Target 
+2024 ISP Inputs and Assumptions Workbook v5.3: 
+82% share of renewable generation by 2029-30 
+Victoria Renewable Energy 
+Target (VRET) 
+2024 ISP Inputs and Assumptions Workbook v5.3: 
+40% renewable energy by 2025, 65% renewable energy by 2030 and 95% renewable energy by 
+2035 as a percentage of total Victorian generation 
+ 
+Victorian Energy Storage 
+Target 
+2024 ISP Inputs and Assumptions Workbook v5.3: 
+2.6 GW of storage by 2030 including shallow, medium and deep duration storage systems 
+Victorian Offshore Wind 
+Target 
+2024 ISP Inputs and Assumptions Workbook v5.3: 
+6.3GW of storage by 2035 
+2GW of offshore wind by 2032 
+4GW of offshore wind by 2035 
+9GW of offshore wind by 2040 
+
+--- PDF page 40 ---
+ 
+39 | Reinforcing the NSW Southern Shared Network to increase transfer capacity to demand centres (HumeLink)  | Material change 
+in circumstance assessment _________________________________________________________________________________________  
+Official Official Official 
+Official Official Official Official 
+Key drivers input 
+parameters 
+Step Change Progressive Change Green Energy Exports 
+Queensland Renewable 
+Energy Target (QRET) 
+2024 ISP Inputs and Assumptions Workbook v5.3: 
+50% by 2030 renewable generation in Queensland as a percentage of total Queensland demand 
+70% by 2032 renewable generation in Queensland as a percentage of total Queensland demand 
+80% by 2035 renewable generation in Queensland as a percentage of total Queensland demand 
+Tasmanian Renewable 
+Energy Target (TRET) 
+2024 ISP Inputs and Assumptions Workbook v5.3: 200% Renewable generation by 2040, 
+15,750 GWh by 2030 and 21,000 GWh by 2040 
+NSW Electricity Infrastructure 
+Roadmap 
+2024 ISP Inputs and Assumptions Workbook v5.3: 5,547 TWh of eligible renewable generation 
+in 2024-25 increasing to 33.6 TWh renewable generation in 2029-30, 2 GW of long duration 
+storage (8 hrs or more) by 2029-30 
+EnergyConnect 2024 ISP Inputs and Assumptions Workbook v5.3: EnergyConnect commissioned by July 2026 
+Western Renewables Link 2024 ISP Inputs and Assumptions Workbook v5.3: Western Victoria upgrade commissioned by 
+July 2027 
+HumeLink 
+TransGrid: HumeLink commissioned by July 2026 for Option 3C, 2028 for Options 2C and 3C 
+ 
+ 
+Project Marinus Stage 1 Draft 2024 ISP outcome –1 st cable commissioned by July 2030 
+Project Marinus Stage 2 
+Draft 2024 ISP outcome: Step 
+change: 2nd cable 
+commissioned by July 2036 
+Draft 2024 ISP outcome: 
+Progressive change: 2nd cable 
+commissioned by July 2036 
+Draft 2024 ISP outcome: 
+Green energy exports: 2nd 
+cable commissioned by 
+December 2032 
+CopperString 2032 Draft 2024 ISP Inputs and Assumptions Workbook v5.3: CopperString 2032 commissioned by 
+June 2029 
+QNI Connect 
+Draft 2024 ISP – Step change 
+outcome: QNI Connect 
+commissioned by July 2033 
+Draft 2024 ISP – Progressive 
+Change outcome: QNI 
+Connect commissioned by 
+July 2036 
+Draft 2024 ISP – Green 
+Energy Exports outcome: QNI 
+Connect commissioned by 
+July 2030 and stage 2 to be 
+commissioned by July 2044 
+VNI West 
+Draft 2024 ISP – Step 
+Change outcome: VNI West 
+commissioned by December 
+2029 
+Draft 2024 ISP – Progressive 
+Change outcome: VNI West 
+commissioned by July 2034 
+Draft 2024 ISP – Green 
+Energy Exports outcome: VNI 
+West commissioned by July 
+2031 
+Victorian SIPS Draft 2024 ISP Inputs and Assumptions Workbook v5.3:  
+-150MW import capability in VNI link after VIC SIPS contract ends 31 March 2032 
+Waratah Super Battery SIPS 2024 ISP Inputs and Assumptions Workbook v5.3: 250MW increase in export capacity from July 
+2025 ending July 2030 
+New-England REZ 
+Transmission 
+Draft 2024 ISP – Step change 
+outcome: New England REZ 
+Transmission Link 1 
+commissioned by September 
+2028, New England REZ 
+Upgrade commissioned by 
+July 2030, 
+New England Transmission 
+Link 2 commissioned by July 
+2034 
+Draft 2024 ISP – Progressive 
+Change outcome: New 
+England REZ Transmission 
+Link 1commissioned by July 
+2031, New England REZ 
+Upgrade commissioned by 
+July 2031 
+New England Transmission 
+Link 2 commissioned by July 
+2042 
+Draft 2024 ISP – Green 
+Energy Exports outcome: 
+New England REZ 
+Transmission Link 1 
+commissioned by September 
+2028, and New England REZ 
+Upgrade commissioned by 
+July 2030 
+New England Transmission 
+Link 2 commissioned by July 
+2032 
+Central-West Orana REZ 
+Transmission Link 
+Draft 2024 ISP Inputs and 
+Assumptions Workbook v5.3 
+– Step Change: Central-West 
+Orana REZ Transmission 
+Link commissioned by August 
+2028 
+Draft 2024 ISP Inputs and 
+Assumptions Workbook v5.3  
+– Progressive Change: 
+Central-West Orana REZ 
+Transmission Link 
+commissioned by August 
+2028 
+Draft 2024 ISP Inputs and 
+Assumptions Workbook v5.3 
+– Green Energy Exports 
+Central-West Orana REZ 
+Transmission Link 
+commissioned by August 
+2028 
+Snowy 2.0 2023 Inputs and Assumptions Workbook v5.3: Snowy 2.0 is commissioned by December 2028 
+Snowy 2.0 dispatch constrained to 660 MW without Humelink 
+
+--- PDF page 41 ---
+ 
+40 | Reinforcing the NSW Southern Shared Network to increase transfer capacity to demand centres (HumeLink)  | Material change 
+in circumstance assessment _________________________________________________________________________________________  
+Official Official Official 
+Official Official Official Official 
+ 

@@ -1,0 +1,863 @@
+--- PDF page 1 ---
+ 
+ 
+AER 
+Determination 
+HumeLink Early Works Stage 1 (Part 2) 
+Contingent Project  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+August 2023 
+ 
+ 
+ 
+ 
+ 
+ 
+
+--- PDF page 2 ---
+AER Determination | HumeLink Early Works Stage 1 (Part 2) Contingent Project Application 
+AER Determination | HumeLink Early Works Stage 1 (Part 2) | Contingent Project | August 2023 ii 
+© Commonwealth of Australia 2023 
+This work is copyright. In addition to any use permitted under the Copyright Act 1968 all material 
+contained within this work is provided under a Creative Commons Attributions 3.0 Australia licence 
+with the exception of: 
+• the Commonwealth Coat of Arms 
+• the ACCC and AER logos 
+• any illustration diagram, photograph or graphic over which the Australian Competition and 
+Consumer Commission does not hold copyright but which may be part of or contained within 
+this publication.  
+The details of the relevant licence conditions are available on the Creative Commons website as is the 
+full legal code for the CC BY 3.0 AU licence. 
+Inquiries about this publication should be addressed to: 
+Australian Energy Regulator 
+GPO Box 3131 
+Canberra ACT 2601 
+Tel: 1300 585 165 
+
+--- PDF page 3 ---
+AER Determination | HumeLink Early Works Stage 1 (Part 2) Contingent Project Application 
+AER Determination | HumeLink Early Works Stage 1 (Part 2) | Contingent Project | August 2023 iii 
+Executive Summary 
+HumeLink is an estimated $3.9 billion ($2022-23) transmission update linking Greater 
+Sydney load area with the Snowy Mountains Hydroelectric Scheme and Project Energy 
+Connect. It involves 360 km of new 500 kilovolts (kV) transmission lines, which will expand 
+transmission in southern NSW. 
+HumeLink is included in the Australian Energy Market Operator’s (AEMO) 2022 Integrated 
+System Plan (ISP) as a ‘staged actionable project’ under the optimal development path 
+(ODP).1  
+The ISP considers four scenarios of future plausible market developments to capture 
+uncertainty regarding the pace of energy transformation on the path to reach net zero by 
+2050.2 HumeLink delivers value in all scenarios and the project would optimise benefits to 
+consumers if delivery is targeted for 2026-27.3 
+The value of staging HumeLink is in mitigating the risk that not enough dispatchable capacity 
+is available if there are early coal closures in the period 2025 to 2028. There are two stages 
+in the delivery of HumeLink: 
+• Stage 1 (Early Works) are pre-construction activities that can be taken while keeping the 
+option to either continue or discontinue the project as new information becomes 
+available.  
+• Stage 2 is implementation, the completion of the new 500kV transmission that links the 
+Greater Sydney load centre with the Snowy Mountains Hydroelectric Scheme and Project 
+EnergyConnect in south west New South Wales.4 
+Transgrid proposes that the commissioning of HumeLink will be complete by 2026-27, which 
+aligns with AEMO’s target project delivery date in the 2022 ISP. Prior to constructing the 
+project, Transgrid is undertaking early works to:5 
+• Determine the prudent and efficient project construction cost by refining the project scope 
+through innovation and cost-effective design. 
+• Identify, explore and manage the project risks in order to mitigate and/or diversify the 
+project’s risks to reduce residual risk costs. 
+• Progress activities on the critical path and undertake engagements to retain social 
+licence to achieve AEMO’s target delivery date of 2026-27. 
+On 17 August 2022, we approved Transgrid’s early works stage 1 contingent project 
+application (CPA) and capex proposal of $383.3 million ($2022-23) in full. These works are 
+expected to be completed by July 2024. 
+ 
+1  AEMO, 2022 Integrated System Plan, June 2022, p. 61. 
+2  AEMO, 2022 Integrated System Plan, June 2022, p. 25.  
+3  AEMO, 2022 Integrated System Plan, June 2022, p. 68. 
+4  AEMO, Integrated System Plan Feedback Loop Notice – HumeLink (Early Works), 27 January 2022. 
+5  Transgrid, HumeLink – Stage 1 (Early Works) Contingent Project Application, 5 April 2022, p.1 
+
+--- PDF page 4 ---
+AER Determination | HumeLink Early Works Stage 1 (Part 2) Contingent Project Application 
+AER Determination | HumeLink Early Works Stage 1 (Part 2) | Contingent Project | August 2023 iv 
+Transgrid subsequently identified the need for a second Early Works CPA. Transgrid has 
+referred to the first CPA as stage 1 (part 1) and the additional Early Works CPA as stage 1 
+(part 2). 
+Transgrid’s early works stage 1 (part 2) included $226.7 million ($2022-23) for the 
+procurement of long lead equipment (LLE). 
+For actionable ISP projects such as HumeLink, our role is to assess whether the trigger 
+event for actionable ISP projects has been satisfied. If we assess the trigger event for 
+actionable ISP projects has been satisfied, our role is then to determine the incremental 
+revenues that will be added to Transgrid's revenue allowance, reflecting the forecast prudent 
+and efficient capital expenditure and operating expenditure required to deliver the project. 6 
+Table 1 sets out the incremental revenues that will be added to Transgrid’s revenue 
+allowance, the forecast prudent and efficient capital expenditure required to deliver the 
+project, and the estimated impact on the transmission component of residential customer 
+electricity bills in New South Wales.  
+Table 1 HumeLink contingent project – Assessment of forecast expenditure, revenues 
+and bill impact 
+ Determination 
+Proposed total capex ($ 2022-23) to be commissioned for HumeLink stage 1 (part 2) 
+2023-24 and 2024-25 
+$226.7 million 
+AER final decision HumeLink stage 1 (part 2) $227.9 million7 
+Stage 1 (part 2) indicative increase in residential electricity bills in NSW over 2024-25 
+to 2027-28 
+$1.1 p.a 
+Total incremental revenue to be recovered from customers over 2024-25 to 2027-28 
+($ nominal) 
+$38.7 million 
+Stage 1 (part 1) indicative increase in residential electricity bills in NSW over 2024-25 
+to 2027-28 
+$2.60 p.a 
+Total indicative HumeLink early works increase in residential electricity bills in NSW 
+over 2024-25 to 2027-28 
+$3.70 p.a 
+Source: AER analysis. 
+The total indicative increase in residential electricity bills in NSW over 2024–25 to 2027–28 
+from HumeLink early works (part 1 and part 2) is $3.70 p.a. We acknowledge the bill impact 
+from HumeLink both early works CPAs reflects a minor proportion of total HumeLink costs 
+and expect a further increase in bills following the HumeLink stage 2 CPA.  
+HumeLink early works stage 1 (part 2) 
+The purpose of Transgrid’s ‘early works’ stage 1 (part 2) CPA is to secure LLE procurement 
+as part of HumeLink’s overall early works activities. LLE refers to items that have a long time 
+between the order and delivery dates. The length of time is typically relative to the length of 
+the project. For HumeLink LLE would be any asset that would take longer than 6 months to 
+deliver.  
+Stage 1 (part 2) includes the purchase of transformers, reactors, conductors and steel 
+towers. Transgrid has identified this CPA will bring the associated cost forward and reduce 
+its stage 2 CPA forecast capex by an equivalent amount. 
+ 
+6  NER, cl 6A.8.2  
+7  This reflects minor modelling adjustments. 
+
+--- PDF page 5 ---
+AER Determination | HumeLink Early Works Stage 1 (Part 2) Contingent Project Application 
+AER Determination | HumeLink Early Works Stage 1 (Part 2) | Contingent Project | August 2023 v 
+The long lead equipment procurement for HumeLink is also part of Transgrid’s Powering 
+Tomorrow Together (PTT) procurement strategy. The PTT procurement strategy is a joint 
+procurement process bundling HumeLink, VNI West and EnergyConnect. Transgrid expects 
+this process will result in material cost savings for Transgrid’s customers. 
+The key objective of Transgrid’s submission of its stage 1 (part 2) contingent project 
+application in advance of stage 2 is to reduce cost uncertainty, by mitigating against current 
+inflation and to secure supply chain availability by bringing the associated costs forward and 
+reducing the stage 2 cost by an equivalent amount.  
+The additional early works contingent project, consistent with stage 1 (part 1), provides 
+Transgrid with revenue certainty to undertake activities prior to commencing construction on 
+the project. This revenue certainty is provided in advance of making final investment 
+decisions and is intended to fund activities that reduce future system costs and promote the 
+long-term interests of consumers. 
+If the project goes ahead, a second round of revenue is provided for the construction phase 
+(stage 2) of the project via the next HumeLink CPA process.  
+Transgrid can proceed to the next stage of the HumeLink project 
+Contingent projects are significant network augmentation projects that may arise during a 
+regulatory control period but the need and or timing is uncertain. While the expenditures for 
+such projects do not form part of the total forecast expenditure in a revenue determination, 
+the project costs may ultimately be recovered from customers if the four conditions set out at 
+clause 5.16A.5 are met (also called the 'trigger event') and the project costs exceed a 
+materiality threshold. 
+The four conditions set out at clause 5.16A.5 of the National Electricity Rules (NER) that will 
+allow Transgrid to recover the prudent and efficient costs of HumeLink (including stages of 
+HumeLink) from customers are: 
+• Transgrid must issue a Regulatory Investment Test for Transmission (RIT-T) project 
+assessment conclusions report (PACR) that meets the requirements of clause 5.16A.4 
+and which identifies a project as the preferred option (which may be a stage of an 
+actionable ISP project if the actionable ISP project is a staged project) 
+• Transgrid as the proponent must obtain written confirmation from AEMO that the 
+preferred option addresses the relevant identified need specified in the most recent ISP 
+and aligns with the ODP referred to in the most recent ISP (this process is the ‘ISP 
+feedback loop’). 
+• No dispute notice has been given to the Australian Energy Regulator (AER) under rule 
+5.16B(c) or, if a dispute notice has been given, then in accordance with rule 5.16B(d), the 
+dispute has been rejected or the project assessment conclusions report has been 
+amended and identifies that project as the preferred option.8 
+• The cost of the preferred option set out in the contingent project application must be no 
+greater than the cost considered in AEMO's ISP feedback loop assessment. 
+ 
+8  NER, cl. 5.16B(e) 
+
+--- PDF page 6 ---
+AER Determination | HumeLink Early Works Stage 1 (Part 2) Contingent Project Application 
+AER Determination | HumeLink Early Works Stage 1 (Part 2) | Contingent Project | August 2023 vi 
+We are satisfied that all four conditions have been met and as such Transgrid is now entitled 
+to recover revenues from energy consumers to deliver the Stage 1 (part 2) component of 
+HumeLink.  
+The forecast costs of undertaking stage 1 (part 2) are efficient and prudent 
+The forecast costs that are reasonably required to deliver the project is the key driver of the 
+incremental revenues that would be recovered from consumers. 
+Transgrid’s application proposed $226.7 million ($2022-23) in forecast capex to undertake 
+procurement for early works.  
+We have examined Transgrid’s proposed capex forecast and our view is that the amount 
+proposed is reasonable, prudent and efficient to deliver early works for HumeLink. 
+In particular, we consider that: 
+• Transgrid’s proposed scope of works reflects activities that can be included in an early 
+works CPA. Our assessment found that Transgrid’s proposed scope and equipment 
+ratings for LLE procurement for HumeLink are reasonable as a whole and adopt a 
+prudent approach to meeting the objectives of early works for HumeLink. 
+• Transgrid’s proposed costs for transformers and reactors, steel towers and conductors 
+included in the long lead equipment procurement is efficient as we consider Transgrid’s 
+procurement practices are prudent and efficient.  
+• The benefits to customers in reducing cost uncertainty and mitigating the risk of 
+construction delay offset the increased costs as a result of bringing forward costs that 
+would have been included in Transgrid’s HumeLink stage 2 CPA. 
+Next steps  
+The incremental revenues we have approved in this determination will now be added to 
+Transgrid’s total maximum allowed revenues for the 2023–28 regulatory control period. This 
+follows the process set out in clause 6A.8.2 of the NER.  
+The increase in allowed revenues will be reflected in customer bills over the remaining four 
+years of the 2023–28 regulatory control period (2024–25 to 2027–28). 
+The next stage of the HumeLink project will be important in ensuring that Transgrid 
+determines the accurate cost of constructing the full project and obtains all necessary 
+approvals to deliver the project on time. This will ensure that AEMO has all the necessary 
+information when undertaking the ISP feedback loop, and the next CPA includes an accurate 
+updated forecast for the costs reasonably required to construct the project. 
+We expect that Transgrid will have resolved all outstanding issues relating to the 
+implementation of the project by the completion of both early works processes, including land 
+costs, environmental impacts and biodiversity offsets, project design and LLE equipment. 
+We also expect that Transgrid also demonstrate the benefits of its early works activities as 
+part of its HumeLink stage 2 contingent project application. 
+  
+
+--- PDF page 7 ---
+AER Determination | HumeLink Early Works Stage 1 (Part 2) Contingent Project Application 
+AER Determination | HumeLink Early Works Stage 1 (Part 2) | Contingent Project | August 2023 vii 
+Contents 
+Executive Summary ................................ ................................ ................................ ............ iii 
+1 HumeLink contingent project ................................ ................................ ....................... 1 
+1.1 Early works contingent projects ................................ ................................ ........... 2 
+2 Our contingent project determination ................................ ................................ .......... 3 
+3 Project trigger and expenditure threshold ................................ ................................ ... 5 
+3.1 Assessment of trigger event ................................ ................................ ................ 5 
+4 Prudent and efficient project expenditure ................................ ................................ ... 7 
+4.1 Forecast capital expenditure ................................ ................................ ................ 7 
+5 Calculation of incremental allowed revenues ................................ ........................... 13 
+Glossary ................................ ................................ ................................ ..............................  15 
+ 
+  
+
+--- PDF page 8 ---
+Overview | Final decision – HumeLink Early Works Stage 1 (Part 2) Contingent Project 
+ 
+AER Determination | HumeLink Early Works Stage 1 (Part 2) | Contingent Project | August 2023 1 
+1 HumeLink contingent project 
+HumeLink is a $3.9 billion ($2022-23) transmission update linking Greater Sydney load area 
+with the Snowy Mountains Hydroelectric Scheme and Project Energy Connect. It involves 
+360 km of new 500 kilovolts (kV) transmission lines, which will expand transmission in 
+southern NSW.  
+HumeLink is included in the AEMO 2022 ISP ODP as a ‘staged actionable project’. The ISP 
+considers four scenarios of future plausible market developments to capture uncertainty 
+regarding the pace of energy transformation on the path to reach net zero by 2050.9 Under 
+the ISP, AEMO considers that the optimal timing for HumeLink is a target delivery date of 
+2026-27, with early works delivered by 2024.  
+HumeLink delivers value in all scenarios and the project would optimise benefits to 
+consumers with a 2026-27 delivery date.10  
+The value of staging is mitigating the risk that not enough dispatchable capacity is available if 
+there are early coal closures in the period 2026 to 2028. There are two stages in the delivery 
+of HumeLink. Stage 1 are pro-construction activities that can be taken while keeping the 
+option to either continue or discontinue the project as new information becomes available. 
+We refer to this as an early works contingent project. Stage 2 is implementation, the 
+completion of the new 500kV transmission line that links the Greater Sydney load centre with 
+the Snowy Mountains Hydroelectric Scheme and Project EnergyConnect in south west New 
+South Wales.11 
+Completion of HumeLink Stage 1 is targeted by June 2025 and Stage 2 by July 2026.12 
+TransGrid applied for an additional Stage 1 contingent project, referred to as Stage 1 (part 
+2). As a staged project in the ISP, HumeLink will go through the ISP feedback loop 
+assessment for contingent project application. The feedback loop assessment 
+comprehensively tests alignment with the ODP. This may include re-running the ISP 
+modelling if necessary and by considering multiple complex interactions that are unable to be 
+captured within the decision rules.13 
+The HumeLink CPA is the preferred option identified in TransGrid’s RIT-T process. In 
+November 2021, TransGrid amended the HumeLink PACR to include a double circuit option 
+for the path between Maragle and Bannaby as a credible option, to meet the requirement of 
+the NER. The amended PACR concluded that the preferred option in the PACR remained 
+the preferred option. In January 2022, AEMO confirmed that the proposed option and 
+preferred cost is consistent with the ODP in the draft 2022 ISP. 
+On 17 August 2022, we approved Transgrid’s stage 1 part 1 CPA of $383.3 million ($2022-
+23) in full. This application included Early Works activities, including project design, 
+ 
+9  AEMO, 2022 Integrated System Plan, June 2022, p. 25.  
+10  AEMO, 2022 Integrated System Plan, June 2022, p. 68. 
+11  AEMO, Integrated System Plan Feedback Loop Notice – HumeLink (Early Works), 27 January 2022. 
+12  Transgrid, A.1 HumeLink – Stage 1 (Part 2) Contingent Project Application, 23 May 2023, p.16 
+13  AEMO, 2022 Integrated System Plan, June 2022, p. 69. 
+
+--- PDF page 9 ---
+Overview | Final decision – HumeLink Early Works Stage 1 (Part 2) Contingent Project 
+ 
+AER Determination | HumeLink Early Works Stage 1 (Part 2) | Contingent Project | August 2023 2 
+stakeholder engagement, land-use planning and approvals and acquisition, procurement 
+activities, and project management. 
+TransGrid’s early works stage 1 part 2 CPA of $226.7 million ($2022-23) in forecast capex is 
+for the procurement of long lead equipment (LLE). These early works include the purchase of 
+transformers, reactors, conductors and steel towers. Transgrid has identified its stage 1 (Part 
+2) application will bring the associated cost forward to stage 1 and reduce its stage 2 forecast 
+capex by an equivalent amount. 
+1.1 Early works contingent projects 
+Early works contingent projects were introduced as part of the staging of large transmission 
+projects. Our regulation of actionable ISP projects guidance note identified staging as a 
+means to reduce the risks of actionable projects and increase flexibility to respond to 
+changing market conditions.14 Early works allows for investing time in the planning and 
+design phase. It can help identify and quantify project risks, and enable innovative and cost 
+effective design.15  
+The first early works contingent project was TransGrid’s HumeLink stage 1 part 1 CPA which 
+the AER approved on 17 August 2022. TransGrid did not foresee any additional CPA before 
+its HumeLink stage 2 CPA. However, it has included stage 1 part 2 to reflect additional costs 
+to be included in Stage 1 Early Works. 
+Early works is a relatively recent addition to the regulatory framework. We consider early 
+works contingent projects is an evolving area. Where different cost types are proposed, we 
+would be open to considering those to the extent that the early work would promote the long 
+term interests of consumers.  
+As demonstrated by our assessment of TransGrid’s stage 1 part 2 CPA, we remain 
+committed to being flexible within the regulatory framework and to assist the timely delivery 
+of ISP projects. 
+We consider early works should produce reliable cost estimates and expenditure forecasts 
+for later CPA stages.  
+We expect TransGrid to provide information on how early works has assisted in the delivery 
+of a multi-stage contingent project such as TransGrid as part of its stage 2 CPA.  
+  
+ 
+14  AER, AER – Final - Guidance Note – Regulation of actionable ISP projects, March 2021, p.25. 
+15  AER, AER – Final - Guidance Note – Regulation of actionable ISP projects, March 2021, p.26. 
+
+--- PDF page 10 ---
+Overview | Final decision – HumeLink Early Works Stage 1 (Part 2) Contingent Project 
+ 
+AER Determination | HumeLink Early Works Stage 1 (Part 2) | Contingent Project | August 2023 3 
+2 Our contingent project determination 
+Under clause 6A.8.2 of the NER, Transgrid may apply to amend its existing revenue 
+determination to increase allowed revenues for a contingent project. However, we are only 
+required to determine the incremental revenues required to deliver the contingent project if 
+we are satisfied that the trigger event in 5.16.A.5 has occurred, and the project exceeds a 
+cost threshold. 
+As set out in section 3, the HumeLink CPA meets the conditions required for us to make a 
+determination because: 
+• we are satisfied that each element of the trigger event for this project has occurred 
+• we are satisfied that the capex amount of $226.7 million sought exceeds the applicable 
+materiality threshold of $44.9 million (5% of MAR). 
+We have now made a determination on Transgrid's CPA in accordance with clause 6A.8.2 of 
+the NER, which specifies the process we must undertake and the determination we must 
+make on a CPA.  
+In accordance with clause 6A.8.2(e) of the NER, we have determined: 
+• the total capex that is reasonably required for the project and the amount of capex for 
+each remaining year of the regulatory control period (see section 4).  
+• the incremental revenue which is likely to be required by Transgrid for each remaining 
+regulatory year as a result of the efficient capex for the contingent project. This also 
+includes our assessment of a negative capex adjustment for 2022-23 (see section 5), and 
+• that the project has commenced and is aimed to be completed by July 2026. 
+We are also required to publish Transgrid's application and invite interested parties to make 
+written submissions.16 We sought submissions on Transgrid's application on 5 June 2023.17 
+In making our determination, we were required under clause 6A.8.2(f) to consider whether 
+we can accept Transgrid's proposed revenues and project expenditure included in its 
+application. This includes considering if its proposed project costs are prudent and efficient. If 
+we are not satisfied that we can accept Transgrid's forecast revenues and project costs, we 
+can determine a different forecast.  
+Based on our review of Transgrid’s application we accept Transgrid’s forecast $227.9 million 
+for capex related to stage 1 part 2 to be incurred in 2023-24 and 2024-25. However, we do 
+not accept Transgrid’s proposed negative $1.1 million capex adjustment to account for the 
+differences between actual and estimated capex in 2022-23. This capex does not relate to 
+stage 1 part 2. Accounting for such differences will be a part of our true-up process in the roll 
+forward model (RFM) and the requirements of the NER.18 
+ 
+16  NER, cl. 6A.8.2(c). 
+17  No public submissions received during the submission period 5 June 2023 to 30 June 2023 published on 
+the AER website.  
+18  NER, cl. S6A.2.1(f)(3). 
+
+--- PDF page 11 ---
+Overview | Final decision – HumeLink Early Works Stage 1 (Part 2) Contingent Project 
+ 
+AER Determination | HumeLink Early Works Stage 1 (Part 2) | Contingent Project | August 2023 4 
+Our reasoning is set out in section 4.1 and section 5. 
+We have published on our website a supporting post-tax revenue model (PTRM) for the 
+2023–28 period which sets out the updated annual revenues and X-factors for the 2023-28 
+period after including the contingent project amount.  
+
+--- PDF page 12 ---
+Overview | Final decision – HumeLink Early Works Stage 1 (Part 2) Contingent Project 
+ 
+AER Determination | HumeLink Early Works Stage 1 (Part 2) | Contingent Project | August 2023 5 
+3 Project trigger and expenditure threshold 
+Under clause 6A.8.2 of the NER, we are required to determine the incremental revenues 
+necessary to deliver the contingent project if we are satisfied that a specific trigger event has 
+occurred, and the project exceeds a cost threshold. 
+3.1 Assessment of trigger event 
+The trigger event for the HumeLink project is set out in clause 5.16A.5 of the NER as these 
+triggers relate to actionable ISP projects (including staged actionable projects).  
+Table 2 sets out the required elements of the post RIT-T actionable ISP project trigger event, 
+as per NER 5.16A.5 and our assessment against each trigger event. We are satisfied that 
+each element of the trigger event has occurred. 
+Table 2 Post-RIT-T actionable ISP project trigger event (NER 5.16A.5) 
+Element Description of trigger event Assessment 
+1 
+The RIT-T proponent must issue a RIT-T project 
+assessment conclusions report that meets the 
+requirements of clause 5.16A.4 and which 
+identifies a project as the preferred option (which 
+may be a stage of an actionable ISP project if the 
+actionable ISP project is a staged project). 
+Transgrid published a RIT-T project 
+assessment conclusions report (PACR) for 
+HumeLink on 29 July 2021 that meets the 
+requirements of clause 5.16A.4, and which 
+identified the preferred option to be a new 
+500kV double circuit transmission line in an 
+electrical ‘loop’ between Maragle, Wagga 
+Wagga and Bannaby (i.e., ‘Option 3C’).  
+2 
+The RIT-T proponent must obtain written 
+confirmation from AEMO that:  
+• NER, clause 5.16A.5(b)(1): the preferred 
+option addresses the relevant identified need 
+specified in the most recent ISP and aligns 
+with the optimal development path referred to 
+in the most recent ISP; and 
+• NER, clause 5.16A.5(b)(2): the cost of the 
+preferred option does not change the status of 
+the actionable ISP project as part of the 
+optimal development path as updated in 
+accordance with clause 5.22.15 where 
+applicable. 
+(This is the ‘ISP feedback loop’). 
+Transgrid received written feedback loop 
+confirmation from AEMO on 19 May 2023 
+that its proposed Stage 1 (Part 2) capex for 
+LLE meets the identified need in the most 
+recent ISP, this being the 2022 ISP, and that 
+its proposed HumeLink total Stage 1 (Part 1 
+and Part 2) cost remains part of the optimal 
+development path at an updated total cost of 
+$632.9 million ($2022-23), including $383.3 
+million for Stage 1 (Part 1) approved in 
+August 2022 and $249.6 million ($2022-23) 
+for this Stage 1 (Part 2) forecast capex 
+approved by AEMO. 
+3 
+No dispute notice has been given to the AER under 
+rule 5.16B(c) or, if a dispute notice has been given, 
+then in accordance with rule 5.16B(d), the dispute 
+has been rejected or the project assessment 
+conclusions report has been amended and 
+identifies that project as the preferred option. 
+There are no outstanding RIT-T PACR 
+disputes that have been given to the AER 
+under rule 5.16B(c) regarding the HumeLink 
+Stage 1 (Part 2) contingent project 
+application received on 23 May 2023. 
+4 
+The cost of the preferred option set out in the 
+contingent project application must be no greater 
+than the cost considered in AEMO's assessment in 
+requirement 2 above. 
+Transgrid’s proposed Stage 1 (Part 2) capex 
+$226.7 million ($2022-23) is no greater than 
+the $249.6 million approved by the AEMO’s 
+feedback loop confirmation. Total Stage 1 
+capex (Part 1 and Part 2) in this application 
+is within the updated Stage 1 cost cap of 
+
+--- PDF page 13 ---
+Overview | Final decision – HumeLink Early Works Stage 1 (Part 2) Contingent Project 
+ 
+AER Determination | HumeLink Early Works Stage 1 (Part 2) | Contingent Project | August 2023 6 
+$632.9 million ($2022-23), set out in AEMO’s 
+feedback loop confirmation. 19 
+Source: AER analysis. 
+We are also satisfied that the Transgrid’s HumeLink Stage 1 (Part 2) contingent project 
+application we received, and the supporting and explanatory materials we requested, are 
+consistent with the requirements of AER’s regulation of actionable ISP project for staged ISP 
+project. They are also consistent with its previous approved HumeLink Stage 1 (Part 1) 
+contingent project application. 
+ 
+ 
+19  AEMO, Integrated System Plan Feedback Loop Notice – HumeLink (Early Works) – 19 May 2023, 19 
+May 2023. See https://aemo.com.au/en/energy-systems/major-publications/integrated-system-plan-isp/integrated-
+system-plan-feedback-loop-notices 
+
+--- PDF page 14 ---
+Overview | Final decision – HumeLink Early Works Stage 1 (Part 2) Contingent Project 
+ 
+AER Determination | HumeLink Early Works Stage 1 (Part 2) | Contingent Project | August 2023 7 
+4 Prudent and efficient project expenditure 
+This section outlines our assessment of Transgrid's proposed forecast capex for HumeLink 
+early works Stage 1 part 2 and our determination on the prudent and efficient expenditure 
+reasonably necessary to undertake this project. 
+The forecast capex is a key component to determining the incremental revenue Transgrid 
+may recover over the 2023-28 regulatory control period. The forecast capex will also be 
+added to the target capex for Transgrid's expenditure incentive schemes.20 Any incentive 
+rewards and penalties Transgrid receives as a result of under or overspending on the project 
+will be applied as additional revenue adjustments in the next regulatory control period. 
+4.1 Forecast capital expenditure 
+Transgrid’s CPA forecasts that stage 1 part 2 will require $226.7 million ($2022-23) in 
+capex.21 Table 3 sets out our determination on the total capex required for the procurement 
+of LLE in each year of the 2023-28 regulatory control period and the last year of the previous 
+2018-23 regulatory control period. We have accepted Transgrid’s proposed forecast capex of 
+$227.9 million for 2023-24 and 2024-25. For the purpose of our assessment in section 4, we 
+have referred to Transgrid’s forecast as $227.9 million, as this is the capex that is relevant to 
+works undertaken for Stage 1 (part 2).  
+We have not included Transgrid’s negative capex adjustment in 2022-23 section 4 as this 
+adjustment does not relate to activities for Stage 1 (part 2). More information on our 
+assessment of the negative adjustment is in section 5. 
+Table 3 shows our decision on the proposed capex, by year. 
+Table 3 AER determination of forecast capex ($m, 2022-23) 
+ 2022-23 2023-24 2024-25 2025-26 2026-27 2027-28  Total 
+Proposed capex (1.1)  102.1 125.8 - - - 226.7 
+AER decision -  102.1 125.8 - - - 227.9 
+Source:  Transgrid, A.1 HumeLink – Stage 1 (Part 2) Contingent Project Application, 23 May 2023, p.22. 
+Note: Numbers may not add up due to rounding. Excludes equity raising costs. The negative figure for 2022 -23 is due to 
+reducing estimated spending between CPA stage 1 part 1 and part 2. 
+Transgrid states that its proposed LLE procurement will deliver on the following three key 
+objectives: 
+• Providing greater cost certainty for customers by locking in prices now22 
+• Protecting against future inflationary pressure to ensure the Project is delivered at the 
+lowest sustainable cost, and23 
+ 
+20  The Capital Expenditure Sharing Scheme (CESS) and the Efficiency Benefit Sharing Scheme (EBSS). 
+21  Transgrid, A.1 HumeLink – Stage 1 (Part 2) Contingent Project Application, 23 May 2023, p.4 
+22  Transgrid, A.1 HumeLink – Stage 1 (Part 2) Contingent Project Application, 23 May 2023, p.1 
+23  Transgrid, A.1 HumeLink – Stage 1 (Part 2) Contingent Project Application, 23 May 2023, p.1 
+
+--- PDF page 15 ---
+Overview | Final decision – HumeLink Early Works Stage 1 (Part 2) Contingent Project 
+ 
+AER Determination | HumeLink Early Works Stage 1 (Part 2) | Contingent Project | August 2023 8 
+• Securing supply-chain availability, in a competitive global market, in order to meet 
+AEMO’s target delivery date of July 2026.24  
+Transgrid’s CPA included a range of supporting documents: a detailed scope of work 
+document, a detailed breakdown of the project cost elements and delivery date, a capex 
+forecasting methodology, and an outline of its procurement process. It also provided an 
+independent engineering verification and assessment of its capex forecast.25  
+Overall conclusion on Transgrid's proposed capex 
+Based on our analysis of the available information, we consider that Transgrid’s proposed 
+$227.9 million ($2022-23) capex is a prudent and efficient estimate of the forecast capex for 
+the delivery of HumeLink early works stage 1 part 2. In addition, we note Transgrid’s forecast 
+capex is within the amount included in the confirmation of AEMO’s feedback loop of $249.6 
+million.26 
+Our decision is to accept Transgrid’s forecast capex for the purchase of LLE for HumeLink, 
+on the basis that it would reasonably likely be incurred by an efficient and prudent operator to 
+deliver this project. In particular:  
+• Transgrid’s proposed scope and equipment ratings for LLE procurement for HumeLink are 
+reasonable as a whole and adopt a prudent approach to meeting the objectives of early 
+works for HumeLink.  
+• Transgrid's methodology to forecast its proposed capex is largely consistent with its 
+previous PACR report and approved Stage 1 (Part 1) Early Works CPA project scope. 
+The LLE procurement governance and early contractor involvement tender process for 
+HumeLink, supported by Transgrid’s (PTT) procurement strategy, satisfies the 
+requirements of AER’s regulation of actionable ISP project guidance note. We are 
+satisfied that procurement is a critical step for project delivery by 2026-27.  
+• Transgrid provided additional information in response to our information requests. Based 
+on the additional information for transformers and reactors, we consider Transgrid’s 
+forecasts reasonable as these are actual contract costs and its new procurement 
+processes are prudent and efficient.  
+• Transgrid also engaged consultants, Fission, to undertake independent technical 
+verification and assumption of its steel tower and conductor unit rates and capex forecast 
+for HumeLink, which it has endorsed. Based on our analysis against industry benchmarks 
+on the quantities of assets and unit price, we consider the proposed cost forecast 
+methodology is reasonable and likely to result in a reasonable estimate for forecast capex.  
+• We are broadly satisfied by Transgrid’s claims this CPA will provide a benefit to customers 
+through reducing cost uncertainty and mitigating delivery risk. We are also satisfied that 
+the risk of sunk costs is mitigated by the likelihood that Transgrid will be able to resell the 
+LLE assets if HumeLink does not proceed. 
+ 
+24  Transgrid, A.1 HumeLink – Stage 1 (Part 2) Contingent Project Application, 23 May 2023, p.1 
+25  Fission, Transgrid-Fission-Fission Technical Memo-19042023-Confidential_sent to AER 23 May 2023. 
+26  AEMO, Integrated System Plan Feedback Loop Notice – HumeLink (Early Works) – 19 May 2023, 19 
+May 2023. See https://aemo.com.au/en/energy-systems/major-publications/integrated-system-plan-isp/integrated-
+system-plan-feedback-loopnotices 
+
+--- PDF page 16 ---
+Overview | Final decision – HumeLink Early Works Stage 1 (Part 2) Contingent Project 
+ 
+AER Determination | HumeLink Early Works Stage 1 (Part 2) | Contingent Project | August 2023 9 
+ 
+Our decision has also been informed by Transgrid’s engagement with us over the process. 
+This has included information requests, workshops, and attending a meeting between 
+Transgrid and the Transgrid Advisory Council (TAC) on 23 March 2023. Stakeholders at the 
+meeting did not raise any issues. We note that we did not receive any submissions in 
+response to this CPA. In addition, we have consulted AEMO in the making of our decision. 
+This process has ensured we have all the necessary information to make a fully informed 
+decision.  
+The remainder of this section sets out our findings in more detail about: 
+• Transgrid’s proposed forecast capex for LLE procurement and the reason it is likely to 
+reasonably reflect prudent and efficient expenditure 
+• why the proposed scope of works for LLE procurement is reasonable as a whole and 
+adopts a prudent approach to meeting the objectives of early works for HumeLink, and 
+• why the claimed benefits to customers are largely reasonable and supported by 
+Transgrid’s evidence.  
+Transgrid’s proposed scope of works for HumeLink early works stage 1 part 2 LLE 
+procurement and its approach prudently meet the objectives of staging 
+Transgrid’s proposed scope of works are reasonable. In addition, we are satisfied that if 
+Transgrid commenced the procurement of the LLE as part of stage 2 instead of stage 1 part 
+2, then it would materially increase the risk of delay in the delivery of HumeLink. 
+Transgrid’s proposed long lead equipment scope is largely consistent with its previous 
+Project Assessment Conclusions Report (PACR) and approved stage 1 part 1 early works 
+CPA project scope. We are satisfied that the costs in stage 1 part 2 are an extension of stage 
+1 part 1.  
+We consider the scope of work reflects activities that can be included in an early works CPA. 
+This is because procurement activities are considered to be a part of early works in our 
+Regulation of actionable ISP projects guidance note.27 Our assessment also found that 
+Transgrid’s proposed scope and equipment ratings for LLE procurement for HumeLink are 
+reasonable as a whole and adopt a prudent approach to meeting the objectives of HumeLink 
+early works. 
+The LLE procurement governance and early contractor involvement tender process for 
+HumeLink, supported by Transgrid’s (PTT) procurement strategy, satisfies the expectations 
+set out in our Regulation of actionable ISP project guidance note.  
+The procurement time and payment schedule are prudent, and the included manufacturing 
+and delivery time forecast are largely reasonable for delivering the towers and conductors in 
+full by February 2025, and the transformers and reactors in full at the end of 2025.  
+ 
+27  AER, AER – Final - Guidance Note – Regulation of actionable ISP projects, March 2021 
+
+--- PDF page 17 ---
+Overview | Final decision – HumeLink Early Works Stage 1 (Part 2) Contingent Project 
+ 
+AER Determination | HumeLink Early Works Stage 1 (Part 2) | Contingent Project | August 2023 10 
+In examining the project scope, we have identified issues relating to project delivery 
+timeframes. The proposed LLE delivery schedule for late 2025 indicates the whole project is 
+on an accelerated work schedule.  
+We also acknowledge that earlier inclusion of LLE costs in early works may mitigate these 
+types of delivery risks.  
+Transgrid’s proposed forecast capex is likely to reasonably reflect prudent and efficient 
+expenditure 
+We have found Transgrid’s forecast capex is likely to represent an efficient and prudent 
+amount of expenditure to deliver the proposed scope of activities in its application. 
+Transgrid included the following information to support its forecast: 
+• Actual procurement costs (for transformers and reactors) for contracts Transgrid has 
+already entered into.  
+• Estimates developed by its consultant Fission for the equipment that has not yet been 
+contracted for (towers and conductors).  
+The total cost of the 2 early works contingent projects is $609.2 million. Transgrid claimed 
+this will not change the total project cost and will bring the associated costs forward and 
+reduce its stage 2 cost by an equivalent amount. At this stage we are satisfied that the 2 
+early works stages have not increased the total cost of HumeLink. However, we will assess 
+this in more detail as part of our stage 2 assessment. 
+We note that stage 1 part 1 included $27.2 million for LLE, this brings the total cost of LLE to 
+$253.9 million ($2022-23). We are satisfied that the costs that were previously approved 
+have not been included in stage 1 part 2. However, we have assessed the total cost of LLE 
+from both stages to ensure that the total costs for these assets are prudent and efficient. 
+We consider Transgrid’s forecast for transformers and reactors to be efficient as we consider 
+Transgrid’s new procurement practices are prudent and efficient. Transgrid’s procurement 
+methodologies reflect new innovations in risk sharing that have resulted in lower costs than 
+its older procurement models used in other large projects such as EnergyConnect. We 
+consider the detailed information on procurement and delivery plans appeared to be 
+reasonable. 
+For steel towers and conductors, we have undertaken a bottom-up assessment of the unit 
+rates and volumes. We have reviewed the assumptions from Fission’s independent cost and 
+technical report which are based on the outcome of stage 1 part 1 early contractor 
+involvement tender process and design reports. Additional consultant data provided in 
+information request responses showed that the estimates are largely within a reasonable 
+market price range.  
+We note that some elements of Transgrid’s forecast reflect the higher range of forecasts and 
+in some instances above current market rates. We consider that due to the nature of early 
+works, there is a greater forecast uncertainty in providing early forecasts. This uncertainty is 
+increased due to current market conditions where there has been higher price fluctuations. 
+We are satisfied in this circumstance that a forecast that is slightly higher than current market 
+conditions would result in a lower overall cost as it provides certainty to Transgrid to deliver 
+HumeLink. We note that there is a risk that if Transgrid were to procure these assets later, 
+
+--- PDF page 18 ---
+Overview | Final decision – HumeLink Early Works Stage 1 (Part 2) Contingent Project 
+ 
+AER Determination | HumeLink Early Works Stage 1 (Part 2) | Contingent Project | August 2023 11 
+then the costs may be higher in stage 2. We consider this early works process should result 
+in overall lower costs for the whole project. We expect Transgrid to reflect the benefits of 
+stage 1 part 2 in its stage 2 forecast to ensure that consumers do benefit from this early 
+works stage. 
+There may be cost differences between the forecast and actual contract costs once they 
+have been signed. We are satisfied that this is unlikely to result in a material change of 
+overall costs for consumers if Transgrid’s stage 2 forecasts reflect any of these differences to 
+ensure that consumers benefit from stage 1 part 2. We expect Transgrid to update its stage 2 
+forecasts to reflect any differences in contract costs. 
+Transgrid’s claimed benefits of this contingent project application to include long lead 
+equipment procurement in the early works stage are reasonable  
+We have reviewed Transgrid’s objectives, identified in section 4.1, and whether they provide 
+benefits to customers. We are largely satisfied by Transgrid’s evidence. We note that due to 
+the timing of the CPA, the benefits have not been fully quantified. However, we consider 
+qualitatively the benefits identified by Transgrid appear to be reasonable. Through our 
+ongoing engagement with Transgrid we expect the stage 2 CPA to include the benefits and 
+outcomes of both early works CPAs. 
+We consider the benefit of locking in costs earlier is reasonable where uncertain market 
+conditions such as supply-side issues are likely to result in costs being more likely to 
+increase overtime, rather than decrease. We are also satisfied that the risk of asset stranding 
+if HumeLink does not proceed is mitigated as these assets can be used in other projects by 
+Transgrid or resold to other 500kV level transmission line projects.  
+We found the benefit of securing supply chain availability is crucial for the timely delivery of 
+the HumeLink project. The LLE manufacturing and delivery time estimate also have a direct 
+impact on the project construction planning and delivery management plan in the stage 2 
+application.  
+We consider that the primary benefit to the system and customers are the avoidance of a 
+further delay in the completion of works due to supply and manufacturing constraints. There 
+are many factors that could result in delays in completing HumeLink and this process 
+mitigates a key project delivery risk. Had these costs been included in Transgrid’s stage 2 
+application, it is possible there would not be sufficient time for Transgrid to procure its LLE. 
+Our analysis also indicates the benefit of cost certainty claimed by Transgrid is dependent on 
+market conditions and the true benefit of LLE is to avoid project delay risk. We estimate that 
+if there is more than a 10% to 15% chance that the project will be delayed by 1 year (or 
+more) then the cost of the LLE is less than the reduction in benefits to customers. 
+We are satisfied that the risk of sunk costs as a result of earlier LLE procurement is mitigated 
+by Transgrid’s expectation that the LLE equipment can be resold at no decrease in value. 
+We must be satisfied that the inclusion of extra costs for these assets do not result in a 
+reduction in option value which is consistent with the intent for early works. 
+Given, the overall demand for LLE nationally, if the HumeLink project does not proceed to 
+stage 2, Transgrid could repurpose those LLE assets internally for its other transmission 
+
+--- PDF page 19 ---
+Overview | Final decision – HumeLink Early Works Stage 1 (Part 2) Contingent Project 
+ 
+AER Determination | HumeLink Early Works Stage 1 (Part 2) | Contingent Project | August 2023 12 
+projects (such as VNI-West) or resell those LLE to other 500kV transmission projects 
+nationally or sell in return for the underwritten funds.28 
+We also consider the benefits of increased certainty through the staging process provides a 
+more reasonable sharing of the risks and benefits between Transgrid and its consumers. 
+This is because Transgrid can undertake tasks to progress HumeLink earlier than it 
+otherwise would. Through this process Transgrid will also be able to produce more robust 
+forecasts for Stage 2. We note that forecasts and the application of incentive schemes are 
+closely linked in our ex-ante incentive based regulatory framework. We will have regard to 
+the outcomes of the two early works contingent projects as part of our Stage 2 assessment 
+on how incentive schemes should apply for HumeLink overall.  
+ 
+ 
+28  Transgrid, A.1 HumeLink – Stage 1 (Part 2) Contingent Project Application, 23 May 2023, p.21.  
+
+--- PDF page 20 ---
+Overview | Final decision – HumeLink Early Works Stage 1 (Part 2) Contingent Project 
+ 
+AER Determination | HumeLink Early Works Stage 1 (Part 2) | Contingent Project | August 2023 13 
+5 Calculation of incremental allowed revenues 
+This section sets out our calculation of the indicative incremental revenue that Transgrid 
+would recover from customers over the 2023–28 period to account for our determination of 
+efficient project costs. We have applied an annual building block revenue approach, in 
+accordance with clause 6A.8.2(h) of the NER. Transgrid's application is consistent with this 
+approach.  
+Table 4 shows Transgrid is to recover $38.7 million ($ nominal) in additional revenues for 
+HumeLink stage 1 part 2 from customers over the 2023–28 period.  
+As a result of recovering these revenues, we estimate that the transmission component of an 
+indicative residential electricity bill in New South Wales29 would increase by $1.1 per year 
+over the remaining four years of the 2023–28 period (2024–25 to 2027–28).  
+The total impact of HumeLink early work (including both part 1 and part 2) on the 
+transmission component of an indicative residential electricity bill in New South Wales would 
+be $3.7 per year over the remaining four years of the 2023–28 period (2024–25 to 2027–
+28).30  
+Table 4 Indicative incremental revenue calculation – HumeLink stage 1 part 2 ($m, 
+nominal) 
+ 2023–24 2024–25 2025–26 2026–27 2027–28 Total 
+Return on capital 0.0 6.1 14.3 14.5 14.9 49.8 
+Return of capitala 0.0 –3.8 –1.8 –1.7 –1.6 –9.0 
+Straight-line depreciationb 0.0 –0.7 5.3 5.5 5.6 15.8 
+Less: inflation indexation on opening 
+Regulatory Asset Base (RAB) 
+0.0 3.1 7.2 7.2 7.3 24.8 
+Operating expenditure 0.0 0.1 0.1 0.1 0.1 0.4 
+Revenue adjustments 0.0 0.0 0.0 0.0 0.0 0.0 
+Net tax amountc 0.0 0.1 –0.7 –0.6 –0.5 –1.8 
+Annual building block revenue 
+requirement (unsmoothed) 
+0.0 2.5 11.9 12.3 12.8 39.5 
+Annual expected maximum allowed 
+revenue (smoothed) 
+0.0 9.1 9.5 9.8 10.2 38.7 
+Increase to annual expected MAR 
+(smoothed) (%) 
+n/a 1.0% 1.0% 1.0% 1.0% 0.8% 
+Source:  AER analysis. 
+a  Regulatory depreciation (return of capital) consists of straight-line depreciation net of indexation of the 
+RAB. The negative incremental regulatory depreciation is a result of a higher growth in the RAB and the 
+consequent increase in the indexation of the RAB exceeding the increase in the straight-line depreciation.   
+ 
+29  The indicative residential customer electricity bill reflects the weighted average of AER’s 2023–24 
+Default Market Offer prices for Ausgrid, Endeavour Energy and Essential Energy, using the number of customers 
+in each distribution zone as the weights; AER, Default market offer prices 2023–24 – Final decision, 25 May 2023. 
+30  The impact of HumeLink stage 1 part 1 on the transmission component of an indicative residential 
+electricity bill in New South Wales was estimated to be $2.6 per year over the remaining four years of the 2023–
+28 period; AER, Amendment of Transgrid’s 2023–28 Revenue Determination for HumeLink Early Works 
+Contingent Project (Stage 1 Part 1), July 2023, p. 6. 
+
+--- PDF page 21 ---
+Overview | Final decision – HumeLink Early Works Stage 1 (Part 2) Contingent Project 
+ 
+AER Determination | HumeLink Early Works Stage 1 (Part 2) | Contingent Project | August 2023 14 
+b The straight-line depreciation in 2024–25 is negative because the as-commissioned capex for 2023–24 
+for HumeLink stage 1 part 2 is a negative amount. 
+c The negative tax amount in this decision is due to the growth in tax expenses, primarily the TAB and tax 
+depreciation, being higher than the incremental increase in taxable income as a result of HumeLink stage 1 part 
+2. 
+Table 5 provides the effect of the resultant incremental increase in revenues on Transgrid's 
+total annual building block revenue requirement (unsmoothed), expected maximum allowed 
+revenues, and the X-factor over the remainder of 2023–28 period. 
+Table 5 Annual building block revenue requirement, expected MAR and X-factors ($m, 
+nominal) 
+ 2023–24 2024–25 2025–26 2026–27 2027–28 Total 
+Annual building block 
+revenue requirement 
+(unsmoothed) 
+864.4 949.1 1018.8 1077.0 1087.6 4996.9 
+Annual expected 
+MAR (smoothed)  
+924.0 960.1 996.0 1033.2 1071.8 4985.0 
+X-factors n/a –0.96% –0.79% –0.79% –0.79% n/a 
+Source: AER analysis.  
+Minor modelling issue regarding 2022–23 capex 
+As part of its application for HumeLink stage 1 part 2 contingent project, Transgrid proposed 
+a negative adjustment of $1.1 million ($ nominal) for the estimated capex amount for 2022–
+23.31 This adjustment was proposed to reflect the best estimates at the time of its CPA.32  
+In the amended AER final decision roll forward model (RFM) for HumeLink stage 1 part 1, we 
+provided for a total of $1,054.1 million ($ nominal) as-incurred capex in 2022–23.33 This 
+reflects an estimated amount of capex for that year and is included in the opening RAB value 
+as of 1 July 2023.34  
+While the opening RAB value should be adjusted for any actual and estimated capex in 
+2022–23, such an adjustment will be made at the time of the 2028–33 transmission 
+determination when the actual capex becomes available. This is consistent with the true-up 
+process in the RFM and the requirements of the NER. 35 Therefore, we did not make any 
+further updates to the estimated capex for 2022–23 in this decision. In its response to our 
+information request, Transgrid agreed with this approach.36 
+  
+ 
+31  This is shown as a negative as-incurred capex for HumeLink stage 1 part 2 in 2022–23 in the proposed 
+RFM for stage 1 part 2. Transgrid, A.1.2B - Transgrid 2023-28 - FD - RFM - April 2023 HL CPA-1B – PUBLIC. 
+32  Transgrid, Email response to AER information request IR01 HumeLink stage 1 part 2 contingent project 
+application, 17 July 2023. 
+33  AER, Transgrid 2023-28 - Final decision - RFM - HumeLink Early Works - S1P1, July 2023. 
+34  AER, Transgrid 2023-28 - Final decision - PTRM - HumeLink Early Works - S1P1, July 2023. 
+35  NER, cl. S6A.2.1(f)(3). 
+36  Transgrid, Email response to AER information request IR01 HumeLink stage 1 part 2 contingent project 
+application, 17 July 2023. 
+
+--- PDF page 22 ---
+Overview | Final decision – HumeLink Early Works Stage 1 (Part 2) Contingent Project 
+ 
+AER Determination | HumeLink Early Works Stage 1 (Part 2) | Contingent Project | August 2023 15 
+Glossary 
+Shortened form Extended form 
+AEMO Australian Energy Market Operator 
+AER Australian Energy Regulator 
+CPA Contingent Project Application 
+capex capital expenditure 
+ISP Integrated System Plan 
+kV kilovolt 
+LLE Long Lead Equipment 
+MAR Maximum Allowed Revenue 
+NER National Electricity Rules 
+ODP Optimal Development Path 
+PACR Project Assessment Conclusion Report 
+PTRM Post-tax Revenue Model 
+PTT Powering Tomorrow Together 
+PTRM Post-tax Revenue Model 
+RAB Regulatory Asset Base 
+RIT–T Regulatory Investment Test for Transmission 
+TAC Transgrid Advisory Council 
+ 

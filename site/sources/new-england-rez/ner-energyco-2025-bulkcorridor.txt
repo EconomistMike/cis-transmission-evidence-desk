@@ -1,0 +1,3353 @@
+
+===== PDF PAGE 1 =====
+EnergyCo 
+energyco.nsw.gov.au 
+The Energy Corporation of NSW (EnergyCo) 
+Bulk Corridor Design Refinement Report 
+New England Renewable Energy Zone network infrastructure project 
+November 2025 
+===== PDF PAGE 2 =====
+ 
+Bulk Corridor Design Refinement Report | 2 
+Acknowledgement of Country 
+The Energy Corporation of New South Wales acknowledges that it stands on Aboriginal land. 
+We acknowledge the Traditional Custodians of the land and we show our respect for Elders 
+past and present through thoughtful and collaborative approaches to our work, seeking to 
+demonstrate our ongoing commitment to providing places in which Aboriginal people are 
+included socially, culturally and economically. 
+Published by The Energy Corporation of New South Wales 
+energyco.nsw.gov.au 
+Bulk Corridor Design Refinement Report  
+Copyright and disclaimer 
+© State of New South Wales through the Energy Corporation of New South Wales. Information contained in 
+this publication is based on knowledge and understanding at the time of writing, November  2025, and is 
+subject to change. For more information, please visit energy.nsw.gov.au/copyright  
+TMP-MC-R-DC-V1.2 
+  
+===== PDF PAGE 3 =====
+ 
+Bulk Corridor Design Refinement Report | 3 
+Version control 
+Revision Reviewer Description Date 
+0.1 Cara Inia, Project Development 
+& Strategy Director 
+Draft document –  
+Sections 6,7,8 and Appendix 
+A (constraints, considerations 
+and comparative assessment) 
+Jul-25 
+0.2 NE REZ project team leads  Review Jul-25 
+0.3 Doug Parris, Project Director Reviewed and endorsed with 
+comments to be addressed 
+Jul-25 
+0.4 Cara Inia, Project Development 
+& Strategy Director 
+Draft document – addition of 
+sections 1,2,3 and 9 
+Aug-25 
+0.5 NE REZ project team leads Review Aug-25 
+0.6 Doug Parris, Project Director Reviewed and endorsed with 
+comments to be addressed 
+Aug-25 
+0.7 Cara Inia, Project Development 
+& Strategy Director 
+Draft document – addition of 
+remaining sections including 
+executive summary and 
+general editorial and 
+formatting updates 
+Sep-25 
+0.8 NE REZ project team leads Review Sep-25 
+0.9 Doug Parris, Project Director Reviewed and endorsed with 
+comments to be addressed 
+Sep-25 
+1.0  Final Sep-25 
+1.1 Cleo Andrews, Communication 
+& Engagement Lead 
+Updated with foreword (p. 4) 
+and redactions prior to public 
+release in November 2025. 
+Nov-25 
+ 
+===== PDF PAGE 4 =====
+ 
+Bulk Corridor Design Refinement Report | 4 
+November 2025 foreword 
+Background 
+EnergyCo prepared this report for internal governance purposes in September 2025. It outlines the 
+findings of EnergyCo’s bulk corridor refinement process between Muswellbrook and the central 
+south hub near Walcha. Based on the findings outlined in this report, EnergyCo released a new 3km-
+wide study area for public consultation on 2 October 2025. 
+Following requests from the community, EnergyCo committed to publishing this report in November 
+2025 to provide further detail on why the bulk corridor was moved and how the new study area will 
+deliver improved outcomes over the previous study corridor. 
+Indicative corridor analysis 
+The analysis contained in this report is based on a notional 250m-wide corridor for both the previous 
+study corridor and the new study area. This is indicative only for comparison purposes and the final 
+corridor has not yet been determined. EnergyCo expects to narrow the new study area to a 1km-
+wide corridor in early 2026 following consultation and further assessment, with a proposed 250m-
+wide corridor to be included in the environmental impact statement (EIS) in the second half of 2026.  
+The findings in this report will therefore be subject to change as the corridor is refined. It should not 
+be interpreted as a predictive or exhaustive assessment of the corridor impacts over time. 
+REZ network design refinements 
+EnergyCo published refinements to the REZ network design in October 2025 after this report was 
+prepared. As a result, the maps included in this report do not show the increased number of energy 
+hubs as a result of splitting central hub into two 500kV substations (central hub A and central hub 
+B). Further details are available online: Refining the New England REZ network | EnergyCo. Some 
+additional footnotes have been added as clarification through the document. 
+Redactions 
+Some sections of the report are redacted due to information relating to project costs, risks and 
+other factors which are commercially sensitive and may affect the competitive process currently 
+underway to procure a network operator for the New England REZ network infrastructure project.  
+Other redactions have been made in the multi-criteria analysis to remove detailed information about 
+localised impacts of the indicative corridor that may be subject to change as the corridor refinement 
+process continues, including specific locations and points of interest. These redactions do not affect 
+the overall findings of the report.  
+===== PDF PAGE 5 =====
+ 
+Bulk Corridor Design Refinement Report | 5 
+Contents 
+Executive summary .................................................................................................................................... 6 
+Part A –  Introduction and background ................................................................................................... 22 
+1 Introduction ................................................................................................................................... 23 
+1.1 Objectives ........................................................................................................................................................................ 23 
+1.2 Background ..................................................................................................................................................................... 23 
+1.3 Design development process and route selection........................................................................................ 25 
+1.4 Managing change ......................................................................................................................................................... 30 
+Part B –  Reference Design: issue identification and verifying potential solutions ...........................31 
+2 Chapter B overview ...................................................................................................................... 32 
+3 Technical investigations identify constraints ........................................................................... 33 
+3.1 Technical investigations for the Reference Design ..................................................................................... 33 
+3.2 Problem identification ................................................................................................................................................ 34 
+4 Potential solutions ....................................................................................................................... 38 
+4.1 Option one: Localised design refinements to the existing corridor ...................................................... 39 
+4.2 Option two: Identifying a new study corridor .................................................................................................. 42 
+4.3 Next steps ........................................................................................................................................................................ 45 
+Part C –  Comparative corridor assessment .......................................................................................... 46 
+5 Chapter C overview ...................................................................................................................... 47 
+6 Supporting evidence .................................................................................................................... 48 
+6.1 Constructability considerations ............................................................................................................................. 48 
+6.2 Schedule, cost and risk considerations ............................................................................................................. 50 
+6.3 Procurement considerations ................................................................................................................................... 54 
+7 Comparative assessment ............................................................................................................ 56 
+7.1 Objectives ........................................................................................................................................................................ 56 
+7.2 Methodology ................................................................................................................................................................... 56 
+7.3 Assessment findings ................................................................................................................................................... 58 
+7.4 Independent review panel ........................................................................................................................................ 64 
+Part D –  Recommendation, authorisation and implementation .......................................................... 65 
+8 Recommendation .......................................................................................................................... 66 
+9 Assurance, authorisation and implementation ......................................................................... 67 
+9.1 Review and assurance ................................................................................................................................................ 67 
+9.2 Authorisation .................................................................................................................................................................. 68 
+9.3 Implementation ............................................................................................................................................................. 68 
+ 
+===== PDF PAGE 6 =====
+ 
+Bulk Corridor Design Refinement Report | 6 
+1 
+Executive summary 
+  
+===== PDF PAGE 7 =====
+ 
+Bulk Corridor Design Refinement Report | 7 
+Executive summary 
+Overview 
+The New England Renewable Energy Zone (REZ) was declared in 2021, with early corridor planning 
+beginning in 2022. The design development process follows a standard, staged approach—
+progressing from early planning and strategic design, through reference design, and ultimately to a 
+final corridor, which narrows from a broad study area to a permanent 140-metre easement 
+(generally) for the dual 500 kilovolt (kV) lines, or energy hub footprint (requiring the acquisition of 
+freehold land). 
+This process takes several years and requires ongoing review, assessment, and validation as new 
+information becomes available such as technical studies, field investigations, and landowner 
+feedback. From the outset, it was known that steep terrain would be an issue, however, early 
+planning and strategic design development suggested these challenges could be managed and 
+were factored into the project timeline. 
+During the development of the reference design, a number of key technical and environmental 
+studies were undertaken. These studies identified several issues, particularly in relation to 
+constructing transmission lines through steep terrain between Bayswater Power Station near 
+Muswellbrook and Central South Energy Hub. The issues needed to be addressed to ensure the 
+project remained feasible, efficient, and responsive to community and environmental considerations. 
+While some of these issues could be managed through localised design refinements, the cumulative 
+effect of multiple refinements introduced increasing complexity and potentially unmanageable 
+risks, while only partially addressing the constraints. For the purpose of this document, the existing 
+preferred study corridor (PSC) with localised refinements will be referred to as the Refined PSC. As 
+localised refinements were identified, it became clear that the topography east of the Refined PSC 
+offered more favourable conditions and the potential to deliver reduced impacts for the community, 
+environment, and energy consumers, while also meeting the electricity needs of NSW. 
+Given the potential material impacts of proceeding with the Refined PSC, a new corridor option was 
+identified east of the existing corridor which will be referred to as the new study corridor. The bulk 
+corridor refinement process was initiated – comparing the two corridors using a Multi-Criteria 
+Analysis (MCA). 
+This report outlines the outcomes of that assessment and recommends proceeding with the new 
+study corridor to ensure the project is delivered in a way that best balances technical, 
+environmental, and community considerations, while also meeting NSW’s energy requirements and 
+providing long-term benefits for consumers. 
+===== PDF PAGE 8 =====
+ 
+Bulk Corridor Design Refinement Report | 8 
+Introduction 
+The Energy Corporation of NSW (EnergyCo) is planning the construction and operation of new 
+transmission infrastructure to connect energy generation and storage projects within the REZ to the 
+NSW transmission network. 
+The New England REZ network infrastructure project (the project) is a critical energy project for 
+NSW that will provide clean and reliable electricity to consumers for generations to come. The 
+project is required to support the Commonwealth and NSW governments’ energy security, cost and 
+sustainability objectives and will help ensure network reliability and security as coal-fired power 
+stations retire in the early 2030s. 
+The project is currently about 350 kilometres in length, with the transmission corridor extending 
+from the Bayswater Power Station in the Hunter region of NSW, up and into the New England REZ 
+located in the Northern Tablelands region of NSW. The project includes the development of high 
+voltage transmission lines, energy hubs within the REZ, as well as supporting infrastructure. 
+Since 2022, EnergyCo has been developing the transmission corridor for the project through a 
+structured, staged design process, which is outlined in the next section. 
+Design development process 
+The development of large-scale transmission infrastructure follows a standard, staged process that 
+progressively narrows from a broad study area to a defined corridor and, ultimately, the final 
+easement and infrastructure footprint. 
+At each phase, the level of technical studies and landowner and community engagement increases 
+from high-level desktop analysis to site-specific engineering design. This information is continuously 
+reviewed, assessed, and validated to confirm whether the project can progress to the next stage. 
+Where information cannot be validated before progressing; earlier design phases are revisited to re-
+examine assumptions. 
+This staged approach ensures the design becomes progressively more refined and robust, with each 
+stage building on new data, studies, and engagement: 
+• Early planning (2022–2023): Desktop analysis and evaluation were undertaken to identify 
+broad corridor options based on key planning criteria and major constraints. Multiple 
+options were considered for feasibility, including the Western corridor (closer to 
+Tamworth) and the Mid-Western corridor (near Ellerston). Following evaluation, the 
+Western corridor was selected as the preliminary study corridor and announced publicly in 
+Jun-2023. 
+• Strategic design development (mid-2023 – mid-2024): At this stage, the corridor remained 
+broad (about one kilometre). Technical investigations, field studies, and early engagement 
+with landowners and communities were carried out to refine the corridor and validate 
+assumptions. Because this phase relied on high-level investigations and datasets, not all 
+constraints could be fully understood. This work informed further refinements and 
+underpinned key milestones, including the preferred study corridor (PSC) as outlined in 
+the project’s Scoping Report (Jul-24). 
+===== PDF PAGE 9 =====
+ 
+Bulk Corridor Design Refinement Report | 9 
+• Reference Design development (mid-2024 – present): With more detailed technical 
+assessments, modelling, and extensive landowner engagement, the corridor has been 
+refined into a Reference Design which aims for a 250-metre corridor. This provides greater 
+specificity, including indicative tower sitings, access arrangements, and construction 
+methodologies. The Reference Design represents a critical step, balancing technical 
+feasibility while aiming to minimise environmental, property, heritage, and community 
+impacts. Once finalised, it will inform the project’s Environmental Impact Statement (EIS) 
+and be provided to bidders in the network operator procurement. 
+• Final Design (future state): The final phase will translate the Reference Design into a 
+detailed design and construction specifications. This includes finalising property 
+agreements, planning approvals, and detailed site investigations. The design will be 
+resolved to the level of individual components (e.g. towers, conductors, substations) and 
+construction methodologies, ensuring compliance with Australian Standards and project 
+requirements. Micro-level refinements may still occur during construction as on-site 
+optimisation opportunities are identified. 
+This structured and comprehensive route selection and design development process provides 
+confidence that the project will be delivered safely and efficiently. 
+Reference Design: Identifying issues and proposed solutions 
+This section provides an overview of the detailed technical assessments carried out to develop the 
+Reference Design. It also outlines the constraints identified through these assessments and the 
+solutions considered. These solutions included refining the PSC through localised design 
+adjustments (Refined PSC), alternatively, relocating a substantial section of the bulk corridor to an 
+alternative location. 
+Technical investigations  
+In early 2025, the project advanced site investigations and engineering analysis into construction-
+level considerations. Engineers modelled individual tower siting and foundations, which allowed 
+other constructability assessments to be carried out. These investigations provided the most 
+detailed technical information to date and included: 
+• Assessing bushfire management strategies including potential conflicts with aerial 
+firefighting operations at Chaffey Dam and Lake Glenbawn. 
+• Determining tower pad siting and civil design to confirm construction feasibility and the 
+extent of earthworks. 
+• Planning access track arrangements to enable safe delivery of heavy plant and equipment 
+and transportation of workers to site. 
+• Review co-location with existing transmission lines in areas of very steep terrain to 
+identify safety risks and required equipment. 
+• Identifying extent of non-conventional construction methods, such as heavy-lift 
+helicopters for assembling towers. 
+===== PDF PAGE 10 =====
+ 
+Bulk Corridor Design Refinement Report | 10 
+• Quantifying earthworks based on confirmed tower locations, access track designs and 
+construction methodologies. 
+• Reviewing road access and impacts associated with tower locations and management of 
+excess spoil. 
+Challenges 
+The technical and environmental investigations confirmed there were significant and compounding 
+constraints between Bayswater and the Central South Energy Hub; largely driven by very steep 
+terrain.  
+While these challenges were identified in the strategic design, detailed assessments quantified the 
+scale and demonstrated that the project could not continue under the original approach without 
+targeted refinements to address each constraint.  
+Importantly, the outcomes of each study flowed into the next, with findings on tower siting 
+informing access track design, which in turn influenced construction methods, earthwork volumes 
+and ultimately road impacts.  
+The findings, which are interrelated, included: 
+• Increased bushfire risks – aerial firefighting operations would be impacted around Chaffey 
+Dam and Lake Glenbawn, requiring a change to the corridor. Relocation to avoid this 
+impact was previously publicly committed but the assessment further informed the extent 
+of the required change (about 30 kilometres). There are also significant constraints and 
+challenges involved in making local alignment changes, including increasing the number 
+of dwellings in proximity to the corridor. 
+• Tower pad siting and civil designs – a significant number of towers would need to be 
+located on very steep terrain (with access tracks with grades over 18 per cent), requiring 
+bespoke tower pads. This materially increases spoil volumes, safety risks and construction 
+program length, and cost.  
+• Access tracks – extensive new access tracks would be required in very steep terrain 
+(hundreds of kilometres). This compounds construction difficulty and, by undertaking 
+earthworks to reduce the gradient of the access tracks, creates additional impacts on 
+landowners and the environment, including increased vegetation clearing and large 
+volumes of trucks removing surplus spoil. The steep grades also increase safety risks for 
+moving heavy plant and equipment and transporting workers to site. 
+• Construction methods – delivery would rely heavily on non-conventional approaches 
+including heavy lift helicopters for tower construction in very steep and remote locations. 
+In areas of co-location with operational transmission lines, this increased the safety risks 
+of construction activities. 
+• Safety and program risks – rugged terrain, limited road access, and proximity to live 
+transmission lines (co-location) increases risks to workers and equipment, extends 
+construction timelines and adds to cost pressures. 
+===== PDF PAGE 11 =====
+ 
+Bulk Corridor Design Refinement Report | 11 
+• Earthworks and vegetation clearing – substantial increases in earthworks and vegetation 
+clearing would be required to create safe access and construct towers. Initial findings 
+suggest required clearing may be significantly more than originally anticipated. 
+• Haulage and disposal impacts – large volumes of excess spoil would require off-site 
+disposal, generating increased heavy vehicle movements on constrained regional roads 
+and increasing community impacts.  
+• Limited public road access – over 500 kilometres of local roads would be utilised in 
+construction. Large portions these local roads were identified as being narrow, winding, 
+and substandard, being potentially unsafe or inefficient for construction transport. 
+Taken together, these constraints highlighted the magnitude and interdependency of challenges 
+along a large portion of the bulk corridor. To progress, the project examined opportunities for 
+localised refinements and identified a new study corridor, which are outlined in the following 
+section. A visual representation of the key constraints identified within the PSC is provided in Part B. 
+ 
+Figure E-1: Key constraints for the PSC 
+
+===== PDF PAGE 12 =====
+ 
+Bulk Corridor Design Refinement Report | 12 
+Local design refinements for the PSC (Refined PSC) 
+The project explored a range of localised design refinements for the PSC to address access, 
+construction, and environmental constraints, including: 
+• adjusting tower locations locally (typically within or in the vicinity of the one-kilometre 
+corridor) 
+• modifying span arrangements or tower foundation types 
+• employing specialised construction techniques, including heavy-lift helicopter tower 
+delivery. 
+While these measures addressed some constraints, their cumulative effect across long sections of 
+the corridor was limited; meaning the refinements only partially resolved the issues. 
+For example, realignments around Chaffey Dam and Lake Glenbawn avoided impacts to aerial 
+firefighting operations but introduced constraints in new areas such as steep terrain, difficult 
+access, and additional impacts to communities and landowners. Realignment around Chaffey Dam 
+and Lake Glenbawn also increased the overall transmission line length for the project.  
+Shifts to flatter terrain in other sections improved constructability in isolation but other areas of the 
+corridor still required complex tower pad construction, extensive access tracks and non-
+conventional construction methods.  
+Overall, significant constraints remained – very steep terrain, heightened bushfire risk (crossing 
+Category 1 (high-risk) bushfire land) and extended construction timelines that increased 
+environmental and community impacts and risked project delivery. These interdependent challenges 
+highlight the need to test alternative corridor options. 
+Analysis indicated that areas east of the Refined PSC may deliver more favourable outcomes, such 
+as generally flatter terrain, improved site access, and fewer and less steep access tracks. Given the 
+material limitations of the Refined PSC, it was prudent to find an alternative corridor and carry out a 
+strategic reassessment of the bulk corridor. This would determine whether an alternative corridor 
+may provide greater overall benefits on balance. 
+Identification of an alternative corridor 
+EnergyCo carried out a detailed review to identify an alternative corridor that could better balance 
+constructability, environmental, and community considerations. This included reassessment of early 
+route options to the east of the Refined PSC, including the Mid-Western corridor and Aberbaldie-
+Niangala Travelling Stock Reserve (TSR) route.  
+The Mid-Western corridor, which was the next preferred option to the PSC at the time of the initial 
+route selection work, was not progressed during the early route selection process due to 
+accessibility challenges, higher environmental and heritage impacts, limited co-location 
+opportunities, and increased program and cost risks.  
+Updated technical, environmental and design data confirmed that the corridor still presented steep 
+terrain, limited access, complex tower pad requirements, and extensive earthworks and was not 
+considered a viable alternative.  
+===== PDF PAGE 13 =====
+ 
+Bulk Corridor Design Refinement Report | 13 
+Similarly, the TSR route remained largely unsuitable for the same reasons outlined in the earlier 
+route assessment (2024) including high conservation value biodiversity impacts, proximity to homes, 
+and other land use constraints, although the report did note the more favourable topography and 
+access. 
+Options to the west of the Refined PSC were not progressed as it would materially lengthen the 
+transmission line and significantly increase impacts to regional hubs like Tamworth and Scone. 
+A new study corridor was therefore identified east of the Refined PSC and west of the Mid-Western 
+corridor, passing towns such as Waverly and Barry. Supporting technical considerations for this 
+location include: 
+• Topography advantage: Predominantly flatter terrain, with fewer steep sections generally, 
+reducing tower pad complexity and access track construction challenges. 
+• Shorter corridor: decreasing impacts, delivery time, and cost. 
+• Constraint avoidance: Bypasses major regional hubs such as Tamworth and Scone, 
+reduces bushfire risks by crossing less Category 1 (high-risk) bushfire land, and avoids 
+aerial firefighting operations at Chaffey Dam and Lake Glenbawn. 
+• Reduced co-location requirements: Minimises overlap with existing transmission lines, 
+reducing high-risk work adjacent to live infrastructure. 
+• Land use optimisation: Maximises use of suitable public land while avoiding National 
+Parks, high-value biodiversity areas, and minimises impacts to Aboriginal land tenure 
+parcels which have complex acquisition requirements. 
+• Improved access and constructability: Traverses near existing roads and through flatter 
+terrain, enabling safer delivery of construction equipment and reducing reliance on non-
+conventional methods, including heavy-lift helicopters. 
+• Reduced community and environmental impacts: Simpler construction methods and tower 
+pads are expected to lessen noise, vegetation clearing, excess spoil and disruption to 
+landowners, road users and the broader community.  
+The corridors for comparative assessment are shown on Figure E-2. These constraints were 
+comparatively assessed as outlined in the next section.  
+===== PDF PAGE 14 =====
+ 
+Bulk Corridor Design Refinement Report | 14 
+ 
+Figure E-2: Corridors for comparative assessment 
+
+===== PDF PAGE 15 =====
+ 
+Bulk Corridor Design Refinement Report | 15 
+Comparative bulk corridor assessment 
+Introduction 
+Following our internal change management process, EnergyCo carried out a comparative 
+assessment of two corridors: 
+1. The existing PSC with localised refinements (Refined PSC), and 
+2. A new study corridor to the east, via Waverly and Barry (new study corridor). 
+If the new study corridor were to be progressed as the preferred bulk corridor, it would initially be 
+announced publicly as a three-kilometre study area and subsequently refined to a 250-metre 
+corridor through detailed on-site investigations and engagement with landowners and communities.1  
+For the purposes of this comparative assessment, a notional 250-metre corridor was applied for the 
+new study corridor. This technical construct provides a consistent basis for comparison with the 
+Refined PSC and does not indicate a selected corridor.  
+The comparative assessment was carried out using an MCA based on the foundational principles in 
+the NSW Transmission Guideline (Department of Planning, Housing and Infrastructure, 2024) and 
+EnergyCo’s planning pillars noting the MCA is consistent with that used in earlier route selection 
+processes and refinements. The foundational principles of the MCA include: 
+1. Efficiency and deliverability 
+2. Environment and land use 
+3. People and communities. 
+Supporting evidence for the assessment 
+Key considerations that informed the MCA assessment, including constructability, environmental 
+and energisation, are outlined below. These metrics are current as of July 2025. 
+Constructability considerations 
+Key constructability statistics for both corridors, including factors such as corridor length, 
+environmental and road impacts, are outlined in Table E-1. These metrics highlight the relative 
+challenges of constructing in steep terrain and provide a foundation for the MCA. 
+  
+ 
+1 The 250m-wide corridor is used for environmental assessment and construction. The corridor would be eventually narrowed to a final 
+permanent easement of around 140m wide (generally 70m for each 500kV line). 
+===== PDF PAGE 16 =====
+ 
+Bulk Corridor Design Refinement Report | 16 
+Table E-1: Key constructability statistics for the Refined PSC and new study corridor (Jul-25) 
+Project milestones 
+Project milestones for each corridor, demonstrating how each corridor aligns with efficiency and 
+deliverability requirements, are outlined in Table E-2. These milestones form another input into the 
+MCA. 
+Table E-2: Project milestones for the Refined PSC and new study corridor (Jul-25) 
+SStream Milestone Refined PSC New study corridor 
+Procurement 
+   
+   
+   
+Planning 
+approvals 
+ 
+ 
+ 
+ 
+ 
+ 
+Metric  Refined PSC New study corridor 
+Length 346 km 305 km 
+Aggregated elevation 
+change 19,535 m 14,047 m 
+Complex tower pad 
+construction required 
+(Type C) 
+254 116 
+Number of transmission 
+towers 1,335 1,318 
+Surplus earthworks 2.5 million m³ 1 million m3 
+Spoil truck movements on 
+local roads ~320,000 movements ~126,000 movements 
+Access tracks  
+~810 km 
+(76 km exceeding 21% gradient) 
+~670 km 
+(28 km exceeding 21% gradient) 
+Number of towers serviced 
+by access tracks exceeding 
+18% 
+~574 97 
+Co-location with Transgrid 
+80 km (64 km situated in steep 
+terrain) 
+13 crossings with existing lines 
+4 km (non-steep terrain) 
+9 crossings with existing lines 
+
+===== PDF PAGE 17 =====
+ 
+Bulk Corridor Design Refinement Report | 17 
+SStream Milestone Refined PSC New study corridor 
+Delivery    
+Energisation 
+(P50) 
+   
+   
+MCA summary 
+Based on key considerations outlined above, the MCA results are summarised in Table E-3. Overall, 
+the new study corridor performed as well as, or better than the Refined PSC across all assessment 
+criteria, particularly efficiency and deliverability.  
+Table E-3: Summary of MCA results (Jul-25) 
+Foundational 
+principle Planning pillar Refined PSC New study corridor 
+Efficiency and 
+deliverability 
+Technical Worse constructability 
+outcomes and access 
+challenges due to steep terrain. 
+Significant number of access 
+tracks required to be 
+constructed to reach tower 
+locations. For example, the 
+Refined PSC would require:  
+x about 810 kilometres of 
+access tracks, with about 
+76 kilometres of access 
+tracks exceeding 21 per 
+cent gradient 
+x about 574 towers to be 
+serviced by access tracks 
+exceeding 18 per cent 
+grade 
+x about 320,000 spoil truck 
+movements on local roads 
+(from tower pad 
+earthworks). 
+Increased construction and 
+safety risk. 
+Improved constructability 
+outcomes due to flatter terrain. 
+Requires less complex 
+establishment work including 
+more standard tower pads, and 
+shorter and less steep access 
+tracks. For example, the new 
+study corridor would require: 
+x about 670 kilometres of 
+access tracks, with about 
+28 kilometres exceeding 21 
+per cent gradient 
+x about 97 towers to be 
+serviced by access tracks 
+exceeding 18 per cent 
+grade 
+x about 126,000 spoil truck 
+movements on local roads 
+(from tower pad 
+earthworks). 
+More conventional construction 
+methods making it safer, 
+quicker and easier to build. 
+Economic Requires significant use of 
+unconventional construction 
+methods like helicopter 
+construction which increases 
+Simpler and easier to build.  
+Reduced need for 
+unconventional construction 
+methods resulting in lower risk 
+
+===== PDF PAGE 18 =====
+ 
+Bulk Corridor Design Refinement Report | 18 
+Foundational 
+principle Planning pillar Refined PSC New study corridor 
+construction time and safety 
+risks. 
+and more efficient 
+construction.  
+Strategic Higher risks to meeting NSW 
+energisation targets. 
+Includes co-location with an 
+existing Transgrid 330kV 
+transmission line in 
+predominantly steep terrain for 
+about 64 kilometres.  
+Lower overall risk and better 
+meets NSW energy targets. 
+Avoids co-location in steep 
+terrain. 
+Environment 
+and land use 
+Environmental Greater impact on the 
+environment, including amount 
+of vegetation clearing, due to 
+increased earthworks needed 
+for enabling work like access 
+tracks and tower pads.  
+Reduced bushfire resilience, 
+with larger area of high 
+category bushfire prone land. 
+Contains over 500 hectares 
+more forest/woodland 
+compared to the new study 
+corridor. 
+Fewer impacts to the 
+environment due to less 
+earthwork required for enabling 
+work. Reduced clearing of 
+native vegetation. Avoids 
+biodiversity offset site at 
+Chaffey Dam. 
+Avoids aerial firefighting zones 
+identified in aviation 
+assessments around Chaffey 
+Dam and Lake Glenbawn, and 
+smaller area of high category 
+bushfire prone land.  
+Avoids about 100 hectares of 
+land set aside by WaterNSW as 
+a biodiversity offset site. 
+People and 
+communities 
+People Closer to town centres with a 
+greater number of dwellings 
+located closer to the corridor.  
+Greater impact on local 
+communities due to greater 
+heavy vehicle movements on 
+local roads.  
+Unconventional construction 
+methods (e.g. helicopters) 
+would increase noise for nearby 
+landowners and towns. 
+Located further away from 
+town centres and impacts 
+fewer dwellings.  
+Less heavy vehicle movements 
+required. 
+Independent review panel 
+In mid-2025, a three-member independent peer review panel with specialist expertise in 
+transmission line construction and large civil infrastructure projects was appointed to provide a 
+comparative assessment of the two corridors. 
+===== PDF PAGE 19 =====
+ 
+Bulk Corridor Design Refinement Report | 19 
+The findings indicated the new study corridor to be the preferred option as it was found to: 
+• generally allow for better access, both from existing public roads and for the construction 
+of access tracks  
+• is significantly less reliant on non-conventional construction methods for transmission 
+tower construction  
+• results in a reduction of the risks associated with the construction of transmission towers 
+including the safety of workers and enable improved program and cost outcomes 
+compared with the Refined PSC. 
+Feedback from the constructability review was considered when conducting the MCA enhancing the 
+overall confidence and credibility of the assessment outcomes. 
+Recommendation 
+The MCA found that the new study corridor performed better overall when considered against the 
+foundational principles. 
+It is recommended that the project proceed with the new study corridor for stakeholder 
+engagement, detailed environmental assessment and Reference Design development. If approved, 
+this corridor will underpin the EIS and be provided to bidders in the network operator procurement. 
+The MCA concluded that the new study corridor has: 
+• Improved constructability and technical performance – the new study corridor 
+outperforms the Refined PSC on nearly all technical and constructability criteria. It offers 
+simpler and more efficient construction, reduced construction and safety risks, reduced 
+impacts from excess spoil and improved flexibility for design optimisation and refinement. 
+• Reduced environmental impacts – the new study corridor reduces overall environmental 
+impacts compared to the Refined PSC. The new study corridor contains less 
+woodland/forest vegetation, crosses less Category 1 (high risk) bushfire land, avoids 
+impacts to aerial firefighting operations and crosses less land mapped as biophysical 
+strategic agricultural land (BSAL). It would also require less vegetation clearing for the 
+construction of new access tracks in mountainous terrain.  
+• Reduced community impacts – the new study corridor is more accessible to key local 
+roads decreasing access tracks built on private property, and less vehicles on roads 
+carting excess spoil. By reducing the use of heavy-lift helicopters, the impacts of noise on 
+nearby communities and livestock are also reduced. 
+• A stronger delivery profile – the new study corridor provides greater timing certainty and 
+the potential for earlier energisation. It is also considered to be more financeable due to 
+its more efficient and flexible design. 
+• Decreased risk – the new study corridor offers a more robust and adaptable delivery 
+program and, while it does carry some transitional risks, these are outweighed by the 
+much higher strategic risks associated with continuing with the Refined PSC. The Refined 
+PSC presents a constrained and rigid design with limited scope for optimisation, tight 
+construction windows, and exposure to complex terrain. These factors reduce the 
+===== PDF PAGE 20 =====
+ 
+Bulk Corridor Design Refinement Report | 20 
+project's ability to absorb delays or respond to unforeseen challenges, significantly 
+increasing the risk to overall delivery. 
+Figure E-3 illustrates the proposed public-facing map that would support the announcement. 
+ 
+Figure E-3: Proposed public-facing map to support announcement 
+
+===== PDF PAGE 21 =====
+ 
+Bulk Corridor Design Refinement Report | 21 
+Authorisation and implementation 
+In line with the project’s change management process: 
+• Extensive internal engagement was carried out prior to approval, including: 
+− regular weekly (twice per week) meetings with the EnergyCo Executive Leadership 
+Team (ELT) 
+− briefings to the Board including a joint meeting with the Board and Independent 
+Peer Review Panel. 
+• This change requires formal Board approval, supported by a comprehensive package of 
+supporting evidence. This includes an overarching Briefing Note seeking approval to move 
+the bulk corridor, along with supporting material such as the how the community, 
+landowners and stakeholders will be engaged and briefing packs that incorporate the 
+information contained in this report. 
+• If approved, the standard process for a project announcement will commence including 
+stakeholder engagement and progress to public announcement.  
+  
+===== PDF PAGE 22 =====
+ 
+Bulk Corridor Design Refinement Report | 22 
+A 
+Part A – Introduction 
+and background 
+  
+===== PDF PAGE 23 =====
+ 
+Bulk Corridor Design Refinement Report | 23 
+1 Introduction 
+1.1 Objectives 
+This Bulk Corridor Design Refinement Report (this report) details the bulk corridor design 
+refinement process which was carried out. The objectives of this report are to:   
+• Outline the key issues and challenges associated with the PSC which were identified 
+during development of the Reference Design. 
+• Identify and assess potential solutions to avoid or minimise the key issues and challenges. 
+• Recommend a preferred solution which will inform further stakeholder engagement, 
+detailed environmental assessment, the Reference Design and be provided to bidders for 
+the network operator procurement. 
+1.2 Background 
+The New England REZ is a key part of NSW’s clean energy future, offering high-quality renewable 
+resources and strong investor interest. Formally declared under the Electricity Infrastructure 
+Investment Act 2020 (EII Act) on 17 December 2021, the New England REZ is in the New England and 
+Hunter regions of NSW. It has an intended network capacity of eight gigawatts, with an initial 
+transfer capacity of six gigawatts to be delivered in two stages: 
+• Stage 1: 2.4 gigawatts by 2032-2033 
+• Stage 2: An additional 3.6 gigawatts by 2034-2035. 
+An additional Stage 3, providing at least two gigawatts, may be developed in the future, subject to 
+energy demand and relevant approvals. 
+The location of the New England REZ is shown on Figure 1-1. Centrally located between Sydney and 
+Brisbane, the New England REZ covers an area of about 15,500 square kilometres situated on the 
+land of the Biripi, Dainggatti, Nganyaywana, Ngarabal, and Gumbainggir people, and will provide 
+opportunities to increase NSW’s energy resilience in future years. 
+  
+===== PDF PAGE 24 =====
+ 
+Bulk Corridor Design Refinement Report | 24 
+ 
+Figure 1-1: New England REZ 
+1.2.1 The project 
+The Energy Corporation of NSW (EnergyCo) is planning the construction and operation of new 
+transmission infrastructure to connect energy generation and storage projects within the New 
+England REZ to the NSW transmission network (the project). The project was declared Critical State 
+Significant Infrastructure in June 2024 in accordance with section 5.13 of the Environmental Planning 
+and Assessment Act 1979.  
+The project is a critical energy project for NSW that will provide clean and reliable electricity to 
+consumers for generations to come. The project is required to support the Commonwealth and NSW 
+governments’ energy security, cost and sustainability objectives and will help ensure network 
+reliability and security as coal-fired power stations retire in the early 2030s. 
+The project is about 350 kilometres in length, with the transmission corridor extending from the 
+Bayswater Power Station in the Hunter region of NSW, up and into the New England REZ located in 
+the Northern Tablelands region of NSW.  
+The project comprises the following key features:  
+• New transmission infrastructure including new dual 500 kilovolt (kV) transmission lines 
+and associated infrastructure to connect the New England REZ to the NSW transmission 
+network (as part of the National Electricity Market) near Muswellbrook NSW and new 
+single 500 kV and 330 kV transmission lines to connect to energy hubs and one switching 
+station within the New England REZ.  
+
+===== PDF PAGE 25 =====
+ 
+Bulk Corridor Design Refinement Report | 25 
+• Four energy hubs2 to connect future energy generation and storage projects within the 
+New England REZ to the new 500 kV network infrastructure and a northern connection 
+switching station to link the North Hub with Transgrid’s existing 330 kV transmission line. 
+• Ancillary development to support the project, including: 
+− establishment or upgrade of access tracks and public roads  
+− upgrade and/or augmentation to existing electricity and utility infrastructure  
+− installation and operation of communications infrastructure and facilities. 
+1.3 Design development process and route selection 
+1.3.1 Design development process 
+The development of large-scale transmission infrastructure follows a standard, staged process that 
+progressively narrows from a broad study area to a defined corridor and, ultimately, the final 
+easement and infrastructure footprint. 
+At each phase, the level of technical studies moves from high-level desktop analysis to site-specific 
+engineering design and landowner and community engagement increases. This information is 
+continuously reviewed, assessed, and validated to confirm whether the project can progress to the 
+next stage. Where information cannot be validated before progressing; earlier design phases are 
+revisited to re-examine assumptions. 
+This staged approach ensures the design becomes progressively more refined and robust, with each 
+stage building on new data, studies, and engagement: 
+• Early planning (2022–2023): Desktop analysis and evaluation were undertaken to identify 
+broad corridor options based on key planning criteria and major constraints. Multiple 
+options were considered for feasibility, including the Western corridor (closer to 
+Tamworth) and the Mid-Western corridor (near Ellerston). Following evaluation, the 
+Western corridor was selected as the preliminary study corridor and announced publicly in 
+Jun-2023. 
+• Strategic design development (mid-2023 – mid-2024): At this stage, the corridor remained 
+broad (about one kilometre). Technical investigations, field studies, and early engagement 
+with landowners and communities were carried out to refine the corridor and validate 
+assumptions. Because this phase relied on high-level investigations and datasets, not all 
+constraints could be fully understood. This work informed further refinements and 
+underpinned key milestones, including the PSC as outlined in the project’s Scoping Report 
+(July 2024). 
+• Reference Design development (mid-2024 – present): With more detailed technical 
+assessments, modelling, and extensive landowner engagement, the corridor has been 
+refined into a Reference Design which aims for a 250-metre corridor. This provides greater 
+specificity, including indicative tower sitings, access arrangements, and construction 
+ 
+2 The total number of energy hubs has increased to five following the splitting of central hub into two substations (central hub A and 
+central hub B) in October 2025. 
+===== PDF PAGE 26 =====
+ 
+Bulk Corridor Design Refinement Report | 26 
+methodologies. The Reference Design represents a critical step, balancing technical 
+feasibility while aiming to minimise environmental, property, heritage, and community 
+impacts. Once finalised, it will inform the project’s Environmental Impact Statement (EIS) 
+and be provided to bidders in the network operator procurement. 
+• Final Design (future state): The final phase will translate the Reference Design into 
+detailed design and construction specifications. This includes finalising property 
+agreements, planning approvals, and detailed site investigations. The design will be 
+resolved to the level of individual components (e.g. towers, conductors, substations) and 
+construction methodologies, ensuring compliance with Australian Standards and project 
+requirements. Micro-level refinements may still occur during construction as on-site 
+optimisation opportunities are identified. 
+This structured and comprehensive route selection and design development process provides 
+confidence that the project will be delivered safely and efficiently. 
+1.3.2 Route selection historical context 
+As outlined above, the route selection process for the project began in early 2022, following the 
+formal declaration of the New England REZ in December 2021. Since then, a structured and iterative 
+approach has been applied to identify and refine a corridor that is technically feasible, 
+environmentally responsible, and aims to leave a positive legacy for the community. 
+Strategic and project objectives were established from the outset to guide corridor development 
+based on EnergyCo’s five Planning Pillars, which are people, environment, economic, strategic and 
+technical. 
+To ensure a consistent and transparent evaluation process from early planning stages, a structured 
+Multi-Criteria Analysis (MCA) framework was applied at each stage of the assessment. 
+An overview of the corridor selection and refinement process for the project is provided in Table 1-1, 
+while the initial bulk corridor process is shown on Figure 1-2. Further detail regarding the route 
+selection process for the project is provided in the project’s Scoping Report (July 2024). 
+Table 1-1: Corridor selection and refinement process 
+Corridor selection and 
+refinement process 
+Description 
+Early planning 
+2022 – 2023 
+The early planning and corridor selection process for the project commenced in 
+2022, and progressively increased in level of detail from: 
+• Route design options: A long list of six corridors were identiﬁed for 
+transmission routes based on potential hub locations, land use planning, 
+community, environmental and technical constraints. 
+• Options feasibility: Assessed the feasibility of four corridor options that were 
+derived and reﬁned from the long list, including revised energy hub options. 
+Two options (Western and Mid-Western) were recommended to further 
+progress. 
+===== PDF PAGE 27 =====
+ 
+Bulk Corridor Design Refinement Report | 27 
+Corridor selection and 
+refinement process 
+Description 
+• Options evaluation: Assessed the two options through desktop analysis and 
+recommended the Western option as the preliminary study corridor. 
+Strategic Design 
+development 
+Mid-2023 – mid-2024 
+The preferred Western corridor was further refined during the development of 
+the Strategic Design through technical and environmental studies, landowner 
+consultation, and community and stakeholder engagement. This led to the 
+development of the following study corridors:  
+• Preliminary study corridor: A one-kilometre corridor was released for 
+community, landowner and stakeholder engagement. Field studies were 
+conducted to validate the desktop assessment and gather additional 
+information including feedback from the community and stakeholders. About 
+320 landowners affected by the preliminary study corridor 
+• Revised study corridor: Following community and landowner engagement 
+and further technical studies, an updated one-kilometre corridor was 
+announced which minimised impacts to the environment and community, 
+including reducing the number of landowners affected to 240. The number 
+of energy hubs was also reduced from ﬁve to four with the deferral of the 
+South Hub, announced in January 2024. 
+• Preferred study corridor: In July 2024, the preferred study corridor was 
+released with the project’s Scoping Report. It generally followed the one-
+kilometre revised study corridor with some narrowed sections. 
+Reference Design 
+development 
+Mid-2024 to Q1 2026 
+The EIS will be developed within a preferred corridor about 250 metres wide, 
+expanding at energy hubs and workforce accommodation camps. This is the 
+corridor that will be used to inform environmental and technical surveys and will 
+be presented in the EIS. 
+EIS exhibition 
+Second half of 2026 
+EIS exhibition including displaying a Reference Design with a 250-metre-wide 
+preferred corridor.3 
+Final Design 
+2027 – 2028  
+Developed by the successful network operator. 
+ 
+ 
+3 The 250m-wide corridor is used for environmental assessment and construction. The corridor would be eventually narrowed to a final 
+permanent easement of around 140m wide (generally 70m for each 500kV line). 
+===== PDF PAGE 28 =====
+ 
+Bulk Corridor Design Refinement Report | 28 
+Options development Feasibility Evaluation 
+ 
+Six corridor options identified. 
+ 
+Refined options to two corridors, 
+including the Western corridor and 
+Mid-Western corridor (with an 
+Eastern corridor discontinued due to 
+identified significant constraints). 
+ 
+Assessed the two corridors and 
+progressed the Western corridor 
+as the preferred option. 
+Figure 1-2: Initial bulk corridor selection process for the project 
+
+===== PDF PAGE 29 =====
+ 
+Bulk Corridor Design Refinement Report | 29 
+1.3.3 The existing Preferred Study Corridor (PSC) 
+In 2024, EnergyCo announced the PSC which has since underpinned key project milestones, 
+including the Scoping Report (July 2024) and been the basis for the project’s Reference Design. The 
+existing PSC for the project is shown on Figure 1-3. 
+Details regarding the development of the project’s Reference Design is provided in Section 3.1. 
+ 
+Figure 1-3: Existing PSC for the project 
+
+===== PDF PAGE 30 =====
+ 
+Bulk Corridor Design Refinement Report | 30 
+1.4 Managing change 
+Corridor selection and refinements are carried out within the framework of the project’s change 
+management process. Operating within the change management framework ensures decisions are 
+made in line with EnergyCo’s statutory obligations as outlined in the EII Act and specifically, ensure 
+decisions are in the best interest of our communities, NSW energy requirements and consumers. The 
+framework includes five key phases which are reflected in the structure of this report, including: 
+• identify the issue and potential solutions (refer to Part B of this report) 
+• verify the proposed change is valid and should be investigated further (refer to Part B of 
+this report) 
+• assess the change and recommend a preferred option (refer to Part C of this report) 
+• authorise by seeking approval for the change (refer to Part D of this report) 
+• implement the change (refer to Part D of this report).  
+  
+===== PDF PAGE 31 =====
+ 
+Bulk Corridor Design Refinement Report | 31 
+B 
+Part B – Reference 
+Design: issue 
+identification and 
+verifying potential 
+solutions 
+  
+===== PDF PAGE 32 =====
+ 
+Bulk Corridor Design Refinement Report | 32 
+2 Chapter B overview 
+This chapter outlines the detailed technical investigations that were carried out to develop the 
+Reference Design, issues identified mostly relating to steep terrain and, potential solutions. 
+To support understanding of the analysis that follows, the two corridors that will be assessed (the 
+Refined PSC and the new study corridor) are shown on Figure 2-1. 
+ 
+Figure 2-1: Corridors for comparative assessment 
+
+===== PDF PAGE 33 =====
+ 
+Bulk Corridor Design Refinement Report | 33 
+3 Technical investigations identify 
+constraints 
+This section outlines the technical investigations carried out to develop a robust Reference 
+Design from the project’s PSC and, the issues identified through the process. 
+In early 2025, site investigations and engineering analyses advanced construction-level 
+considerations, providing detailed input for design decisions. Individual tower siting and 
+foundation modelling enabled a range of constructability assessments, which highlighted 
+substantial constraints with the design, which are further explored in Section 3.2. 
+3.1 Technical investigations for the Reference Design 
+In development of the Reference Design, several design inputs have materially progressed including 
+site investigations, engineering analysis and stakeholder and landowner engagement. 
+These investigations provided the most detailed technical information to date and included: 
+• Assessing bushfire management strategies including potential conflicts with aerial 
+firefighting operations at Chaffey Dam and Lake Glenbawn. 
+• Determining tower pad siting and civil design to confirm construction feasibility and the 
+extent of earthworks. 
+• Planning access track arrangements to enable safe delivery of heavy plant and equipment 
+and transportation of workers to site. 
+• Review co-location with existing transmission lines in areas of very steep terrain to 
+identify safety risks and required equipment. 
+• Identifying extent of non-conventional construction methods, such as heavy-lift 
+helicopters for assembling towers. 
+• Quantifying earthworks based on confirmed tower locations, access track designs and 
+construction methodologies. 
+• Reviewing road access and impacts associated with tower locations and management of 
+excess spoil. 
+  
+===== PDF PAGE 34 =====
+ 
+Bulk Corridor Design Refinement Report | 34 
+3.2 Problem identification 
+Although the corridor selection process identified and considered areas of steep terrain, in-depth 
+assessments and modelling provided a comprehensive understanding of the scale of these risks and 
+challenges. A summary of the in-depth assessments and modelling which was carried out to inform 
+the Reference Design includes: 
+• Assessment of bushfire management strategies – additional analysis and stakeholder 
+engagement has identified potential impacts to the operation of fixed-wing aerial firefighting 
+aircraft at both Chaffey Dam and Lake Glenbawn. The assessment included the development 
+of transmission exclusion areas to avoid impacts to aerial firefighting operations. 
+• Tower pad civil designs – this is required for any transmission project and due to the steep 
+terrain, this investigation was critical to understand constructability considerations. Findings 
+showed that construction would require a large number of bespoke tower pads which have 
+large impacts on the environment (including excess spoil), and the requirement to use 
+specialised equipment to build the transmission towers. 
+• Access track arrangements – this assessment could only be carried out once the towers had 
+been sited, based on landholder engagement and design of the tower pads. This assessment 
+found that an extensive amount of access tracks would be required on landowner’s 
+properties and in steep terrain. 
+• Review of co-location with existing transmission lines – co-location was a key determining 
+factor in selecting the PSC and is a good outcome in flatter terrain. However, as the findings 
+of these in-depth assessments and modelling became available, co-location in sections of 
+steep terrain needed to be reviewed. The review identified risks and challenges (including 
+safety issues and impacts to program and cost) associated with construction near existing 
+operational Transgrid infrastructure in areas of steep terrain. 
+• Constructability methodology – the findings of the above assessments demonstrated that a 
+mix of non-conventional and conventional construction methodologies would be required 
+(such as cranes and heavy lift helicopters for tower construction). 
+• Earthworks quantification – further design work carried out for the tower pads and the 
+access tracks identified significant excess spoil from the earthworks, which would require 
+off-site disposal. This would require a substantial amount of heavy vehicle movements on 
+local and State roads. 
+• Review of road impacts – the impact of the truck movements on local roads was assessed 
+following quantification of the earthworks. Due to the steep terrain, the existing local roads 
+include a high number of geometric and safety non-conformances at many locations. The 
+significant increase in construction traffic on these roads would result in large quantity of 
+road upgrades. The impact of these upgrades would be extensive. 
+• Further details regarding the key issues and risks identified during these assessments for 
+the PSC are outlined in Table 3-1. 
+===== PDF PAGE 35 =====
+ 
+Bulk Corridor Design Refinement Report | 35 
+Table 3-1: Overview of key issues and risk identified for the PSC 
+Assessment Key issues Key risks 
+Assessment of 
+bushfire 
+management 
+strategies 
+• Constraints Identified around 
+Chaffey Dam and Lake Glenbawn 
+requiring about 30 kilometres of the 
+corridor to be relocated. 
+• Corridor changes are required to 
+mitigate potential impacts.  
+Tower pad civil 
+designs  
+• Require a large number of bespoke 
+tower pads which have large 
+impacts on the environment 
+(including excess spoil). 
+• Large quantities of excess 
+material generated from 
+earthworks with limited 
+opportunities for reuse on site. 
+• Excess material not able to be 
+reused on site would need to be 
+transported off site, which would 
+generate large quantities of heavy 
+vehicle movements on local roads, 
+which would interact with local 
+traffic. 
+• Some existing local roads are not 
+suitable for large numbers of 
+heavy vehicle movements. 
+Opportunities to upgrade are 
+limited/not feasible due to 
+topographic constraints. 
+===== PDF PAGE 36 =====
+ 
+Bulk Corridor Design Refinement Report | 36 
+Assessment Key issues Key risks 
+Access track 
+arrangements 
+• Limited opportunity for access 
+along the easement (on-easement 
+access track) due to topography. 
+• Significant number of access tracks 
+required to be constructed to 
+individual tower locations (rather 
+than staying in corridor). 
+• Significant earthworks and clearing 
+required to develop access tracks 
+due to topography. 
+• Maximum grade of an access track 
+for road-going plant is around 18 
+per cent, which can be increased 
+over short distances by exception. 
+• Many access tracks would be steep: 
+• about 61 kilometres of tracks with 
+greater than 14 per cent grade and 
+up to 18 per cent grade 
+• about 33 kilometres of tracks with 
+greater than 18 per cent grade and 
+up to 21 per cent grade 
+• about 76 kilometres of tracks with 
+more than 21 per cent grade.  
+• Require the use of specialised 
+equipment to build the transmission 
+towers. 
+• Significant regrading earthworks 
+required for access tracks, much 
+of which is proposed in geology 
+with shallow granite. 
+• Significant cost and programme 
+impacts. 
+• Safety risks and increased 
+weather risks associated with 
+steep gradients of access tracks.  
+• Many access tracks at or beyond 
+theoretical operating limits for 
+heavy plant. 
+Review of co-
+location with 
+existing 
+transmission lines 
+• About 64 kilometres of PSC co-
+located with existing transmission 
+lines in steep terrain, with a further 
+16 kilometres on flatter terrain 
+north of Bendemeer. 
+• Safety risks associated with 
+construction near a live 
+transmission line.  
+• Impacts to programme and cost.  
+Constructability 
+methodology 
+• Safe access for heavy plant not 
+viable for significant number of 
+towers. 
+• More than 570 towers are serviced 
+by access tracks exceeding 18 per 
+cent grade. These would require 
+non-conventional construction, 
+which would include helicopters.  
+• Significant reliance on non-
+conventional construction 
+methods including helicopters.  
+• Significant cost increase per 
+tower.  
+• Heavy lift aircraft availability. 
+• Greater exposure to weather risks 
+(such as fog and wind). 
+• Proximity to existing high voltage 
+lines.  
+===== PDF PAGE 37 =====
+ 
+Bulk Corridor Design Refinement Report | 37 
+Assessment Key issues Key risks 
+Earthworks 
+quantification 
+• Pads are required at tower 
+construction locations for the tower 
+foundation, tower assembly, crane 
+setup and operation. 
+• Significant earthwork volumes for 
+tower and access track 
+construction due to steep 
+topography. 
+• About 2.5 million cubic metres of 
+surplus earthworks from tower 
+pad construction requiring offsite 
+disposal.  
+• Significant cost and programme 
+item. 
+• Limited opportunity to use excess 
+material on-site due to 
+topography. 
+• About 320,000 spoil truck 
+movements alone for the tower 
+pad construction on substandard 
+local roads with steep access 
+tracks. 
+Review of road 
+impacts 
+• Limited public road access, which 
+generally runs east-west of the 
+New England Highway. 
+• Unsealed, narrow, and winding 
+roads, which include existing 
+geometric and safety non-
+conformances. 
+• Local traffic generally uses the 
+roads as primary access routes. 
+• Impacts to construction 
+productivity. 
+• Limited public road crossings 
+require the use of a large number 
+of local roads. 
+• Safety risks associated with 
+significant number of heavy 
+vehicle movements on sub-
+standard (condition and geometry) 
+roads. 
+• Many roads located near 
+dwellings. 
+===== PDF PAGE 38 =====
+ 
+Bulk Corridor Design Refinement Report | 38 
+ 
+Figure 3-1: Key constraints for the PSC 
+  
+
+===== PDF PAGE 39 =====
+ 
+Bulk Corridor Design Refinement Report | 39 
+4 Potential solutions 
+This section outlines potential solutions EnergyCo considered to address challenges identified 
+through earlier assessments, studies and stakeholder engagement. 
+The first option included identifying local design refinements to the existing PSC (referred to as 
+the Refined PSC). While these measures addressed some constraints, their cumulative effect 
+across long sections of the corridor was limited.  
+Given the material limitations of the Refined PSC, it was prudent to identify a new study 
+corridor that could better balance constructability, environmental, and community 
+considerations.  
+A strategic reassessment of the bulk corridor was prepared for each of these options. This 
+would determine whether a new study corridor may provide greater overall benefits on balance. 
+4.1 Option one: Localised design refinements to the 
+existing corridor 
+Investigations initially considered the potential for localised solutions to address access, 
+construction and environmental constraints including: 
+• changing the corridor to improve bushfire management 
+• adjusting tower locations locally (typically in the vicinity of the existing corridor) 
+• modifying span arrangements or tower foundation types 
+• employing specialised construction techniques, including heavy-lift helicopter tower 
+delivery. 
+4.1.1 Localised refinement: Improving bushfire management 
+Over the past several months we’ve been carrying out assessments and engaged with key industry 
+stakeholders including the NSW Rural Fire Services (RFS) and two of their key contractors to 
+understand how bushfires are managed in the region specifically, the importance of Chaffey Dam 
+and Lake Glenbawn as water sources for aerial firefighting. 
+Relocation of the existing PSC around Chaffey Dam and Lake Glenbawn had been previously 
+publicly committed; however, the assessment further informed the extent of the required change 
+(about 30 kilometres) and transmission line exclusion areas were developed following consultation 
+with industry stakeholders. Local design refinements to improve bushfire management are outlined 
+below. 
+===== PDF PAGE 40 =====
+ 
+Bulk Corridor Design Refinement Report | 40 
+Chaffey Dam 
+Two localised design refinements were identified to improve bushfire management at Chaffey Dam 
+including moving the corridor to the south-east of the dam, or, north-west of the dam (preferred 
+option). It is important to note, that although bushfire management could be improved by avoiding 
+the exclusion zone(s), it introduced constraints in new areas such as difficult access due to steep 
+terrain and additional impacts to landowners. 
+• Moving the corridor to the south-east of Chaffey Dam – initial investigations of this option 
+found that it may not feasible due to the siting of tower pads and constructability issues in 
+areas of steep terrain. This option would also result in potential direct impacts to 
+dwellings along Nundle Road and River Road. 
+• Moving the corridor to the north-west of Chaffey Dam – although this was the preferred 
+local solution, this option would move the corridor closer to the township of Woolomin. 
+The Refined PSC includes the north-west corridor around Chaffey Dam which improves bushfire 
+management but still presents material risks in other areas such as impacts to towns and safety to 
+workers. 
+Lake Glenbawn 
+Two localised design refinements were identified to improve bushfire management at Lake 
+Glenbawn including moving the corridor to the west or east (preferred) of the lake. As with the 
+refinement for Chaffey Dam, both options only presented a partial solution by avoiding the exclusion 
+zone however, impacts increased to towns, dwellings, and construction constraints including safety, 
+access, and overall risk. 
+• Moving the corridor to the west of Lake Glenbawn – this option would co-locate with the 
+existing Transgrid line, traverse extreme mountain ranges to the north, and result in 
+potential impacts to a greater number of dwellings (such as at Segenhoe). 
+• Moving the corridor to the east of Lake Glenbawn – although this was the preferred local 
+solution, this would require the corridor to reconnect with the existing PSC near the 
+township of Gundy, and traverse steep terrain to the north. 
+The Refined PSC includes the eastern corridor around Lake Glenbawn, however constraints were 
+highlighted including impacts to townships, and safety concerns in the north. 
+4.1.2 Localised refinement: Adjusting tower locations, span arrangements 
+and/or tower foundation types 
+From the outset of corridor development, it was recognised that steep terrain would present 
+challenges. However, initial planning and strategic design work indicated these could be 
+managed and were incorporated into the project timeline. 
+During the development of the Reference Design, a number of technical and environmental studies 
+were carried out, as outlined above. These studies identified several issues, particularly relating to 
+the construction of transmission lines through steep terrain between Bayswater Power Station near 
+Muswellbrook and the Central South Energy Hub. Very steep terrain in general terms refers to areas 
+that would require new access tracks to access the tower sites with grades exceeding 18 per cent. 
+===== PDF PAGE 41 =====
+ 
+Bulk Corridor Design Refinement Report | 41 
+Two areas were specifically identified as requiring refinements: Bendemeer to Ogunbil, and 
+Wallabadah to Gundy. The refinements included adjusting tower locations, modifying span 
+arrangements, and varying tower foundation types. 
+• Adjusting tower locations generally involved siting towers within or in close proximity to the 
+PSC, on areas of more favourable terrain, with the aim of reducing the grades of the access 
+tracks servicing towers. 
+• Modifying span arrangements involved introducing very long spans between towers with the 
+aim of eliminating intermediate towers with poor access.  
+• Varying tower foundations involved refining the pad designs required for construction of 
+each tower, from large, flat pads, to smaller, stepped pads where tower legs would be 
+founded at differing levels relative to each other.  
+Although these refinements provided some resolution, they only partially addressed the constraints 
+and raised other constraints such as safety, program delays, environmental and community impacts 
+and cost. For example:  
+• There were instances where adjusting tower locations to site them on more favourable 
+terrain, either within or just outside the PSC, would conflict with existing land use 
+constraints, including proximity to dwellings or other improvements on the landholding. 
+• Even though the introduction of very long spans would eliminate the overall number of 
+towers required, it would generally involve relocating towers to peaks, which would be 
+inherently difficult to access.  
+• Introduction of very long spans would require wider easements, which would result in more 
+impacts to landowners. 
+• Varying tower foundation types was successful in reducing the overall quantity of 
+earthworks required at each tower, though because this generally involved adoption of 
+smaller, stepped pads, it would introduce additional risks and constraints in construction. 
+Further investigation identified that shifting the corridor eastward into flatter terrain may offer 
+additional benefits. 
+4.1.3 Localised refinement: Modifying methodologies and equipment to 
+improve safety and decrease environmental impacts 
+As the project design progressed, opportunities were identified to refine construction 
+methodologies and equipment selection to reduce potential impacts and improve safety outcomes 
+that were driven by the cumulative impact of earlier investigations, specifically constructing in steep 
+terrain. This included consideration of alternative approaches for tower installation, such as using a 
+combination of cranes and heavy-lift helicopters in difficult terrain. While this approach could 
+reduce the need for extensive access tracks and limit ground disturbance, it also carries 
+consequences that must be carefully weighed. 
+For example, the use of helicopters would generate significant noise, which could affect nearby 
+residents, workers, and livestock. In some circumstances, livestock may need to be temporarily 
+relocated to minimise disturbance and stress. Helicopter-based construction may also result in 
+===== PDF PAGE 42 =====
+ 
+Bulk Corridor Design Refinement Report | 42 
+longer overall construction durations, as it requires highly specialised equipment, strict safety 
+protocols, and favourable weather conditions to operate effectively. 
+Balancing these trade-offs forms a critical part of assessing the feasibility of such refinements. The 
+project must ensure that any shift in methodology achieves a net improvement to environmental 
+outcomes and worker safety without introducing disproportionate impacts to communities or 
+construction timeframes. 
+4.1.4 Key findings  
+While the Refined PSC reduced some constraints in specific locations, their benefits were only 
+partial and often introduced new issues elsewhere. For example, realignments around Chaffey Dam 
+and Lake Glenbawn avoided impacts to aerial firefighting operations but created new challenges 
+with steep terrain, difficult access, and further landowner impacts. Realignment around Chaffey 
+Dam and Lake Glenbawn also increased the overall transmission line length for the project. 
+Similarly, shifts to flatter terrain in other sections improved constructability in isolation but other 
+areas of the corridor still required complex tower pad construction, extensive access tracks and 
+non-conventional construction methods. 
+The Refined PSC was assessed in detail and found to have material impacts not only on community 
+and environmental considerations, but also on project risk, cost, and energisation dates. These 
+interdependent challenges highlighted the need to test alternative corridor options and carry out a 
+strategic reassessment of the bulk corridor. This would determine whether an alternative corridor 
+may provide greater overall benefits on balance (refer to Section 4.2). 
+4.2 Option two: Identifying a new study corridor 
+In addition to considering refinements within the existing corridor as outlined above, EnergyCo 
+carried out a detailed review to identify an alternative corridor that could better balance 
+constructability, environmental and community considerations. 
+The following subsections outline the approach taken to identify a new study corridor and develop a 
+potential new study corridor between Bayswater Power Station near Muswellbrook and the Central 
+South Energy Hub. They describe how prior investigations were built upon, how areas of high 
+sensitivity and conflict were avoided, the definition of the study corridor itself, the benefits 
+identified and the key findings that informed the project’s next steps. 
+4.2.1 Considerations in identifying a new location 
+Building on prior route selection and applying technical assessments 
+Extensive route selection work had already been carried out before this stage, providing a strong 
+foundation for further investigation. The eastern study area was identified as the most suitable 
+option for closer consideration as: 
+• The earlier planning process (2022-23) had identified the Mid-Western route as the 
+second preferred route 
+===== PDF PAGE 43 =====
+ 
+Bulk Corridor Design Refinement Report | 43 
+• Updated technical investigations and designing localised refinements suggested area to 
+the east was flatter terrain and better access to local roads, which may have cumulative 
+benefits i.e. less construction impacts and therefore less impacts on the community and 
+environment 
+• The Aberbaldie-Niangala Traveling Stock Reserve (TSR) route which is to the east of the 
+existing corridor noted areas of more favourable topography and access. 
+It is important to note, the level of design work in key areas (e.g. roads, tracks, pads, earthworks) are 
+more advanced than at the time of previous route selection evaluations, which helped to increase 
+the confidence in potentially moving the corridor eastward. 
+Transmission guidelines 
+The project sought to ensure that all reasonable alternatives were explored. Drawing on the 
+foundational principles of the MCA and the Transmission Guidelines, the assessment considered 
+whether shifting further west would be appropriate. The guidelines provide direction on many 
+subjects particularly by reducing visual amenity impacts, avoiding direct interaction with town 
+centres, and limiting effects on sensitive land uses. 
+In applying these principles, the project examined options to the west of the existing corridor. These 
+were not progressed, as they would materially lengthen the transmission line and, in doing so, 
+significantly increase impacts on major regional hubs such as Tamworth and Scone. 
+4.2.2 Identifying an eastern corridor  
+Following the Reference Design investigations, EnergyCo carried out a detailed review to identify an 
+alternative corridor (to the east of the existing corridor) that could better address constructability, 
+environmental, and community impacts. 
+We revisited our shortlisted corridors from our early planning process. This included the Mid-
+Western corridor to the east which was the second preferred corridor option outlined in the scoping 
+report (July 2024). At that time, the Mid-Western corridor was not progressed due to accessibility 
+challenges, higher environmental and heritage impacts, limited co-location opportunities, and 
+increased program and cost risks. 
+In 2024, the TSR route (which is located nearby to the Mid-Western corridor) was assessed 
+following a community request to maximise the use of public land by using the TSR, but was found 
+to have significant biodiversity, landholder, and land tenure constraints. 
+With the detailed technical, environmental, and design data now available from the Reference 
+Design investigations, these earlier eastern options were reassessed: 
+• The Mid-Western corridor - while partially addressing some constraints, still presented 
+steep terrain, limited access, complex tower pad requirements, and extensive earthworks 
+and was not considered a viable alternative. 
+• The TSR route - remained largely unsuitable due to high conservation value biodiversity, 
+proximity to homes, and other land use constraints. 
+• Going further east past the Mid-Western corridor, for example, the Gloucester route as 
+assessed in earlier planning phase process. This route remained unsuitable in line with 
+earlier assessments due to having the most significant environmental constraints 
+===== PDF PAGE 44 =====
+ 
+Bulk Corridor Design Refinement Report | 44 
+(including impacts to National Parks and high value biodiversity), most impacts to 
+communities and would likely have highest time and cost factors. 
+4.2.3 The new study corridor  
+Based on the above, a new study corridor was identified between the existing corridor and Mid-
+Western corridor. The new study corridor initially follows a similar corridor as the existing corridor 
+from Bayswater Power Station but deviates south of Lake Glenbawn near Rouchel. Crossing 
+Rouchel Brook, the corridor bisects Upper Rouchel and Rochel Brook settlements in a 
+predominantly cleared agricultural landscape set amongst rolling to steeply undulating hills. The 
+corridor then spans around Lake Glenbawn to the east and avoids impacting aerial firefighting 
+activities at Lake Glenbawn. 
+The corridor then diverts north-east, near the Scone Polo Club, maintaining a general north-east 
+alignment and running to the east of Waverly Road and Crawney Road before crossing Isaacs Creek. 
+This section of the corridor is in a predominantly agricultural landscape with rolling hills and 
+vegetated ridgelines. The corridor then heads north-east and follows a section of steep terrain 
+either side of Sergeants Creek Road, the corridor then runs north, passing to the east of Ben Halls 
+Gap National Park, to the west of Tomalla Nature Reserve, and through a section of Nundle State 
+Forest. This section follows steeply vegetated terrain with limited public road crossings. From 
+Nundle State Forest, the landscape transition into an open agricultural land use that is flatter and 
+associated with the plateau. 
+The corridor heads north, crossing the Travelling Stock Reserve at two separate points. To the west 
+of Niangala Road, the corridor then joins the Central South Hub near Walcha Road and then follows 
+the preferred study corridor. 
+A review of the land use across the corridor shows that agricultural grazing is the dominant land 
+use, followed by grazing, and then State Forest land uses. The corridor also traverses mapped areas 
+of equine CIC and BSAL. 
+The new study corridor adopts part of the Mid-Western corridor but follows a more direct route 
+along more accessible and constructable terrain, requiring less construction and earthworks for 
+tower pads and access tracks. 
+In comparison to the existing corridor, the new study corridor: 
+• follows easier and flatter terrain as much as possible  
+• requires less access tracks built on private property 
+• is more accessible to key local roads 
+• avoids major regional hubs and impacts to aerial firefighting operations 
+• maximises the use of public land and avoids National Parks 
+• reduces overall community and environmental impacts. 
+===== PDF PAGE 45 =====
+ 
+Bulk Corridor Design Refinement Report | 45 
+ 
+Figure 4-1: Corridors for comparative assessment 
+4.3 Next steps 
+The two corridors, the Refined PSC and the new study corridor were assessed using an MCA which 
+is outlined in the next chapter. 
+
+===== PDF PAGE 46 =====
+ 
+Bulk Corridor Design Refinement Report | 46 
+C 
+Part C – Comparative 
+corridor assessment  
+  
+===== PDF PAGE 47 =====
+ 
+Bulk Corridor Design Refinement Report | 47 
+5 Chapter C overview 
+Chapter C presents the evidence and analysis that underpin the comparative assessment of two 
+potential transmission corridors, and the outcome of the comparative assessment.  
+As outlined above, the comparative assessment was carried out on two corridors - the Refined PSC, 
+which incorporates localised refinements, and a new study corridor via Waverly and Barry  
+If the new study corridor were to be progressed as the preferred bulk corridor, it would initially be 
+announced publicly as a three-kilometre study area and subsequently refined to a 250-metre 
+corridor through detailed on-site investigations and engagement with landowners and 
+communities.
+4  
+For the purposes of this comparative assessment, a notional 250-metre corridor was applied for the 
+new study corridor. This technical construct provides a consistent basis for comparison with the 
+Refined PSC and does not indicate a selected corridor. 
+The assessment was undertaken using a Multi-Criteria Analysis (MCA), based on the foundational 
+principles in the NSW Transmission Guideline (Department of Planning, Housing and Infrastructure, 
+2024) and EnergyCo’s planning pillars. This MCA approach is consistent with previous route 
+selection and refinement processes and evaluates corridors against three key principles: efficiency 
+and deliverability, environment and land use, and people and communities
+. 
+Chapter C also draws on Section 6, which outlines constructability, schedule, cost and risk, and 
+procurement considerations, providing the context for the comparative assessment. The 
+comparative MCA analysis is presented in Section 7, and the methodology and outlines the role of 
+the independent review panel, ensuring transparency and robustness. 
+  
+ 
+4 The 250m-wide corridor is used for environmental assessment and construction. The corridor would be eventually narrowed to a final 
+permanent easement of around 140m wide (generally 70m for each 500kV line). 
+===== PDF PAGE 48 =====
+ 
+Bulk Corridor Design Refinement Report | 48 
+6 Supporting evidence 
+This section outlines the key supporting evidence on both corridors, including constructability, 
+schedule, cost and risk, and procurement factors. The purpose of presenting this information is 
+to provide context and transparency around the considerations that informed the subsequent 
+Comparative Assessment. These considerations underpin the evaluation process and ensure 
+that a like for like assessment is carried out. 
+6.1 Constructability considerations 
+Table 6-1 illustrates key constructability metrics for both corridors that was used in the MCA 
+assessment as outlined in Section 7. 
+Table 6-1: Key constructability metrics for the Refined PSC and new study corridor (Jul-25) 
+ Metric Refined PSC New study corridor Guiding notes 
+Extent Total length of 
+transmission 
+corridor 
+346km 305km  
+Elevation  
+Net elevation 
+change  
+945 metres  
+Aggregated 
+elevation change5 
+• Gain: 10,240m 
+• Loss: 9,295m 
+• Total change: 
+19,535m  
+• Gain: 7,496m 
+• Loss: 6,551m 
+• Total change: 
+14,047m 
+Elevation change measures 
+the cumulative rise and fall of 
+the terrain, providing an 
+indication of overall 
+undulation along the corridor. 
+Transmission 
+tower pads 
+Total number of 
+towers 
+1,335 1,318  
+Type A6 tower pads 
+(preferrable) 
+415 589 Type A pads are preferred as 
+they are the simplest and 
+quickest to construct but can 
+ 
+5 Based on publicly available Light Detection and Ranging [LiDAR] information 
+6 Type A pads are 70m x 50m in size 
+===== PDF PAGE 49 =====
+ 
+Bulk Corridor Design Refinement Report | 49 
+ Metric Refined PSC New study corridor Guiding notes 
+Type B7 tower pads 
+(second preference) 
+666 613 only be used where the 
+terrain is flat and 
+unobstructed. 
+Type B and C pads are used 
+in more undulating or steep 
+terrain, with Type C being the 
+least preferred option, they 
+are smaller, on multiple 
+levels, and reserved for areas 
+with very steep slopes 
+Type C8 tower pads 
+(least preferrable) 
+254 116 
+Volume of surplus 
+earthworks 2,587,308 m3 1,011,487 m3 
+Type A and B pads are 
+preferred as they involve 
+minimal earthworks and can 
+often be reused on-site. Type 
+C pads, used in very steep 
+terrain, generate excess spoil 
+with limited options for local 
+reuse or disposal 
+Number of spoil 
+truck movements 320,000 number 126,000 number 
+Access tracks 
+Total length of 
+access tracks 810.9km 669.9km 
+Gradients up to 14% are 
+generally suitable for 
+conventional construction 
+methods. 
+Slopes exceeding 18% 
+typically require non-
+conventional approaches, 
+such as specialised cranes 
+and foundation equipment. In 
+areas of very steep terrain, 
+heavy-lift helicopter 
+construction may be 
+necessary 
+Length of access 
+tracks within the 
+corridor 
+301km 330km 
+Length of access 
+tracks outside of 
+the corridor 
+510km 340km 
+Track grades: 0% to 
+10% 555.5km 444.4km 
+Track grades: >10% 
+to 14% 85.1km 105.4km 
+Track grades: 14% 
+to 18% 61.4km 63.0km 
+Track grades:  >18% 
+to 21% 32.5km 29.2km 
+Track grades: over 
+21% 76.4km 27.9km 
+ 
+7 Type B pads are 50m x 40m in size 
+8 Type C pads split across different levels due to size constraints on steep gradients 
+===== PDF PAGE 50 =====
+Bulk Corridor Design Refinement Report | 50 
+Metric Refined PSC New study corridor Guiding notes 
+Towers serviced by 
+access tracks >18% 574 97 
+Transgrid interface 
+Total length of line 
+co-located with 
+Transgrid and area 
+in steep terrain 
+80km / 64km 4km / 0km 
+Number of new 
+lines crossing over 
+existing Transgrid 
+lines 
+13 9 
+Rail crossings 
+Aerial crossings of 
+existing railway 
+lines 
+8 8 Licence agreements are 
+required with Australian Rail 
+Track Corporation Limited 
+(ARTC) and Country Rail 
+Network (CRN). 
+At grade (road) 
+crossings of 
+existing railway 
+lines 
+6 4 
+6.2 Schedule, c ost and risk considerations 
+A summary of the key considerations for schedule, cost and risk for both corridors is outlined in in 
+Section 6.2.1 to Section 6.2.3.  
+6.2.1 Project milestones 
+Table 6-2 and Table 6-3 outline strategic milestones and key workstream milestone respectively. 
+ 
+  
+
+===== PDF PAGE 51 =====
+ 
+Bulk Corridor Design Refinement Report | 51 
+Table 6-2: Key considerations: strategic project milestones (Jul-25) 
+Metric Considerations Refined PSC New study corridor 
+Time  
+ 
+ 
+ 
+ 
+   
+Cost    
+   
+Risk 
+   
+   
+Table 6-3: Key considerations: key workstream milestones (Jul-25) 
+Stream Milestone Refined PSC New study corridor 
+Procurement 
+   
+   
+   
+Planning 
+approvals 
+ 
+ 
+ 
+ 
+ 
+ 
+Delivery    
+Energisation 
+(P50) 
+   
+   
+6.2.2 Cost 
+  
+  
+  
+ 
+
+===== PDF PAGE 52 =====
+Bulk Corridor Design Refinement Report | 52
+ 
+  
+  
+ 
+6.2.3 Risk
+  
+  
+  
+  
+  
+  
+  
+  
+
+===== PDF PAGE 53 =====
+ 
+Bulk Corridor Design Refinement Report | 53 
+Table 6-4: Key considerations: risk (Jul-25) 
+Risk category Residual Risk 9 
+(Deterministic Cost & Time in addition to current allowance) 
+Refined PSC New study corridor 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+  
+ 
+ 
+ 
+  
+ 
+ 
+ 
+  
+ 
+ 
+ 
+   
+ 
+  
+ 
+ 
+ 
+  
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+9  
+
+===== PDF PAGE 54 =====
+ 
+Bulk Corridor Design Refinement Report | 54 
+Risk category Residual Risk 9 
+(Deterministic Cost & Time in addition to current allowance) 
+Refined PSC New study corridor 
+ 
+  
+   
+  
+ 
+  
+6.3 Procurement considerations 
+  
+ 
+ 
+  
+  
+  
+ 
+  
+ 
+  
+  
+ 
+  
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+  
+ 
+
+===== PDF PAGE 55 =====
+ 
+Bulk Corridor Design Refinement Report | 55 
+  
+  
+ 
+  
+
+===== PDF PAGE 56 =====
+ 
+Bulk Corridor Design Refinement Report | 56 
+7 Comparative assessment  
+This section outlines the Multi-Criteria Analysis (MCA) assessment that was carried out to 
+determine the bulk corridor that will be progressed to Reference Design. 
+The MCA provided a transparent and balanced comparison of the Refined PSC and the new 
+study corridor and provides a structured assessment across a wide range of technical and non-
+technical considerations. 
+The assessment demonstrated that the new study corridor performed more strongly than the 
+Refined PSC, offering better outcomes against the weighted criteria. Detailed MCA results are 
+provided in Appendix A. 
+For completeness, an independent review panel was established to provide assurance that the 
+assumptions, methodology and findings are robust. 
+7.1 Objectives 
+The objectives of the comparative assessment were to: 
+• test the relative performance of the Refined PSC and the new study corridor by applying a 
+MCA 
+• consider the findings of a constructability independent peer review, including proposed 
+recommendations 
+• recommend a bulk corridor that will be progressed to Reference Design, inform the 
+project’s EIS and be provided to bidders for the network operator procurement process.   
+7.2 Methodology 
+The comparative assessment was carried out using a structured MCA. For consistency, the MCA 
+framework was adopted from the project’s options evaluation process. The framework applies 
+weighted criteria that are aligned to EnergyCo’s Planning Pillars, ensuring a transparent and robust 
+evaluation process. The MCA is structured around the three foundational principles from the 
+Transmission Guideline (Department of Planning, Housing and Infrastructure, 2024), including: 
+• Efficiency and deliverability – ensuring the project is efficient from an economic, technical 
+and power-systems perspective. 
+• Environment and land use – maximising the use of public lands and avoid and/or minimise 
+environmental impacts. 
+===== PDF PAGE 57 =====
+ 
+Bulk Corridor Design Refinement Report | 57 
+• People and communities – minimising impacts to landowners and community through 
+construction and leave lasting benefits. 
+A total of 12 criteria underpin the foundational principles, one of which is new, Criteria 1.5 (Impact on 
+procurement process & contestability). This was added given the project is currently in a live 
+procurement process, and maintaining contestability is critical to ensuring value for money 
+outcomes and regulatory acceptability to the Australian Energy Regulator (AER). 
+Each criterion was informed by the latest available data, including updated technical inputs e.g. 
+earthworks modelling, access track design, constructability reviews), environmental constraints 
+identified through investigations carried out for the EIS and feedback from the Network Operator 
+EOI process, and the findings of an independent expert review panel. 
+Scoring was carried out through a collaborative workshop involving project specialists across 
+engineering, environment and planning, property, stakeholder engagement and commercial 
+disciplines. Oversight was provided by EnergyCo project leadership, supported by the independent 
+peer review panel to ensure objectivity and rigour. Scores were assigned from a scale of 1 (much 
+worse than best performing) to 4 (same as best forming); with 0 being assigned where there is no 
+material difference or not applicable. See the next section for scoring. 
+Table 7-1: Applied Multi-Criteria Analysis  
+Foundational principle Criteria Rating Relevant Planning Pillar 
+Principle one:  
+Efficiency and 
+Deliverability 
+1.1. Co-locate 
+infrastructure Moderate Strategic 
+1.2 Mining and industrial 
+lands Moderate Economic 
+1.3 Constructability (inc. 
+access, safety and 
+programme) 
+Critical 
+Economic, Strategic & 
+Technical 
+1.4 Cost and 
+financeability Critical Economic 
+1.5 Impact on 
+procurement process & 
+contestability (new) 
+High Economic & Strategic 
+Principle two: 
+Environment and land 
+use 
+2.1 Biodiversity and 
+heritage High Environment 
+2.2 Land uses Moderate Environment 
+2.3 Network resilience High Technical 
+Principle three:  
+3.1 Visual amenity Moderate People 
+3.2 Public land Moderate Environment 
+===== PDF PAGE 58 =====
+ 
+Bulk Corridor Design Refinement Report | 58 
+Foundational principle Criteria Rating Relevant Planning Pillar 
+People and 
+Communities 
+3.3 Community impacts Critical People 
+3.4 Landowner impacts Moderate People & Strategic 
+Table 7-2: Applied scoring guide for MCA 
+Score Assessment 
+4 Same as best performing 
+3 Slightly worse than best performing 
+2 Noticeably worse than best performing 
+1 Much worse than best performing 
+0 No material difference or not applicable 
+7.3 Assessment findings 
+This section presents the outcomes of the MCA assessment, outlining both a high-level summary of 
+results and the key differentiators by foundational principle. The analysis highlights the relative 
+performance of the Refined PSC and the New study corridor against the weighted. 
+The full MCA documenting the relative scores across all weighted criteria is included in Appendix A. 
+7.3.1 Assessment summary 
+A summary of the MCA results for each of the foundational principles is provided in Table 7-3. 
+Table 7-3: Summary of MCA results for each foundational principle 
+Foundational 
+principles 
+Refined PSC New study corridor 
+Principle one: 
+Efficiency 
+and 
+deliverability 
+• Traverses more mountainous and 
+undulating terrain, which makes 
+construction more complex and 
+increases safety risks. 
+• Longer corridor length by about 50 
+kilometres. 
+• Significant non-conventional methods 
+required for tower construction – 
+substantial community and 
+environmental impacts. 
+• Has some challenging areas of 
+steep terrain – doesn’t eliminate 
+challenges but greatly reduces the 
+highest risk areas. 
+• Provides more scope for design 
+optimisation, flexibility and ability 
+to recover from future issues that 
+may cause a delay. 
+• Substantially less earthworks 
+required for tower pads, reducing 
+quantity of material to be removed 
+===== PDF PAGE 59 =====
+ 
+Bulk Corridor Design Refinement Report | 59 
+7.3.2 Key differentiators by foundational principle 
+Table 7-4 to Table 7-7 presents the key differentiators for each foundational principle. Where no 
+material difference was observed for a criterion, a summary is not provided. For a full breakdown of 
+scores across all criteria, refer to Appendix A.  
+Foundational 
+principles 
+Refined PSC New study corridor 
+• Significantly more earthworks and 
+spoil movements. 
+• Extensive access tracks required – 
+further adding to community and 
+environmental impacts. 
+• Co-location with Transgrid in steep 
+terrain increases safety and 
+constructability issues. 
+from site – less spoil truck 
+movements on local roads. 
+• Less access tracks required, 
+minimising impacts to landowners, 
+environment and road users.  
+• No co-location in steep terrain with 
+Transgrid and limited in flat terrain 
+around Kentucky. 
+Principle two: 
+Environment 
+and land use 
+• Traverses three recorded Koala 
+clusters (including one mapped 
+ARKS). 
+• Traverses land set aside for a 
+WaterNSW biodiversity offset. 
+• Contains larger area of land mapped 
+as highest classification of bushfire 
+prone land. 
+• Greater extent of woodland/forest 
+vegetation in corridor. 
+• Lessor extent of Equine CIC. 
+• Traverses two recorded Koala 
+clusters (including two mapped 
+ARKS). 
+• Traverses near Timor Caves which 
+contains a large population of 
+Eastern Bent-winged bat. 
+• Contains smaller area of land 
+mapped as highest classification 
+bushfire prone land. 
+• Lower number of AHIMS sites, but 
+additional local heritage items. 
+• Lessor extent of BSAL. 
+Principle 
+three: 
+People and 
+communities 
+• Greater community impacts due to 
+more complex construction in 
+mountainous and less accessible 
+terrain generating impacts such as: 
+• more spoil truck movements on roads  
+• noise impacts from heavy lift 
+helicopters 
+• excess vehicles near properties 
+• longer construction period due to 
+complex construction required 
+• higher number of landowners. 
+• Reduced community impacts due 
+to standard construction. 
+• Likely to be a shorter construction 
+period. 
+• Lower number of landowners, 
+which will continue to reduce as 
+the corridor is narrowed. 
+• Maximises use of public land. 
+===== PDF PAGE 60 =====
+ 
+Bulk Corridor Design Refinement Report | 60 
+Principle one: Efficiency and deliverability 
+Key differentiators between the Refined PSC and the New study corridor are discussed in Table 7-4. 
+Table 7-4: Key differentiators for efficiency and deliverability 
+Principle one: Efficiency and deliverability 
+1.1 Co-location in steep terrain 1.3 Constructability (inc. access, safety and programme ) 
+Moderate Critical 
+Refined PSC = 1 New study corridor = 4 Refined PSC = 1 New study corridor = 4 
+Although co-location is a guiding principle, further investigations show that it introduces 
+significant risks when building in steep terrain. The Refined PSC includes about 64 
+kilometres alongside the existing Transgrid 330 kV line in predominantly steep terrain, 
+with a further 16 kilometres in flatter terrain, between Bendemeer and Uralla. The access 
+tracks on the steep terrain cross Transgrid’s easement, creating reliance on Transgrid’s 
+easement conditions and approval processes for access to their easement under certain 
+conditions. These dependencies can cause delays, limit construction flexibility, and may 
+necessitate changes to standard methodologies. 
+The long spans on the existing Transgrid line also increase the easement width for the 
+Transgrid line (compared to the standard 60 metre easement), necessitating the new 500 
+kV lines to shift further west into steeper terrain, exacerbating construction complexity 
+from the associated side slope locations. 
+There would be operational interfaces with Transgrid’s 330 kV line that would need to be 
+managed if either blasting was required for the tower pads or heavy lift helicopter 
+construction for the towers. Construction near live high-voltage assets further heighten 
+interface and operational challenges. 
+In contrast, the new study corridor is co-located for about four kilometres where the 
+terrain is flatter between Bendemeer and Uralla. The new study corridor avoids co-locating 
+on steep terrain. It offers comparatively flatter terrain, fewer dependencies, and simpler 
+construction— resulting in a safer, more flexible, and lower-risk delivery option.  
+The difference in topography between the corridors has significant implications for 
+constructability, safety, and on-going maintenance. The new study corridor is generally 
+located where there is a more gradual change in elevation and with closer proximity to 
+local roads. It requires about 1.58 million cubic metres less spoil disposal off-site, avoiding 
+about 194,000 spoil truck movements by comparison.  
+This translates to reduced construction and environmental impacts and improved safety 
+for both workers and road users. The less constrained topography also provides greater 
+flexibility for the successful network operator to optimise the final design. While access 
+track layouts are still being finalised, the overall access scope is expected to be reduced. 
+Ultimately, these benefits lead to a quicker energisation date (by about 18 months). 
+The Refined PSC traverses steeper and more rugged terrain, with limited public road 
+access, substantially increasing the access track scope, and the reliance on non-
+conventional construction methods such as helicopters and operating plant in steep and 
+narrow terrain. These conditions elevate safety risks, increase construction complexity and 
+reduce flexibility in design and access. Steep terrain also compounds weather-related 
+risks during both construction complexity and operations.  
+ 
+===== PDF PAGE 61 =====
+ 
+Bulk Corridor Design Refinement Report | 61 
+Table 7-5: Key differentiators for efficiency and deliverability (continued)  
+Efficiency and deliverability (continued) 
+1. 4 Cost and financing 1.5 Impact on procurement process & contestability  
+Critical High 
+Refined PSC = 1 New study corridor = 4 Refined PSC = 1 New study corridor = 4 
+  
+  
+  
+ 
+  
+  
+  
+  
+  
+  
+  
+ 
+  
+ 
+ 
+ 
+  
+  
+  
+  
+ 
+  
+ 
+ 
+  
+ 
+ 
+ 
+  
+
+===== PDF PAGE 62 =====
+ 
+Bulk Corridor Design Refinement Report | 62 
+Principle two: Environment and land use 
+Key differentiators between the Refined PSC and the new study corridor for environment and land use are discussed in Table 7-6. 
+Table 7-6: Key differentiators for environment and land use 
+Environment and land use 
+2.1 Biodiversity & Heritage 2.3 Network resilience 
+High High 
+Refined PSC = 3 New study corridor = 4 Refined PSC = 2 New study corridor = 4 
+The Refined PSC intersects extensive areas of high biodiversity value, including around 100 
+hectares of land set aside by WaterNSW for a biodiversity offset. About 4,099 hectares of 
+koala habitat (three known clusters and one mapped Area of Regional Koala Significance), 
+about 6,898 hectares of Box Gum Woodland, and habitat for threatened species such as the 
+Greater Glider, Spotted-tailed Quoll, and Squirrel Glider, Austral toadflax and Bluegrass. The 
+Refined PSC includes 16 Aboriginal Heritage Information Management System (AHIMS) sites, 
+two local heritage-listed items and one unlisted item.  
+A review of the State Type Vegetation Mapping for both alignments found the Refined PSC 
+contains over 500 hectares more forest/woodland compared to the new study corridor.  
+While field surveys are yet to be completed, the new study corridor is currently assessed to 
+traverse about 3,601 hectares of koala habitat (including two known clusters and two ARKS 
+areas). It passes over a portion of Timor Caves, a karst environment supporting a significant 
+population of Eastern Bent-winged Bats, listed as vulnerable. The new study corridor includes 
+13 AHIMS sites and four local heritage-listed items (three local, one unlisted state), but avoids 
+World, National, and State heritage listings— consistent to Refined PSC. The lack of survey 
+data means these impacts remain indicative and require future validation. 
+Whilst agriculture remains the main land uses for both corridors, Refined PSC traverses about 
+70 kilometres of the equine CIC whilst the new study corridor traverses about 60 kilometres. 
+In terms of BSAL, the Refined PSC traverses about 3.5 kilometres whereas the new study 
+corridor traverses about 0.6 kilometres. 
+Bushfire resilience is a key consideration for both corridors given the prevalence of 
+bushfire-prone land across the project area. 
+The Refined PSC traverses about 2,901 hectares of land classified as the highest 
+bushfire risk category. The corridor passes through rugged terrain with dense 
+vegetation in several locations, which may pose challenges for emergency access 
+and asset protection.  
+In contrast, the new study corridor traverses about 1,871 hectares of land mapped as 
+highest-risk bushfire-prone. The flatter terrain, closer proximity to public road 
+networks, and generally more accessible landscape offer improved conditions for 
+bushfire management and emergency response. 
+Both corridors would need to be regularly maintained to minimise the potential fuel 
+load and Asset Protection Zones would be established and maintain around the 
+energy hubs to minimise bushfire risk. 
+Overall, the new study corridor demonstrates greater bushfire resilience due to more 
+favourable topography, easier access, and the absence of known constraints on aerial 
+firefighting operations. 
+===== PDF PAGE 63 =====
+ 
+Bulk Corridor Design Refinement Report | 63 
+Principle three: People and communities 
+Key differentiators between the Refined PSC and the new study corridor for people and communities are discussed in Table 7-7. 
+Table 7-7: Key differentiators for people and community 
+People and communities 
+3.3 Community impacts 3.4 Landowner impacts 
+Critical Moderate 
+ Refined PSC = 1 New study corridor = 4 Refined PCS = 3 New study corridor = 4 
+The Refined PSC is expected to have greater community impacts due to more complex 
+construction in steep, less accessible terrain. With about 320,000 spoil truck movements, 
+there would be significant heavy vehicle traffic on local roads, raising concerns about safety, 
+noise, dust, and disruption to rural communities. With over 500 towers sited on very steep 
+terrain, the use of heavy-lift helicopters would be significantly greater than for the Refined 
+PSC, increasing noise and visual impacts, particularly in otherwise quiet areas. 
+With 194,000 fewer truck movements and less earthworks for the new study corridor, there 
+would be less disruption to traffic and local amenity. The flatter terrain and proximity to 
+existing roads minimise the need for new access tracks, reducing clearing, noise, and the 
+construction footprint. Heavy-lift helicopter use is also expected to be minimal. While the 
+alignment passes near Upper Rouchel, Rouchel Brook, and two polo clubs, impacts are more 
+localised. 
+Although some community groups have raised concerns in the broader region, they have not 
+been engaged on the new study corridor. A targeted engagement approach will be needed to 
+support a potential corridor shift. Overall, the new study corridor offers a lower-risk, lower-
+impact option from a community perspective. 
+Based on a 250-metre corridor (notional corridor for the new study corridor), the 
+overall number of private landowners impacted is 161 and 120; Refined PSC and new 
+study corridor respectively. 
+The new study corridor results in a notably reduced impact on private landowners 
+with 41 fewer properties however while there are less landowners impacted by the 
+new study corridor, most of these landowners would be ‘newly impacted’. 
+If the new study corridor was approved, there would be several key changes including: 
+• 98 private landowners previously in the PSC (1km) would no longer be 
+impacted 
+• 24 private landowners previously in the PSC (1km) would have a ‘changed 
+impact’ i.e. the corridor will slightly change on their property 
+• 105 private landowners would be ‘newly impacted’. 
+These changes would require careful and sensitive engagement to manage potential 
+concerns and ensure transparent communication. 
+Of great significance, the new study corridor intersects with only 10 ALC claims, 
+compared to 17 claims under the Refined PSC — representing a substantial 
+improvement in the project impacts on ALC land.  
+ 
+===== PDF PAGE 64 =====
+ 
+Bulk Corridor Design Refinement Report | 64 
+7.4 Independent review panel 
+In mid-2025, a three-member independent peer review panel with relevant experience in 
+transmission line construction and large civil infrastructure projects was appointed to review the 
+two corridors. The objectives of the independent peer review panel included:  
+• evaluating the proposed constructability methodologies for both corridor options 
+• reviewing assumptions underpinning cost estimates and delivery timeframes 
+• identifying opportunities for refinement or alternative approaches 
+• offering expert input to validate, refine, or challenge MCA conclusions. 
+The review panel visited the site and observed the existing terrain at locations along both corridors 
+that were visible from public access roads. The panel also reviewed data provided by the project 
+team to validate observations from the site, enabling an informed comparison of the two corridors 
+regarding constructability, program and cost. 
+The comparative assessment indicated the new study corridor to be the preferred option. The new 
+study corridor generally allows for better access, both from existing public roads and for the 
+construction of access tracks and is significantly less reliant on non-conventional construction 
+methods for transmission tower construction. These factors result in a reduction of the risks 
+associated with the construction of transmission towers and enable improved program and cost 
+outcomes compared with the Refined PSC. 
+Feedback from the constructability review was considered when conducting the MCA, enhancing 
+the overall confidence and credibility of the assessment outcomes.  
+The findings will be presented to the EnergyCo Board and form part of the approval process. 
+  
+===== PDF PAGE 65 =====
+ 
+Bulk Corridor Design Refinement Report | 65 
+D 
+Part D – 
+Recommendation, 
+authorisation and 
+implementation 
+  
+===== PDF PAGE 66 =====
+ 
+Bulk Corridor Design Refinement Report | 66 
+8 Recommendation 
+The MCA found the new study corridor performed better overall when considered against the 
+foundational principles. 
+It is recommended that the project proceed with the new study corridor for stakeholder 
+engagement, detailed environmental assessment and Reference Design development. If 
+approved, this corridor will underpin the EIS and be provided to bidders in the network operator 
+procurement. 
+The MCA concluded that the new study corridor has: 
+• Improved constructability and technical performance – the new study corridor 
+outperforms the Refined PSC on nearly all technical and constructability criteria. It offers 
+simpler and more efficient construction, reduced construction and safety risks, reduced 
+impacts from excess spoil and improved flexibility for design optimisation and refinement. 
+• Reduced environmental impacts – the new study corridor reduces overall environmental 
+impacts compared to the Refined PSC. The new study corridor contains less 
+woodland/forest vegetation, crosses less Category 1 (high risk) bushfire land, avoids 
+impacts to aerial firefighting operations and crosses less land mapped as biophysical 
+strategic agricultural land (BSAL). It would also require less vegetation clearing for the 
+construction of new access tracks in mountainous terrain.  
+• Reduced community impacts – the new study corridor is more accessible to key local 
+roads decreasing access tracks built on private property, and less vehicles on roads for 
+excess spoil. 
+• Decreased risk – the new study corridor offers a more robust and adaptable delivery 
+program and, while it does carry some transitional risks, these are outweighed by the 
+much higher strategic risks associated with continuing with the Refined PSC. The Refined 
+PSC presents a constrained and rigid design with limited scope for optimisation, tight 
+construction windows, and exposure to complex terrain. These factors reduce the 
+project's ability to absorb delays or respond to unforeseen challenges, significantly 
+increasing the risk to overall delivery. 
+• A stronger delivery profile – the new study corridor provides greater timing certainty and 
+the potential for earlier energisation. It is also considered to be more financeable due to 
+its more efficient and flexible design. 
+  
+===== PDF PAGE 67 =====
+ 
+Bulk Corridor Design Refinement Report | 67 
+9 Assurance, authorisation and 
+implementation 
+This section sets out the governance and approval process that will be followed to formalise 
+the recommended bulk corridor (new study corridor). It outlines the assurance steps taken, the 
+authorisation requirements for Board approval, and the implementation pathway if approved. 
+Extensive internal engagement supported this process, including weekly meetings with the 
+Executive Leadership Team (ELT) and Board briefings, with input from the Independent Review 
+Panel. Formal Board approval is required, supported by a comprehensive package of evidence 
+comprising an overarching Briefing Note and detailed materials such as engagement plans and 
+briefing packs. 
+If approval is granted, the project will move into implementation, following EnergyCo’s standard 
+announcement process including extensive landowner, stakeholder and broader community 
+engagement. 
+9.1 Review and assurance 
+To support decision-making and ensure the robustness of the process, a series of structured 
+reviews and assurance activities were carried out as outlined in Table 9-1. 
+Table 9-1: Review and assurance process 
+RReview title Scope Reviewer 
+Reference Design 
+ddevelopment 
+Technical and environmental 
+investigations to inform the development 
+of the project’s Reference Design (PSC) 
+New England Technical team and 
+contracted SME suppliers engaged 
+to carry out investigations 
+Reference Design 
+constraint identification 
+and quantification 
+Following constraint identification, 
+reassessment was carried out on the PSC 
+to determine potential solutions 
+New England technical team 
+MCA scoring Scoring of the bulk corridor refinement 
+options using the MCA  
+New England Project team  
+===== PDF PAGE 68 =====
+ 
+Bulk Corridor Design Refinement Report | 68 
+Review title Scope Reviewer 
+Independent peer review 
+panel 
+ 
+Refer to Section 7.4. Independent review panel 
+comprising: 
+  
+  
+  
+ELT briefings 
+ 
+To inform the ELT of the latest findings 
+from the reassessment and comparative 
+assessment  
+New England Executive and ELT 
+members 
+Board briefings Briefings and ultimately approval to be 
+sought on recommendation 
+New England Executive and 
+EnergyCo Board 
+9.2 Authorisation 
+In line with the project’s internal change management framework, this change (new study corridor) 
+requires the approval of the EnergyCo Board, and endorsement from the Chief Executive Officer and 
+Chief Project Officer. The approval will include: 
+• Board briefings on key considerations and MCA findings (Jun-25 to Jul-25) 
+• Briefing note seeking formal approval to the bulk corridor to the new study corridor and a 
+comprehensive package including: 
+• how the community, landowners and stakeholders will be engaged (see further details on 
+implementation plan below in Section 9.3) 
+• independent review panel findings 
+• key considerations as presented to the Board. 
+To note, as of the latest revision of this document (Sep-25), the Board approval was granted based 
+on the approval package outlined above. 
+9.3 Implementation 
+If the change is approved, EnergyCo will enact the communication and stakeholder engagement 
+implementation plan, which sets out the overall strategy for announcing the change, engaging with 
+communities and landowners, and deploying the full suite of supporting tools. 
+The plan outlines a staged announcement process, beginning with the initial public release of the 
+three-kilometre study area. This will be followed by a formal community feedback period including 
+community information sessions, leading to the progressive narrowing of the corridor to one 
+
+===== PDF PAGE 69 =====
+ 
+Bulk Corridor Design Refinement Report | 69 
+kilometre in early 2026. A tailored engagement approach will be applied to landowners, ensuring 
+that individual circumstances and concerns are appropriately addressed. 
+To support these activities, a comprehensive package of collateral will be developed. This includes 
+project updates with maps, fact sheets, letters to landowners, ministerial and executive talking 
+points, internal and external FAQs, a media strategy, a social media strategy, and updated website 
+content. In addition, extensive internal resources will be prepared to support staff, including team 
+briefings for stakeholder relationship leads, phone and email scripts, and external slide decks for 
+use in stakeholder briefings. 
+This will provide a clear and structured pathway for communicating the change, ensuring that 
+stakeholders are well informed and have meaningful opportunities to engage throughout the 
+process. 
+Separate to the communication strategy to announce the change, several technical and 
+environmental studies will commence post announcement. This includes but is not limited to 
+technical investigations such as geotechnical and LiDAR, and environmental studies such as 
+ecological and heritage surveys, groundwater and contamination investigations, and visual and 
+social assessments. 
+Figure 4-1 illustrates the new broad study area that would be publicly released for community and 
+stakeholder engagement (generally around three kilometres wide). 
+ 
+===== PDF PAGE 70 =====
+ 
+Bulk Corridor Design Refinement Report | 70 
+ 
+Figure 9-1: New study corridor 
+  
+
+===== PDF PAGE 71 =====
+ 
+Bulk Corridor Design Refinement Report | 71 
+Appendices 
+
+===== PDF PAGE 72 =====
+ 
+Bulk Corridor Design Refinement Report | 72 
+Appendix A: Multi-Criteria Analysis 
+(detailed) 
+Appendix A presents the detailed outcomes of the MCA carried out to compare the Refined PSC 
+corridor and the new study corridor. While the main body of this report summarises the comparative 
+findings, this appendix provides the full set of results across all weighted criteria. 
+The information includes the relative scores assigned under each criterion, showing how the two 
+corridors performed against the foundational principles of the MCA: efficiency and deliverability, 
+environment and land use, and people and communities. These results build on the methodology and 
+key differentiators outlined in Chapter C, providing the technical evidence base that supports the 
+conclusions of the comparative assessment. 
+Scores were assigned from a scale of 1 (much worse than best performing) to 4 (same as best 
+forming); with 0 being assigned where there is no material difference or not applicable. Table A-1 
+provides the scoring framework. 
+Table A-1: Applied scoring framework for MCA 
+Score Assessment 
+4 Same as best performing 
+3 Slightly worse than best performing 
+2 Noticeably worse than best performing 
+1 Much worse than best performing 
+0 No material difference or not applicable 
+===== PDF PAGE 73 =====
+ 
+Bulk Corridor Design Refinement Report | 73 
+Principle one: Efficiency and deliverability 
+Table A-2 presents the comparative scores for both corridors against all criteria under efficiency and deliverability, while Table A-3 and 
+Table A-4 provides the detailed breakdowns for the Refined PSC and the New study corridor, respectively. 
+Table A-2: Criteria and overall score for efficiency and deliverability 
+  Principle one: Efficiency and deliverability  
+Multi-Criteria Analysis 
+Rating Moderate Moderate Critical Critical Critical 
+Criteria 
+1.1 
+Co-locate 
+transmission 
+infrastructure with 
+existing 
+infrastructure 
+where practicable 
+1.2 
+Maximise the 
+use of mining 
+and industrial 
+lands where 
+practicable 
+1.3 
+Follow alignments that are technically viable and constructable and 
+which optimise the long-term efficiency and reliability of the network 
+1.4 
+Deliver cost 
+effective 
+solutions for 
+energy 
+consumers 
+1.5 
+Impact on 
+procurement 
+process & 
+contestability10 
+Measure 
+Opportunity to co-
+locate with 
+existing and 
+proposed energy 
+projects, including 
+transmission11 
+Opportunity to 
+co-locate with 
+mining and 
+industrial lands 
+(a) 
+Overall 
+project/program 
+timeline 
+(including 
+contingency) 
+(b) 
+Risks to 
+timeline 
+(c) 
+Constructability 
+and 
+accessibility 
+concerns for 
+steep slopes  
+ 
+(d) 
+Safety risks are 
+avoided or 
+minimised 12 
+ 
+Overall cost of 
+Program, 
+including lines 
+and hubs (e.g. 
+D&C, O&M, 
+offsets) and 
+financeability 
+Minimises impact 
+to procurement 
+process 
+Pillar(s) 
+Relevant EnergyCo Planning pillar Strategic Economic Economic & Strategic Technical Technical Economic Economic 
+Scores 
+Refined PSC 1 0 1 1 1 2 1 1 
+New study corridor 4 0 4 4 4 4 4 4 
+ 
+10 A new criterion was added to account for procurement given the project has commenced the transaction process  
+11 Investigations found that co-locating with existing transmission lines on steep slopes is problematic due to conducer blow out and using non- convention construction methods adjacent to live electricity   
+12In the Project’s OER, this criterion was Impacts on hub design and flexibility. The refinement does not impact hubs so this criterion has been replaced with ‘Safety’  
+===== PDF PAGE 74 =====
+ 
+Bulk Corridor Design Refinement Report | 74 
+Table A-3: Comparative assessment for efficiency and deliverability 
+ Principle one: Efficiency and deliverability 
+Criteria 1.1 
+Co-located 
+infrastructure 
+1.2  
+Mining & 
+industrial 
+lands 
+1.3 (a) 
+Project 
+Program / 
+Energisation
+13 
+1.3 (b) 
+Risks to 
+timeline14 
+1.3 (c) 
+Constructing in 
+steep slopes 
+1.3 (d) 
+Safety risks 
+1.4 
+Cost and finance 
+ 
+            1.5 
+Procurement risks  
+Refined PSC 
+Score 1 0 1 1 1 2 1 1 
+Details 
+Around 64km of 
+the project 
+corridor is co-
+located with 
+Trangrid’s (TG) 
+lines in steep 
+terrain, with a 
+further 16km on 
+flatter terrain 
+north of 
+Bendemeer. 
+Investigations 
+show that 
+building near a 
+live transmission 
+line in steep 
+terrain raises two 
+risks; blowout of 
+conductor and 
+using non-
+conventional 
+construction 
+methods such as 
+blasting and 
+heavy-lift 
+helicopters. 
+Same for 
+both 
+options 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+Abo
+ut 574 towers 
+would be accessed 
+on tracks with 
+grades exceeding 
+18%. Construction 
+of these towers 
+would require non-
+conventional 
+methods such as 
+heavy-lift 
+helicopters  
+Estimated quantity 
+of spoil disposal 
+from tower pads of 
+2.59 million m3, 
+which equates to 
+around 320,000 
+number of spoil 
+truck movements   
+The project 
+corridor has overall 
+elevation gain of 
+10,240 metres with 
+elevation loss of 
+around 9,295 
+metres. 
+Given the significant number of 
+steep gradients, heavy 
+construction plant and equipment 
+will need to use these tracks, 
+which has a significant safety 
+issue. Transporting machinery 
+and materials on steep slopes 
+that are at or beyond the 
+operating limits for heavy plant 
+~570 towers require non-
+conventional construction – this 
+would require construction with 
+bespoke plant, some of which 
+would include heavy-lift 
+helicopters (there have been 
+several incidents in recent times 
+involving helicopters used on 
+construction projects). 
+Around 64km of 500kV line would 
+be constructed adjacent to live 
+330kV Transgrid line in steep 
+terrain. There is a risk of contact 
+with Transgrid lines during tower 
+construction, and risk of induction 
+during stringing. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+13 Energisation is based on P50 
+14Energisation allowance is based on P50 
+
+===== PDF PAGE 75 =====
+ 
+Bulk Corridor Design Refinement Report | 75 
+Table A-4: Comparative assessment for efficiency and deliverability 
+ Principle one: Efficiency and deliverability 
+Criteria 1.1 
+Co-located 
+infrastructure 
+1.2  
+Mining & 
+industrial lands 
+1.3 (a) 
+Project Program / 
+Energisation15 
+1.3 (b) 
+Risks to 
+timeline16 
+1.3 (c) 
+Constructing in 
+steep slopes 
+1.3 (d) 
+Safety risks 
+1.4 
+Cost and finance 
+ 
+            1.5 
+Procurement 
+risks  
+New study corridor 
+Score 4 0 4 4 4 4 4 4 
+Details 
+Co-located for 
+4km north of 
+Bendemeer 
+Same for both 
+options 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+Preliminary 
+investigations 
+suggest ~97 
+towers would be 
+accessed on tracks 
+with grades more 
+than 18%. 
+Construction of 
+these towers would 
+require non-
+conventional 
+methods such as 
+helicopters.  
+ 
+Estimated quantity 
+of spoil disposal 
+from tower pads of 
+1.01 million m
+3, 
+which equates to 
+around 126, 000 
+number of spoil 
+ruck movements  
+ 
+This corridor has an 
+overall elevation 
+gain of 7,496 
+metres with 
+elevation loss of 
+6,552 metres. 
+Significantly 
+superior from a 
+safety in design 
+perspective. 
+ 
+Minimises plant 
+incidents associated 
+with use of heavy 
+plant on steep 
+access roads. 
+ 
+Significantly less 
+non-conventional 
+construction 
+including helicopter 
+usage. 
+ 
+Tower construction 
+adjacent to live 
+330kV lines is 
+significantly 
+reduced, with the 
+requirement to 
+string adjacent to 
+Transgrid’s live 
+330kV line limited 
+to a 4km length of 
+corridor north of 
+Bendemeer on 
+flatter terrain. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+15 Energisation is based on P50 
+16Energisation allowance is based on P50 
+
+===== PDF PAGE 76 =====
+ 
+Bulk Corridor Design Refinement Report | 76 
+Principle two: Environment and land use 
+Table A-5 presents the comparative scores for both corridors against all criteria under environment and land use, while Table A-6 and 
+Table A-7 provides the detailed breakdowns for the Refined PSC and the new study corridor, respectively.  
+Table A-5: Criteria and overall score for environment and land use 
+ 
+ Principle two: Environment and land use 
+Multi-Criteria Analysis 
+Rating High Moderate High 
+Criteria 
+2.1 
+Minimise impacts on unique or sensitive biodiversity and 
+cultural values and offset unavoidable biodiversity impacts   
+2.2 
+Minimise direct interactions with high 
+value agricultural land where possible and 
+seek to locate infrastructure in 
+consideration of agricultural practices  
+2.3 
+Mitigate hazards and 
+risks and promote 
+network resilience   
+Measure 
+(a) 
+National 
+Parks and 
+other 
+protected 
+areas 
+(including 
+flora 
+reserves)  
+(b) 
+Minimising 
+impact on 
+sensitive 
+biodiversity 
+(ECC 
+intersection)  
+(c) 
+Local, State, 
+and National 
+Heritage 
+items  
+(d) 
+Impacts on use 
+of Aboriginal 
+cultural 
+heritage, 
+including use of 
+Native Title 
+land  
+(a) 
+Land uses (grazing, 
+cropping, and 
+intensive 
+agriculture)  
+(b) 
+Critical land uses 
+Bushfire resilience 
+Pillar(s) 
+Relevant EnergyCo Planning pillar Environment Environment Environment Environment Environment Environment• Technical 
+Score Refined PSC 0 3 0 3 0 0 2 
+New study corridor 0 4 0 4 0 0 4 
+  
+===== PDF PAGE 77 =====
+ 
+Bulk Corridor Design Refinement Report | 77 
+Table A-6: Comparative assessment for environment and land use 
+Principle two: Environment and land use 
+Criteria 2.1 (a) 
+National Parks & 
+Flora 
+2.1 (b) 
+Biodiversity 
+2.1 (c) 
+Heritage items 
+2.1 (d) 
+Aboriginal 
+cultural 
+heritage 
+2.2 (a) 
+Land uses 
+2.2 (b) 
+Critical land uses 
+2.3 
+Network 
+resilience 
+(bushfire) 
+Refined PSC 
+Score 0 3 0 3 0 0 2 
+Details Avoids national 
+parks and flora 
+reserves 
+ 
+Traverses 100ha 
+of land set aside 
+by WaterNSW for 
+a biodiversity 
+offset
+ 
+Traverses three recorded 
+Koala clusters, 1 mapped 
+Area of Regional Koala 
+Significance (ARKS) and ~ 
+4,099ha (360km) or koala 
+habitat 
+ 
+Recorded species included 
+6,898ha of Box Gum 
+woodland, spotted tail 
+quoll, squirrel glider, 
+bluegrass, austral toadflax, 
+Greater glider. 
+ 
+Greater gliders are likely to 
+occur in forests of higher 
+elevation and will be 
+impacted through habitat 
+clearing.  
+ 
+Contains 500ha more 
+woodland/forest vegetation 
+than the new study corridor 
+Avoids World, 
+National & State 
+heritage items 
+and intersects 1 
+local listed and 1 
+unlisted state 
+item
+ 
+Contains 16 
+sites listed on 
+the Aboriginal 
+Heritage 
+Information 
+Management 
+System 
+(AHIMS)
+17 
+Land uses mapped across 
+the corridor include about 
+8,970ha grazing, about 
+365ha cropping, and 
+about 118ha other minimal 
+uses.  
+ 
+Traverses around 
+1,654 ha of land 
+mapped as 
+equine CIC18 and 
+236 ha of 
+mapped BSAL19 
+ 
+No facilities 
+directly impacted 
+and equine and 
+agricultural 
+operations can 
+largely continue  
+ 
+About 2,901 
+hectares is 
+located through 
+the highest 
+classification of 
+bushfire prone 
+land 
+ 
+ 
+17 The group noted that AHIMS sites are not an indication of the extent of Aboriginal cultural occupation in a landscape 
+18Equine Critical Industry Clusters 
+19Biophysical Strategic Agricultural Land 
+===== PDF PAGE 78 =====
+ 
+Bulk Corridor Design Refinement Report | 78 
+Table A-7: Comparative assessment for environment and land use 
+Principle two: Environment and land use 
+Criteria 2.1 (a) 
+National Parks & 
+Flora 
+2.1 (b) 
+Biodiversity 
+2.1 (c) 
+Heritage items 
+2.1 (d) 
+Aboriginal cultural 
+heritage 
+2.2 (a) 
+Land uses 
+2.2 (b) 
+Critical land uses 
+2.3 
+Network resilience 
+(bushfire) 
+New study corridor 
+Score 0 4 0 4 0 0 4 
+Details Avoids national 
+parks and flora 
+reserves 
+ 
+Traverses Timor 
+caves which 
+contains a large 
+population of 
+Eastern Bent-
+winged bat, and 
+Barry Station with 
+anecdotal records 
+of caves
+ 
+Traverses two 
+recorded Koala 
+clusters, two 
+mapped ARKS and 
+~ 3,601ha (305km) 
+or koala habitat 
+ 
+BioNet records of 
+threatened flora 
+and fauna species 
+are generally 
+consistent with the 
+West reassessed 
+corridor. 
+Avoids World, 
+National & State 
+heritage items and 
+intersects 3 local 
+listed and 1 unlisted 
+state item
+ 
+Contains 13 sites 
+listed on the AHIMS 
+Land uses mapped 
+across the corridor 
+include about 
+8,092ha grazing, 
+about 284ha 
+cropping, about 
+258ha forestry, and 
+about 127ha 
+minimal uses  
+ 
+Traverses around 
+1,826 ha of land 
+mapped as equine 
+CIC and about 98 
+ha of mapped 
+BSAL. 
+ 
+No facilities directly 
+impacted and 
+equine and 
+agricultural 
+operations can 
+largely continue 
+Around 1,871 
+hectares is located 
+through the highest 
+classification of 
+bushfire prone land  
+ 
+  
+===== PDF PAGE 79 =====
+ 
+Bulk Corridor Design Refinement Report | 79 
+Principle three: People and communities 
+Table A-8 presents the comparative scores for both corridors against all criteria under people and communities, while Table A-9 and 
+Table A-10 provides the detailed breakdowns for the Refined PSC and the New study corridor, respectively.  
+Table A-8: Criteria and overall score for environment and land use 
+ 
+ Principle three: People and communities 
+Multi-Criteria Analysis 
+Rating Moderate Moderate Critical Moderate 
+Criteria 
+3.1 
+Minimise visual 
+amenity impacts 
+through thoughtful 
+design and 
+application of 
+mitigation 
+measures  
+3.2 
+Maximise the use of 
+suitable public land 
+where practicable 20 
+3.3 
+Minimise direct interactions with town centres, 
+residential areas, and sensitive community 
+locations  
+3.4 
+Follow alignments that 
+optimise infrastructure layout, 
+having regard to landowner 
+preferences and land 
+practices.  
+Measure 
+Total building 
+points within 1km  
+Available public land 
+(e.g. Crown land, State 
+forest, travelling stock 
+reserves)  
+(a) 
+Distance from town 
+centres/settlements 
+(excluding projects in 
+urban areas)  
+(b) 
+Risks associated with 
+local communities and 
+stakeholders’ 
+approval.  
+Minimising the number and 
+nature of properties affected, 
+and the effect of easement 
+acquisition on property use  
+Pillar(s) 
+Relevant EnergyCo Planning pillar People Environment People People People & Strategic 
+Score Refined PSC 0 0 0 1 3 
+New study corridor 0 0 0 4 4 
+ 
+20 The criteria was adjusted to include ‘suitable public land’ as there are unresolved Aboriginal land claims ay attached to Crown Land, and biodiversity/conversation issues related to 
+WaterNSW, Crown Land and State Forests 
+===== PDF PAGE 80 =====
+ 
+Bulk Corridor Design Refinement Report | 80 
+Table A-9: Comparative assessment for people and communities 
+Principle three: People and communities 
+Criteria 3.1  
+Visual amenity21 
+3.2 
+Public lands 
+3.3 (a) 
+Distance from town centres 
+3.3 (b) 
+Community impacts 
+(amenity)22 
+3.4 
+Landowner impacts 
+Refined PSC 
+Score 0 0 0 1 3 
+Details Based on publicly available 
+data (SEED), there are 27 
+dwellings within 500m and 
+72 dwellings within 1km 
+ 
+Refer to criteria 3.4 for the 
+number of landowners  
+Traverses 449ha of public 
+land which comprises of 96 
+ha of Crown Land 
+23and 353 
+ha of WaterNSW24 
+ 
+ 
+ 
+ 
+Substantial extent of heavy-
+lift helicopter use with 
+associated noise impacts 
+ 
+Significant volumes of spoil 
+to be moved on local roads, 
+which normally have low 
+volumes of traffic and are 
+characteristic of the rural 
+environment they’re located 
+in 
+ 
+Over 500km of access 
+tracks are required beyond 
+the corridor, increasing 
+impacts beyond the corridor 
+161 affected landowners 
+within 250m corridor, 
+and 185 landowners within 
+1km 
+ 
+This is not based on 
+sentiment, but rather the 
+number of landowners 
+impacted 
+  
+ 
+21 NSW Government dataset used, and the results have not been ground truthed 
+22 The group agreed to assess this criterion using metrics as perceived impacts are problematic to measure  
+2319 unresolved Aboriginal Land Claims attached to Crown Land 
+24Water NSW Land at Lake Glenbawn contains a biodiversity offset site 
+
+===== PDF PAGE 81 =====
+Bulk Corridor Design Refinement Report | 81 
+Table A-10: Comparative assessment for people and communities 
+Principle three: People and communities 
+Criteria 3.1 
+Visual amenity25 
+3.2 
+Public lands 
+3.3 (a) 
+Distance from town centres 
+3.3 (b) 
+Community impacts 
+(amenity)26 
+3.4 
+Landowner impacts 
+New study corridor 
+Score 0 0 0 4 4 
+Details Based on publicly available 
+data (SEED), there are 25 
+dwelling within 500m and 
+75 dwellings within 1km  
+Refer to criteria 3.4 for the 
+number of landowners.
+ 
+Traverses 475ha of public 
+land which comprises of 
+261ha of State Forest27, 
+10ha of Crown Land28 and 
+204ha of WaterNSW land 
+ 
+ 
+ 
+ 
+ 
+  
+Reduced extent of heavy-
+lift helicopter use and 
+associated noise impacts  
+Red
+uced volumes of spoil to 
+be moved via trucks on local 
+roads, which normally have 
+low volumes of traffic and 
+are characteristic of the 
+rural environment they’re 
+located in 
+340km of access tracks 
+required beyond the 
+corridor, which is 
+substantially less than the 
+West reassessed corridor.  
+120 affected landowners 
+within 250m corridor, and 
+148 landowners affected 
+within 1km 
+This
+ is not based on 
+sentiment, but rather the 
+number of landowners 
+impacted 
+25 NSW Government dataset used, the results have not been ground truthed 
+26 The group agreed to assess this criterion using metrics as perceived impacts are problematic to measure  
+27The State Forest includes land zoned for conservation 
+28 10 unresolved land claims attached to Crown Land 
+
+===== PDF PAGE 82 =====
+Bulk Corridor Design Refinement Report | 82 
+Data sources 
+Data sources 
+The following datasets were applied in this assessment: 
+• Dwellings: The number of dwellings (general cultural point) was sourced from the Spatial
+Collaboration Portal
+https://portal.spatial.nsw.gov.au/server/rest/services/NSW_Features_of_Interest_Category/Fe
+atureServer/2
+• Biophysical strategic agricultural land / Critical industry clusters (equine / viticulture) :
+S
+ourced from NSW SEED at
+https://mapprod3.environment.nsw.gov.au/arcgis/rest/services/EDP/SRLUP/MapServer
+• National Parks and Protected Areas (including Nature Reserves, Regional Parks, State
+Conservation Areas, Aboriginal Areas, Historic Sites and Karst Conservation Reserves):
+Sourced from the Spatial Collaboration Portal
+https://portal.spatial.nsw.gov.au/server/rest/services/NSW_Administrative_Boundaries_Them
+e/FeatureServer
+• Land use (general): Sourced from NSW SEED at
+https://datasets.seed.nsw.gov.au/dataset/nsw-landuse-2017-v1p5-f0ed-clone-a95d
+• State Forests: Sourced from the Spatial Collaboration Portal
+https://portal.spatial.nsw.gov.au/server/rest/services/NSW_Administrative_Boundaries_Them
+e/FeatureServer/3
+• Biodiversity – threatened species records: Data sourced online at BioNet Species Sightings
+data | NSW Environment and Heritage
+• Mapped Areas of Regional Koala Significance (ARKS): Sourced from NSW SEED at NSW
+Koala Prioritisation Project - Areas of Regional Koala Significance (ARKS) | Dataset | SEED
+• State Vegetation Type Map: Sourced from NSW SEED at NSW State Vegetation Type Map |
+Dataset | SEED
+• Crown land:
+https://mapprod3.environment.nsw.gov.au/arcgis/rest/services/ePlanning/Planning_Portal_Cr
+own_Land/MapServer/258
+• Named Waterways: Sourced from the Spatial Collaboration Portal
+https://portal.spatial.nsw.gov.au/server/rest/services/NSW_Water_Theme/FeatureServer/2
+• Aboriginal heritage: Data gathered from searches on the Aboriginal Heritage Information
+Management System (AHIMS) carried out in June 2025
+• Historical heritage: Commonwealth, State and Local heritage item datasets gathered online at
+Dataset | SEED (nsw.gov.au)
+• Bushfire prone land: Sourced from NSW SEED at NSW Bush Fire Prone Land | Dataset | SEED
+===== PDF PAGE 83 =====
+ 
+Bulk Corridor Design Refinement Report | 83 
+• Mine subsidence: Sourced from the Spatial Collaboration Portal 
+https://portal.spatial.nsw.gov.au/server/rest/services/NSW_Administrative_Boundaries_Them
+e/FeatureServer/7 
+Limitations 
+The data used for this assessment is based on publicly available information and provides a high-
+level understanding of the study area only. The data used has not been verified by field 
+investigations apart from site inspection from publicly accessible areas and should only be used for 
+an indicative comparison between the route options. 
+ 
+ 
+ 
+ 

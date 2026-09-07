@@ -1,0 +1,968 @@
+
+===== PDF PAGE 1 =====
+   
+ 
+Attachment 2: Project EnergyConnect and Contract 
+Failure 
+Peop/e. Power. Possibilities. 
+===== PDF PAGE 2 =====
+ 
+1 | Attachment 2: Project EnergyConnect and Contract Failure | An application to reopen the 2023-2028 Revenue Determination   
+ 
+Official
+Contents 
+1. Purpose and key messages .................................................................................................................. 2 
+2. Project background ................................................................................................................................ 3 
+3. Project timeline and entities .................................................................................................................. 6 
+4. Contracting approach and selection of SEJV to deliver PEC ........................................................... 8 
+4.1 EPC contracting approach ..................................................................................................................... 8 
+4.2 Competitive tender process ................................................................................................................... 9 
+4.3 Key terms and conditions ..................................................................................................................... 10 
+5. AER’s assessment of Transgrid’s contracting approach ................................................................ 12 
+6. Early project period under the EPC contract .................................................................................... 13 
+7. Emerging Project Issues: January 2023 – July 2023 ........................................................................ 17 
+8. Emerging evidence of Contract Failure: August 2023 to October 2023 ......................................... 21 
+9. The event – Contract Failure ............................................................................................................... 24 
+10. Appendices ........................................................................................................................................... 25 
+ 
+  
+Transgrid 
+~ 
+===== PDF PAGE 3 =====
+ 
+2 | Attachment 2: Project EnergyConnect and Contract Failure | An application to reopen the 2023-2028 Revenue Determination   
+ 
+Official
+1. Purpose and key messages  
+This Attachment forms part of Transgrid’s application to reopen the 2023 -2028 Revenue Determination in 
+accordance with clause 6A.7.1 of the NER (Application). 
+The purpose of this Attachment is to provide a comprehensive summary of the PEC project timeline from the 
+commencement of the project through to the failure of the Engineering, Procurement and Construction (EPC) 
+contract. In particular, this Attachment provides further information on the selection of Secure Energy Joint 
+Venture (SEJV) to deliver PEC under an EPC contract, the factors that led to the failure of that EPC contract, 
+and the actions taken by Transgrid to enable the continued delivery of PEC in the best interests of consumers.  
+As a result of the actions taken by Transgrid , PEC will be delivered within a timeframe that will secure 
+estimated net market benefits of $964 million (see Attachment 3).   
+Key messages 
+• Transgrid undertook a robust competitive procurement process to select SEJV in June 2021 
+with an EPC contract being the contracting model. The EPC contract contained terms and 
+conditions which were either consistent with, or superior to, market standards a t the time. 
+Transgrid considered that it had secured the lowest risk contracting structure available in the 
+market. 
+• To drive the prudent and efficient delivery of PEC, Transgrid actively managed the EPC contract 
+in accordance with industry best practice. Specifically, the cont ractor was held to account in 
+accordance with its contractual obligations. Given the importance of the project, Transgrid’s 
+Board were actively engaged from project commencement. 
+• Under the EPC contract, Transgrid’s role was to act as  contract manager rather than project 
+manager. As such, Transgrid had no visibility of the contractor’s actual and forecast financial 
+losses for the project. Transgrid only had visibility of project delays and the contractor’s claims 
+for variations in accordance with the terms of the contract, which is entirely standard for EPC 
+contracts. 
+• When project issues began to emerge from January 2023 onwards, Transgrid committed 
+additional resources to monitor progress, and requested additional information from the 
+contractor. The information obtained, on-going project delivery issues and Elecnor Australia’s 
+emerging cashflow problems indicated the need for a closer examination of the project timelines 
+and costs. 
+• Between August and October 2023, further information was provided by Elecnor Australia and 
+its parent company regarding the forecast costs to complete the project and its financial position. 
+This cost information, combined with missed milestones, evidence of late payments to Elecnor 
+Australia’s suppliers and subcontractors, and lower than expected productivity, made clear the 
+need for an alternative arrangement to the EPC contract. We refer to this outcome as Contract 
+Failure. 
+ 
+===== PDF PAGE 4 =====
+ 
+3 | Attachment 2: Project EnergyConnect and Contract Failure | An application to reopen the 2023-2028 Revenue Determination   
+ 
+Official
+2. Project background   
+Project EnergyConnect (PEC) was first proposed in 1999 1. Assessment of the Regulatory Investment Test 
+for Transmission (RIT-T) commenced in June 2019. In January 2020, the Australian Energy Regulator (AER) 
+determined that the preferred option identified in the RIT -T maximises the net economic benefits to the 
+National Electricity Market (NEM) and therefore satisfies the RIT-T. At the time of that assessment, PEC was 
+the largest and most logistically complex  electricity transmission project undertaken in the NEM in many 
+decades. It was, and still is, critical to creating a more sustainable and resilient energy network and supporting 
+Australia’s energy transition.  
+PEC is a critical piece of transmission infrastructure for the NEM that forms an integral part of the Australian 
+Energy Market Operator’s (AEMO) Optimal Development Path ( ODP), both on its own and in combination 
+with other actionable Integrated System Plan (ISP) projects. In 2021, The Clean Energy Finance Corporation 
+announced PEC as its single largest investment, describing PEC as a “vital piece of energy infrastructure” 
+as an interconnector and pathway to unlocking further renewable energy.2 As a consequence, it will reduce 
+wholesale energy costs and put downward pressure on retail prices. 
+In its 2024 ISP, AEMO made it clear that any delay in the delivery of actionable ISP projects, such as PEC, 
+will compromise the most efficient path to maintain reliable and secure electricity supply as coal retires, and 
+as such, all actionable projects should progress “as urgently as possible’’.3 Today, the Federal government 
+continues to recognise the importance of PEC as part of the National Renewable Energy Priority List.4 PEC 
+is also a Critical State Significant Infrastructure (CSSI) project and has been determined as essential to New 
+South Wales by the NSW Minister for Planning. From a N ew South Wales perspective, PEC is delivering 
+substantial economic benefits to regional New South Wales, including 1,500 new jobs and opportunities for 
+a wide range of businesses. 
+PEC involves the construction of a new 330 kV interconnector between Robertstown in mid -north South 
+Australia and Wagga Wagga in New South Wales via Buronga, with a further augmentation between Buronga 
+and Red Cliffs. PEC will connect the energy grids in New South Wales, South Australia, and Victoria and 
+enable the direct sharing of energy between these networks for the first time. From Wagga Wagga, PEC 
+connects into HumeLink, then continues towards Wollongong and Sydney. A portion of PEC (from Dinawan 
+to Wagga Wagga) will be integrated into VNI -West and converted to 500kV operation. In S outh Australia, 
+PEC connects to the Mid North SA Renewable Energy Zone ( REZ) Expansion project and strengthens 
+system security for S outh Australia, featuring in the Commonwealth-South Australia Bilateral Energy and 
+Emissions Reduction Agreement.   
+Transgrid is responsible for the New South Wales portion of PEC, which involves the construction of 700km 
+of transmission line from the N ew South Wales/South Australia border to Wagga Wagga substation in two 
+sections (Western and Eastern), via two new substations at Buronga and Dinawan. Preliminary works on 
+ 
+ 
+1 As ‘RiverLink.’ 
+2 CEFC, Historic CEFC investment to kickstart nation building Project EnergyConnect, 31 May 2021. 
+3 AEMO, 2024 Integrated System Plan, June 2024, p. 16. 
+4 DCCEEW, National Renewable Energy Priority List, March 2025. 
+===== PDF PAGE 5 =====
+ 
+4 | Attachment 2: Project EnergyConnect and Contract Failure | An application to reopen the 2023-2028 Revenue Determination   
+ 
+Official
+PEC commenced in 2018/19 with construction starting in late 2021. ElectraNet’s construction of the 206km 
+long South Australian portion concluded in December 2023.  
+The western component of N ew South Wales PEC (referred to as ‘Separable Portion’ 1 (SP1) comprising 
+Transmission Lines L1, L4 and Substation S1A) was energised on 24 August 2024. The eastern component 
+of New South Wales PEC (referred to as ‘Separable Portion’ 2 (SP2) comprising transmission lines L2 and 
+L5 and substations, S2 and S3 . S1B is also included in this  component) is forecast to achieve practical 
+completion during September 2026  and be ready for internetwork testing during October 2026 . Since  
+Transgrid entered into a new contract with Elecnor Australia as the contractor, being the Incentivised 
+Completion Cost (ICC) contract, site progress has been either on or, in the case of transmission lines L2 and 
+L5, ahead of schedule.   
+Figure 1: PEC project update (December 2025) 
+  
+PEC will bring substantial benefits to consumers, including: 
+• greater sharing of reserves, providing New South Wales with access to renewable generation as coal 
+retires 
+• unlocking renewable generation development and allowing greater market access 
+• alleviating constrained solar generation in New South Wales and improving NEM access to high quality 
+solar generation from South Australia 
+• decreasing price volatility through sharing of resources across regions 
+• reducing electricity prices through greater supply, diversity and competition 
+• supporting the energy transformation to a more intermittent based resource mix 
+
+===== PDF PAGE 6 =====
+ 
+5 | Attachment 2: Project EnergyConnect and Contract Failure | An application to reopen the 2023-2028 Revenue Determination   
+ 
+Official
+• reducing reliance on increasingly costly gas plant s in South Australia for dispatchable capacity and for 
+system stability 
+• allowing greater exports of embedded generation at times of minimum South Australia demand, and 
+• reducing vulnerability to extreme weather events and system disturbances, such as bushfires. 
+Despite the later than expected final commissioning, PEC remains a critical project to the NEM and will deliver 
+substantial benefits to consumers.  
+Transgrid 
+~ 
+===== PDF PAGE 7 =====
+ 
+6 | Attachment 2: Project EnergyConnect and Contract Failure | An application to reopen the 2023-2028 Revenue Determination   
+ 
+Official
+3. Project timeline and entities 
+Figure 2 below illustrates the key phases and milestones in the project timeline that are relevant to Transgrid’s 
+Application. The timeline commences with the process to select SEJV to deliver PEC under an EPC contract 
+and ends with the establishment of the ICC contract with Elecnor Australia in response to the failure of the 
+EPC contract. Further details on the timeline following Contract Failure are provided in Attachment 3, while 
+details of the ICC contract and the unique protections it provides in relat ion to contractor performance is 
+provided in Attachment 4. 
+Figure 2: PEC overview timeline 
+  
+Compet iti ve 
+Tender 
+Process & 
+Selection 
+Assessment 
+of CPA 
+Delivery of 
+PEC 
+• Initial period 
+(Jun 21-Dec 22) 
+• Emerging projec 
+issues from 
+(Jan 23..Jul 23) 
+• Emerging 
+evidence of 
+Contract Failure 
+(Aug 23-0ct 23) 
+Tender commenced for delivery of PEC 
+September 2019 
+Transgrid selects SEJV as preferred tenderer 
+T ransgrid submits Contingent Project 
+Application (CPA) for PEC 
+September 2020 
+Final CPA Determination 
+May 2021 
+Transgrid submits Revised Revenue 
+Detennination 
+Attachment 2 
+(This Document) 
+Clough enters Voluntary Administration 
+December 2022 
+Revenue Determination 
+April 2023 
+Contract Failure 
+October 2023 
+Advance Payment Deed executed 
+Dec2023 
+Alternative Contractor Tender 
+commenced 
+May 2024 
+December 2024 
+ICC Contract Executed 
+Attachment 3 
+Attachment 4 
+===== PDF PAGE 8 =====
+ 
+7 | Attachment 2: Project EnergyConnect and Contract Failure | An application to reopen the 2023-2028 Revenue Determination   
+ 
+Official
+Several entities are referred to in the PEC timeline  and throughout this document . SEJV refers to Secure 
+Energy Joint Venture, which was an unincorporated joint venture comprising Clough Limited and Elecnor 
+Australia (formerly Green Light Contractors Pty Ltd). Figure 3 shows the relationships between these entities. 
+Figure 3:  Entities involved in the EPC contract for the delivery of PEC 
+ 
+In December 2022, Clough Limited entered into voluntary administration. 5 For ease of reference, while the 
+EPC contract remained with SEJV following the Clough insolvency, this Attachment refers to Elecnor 
+Australia rather than SEJV after December 2022. This is because Elecnor Australia was the sole contractor 
+in SEJV from that date.    
+ 
+ 
+ 
+5 Clough, Clough placed under Voluntary Administration, 5 December 2022.  
+Clough Limited 
+Holding company for the 
+Clough Group and parent to 
+Clough Project Australia 
+I 
+Clough Project Australia 
+(Lead and Principa l Contractor) 
+Guarantors for SEJV 
+-----, 1-------
+1 I 
+I I 
+I I 
+I I 
+! ! 
+secure Energy Joint venture 
+Unincorporated JV of Clough 
+Project Australia & Elecnor 
+Australia 
+Elecnor S.A. 
+Holding company for the 
+Elecnor Group and parent to 
+Elecnor Australia 
+I 
+Elecnor Australia 
+Previously Green Light 
+contractors pty Ltd, became 
+Elecnor Australia in January 
+2024 
+===== PDF PAGE 9 =====
+ 
+8 | Attachment 2: Project EnergyConnect and Contract Failure | An application to reopen the 2023-2028 Revenue Determination   
+ 
+Official
+4. Contracting approach and selection of SEJV to deliver PEC 
+4.1 EPC contracting approach 
+Conceptually, the purpose of an EPC contract is that a contractor is engaged to plan, design and build a 
+project for a predetermined price by a specified date, such that the owner can simply ‘turn the key’ on a fully 
+operational project. An EPC contract is also known as a turnkey contract, however the term EPC will be used 
+throughout the Application and in this Attachment. The price agreed by the contractor and project owner for 
+an EPC contract at the outset is often higher than other contractual structures due to the project risks 
+assumed by the contractor, which typically include design errors, supply chain disruptions, the cost of labour 
+and materials, and most schedule delays.  
+A key feature and underlying contractual principle of an EPC contract is that the contractor is responsible for 
+project delivery, and the project owner (in this case Transgrid) relinquishes day-to-day control and direction 
+and has limited intervention capabilities. This extends to detailed data and information related to the project 
+activities. Indeed, any perceived interference and/or direction/ requests from the project owner can lead to 
+the contractor claiming variations and/or additional time and costs. From the project owner’s perspective, the 
+advantages of an EPC contracting approach include: 
+• price certainty 
+• reduced change management challenges 
+• reduced likelihood of cost overruns, and  
+• a condensed project timeline due to the efficiencies of having a single design and construction contractor. 
+It is important to note, however, that the project owner has an essential role in the management of the 
+contract. The fact that the EPC contract does not provide the project owner with a project management role 
+does not lessen the importance of effective contract management. On the contrary, Transgrid recognised 
+that the limitations on its involvement in project delivery heightened the need to ensure that the contractor 
+was held to account in accordance with the terms of the EPC contract. As explained in this Attachment, 
+Transgrid’s management and Board were actively engaged in the management of the EPC contract from 
+project commencement.  
+Given the advantages of the EPC contract and Transgrid’s limited experience in delivering major transmission 
+projects at that time , it was concluded that an EPC contract was the preferred approach  to deliver PEC . 
+Specifically, it was expected that an EPC contract would shield Transgrid and consumers from project risks 
+in exchange for a fixed price contract that included a form of risk premium for the successful tenderer to 
+assume those risks. This type of contract was a market standard contract at that time.  Furthermore, it had 
+been a standard type of contract for Transgrid’s BAU projects which the organisation was very experienced 
+in managing, to deliver projects on time and within budget. The EPC contract was based on the internationally 
+recognised ‘conditions of contract’ issued by the  Fédération Internationale des Ingénieurs -Conseils Silver 
+Book ( FIDIC Silver ). FIDIC Silver includes a risk allocation consistent with market practice for the 
+procurement of major linear infrastructure and energy projects and included standard financial protections 
+(including financial bonding, a step-in mechanism, and termination rights) and provided an appropriate basis 
+for a competitive procurement process.   
+The market has now evolved such that EPC contracts are more the exception rather than market standard. 
+In large part, this market evolution reflects the types of challenges faced on PEC.  In June 2021, however, 
+===== PDF PAGE 10 =====
+ 
+9 | Attachment 2: Project EnergyConnect and Contract Failure | An application to reopen the 2023-2028 Revenue Determination   
+ 
+Official
+the EPC contract was adopted as the preferred contracting model as it reflected the market standard at that 
+time, and formed the basis of the competitive tender process which is discussed next. 
+4.2 Competitive tender process 
+Transgrid undertook a competitive and transparent procurement process through 2019 and 2020 to select a 
+service provider to deliver PEC. The aim of the procurement process was to secure an EPC contract, which 
+appropriately allocated risk, and to deliver PEC at a competitive fixed price and by a specified date.  
+Transgrid’s tender process and its contracting decisions were entirely commercial matters for Transgrid and 
+its Board, and not the responsibility of any other party. Nevertheless,  Transgrid engaged with stakeholders 
+including the AER, AEMO and consumer groups to provide an opportunity for key stakeholders to provide 
+feedback, raise any issues with the procurement documents, process and structure. Between February and 
+June 2020, Transgrid hosted fortnightly teleconferences for stakeholders on the tender process and key 
+project developments. On 25 May 2020, a Transgrid Advisory Council (TAC) meeting was held to provide an 
+update on PEC, including the procurement process. Transgrid’s proposed approach  received support. As 
+already noted however, Transgrid ’s commercial decisions are its responsibility alone, and not the 
+responsibility of the AER, the TAC or any other stakeholder.  
+During the procurement process for PEC, five tenderers submitted pricing information on Transgrid’s Concept 
+Design as well as non -price information for capability and capacity during the Request for Tender ( RFT) 
+Phase A process. Three shortlisted tenderers submitted detailed concept designs and pricing to develop a 
+fully binding proposal capable of acceptance during the RFT Phase B process. Two shortlisted tenderers 
+submitted refined concept designs and pricing in a best and final offer (BAFO) process. 
+Consistent with industry practice and  other major projects in other markets being delivered at the time, 
+Transgrid established an Evaluation Review Team ( ERT), with specialist knowledge, skills or experience 
+relevant to PEC. At each stage of the process, the ERT considered each submission and captured its findings 
+in the ERT Report. The review team provided the ERT Report to the Tender Evaluation Panel, who assessed 
+it and  made a recommendation (based on its Evaluation Panel Report) to the Transgrid Board for 
+endorsement. 
+The Tender Evaluation Panel consisted of members of Transgrid’s Executive Team, the Project Director and 
+an independent member with expertise in major projects. There was also an Observer Panel which included 
+representatives from the South Australian Government, ElectraNet, AER, AEMO and the TAC. The role of 
+the Observer Panel was limited to monitoring the Evaluation Panel process. 
+Each tenderer for RFT Phase A was assessed according to the non-price evaluation criteria, including:  
+• demonstrated capability to design and construct this major project in accordance with the scope and 
+timelines set out in the RFT 
+• relevant experience with infrastructure projects over $1 billion in value in Australia or other comparable 
+jurisdictions 
+• demonstrated understanding of key project delivery risks and a robust supply chain strategy 
+• appropriate management structures for project delivery, and  
+• financial and contractual certainty, including appropriate credit quality to support contractual obligations 
+under adverse scenarios. 
+Transgrid 
+~ 
+===== PDF PAGE 11 =====
+ 
+10 | Attachment 2: Project EnergyConnect and Contract Failure | An application to reopen the 2023-2028 Revenue Determination   
+ 
+Official
+Using the non-price and price information, three tenderers were shortlisted from RFT Phase A to progress to 
+RFT Phase B, being CPB and UGL Engineering, Quanta Power Australia and SEJV. 
+During RFT Phase B the shortlisted tenderers were invited to firm up their pricing and provide a binding offer 
+capable of acceptance. The two lowest cost bidders from Phase B were then invited to submit a BAFO to 
+improve their proposals in select areas, (including cost) after, having been briefed by Transgrid on areas in 
+their proposal that needed to be updated. 
+Each tenderer for RFT Phase B was assessed according to non-price evaluation criteria including the project 
+solution (the level of certainty that the tenderer’s design will achieve Transgrid’s requirements), project 
+delivery (delivering the project in accordance with Transgrid’s key milestones whilst ensuring lowest whole 
+of life costs for the project), the capacity and capability of key personnel, environmental and social 
+sustainability factors, commercial risk (the level of  acceptance of, risk allocations within the EPC contract) 
+and commercial certainty and financial capacity to deliver the project (including provision of guarantees from 
+the parent entity, sufficient security to support project delivery and appropriate Joint Venture terms, such as 
+joint and several liability between Joint Venture partners).  
+The delivery program proposed by each contractor were broadly similar, although SEJV proposed an earlier 
+delivery date for the practical completion of Buronga Substation. 
+Overall, SEJV’s proposal was objectively a credible and convincing project delivery proposal and was 
+predominantly based on Transgrid’s concept design. There was also a high degree of confidence that:  
+• SEJV’s design would achieve Transgrid’s requirements  
+• the programme would meet delivery milestones, and  
+• SEJV would grow the workforce capacity in Australia, leaving a legacy of experienced transmission and 
+substation operatives in Australia to support the energy transition.  
+Following the RFT-Phase B and BAFO phases, the differential in cost submitted between the two shortlisted 
+tenderers was minimal. The tenderers were ultimately separated by non -price factors, for which there was 
+clear distinction in favour of SEJV. The Tend er Evaluation Panel concluded that the SEJV submission was 
+superior overall, and SEJV provided a slightly lower price following risk adjustments. 
+By the end of the BAFO stage, SEJV had withdrawn many of its contract departures and were the closest to 
+Transgrid’s preferred risk position on matters such as provision of securities, parent company arrangement 
+and Joint Venture terms. In addition, SEJV offered to provide  Transgrid with bank guarantees with a total 
+value of 10% of the contract price as security , compared to 5% which was market standard. As a result of 
+this competitive procurement process, Transgrid engaged SEJV as the contractor to undertake the design, 
+procurement, construction, commissioning and delivery of PEC in accordance with the EPC contract.  
+4.3 Key terms and conditions  
+The EPC contract with SEJV included a contract price of $1,504 million (Real 2023$) and $103 million (Real 
+2023$) for provisional sums to be directed at Transgrid’s discretion . The key features of th at contract are 
+summarised in Table 1 below. 
+Transgrid 
+~ 
+===== PDF PAGE 12 =====
+ 
+11 | Attachment 2: Project EnergyConnect and Contract Failure | An application to reopen the 2023-2028 Revenue Determination   
+ 
+Official
+Table 1: Summary of key terms and conditions for the EPC contract 
+Contract 
+Feature 
+Explanation  
+Price Transgrid was required to pay SEJV a fixed amount which included an allowance for 
+SEJV’s profit and overheads for the delivery of the project. 
+SEJV 
+obligations 
+SEJV was required to design, construct, test and commission PEC as well as rectify any 
+defects. This work was to be completed in a number of work portions called ‘separable 
+portions’ which SEJV had to complete by specified dates. SEJV was required to provide 
+Transgrid with high -level project updates on a monthly basis. Clough was named the 
+Principal Contractor under work health and safety legislation , responsible for managing 
+site-based work health and safety matters. 
+Transgrid 
+obligations 
+Transgrid was required to obtain land access, environmental approvals, provide high-
+level design requirements and review design, construction and commissioning at certain 
+milestones. Beyond this, Transgrid did not have the right to manage the project on a 
+day-to-day basis. As explained in section 4.1 above, this is market standard for an EPC 
+contract as the contractor bears cost and time risk of project delivery. As already noted, 
+Transgrid’s role as contract manager was actively and efficiently undertaken in 
+accordance with the EPC contract. 
+Payment 
+schedule 
+The fixed price was to be paid by Transgrid to SEJV monthly on a percentage complete 
+basis in accordance with the Security and Payment Act. 
+Programme 
+and delay 
+damages 
+As noted above, the EPC contract included a number of separable portions. If SEJV did 
+not complete the separable portions by the specified milestone dates, then it was liable 
+to pay Transgrid delay damages for each day of delay. SEJV would be able to claim 
+extensions of time to each completion date for some matters, such as a delay caused by 
+Transgrid. The delay damages payable by SEJV were capped at 1 0% of the contract 
+price, which is market standard for these types of contracts. 
+Security As noted above, SEJV provided bank guarantees with a total value of 10% of the contract 
+price as security for its performance under the EPC contract. In addition, Elecnor 
+Australia’s parent company  and Clough Limited each provided parent company 
+guarantees, to guarantee SEJV’s performance under the EPC contract, up to a value of 
+ of the contract price (being the limit of SEJV’s liability under the EPC contract). In 
+total, Transgrid held performance securities with a quantum of more than  of the 
+contract price from Elecnor Australia’s parent company  (Performance Securities ). 
+Transgrid could claim the Performance Securities in various circumstances, including a 
+breach of the EPC contract by SEJV. 
+Termination 
+rights 
+Transgrid had the ability to terminate the EPC contract, including in the event of an 
+unremedied SEJV default ; abandonment; if the delay damages cap was exceeded ; if 
+certain safety incidents occurred; or if the contractor or a guarantor became insolvent. 
+Insolvency of 
+one Joint 
+Venture party 
+If one member of SEJV became insolvent, the other member had liability to fulfil SEJV’s 
+obligations in full under the EPC contract.  
+ 
+- -
+===== PDF PAGE 13 =====
+ 
+12 | Attachment 2: Project EnergyConnect and Contract Failure | An application to reopen the 2023-2028 Revenue Determination   
+ 
+Official
+5. AER’s assessment of Transgrid’s contracting approach 
+Transgrid submitted its contingent project application ( CPA) to the AER on 30 September 2020. The CPA 
+included capital expenditure forecasts that were based on the EPC contract awarded to SEJV. In May 2021, 
+the AER’s final decision largely accepted Transgrid’s forecast capital expenditure, reducing it by 2.6 per cent 
+to $1,817.9 million ($2017-18).6  
+A key factor in the AER’s Determination to accept Transgrid’s forecast was the robustness of the competitive 
+procurement process undertaken to select SEJV. The AER was satisfied that the market testing of each line 
+item meant the forecast capex reasonably reflected the efficient costs that were forecast to be incurred. 
+The AER’s May 2021 assessment of the EPC contract’s fixed price is relevant to this Application. While any 
+commercial decision to enter into a contract is a matter for Transgrid, the comments made by the AER were 
+consistent with the Board’s assessment that: 
+• It was reasonable to conduct a competitive tender on the basis of a fixed price EPC contract, given 
+Transgrid’s limited experience in managing the construction of major transmission projects. 
+• The contract proceeded on the basis of a strong delineation of the roles, obligation, powers and 
+responsibilities of the contractor and Transgrid. 
+• The fixed price in the EPC contract was the product of a competitive tender process, which implicitly 
+included each bidder’s pricing of the project risks. 
+• At the time of entering into the EPC contract with SEJV, there was no evidence that the fixed price was 
+‘too low.’ The AER’s benchmarking evidence suggested that the contract price may have been on the 
+high side of reasonable. 
+• It was prudent and efficient to enter into the fixed price EPC contract with the successful bidder following 
+the conclusion of the competitive tender process.  
+• The EPC contract was soundly based and there was no reason to expect that PEC could not be delivered 
+under the EPC contract.  
+As already noted, the decision to enter into the EPC contract was entirely a commercial decision taken by 
+Transgrid’s Board and is not the responsibility of the AER. The AER’s review of the EPC contract price as 
+part of its revenue setting process does not  change the fact that the responsibility for executing the EPC 
+contract sits with Transgrid. In the context of this Application, however, the AER’s review illustrates that the 
+terms of that contract, including the risk allocation and price, appeared to be reasonable at the time. 
+ 
+ 
+6 $2,121.2 million ($2022-23) 
+ 
+===== PDF PAGE 14 =====
+ 
+13 | Attachment 2: Project EnergyConnect and Contract Failure | An application to reopen the 2023-2028 Revenue Determination   
+ 
+Official
+6. Early project period under the EPC contract 
+The purpose of this section is to summarise the delivery of PEC under the EPC contract  during the early 
+project period from June 2021 to December 2022 . As explained below, during this phase of the project the 
+challenges that arose were typical of a large infrastructure project and were manageable within the terms of 
+the EPC contract. 
+In the first year of the EPC contract, the design and procurement of critical equipment progressed as planned. 
+Pre-construction activities were also progressed, including the approval of the Construction Environmental 
+Management Plan ( CEMP) for SP1 and submission of the CEMP for SP2 to the NSW Department of 
+Planning, Housing and Infrastructure. Rationalisation of the transmission lines during the design process 
+resulted in costs savings which were agreed between the parties. Construction of  the enabling wor ks 
+commenced in 2022, with the performance of civil works progressing. 
+Whilst Transgrid had been successfully delivering projects on time and budget under fixed price terms and 
+conditions over a long period of time, Transgrid understood the need to bring in specific resources with the 
+experience of delivering a project of the scale and logistical complexity of PEC. Transgrid appointed a Project 
+Director with extensive experience in major projects, overseas and in Australia, including overseeing 
+significant portfolios of major projects in West ern Australia and New South Wales. Given the nature of an 
+EPC contract, Transgrid provided an appropriate level of resourcing suitable to perform its contract 
+management function, noting that, under the terms of the EPC contract, the delivery of the project was the 
+contractor’s responsibility.  
+Transgrid administered the EPC contract consistently with the terms of the contract and the Contract 
+Administration Manual provided by external legal advisors. As explained in sections 4.1 and 4.3 above, the 
+EPC contract placed significant obligations on the contractor, making the contractor fully responsible for 
+delivery of the project, with limited obligations and rights placed on Transgrid. The obligations that Transgrid 
+fulfilled included: 
+• Reviewing designs and monthly reports provided by SEJV, ensuring they complied with the EPC contract. 
+All documents were carefully reviewed by Transgrid with the support of Transgrid’s Owners Engineer, 
+Beca Australia.  
+• Responding to risks raised by SEJV and notifying SEJV of any factors impacting the project, such as 
+planning approval delays. 
+• Obtaining the planning approvals for SP1 and SP2  from the NSW Department of Planning and 
+Environment. 
+• Administering the EPC contract by assessing and responding to the programmes and reports provided 
+by SEJV, identifying any non-compliance with the EPC contract, identifying defects and serving notices 
+in those instances where, in Transgrid’s view, the contractor failed to comply with the requirements of the 
+EPC contract. 
+• Assessing the work and services described in the EPC contract to confirm SEJV’s entitlement to 
+payment, prior to making any contract payments. 
+• Managing land access and organising the outages on the Transgrid network necessary for SEJV to 
+complete its work. 
+===== PDF PAGE 15 =====
+ 
+14 | Attachment 2: Project EnergyConnect and Contract Failure | An application to reopen the 2023-2028 Revenue Determination   
+ 
+Official
+In this early period, SEJV and Transgrid resolved minor variations to the scope of the EPC contract, including 
+route variations. Where SEJV provided substantiation of the variations, Transgrid was able to determine the 
+value of the variations and adjust th e contract sum accordingly, a standard occurrence on infrastructure 
+projects.  
+Submissions to the AER  
+On 2 December 2022, Transgrid made a submission to the AER on PEC together with its revised revenue 
+proposal for the 2023-2028 Regulatory Control Period (RCP). In that submission, Transgrid affirmed that it 
+was committed to delivering PEC in line with the approved capex allowance of $2,008 million.  
+As part of the AER’s consultation process on the 2023-2028 RCP, SEJV wrote to the AER in January 2023 
+noting that the project faced unforeseeable costs of approximately $250 million associated with COVID -19 
+and other supply chain shocks (such as the Ukraine War) that were clearly not contemplated (or capable of 
+such) at the time of the contract tender. SEJV considered that these unforeseen costs should be recovered 
+from consumers and commented that it was not seeking an additional margin in relation to these costs. The 
+AER’s final determination for Transgrid did not make any allowance to address SEJV’s submission. 
+Clough Insolvency 
+In October 2022, Transgrid became aware that Clough Limited (parent company to Clough) was facing 
+financial issues. Transgrid took steps in response to the potential insolvency of Clough Limited and its 
+subsidiaries, such as approving a power of attorney t hat would allow senior officers of Transgrid to call on 
+the bank guarantees provided by Clough under the EPC contract.  
+In December 2022, Clough Limited entered into voluntary administration. 7 In mid -December 2022, in 
+accordance with Elecnor Australia’s obligations under the EPC contract, Elecnor Australia gave notice to 
+Transgrid that it would fulfil SEJV’s obligations under the EPC Contract, taking full operational and financial 
+control of SEJV, as well as sole liability and responsibility for the delivery of the project.  
+As already noted, f or the remainder of this Attachment we refer to Elecnor Australia rather than SEJV, as 
+Elecnor Australia is  the remaining contractor in SEJV  from December 2022 onwards . However, the 
+contractual obligations remain with SEJV.   
+Severe weather and flooding disaster declaration  
+Severe weather and flooding events occurred in regional New South Wales in 2022 and in September 2022, 
+the New South Wales Government declared a ‘natural disaster declaration’ in local government areas 
+(including Wentworth (Buronga) and Central Darling (transmission Line 1) shires).8 These events impacted 
+the project construction sites for multiple lines from November 2022 to February 2023, requiring a cessation 
+of works for between one and three months. 
+ 
+ 
+7 Clough, Clough placed under Voluntary Administration, 5 December 2022.  
+8 NSW Government, Natural Disaster Declaration – NSW Severe Weather and Flooding AGRN 1034, 14 September 2022. 
+===== PDF PAGE 16 =====
+ 
+15 | Attachment 2: Project EnergyConnect and Contract Failure | An application to reopen the 2023-2028 Revenue Determination   
+ 
+Official
+During this period, water levels in the Lachlan, Murrumbidgee, Murray, Darling and Great Darling Anabranch 
+and their tributaries increased. Rising water levels at the Great Darling Anabranch were due to river flows 
+from further upstream and engineered river outflows (water releases) from the Menindee Lakes. 
+Transmission Line 1 crosses the Anabranch with additional towers within the Anabranch flood plains,  none 
+of which were accessible. Softened ground conditions prevented heavy plant machinery gaining access to 
+the work fronts for transmission Line 4 and access for equipment necessary for drilling and concreting 
+foundations for tower erection. Numerous potential archaeological deposits were also swamped and could 
+not be reached to commence and/or complete salvage works. Rising water levels at Buronga  substation 
+created unsafe ground conditions, preventing completion of essential civil works including bulk earthworks, 
+conditioning, spreading subgrade material for the pad, compacting and testing fill material. Work was stopped 
+onsite at camp 6 in November 2022 due to the unsafe conditions arising out of the wet and boggy conditions 
+at this location.  
+Construction at the affected sites was only able to recommence in February 2023. Notwithstanding the delays 
+caused by the severe weather and flooding events, delays of that nature are not unusual in the context of 
+large, complex infrastructure projects. At the time, Transgrid considered that those delays could be managed 
+within the EPC contract. 
+Engagement with Transgrid’s Board 
+Given the importance of PEC, and Transgrid’s role as contract manager rather than project manager , 
+Transgrid’s management of the EPC contract included regular engagement with Transgrid’s Board as part 
+of the internal governance process to ensure that significant contract risks and challenges were identified 
+and actioned in a timely manner.  The following points summarise the issues that were raised with Transgrid’s 
+Board and the actions taken by management in response to emerging issues: 
+• Regulatory and approvals environment : Delays in regulatory and environmental approvals created 
+uncertainty around project milestones. Management responded by intensifying engagement with State 
+and Commonwealth agencies to secure outcomes and maintain momentum.   
+• COVID‑19 impacts: Fieldwork and stakeholder engagement  were impacted by the p andemic, which 
+necessitated changes to working practices . Adaptive planning, remote consultation, and resourcing 
+adjustments were implemented to mitigate these impacts and sustain progress.  
+• Stakeholder and community engagement : Effective stakeholder and community  engagement i n 
+response to project design issues . Management adopted a  proactive communication  approach, 
+supported by consultation forums and the provision of clear information materials.  
+• Contractor and commercial risks: Performance issues and unresolved disputes with delivery partners 
+were managed proactively, noting the consequential impact on program and financial risks. Management 
+responded through escalation to executive committees, targeted workshops, and preparation of fallback 
+strategies to protect delivery confidence.  
+• Program readiness: Construction readiness was safeguarded through detailed planning, including the 
+refinement of environmental management plans, countdown schedules for key milestones, and close 
+monitoring of property and interface agreements.  
+• Project delays and claims management. Project delays and claims managed and reported, in addition 
+to concerns regarding contractor performance concerns, particularly where timelines and costs  were 
+Transgrid 
+~ 
+===== PDF PAGE 17 =====
+ 
+16 | Attachment 2: Project EnergyConnect and Contract Failure | An application to reopen the 2023-2028 Revenue Determination   
+ 
+Official
+impacted. Management enhanced its oversight of contractor claims and committed additional resources 
+to minimise delays and cost impacts. 
+In summary, Transgrid did not adopt a ‘hands off’ approa ch to its role as contract manager. The active 
+engagement of Transgrid’s Board from project inception is evidence that the successful delivery of PEC had 
+the full attention of Transgrid ’s Management team and Board.  Further detailed information on the specific 
+project timelines and emerging challenges are set out below.  
+Transgrid 
+~ 
+===== PDF PAGE 18 =====
+ 
+17 | Attachment 2: Project EnergyConnect and Contract Failure | An application to reopen the 2023-2028 Revenue Determination   
+ 
+Official
+7. Emerging Project Issues: January 2023 – July 2023 
+Over the seven months between January and July 2023, financial , project and operational issues began to 
+emerge. In the remainder of this section, we discuss these emerging issues in relation to three topics. 
+• contract claims and forecast losses  
+• program slippage, and 
+• cashflow support. 
+As explained below, these issues were not regarded as unusual for a major infrastructure project and could 
+be managed within the terms of the EPC contract. As issues emerged, Transgrid took appropriate action to 
+ensure that the contractor was held to account , while committing additional resources where  necessary to 
+resolve claims, monitor contractor performance and ease cashflow problems.     
+Contract claims and forecast losses 
+Elecnor Australia raised financial issues with Transgrid, including forecast cost overruns, contract losses and 
+contract claims, which are explained below9: 
+• Cost overruns refer to how much more a contractor expects to spend by the end of the project compared 
+with their original cost estimates. 
+• Contract losses refer to losses that  a contractor expects to incur at project completion. However, 
+contractors sometimes include the profit margin in describing losses, so a ‘loss’ arises if profit margins 
+are lower than expected.  
+• Contract claims refer to amounts that a contractor considers they are entitled to under the terms of the 
+contract and does not necessarily reflect the contractor’s actual costs.   
+By March 2023, Elecnor Australia submitted various ‘contract claims’, which were categorised as Group A, 
+B, and C, as explained below: 
+Group A ‘contract claims’ : these were variation and extension of time claims that Elecnor Australia had 
+issued under the EPC contract . The quantum of claims made by Elecnor Australia, while 
+significant, did not raise concerns because in Transgrid’s experience, claimed amounts often reflect an 
+opening position for further negotiation. Transgrid was, and is, judicious in its assessment of claims from any 
+contractor and only agrees valid, substantiated claims issued strictly in accordance with the contract and 
+costs which were actually incurred and properly evidenced.  
+ 
+Group B ‘hyper escalation’ : these were cost claims of  as a result of  what Elecnor Australia 
+referred to as  ‘hyper-escalation’. Elecnor Australia acknowledged that under the EPC contract it had no 
+contractual or legal entitlement to claims for ‘hyper -escalation’ and Elecnor Australia  did not provide 
+supporting evidence to substantiate these amounts. Transgrid considered and acknowledged  Elecnor 
+ 
+ 
+9 Where amounts are reported in this attachment, these are generally provided as nominal amounts to retain consistency with 
+the information and data available at the time.  
+-
+===== PDF PAGE 19 =====
+ 
+18 | Attachment 2: Project EnergyConnect and Contract Failure | An application to reopen the 2023-2028 Revenue Determination   
+ 
+Official
+Australia’s concerns but held the view that Elecnor Australia had no contractual entitlement to a settlement 
+for hyper escalation issues and as such these were a risk to be managed by the contractor.  
+Group C ‘additional costs’ : these were claims in relation to future cost and time claims associated with 
+Clough administration, which Elecnor Australia had no legal or contractual entitlement to claim for and which 
+were not substantiated. These claims were not considered valid. 
+In the context of a project like PEC, it is typical for the project owner (in this case Transgrid)  to receive a 
+range of claims , some of which are not well substantiated or grounded in the terms of the cont ract. We 
+describe this strategy as the contractor undertaking a claims initiative, whereby it seeks to advance both 
+contractual entitlements under the EPC agreement and , often more material,  non‑contractual assertions 
+without meeting the evidentiary , factual, contractual entitlement  and/or valuation standards required. The 
+best practice approach from a contract management perspective is to hold the contractor to account in 
+accordance with the terms of the EPC contract. From a strategic perspective, to manage a contractors’ claims 
+initiative effectively, it would not be appropriate for Transgrid to seek open book access, as the objective is 
+to hold the contractor to account in accordance with its obligations under the EPC contract. 
+Transgrid’s executives met with Elecnor Australia’s parent company on 24 April 2023, during which the parent 
+company advised that its expected losses for the project were around $400 million and that Elecnor S.A.  
+would not support Elecnor Australia financially. Elecnor Australia’s parent company conveyed that without a 
+resolution to these issues, progress on parts of the project would be at risk.  
+Transgrid’s view was that Elecnor Australia’s parent company ’s statements were part of its negotiating 
+strategy to seek recovery of the Group B and Group C claims , as part of its claims initiative. As explained 
+above, such approaches are not unusual and should be (and in this case, were) met by enforcing the terms 
+of the contract.  Furthermore, Transgrid understood that the claimed losses were below the value of the 
+Performance Securities and, therefore, Elecnor Australia remained incentivised to deliver the project. Acting 
+in the best interests of consumers  and consis tent with best practice contract management, Transgrid 
+continued to enforce the terms of the EPC contract. 
+Program slippage 
+Construction commenced five months later than planned, primarily due to planning approval delays . Once 
+construction commenced however, the project began to slip behind the revised program. 
+As work on site progressed, the forecast productivity levels for Line 1 were not being achieved. For example, 
+the drilling for foundations in the tender was forecast to take one day, whereas the actual time taken was up 
+to five days. Line 1 tower assembly was on average 22% slower than tendered and tower erection 40% 
+slower. This slower productivity in assembling and erecting each tower multiplied over the >200 towers led 
+to cumulative slippage against the forecast program.  
+Figures 4 and 5  below show the slippage in the assembly and erection of towers on Line 1 between the 
+September 2022 program and actuals. Orange bars represent how many towers needed to be assembled 
+and erected each month and blue bars represent when the towers were assembled and erected. The graphs 
+show that Elecnor Australia’s production was slipping behind the program every month. While it is more 
+challenging to measure substation productivity, it became evident that the substation works were also falling 
+behind schedule. 
+Transgrid 
+~ 
+===== PDF PAGE 20 =====
+ 
+19 | Attachment 2: Project EnergyConnect and Contract Failure | An application to reopen the 2023-2028 Revenue Determination   
+ 
+Official
+Figure 4: Line 1 Assembly      
+ 
+Figure 5: Line 1 Erection 
+ 
+In June 2023, Transgrid sought further information from Elecnor Australia and began conducting its own 
+assessment of Elecnor Australia’s progress. Transgrid understood the overall delay in progress was amplified 
+by resource constraints that Elecnor Australia, as well as other contractors,  were encountering leading to 
+less active work fronts. At that time, the expectation was that  these resource constraints would ease once 
+Labour Agreements10 and visas for overseas workers  were resolved. Similarly, although Elecnor Australia 
+had encountered a higher than expected number of defects in the foundations, which paused tower erection, 
+it was expected that productivity would increase once these issues were resolved.    
+ 
+ 
+10  The Labour Agreement with the Federal Government was in Clough’s name, and it took several months for Elecnor Australia 
+to transfer the Labour Agreement into its name. This had an impact on Elecnor Australia’s ability to hire skilled foreign 
+workers, in turn causing material delays to the project. 
+Line 1 - Asse mbly - Sep-22 Pgm vs Actuals 
+60 JOO 
+50 250 
+········ 40 
+.•·· 
+200 
+30 150 
+20 
+10 
+I I 
+100 
+50 
+Oct-22 Nov-22 De::-22 Jan-23 feb-23 Har-23 Apr-23 Hay-23 Jun-23 '"'-23 Aut-23 Sep-23 Oct-23 Nov-23 D«:-23 
+- TowerAsseni>ty -Towfrs(Sep-22 Pen Non-C1.mwt1ve) - TowerAssembty-Towers(Actwils Non-CUITWt...e) 
+• • • • • • Tower AsseniJty- Towers(Sep..22 Pen QJIJ'IIUbve) --TawerAssembty-Towers(Actuals CUmulllbYe) 
+Line 1- Erection - Sep-22 Pgm vs Actuals 
+70 350 
+JOO 
+50 250 
+"' 
+200 
+30 150 
+20 100 
+10 50 
+Oct-22 Nov-22 Dec-22 J.an..23 Feb-23 Mai-23 Apr-23 Hay-23 Jun-23 JI.C-23 Aug..23 Sep-23 Oct-23 Nov-23 Dec-23 
+- Tower Erection- Towers(Sep-22PCmNon-OJIJU.llbVe) - Tower Erection- Towers (Actlllb Non-OJmulaDVe) 
+•• •••• Tower EteatOO-Towers{Sep-22 ptmCUfTIJ'1!tiYe} --Tower Erection-Towers (Actuals Ct#OOlltiw'e) 
+===== PDF PAGE 21 =====
+ 
+20 | Attachment 2: Project EnergyConnect and Contract Failure | An application to reopen the 2023-2028 Revenue Determination   
+ 
+Official
+It is not uncommon for construction projects to initially lag behind the program schedule, as contractors 
+grapple with the size, complexity and scale of the project. A learning curve is common in tower assembly and 
+erection as work crews become familiar with the type of tower, especially given that Line 1 included guyed 
+towers which had not been constructed in Australia before. Given Elecnor Australia’s experience with projects 
+of this complexity, Transgrid formed the opinion that it could recover lost time or at least minimise the impact 
+on completion dates from these early delays by optimising the project schedule.  
+It is important to note that the insolvency of Clough in December 2022 resulted in a significant loss of 
+management and project  systems and information that affected Elecnor Australia’s ability to accurately 
+forecast the costs of completing PEC, as Elecnor Australia was unable to access any project data, including 
+schedule data . These gaps were only fully addressed by mid -2024, which made it difficult for Elecnor 
+Australia (and therefore Transgrid) to address the full extent of the financial challenges facing the project.  
+Despite these challenges, Elecnor Australia had committed to taking on sole responsibility for the delivery of 
+PEC following Clough’s insolvency. Transgrid therefore held the view that despite this loss of management 
+systems and information, Elecnor Australia remained committed to delivering the project and there was no 
+compelling reason to believe that PEC could not be completed under the terms of the EPC contract.   
+Cash flow support 
+Between April to July 2023, Elecnor Australia raised concerns regarding the project cash flow resulting from 
+a misalignment in payment dates between when Elecnor Australia was required to pay suppliers of high value 
+large specialist equipment and when Elecnor Australia was paid by Transgrid under the EPC contract. In 
+May 2023, to understand the breadth of the issues, Transgrid requested monthly cash flow reports and 
+additional progress reports. Elecnor Australia was not required to provide such information under the terms 
+of the EPC contract, and in response Elecnor Australia only provided high level information. 
+To help ease these impending cash flow issues and ensure that Elecnor Australia remained focussed on 
+project delivery, Transgrid agreed to advance cash payments of $4 2 million (nominal) in relation to the 
+purchase of synchronous condensers. This arrangement was given effect through a side deed, executed on 
+27 July 2023, which ensured that Transgrid took legal title to the synchronous condensers while the risk and 
+liability for their transportation and installation remained with Elecnor Australia.  The effect of the side deed 
+was to benefit subcontractors through improved cashflow, while preserving the fixed price secured under the 
+EPC contract. 
+Conclusion 
+The project issues that emerged over the period January to July 20223 were not considered unusual in the 
+context of a major infrastructure project and could be managed within the terms of the EPC contract. While 
+the value of the side deed to ease Elecnor Australia’s cashflow problems was modest compared to the total 
+contract price, Transgrid concluded that a closer examination of Elecnor Australia’s financial position and its 
+costs of completing the project was warranted. Section 8 below outlines the action taken by Transgrid from 
+August 2023 to October 2023. 
+Transgrid 
+~ 
+===== PDF PAGE 22 =====
+ 
+21 | Attachment 2: Project EnergyConnect and Contract Failure | An application to reopen the 2023-2028 Revenue Determination   
+ 
+Official
+8. Emerging evidence of Contract Failure: August 2023 to October 2023 
+From August to October 2023, compou nding project issues escalated significantly and at pace, creating a 
+complex project landscape that ultimately culminated in the Contract Failure. The key events from this period 
+are described below.  
+Transgrid’s cost and programme review 
+On 8 August 2023, following Transgrid’s request for open book access, Elecnor Australia provided Transgrid 
+open book access to the cost to complete data  and this access enabled Transgrid to review Elecnor 
+Australia’s forecast cost to complete and its projected work programme. At that stage, Transgrid’s initial 
+assessment was that the program me was likely to take longer  than indicated by Elecnor Australia, which 
+would in turn result in higher Forecast Final Cost (FFC), being the actual cost plus forecast cost to complete. 
+In August 2023, t o firm up Transgrid’s own view of Elecnor Australia’s  FFC, Transgrid developed an 
+Integrated Master Schedule ( IMS) to identify a more realistic programme. The IMS was used to model 
+alternative scenarios based on different productivity rates and available resources derived from Elecnor 
+Australia’s data and Transgrid’s own experience. The IMS pointed to a material delay to practical completion 
+for both separable portions: SP1 from July 2023 to May 2024 and SP2 from August 2024 to February 2026. 
+Transgrid found that the differences in the Transgrid and Elecnor Australia programmes were due to 
+differences in the critical assumptions used by Elecnor Australia  and Transgrid when preparing their 
+respective programmes.  
+At the same time, Transgrid also prepared a detailed FFC which predicted that Elecnor Australia’s FFC would 
+be between $2,224 million and $2,827 million and that Elecnor Australia would incur additional costs, above 
+contractual obligations, to complete the project of between $429 million and $893 million. 
+Alongside its own internal analysis, in August 2023, Transgrid commissioned Fission to provide an alternative 
+view of Elecnor Australia’s FFC. The report estimated that Elecnor Australia’s FFC would be between $2,357 
+million to $3,094 million, being a cost overrun of $678 million to $1,415million. 
+Causes of the increase in Elecnor Australia’s FFC 
+From Transgrid’s perspective, it was apparent that the principal cause of the increase in Elecnor Australia’s 
+FFC related to project delay, which drives the time -based costs associated with sustaining and managing 
+construction teams and camp sites. As PEC requires delivery over an extensive geographical area, these 
+costs are substantial. As explained in sections 6 and 7, there were a multitude of factors that contributed to 
+delay and, furthermore, these factors had a compounding effect on Elecnor Australia’s costs. In addition, the 
+cost consequences of delay were exacerbated by changes in market conditions, which meant that the 
+remaining scope of work needed to be delivered in a more challenging market environment where prices for 
+materials and labour reflected sup ply constraints. The cost impact of delay in this instance is particularly 
+significant, given the substantial increase in the cost  of delivering transmission projects since the EPC 
+contract was signed in June 2021. 
+Given the complex interaction of the various causes of the substantial contract losses, it is not possible to 
+ascertain the contribution of each element. The evidence from Fission and Transgrid’s own analysis however, 
+indicated that Elecnor Australia’s FFC had increased substantially. As a practical matter, it is also important 
+to note that estimates of the cost to complete the project continued to evolve as project delivery progressed 
+and new information became available. 
+===== PDF PAGE 23 =====
+ 
+22 | Attachment 2: Project EnergyConnect and Contract Failure | An application to reopen the 2023-2028 Revenue Determination   
+ 
+Official
+Performance security from Elecnor Australia’s parent company 
+Under the EPC contract, Elecnor Australia had provided bank guarantees of $127 million (separate to the 
+Clough bank guarantee of $ 109 million) and Elecnor Australia’s parent company had provided a parent 
+company guarantee of  of the contract price (as revised), which was at that time approximately  
+ Transgrid was concerned that the magnitude of the forecast cost overruns were highly likely to exceed 
+the protections Transgrid could claim under the EPC contract and that Elecnor Australia’s parent company 
+would consider it in their commercial interest to abandon the project. 
+During this period, Transgrid considered the risks, duration and process for enforcing the parent company 
+guarantee, in light of the risk of Elecnor Australia abandoning the project.  Given the magnitude of the cost 
+overruns, if Transgrid were to attempt to enforce the EPC contract, this could result in the termination of the 
+EPC contract, whereupon Transgrid could call on the parent company guarantee. From Transgrid’s 
+perspective, taking legal action to recover damages under the parent company guarantee remained an option 
+that was available to it and provided leverage during any commercial negotiations with Elecnor Australia. 
+Transgrid was also cognisant of the protracted nature of legal action , of between 5 -7 years  to recover 
+damages under the parent company guarantee. 
+Executive negotiations 
+In the first week of September 2023, executive Management from Transgrid and Elecnor Australia’s parent 
+company met in person, in Madrid, to discuss the issues being experienced on the project. These 
+negotiations were commercial in nature and d uring these meetings, Elecnor Australia’s parent company 
+highlighted to Transgrid that in their opinion, a commercial resolution was critical to resolve the ongoing 
+project issues and, in particular, the losses on the project that Elecnor Australia’s parent company claimed it 
+was facing. 
+On 2 September 2023, during a Board meeting, Transgrid Management reported to the Transgrid Board that 
+although the executive negotiations in Madrid were helpful, it was becoming clear that if Elecnor Australia 
+were to successfully deliver PEC,  a commercial resolution outside of the EPC contract was critical . 
+Management explained the form and quantum of a commercial resolution being considered and Management 
+would seek Board approval of any proposed resolution. 
+Evidence of delayed payment of Elecnor Australia’s suppliers and subcontractors 
+In September and early October 2023, there was evidence of delays in payments by Elecnor Australia to 
+suppliers and subcontractors due to further cash flow challenges. Transgrid was contacted directly by Elecnor 
+Australia’s subcontractors and received copies of overdue invoices from suppliers that were yet to be paid.  
+Furthermore, Transgrid’s review of Elecnor Australia’s project accounts  indicated that, absent additional 
+funding, Elecnor Australia would soon have insufficient funds to make payments on time  to suppliers and 
+subcontractors.  
+In response to the cash flow issues and meetings with Elecnor Australia’s parent company on 23 October 
+2023, the parties entered into a staged payment deed , providing further cash flow relief to the  earlier 
+synchronous condensers deed referred to in section 7 . Under this deed, Transgrid agreed to advance 
+payments under the EPC contract to Elecnor Australia for the payment of suppliers and subcontractors in 
+exchange for ownership of materials, designs and large specialist equipment.  
+-
+1111 
+-
+===== PDF PAGE 24 =====
+ 
+23 | Attachment 2: Project EnergyConnect and Contract Failure | An application to reopen the 2023-2028 Revenue Determination   
+ 
+Official
+Conclusion 
+In summary, during the period August to October 2023 it became evident from the estimated FFC for Elecnor 
+Australia, late payments to Elecnor Australia’s suppliers and subcontractors , and productivity levels falling 
+further behind, that the project was experiencing profound, systemic issues that were hindering successful 
+delivery of PEC under the EPC contract . As explained in the next section , these factors culminated in the 
+Contract Failure as a result of their cumulative financial impact on Elecnor Australia. 
+Transgrid 
+~ 
+===== PDF PAGE 25 =====
+ 
+24 | Attachment 2: Project EnergyConnect and Contract Failure | An application to reopen the 2023-2028 Revenue Determination   
+ 
+Official
+9. The event – Contract Failure 
+The circumstances described in the previous section culminated in Contract Failure , which means that the 
+construction of PEC would not be completed by SEJV under the existing EPC contract and, if PEC were to 
+proceed, an alternative arrangement to delivery under the EPC contract would be necessary.   
+Transgrid’s Board recognised and accepted that Contract Failure had occurred on 25 October 2023 on the 
+following grounds: 
+• It was apparent without intervention from Transgrid , or further support from Elecnor Australia’s parent 
+company, the successful completion of PEC by Elecnor Australia  under the EPC contract was not 
+possible. 
+• The financial position of Elecnor Australia was precarious. Elecnor Australia was experiencing significant 
+negative cash flows (which had been mitigated only temporarily by  
+ the synchronous condenser deed and staged payment deed). 
+• The magnitude of Elecnor Australia’s projected losses under the contract were substantial and 
+insurmountable for Elecnor Australia, and Elecnor Australia’s parent company made it clear it could not 
+provide ongoing support.  
+• If Transgrid did not respond to the situation , Elecnor Australia would most likely enter into voluntary 
+administration, and completion of PEC would be at significant risk and significantly delayed with the FFC, 
+including Transgrid costs, in the order of $4,927 million (as estimated by Fission in the scenario where a 
+new delivery partner needs to be selected, and excluding any recovery from Elecnor Australia’s parent 
+company). 
+• Management recommended to the Transgrid Board, for the first time, that significant action outside of the 
+EPC contract was required and a substantial increase in the contract price would be required initially . 
+However, Transgrid considered that Elecnor Australia had understated its losses and further negotiations 
+would likely be required at some point prior to completion of the project.  
+A detailed explanation of Transgrid’s approach to rectifying the contract failure, including the options analysis, 
+is provided in Attachment 3. 
+-
+===== PDF PAGE 26 =====
+ 
+25 | Attachment 2: Project EnergyConnect and Contract Failure | An application to reopen the 2023-2028 Revenue Determination   
+ 
+Official
+10. Appendices 
+The following appendices provide further information  on the factors leading to Contract Failure as well as 
+external analysis on the emerging forecast cost to complete: 
+• Appendix 2a - Letter of support, Elecnor Australia, and 
+• Appendix 2b - Cost estimate reports, Fission. 
+ 

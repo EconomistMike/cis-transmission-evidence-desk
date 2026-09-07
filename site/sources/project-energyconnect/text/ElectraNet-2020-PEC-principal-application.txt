@@ -1,0 +1,1148 @@
+--- PDF physical page 1 ---
+
+
+
+
+
+
+
+
+
+
+
+
+PROJECT
+ENERGYCONNECT
+Contingent Project Application for the
+South Australian component
+
+
+30 September 2020
+--- PDF physical page 2 ---
+Project EnergyConnect: Contingent Project Application for the South Australian component
+Page 2 of 36
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Copyright and Disclaimer
+Copyright in this material is owned by or licensed to ElectraNet. Permission to publish, modify,
+commercialise or alter this material must be sought directly from ElectraNet.
+Reasonable endeavours have been used to ensure that the information contained in  this report is
+accurate at the time of writing . However, ElectraNet gives no warranty and accepts no liability for
+any loss or damage incurred in reliance on this information.
+
+
+--- PDF physical page 3 ---
+Project EnergyConnect: Contingent Project Application for the South Australian component
+Page 3 of 36
+Executive Summary
+Project EnergyConnect is a landmark project that will deliver the first new electricity interconnector
+between Australian States in 15 years , providing benefits to customers across the National
+Electricity Market and supporting the ongoing transformation of the power system.
+The Project involves the construction of a new high voltage interconnector over a route of
+approximately 860 km between the electricity networks of South Australia at Robertstown and New
+South Wales at Wagga Wagga, together with a spur line linking to Victoria at Red Cliffs.
+Project EnergyConnect forms a central feature of the roadmap for the transition of the power system
+developed by the Australian Energy Market Operator (AEMO) in its 2020 Integrated System Plan
+(ISP). The ISP classified Project EnergyConnect as an ‘actionable ISP project’ w hich will deliver
+net market benefits and support energy market transition through:1
+• Lowering dispatch costs, initially in South Australia, through increasing access to supply
+options across regions.
+• Facilitating the transition to a lower carbon emissions future and the adoption of new
+technologies, through improved access to high quality renewable resources across regions.
+• Enhancing security of electricity supply in South Australia.
+The Project will deliver immediate and ongoing benefits to customers across the interconnected
+market. In particular:
+• For customers in New South Wales , the interconnector will improve diversity of supply and
+access to cheaper renewable energy sources as the coal fleet progressively retires , while
+also unlocking significant renewable energy development along the route.
+• For customers in South Australia, the interconnector will provide access to additional capacity
+when needed to replace expensive gas generation and improve power system resilience and
+security.
+This application follows a comprehensive economic assessment ElectraNet undertook under the
+Regulatory Investment Test for Transmission (RIT -T) over 2016 to 2019 in consultation with
+stakeholders which concluded that Project EnergyConnect was the preferred option that delivered
+the greatest net market benefits. The Australian Energy Regulator ( AER) issued a formal
+determination in January 2020 approving this outcome.
+Since that time, there have been significant changes in both project costs an d benefits compared
+with those assessed in the RIT -T. ElectraNet has undertaken an updated cost benefit analysis to
+confirm the economic case for the Project , based on updated inputs and assumptions aligned
+closely with AEMO’s 2020 ISP, and sought expert advice to validate the assumptions in key areas.
+This analysis continues to show that Project EnergyConnect remains the preferred option and
+delivers positive net market benefits to customers.
+
+1  AEMO, 2020 Integrated System Plan, July 2020, p.86.
+--- PDF physical page 4 ---
+Project EnergyConnect: Contingent Project Application for the South Australian component
+Page 4 of 36
+Increased benefits could be expected under the majority of alternative scenarios considered in the
+AEMO ISP, demonstrating that the Project remains robust under a range of possible futures. This
+also underscores AEMO’s recognition of Project EnergyConnect as an “essential foundational
+measure” to address emerging system security risks that are growing year on year.
+Taken together, this provides confidence that the economic case for the project remains strong as
+an investment essential to Australia’s energy future.
+The Project will be delivered by ElectraNet and TransGrid as the respective transmission network
+operators in South Australia and New South Wales , subject to receiving all necessary
+environmental and regulatory approvals.
+As the final step in the regulatory approval process, this Contingent Project Application (Application)
+to the AER now seeks the capital expenditure and revenue required to deliver the South Australian
+component of the Project. A corresponding application will be lodged by TransGrid  for the New
+South Wales component.
+The capital costs for the Project have been updated since the time of the RIT -T assessment to
+reflect the outcomes of detailed project planning and competitive procurement processes. Most of
+the Project costs are based on market pricing, provi ding confidence that the capital expenditure
+forecast reflects the efficient and prudent costs of delivering the approved solution.
+The capital expenditure forecast for the South Australian component of the Project as set out in this
+application is $470.7 million ($2017-18). Competitive market pricing makes up most of these costs.
+Subject to satisfactory regulatory and other approvals, Electra Net is currently working towards
+completing construction by 31 December 2023, and will continue to look for opportunities to deliver
+the Project earlier, if feasible.
+The map below shows the interconnector route.
+Line Route for Project EnergyConnect
+
+Project EnergyConnect
+--- PDF physical page 5 ---
+Project EnergyConnect: Contingent Project Application for the South Australian component
+Page 5 of 36
+Contents
+1. INTRODUCTION ................................ ................................ ................................ ............... 7
+1.1 OVERVIEW ............................................................................................................................... 7
+1.2 STRUCTURE OF THIS APPLICATION ............................................................................................. 7
+2. PROJECT SUMMARY ................................ ................................ ................................ ...... 9
+2.1 PROJECT SCOPE ....................................................................................................................... 9
+2.2 REGULATORY INVESTMENT TEST FOR TRANSMISSION............................................................... 10
+2.3 AER’S RIT-T DETERMINATION ................................................................................................ 12
+2.4 AEMO 2020 ISP ................................................................................................................... 12
+2.5 UPDATED COST BENEFIT ANALYSIS ......................................................................................... 13
+2.6 STAKEHOLDER ENGAGEMENT .................................................................................................. 14
+2.7 NEXT STEPS ........................................................................................................................... 15
+3. REGULATORY REQUIREMENTS ................................ ................................ .................. 16
+3.1 INFORMATION REQUIREMENTS TO AMEND OUR REVENUE DETERMINATION .................................. 16
+3.2 TRIGGER EVENTS ................................................................................................................... 17
+3.3 PROJECT TIMING .................................................................................................................... 19
+3.4 PRE-LODGEMENT CONSULTATION ............................................................................................ 19
+4. FORECAST CAPITAL EXPENDITURE ................................ ................................ .......... 20
+4.1 BASIS FOR CAPITAL EXPENDITURE FORECAST ........................................................................... 20
+4.1.1 Basis of capital expenditure estimates ................................................................................. 21
+4.1.2 Basis of project risk estimates .............................................................................................. 21
+4.2 CAPITAL EXPENDITURE FORECAST BY YEAR ............................................................................ 22
+4.3 RIT-T COST COMPARISON ....................................................................................................... 22
+4.4 CAPITAL EXPENDITURE THRESHOLD ........................................................................................ 23
+4.5 CESS CAPITAL EXPENDITURE ................................................................................................ 23
+4.6 CONCLUSION .......................................................................................................................... 24
+5. FORECAST INCREMENTAL OPERATING EXPENDITURE ................................ .......... 25
+5.1 BASIS FOR OPERATING EXPENDITURE FORECAST ...................................................................... 25
+5.2 INCREMENTAL OPERATING EXPENDITURE FORECAST ............................................................... 26
+5.3 EBSS OPERATING EXPENDITURE ............................................................................................ 26
+5.4 CONCLUSION .......................................................................................................................... 27
+6. INCREMENTAL REVENUE REQUIREMENTS ................................ ...............................  28
+6.1 WACC................................................................................................................................... 28
+6.2 DEPRECIATION ....................................................................................................................... 29
+6.3 TAX ALLOWANCE..................................................................................................................... 29
+6.4 INCREMENTAL REVENUE REQUIREMENTS FOR EACH YEAR TO END OF PERIOD ............................. 30
+6.5 AMENDED MAXIMUM ALLOWED REVENUE .................................................................................. 30
+6.6 CUSTOMER BILL IMPACT .......................................................................................................... 32
+APPENDIX A REQUIREMENTS CHECKLIST ................................ ................................ ........... 34
+APPENDIX B BOARD APPROVAL ................................ ................................ ........................... 35
+--- PDF physical page 6 ---
+Project EnergyConnect: Contingent Project Application for the South Australian component
+Page 6 of 36
+Figures
+Figure 1: Network route for Project EnergyConnect ................................ ................................ .....10
+Figure 2: Benefits to be delivered by Project EnergyConnect ................................ .......................11
+
+Tables
+Table 3-1: Status of EnergyConnect contingent project trigger events ................................ .........18
+Table 4-1: Breakdown of forecast capital expenditure and basis ($m 2017-18) ............................20
+Table 4-2: Capital expenditure forecast ($m 2017-18) ................................ ................................ .22
+Table 4-3: Forecast and PACR capex comparison ($m 2017-18) ................................ ................22
+Table 4-4: Forecast capex for the CESS ($m Jun 2017-18) ................................ .........................24
+Table 5-1: Incremental operating expenditure ($m 2017-18) ................................ ........................26
+Table 5-2: Forecast operating expenditure for the EBSS ($m Jun 2017-18) ................................ 27
+Table 6-1: WACC Parameters ................................ ................................ ................................ .....28
+Table 6-2: Incremental Regulatory Depreciation ($m nominal) ................................ .....................29
+Table 6-3: Incremental Tax Allowance ($m nominal) ................................ ................................ ....29
+Table 6-4: Incremental Revenue Requirement ($m nominal) ................................ .......................30
+Table 6-5: Amended annual building block revenue requirement ($m nominal) ...........................30
+Table 6-6: Amended maximum allowed revenue ($m nominal) ................................ ....................31
+
+--- PDF physical page 7 ---
+Project EnergyConnect: Contingent Project Application for the South Australian component
+Page 7 of 36
+1. Introduction
+1.1 Overview
+This Application is submitted to the Australian Energy Regulator ( AER) to amend
+ElectraNet’s revenue determination for the 2018-19 to 2022-23 regulatory control period
+to approve the total capital and operating expenditure required to deli ver the South
+Australian component of Project EnergyConnect (the Project). The information provided
+in this Application complies with the Rules requirements, as set out in clause 6A.8.2.2
+In April 2018, the AER accepted our revenue proposal for the 2018 -19 to 2022 -23
+regulatory control period, which classified the Project as a contingent project.3 As such,
+the AER’s final decision allow s the determination to be varied to include a revenue
+allowance for the Project, if the following trigger events are satisfied:4
+1. Successful completion of the Regulatory Investment Test for Transmission (RIT-T)
+with the identification of a preferred option or options:
+(i) demonstrating positive net economic benefits; and/or
+(ii) addressing a reliability corrective action.
+2. Determination by the AER that the proposed investment satisfies the RIT-T.
+3. ElectraNet Board commitm ent to proceed with the Project subject to the AER
+amending the revenue determination pursuant to the Rules.
+As detailed in section 3.2 of this Application, these trigger events have been satisfied.
+1.2 Structure of this Application
+The remainder of this Application is structured as follows:
+• Chapter 2 provides an overview of the Project and the RIT-T process;
+• Chapter 3 sets out the regulatory requirements for this Application;
+• Chapter 4 sets out the forecast capital expenditure requirements for the Project;
+• Chapter 5 sets out the forecast incremental operating expenditure requirement for
+the Project to the end of the regulatory control period; and
+• Chapter 6 sets out the incremental revenue required to the end of the regulatory
+control period for the Project, together with the expected benefits for customers.
+
+2  Savings and transitional provisions also apply, which refer to ‘SA-NSW Interconnector Projects’ in clause 11.114.1 of
+the Rules, in Part ZZZP which deals with early implementation of ‘ISP priority projects’.
+3  AER, Final Decision: ElectraNet transmission determination 2018 to 2023, Attachment 6 – Capital expenditure ,
+April 2018, p. 6 – noting that Project EnergyConnect is described as ‘South Australian Energy Transformation’.
+4  AER, Final Decision, Attachment 6 – Capex, p. 19. A fourth trigger event specified in the determination is not
+applicable, as set out in Table 3-1.
+--- PDF physical page 8 ---
+Project EnergyConnect: Contingent Project Application for the South Australian component
+Page 8 of 36
+The following attachments form part of our Application:
+• Project Scope Summary – provides a detailed description of the required scope of
+works to deliver the Project.
+• Post-Tax Revenue Model  (PTRM) – is the AER’s model used to calculate the
+required incremental revenue for the remainder of the current regulatory control
+period.
+• Cost Estimate Report – sets out the detailed assumptions underpinning the
+expenditure forecasts, the procurement and delivery strategy and risk assessment
+framework.
+• ACIL Price Impact Report – provides information on the estimated customer price
+benefits of the Project.
+Further supporting documentation has also been provided to the AER on a commercial -
+in-confidence basis, including detailed capital cost inputs and estimates, a project risk
+register and procurement information.
+--- PDF physical page 9 ---
+Project EnergyConnect: Contingent Project Application for the South Australian component
+Page 9 of 36
+2. Project Summary
+2.1 Project scope
+Project EnergyConnect involves the construction of a 860 kilometre interconnector linking
+Robertstown in mid-north South Australia (SA) and Wagga Wagga in New South Wales
+(NSW) via Buronga, with an extension linking Buronga with Red Cliffs in Victoria. The
+interconnector will provide 800 MW of nominal transfer capacity in both directions.
+The scope of works in SA (the subject of this Application) includes:
+• A new 190 km 330 kV double circuit line from Robertstown to the NSW border;
+• A new 330 kV substation at Bundey near Robertstown including 275/330  kV
+transformers;
+• A new 275 kV line between Bundey and Robertstown and associated augmentation
+works at Robertstown substation, including static and dynamic reactive plant;
+• Turning the existing 275 kV line between Robertstown and Para into Tungkillo;
+• A Special Protection Scheme to detect and manage the loss of either of the
+alternating current interconnectors from SA; and
+• Associated power system studies, commissioning works and inter-network testing.
+The scope of works in NSW (the subject of a separate Contingent Project Application from
+TransGrid) includes:
+• A new 670 km 330 kV double circuit line from the SA border to Buronga to Dinawan
+to Wagga Wagga;
+• Rebuild of 220 kV line from Buronga to Red Cliffs in Victoria as a double circuit line;
+• New 330 kV Phase Shifting Transformers at Buronga (in order to share power
+transfers between new and existing interconnectors) and 330/220 kV transformers;
+• Augmentation works at the Buronga, Wagga Wagga and Red Cliffs substations;
+• A new 330 kV switching station at Dinawan;
+• Static and dynamic reactive plant at Buronga and Dinawan; and
+• Associated power system studies, commissioning works and testing.
+Project EnergyConnect has been declared to be Critical State Significant Infrastructure for
+NSW5 and a ‘Major Development’6 for SA. As a result, the SA Government has provided
+an expedited planning approval process in consultation with the Commonwealth
+Government and has also supported a range of early works activities.
+
+5  Media Release, NSW Planning and Public Spaces Minister Rob Stokes, 29 August 2019.
+6  Media Release, SA Premier Steven Marshall, 27 June 2019.
+--- PDF physical page 10 ---
+Project EnergyConnect: Contingent Project Application for the South Australian component
+Page 10 of 36
+Figure 1: Network route for Project EnergyConnect
+
+Further information is provided in the project scope summary which accompanies this
+Application.
+2.2 Regulatory Investment Test for Transmission
+In 2016, ElectraNet began exploring options to reduce the cost of providing secure and
+reliable electricity, enhance power system security in SA, and facilitate the long -term
+transition of the energy sector across the National Electricity Market (NEM) to low
+emission energy sources.
+In November 2016, we released a Project Specification Consultation Report (PSCR)7 that
+explored the technical and economic feasibility of a new interconnector between SA and
+the eastern states as well as other non -interconnector solutions, through the SA Energy
+Transformation RIT-T.
+We investigated variants of four credible options to address the identified need, comprising
+an optimised ‘ non-interconnector’ option (comprising both network and non -network
+components) as well as options involving ne w interconnectors to each of the three
+neighbouring NEM regions.
+
+7    ElectraNet, South Australian Energy Transformation RIT-T: Project Specification Consultation Report, 7 November
+2016.
+Project EnergyConnect
+--- PDF physical page 11 ---
+Project EnergyConnect: Contingent Project Application for the South Australian component
+Page 11 of 36
+In June 2018, we published a Project Assessment Draft Report (PADR) 8 which showed
+that a new 330 kV interconnector between Robertstown in mid -north SA and Wagga
+Wagga in NSW, via Buronga, was expected to deliver the greatest net market benefit.
+We worked closely with the Australian Energy Market Operator (AEMO) to coordinate the
+PADR modelling with the development of AEMO’s inaugural Integrated System Plan (ISP)
+in 2018 . The PADR also considered AEMO’s concurrent Western Victoria Renewable
+Integration RIT-T and the identification of priority Renewable Energy Zones (REZs) in the
+Riverland and Murray River areas of SA and NSW.
+On 13 February 2019, we concluded the RIT -T assessment with the publication of the
+PACR9, which confirmed that a new interconnector between SA and NSW would deliver
+substantial economic benefits as soon as it can be built.
+The PACR refined the previous preferred option to include a transmission augme ntation
+between Buronga in NSW and Red Cliffs in Victoria . The benefit from this additional
+investment was identified by AEMO in the course of investigations for its Western Victoria
+RIT-T, following close consultation with ElectraNet and TransGrid.10
+A summary of the benefits to be delivered by the Project is provided in Figure 2 below.
+Figure 2: Benefits to be delivered by Project EnergyConnect
+
+
+8  ElectraNet, South Australian Energy Transformation RIT-T: Project Assessment Draft Report, 29 June 2018.
+9  ElectraNet, South Australian Energy Transformation RIT-T: Project Assessment Conclusions Report, 13 February
+2019.
+10  Further information on this modelling is provided in Appendix E of the PACR.
+
+--- PDF physical page 12 ---
+Project EnergyConnect: Contingent Project Application for the South Australian component
+Page 12 of 36
+For NSW customers, the interconnector improves diversity of supply and access to
+cheaper renewable energy sources as the coal fleet progressively retires , while also
+unlocking significant renewable energy development along the route.
+For SA customers, the interconnector provides access to additional capacity when needed
+to replace expensive gas generation and improves power system resilience and security.
+2.3 AER’s RIT-T Determination
+On 11 April 2019, we submitted a formal request to the AER for a determination that the
+preferred option identified in our PACR for Project EnergyCo nnect satisfies the
+requirements of the RIT-T, in accordance with clause 5.16.6 of the Rules.
+On 20 January 2020, the AER made a determination approving the RIT -T assessment
+and concluding that Project EnergyConnect was the preferred option that satisfies the
+RIT-T requirements11.
+While the AER concluded that it is “satisfied the RIT-T has been successfully completed”,
+it also noted that “any significant changes to the costs of the preferred option could have
+a material impact on the outcome of the RIT-T”.
+The AER’s determination also highlighted that if the costs of the Project or any other inputs
+that may affect market benefits differed materially from those presented in the RIT-T, the
+AER would expect us to consid er whether there is a change in circumstances such that
+the RIT-T should be reapplied, and to provide evidence of that consideration to the AER.12
+Accordingly, we have undertaken an updated cost benefit assessment to consider whether
+there has been a material change in circumstances based on the latest information.
+2.4 AEMO 2020 ISP
+On 30 July 2020, AEMO released its 2020 ISP  identifying Project EnergyConnect as a
+central part of the roadmap for the transition of the power system.
+The 2020 ISP classified Project EnergyConnect as an ‘actionable ISP project’ which will
+deliver net market benefits and support energy market transition through:13
+• Lowering dispatch costs, initially in SA, through increasing access to supply options
+across regions;
+
+11  AER, Decision: South Australian Energy Transforma tion: Determination that the preferred option satisfies the
+regulatory investment test for transmission, January 2020.
+12  Ibid, p. 11.
+13  AEMO, 2020 Integrated System Plan, July 2020, p.86.
+--- PDF physical page 13 ---
+Project EnergyConnect: Contingent Project Application for the South Australian component
+Page 13 of 36
+• Facilitating the transition to a lower carbon emissions future and the adoption of new
+technologies, through improving access to high quality renewable resources across
+regions; and
+• Enhancing security of electricity supply in SA.
+AEMO finds that Project EnergyConnect is required immediately in all scenarios  it has
+considered in the ISP.
+2.5 Updated Cost Benefit Analysis
+The Rules (specifically clause 5.16.4 (z3)) require ElectraNet to consider whether, in its
+reasonable opinion, there has been a “material change in circumstances” that might lead
+to a change in the preferred option and thereby potentially require reapplication of the
+RIT-T.
+Following the publication of the AER’s determination, there have been significant changes
+in the costs and benefits of Project EnergyConnect compared to the assessment
+undertaken in the RIT-T.
+In particular, a general increase in transmission costs is being experienced across the
+NEM, with AEMO incorporating a 30% increase in costs in its 2020 ISP for transmission
+projects. A range of key input assumptions contributing to market benefits have also
+changed.
+Accordingly, we have undertaken an updated cost benefit analysis taking into account
+updated information on both costs and benefits, aligning with the inputs and assumptions
+in the 2020 ISP. Key updates include demand forecasts, committed generation projects,
+gas prices, coal prices, new entrant generator capital costs, ISP projects and Renewable
+Energy Targets.
+In its RIT-T determination, the AER disagreed with applying Minimum Capacity Factors
+(MCFs) assumed in our PACR analysis for SA gas plants in the modelling of market
+benefits. To address this concern, we have worked closely with AEMO to consider a more
+accurate representation of these generators’ operation with the MCFs removed.
+Following consultation undertaken with stakeholders on the use of variable heat rates in
+July and August 2020, o ur updated cost benefit analysis incorporates updated variable
+heat rates , developed with the assistance of Aurecon. The updated assumptions are
+closely aligned with AEMO’s calculated values in the 2020 ISP.
+AEMO has identified new emerging system security requirements f or SA due to the
+continuing growth of distributed energy resources and reducing minimum demand levels.
+These new requirements have also been reflected in our updated cost benefit analysis.
+The updated cost -benefit analysis confirms that Project EnergyConne ct remains the
+preferred option and continues to deliver positive net market benefits.
+--- PDF physical page 14 ---
+Project EnergyConnect: Contingent Project Application for the South Australian component
+Page 14 of 36
+In particular, the outcomes of the finalised cost benefit assessment demonstrate that:
+• Capital costs have risen from $1.53bn to $2.43bn ($2018-19) while gross benefits have
+risen from $1,246m to $1,866m in present value terms from the January 2020 RIT -T
+determination;
+• The Project delivers a positive net benefit of $148m in present value terms after taking
+into account the updated information on benefits and costs;
+• The outcome remains robust to further capital cost movements up to a break -even
+capital cost of $2.7bn ($2018-19);
+• Net benefits would increase with later delivery of VNI West (as expected under most
+ISP scenarios) by between $115m and $176m in present value terms; and
+• The closest ranked alternative, Victorian Option D, is found to deliver minimal net
+benefits and remains a less preferable option.
+On the basis of this updated cost benefit analysis, ElectraNet  concludes that there has
+been no material change in circumstances as defined in the Rules and the outcome of the
+RIT-T remains unchanged, consistent with the AER’s RIT-T Determination.
+We have provided the results of the updated analysis to the AER for formal confirmation.
+2.6 Stakeholder engagement
+Customer and stakeholder engagement and consultation have been a central feature
+throughout the development of this Project to ensure the identified need for investment,
+as well as the options to address it, were thoroughly tested. The extent of engagement
+and consultation on the RIT -T, which took over two years to complete, exceeded that of
+any other RIT -T undertaken in the NEM and ensures the assessment has been as
+thorough as possible.
+In addition to the three required RIT -T documents (the PSCR, PADR and  PACR) we
+released a wide range of supplementary reports, spreadsheet models, cost estimates,
+technical information and modelling methodology documents together with reports from
+independent consultants that further investigate matters raised in submission s, and
+independent customer price analysis.
+Following the publication of the PADR, we held separate public forums and ‘deep dive’
+sessions in both Adelaide and Sydney, to help explain the assessment and to hear
+stakeholders’ views. These sessions facilitated review and discussion of the assessment
+with interested parties and ensured stakeholders had an open forum to raise questions
+and queries outside of the formal submission process.
+Following these forums, we released further material in response to stakeholder requests
+to provide additional detail on the economic and wholesale market modelling undertaken,
+as well as further information on the specification of the credible options assessed.
+--- PDF physical page 15 ---
+Project EnergyConnect: Contingent Project Application for the South Australian component
+Page 15 of 36
+Our RIT-T assessment benefited from extensive stakeholder engagement having received
+over 70 submissions to the PSCR and PADR . Our PACR provided a detailed
+consideration and response to the matters raised by stakeholders.
+All consultation materials, submissions received, and actions taken to address feedback
+from stakeholders in relation to the RIT-T process are available on our website14.
+Following the conclusion of the RIT-T process in early 2019, we have continued to engage
+with stakeholders alongside our project partner, TransGrid. The purpose of the
+engagement is to continue to inform customers and other stakeholders about the SA-NSW
+interconnector and to allow them to provide their views and perspectives on the Project.
+This has included a number of individual briefings, bi -lateral meetings and stakeholder
+forums, including:
+• Project EnergyConnect stakeholder forum on 25 July 2019, held in Sydney, and
+• Project EnergyConnect stakeholder forum on 21 October 2019, held in Adelaide.
+In the course of our updated cost-benefit analysis we also held a stakeholder webinar on
+20 August 2020 and will shortly be publishing the full results of our updated cost-benefit
+analysis.
+We have also undertaken extensive local engagement with the communities along the
+interconnector route and other stakeholders interested in the Project.
+We will continue to engage with our customers and other stakeholders throughout the
+remaining stages of the regulatory approval process and during the delivery of the Project.
+2.7 Next Steps
+We are now proceeding to deliver Project EnergyConnect. The next steps involve:
+• Assessment by the AER of the expenditure and revenue requirements to deliver the
+Project, as set out in this Application;
+• Obtaining all necessary Board approvals from ElectraNet and TransGrid;
+• Concluding competitive procurement processes and finalising the design and
+construction contracts with relevant suppliers;
+• Completing environmental, cultural and development approvals; and
+• Commencing the required construction works.
+
+
+14  See https://www.electranet.com.au/projects/south-australian-energy-transformation/.
+--- PDF physical page 16 ---
+Project EnergyConnect: Contingent Project Application for the South Australian component
+Page 16 of 36
+3. Regulatory Requirements
+The regulatory requirements for contingent projects are contained in clause 6A.8.2 of the
+Rules and in the AER’s Process Guideline for Contingent Project Applications .15 The
+remainder of this chapter sets out:
+• The key information requirements to obtain an amendment to our revenue
+determination in relation to Project EnergyConnect;
+• Further information on the contingent project trigger events and confirmation that
+each of these trigger events has been satisfied for the Project;
+• Details of the commencement date and expected completion date for the Project,
+noting that the latter may be subject to change; and
+• An overview  of the pre -lodgement consultation we have undertaken  jointly with
+TransGrid.
+3.1 Information requirements to amend our revenue determination
+Clause 6A.8.2 of the Rules sets out the requirements for making an application to amend
+a revenue determination to include a contingent project , modified for  Project
+EnergyConnect by the savings and transitional provisions in clause 11.114.3. In particular,
+clause 6A.8.2(b) sets out the information that the application must provide, specifically:
+• An explanation that substantiates the occurrence of the trigger event;
+• A forecast of the total capital expenditure for the contingent project;
+• A forecast of the capital and incremental operating expenditure, for each remaining
+regulatory year which the Transmission Network Service Provider (TNSP) considers
+is reasonably required for the purpose of undertaking the contingent project;
+• How the forecast of the total capital expenditure for the contingent project meets the
+Rule threshold;
+• The intended date for commencing the contingent project (which must be during the
+regulatory control period);
+• The anticipated date for completing the contingent project (which may be after the
+end of the regulatory control period); and
+• An estimate of the incremental revenue which the TNSP considers is likely to be
+required in each remaining regulato ry year of the regulatory control period as a
+result of the contingent project being undertaken.
+
+15  AER, Process Guideline for Contingent Project Applications under the National Electricity Rules, September 2007.
+--- PDF physical page 17 ---
+Project EnergyConnect: Contingent Project Application for the South Australian component
+Page 17 of 36
+Clause 6A.8.2(f) requires the AER to accept the relevant amounts in the Application if it is
+satisfied that the amounts of forecast capital expenditure and inc remental operating
+expenditure reasonably reflect the capital expenditure criteria and operating expenditure
+criteria, taking into account the capital expenditure factors and operating expenditure
+factors, in the context of the contingent project.
+Chapters 4 and 5 of this Application set out the capital and incremental operating
+expenditure requirements for the Project respectively, together with the assumptions and
+methodology used to arrive at these forecasts.  The incremental revenue required for this
+Project and corresponding benefit to be delivered to customers is set out in Chapter 6.
+For completeness, Appendix A provides a checklist which demonstrates how the
+regulatory requirements for this Application have been addressed.
+3.2 Trigger Events
+Clause 6A.8.2(b)(1) requires ElectraNet to substantiate the occurrence of each trigger
+event relevant to a contingent project. A Contingent Project Application must be lodged
+as soon as practicable after the occurrence of the applicable trigger event(s).16
+The applicable trigger events approved by the AER in respect of the Project have all been
+satisfied as outlined in Table 3-1 below. It should be noted that the trigger event refers to
+Project EnergyConnect as the ‘ South Australian Energy Transformation ’ as the RIT -T
+process was known.
+
+16  In accordance with clause 6A.8.2(a1) of the Rules.
+--- PDF physical page 18 ---
+Project EnergyConnect: Contingent Project Application for the South Australian component
+Page 18 of 36
+Table 3-1: Status of EnergyConnect contingent project trigger events
+Trigger event  Status
+1. Successful completion of the South
+Australian Energy Transformation RIT-T
+with the identification of a preferred option
+or options:
+(i) demonstrating positive net economic
+benefits, and/or
+(ii) addressing a reliability corrective
+action.
+Complete. On 13 February 2019, ElectraNet
+published a PACR for the South Australian
+Energy Transformation RIT-T in which the
+preferred option demonstrated positive net
+economic benefits.
+2. Determination by the AER that the
+proposed investment satisfies the RIT-T.
+Complete. On 24 January 2020, the AER
+published its RIT-T Determination that
+confirmed the preferred option satisfied the
+RIT-T. The conditions of that decision have
+also been satisfied as explained in section 2.4.
+3. ElectraNet Board commitment to proceed
+with the project subject to the AER
+amending the revenue determination
+pursuant to the Rules.
+Complete. On 29 September 2020 the Board
+of ElectraNet committed to proceed with the
+Project, subject to the AER awarding
+incremental regulated revenue commensurate
+with the capital and operating costs for
+ElectraNet’s section of the project, ElectraNet
+obtaining  funding as necessary and on terms
+satisfactory to it, and the Board of TransGrid
+making a firm commitment to proceed with the
+NSW component of the Project following the
+AER’s revenue determination on its
+corresponding application.  A copy of the
+Board’s commitment is provided in Appendix B
+of this Application.
+4. Clauses 1 and 2 do not apply if a change in
+the law occurs that allows the inclusion of
+the proposed investment in ElectraNet's
+maximum allowed revenue under this
+revenue determination even if a RIT-T is
+not carried out.
+Not applicable. No such change to the law
+has occurred.
+As the relevant trigger events have now occurred, this Application presents the required
+information for the AER to make a determination to approve the total incremental
+expenditure for the Project and to amend our current revenue determination , in
+accordance with clause 6A.8.2 of the Rules.
+
+--- PDF physical page 19 ---
+Project EnergyConnect: Contingent Project Application for the South Australian component
+Page 19 of 36
+3.3 Project Timing
+ElectraNet has undertaken a range of early works including route and site selection works
+for the Project, as well as environmental and social studies required for obtaining planning
+approvals. This has included e xtensive community engagement , including face-to-face
+landholder and stakeholder consultation about the proposed route and easement
+acquisition processes.
+For the purpose of this Application, the applicable dates for commencement and
+completion of the Project are as follows:
+• Date for commencement of the contingent project – 1 July 2018
+• Anticipated date for completing construction – 31 December 2023
+This is expected to be followed by a period of commissioning and inter-network testing.
+We also continue to explore opportunities to deliver the Project earlier, if feasible.
+This could bring forward the anticipated completion date above , and the timing of the
+capital expenditure and revenue required to deliver the Project.
+Should this occur , ElectraNet will submit updated project and expenditure timing
+information to the AER to enable this to be taken into consideration during its assessment
+of this Application.
+3.4 Pre-lodgement Consultation
+The AER’s Process Guideline for Contingent Project Applications under the Rules
+encourages transmission companies to engage with the AER pr ior to lodgement of a
+Contingent Project Application  to assist both the AER and TNSP to satisfy the
+requirements of the Rules.
+We undertook the pre-lodgement process prior to formal lodgement of this Application with
+the provision of a range of background and supporting information to the AER together
+with a draft copy of this Application.
+We also provided a briefing to our Consumer Advisory Panel on the Application and invited
+feedback as part of this consultation.
+
+
+--- PDF physical page 20 ---
+Project EnergyConnect: Contingent Project Application for the South Australian component
+Page 20 of 36
+4. Forecast Capital Expenditure
+This chapter presents our forecast capital expenditure requirements for the SA component
+of the Project in accordance with clauses 6A.8.2(b) (2)-(4) of the NER. We note that
+TransGrid is lodging a separate Contingent Project Application in relation to the NSW
+component of the Project.
+We are confident that our  capital expenditure forecast is prudent and efficient , having
+regard to the capex objectives, criteria and factors specified in  the NER 17. The total
+forecast capital expenditure satisfies the contingent project expenditure threshold.
+4.1 Basis for capital expenditure forecast
+Table 4-1 below provides a summary breakdown of the cost components and the basis of
+the capital expenditure forecast for this Application. Market pricing makes up the majority
+of the capital costs (over 75%).
+ Table 4-1: Breakdown of forecast capital expenditure and basis ($m 2017-18)
+Capex Item  Cost estimate18 Basis for Forecast Expenditure
+Transmission line works 258.7 Market pricing from credible competing
+vendors.
+Substation works 108.3 Market pricing from credible competing
+vendors.
+Land access & approvals 21.3 Independent valuations of easement costs
+and forecast environmental and cultural
+heritage requirements.
+Project delivery costs 33.7 Reflects current delivered costs and
+benchmarks based on detailed resource
+assessment.
+Special Protection Scheme 18.9 Independent estimate of expected scope and
+cost of the scheme.
+Inter-network testing 13.4 Estimate of testing costs and requirements
+developed with TransGrid and AEMO.
+Project risk 16.3 Detailed probabilistic risk assessment
+(reflecting a P50 estimate).
+Total 470.7
+
+
+
+17  As required by clause 6A.8.1(b)(2)(ii) of the Rules.
+18  Excluding prior period expenditure of $3.3 million ($2017-18). The total project cost for the SA component of $474.0
+million ($2017-18) is equivalent to a cost of approximately $483 million ($2018-19) as applied in our updated cost
+benefit assessment.
+--- PDF physical page 21 ---
+Project EnergyConnect: Contingent Project Application for the South Australian component
+Page 21 of 36
+4.1.1 Basis of capital expenditure estimates
+The capital expenditure forecasts are based on competitive market pricing obtained from
+prospective vendors, current delivered costs and prevailing market rates. This information
+is drawn from a range of sources, including tender responses, market information, recently
+completed projects, purchased equipment and current labour and foreign exchange rates.
+Estimated capital costs have also been revised to account for a range of other factors
+through the course of detailed project planning , including detailed assessment of project
+risks, required route refinements , environmental approval requirements, and  more
+recently the impacts of COVID-19.
+We are undertaking a comprehensive procurement process to deliver the Project at the
+lowest practicable cost, whilst ensuring that risk is appropriately managed in the delivery
+model. Further details of our procurement process are provided to the AER on a
+confidential basis.
+A balanced approach will be  applied to the tender assessment to ensure the core
+objectives of the Project are met, including safety, environmental protection and cultural
+heritage impacts, in addition to cost, quality, risk and delivery requirements.
+Project delivery costs have been forecast based on current costs, consistent with
+benchmarks accepted by the AER in previous revenue determination processes  and
+recent decisions19.
+4.1.2 Basis of project risk estimates
+An appropriate project risk allowance has been calculated based on the established
+project risk management methodology previously acce pted by the AER. 20 This
+methodology involves a detailed evaluation and probabilistic assessment of known risks
+that reflect the stage of the Project in the delivery cycle and complexity of the works
+involved in a greenfield line project of this nature.
+The steps taken in performing these risk assessments are outlined below:
+• Project risks were identified through a process of expert internal review and
+assessment across the relevant project disciplines. A description of each risk is
+captured and documented within a risk register.
+
+19  Most relevantly, the AER recently approved project delivery costs representing 8.9% of total project costs in its
+September 2020 Contingent Project Decision on ElectraNet’s Eyre Peninsula Reinforcement, a greenfield line project
+of similar scale and complexity. Project delivery costs for Project EnergyConnect compare favourably at 7.2% of
+project costs.
+20  Consistent with AER’s Expenditure Forecast Assessment Guideline (2013) and the risk allowance methodology
+used in ElectraNet’s approved Main Grid System Strength Contingent Project Application and recently approved
+Eyre Peninsula Reinforcement Contingent Project Application.
+--- PDF physical page 22 ---
+Project EnergyConnect: Contingent Project Application for the South Australian component
+Page 22 of 36
+• A risk assessment was undertaken to identify appropriate mitigation measures and
+quantify the cost impact of the residual risk. The detailed inputs to this risk
+assessment are determined with the relevant subject matter experts.
+• Monte Carlo Analysis was performed to simulate project risk cost outcomes on a
+probabilistic basis, based on the likelihood of occurrence and range of potential cost
+impacts across each of the identified risks  on a 50% probability of exceedance
+(‘P50’) basis through a large number of simulations.
+• The outcomes of this risk assessment are used to establish the risk allowance
+component of the capital cost estimate.
+Further details of our risk register and the associated allowance are provided to the AER
+on a confidential basis.
+4.2 Capital Expenditure Forecast by Year
+As required by clause 6A.8.2(b)(3) of the NER, our forecast incremental capital
+expenditure for the Project for each year of the regulatory control period is presented in
+Table 4-2 below.
+ Table 4-2: Capital expenditure forecast ($m 2017-18)
+  2018-19 2019-20 2020-21 2021-22 2022-23 2023-24 Project
+Total
+Total
+2018-19
+to
+2022-23
+Capital
+expenditure21 5.0 4.1 7.2 74.1 143.9 236.4 470.7 234.3
+    Total may not add due to rounding
+The expenditure profile above reflects the delivery schedule for the Project based on
+construction by 31 December 2023.
+4.3 RIT-T cost comparison
+Table 4-3 below compares the  capital expenditure forecast proposed in this Application
+with the estimated capital cost of the project modelled in the PACR.
+ Table 4-3: Forecast and PACR capex comparison ($m 2017-18)
+Forecast  PACR22 Updated estimate
+SA component 374 474
+Since publishing the PACR in February 2019, we have updated the capital cost estimates
+
+21  Excluding prior period expenditure of $3.3 million ($2017-18).
+22  Equivalent to a cost of $380 million ($2018 -19) as detailed in the South Australian Energy Transformation PACR ,
+February 2019, table 17, p210.
+--- PDF physical page 23 ---
+Project EnergyConnect: Contingent Project Application for the South Australian component
+Page 23 of 36
+to reflect the market pricing outcomes of the competitive procurement and contracting
+process. Capital costs have also been revised  to account for a r ange of other factors
+identified through the course  of our detailed project planning , including assessment of
+project risks, line route diversions to avoid environmentally sensitive areas, inter-network
+testing requirements, additional substation works and environmental approval
+requirements.
+This has resulted in a capital expenditure forecast that is approximately 27% higher than
+the estimate in the RIT -T. This is consistent with the assumptions of AEMO’s 2020 ISP
+which assumes an increase of 30% in th e costs of ISP projects compared with previous
+estimates based on prevailing transmission costs.
+As explained in section 2.5, we have updated the cost benefit modelling with the latest
+information on project cost and timing and other key inputs . The update d modelling
+demonstrates that the preferred option identified in the PACR continues to deliver positive
+net market benefits and remains the top-ranked option.
+4.4 Capital Expenditure Threshold
+To qualify as a contingent project, the proposed capital ex penditure at the time of
+ElectraNet’s revenue determination was required to exceed either $30 million or 5% of the
+Maximum Allowed Revenue (MAR) for the first year of the regulatory control period,
+whichever is the greater.23
+As the AER determined a maximum allowed revenue for ElectraNet for the first year of
+the current regulatory control period of $305.3  million (smoothed), 5% of this total is
+approximately $15.3 million. Therefore, the applicable threshold for a contingent project is
+$30 million. A s the estimated cost of the Project exceeds this figure, the threshold
+requirements of clause 6A.8.2(b)(4) of the Rules are satisfied.
+4.5 CESS Capital Expenditure
+The incremental capital expenditure above results in an increase in the ex-ante capital
+expenditure forecast for the purposes of the Capital Expenditure Sharing Scheme (CESS)
+in accordance with the requirements of the scheme.24
+The revised capital expenditure forecast to be used to calculate efficiency gains in the
+2018-19 to 2022 -23 regulatory control period is outlined in Table 4 -4 below, compared
+with the existing target capex for the CESS.
+
+23  In accordance with clause 6A.8.1(b)(2)(iii).
+24  AER, Better Regulation – Capital Expenditure Incentive Guideline for Electricity Network Service Providers, Nov 2013,
+p.9.
+--- PDF physical page 24 ---
+Project EnergyConnect: Contingent Project Application for the South Australian component
+Page 24 of 36
+ Table 4-4: Forecast capex for the CESS ($m Jun 2017-18)
+  2018-19 2019-20 2020-21 2021-22 2022-23 Total
+Updated target capex
+for the CESS 117.2 214.2 184.8 320.2 241.1 1077.5
+Existing target capex
+for the CESS25 111.8 210.0 177.5 245.2 95.5 840.0
+  Total may not add due to rounding
+4.6 Conclusion
+The total forecast capital expenditure for the purpose of this Application  is
+$470.7 million26 ($2017-18) for the SA component of the Project.
+We are confident that this forecast  is both efficient and prudent (in accordance with  the
+capital expenditure criteria) and that it meets the required capital expenditure objectives
+set out in the Rules.
+
+25  As adjusted by the AER’s recent decision for the Eyre Peninsula Reinforcement Contingent Project Application.
+26  Excluding prior period expenditure of approximately $3.3 million already included in the RAB.
+--- PDF physical page 25 ---
+Project EnergyConnect: Contingent Project Application for the South Australian component
+Page 25 of 36
+5. Forecast Incremental Operating Expenditure
+This chapter presents the forecast incremental operating expenditure requirements for the
+Project, in accordance with the requirements of clause 6A.8.2(b)(3) of the Rules.
+Whilst the Project will lead to higher maintenance expenditure once commissioned, the
+timing of the Project is such that the incremental costs associated with maintenance are
+not expected to occur until the next regulatory control period. Nevertheless, we do expect
+to incur some minor incremental operating expenditure in advance of the commissioning
+date, as explained below.
+We are confident that our  incremental operating expenditure  forecast is prudent and
+efficient and satisfies the operating expenditure criteria and operating expenditure factors
+set out in the Rules.
+5.1 Basis for operating expenditure forecast
+We have determined the incremental operating expenditure for the Project in a manner
+consistent with the methodology and models accepted by the AER in its  revenue
+determination for ElectraNet for the current regulatory control period.
+The operating expenditure forecast for the Project comprises:
+• A minor increase in land tax;
+• An additional specialist system and protection engineering resource (1 FTE); and
+• A minor increase in debt raising costs, based on benchmark costs calculated using
+the AER’s PTRM.
+The increased complexity of the power system is requiring more complex special
+protection schemes to ensure the resilience of the power system, and the introduction of
+a new interconnector will result in a fundamental change to the transmission system.
+Whereas currently SA is at the end of a mostly linear NEM transmission system, the
+Project will have the effect of ‘meshing’ SA with the NEM by creating two alternating
+current connections – one via the Heywood interconnector to Victoria and the other via
+Project EnergyConnect to NSW.
+Regular functional review of all special protection schemes is required, and this effort will
+increase significantly with the introduction of Project EnergyConnect to the network. The
+need for an additional specialist engineering resource  reflects the ongoing resource
+commitment required for regular functional review of all special protection scheme s to
+manage the additional system and operational complexities associated with the Project.
+As a minimum, the following schemes will have to be redesigned since the introduction of
+Project EnergyConnect has a fundamental impact on their operation:
+• Under Frequency Load Shedding
+• Over Frequency Generation Shedding
+--- PDF physical page 26 ---
+Project EnergyConnect: Contingent Project Application for the South Australian component
+Page 26 of 36
+• System Integrity Protection Scheme
+• Other schemes that may be impacted (e.g. generator runback schemes)
+The increased rate of change in the power system makes this an ongoing requirement. It
+is also expected that future Power System Frequency Risk Reviews by AEMO will uncover
+the requirement for more special protection schemes to be implemented, either via the
+declaration of Protected Events, or additional emergency frequency control schemes,
+adding to this requirement.
+5.2 Incremental Operating Expenditure Forecast
+The incremental annual operating expenditure forecast for the Project is as follows:
+ Table 5-1: Incremental operating expenditure ($m 2017-18)
+Component 2018-19 2019-20 2020-21 2021-22 2022-23 Total
+Controllable operating
+expenditure 0.0 0.0 0.0 0.1 0.2 0.3
+Debt raising costs 0.0 0.0 0.0 0.0 0.1 0.1
+Incremental operating
+expenditure 0.0 0.0 0.0 0.1 0.3 0.4
+5.3 EBSS Operating Expenditure
+The incremental operating expenditure above results in a minor adjustment to the
+operating expenditure forecast for the purposes of the Efficiency Benefit Sharing Scheme
+(EBSS) in accordance with the requirements of the scheme.27
+The revised operating expenditure forecasts to be used to calculate efficiency gains in the
+2018-19 to 2022 -23 regulatory control period are shown in Table 5 -2 below, compared
+with the existing target operating expenditure for the EBSS.
+
+27  AER, Better Regulation – Efficiency Benefit Sharing Scheme  for Electricity Network Service P roviders, November
+2013, p.9.
+--- PDF physical page 27 ---
+Project EnergyConnect: Contingent Project Application for the South Australian component
+Page 27 of 36
+ Table 5-2: Forecast operating expenditure for the EBSS ($m Jun 2017-18)
+Component 2018-19 2019-20 2020-21 2021-22 2022-23 Total
+Updated opex allowance 90.4 90.9 92.5 93.7 93.0 460.4
+Less debt raising costs (1.3) (1.3) (1.3) (1.4) (1.5) (6.7)
+Less network support
+costs (8.4) (8.4) (8.4) (8.4) (7.0) (40.5)
+Updated target opex
+for the EBSS  80.7 81.2 82.8 84.0 84.5 413.3
+Existing target opex for
+the EBSS28 80.7 81.2 82.8 83.8 84.3 412.9
+  Totals may not add due to rounding
+5.4 Conclusion
+The incremental impact on operating expenditure for the Project in the remaining years of
+the regulatory control period is $0.4 million ($2017-18).
+We are confident that our forecast operating expenditure is both efficient and prudent (in
+accordance with  the operating expenditure criteria) and that it meets the operating
+expenditure objectives specified in the Rules.
+
+
+
+28  As adjusted by the AER’s recent decision for the Eyre Peninsula Reinforcement Contingent Project Application.
+
+--- PDF physical page 28 ---
+Project EnergyConnect: Contingent Project Application for the South Australian component
+Page 28 of 36
+6. Incremental Revenue Requirements
+This chapter presents an estimate of the incremental revenue likely to be required for each
+remaining regulatory year of the regulatory control period as a result of the Project, in
+accordance with the requirements of Clause 6A.8.2(b)(7) of the Rules.
+Our proposed incremental revenue is consistent with the incremental capital and operating
+expenditure as presented in Chapters 4 and 5 above.
+We have modelled the required incremental revenue on a nominal basis using the AER’s
+PTRM for the current period (which is updated annually by the AER for the trailing average
+cost of debt) as most recently updated for the approved revenue associated with the Eyre
+Peninsula Reinforcement Contingent Project 29. A copy of th e PTRM accompanies this
+Application.
+The capital expenditure forecast has been classified in a manner consistent with the AER’s
+roll forward model to allow for the calculation of the Regulated Asset Base at the close of
+the current regulatory control period  in accordance with clause 6A.8.2(b)( 7)(ii) of the
+Rules.
+6.1 WACC
+Clause 6A.8.2(b)( 7)(iii) of the Rules states that the  incremental revenue requirements
+must reflect the prevailing rate of return determined by the AER for the current regulatory
+control period. The WACC parameters set out in Table 6-1 below, which we have applied
+in this Application, satisfy this Rule requirement.
+ Table 6-1: WACC Parameters30
+Parameter  AER Approved Value
+Risk-free rate 2.87%
+Forecast inflation  2.45%
+Market risk premium  6.50%
+Gearing  60.0%
+Equity beta  0.7
+Nominal pre-tax return on debt  4.35%
+Nominal post-tax return on equity  7.40%
+Nominal vanilla WACC  5.57%
+
+29  The most recently approved PTRM was published by the AER in its decision on the Eyre Peninsula
+Reinforcement Contingent Project Application.
+30  As last updated by the AER in March 2020 in its annual trailing average cost of debt update.
+
+--- PDF physical page 29 ---
+Project EnergyConnect: Contingent Project Application for the South Australian component
+Page 29 of 36
+6.2 Depreciation
+Clause 6A.8.2(b)( 7)(iv) of the Rules requires that the calculation of the estimated
+incremental revenue be consistent with the way depreciation is calculated under clause
+6A.6.3. The incremental annual regulatory depreciation shown in  Table 6-2 below has
+been calculated using the PTRM.
+ Table 6-2: Incremental Regulatory Depreciation ($m nominal)
+Component 2018-19 2019-20 2020-21 2021-22 2022-23 Total
+Approved regulatory
+depreciation 44.2 63.5 65.1 73.8 65.7 312.4
+Project EnergyConnect
+incremental regulatory
+depreciation
+0.0 0.3 -0.2 -0.4 -2.5 -2.9
+Revised regulatory
+Depreciation 44.2 63.7 64.9 73.4 63.2 309.5
+  Totals may not add due to rounding
+The updated total regulatory depreciation forecast for the 2018 -19 to 2022-23 regulatory
+control period will be applied in calculating our opening RAB at the commencement of the
+following regulatory control period, consistent with the forecast depreciation approach
+approved by the AER in the current revenue determination.31
+6.3 Tax allowance
+The incremental annual net tax allowance shown in Table 6-3 below has been calculated
+using the PTRM.
+ Table 6-3: Incremental Tax Allowance ($m nominal)
+Component 2018-19 2019-20 2020-21 2021-22 2022-23 Total
+Approved tax allowance 4.9 7.5 8.4 9.9 10.1 40.7
+Project EnergyConnect
+incremental tax
+allowance
+0.0 0.0 0.0 0.0 0.1 0.2
+Revised Tax Allowance 4.9 7.5 8.4 9.9 10.2 40.8
+  Totals may not add due to rounding
+
+31  AER, ElectraNet transmission determination 2018 to 2023, April 2018, p13.
+--- PDF physical page 30 ---
+Project EnergyConnect: Contingent Project Application for the South Australian component
+Page 30 of 36
+6.4 Incremental revenue requirements for each year to end of period
+Based on the estimates provided above and using the PTRM, we have calculated our
+incremental annual building block revenue requirements for the Project as shown in
+Table 6-4.
+ Table 6-4: Incremental Revenue Requirement ($m nominal)
+Component 2018-19 2019-20 2020-21 2021-22 2022-23 Total
+Return on capital 0.0 0.3 0.5 1.0 5.7 7.6
+Regulatory depreciation 0.0 0.3 -0.2 -0.4 -2.5 -2.9
+Operating expenditure 0.0 0.0 0.0 0.1 0.3 0.5
+Revenue Adjustments 0.0 0.0 0.0 0.0 0.0 0.0
+Net tax allowance 0.0 0.0 0.0 0.0 0.1 0.2
+Unsmoothed revenue
+requirement  0.0 0.6 0.3 0.7 3.6 5.3
+  Totals may not add due to rounding
+6.5 Amended maximum allowed revenue
+The AER’s final decision on the annual building block revenue requirement for the current
+regulatory control period is set out in Table 6 -5 (as revised annually by the AER for the
+annual trailing average cost of debt update32) together with the calculation of the amended
+MAR required for the Project.
+Table 6-5: Amended annual building block revenue requirement ($m nominal)
+Component 2018-19 2019-20 2020-21 2021-22 2022-23 Total
+AER annual building
+block revenue
+requirement
+286.1 314.5 327.0 349.5 354.6 1,631.7
+Project EnergyConnect
+revenue requirement 0.0 0.6 0.3 0.7 3.6 5.3
+Amended annual
+revenue requirement
+(unsmoothed)
+286.1 315.2 327.3 350.2 358.2 1,637.0
+  Totals may not add due to rounding
+The r ecovery of the incremental revenue approved by the AER will commence in the
+2021-22 regulatory year, in accordance with ElectraNet’s approved Transmission Pricing
+Methodology.
+
+32  As updated for the incremental revenue approved for the Eyre Peninsula Reinforcement Contingent Project.
+--- PDF physical page 31 ---
+Project EnergyConnect: Contingent Project Application for the South Australian component
+Page 31 of 36
+Table 6-6 below sets out the updated MAR and X factors for the current regulatory control
+period.
+ Table 6-6: Amended maximum allowed revenue ($m nominal)
+Component 2018-19 2019-20 2020-21 2021-22 2022-23 Total
+MAR (smoothed) 305.3 312.5 322.3 338.5 355.4 1,634.0
+X Factor 14.85% 0.08% -0.67% -2.49% -2.49%
+  Totals may not add due to rounding
+
+The incremental revenue requirement has been smoothed in order to minimise impacts
+on customer prices over time, in a manner consistent with the requirements of the Rules
+that:
+• Provides an equivalent revenue outcome in net present value terms; and
+• Ensures the revenue to be recovered in the last year of the regulatory control period
+is as close as reasonably possible to the unsmoothed revenue requirement.33
+
+Under the approach above, the smoothed incremental revenue requirement does not
+commence unt il 2021-22, aligning with the first year in which revenue recovery can
+commence under the annual transmission pricing process.34
+
+
+
+33  In accordance with clause 6A.6.8(c).
+34  Noting that transmission prices have already been published under the Rules for 2020-21.
+--- PDF physical page 32 ---
+Project EnergyConnect: Contingent Project Application for the South Australian component
+Page 32 of 36
+6.6 Customer bill impact
+Updated modelling based on the latest cost estimates prepared for this Application
+confirms that the preferred option identified in the PACR continues to have positive net
+market benefits and remains the top -ranked option using updated inputs aligned with
+AEMO’s 2020 ISP.
+ElectraNet also engaged ACIL Allen to undertake independent market modelling to
+estimate the customer bill impacts of Project EnergyConnect. ACIL Allen’s modelling
+indicates that the Project will significantly reduce customers’ bills in SA, as the increase in
+network costs to fund the Project are offset more than tenfold by reduced wholesale
+energy prices.
+Their analysis shows a n expected  net average reduction of $100 per annum per
+residential customer in SA, comprising:
+• An increase in network costs of approximately $10 per annum per customer; and
+• A reduction in wholesale energy prices of $110 per annum per customer.
+Their analysis also shows a corresponding reduction of over $200 per annum per small
+business customer in SA, comprising:
+• An increase in network costs of approximately $20 per annum per customer; and
+• A reduction in wholesale energy prices of $221 per annum per customer.
+A copy of the independent Price Impact Report from ACIL Allen accompanies this
+application.
+--- PDF physical page 33 ---
+Project EnergyConnect: Contingent Project Application for the South Australian component
+Page 33 of 36
+
+
+
+
+
+
+--- PDF physical page 34 ---
+ Project EnergyConnect: Contingent Project Application for the South Australian component
+
+
+
+
+
+
+Page 34 of 36
+
+Appendix A Requirements Checklist
+The purpose of this table is to demonstrate compliance with the contingent project application
+information requirements specified in clause 6A.8.2(b) of the Rules.
+
+Rule 6A.8.2(b) requirements Reference in Application
+(1) an explanation that substantiates the occurrence of the trigger
+event;
+Section 3.2 and Appendix B
+(2) a forecast of the total capital expenditure for the contingent project; Section 4.2
+(3) a forecast of the capital and incremental operating expenditure, for
+each remaining regulatory year which the Transmission Network
+Service Provider considers is reasonably required for the purpose
+of undertaking the contingent project;
+Sections 4.2 and 5.3
+(4) how the forecast of the total capital expenditure for the contingent
+project meets the threshold as referred to in clause 6A.8.1(b)(2)(iii);
+Section 4.4
+(5) the intended date for commencing the contingent project (which
+must be during the regulatory control period);
+Section 3.3
+(6) the anticipated date for completing the contingent project (which
+may be after the end of the regulatory control period); and
+Section 3.3
+(7) an estimate of the incremental revenue which the Transmission
+Network Service Provider considers is likely to be required to be
+earned in each remaining regulatory year of the regulatory control
+period as a result of the contingent project being undertaken as
+described in subparagraph (3), which must be calculated:
+(i) in accordance with the requirements of the post-tax revenue
+model referred to in clause 6A.5.2;
+(ii) in accordance with the requirements of the roll forward model
+referred to in clause 6A.6.1(b);
+(iii) using the allowed rate of return for that Transmission Network
+Service Provider for the regulatory control period as determined
+in accordance with clause 6A.6.2;
+(iv) in accordance with the requirements for depreciation referred to
+in clause 6A.6.3; and
+(v) on the basis of the capital expenditure and incremental
+operating expenditure referred to in subparagraph (b)(3).
+Section 6.4 and 6.5
+--- PDF physical page 35 ---
+ Project EnergyConnect: Contingent Project Application for the South Australian component
+
+
+
+
+
+
+Page 35 of 36
+
+Appendix B Board Approval
+
+
+
+--- PDF physical page 36 ---
+
+
+

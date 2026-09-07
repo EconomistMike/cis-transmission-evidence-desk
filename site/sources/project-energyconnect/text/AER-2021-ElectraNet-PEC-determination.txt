@@ -1,0 +1,1141 @@
+--- PDF physical page 1 ---
+
+
+
+
+
+
+
+
+
+
+FINAL DECISION
+
+ElectraNet
+Contingent Project
+
+Project EnergyConnect
+
+May 2021
+
+--- PDF physical page 2 ---
+
+
+© Commonwealth of Australia 2021
+This work is copyright. In addition to any use permitted under the Copyright Act 1968,
+all material contained within this work is provided under a Creative Commons
+Attributions 3.0 Australia licence, with the exception of:
+ the Commonwealth Coat of Arms
+ the ACCC and AER logos
+ any illustration, diagram, photograph or graphic over which the Australian
+Competition and Consumer Commission does not hold copyright, but which may be
+part of or contained within this publication. The details of the relevant licence
+conditions are available on the Creative Commons website, as is the full legal code
+for the CC BY 3.0 AU licences.
+Requests and inquiries concerning reproduction and rights should be addressed to the:
+
+Director, Corporate Communications,
+Australian Competition and Consumer Commission,
+GPO Box 3131,
+Canberra ACT 2601
+or publishing.unit@accc.gov.au.
+Inquiries about this publication should be addressed to:
+Australian Energy Regulator
+GPO Box 520
+Melbourne  Vic  3001
+Tel: 1300 585 165
+Email: AERInquiry@aer.gov.au
+
+AER reference: 65362
+--- PDF physical page 3 ---
+1
+
+Executive Summary
+Project EnergyConnect is a proposed new high-voltage power line connecting South
+Australia at Robertstown and New South Wales at Wagga Wagga, together with a
+spur line linking to Victoria at Red Cliffs. It will be jointly constructed and operated by
+ElectraNet (South Australia) and TransGrid (New South Wales).
+ElectraNet has applied to the Australian Energy Regulator (AER) to increase its
+revenue allowance to fund construction of the South Australian component of the
+project. This is the final step in the process before ElectraNet is entitled to begin
+recovering the costs of the project from customers.
+ElectraNet forecast capital expenditure for the South Australian component of the
+project of $468.6 million ($2017-18). This component of the project is proposed to
+be completed by March 2023.
+Our role is to determine the incremental revenues that will be added to ElectraNet's
+revenue allowance, and the forecast prudent and efficient capital expenditure and
+operating expenditure required to deliver the project.
+Table 1 sets out the incremental revenues that will be added to ElectraNet's revenue
+allowance, the forecast prudent and efficient capital expenditure and operating
+expenditure required to deliver the project, and the estimated impact on the
+transmission component of residential customer electricity bills in South Australia.
+Table 1 Project EnergyConnect contingent project — assessment of
+forecast expenditure, revenues and bill impact — South Australia
+ Determination
+Incremental revenue to be recovered from customers
+in 2022-23  $10.2 million
+Indicative increase in residential electricity bills in
+South Australia in 2022-23   $6
+Indicative increase in residential electricity bills in
+South Australia between 2023-24 and 2027-28 $17 p.a.
+Forecast capital expenditure ($2017-18) $457.4 million
+Forecast operating expenditure ($2017-18) $0.5 million
+Source:  AER analysis.
+ElectraNet has demonstrated the project will proceed
+Contingent projects are significant network augmentation projects that may arise
+during a regulatory control period but the need and or timing is uncertain. While the
+expenditures for such projects do not form part of the total forecast expenditure in a
+normal revenue determination, the project costs may ultimately be recovered from
+customers if certain conditions are met (also called a 'trigger event').
+--- PDF physical page 4 ---
+2
+
+On 30 April 2018, we released our final decision on ElectraNet's revenue
+determination for the 2018–23 regulatory control period. This final decision
+established three necessary conditions that would allow ElectraNet to recover the
+prudent and efficient costs of Project EnergyConnect from customers:
+ successful completion of the South Australian Energy Transformation regulatory
+investment test for transmission (RIT-T) with the identification of a preferred
+option or options: (i) demonstrating positive net economic benefits; and/or (ii)
+addressing a reliability corrective action
+ determination by the AER that the proposed investment satisfies the RIT-T, and
+ ElectraNet Board commitment to proceed with the project subject to the AER
+amending the revenue determination pursuant to the Rules.
+We are satisfied that all three conditions have been met and as such ElectraNet is
+now entitled to recover revenues from consumers to deliver the project.
+In February 2019, ElectraNet completed the South Australia Energy Transformation
+RIT-T demonstrating that a new SA-NSW interconnector was the preferred option
+that maximised net economic benefits. This process was undertaken by ElectraNet
+to explore options for reducing the cost of providing secure and reliable electricity to
+South Australia in the near term, while facilitating the longer-term transition of the
+energy sector across the National Electricity Market (NEM).
+On 24 January 2020, we determined under clause 5.16.6 of the NER that the
+preferred option identified by ElectraNet’s RIT-T satisfies the RIT-T requirements.
+Under the NER, ElectraNet is required to re-apply the RIT-T if, in its reasonable
+opinion, Project EnergyConnect is no longer the preferred option that maximises the
+net economic benefits (unless the AER determines otherwise).
+In September 2020, ElectraNet published an updated cost benefit analysis that
+accounted for revised project costs, and inputs and assumptions from the Australian
+Energy Market Operator’s 2020 Integrated System Plan. This updated analysis
+indicated that the net benefits of the project are likely to be positive and that the
+project remains the preferred option. Therefore, ElectraNet concluded that there is
+no need to reapply the RIT-T for this project.
+On 28 September 2020, we advised ElectraNet that its updated cost benefit analysis
+provided a not unreasonable basis for its opinion that the project remains the
+preferred option.
+On 31 March 2021, ElectraNet published a review of whether recent market
+developments could result in a material change of circumstances that may lead to
+the project no longer being the preferred option. ElectraNet's assessment concluded
+that the announcements were likely to have an overall positive impact on the
+modelled net benefits of the project, and that it is not reasonably likely that there has
+been a material change of circumstances. This was supported by further analysis
+undertaken by AEMO.
+--- PDF physical page 5 ---
+3
+
+On 30 March 2021, the ElectraNet Board made a resolution committing to proceed
+with the project subject to the AER amending its revenue determination.
+The forecast costs of Project EnergyConnect
+The forecast costs that are reasonably required to deliver the project is the key
+driver of the incremental revenues that would be recovered from consumers.
+ElectraNet's application proposed $468.6 million ($2017-18) in capex to undertake
+the Project EnergyConnect contingent project. We have examined ElectraNet's
+proposed capex forecast and our view is that a reasonable estimate of prudent and
+efficient capex required to deliver the project is $457.4 million ($2017-18). This is
+2.3 per cent less than ElectraNet's proposal.
+The majority of ElectraNet's forecast capex would be incurred by an efficient and
+prudent operator to deliver this project. Approximately 78 per cent of the forecast
+capex has been market tested through a competitive tendering process. While this
+process is ongoing, ElectraNet's forecast capex is likely, in large part, to reflect a
+realistic expectation of actual costs that can be delivered by the market. The
+proposed scope of the project that is reflected in the tendered costs is consistent
+with the necessary works to construct and install new transmission lines and deliver
+the identified needs of the project.
+While the tendering process has been competitive and has assisted in determining a
+reasonable estimate of costs, we consider that there remains scope for ElectraNet
+to lower overall project costs as it finalises both the tender process and the project
+design. In particular, there remain opportunities for ElectraNet to find further cost
+savings and efficiencies in transmission design and construction methods.
+We also consider that ElectraNet has overstated project risk. ElectraNet has
+adopted a reasonably transparent and prudent probabilistic approach to identifying
+and quantifying project risks. However, in our December 2020 preliminary
+assessment, we identified some specific concerns with ElectraNet's approach to
+quantifying the likelihood of risks occurring. In response to our preliminary
+assessment, ElectraNet acknowledged our concerns that its approach overstated
+the likelihood of risks occurring and provided additional information to support the
+calculation of project risk costs.
+Next steps
+The incremental revenues we have approved in this determination will now be
+added to ElectraNet's total maximum allowed revenues for the 2018–23 regulatory
+control period. This follows the process set out in clause 6A.8.2 of the NER.
+The increase in allowed revenues will be reflected in customer bills in 2022-23, the
+final year of the regulatory control period. The actual project costs will added to
+ElectraNet's regulated asset base at the beginning of the next regulatory control
+period.
+
+--- PDF physical page 6 ---
+4
+
+Contents
+
+Executive Summary ........................................................................................1
+Contents...........................................................................................................4
+ Project EnergyConnect contingent project ............................................5
+ Our contingent project determination.....................................................6
+ Project trigger and expenditure threshold .............................................8
+ Prudent and efficient project expenditure ............................................ 11
+4.1 Forecast of capital expenditure ...................................................... 11
+4.2 Forecast of operating expenditure ................................................. 22
+ Calculation of incremental allowed revenues ...................................... 23
+A Submissions ........................................................................................... 26
+
+--- PDF physical page 7 ---
+5
+
+ Project EnergyConnect contingent project
+Project EnergyConnect is a proposed $2.3 billion ($2017-18) contingent project to
+construct a new high voltage power line over a route of approximately 860 km
+connecting the electricity networks of South Australia at Robertstown and New
+South Wales at Wagga Wagga.
+Project EnergyConnect is the preferred option identified in the South Australia
+Energy Transformation Regulatory Investment Test for Transmission (RIT-T)
+process. This process has been undertaken by ElectraNet to explore options for
+reducing the cost of providing secure and reliable electricity to SA in the near term,
+while facilitating the longer-term transition of the energy sector across the NEM.
+ElectraNet proposes that the construction of the South Australian component of the
+interconnector will be completed by March 2023. ElectraNet is seeking $14 million in
+incremental revenues over the 2018–23 regulatory control period to construct its
+component of the project. The actual project capex would then be added to
+ElectraNet's regulatory asset base (RAB) at the end of the regulatory control period.
+ElectraNet's allowed revenues for the 2018–23 regulatory control period did not
+include funding for the delivery of this project. This project involved a significant
+augmentation to the network, but the need, cost and timing of the project was
+uncertain. ElectraNet was allowed to apply to the AER to seek an increase in its
+allowed revenue when the need, timing and cost of the project was more certain.
+On 30 September 2020, ElectraNet submitted an application to the AER under the
+contingent project process set out in clause 6A.8.2 of the NER, seeking an increase
+in its allowed revenue to construct the South Australian component of the project.
+TransGrid also submitted a contingent project application for the New South Wales
+component of the project.
+On 18 December 2020, we published a preliminary position on ElectraNet's
+contingent project application. This provided our preliminary assessment of
+ElectraNet's proposed expenditure required for the project. However, at that time we
+were not yet able to make a determination to increase ElectraNet's allowed revenue
+so that it could begin recovering the project costs from customers. This was
+because we were not satisfied that ElectraNet's Board had committed to proceed
+with the project, which was a requirement for us to make a determination.
+In March and April 2021, ElectraNet provided responses to our preliminary position,
+including additional supporting information about its forecast capex and an updated
+resolution from ElectraNet's Board committing to proceed with the project.
+ElectraNet did not submit a full revised application.
+On 30 April 2021, TransGrid submitted a revised contingent project application for
+the New South Wales component of the project.
+--- PDF physical page 8 ---
+6
+
+ Our contingent project determination
+Contingent projects are significant network augmentation projects that may arise
+during a regulatory control period, but the need and or timing of the project is
+uncertain. As such, project costs are not provided for in expenditure forecasts as
+part of the revenue determination for a regulatory control period. In this context,
+consumers should not be charged for new significant projects until the cost is
+reasonably known and it is certain the project will proceed.
+Under clause 6A.8.2 of the NER, ElectraNet may apply to amend its existing
+revenue determination to increase allowed revenues for a contingent project.
+However, we are only required to determine the incremental revenues required to
+deliver the contingent project if we are satisfied that a specific trigger event has
+occurred, and the project exceeds a cost threshold.
+As set out in section 3, the Project EnergyConnect contingent project application
+meets the conditions required for us to make a determination because:
+ we are satisfied that each element of the trigger event for this project has
+occurred
+ we are satisfied that the capex amount sought exceeds the applicable materiality
+threshold of $30 million.
+We have now made a determination on ElectraNet's contingent project application in
+accordance with clause 6A.8.2 of the NER, which specifies the process we must
+undertake and the determination we must make on a contingent project application.
+In accordance with clause 6A.8.2(e) of the NER, we have determined:
+ the total capex that is reasonably required for the project and the amount of
+capex for each remaining year of the regulatory control period (see section 4.1)
+ the incremental opex for each remaining year of the regulatory control period
+(section 4.2)
+ the incremental revenue which is likely to be required by ElectraNet for each
+remaining regulatory year as a result of the efficient capex and opex for the
+contingent project (see section 5), and
+ that the project has commenced and is likely to be completed by March 2023.
+We are also required to publish ElectraNet's application and invite interested parties
+to make written submissions.1 We sought submissions on ElectraNet's initial
+application in October 2020, and on ElectraNet's response to our preliminary
+position in May 2021. A summary of submissions received and our consideration of
+the issues raised is included at Attachment A.
+
+
+1  NER, cl. 6A.8.2(c).
+--- PDF physical page 9 ---
+7
+
+In making our determination, we were required under clause 6A.8.2(f) to consider
+whether we can accept ElectraNet's proposed revenues and project expenditure
+included in its application. This includes considering if its proposed project costs are
+prudent and efficient. If we are not satisfied that we can accept ElectraNet's forecast
+revenues and project costs, we can determine a different forecast.
+Based on our review of ElectraNet's application, and additional analysis undertaken
+for us by Energy Market Consulting associates (EMCa), we do not accept
+ElectraNet's forecast capex for the project. We have determined a different capex
+forecast that reflects the prudent and efficient costs that we consider are reasonably
+required for delivering the project. Our reasoning is set out in section 4.1.
+We have now amended ElectraNet's 2018–23 revenue determination to add these
+additional allowed revenues and costs. This is accompanied by a supporting post-
+tax revenue model on our website that sets out the calculation of ElectraNet's
+annual revenues, including the contingent project allowance.
+
+--- PDF physical page 10 ---
+8
+
+ Project trigger and expenditure threshold
+Under clause 6A.8.2 of the NER, we are only required to determine the incremental
+revenues required to deliver the contingent project if we are satisfied that a specific
+trigger event has occurred, and the project exceeds a cost threshold.
+The project trigger for Project EnergyConnect
+In our final decision on ElectraNet's 2018–23 revenue determination, we set out
+three elements of an event that would trigger the South Australian component of the
+Project EnergyConnect contingent project. These conditions ensured that the need
+and timing for the project is reasonably certain. Table 2 outlines these conditions.
+Table 2 Project EnergyConnect contingent project trigger elements
+Condition Description of trigger element
+1
+Successful completion of the South Australian Energy Transformation RIT-T
+with the identification of a preferred option or options: (i) demonstrating positive
+net economic benefits, and/or (ii) addressing a reliability corrective action.
+2 Determination by the AER that the proposed investment satisfies the RIT-T.
+3 ElectraNet Board commitment to proceed with the project subject to the AER
+amending the revenue determination pursuant to the Rules.
+4
+Clauses 1 and 2 do not apply if a change in the law occurs that allows the
+inclusion of the proposed investment in ElectraNet's maximum allowed revenue
+under this revenue determination even if a RIT-T is not carried out.
+Source:  AER, ElectraNet transmission revenue determination, Attachment 6 - Capital expenditure, May 2018.
+Before we can make a determination to allow ElectraNet to recover revenues from
+consumers to deliver the project, we must be satisfied the three conditions of the
+trigger event have occurred.
+The process undertaken by ElectraNet, as described below, has satisfied the first
+condition to trigger the contingent project.
+In February 2019, ElectraNet published its final report from the South Australian
+Energy Transformation RIT-T process. This report identified a new SA-NSW
+interconnector as the preferred option that maximised the net economic benefits. As
+this project involves interconnection with New South Wales, it is a joint project with
+TransGrid. At this time, the total project cost was estimated at $1.5 billion.
+On 24 January 2020, we determined under clause 5.16.6 of the NER that the
+preferred option identified by ElectraNet’s RIT-T satisfies the RIT-T. This satisfied
+the second condition to trigger the contingent project.
+--- PDF physical page 11 ---
+9
+
+Under the NER, ElectraNet (as the project proponent) is required to re-apply the
+RIT-T if, in its reasonable opinion, the project is no longer the preferred option that
+maximises the net economic benefits (unless the AER determines otherwise).
+In our January 2020 determination, we stated that if updated costs and benefits of
+the project differ materially from the analysis in the RIT-T, ElectraNet should
+consider whether there has been a material change in circumstances such that the
+preferred option may no longer maximise the positive net economic benefits.
+On 29 June 2020, TransGrid provided an initial contingent project application for its
+component of the project. This application proposed a significantly higher estimate
+of capital costs for the New South Wales component than assumed in the RIT-T. In
+July 2020, the Australian Energy Market Operator (AEMO) published its final 2020
+Integrated System Plan (ISP) that identified this project as an 'actionable project'.
+ElectraNet conducted an updated cost benefit analysis using the updated 2020 ISP
+inputs and assumptions and took into account the revised capital costs for the
+project. This updated analysis indicated that the net benefits of the project are likely
+to be positive. ElectraNet provided this updated analysis to us seeking our
+confirmation that the project remained the preferred option and therefore there is no
+need to reapply the RIT-T.
+On 28 September 2020, we advised ElectraNet that its updated cost benefit
+analysis, which relied on AEMO inputs and assumptions from the 2020 ISP,
+provided a not unreasonable basis for ElectraNet’s opinion that Project
+EnergyConnect remained the preferred option. However, we highlighted that the net
+benefits remain finely balanced and there is a significant zone of uncertainty
+associated with the benefits.
+In our preliminary position paper in December 2020, we noted that there have been
+a number of recent developments in the NEM that potentially impact on the net
+benefits from Project EnergyConnect. These included:
+ The Australian Government’s commitment to finance up to 1,000MW of gas
+generation in the Hunter Valley by April 2021.
+ The New South Wales Government’s legislation (referred to as the NSW
+Electricity Infrastructure Investment Act 2020) targeting 12GW of renewable
+energy across a number of designated renewable energy zones with associated
+transmission upgrades and 2GW of long duration storage by 2030 as well as
+facilitating the installation of dispatchable capacity.
+ The Victorian Government’s budget announcements about the creation of new
+renewable energy zones and completion of tendering for the System Integrity
+Protection Scheme (i.e. a new battery service).
+ Legislation for the Tasmanian Renewable Energy Target to double Tasmania's
+renewable generation to 200 per cent of current needs by 2040.
+ The announcement by AGL on its intention to build a 250MW battery at Torrens
+Island in South Australia by 2024.
+--- PDF physical page 12 ---
+10
+
+ElectraNet and AEMO subsequently identified additional developments, including:
+ The South Australian Government publishing its Climate Change Action Plan
+2021-25 which included the objective of accelerating renewable energy.
+ AEMO's December 2020 consultation on updated gas prices for its 2022 ISP.
+ The March 2021 announcement of the early closure of Yallourn power station.
+On 23 February 2021, AEMO published a letter setting out its assessment of the
+impact of a number of these policy announcements, as well as the impact of
+assumptions on the requirements for synchronous generating units in South
+Australia. AEMO considered that the market appears to be developing more in line
+with the Fast Change scenario modelled in the 2020 ISP than the Central scenario,
+but that the net benefits of PEC remain similar under both scenarios. AEMO's letter
+therefore concluded that the project is still expected to deliver net market benefits.
+On 31 March 2021, ElectraNet published a review of whether the recent
+developments could result in a material change of circumstances under the NER
+that may lead to the project no longer being the preferred option. The review
+assessed the direction and quantum of impact that each market development could
+have on the benefits of Project EnergyConnect. ElectraNet's assessment concluded
+that the announcements were likely to have an overall positive impact on the
+modelled net benefits of the project, and that it is therefore not reasonably likely that
+there has been a material change of circumstances.
+On 30 March 2021, the ElectraNet Board resolved to commit to proceed with the
+South Australian component of Project EnergyConnect, subject to the AER
+awarding incremental regulated revenue commensurate with the capital and
+operating costs of the project. This satisfied the third and final condition to trigger the
+contingent project.
+Expenditure threshold
+The expenditure threshold applicable to the forecast capex for the project is:2
+either $30 million or 5% of the value of the maximum allowed revenue for
+the relevant Transmission Network Service Provider for the first year of the
+relevant regulatory control period whichever is the larger amount.
+Five per cent the maximum allowed revenue in the first year of ElectraNet's 2018–
+23 regulatory control period is $15.2 million. Therefore the applicable threshold for
+the Project EnergyConnect contingent project is $30 million.
+ElectraNet's forecast capex for the contingent project is $468.6 million ($2017-18).
+This exceeds (and therefore meets) the expenditure threshold of $30 million.
+
+
+2  NER, clause 6A.8.1(b)(2)(iii).
+--- PDF physical page 13 ---
+11
+
+ Prudent and efficient project expenditure
+This section outlines our assessment of ElectraNet's proposed forecast capex and
+opex for Project EnergyConnect, and our determination on the prudent and efficient
+expenditure reasonably necessary to undertake the project.
+These forecasts of capex and opex are building block inputs to determine the
+incremental revenue ElectraNet may recover in the current regulatory control period.
+They will also be added to the target capex and opex for ElectraNet's expenditure
+incentive schemes.3 Any incentive rewards and penalties ElectraNet receives as a
+result of under or overspending on the project will be applied as additional revenue
+adjustments in the next regulatory control period.
+4.1 Forecast of capital expenditure
+Table 3 sets out our determination on the total capex required for the project and the
+capex for each year of the 2018–23 regulatory control period based on our analysis
+to date. We have not accepted ElectraNet's proposed forecast capex, and have
+substituted a different forecast.
+Table 3 AER determination of forecast capex ($m, 2017-18)
+ 2018-19 2019-20 2020-21 2021-22 2022-23  Total
+ElectraNet's proposal 5.0  4.1  30.6  175.1  253.8  468.6
+AER estimate 5.0  4.1  30.2  171.4  246.7  457.4
+Difference (%) 0.0% 0.0% -1.4% -2.1% -2.8% -2.4%
+Difference ($m) -     -    -0.4  -3.7  -7.1  -11.2
+Source:  AER analysis ; ElectraNet. Project EnergyConnect contingent project application - update,
+24 November 2020,
+Note: ElectraNet's initial application proposed $471 million ($2017 -18) in forecast capex. On 24 November
+2020, ElectraNet advised that as a result of the  change in the timing of the capital expenditure and
+revenue required to deliver the project and other minor adjustments, the updated forecast capital
+expenditure for the purpose of the application is slightly reduced at $468.6 million ($2017-18).
+ Numbers may not add up due to rounding.
+ElectraNet's contingent project application forecasts that the project will require
+$468.6 million ($2017-18) in capex. This forecast is comprised of:4
+
+
+3  The Capital Expenditure Sharing Scheme (CESS) and the Efficiency Benefit Sharing Scheme (EBSS).
+4  ElectraNet. Project EnergyConnect contingent project application - update, 24 November 2020, p. 3.
+--- PDF physical page 14 ---
+12
+
+ $366.7 million in new transmission lines and substation upgrades, which is being
+outsourced to an external contractor or contractors via competitive tender
+processes
+ $31.9 million in ElectraNet's project overheads to oversee the contractor(s) and
+ensure overall project delivery
+ $18.9 million for a special protection scheme to manage electricity imports and
+exports across the interconnector
+ $16.8 million for project risk allowance
+ $13.9 million for internetwork testing
+ $11.1 million for land and easement acquisition
+ $7.2 million for stakeholder and cultural heritage engagement
+ $3.0 million for environmental offsets.
+ElectraNet's contingent project application included a range of supporting
+documents. This includes a detailed scope of work document, a summary of its
+procurement process and a detailed break-down of the project cost elements. It also
+provided a 'risk register' that sets out the detailed information supporting the
+calculation of the project risk allowance.
+Overall conclusion on ElectraNet's proposed capex
+We have examined ElectraNet's proposed capex forecast and found based on our
+analysis of the information available that a prudent and efficient estimate of the
+forecast capex for the South Australian component of Project EnergyConnect is
+$457.4 million ($2017-18). This is 2.4 per cent less than ElectraNet's initial proposal.
+The majority of ElectraNet's capex forecast would reasonably likely be incurred by
+an efficient and prudent operator to deliver this project. In particular:
+ The competitive tender process ElectraNet has undertaken to date means that
+the estimated costs for transmission lines and substation works reasonably
+reflect a competitive market outcome for the scope of the project as specified by
+ElectraNet in its procurement process.
+ The proposed scope of the project that is reflected in the tendered costs reflects
+the necessary works to construct and install new transmission lines and deliver
+the needs of the project.
+ ElectraNet's project delivery costs are reasonably required for a project of the
+size and complexity of Project EnergyConnect.
+ ElectraNet has reasonably estimated the land and easements necessary to
+locate the new transmission lines and substations, and the environmental offsets
+required along the route.
+ ElectraNet's forecast costs for its special protection system and internetwork
+testing are reasonably estimated.
+--- PDF physical page 15 ---
+13
+
+However, there are two aspects of ElectraNet's proposed capex that do not
+reasonably reflect the likely prudent and efficient costs of delivering the project.
+First, ElectraNet has not fully accounted for likely opportunities for cost savings in
+project design and construction. ElectraNet has not yet concluded its market
+tendering for the transmission lines and substation works. The forecast capex in its
+contingent project application reflects a weighted average of several tendered bids
+received. While the tendering process has to this point been comprehensive and
+competitive, we consider that there remains scope for ElectraNet to lower overall
+project costs as it finalises both the tender process and the project design. In
+particular, there remain opportunities to find further cost savings and efficiencies in
+transmission design and construction methods compared to those proposed by
+ElectraNet. This view is supported by our technical consultant, EMCa.
+Second, ElectraNet has overstated project risk. ElectraNet has adopted a
+reasonably transparent and prudent probabilistic approach to identifying and
+quantifying project risks that are relevant to the project. However, in its initial
+proposal ElectraNet had systematically overstated the likelihood of risks occurring.
+In our December 2020 preliminary assessment, we calculated an alternative
+estimate of project risk. In response to our preliminary assessment, ElectraNet
+acknowledged our concerns that its approach overstated the likelihood of risks
+occurring and provided additional information to support the calculation of specific
+risks. We have taken this information into account in finalising our determination.
+Table 4 sets out our assessment of ElectraNet's capex components and how we
+arrived at our estimate of total capex for the project.
+Table 4 Assessment of capex components ($m, 2017-18)
+Capex component ElectraNet estimate  AER estimate  Adjustment
+Transmission lines  258.4 248.0 -10.4
+Substations 108.3 108.3 0.0
+Property and easements 11.1 11.1 0.0
+Environmental  10.2  10.2  0.0
+Project delivery costs 31.9 31.9 0.0
+Special Protection
+Scheme 18.9 18.9 0.0
+Internetwork testing 13.4 13.4 0.0
+Project risk 16.3 15.5 -0.8
+Total project capex 468.6 457.4 -11.2
+Difference     -2.4%
+--- PDF physical page 16 ---
+14
+
+Source:  AER analysis, ElectraNet. Project EnergyConnect contingent project application - update,
+24 November 2020, p. 3.
+Note: Numbers may not add up due to rounding.
+To make our decision we were supported by our consultant, EMCa, which applied
+its technical and engineering expertise to examine the capex forecast, identify key
+areas of ElectraNet's application that required further analysis, and assess the
+prudency and efficiency of the forecast.
+Our decision has also been informed by submissions from stakeholders and
+ElectraNet’s engagement with us over the process. This has included responding to
+our information requests and providing further information in response to the
+preliminary assessment published in December 2020. This process has ensured we
+have all the necessary information to make a fully informed decision.
+The remainder of this section sets out our findings in more detail about ElectraNet's:
+ tendered costs for transmission lines and substation works
+ opportunities for cost savings in transmission line design and construction costs
+ project delivery costs, and
+ project risk allowance.
+Tendered costs for transmission lines and substation works
+The largest components of ElectraNet's forecast capex for Project EnergyConnect
+are $258.4 million for designing, constructing and installing the new transmission
+towers and conductors, and $108.3 million for upgrades to ElectraNet's substations.
+Together these costs comprise 78 per cent of the total project costs.
+ElectraNet is proposing to outsource the design, construction and delivery of the
+transmission lines and substation works to multiple third party contractors. It has
+estimated the costs for these works through a competitive tendering and
+procurement process it has been conducting since early 2019.5 ElectraNet has
+substantially progressed its procurement process, but it does not have firm contract
+prices on which to base the cost estimate. The estimated capex for its transmission
+lines reflects the weighted average of bids from shortlisted tenderers (transmission
+lines) and the initial market bids it has received to date (substations).6
+ElectraNet is expecting to execute fixed price design-and-construct contracts with
+contractors in 2021. These contracts will include the final allocation of risk between
+ElectraNet and the contractors. Nonetheless, ElectraNet considers that its capex
+forecast represents a prudent and efficient estimate of the project costs based on
+
+
+5  ElectraNet, Project EnergyConnect Cost Estimates Report PUBLIC, 30 September 2020, p. 9.
+6  ElectraNet, Project EnergyConnect Cost Estimates Report PUBLIC, 30 September 2020, pp. 15-19. The
+weighted average methodology is set out in the confidential version of ElectraNet's report.
+--- PDF physical page 17 ---
+15
+
+the information available at this point in time. Its risk mitigation activities, weighted
+average pricing methodology, the procurement process to date and the next steps of
+competitive tendering together with its detailed risk assessment combine to provide
+a high level of confidence in the capex forecast.7
+We consider that the majority of ElectraNet's forecast capex for transmission lines
+and substations is likely to reasonably reflect the efficient costs that would be
+incurred by a prudent operator. This is because:
+ ElectraNet's competitive tendering process means that the materials and
+construction costs have been market tested and reflect a realistic expectation of
+costs that can be delivered. This competitive process is expected to continue
+throughout the remainder of the procurement process.
+ ElectraNet's approach in applying a weighted average of the market bids
+received to date should reflect a more reasonable estimate of the likely project
+cost than simply taking an average, or using a lower weighting factor.
+ ElectraNet's proposed scope of the project that is reflected in the tendered costs
+reflects the necessary works to construct and install new transmission lines and
+deliver the identified needs of the project.
+We also consider that ElectraNet's choice of project delivery model should provide
+opportunities for ElectraNet and the contractors to identify efficiencies in design as
+they finalise the contracting process, and each efficiently allocate their design and
+delivery risk. While there is likely to be a risk associated with dealing with multiple
+contractors, the benefit in delivery of an efficient design and costs are expected to
+outweigh the additional costs and risks.
+As set out below, we consider that ElectraNet can do more to identify and capture
+potential further cost savings in the delivery of the project in its capex forecast.
+Allowance for savings opportunities in the delivery of the project
+The tendered costs for transmission lines largely reflect ElectraNet's standard
+design for transmission towers and overhead line construction. This is consistent
+with Australian design and construction standards. However, there are different
+transmission structure designs which may be deployed to prudently reduce cost.
+ElectraNet's initial capex proposal identified and quantified approximately $6 million
+in cost savings that may be realised in the final tendered amounts. It included these
+potential cost savings as negative adjustments within its forecast capex.
+These cost savings relate to design optimisation and construction efficiencies in:
+ the design, through tower heights, span lengths, and/or the use of structures
+other than free standing towers for the transmission line (e.g. guyed towers)
+
+
+7  ElectraNet, Project EnergyConnect Cost Estimates Report PUBLIC, 30 September 2020, p. 17.
+--- PDF physical page 18 ---
+16
+
+ the use of spoil from tower foundations as fill on the substation site
+ the use of third party telecommunication assets to provide a radio path.
+ElectraNet's proposed cost savings were contained within its project risk register. As
+for its project risks, ElectraNet's methodology to determine potential savings
+involved a detailed evaluation and probabilistic assessment (likelihood of saving
+being realised x consequence cost) of known opportunities that reflect the stage of
+the project in the delivery cycle and complexity of the works involved. We consider
+the remainder of the project risks in the section below.
+We consider that ElectraNet has adopted a prudent approach in attempting to
+measure and capture potential cost savings opportunities in its capex forecast.
+However, we consider that the likelihood that ElectraNet's contractors will be able to
+realise these specific opportunities is greater than ElectraNet has proposed.
+In arriving at our estimate, we have adopted ElectraNet's methodology to quantify
+cost savings opportunities, including the specific types of technical efficiencies and
+unit costs. However, we have applied a higher likelihood that these savings will be
+achieved to estimate the probable efficiency benefits that ElectraNet should be able
+to realise through its ongoing tender process.
+ElectraNet applied a relatively low likelihood of achieving its identified opportunities
+for cost savings. We consider that ElectraNet is likely to achieve the identified
+savings, and have applied a likelihood rating consistent with the midpoint of
+ElectraNet's probability range for 'likely' risks to estimate the probability weighted
+savings. This increases the total estimate of cost savings. This is consistent with our
+approach to assessing project risks, as discussed further below.
+Our view is informed by EMCA which used its expert engineering judgement and
+expertise to evaluate the basis for each savings opportunity and the likely probability
+of occurrence and the financial impact. It stated that:8
+Based on our understanding of the outcomes from TransGrid’s procurement
+process, design and construction efficiencies could reasonably be expected
+to be achieved for the SA component of PEC from the balance of
+ElectraNet’s competitive procurement process. These options could include
+tower spacing, tower height, tower design, type of  structure used, tower
+construction, line construction and line stringing, along with other aspects of
+design and construction such as footing type and design.
+We recognise that the same efficiencies may not be present for a range of
+factors given the sta tus of design, local conditions etc and therefore all
+efficiencies gained by TransGrid may not be realised to the same magnitude
+by ElectraNet. However, the assumptions included by ElectraNet in the risk
+
+
+8  EMCa, Project EnergyConnect - Review of Aspects of ElectraNet's Contingent Project Application,
+December 2020, p. 26.
+--- PDF physical page 19 ---
+17
+
+register are likely to under -estimate the level of d esign and construction
+efficiency for transmission lines that may be achieved.
+As part of its analysis, EMCa reviewed information provided by ElectraNet which
+suggested that ElectraNet's forecast capex for transmission lines benchmarked well
+when compared against TransGrid's tendered costs for transmission lines for
+Project EnergyConnect. ElectraNet stated that, given its comprehensive tendering
+process, TransGrid’s market pricing represents the current benchmark for the
+delivery of large scale 330kV transmission line assets in Australia.9
+EMCa reviewed the information and noted that, whilst it expected that the
+economies of scale for the New South Wales component would result in a lower line
+construction cost per kilometre than evident from ElectraNet’s cost estimate for the
+SA component, other cost factors were present in TransGrid’s costs that may not
+have been present in ElectraNet's costs. This included potentially greater risk
+margin in the tendered costs, the specific economic and labour conditions in New
+South Wales compared to South Australia, and differences in tower spans.
+We outlined this position in our December 2020 preliminary assessment. ElectraNet
+disagreed with the likely extent of the opportunity for cost savings we identified and
+provided additional information in relation to several specific potential saving
+opportunities. ElectraNet maintains that its original assessment of the likelihood that
+these cost savings will be realised is reasonable. We have considered ElectraNet's
+response to our preliminary position. However, we consider that ElectraNet has not
+provided new or persuasive information that we and EMCa did not previously
+consider in forming our view on the likelihood that cost savings will be realised.
+We also note that there are potentially additional opportunities for further line design
+and construction efficiencies that may be available to ElectraNet, over and above
+those already identified. These include:
+ screw piles or micro-piles which are less environmentally intrusive and materially
+less expensive than concrete foundations due to the speed of installation and no
+curing time, batching plants, major excavation work or waste water management
+ aerial construction methods and aerial stringing which are faster and reduce
+construction time and hence costs despite the offsetting costs of helicopter use,
+particularly on long line constructions; and
+ tower design choices which are still available to ElectraNet (spacing, height,
+material sizing versus cost, insulator material and construction).
+While we have not formed a view on the quantum of these further opportunities
+based on the information available to us, we encourage ElectraNet to fully explore
+remaining opportunities to reduce project costs to the extent possible in finalising its
+contracting process. Where ElectraNet and the contractor are able to identify design
+
+
+
+--- PDF physical page 20 ---
+18
+
+and/or construction techniques that lower the overall project costs, these costs
+savings should be reflected in the final contract price. The majority of these lower
+costs will then be passed through to consumers when project costs are added to the
+RAB at the start of the next regulatory control period.
+Project delivery costs
+ElectraNet forecast $31.9 million ($2017-18) in project delivery overhead costs for
+its component of Project EnergyConnect. This forecast is based on a bottom-up
+build of additional staff required to deliver the project, such as project management,
+planning and engineering.10 It also includes costs that have been incurred to date.
+We have benchmarked ElectraNet's project delivery costs against other historical
+projects and its annual capital expenditure between 2009 and 2019. As shown in
+Figure 1, ElectraNet's project delivery costs, as a proportion of total project costs, for
+Project EnergyConnect are significantly less than the recent Eyre Peninsula
+Reinforcement contingent project and similar to the Main Grid System Strength
+project. It is also similar to its annual capitalised overheads.11
+Figure 1 Capitalised overheads as proportion of total capex
+
+Source: ElectraNet, AER analysis.
+
+
+10  ElectraNet, Project EnergyConnect Cost Estimates Report PUBLIC, 30 September 2020, pp. 20-25
+11  We note that ElectraNet has stated that the network and corporate overhead information reported in its annual
+RINs relates to only a portion of the total overhead cost which is allocated to internal labour costs, and
+excludes other overheads, labour on costs and salary costs. ElectraNet states that the full project delivery cost
+on average across delivered projects over this period is therefore significantly higher than this figure (typically
+over 15%) reflecting the relatively large number of small scale and complex projects undertaken over this
+period, which increases the proportion of efficient delivery costs required on each project. Source: ElectraNet,
+Response to AER information request received 18 October 2020, 4 November 2020, p. 4
+0%
+1%
+2%
+3%
+4%
+5%
+6%
+7%
+8%
+9%
+10%
+PEC (ElectraNet) Eyre Peninsula
+(ElectraNet)
+System Strength
+(ElectraNet)
+ElectraNet (annual
+capex)
+Project Delivery
+--- PDF physical page 21 ---
+19
+
+Note: ElectraNet’s project delivery costs for Project EnergyConnect and the Eyre Peninsula Reinforcement do
+not include costs related to land purchase, environmental offsets management, and stakeholder and
+community engagement related to land and environment. Th is ensures we can compare project delivery
+costs on a like-for-like basis with the other brownfields projects.
+These results align with our expectations of forecast project delivery costs from a
+prudent operator in these circumstances. While the project is more complex than a
+typical brownfields project (such as the Main Grid System Strength project) in terms
+of planning and project management, this is offset by the size of the project and the
+ability to spread fixed costs over a larger amount of material and contracting costs.
+This is supported by EMCa, which noted:
+We consider that the top-down benchmarks of project delivery costs suggest
+to us that ElectraNet has proposed a project delivery cost at a level that is
+lower than its historical performance, and this is in part due to the likely
+economies of scale of a large project.
+Importantly, ElectraNet has proposed lower project delivery costs than its allowance
+for the Eyre Peninsula Reinforcement project (8.9 per cent), and significantly below
+its forecast project delivery costs in its contingent project application for that project
+(10 per cent). These two projects are similar as they involve the construction of new
+transmission lines and towers and are similar in length. The primary reason that
+ElectraNet’s forecast capex for Project EnergyConnect is higher is due to the
+inclusion of capex for a new substation.
+We also sought advice from EMCa to examine ElectraNet’s assumptions about
+project staffing, forecast unit costs (e.g. wages and corporate overheads) and its
+project delivery plan. This supported our top-down benchmarks by reviewing the
+forecast from a bottom-up perspective.
+EMCa found that ElectraNet's forecast is likely to be reasonable when considering
+the performance from a top-down perspective and the estimating accuracy
+associated with forecasting project delivery costs. However, it did identify some high
+cost elements of ElectraNet's forecast. In particular:
+ ElectraNet has generally forecast salaries for the project, and corporate
+overhead allocation that is at the higher end of the range typically applied by
+electricity companies in Australia.
+ ElectraNet’s proposed resourcing for its final project testing phase is likely more
+than is reasonably required to undertake the work.
+--- PDF physical page 22 ---
+20
+
+Allowance for project risk
+ElectraNet's initial forecast capex included $16.3 million ($2017-18) in allowance for
+project risk costs.12 The project risk allowance reflected the potential impact of 21
+individual risks. ElectraNet categorised these as risks that relate to a realistic latent
+condition with the site(s) and risks associated with the actions or requirements of a
+third party that are not under contractual arrangement with ElectraNet and hence the
+risk is not able to be addressed through enforcement of contract terms.13
+ElectraNet's methodology and process for calculating its risk allowance is
+transparent, logical and well documented, and its use of probabilistic calculations
+should, depending on the inputs and assumptions applied, result in an overall
+allowance that reasonably reflects the likelihood of the project risks occurring. We
+also considered that the risks proposed by ElectraNet, except the risk related to
+adverse exchange rate movements, are appropriate and reasonable to be included
+in a risk allowance for a project of this nature.
+However, while we accept all but one of ElectraNet's identified risks, we found that
+ElectraNet’s risk assessment overstates the likelihood of each risk occurring.
+ElectraNet applied the upper bound of the likelihood range assigned to each risk to
+calculate the risk cost (likelihood x consequence) for each risk item. This
+systematically overstates the probabilities that the risks will occur and therefore
+overstates the calculation of overall risk costs.
+In our December 2020 preliminary position, we stated that applying the mid-point of
+ElectraNet’s likelihood range is more likely to result in a reasonable and unbiased
+estimate of prudent and efficient risk costs for the project. This resulted in an
+indicative estimate of $14.9 million ($2017-18) in total project risk cost. This amount
+did not include opportunities to realise potential savings and efficiencies in the
+delivery of the project, which we accounted for separately.
+ElectraNet's response to our preliminary assessment acknowledged our concerns
+that its approach overstated the likelihood of risks occurring and accepted our
+proposed position to apply the midpoint of assessed likelihood ranges to calculate
+project risk costs. ElectraNet also accepted the removal of exchange rate
+movements as a symmetrical risk.
+However, ElectraNet also submitted that the likelihood of two specific risks occurring
+had increased since our preliminary position such that these risks had effectively
+been realised and should be assigned a 100 per cent probability of occurring.
+ElectraNet submitted confidential information about these specific risks.
+
+
+12  This amount included both potential risk costs that add costs and potential opportunities for cost savings that
+reduce costs. Excluding the offsetting opportunities for savings, ElectraNet's proposed total project risk cost is
+approximately $22.1 million.
+13  ElectraNet, Project Energy Connect Cost Estimate Report (public), 30 September 2020, p. 30.
+--- PDF physical page 23 ---
+21
+
+We have reviewed the additional information provided by ElectraNet to support its
+claim that the likelihood of the two specific risks occurring has increased. In
+response to this new information we have increased our alternative estimate of
+project risk by $0.6 million.
+Our estimate of total project risk is $15.4 million ($2017-18).
+--- PDF physical page 24 ---
+22
+
+4.2 Forecast of operating expenditure
+Table 5 sets out our determination of the incremental opex for each year of the
+2018–23 regulatory control period.
+We have made no adjustment to ElectraNet's proposed opex. ElectraNet expects to
+incur minor incremental operating expenditure in advance of the commissioning of
+the project. The project will lead to higher maintenance expenditure once
+commissioned, but the incremental costs associated with maintenance are not
+expected to occur until the next regulatory control period.14
+Table 5 Proposed incremental opex forecast ($m, 2017-18)
+ 2018-19 2019-20 2020-21 2021-22 2022-23 Total
+Total opex 0.0  0.0  0.0  0.1  0.3  0.5
+Source:  ElectraNet, Project EnergyConnect, Contingent Project Application - Update, 24 November 2020, p. 4.
+
+
+14  ElectraNet, Project EnergyConnect Contingent Project Application, 30 September 2020 p. 26.
+--- PDF physical page 25 ---
+23
+
+ Calculation of incremental allowed revenues
+This section calculates the incremental revenue that ElectraNet would recover from
+customers to account for our determination of efficient project costs. We have
+applied an annual building block revenue approach, in accordance with clause
+6A.8.2(h) of the NER. ElectraNet's application is consistent with this approach.
+Table 6 shows that ElectraNet is entitled to recover $10.2 million ($ nominal) in
+additional revenues from customers over the 2018–23 regulatory control period.
+As a result of recovering these revenues, we estimate that the transmission
+component of average residential electricity bills in South Australia will increase by
+$6 in 2022–23 and by $17 per year for the 2023–28 regulatory control period.
+Table 6 Incremental revenue calculation ($m, nominal)
+
+2018–19 2019–20 2020–21 2021–22 2022–23 Total
+Return on capital 0.0 0.5 0.7 2.5 13.1 16.8
+Return of capital  0.0 –0.1 –0.2 –1.1 –5.8 –7.3
+Straight-line depreciation 0.0 0.1 0.1 0.1 0.1 0.3
+Less: inflation indexation on
+opening RAB 0.0 0.2 0.3 1.1 5.9 7.6
+Operating expenditure 0.0 0.0 0.0 0.2 0.4 0.6
+Revenue adjustments 0.0 0.0 0.0 0.0 0.0 0.0
+Net tax allowance 0.0 –0.1 –0.1 –0.1 0.2 –0.1
+Annual building block
+revenue requirement
+(unsmoothed)a 0.0 0.2 0.4 1.5 7.8 10.0
+Annual expected
+maximum allowable
+revenue (smoothed) 0.0 0.0 0.0 0.0 10.2 10.2
+Increase to annual
+expected MAR
+(smoothed) (%)
+0.0% 0.0% 0.0% 0.0% 2.9% 0.6%
+Source:  AER analysis.
+Note: The incremental revenue requirements for 2019–20, 2020–21 and 2021–22 do not flow into the expected
+MAR for these years and are instead smoothed into the expected MAR for 2022–23.
+  Numbers may not add up due to rounding.
+ The return of capital or regulatory depreciation is equal to the straight -line depreciation less the inflation
+indexation on the opening RAB.
+ The straight-line depreciation increases from 2019 –20 and is due to the triggering of  2018–19 equity
+raising costs.
+--- PDF physical page 26 ---
+24
+
+ The inflation indexation on opening RAB increases from 2019 –20 and is due to the as -incurred PEC
+capex which begins to enter the RAB from the end of 2018–19.
+Table 7 shows the effect of the resultant incremental increase in revenues on
+ElectraNet's total annual building block revenue requirement (unsmoothed),
+expected maximum allowable revenues and the X-factor for each regulatory year of
+the remainder of the regulatory control period.
+Table 7 Annual building block revenue requirement, expected MAR
+and X-factors ($m, nominal)
+ 2018–19 2019–20 2020–21 2021–22 2022–23 Total
+Annual building block
+revenue requirement
+(unsmoothed)
+     286.1       314.8     327.3    347.0 358.2  1,633.5
+Annual expected MAR
+(smoothed)       305.3       312.5     322.3  332.7  357.7  1,630.6
+X-factors n/a 0.1% –0.7% –0.7% –4.9% n/a
+Source: AER analysis.
+Other issues: Asset lives for ‘Equity raising costs’ asset class and
+update for 2021–22 return on debt
+Asset lives for ‘Equity raising costs’ asset class
+For this final decision we have applied a standard asset life of 43.1 years to the
+'Equity raising costs' asset class for regulatory depreciation purposes consistent with
+our preliminary position.15 This reflects the weighted average (by forecast net capex)
+of the standard asset lives for each depreciating asset class over the 2018–23
+regulatory control period. This approach is also consistent with our previous
+regulatory determinations.
+We have also applied a standard tax asset life of 5 years to the ‘Equity raising costs'
+asset class for tax depreciation purposes consistent with the ATO tax rules.16 This
+approach is also consistent with our preliminary position and previous regulatory
+determinations.
+ElectraNet did not provide an updated PTRM for its revised proposal. In our
+preliminary position, we assigned a standard asset life and standard tax asset life to
+
+
+15  The standard asset life for the final decision is consistent with the preliminary assessment rounded to 2 decimal
+places. In comparing the unrounded values there is a slight difference due to minor differences in the forecast
+capex.
+16  ATO, Taxation Ruling TR2020/3– Income tax: effective life of depreciating assets (applicable from 1 July 2020).
+--- PDF physical page 27 ---
+25
+
+the 'Equity raising costs' asset class because although ElectraNet’s contingent
+project application forecast equity raising costs for the 2018–23 regulatory control
+period, it did not include a standard asset life or standard tax asset life. 17
+Return on debt update for 2021–22
+Subsequent to our preliminary position, the update for the 2021–22 return on debt
+has become available. We have therefore updated ElectraNet's PTRM for this final
+decision with this updated return on debt input and 2021–22 X factor.
+
+
+
+
+17  ElectraNet, ElectraNet_Project EnergyConnect Contingent Project_PTRM - PUBLIC - Nov2020 - Draft,
+received 24 November 2020.
+--- PDF physical page 28 ---
+26
+
+A Submissions
+Interested parties were invited to provide submissions on TransGrid and
+ElectraNet’s initial contingent project applications by 30 October 2020, and on the
+businesses' revised contingent project applications by 17 May 2021. We have
+considered these submissions in the course of our assessment of ElectraNet's
+contingent project application. Table 8 provides a summary of the key issues raised
+in the submissions received and responses to those issues.
+Table 8 Summary of submissions to contingent project applications
+Issue AER consideration
+NSW and South Australia costs and benefits
+Sam Trinca
+A majority of the benefits of Project EnergyConnect accrue to South
+Australia. However, given that the majority of the length of the proposed
+line lies in NSW, a disproportionate share of the costs will ultimately be
+borne by the NSW consumer.
+Public Interest Advocacy Centre
+PIAC recommends revisiting the current inter-regional transmission cost
+allocation to more fairly share costs between NSW and SA consumers
+from Project EnergyConnect.
+There is a misalignment between who pays and who benefits.
+Recovering costs from parties on a beneficiary-pays basis, and ensuring
+all groups of consumers exposed to costs receive a material net benefit,
+must be required for large transmission projects. PIAC supports urgent
+regulatory reforms to this end, and delaying approval of PEC if needed.
+The RIT-T assesses net benefits to the
+market, not only consumers, or
+consumers in particular regions.
+The NER do not currently provide for the
+recovery of project costs from
+generators or other parties.
+Currently, the NER allocate the costs of
+inter-regional transmission investments
+geographically. We note that inter-
+regional transmission charging and cost
+recovery arrangements continue to be
+subject to review, however amending
+these arrangements is not within the
+scope of the AER's review of contingent
+project applications.
+We note that TransGrid and ElectraNet’s
+modelling of customer bill impacts
+identify a net benefit from the project for
+consumers in both SA and NSW.
+Benefits of the project
+Major Energy Users
+While supportive in principle, the MEU has concerns about the latest
+information used to justify the long term benefits of the project given the
+current costs.
+It considers that the AER needs to investigate the project more fully and
+get formal stakeholder input into whether the project does deliver the net
+benefits claimed, and remains concerned over key inputs such as gas
+prices and discount rates.
+Considers the net benefits of the project are overstated and uncertain,
+and have not been subject to sufficient stakeholder review as costs have
+increased from the RIT-T stage.
+AEMO has not completed work reviewing the two unit constraint as part
+of the PSFRR. The absence of this review casts doubt on the net benefit
+of the project.
+Public Interest Advocacy Centre
+PIAC is concerned that the project does not present a reasonable
+“return on investment” for consumers under the current regulatory
+framework. The most recent modelling paints a picture of a project with
+high costs and comparatively small net benefits.
+
+If a material change in circumstances
+occurs which, in ElectraNet's reasonable
+opinion as the project proponent, means
+that Project EnergyConnect is no longer
+the preferred option, then the NER
+requires ElectraNet to reapply the RIT-T
+unless the AER determines otherwise.
+On 23 February 2021, AEMO published
+a letter setting out its assessment of the
+impact of a number of recent policy
+announcements, as well as the impact of
+assumptions on the requirements for
+synchronous generating units in South
+Australia. AEMO's letter concluded that
+the project is still expected to deliver net
+markets benefits.
+On 31 March 2021, ElectraNet published
+a review of whether the recent
+developments could result in a material
+change of circumstances under the NER
+that may lead to the project no longer
+being the preferred option. ElectraNet's
+--- PDF physical page 29 ---
+27
+
+ENGIE
+The latest costs appear to exceed the value of the net benefits
+determined by the AER in the RIT-T. The proponents have also claimed
+additional benefits, with TransGrid submitting a report from FTI
+Consulting that assessed so-called “wider benefits”. ENGIE is
+concerned over the sharp rise in costs on the project and urges the AER
+to do whatever it can within its powers to impose appropriate cost
+discipline on the proponents and ensure only efficient costs are allowed.
+Origin
+Capital costs have risen and the net benefits of the project are now
+marginal at $148 million in the central scenario, with the breakeven cost
+of the project being $2.7 billion. This implies that an 11% increase in
+costs would make the interconnector uneconomic.
+It is important that the AER is confident that the latest cost estimates are
+robust and reasonable given the updated analysis was not carried out
+under the full robustness of the RIT-T process.
+Reach Solar
+Continues to support PEC and the assessment of continued net benefits
+of the project, which it considers are likely to be understated.
+Acciona
+Strongly supports Project EnergyConnect and considers that its timely
+approval and construction is key to unlocking future renewable energy
+projects in NSW and SA, including the South-West REZ where Acciona
+has a proposed 1.5GW hybrid renewable energy project.
+The ability to progress the South-West REZ renewables project is
+constrained by the lack of certainty on the timeframe for delivery of
+Project EnergyConnect, and Acciona would welcome its timely approval.
+Business SA
+Supportive of the project proceeding on the basis of benefits of greater
+sharing of resources across the NEM and additional capacity for
+renewable generation connections
+assessment concluded that the
+announcements were likely to have an
+overall positive impact on the modelled
+net benefits of the project, and that it is
+not reasonably likely that there has been
+a material change of circumstances.
+We have reviewed the prudent and
+efficient costs of delivering the project in
+accordance with the contingent project
+assessment process under the NER. We
+do not accept ElectraNet's proposed
+forecast capex and have estimated a
+different forecast which we consider
+reasonably reflects prudent and efficient
+costs. Our forecast is approximately 2.4
+per cent lower than ElectraNet's
+estimate.
+Risk and cost sharing
+Public Interest Advocacy Centre
+PIAC recommends examining alternative options for risk and cost
+allocation for the project in order to allocate risks to parties better able to
+manage them and to recover costs on a more beneficiary-pays basis.
+Consumers are not well-placed to manage the risk of cost increases or
+the failure to deliver the modelled benefits of Project EnergyConnect. An
+alternative could include PIAC’s risk and cost sharing model for
+Renewable Energy Zones to recover some costs from connecting
+generators as Project EnergyConnect is expected to enable new
+renewable generation connection along its path.
+Major Energy Users
+Considers the Capital Expenditure Sharing Scheme should be applied to
+PEC, but independently such that underspends in other areas cannot be
+used to ‘hide’ overspends on PEC.
+Energy Users' Association of Australia
+The AER should ensure the proponents bear their appropriate share of
+the project’s risk. Consumers have no ability to mitigate those risks and
+are left with paying the increased costs from poor project management.
+We note that there is currently no
+provision for the recovery of the costs of
+the project from generators or other
+parties under the rules applicable to our
+determination on the Project
+EnergyConnect contingent project.
+The CESS will apply to expenditure by
+the businesses on Project
+EnergyConnect, in accordance with their
+current revenue determinations and
+version 1 of the CESS. It is not open to
+the AER to apply version 1 of the CESS
+in the manner proposed by the MEU.
+The CESS is intended to balance
+incentives for businesses to achieve
+efficiencies across a regulatory control
+period, and encourage efficient
+expenditure within the overall total capex
+allowance. The CESS is able to account
+for proposals for material capex
+deferrals across regulatory periods to
+help ensure businesses are not
+rewarded for efficiencies not achieved.

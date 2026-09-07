@@ -1,0 +1,111 @@
+--- PDF page 1 ---
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Sebastian Roberts  
+General Manager Australian Energy Regulator  
+GPO Box 520 Melbourne VIC 3001  
+By email to Sebastian.Roberts@aer.gov.au and aerinquiry@aer.gov.au  
+16 August 2021 
+Reinforcing the NSW Southern Shared Network RIT-T: Notice of Dispute  
+ 
+Dear Mr Roberts,  
+In accordance with clause 5.16.5 of the NER (Disputes in relation to application of regulatory 
+investment test for transmission) this notice disputes the Reinforcing the NSW Southern Shared 
+Network (HumeLink) Conclusions Report (PACR) in relation to the application of the regulatory 
+investment test for transmission (RIT-T).  
+The PACR’s preferred option is three new 500 kV lines between Wagga, Maragle and Bannaby, 
+arranged in an electrical loop configuration.  The PACR fails to identify that there are at least two 
+distinct configurations of this option; each having materially different route lengths, geographic or 
+environmental risks, construction costs and network benefits.  These options also differ significantly 
+in their relationship to existing assets.  
+Figure 1: Topology C representation in PACR.   
+                                                                                                      
+ 
+This representation is misleading.  It is not 
+consistent with any possible double-circuit 
+construction, and demonstrates the 
+incorrect premise of the PACR that 
+different options can have the same costs, 
+risks and benefits. 
+ 
+  
+
+
+--- PDF page 2 ---
+Figure 2: Low-diversity option. 
+The low-diversity 3C configuration includes routing the 
+Wagga – Bannaby circuit via Maragle.  This option has 
+limited diversity potential as all new circuits travel 
+through the same forested areas and parallel existing 
+330kV circuits in areas of known storm and fire danger 
+using the corridors which have been investigated by the 
+proponent.  Although it is not communicated in the 
+PACR, the proponent’s actions to date indicate that this 
+is the favoured option. 
+Figure 3: High-diversity option. 
+This option may result in a lower cost due to a similar or 
+lower total circuit length, and a single corridor through 
+forested areas.  It would keep the Wagga-Bannaby circuit 
+out of the forested areas around Maragle and provides 
+multiple diversity opportunities.  This includes options to 
+avoid paralleling existing 330kV circuits in high-risk 
+areas, consistent with the TAPR and the intent of 
+HumeLink to increase the resilience of the network. 
+ 
+NER clause 5.15.2(b) requires a RIT–T proponent to consider all options it could reasonably classify as 
+credible options, and that the number of credible options that a RIT–T proponent assesses for meeting 
+a particular identified be proportionate to the magnitude of the likely costs of any credible option.  
+With the scale of the HumeLink project, and the biodiversity and land acquisition costs constituting 
+30% of the PACR project cost estimate, it is critical that the proponent properly identify the 
+characteristics of the proposed routes and evaluate all credible options.   
+The proponent advises that In the case of new transmission line investments, the RIT-T does not 
+address line route specifics (PACR p10) and planning would be granted following extensive, genuine 
+community and stakeholder consultation.   Further, on p30:   Final decisions regarding route diversity 
+for the preferred option will be based on an assessment of network risks and mitigation strategies, 
+having regard to the relative cost of diversity options, that sits outside of the RIT-T process. 
+It is understood that the RIT-T doesn’t identify specific corridors, but it is the appropriate mechanism 
+to identify and evaluate different options, including where they materially impact the ability of the 
+solution to manage the probability and consequences of high-impact, low probability (HILP).  A good 
+example is the HumeLink PADR (p.6), where the proponent estimated the load at risk to be $450 
+million and used this to justify selection the preferred option due to its multiple route diversity 
+solutions. Current corridors parallel existing 330kV circuits so it is possible that the load at risk is 
+further increased compared to the PADR evaluation. 
+Adding further concern to the lack of treatment of route diversity in the PACR is that on the 13th of 
+August the proponent advised landowners that the corridor required for the high-diversity option the 
+project will not be used.  This raises serious doubts that any meaningful evaluation or consultation on 
+these aspects is possible if not addressed in the RIT-T. 
+  
+
+
+--- PDF page 3 ---
+Another aspect of the insufficient treatment of diversity in the PACR and the high proportion of 
+biodiversity offset costs is that once the route specifics are identified and proper consideration given 
+to diversity benefits, the NPV ranking of low-diversity 3C option (figure 2) and PACR option 2C may be 
+reversed.   
+Separate to the failure to identify all credible options, the late change to double circuit construction 
+and lack of visibility on any aspect of the route alignment raises several questions: 
+- Are the corridors used for costing different options optimised for double circuit construction?   
+- Are previously investigated corridors intended for single circuit construction likely to be 
+utilized due to time and / or budgetary pressure?  Are these routes optimised for length and 
+other considerations in the proposed double-circuit option? 
+- Has there been sufficient industry consultation, given that the proposed solution was never 
+previously presented? 
+- How can consumers be satisfied the proposal represents a sound investment, when there is 
+no visibility on the line length proposed?  Similarly, when there is no indication of the types 
+of terrain and vegetation, especially when biodiversity offset costs represent 28% of the 
+project budget? 
+ 
+A copy of this Notice has been sent to the project proponent TransGrid. 
+ 
+Yours sincerely 
+ 
+ 
+ 
+Lee Kingma 
+Director 
+

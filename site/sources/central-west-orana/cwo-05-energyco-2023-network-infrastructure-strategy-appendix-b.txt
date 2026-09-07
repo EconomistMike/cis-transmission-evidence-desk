@@ -1,0 +1,2337 @@
+
+
+===== PDF PAGE 1 =====
+
+EnergyCo
+energyco.nsw.gov.au
+NSW Network  
+Infrastructure Strategy – 
+Appendices
+Appendix B: Network Infrastructure Options 
+May 2023
+The Energy Corporation of NSW (EnergyCo) is part of the Treasury Cluster
+
+===== PDF PAGE 2 =====
+
+Contents
+REZ Augmentations  4
+CWO REZ Augmentations (AEMO REZ ID: N3)  4
+NE REZ Augmentations (AEMO REZ ID: N2)  8
+HCC REZ Augmentations (AEMO REZ ID: N/A)  13
+SW REZ Augmentations (AEMO REZ ID: N5)  15
+Shared Network Augmentations to Leverage System Benefits from Long Duration Storage  18
+Downstream Augmentations  19
+CNSW – NNSW  19
+SNSW – SNW  24
+NSW Network Infrastructure Strategy – Appendices 2
+
+
+===== PDF PAGE 3 =====
+
+NSW Network Infrastructure Strategy – Appendices 3
+This appendix contains the complete list of potential network 
+augmentations, within REZs and within the shared network, that would 
+likely be required in order to practically expand the generation hosting 
+capacity of the REZs across the state. 
+This includes the potential expansions within the Central-West Orana, 
+New England, South West and Hunter-Central Coast REZs and the 
+downstream augmentations that could be required to deliver this 
+additional generation to the load centres along the east coast. 
+Limitations
+These augmentations are conceptual in nature, and 
+are informed by preliminary power system analysis 
+only. They represent a potential future network 
+configuration based on theoretical maximum 
+generation in the identified REZs. Detailed design, 
+planning and further technical analysis will be 
+required to determine not only the feasibility of 
+each option, but also what the detailed solution 
+would be. All of these options are subject to change, 
+and neither EnergyCo nor the Consumer Trustee 
+are bound to any particular option presented. 
+Unless otherwise specified, estimates are Class 5b 
+accuracy (i.e. +/- 50%) and for development and 
+construction costs only (excluding finance, generator 
+connection and system strength costs). This provides 
+a comparable basis with estimates for projects under 
+the National Electricity Rules. The total cost for 
+a REZ also includes finance, generator connection 
+and system strength costs at typically an additional 
+70% to 110% of development and construction costs. 
+Generator and storage proponents that hold access 
+rights will contribute connection and system strength 
+costs. All values are in real 2021 Australian dollars. 
+A detailed description of the method for estimating 
+cost and delivery schedules is in Appendix C of the 
+Draft NIS. Transfer capacities presented represent 
+the increased limit at the time of high summer 
+demand in the importing region. Transfer capacities 
+are for long-term simulations in the generation and 
+transmission expansion model. These vary with 
+generation dispatch, load and weather conditions. 
+Similar to NEMDE, these variabilities are captured 
+in the network constraint equations for simulations 
+in short-term models using time-sequential 
+half-hourly modeling. Transfer capacity increases 
+presented are indicative and will be updated with  
+additional power system studies.
+Considerations
+On 9 November 2020, the NSW Government released 
+the NSW Electricity Infrastructure Roadmap to 
+secure cheaper, cleaner and more reliable electricity 
+for NSW households and businesses. The NSW 
+Electricity Infrastructure Investment Act 2020 defines 
+long duration storage as storage with a registered 
+capacity that can be dispatched for at least eight 
+hours and stipulates a minimum objective of 2 GW 
+(excluding the Snowy 2.0 project) to be constructed 
+by the end of 2029.
+In addition to planning for future expansions to the 
+currently identified REZs, the network infrastructure 
+options identified are cognisant of potential 
+opportunities to enable pumped hydro energy storage 
+(PHES) projects with future network expansions. 
+Where potential for enabling PHES projects has been 
+identified, it has been detailed in the Notes column. 
+Whilst each of these network augmentations aren’t 
+explicitly required for the project to connect, they 
+have been associated together as in combination, 
+there are opportunities to leverage the synchronous 
+generation to release broader network benefits. 
+
+===== PDF PAGE 4 =====
+
+NSW Network Infrastructure Strategy – Appendices 4
+REZ Augmentations
+CWO REZ Augmentations (AEMO REZ ID: N3)
+Table 1: Network augmentation options for Central-West Orana REZ
+Option Description
+Network  
+configuration  
+diagrams
+Additional 
+network 
+capacity 
+(MW)
+Total cost  
+($ million) $/MW
+Earliest delivery
+System strength 
+remediation Notes
+Central 
+Scenario
+Coal Exit by 2030 and 
+Strong Electrification 
+Scenario 
+Transmission 
+Delay 
+Scenario
+Option 1A 
+(with Uungula 
+Mesh-in)
+(Pre-requisite: none)
+• New Merotherie 500/330 kV substation with 4 x 
+500/330/33 kV 1,500 MVA transformers
+• New 330 kV Uarbry East, Uarbry West, Elong Elong 
+switching stations
+• New 500 kV Wollar switching station
+• New 330 kV Uungula switching station and cut into 
+Line 79 Wellington – Wollar 
+• 2 x 500 kV DCST line from Wollar to Merotherie 
+with Quad Orange conductor
+• 1 x 330 kV DCST from Merotherie to Uarbry East 
+with Twin Olive conductor 
+• 1 x 330 kV DCST from Merotherie to Uarbry West 
+with Twin Olive conductor 
+• 2 x 500 kV DCST and initially operated 
+at 330 kV from Merotherie to Elong Elong 
+with Quad Orange conductor
+• 1 x 330 kV DCST from Elong Elong to Uungula 
+with Twin Olive conductor
+• 5 x 100 MVAr synchronous condensers 
+at Elong Elong switching station
+• 5 x 100 MVAr synchronous condensers 
+at Merotherie substation
+• 2 x 100 MVAr synchronous condensers at Uarbry 
+West switching station
+• 3 x 100 MVAr synchronous condensers 
+at Uarbry East switching station
+• Provision of switchbays for future generator 
+connections (cost estimation is not required)
+• An additional 330 kV SCST line from Bayswater 
+to Liddell
+• An additional 330 kV SCST line from Mt Piper 
+to Wallerawang
+Elong Elong
+Wellington Wollar
+Merotherie
+Uarbry West
+Uarbry East
+Liddell
+Uungula New Wollar Bayswater
+Mt Piper
+Wallerawang
+ Subject to further analysis. CWO REZ may 
+be meshed with Line 79 to increase transfer 
+capacity and deliver additional system 
+benefits. Further augmentations to CWO 
+REZ may be revised based on the outcome 
+of this analysis.
+4,500 3,186 0.71 September  
+2027
+June  
+2027
+June  
+2028
+Included as part 
+of network build 
+(will be updated 
+based on detailed 
+power system study)
+Option 2A Not used    
+
+===== PDF PAGE 5 =====
+
+NSW Network Infrastructure Strategy – Appendices 5
+CWO REZ Augmentations (AEMO REZ ID: N3) continued
+Option Description
+Network  
+configuration  
+diagrams
+Additional 
+network 
+capacity 
+(MW)
+Total cost  
+($ million) $/MW
+Earliest delivery
+System strength 
+remediation Notes
+Central 
+Scenario
+Coal Exit by 2030 and 
+Strong Electrification 
+Scenario 
+Transmission 
+Delay 
+Scenario
+Option 2B 
+(Elong Elong 
+expansion)
+(Pre-requisite: CWO REZ Option 1A)
+• Expand Elong Elong substation with 3 x  
+500/330/33 kV 1,500 MVA transformers 
+• Operate 4 circuits between Elong Elong 
+and Merotherie to 500 kV
+Note: Hunter Transmission Project will be required 
+when the total network capacity is greater than 3 GW 
+as pre‑requisite. Cost is not included.
+Elong Elong
+Wellington Wollar
+Merotherie
+Uarbry West
+Uarbry East
+Liddell
+Uungula New Wollar Bayswater
+Mt Piper
+Wallerawang
+3,000 324 0.11 March  
+2031
+December  
+2030
+March  
+2032
+Included as part of 
+network build (will 
+be updated based 
+on detailed power 
+system study)
+ 
+Option 3A  
+(Tooraweenah 
+expansion) 
+(Pre-requisite: CWO REZ Option 2B)
+• New Tooraweenah 500/330 kV substation with 3 x 
+500/330/33 kV 1,500 MVA transformers
+• New 500 kV DCST line from Tooraweenah 
+to Merotherie with Quad Orange conductor
+• Augment Merotherie substations
+• Provision of switchbays for future generator 
+connections (cost estimation is not required)
+Elong Elong
+Wellington Wollar
+Merotherie
+Uarbry West
+Tooraweenah
+Uarbry East
+Liddell
+Uungula New Wollar Bayswater
+Mt Piper
+Wallerawang
+3,000 924 0.31 March  
+2031
+December  
+2030
+March  
+2032
+ 
+
+===== PDF PAGE 6 =====
+
+NSW Network Infrastructure Strategy – Appendices 6
+CWO REZ Augmentations (AEMO REZ ID: N3) continued
+Option Description
+Network  
+configuration  
+diagrams
+Additional 
+network 
+capacity 
+(MW)
+Total cost  
+($ million) $/MW
+Earliest delivery
+System strength 
+remediation Notes
+Central 
+Scenario
+Coal Exit by 2030 and 
+Strong Electrification 
+Scenario 
+Transmission 
+Delay 
+Scenario
+Option 3B  
+(Tooraweenah 
+further 
+expansion) 
+(Pre-requisite: CWO REZ Option 3A)
+• Expand Tooraweenah 500/330 kV substation with 1 x 
+500/330/33 kV 1,500 MVA transformer
+• An additional 500 kV SCST line from Tooraweenah 
+to Merotherie with Quad Orange conductor
+• Augment Merotherie substations
+• Provision of switchbays for future generator 
+connections (cost estimation is not required)
+Elong Elong
+Wellington Wollar
+Merotherie
+Uarbry West
+Tooraweenah
+Uarbry East
+Liddell
+Uungula New Wollar Bayswater
+Mt Piper
+Wallerawang
+1,500 944 0.63 March  
+2035
+December  
+2034
+March  
+2036
+Included as part of 
+network build (will 
+be updated based 
+on detailed power 
+system study)
+ 
+Option 3C 
+(Dubbo 
+expansion)
+(Pre-requisite: CWO REZ Option 2B)
+• Expand Dubbo as 330/132 kV substation with 
+3 x 330/132 kV 375 MVA transformers
+• An additional 330 kV DCST line from Dubbo 
+to Elong Elong with Twin Mango conductor
+• Provision of switchbays for future generator 
+connections (cost estimation is not required)
+An additional 500/330 kV 1500 MVA transformer at 
+Elong Elong 
+Note: Hunter Transmission Project will be required 
+when the total network capacity is greater than 3 GW 
+as pre‑requisite. Cost is not included.
+Elong Elong
+Wellington
+Wollar
+Merotherie
+Uarbry West
+Dubbo
+(330/132 kV)
+Uarbry East
+Liddell
+Uungula New Wollar Bayswater
+Mt Piper
+Wallerawang
+500 419 0.84 March  
+2035
+December  
+2034
+March  
+2036
+ 
+Option 4 
+(Stubbo 
+expansion)
+(Pre-requisite: none)
+• New 330 kV Stubbo switching station and cuts into 
+Line 79 Wellington – Wollar
+• New 330 kV SCST line between Wollar and Stubbo 
+with Twin Olive conductor
+• Expand Wollar substation with 330 kV busbar and 
+1 x 500/300/33 kV 1,500 MVA transformer
+• Provision of switchbays for future generator 
+connections (cost estimation is not required)
+Wellington Wollar LiddellStubbo
+Bayswater
+Mt Piper
+Wallerawang
+500 350 0.70 March  
+2027
+December  
+2026
+March  
+2028
+ 
+Option 5A 
+(Burrendong 
+expansion 1)
+(Pre-requisite: none)
+• New 330 kV Burrendong switching station and cuts 
+into Line 72 Wellington – Mt Piper
+• New Uungula switching station and cuts into Line 79 
+Wollar – Wellington
+• New 330 kV DCST line from Burrendong switching 
+station to Uungula with Twin Mango conductor 
+Wellington Wollar LiddellUungula
+Bayswater
+Mt Piper
+Wallerawang
+Burrendong A
+500 350 0.70 March  
+2027
+December  
+2026
+March  
+2028
+With this 
+augmentation, up to 
+500 MW of additional 
+PHES could connect
+
+===== PDF PAGE 7 =====
+
+NSW Network Infrastructure Strategy – Appendices 7
+CWO REZ Augmentations (AEMO REZ ID: N3) continued
+Option Description
+Network  
+configuration  
+diagrams
+Additional 
+network 
+capacity 
+(MW)
+Total cost  
+($ million) $/MW
+Earliest delivery
+System strength 
+remediation Notes
+Central 
+Scenario
+Coal Exit by 2030 and 
+Strong Electrification 
+Scenario 
+Transmission 
+Delay 
+Scenario
+Option 5B 
+(Kerrs Creek 
+expansion 1)
+(Pre-requisite: Option 4 and 5A)
+• New 330 kV Kerrs Creek switching station and 
+cuts into Line 72 and new parallel section between 
+Mt Piper – Burrendong A
+• New 330 kV SCST line between Burrendong A and 
+Mt Piper with Twin Olive conductor
+• New 330 kV SCST line between Uungula and Stubbo 
+with Twin Olive conductor
+• New 2 x 330 kV 60 MVAr line shunt reactors at 
+Burrendong A and 2 x 330 kV 60 MVAr line shunt 
+reactors at Mt Piper
+Wellington Wollar LiddellUungula
+Bayswater
+Mt Piper
+Wallerawang
+Burrendong A
+Stubbo
+Kerrs Creek
+800 1,061 1.33 March  
+2031
+December  
+2030
+March  
+2032
+Included as part of 
+network build (will 
+be updated based 
+on detailed power 
+system study)
+With this 
+augmentation, up to 
+310 MW of additional 
+PHES could connect 
+(alternative to option 
+5C)
+Option 5C 
+(Kerrs Creek 
+expansion 2)
+(Pre-requisite: Option 4 and 5A)
+• New 330 kV Kerrs Creek switching station
+• New 330 kV DCST line from Kerrs Creek 
+to Burrendong switching station with 
+Twin Mango conductor
+• New 330 kV DCST line between Uungula and Stubbo 
+with Twin Olive conductor
+• New 330 kV SCST line between Stubbo and Wollar 
+with Twin Olive conductor
+Wellington Wollar LiddellUungula
+Kerrs Creek
+Bayswater
+Mt Piper
+Wallerawang
+Burrendong A
+Stubbo
+800 746 0.93 March  
+2031
+December  
+2030
+March  
+2032
+With this 
+augmentation, up to 
+310 MW of additional 
+PHES could connect 
+(alternative to option 
+5B)
+Option 5D 
+(Burrendong 
+B expansion 1)
+(Pre-requisite: Option 5B or 5C)
+• New 330 kV Burrendong B switching station
+• New 330 kV DCST line from Burrendong B 
+switching station to Uungula switching station 
+with Twin Mango conductor
+Wellington Wollar LiddellUungula
+Kerrs Creek
+Bayswater
+Mt Piper
+Wallerawang
+Burrendong A
+Stubbo
+Burrendong B
+500 223 0.45 March  
+2035
+December  
+2034
+March  
+2036
+ 
+
+===== PDF PAGE 8 =====
+
+NSW Network Infrastructure Strategy – Appendices 8
+NE REZ Augmentations (AEMO REZ ID: N2)
+Table 2: Network augmentation options for New England REZ
+Option Description
+Network  
+configuration  
+diagrams
+Additional 
+network 
+capacity 
+(MW)
+Total cost  
+($ million) $/MW
+Earliest delivery
+System strength 
+remediation Notes
+Central 
+Scenario
+Coal Exit by 2030 and 
+Strong Electrification 
+Scenario
+Transmission 
+Delayed 
+Scenario
+Option 1 (Pre-requisite: none)
+• New Central South (Hub 1) 500/330 kV substation 
+with 3 x 500/330/33 kV 1,500 MVA transformers
+• New 330 kV South (Hub 3) and East (Hub 4) 
+switching stations 
+• New 330 kV Central (Hub 5) switching station and cut 
+into the existing lines between Tamworth and Armidale 
+• New 500 kV built and initially 330 kV operated DCST 
+line from Central (Hub 5) to Central South (Hub 1) 
+with Quad Orange conductor
+• New 330 kV DCST line between Central South (Hub 1) 
+and South (Hub 3) with Twin Olive conductor
+• New 500 kV DCST line between Central South (Hub 1) 
+and Bayswater with Quad Orange conductor 
+• New 330 kV DCST line between Central South (Hub 1) 
+and East (Hub 4) with Twin Olive conductor 
+• 4 x 500 kV 150 MVAr line shunt reactors (in total) 
+are required for 500 kV DCST line between Hub 3 
+and Bayswater
+• New 6 x 330 kV 200 MVA phase shifting transformers 
+at Central (Hub 5)
+Tamworth
+Sapphire
+Armidale
+Central (Hub 5) East (Hub 4)
+Central South (Hub 1)
+South (Hub 3)
+Bayswater Eraring
+2,400 2,205 0.74 September  
+2028
+June  
+2028
+September  
+2029
+This option will 
+increase the NNSW – 
+CNSW and/or NNSW 
+– SNW Cut set limit. 
+Please refer to Table 6 
+for details.
+Option 2A (Pre-requisite: NE REZ Option 1)
+• Expand Central (Hub 5) switching station to 
+500/330 kV substation with 3 x 500/330/33 kV 
+1,500 MVA transformers
+• Operate line between Central (Hub 5) and Central 
+South (Hub 1) to 500 kV 
+• New 500 kV DCST from Central South (Hub 1) 
+to Eraring with Quad Orange conductor
+• 4 x 500 kV 150 MVAr line shunt reactors (in total) are 
+required for 500 kV DCST line between Central South 
+(Hub 1) and Eraring
+• Augment Central South (Hub 1) and Eraring 
+to accommodate additional lines
+Tamworth
+Sapphire
+Armidale
+Central (Hub 5) East (Hub 4)
+Central South (Hub 1)
+South (Hub 3)
+Bayswater Eraring
+3,600 2,097 0.70 September  
+2032
+June  
+2032
+September  
+2033
+  This option will 
+increase the NNSW – 
+CNSW and/or NNSW 
+– SNW Cut set limit. 
+Please refer to Table 6 
+for details.
+
+===== PDF PAGE 9 =====
+
+NSW Network Infrastructure Strategy – Appendices 9
+NE REZ Augmentations (AEMO REZ ID: N2) continued
+Option Description
+Network  
+configuration  
+diagrams
+Additional 
+network 
+capacity 
+(MW)
+Total cost  
+($ million) $/MW
+Earliest delivery
+System strength 
+remediation Notes
+Central 
+Scenario
+Coal Exit by 2030 and 
+Strong Electrification 
+Scenario
+Transmission 
+Delayed 
+Scenario
+Option 2B (Pre-requisite: NE REZ Option 1)
+• Expand Central (Hub 5) switching station to 
+500/330 kV substation with 3 x 500/330/33 kV 
+1,500 MVA transformers
+• Operate line between Central (Hub 5) and Central 
+South (Hub 1) to 500 kV 
+• New 500 kV DCST from Central (Hub 5) to Bayswater 
+with Quad Orange conductor
+• 4 x 500 kV 150 MVAr line shunt reactors (in total) are 
+required for 500 kV DCST line between Central (Hub 
+5) and Bayswater
+Tamworth
+Sapphire
+Armidale
+Central (Hub 5) East (Hub 4)
+Central South (Hub 1)
+South (Hub 3)
+Bayswater Eraring
+3,000 
+(with 3 Tx 
+at Hub 5)
+3,600 
+(with 3 Tx 
+at Hub 5 + 
+additional 
+1 Tx at 
+Hub 1) 
+subject 
+to build 
+limit and 
+external 
+network 
+capacity
+1,946 0.43 September  
+2032
+June  
+2032
+September  
+2033
+  This option will 
+increase the NNSW – 
+CNSW and/or NNSW 
+– SNW Cut set limit. 
+Please refer to Table 6 
+for details.
+Option 2C (Pre-requisite: NE REZ Option 1)
+• Expand Central (Hub 5) switching station to 
+500/330 kV substation with 3 x 500/330/33 kV 
+1,500 MVA transformers
+• Operate line between Central (Hub 5) and Central 
+South (Hub 1) to 500 kV 
+• New 500 kV DCST from Central South (Hub 1) 
+to Eraring with Quad Orange conductor
+• 4 x 500 kV 150 MVAr line shunt reactors (in total) are 
+required for 500 kV DCST line between Central South 
+(Hub 1) and Eraring
+• Augment Central South (Hub 1) and Eraring to 
+accommodate additional lines
+• Rebuild portion of Line 86 from Central (Hub 5) 
+to Tamworth as 330 kV double circuit line
+• Rebuild Line 88 Tamworth – Muswellbrook 
+and Line 83 Liddell – Muswellbrook as 330 kV 
+double circuit line
+• Augment Central (Hub 5), Central South (Hub 1), 
+Bayswater, Tamworth, Muswellbrook and Liddell 
+to accommodate additional lines
+Tamworth
+Sapphire
+Armidale
+Central (Hub 5)
+East
+(Hub 4)
+Central South
+(Hub 1)
+South
+(Hub 3)
+Bayswater
+Liddell
+Muswellbrook
+Eraring
+3,500 2,780 0.79 September  
+2032
+June  
+2032
+September  
+2033
+  This option will 
+increase the NNSW – 
+CNSW and/or NNSW 
+– SNW Cut set limit. 
+Please refer to Table 6 
+for details.
+
+===== PDF PAGE 10 =====
+
+NSW Network Infrastructure Strategy – Appendices 10
+NE REZ Augmentations (AEMO REZ ID: N2) continued
+Option Description
+Network  
+configuration  
+diagrams
+Additional 
+network 
+capacity 
+(MW)
+Total cost  
+($ million) $/MW
+Earliest delivery
+System strength 
+remediation Notes
+Central 
+Scenario
+Coal Exit by 2030 and 
+Strong Electrification 
+Scenario
+Transmission 
+Delayed 
+Scenario
+Option 2D (Pre-requisite: NE REZ Option 1)
+• Expand Central (Hub 5) switching station to 
+500/330 kV substation with 3 x 500/330/33 kV 
+1,500 MVA transformers
+• Operate line between Central (Hub 5) and Central 
+South (Hub 1) to 500 kV 
+• New 500 kV DCST from Central (Hub 5) to Bayswater 
+with Quad Orange conductor
+• 4 x 500 kV 150 MVAr line shunt reactors (in total) are 
+required for 500 kV DCST line between Central (Hub 
+5) and Bayswater
+• Rebuild portion of Line 86 from Central (Hub 5) 
+to Tamworth as 330 kV double circuit line
+• Rebuild Line 88 Tamworth – Muswellbrook and 
+Line 83 Liddell – Muswellbrook as 330 kV double 
+circuit line
+• Augment Central (Hub 5), Central South (Hub 1), 
+Bayswater, Tamworth, Muswellbrook and Liddell 
+to accommodate additional lines
+Tamworth
+Sapphire
+Armidale
+Central (Hub 5)
+East
+(Hub 4)
+Central South
+(Hub 1)
+South
+(Hub 3)
+Bayswater
+Liddell
+Muswellbrook
+Eraring
+3,500 
+(with 3 Tx 
+at Hub 5)
+5,000 
+(with 3 Tx 
+at Hub 5 + 
+additional 
+1 Tx at Hub 
+1) subject 
+to build 
+limit and 
+external 
+network 
+capacity
+2,686 0.54 September  
+2032
+June  
+2032
+September  
+2033
+  This option will 
+increase the NNSW – 
+CNSW and/or NNSW 
+– SNW Cut set limit. 
+Please refer to Table 6 
+for details.
+Option 3A Not used    
+Option 3B Not used    
+Option 3C Not used    
+Option 3D Not used    
+Option 4A (Pre-requisite: NE REZ Option 2A)
+• New Hub 6 and Hub 8 330 kV switching station
+• New 330 kV DCST line from Hub 6 to Hub 8 
+with Twin Olive conductor
+• New 330 kV DCST line from Hub 8 to Hub 5 
+with Twin Olive conductor
+• New 500 kV DCST and strung on one side line from 
+Hub 5 to Hub 1 with Quad Orange conductor
+• Augment Hub 5 to accommodate additional lines 
+and 1 x 500/330/33 kV 1,500 MVA transformers
+Tamworth
+Sapphire
+Armidale
+Hub 8
+Hub 6
+Central (Hub 5) East (Hub 4)
+Central South (Hub 1)
+South (Hub 3)
+Bayswater Eraring
+1,400 870 0.62 September  
+2036
+June  
+2036
+September  
+2037
+   
+
+===== PDF PAGE 11 =====
+
+NSW Network Infrastructure Strategy – Appendices 11
+NE REZ Augmentations (AEMO REZ ID: N2) continued
+Option Description
+Network  
+configuration  
+diagrams
+Additional 
+network 
+capacity 
+(MW)
+Total cost  
+($ million) $/MW
+Earliest delivery
+System strength 
+remediation Notes
+Central 
+Scenario
+Coal Exit by 2030 and 
+Strong Electrification 
+Scenario
+Transmission 
+Delayed 
+Scenario
+Option 4B (Pre-requisite: NE REZ Option 4A)
+• New Hub 7, Hub 21 and Hub 23 330 kV 
+switching stations
+• New Hub 10 switching station which cuts into existing 
+330 kV lines between Sapphire and Armidale
+• New 330 kV DCST line from Hub 7 to Hub 21 
+with Twin Olive conductor
+• New 330 kV DCST line from Hub 21 to Sapphire 
+with Twin Olive conductor
+• New 330 kV SCST line from Hub 23 to Hub 10 
+with Twin Mango conductor
+• New 330 kV SCST line from Sapphire to Armidale 
+via Hub 10 with Twin Olive conductor
+• New 330 kV DCST line from Hub 10 
+to Hub 8 with Twin Olive conductor
+• New 330 kV SCST line from Hub 8 to Hub 5 
+with Twin Olive conductor
+• New 330 kV SCST line from Armidale to Hub 5 
+with Twin Olive conductor
+• Augment Hub 5 to accommodate additional lines 
+and 1 x 500/330/33 kV 1,500 MVA transformers
+Tamworth
+Sapphire Hub 21
+Hub 7
+Hub 10 Hub 23
+Armidale
+Hub 8
+Hub 6
+Central (Hub 5) East (Hub 4)
+Central South (Hub 1)
+South (Hub 3)
+Bayswater Eraring
+1,600 1,690 1.06 September  
+2040
+June  
+2040
+September  
+2041
+   
+Option 4C (Pre-requisite: NE REZ Option 2B)
+• New Hub 6 and Hub 8 330 kV switching stations
+• New 330 kV DCST line from Hub 6 to Hub 8 with 
+Twin Olive conductor
+• New 330 kV DCST line from Hub 8 to Hub 5 with 
+Twin Olive conductor
+• New 500 kV DCST and strung on one side from 
+Hub 5 to Hub 1 with Quad Orange conductor
+• Augment Hub 5 to accommodate additional lines 
+and 1 x 500/330/33 kV 1,500 MVA transformers
+Tamworth
+Sapphire
+Armidale
+Hub 8
+Hub 6
+Central (Hub 5) East (Hub 4)
+Central South (Hub 1)
+South (Hub 3)
+Bayswater Eraring
+1,400 880 0.63 September  
+2036
+June  
+2036
+September  
+2037
+   
+Option 4D (Pre-requisite: NE REZ Option 2B)
+• New North switching station which cuts into Sapphire 
+– Armidale and Dumaresq – Armidale line
+• New 500kV built and initially 330 kV operated DCST 
+line from North switching station to Central (Hub 5) 
+with Quad Orange conductor
+• Augment Central (Hub 5) with one 
+additional 500/330kV transformer
+• New 500kV DCST line strung on one side between 
+Central (Hub 5) to Central South (Hub 1)
+Tamworth
+Sapphire
+Armidale
+North
+Central (Hub 5) East (Hub 4)
+Central South (Hub 1)
+South (Hub 3)
+Bayswater Eraring
+1,500 786 0.52 September  
+2036
+June  
+2036
+September  
+2037
+   
+
+===== PDF PAGE 12 =====
+
+NSW Network Infrastructure Strategy – Appendices 12
+NE REZ Augmentations (AEMO REZ ID: N2) continued
+Option Description
+Network  
+configuration  
+diagrams
+Additional 
+network 
+capacity 
+(MW)
+Total cost  
+($ million) $/MW
+Earliest delivery
+System strength 
+remediation Notes
+Central 
+Scenario
+Coal Exit by 2030 and 
+Strong Electrification 
+Scenario
+Transmission 
+Delayed 
+Scenario
+Option 5A (Pre-requisite: none)
+• New Hub 9 switching station
+• Establish a new Lower Creek 330/132 kV substation 
+with 1 x 330/132 kV 375 MVA transformer
+• Rebuild part of Line 965 as 330 kV DCST from 
+Armidale to Lower Creek with Twin Olive conductor
+• Relocate existing 132 kV 200 MVA phase shift 
+transformer on Line 965 from Armidale to 
+Lower Creek
+• New 330 kV DCST from Lower Creek to Hub 9 
+with Twin Mango conductor
+Tamworth
+Sapphire Coffs Harbour
+Hub 9
+Lower Creek
+(330/132 kV)
+Kempsey
+(132 kV)
+Armidale
+800 647 0.81 September  
+2028
+June  
+2028
+September  
+2029
+  With this 
+augmentation, up to 
+900 MW of additional 
+PHES could connect
+Option 5B (Pre-requisite: NE REZ Option 5A)
+• New Hub 16 switching station which cuts into existing 
+Line 87 from Armidale to Coffs Harbour
+• New Hub 19 switching station and cuts into the line 
+from Armidale to Lower Creek
+• New 330 kV SCST line from Hub 16 to Hub 19 with 
+Twin Mango conductor Tamworth
+Sapphire Coffs Harbour
+Hub 9
+Hub 16
+Hub 19
+Lower Creek
+(330/132 kV)
+Kempsey
+(132 kV)
+Armidale
+300 218 0.73 September  
+2033
+June  
+2033
+September  
+2034
+   
+
+===== PDF PAGE 13 =====
+
+NSW Network Infrastructure Strategy – Appendices 13
+HCC REZ Augmentations (AEMO REZ ID: N/A)
+Table 4: Network augmentation options for Hunter-Central Coast REZ
+Option Description
+Network  
+configuration  
+diagrams
+Additional 
+network 
+capacity 
+(MW)
+Total cost  
+($ million) $/MW
+Earliest delivery
+System 
+strength 
+remediation Notes
+Central 
+Scenario
+Coal Exit by 2030 and 
+Strong Electrification 
+Scenario
+Transmission 
+Delay 
+Scenario
+Option 1 
+(reference 
+scope)
+(Pre-requisite: None)
+• 1 x new 330 kV circuit from Liddell to Muswellbrook 
+with Twin Olive conductor (17.68 km)
+• 1 x 330 kV DCST from East Hub to Muswellbrook
+• 1 x 330 kV DCST from West Hub to Muswellbrook
+Tamworth
+Newcastle
+Tomago
+Liddell
+Muswellbrook
+West Hub
+East Hub
+950* 425 0.44 December  
+2026
+June  
+2026
+December  
+2027
+Included as part 
+of network build 
+(will be updated 
+based on 
+detailed power 
+system study)
+With this 
+augmentation, 
+up to 250 MW of 
+additional PHES 
+could connect
+Option 2 (Pre-requisite: HCC REZ Option 1)
+• Cut Muswellbrook into parallel Line 84 Liddell – 
+Tamworth (1 x 330 KV DCST around 4 km from 
+Muswellbrook to Line 84)
+Tamworth
+Newcastle
+Tomago
+Liddell
+Muswellbrook
+West Hub
+East Hub
+700* 31 0.04 December  
+2030
+September  
+2030
+December  
+2031
+* Note that the total available downstream capacity for this and CWO REZ combined is approximately 3,000 MW until Hunter Transmission Project is commissioned. The Waratah Super Battery could provide approximately 300 MW additional capacity if paired with new generation near 
+Muswellbrook, before Hunter Transmission Project is commissioned. Post Hunter Transmission Project, the proposed indicative transfer improvement will be achieved
+** Note that the total available downstream capacity for this, Upper Hunter connection and CWO REZ combined is approximately 3,000 MW until Hunter Transmission Project is commissioned.  
+Post Hunter Transmission Project, the proposed indicative transfer improvement will be achieve.  
+Post Hunter Transmission Project+NEREZ, the total downstream capacity for this, Upper Hunter connection, CWO REZ and NE REZ combined is approximately 7,400MW
+
+===== PDF PAGE 14 =====
+
+NSW Network Infrastructure Strategy – Appendices 14
+HCC REZ Augmentations (AEMO REZ ID: N/A) continued
+Option Description
+Network  
+configuration  
+diagrams
+Additional 
+network 
+capacity 
+(MW)
+Total cost  
+($ million) $/MW
+Earliest delivery
+System 
+strength 
+remediation Notes
+Central 
+Scenario
+Coal Exit by 2030 and 
+Strong Electrification 
+Scenario
+Transmission 
+Delay 
+Scenario
+Option 3 (Pre-requisite: None)
+• New 330 kV Singleton switching station and cuts 
+into line 82 Liddell – Tomago
+Tamworth
+Newcastle
+Tomago
+Liddell
+Muswellbrook
+Singleton
+500** 52 0.10 December  
+2026
+June  
+2026
+December  
+2027
+Included as part 
+of network build 
+(will be updated 
+based on 
+detailed power 
+system study)
+Option 4 (Pre-requisite: HCC REZ Option 3)
+• Rebuild Line 82 Liddell – Tomago via Singleton 
+as 330 kV double circuit line
+Tamworth
+Newcastle
+Tomago
+Liddell
+Muswellbrook
+Singleton
+800** 945 1.18 December  
+2030
+September  
+2030
+December  
+2031
+** Note that the total available downstream capacity for this, Upper Hunter connection and CWO REZ combined is approximately 3,000 MW until Hunter Transmission Project is commissioned.  
+Post Hunter Transmission Project, the proposed indicative transfer improvement will be achieve.  
+Post Hunter Transmission Project+NEREZ, the total downstream capacity for this, Upper Hunter connection, CWO REZ and NE REZ combined is approximately 7,400MW
+
+===== PDF PAGE 15 =====
+
+NSW Network Infrastructure Strategy – Appendices 15
+SW REZ Augmentations (AEMO REZ ID: N5)
+Table 3: Network augmentation options for South-West REZ
+Option Description
+Network  
+configuration  
+diagrams
+Additional 
+network 
+capacity 
+(MW)
+Total cost  
+($ million) $/MW
+Earliest delivery
+System strength 
+Remediation Notes
+Central 
+Scenario
+Coal Exit by 2030 and 
+Strong Electrification 
+Scenario
+Transmission 
+Delay 
+Scenario
+Option 1 Not used Included as part of 
+network build (will 
+be updated based 
+on detailed power 
+system study)
+ 
+Option 2 (Pre-requisite: Dinawan – Wagga 500 kV upgrade)
+• New Conargo 330 kV switching station
+• New 330 kV DCST line from Conargo to Dinawan 
+with Twin Mango conductor
+Gugaa
+Maragle
+Dinawan
+Wagga
+Wagga
+Conargo
+To Victoria
+(VNI West)
+Bannaby
+Buronga
+800 349 0.44 June  
+2031
+March  
+2031
+June  
+2032
+ 
+Option 3A (Pre-requisite: Dinawan – Wagga 500 kV upgrade)
+• New Mabins Well 330 kV switching station
+• New 330 kV DCST line from Mabins Well to Dinawan 
+with Twin Olive conductor
+Gugaa
+Maragle
+Dinawan
+Wagga
+Wagga
+Mabins Well
+Bannaby
+Buronga
+To Victoria
+(VNI West)
+1,400 292 0.21 June  
+2031
+March  
+2031
+June  
+2032
+ 
+Option 3B (Pre-requisite: SW REZ Option 3A)
+• New 330 kV SCST line from Mabins Well to Dinawan 
+with Twin Olive conductor Gugaa
+Maragle
+Dinawan
+Wagga
+Wagga
+Mabins Well
+Bannaby
+Buronga
+To Victoria
+(VNI West)
+1,400 241 0.17 June  
+2031
+March  
+2031
+June  
+2032
+ 
+
+===== PDF PAGE 16 =====
+
+NSW Network Infrastructure Strategy – Appendices 16
+SW REZ Augmentations (AEMO REZ ID: N5) continued
+Option Description
+Network  
+configuration  
+diagrams
+Additional 
+network 
+capacity 
+(MW)
+Total cost  
+($ million) $/MW
+Earliest delivery
+System strength 
+Remediation Notes
+Central 
+Scenario
+Coal Exit by 2030 and 
+Strong Electrification 
+Scenario
+Transmission 
+Delay 
+Scenario
+Option 4 (Pre-requisite: SW REZ Option 1)
+• New Cobb 330 kV switching station which cuts 
+into lines between Buronga and Dinawan
+• New 330 kV DCST line strung on one side from 
+Cobb to Dinawan with Twin Olive conductor
+Gugaa
+Maragle
+Dinawan
+Wagga
+Wagga
+Bannaby
+CobbBuronga
+To Victoria
+(VNI West)
+1,400 516 0.37 June  
+2031
+March  
+2031
+June  
+2032
+Included as part of 
+network build (will 
+be updated based 
+on detailed power 
+system study)
+ 
+Option 5 (Pre-requisite: SW REZ Option 4)
+• New Carrathool 330 kV switching station
+• New Warrawidgee 330 kV switching station
+• New 330 kV DCST line from Warrawidgee 
+to Carrathool with Twin Mango conductor
+• New 330 kV DCST line from Carrathool to Cobb 
+with Twin Olive conductor
+• String the other side of 330 kV line from Cobb 
+to Dinawan
+Gugaa
+Maragle
+Dinawan
+Cobb
+Carrathool
+Warrawidgee
+Wagga
+Wagga
+Buronga
+Bannaby
+To Victoria
+(VNI West)
+1,400 986 0.70 June  
+2035
+March  
+2035
+June  
+2036
+ 
+Option 6A (Pre-requisite: SW REZ Option 4)
+• New Maude 330 kV switching station
+• New Abercrombie 330 kV switching station
+• New 330 kV DCST line from Maude to Abercrombie 
+with Twin Mango conductor
+• New 330 kV DCST line from Abercrombie to Cobb 
+with Twin Olive conductor
+• String the other side of 330 kV line from Cobb 
+to Dinawan
+Gugaa
+Maragle
+Dinawan
+Cobb
+Abercrombie
+Maude
+Wagga
+Wagga
+Buronga
+Bannaby
+To Victoria
+(VNI West)
+1,400 1,043 0.74 June  
+2035
+March  
+2035
+June  
+2036
+ 
+Option 6B (Pre-requisite: SW REZ Option 6A)
+• New 330 kV DCST line from Abercrombie to Cobb 
+with Twin Olive conductor
+• Rebuild 4 x 330 kV lines between Cobb and Dinawan 
+to 500 kV with Quad Orange Conductor
+• New 4 x 500/330/33 kV 1,500 MVA transformers 
+at Cobb
+Gugaa
+Maragle
+Dinawan
+Cobb
+Abercrombie
+Maude
+Wagga
+Wagga
+Buronga
+Bannaby
+To Victoria
+(VNI West)
+2,800 2,519 0.90 June  
+2039
+March  
+2039
+June  
+2040
+ 
+
+===== PDF PAGE 17 =====
+
+NSW Network Infrastructure Strategy – Appendices 17
+SW REZ Augmentations (AEMO REZ ID: N5) continued
+Option Description
+Network  
+configuration  
+diagrams
+Additional 
+network 
+capacity 
+(MW)
+Total cost  
+($ million) $/MW
+Earliest delivery
+System strength 
+Remediation Notes
+Central 
+Scenario
+Coal Exit by 2030 and 
+Strong Electrification 
+Scenario
+Transmission 
+Delay 
+Scenario
+Option 7A (Pre-requisite: SW REZ Option 4)
+• New Kerri Kerri switching station which cuts into lines 
+between Buronga and Cobb
+• New 330 kV DCST line from Kerri Kerri to Cobb 
+with Twin Olive conductor
+• New 330 kV DCST line from Cobb to Dinawan 
+with Twin Olive conductor
+• 4 x 330 kV 60 MVAr line shunt reactors (in total) 
+are required for 330 kV DCST line between 
+Kerri Kerri and Cobb
+Gugaa
+Maragle
+Dinawan
+Wagga
+Wagga
+Bannaby
+Cobb
+Kerri Kerri
+Buronga
+To Victoria
+(VNI West)
+2,000 1,101 0.55 June  
+2035
+March  
+2035
+June  
+2036
+Included as part of 
+network build (will 
+be updated based 
+on detailed power 
+system study)
+ 
+Option 7B (Pre-requisite: SW REZ Option 7A)
+• New Euston switching station
+• New Mallee switching station which cuts into lines 
+between Buronga and Kerri Kerri switching station
+• New 330 kV DCST line from Euston to Mallee 
+with Twin Mango conductor
+• New 330 kV SCST line from Mallee to Kerri Kerri 
+with Twin Olive conductor
+• New 330 kV SCST line from Kerri Kerri to Cobb 
+with Twin Olive conductor
+• New 330 kV SCST line from Cobb to Dinawan 
+with Twin Olive conductor
+Gugaa
+Maragle
+Dinawan
+Wagga
+Wagga
+Bannaby
+CobbKerri
+Kerri
+Mallee
+Euston
+Buronga
+To Victoria
+(VNI West)
+1,400 1,397 1.00 June  
+2039
+March  
+2039
+June  
+2040
+ 
+
+===== PDF PAGE 18 =====
+
+NSW Network Infrastructure Strategy – Appendices 18
+Shared Network Augmentations to Leverage System Benefits from Long Duration Storage
+Table 5: Network augmentation options that could leverage system benefits from long duration storage
+Option Description
+Network  
+Configuration  
+Diagrams
+Additional 
+network 
+capacity 
+(MW)
+Total Cost  
+($ million)
+Estimate 
+source
+Cost 
+estimate 
+class $/MW
+Earliest Delivery
+System 
+Strength 
+Remediation Notes
+Central 
+Scenario
+Early 
+Coal Exit 
+Scenario
+Transmission 
+Delayed 
+Scenario
+Pumped hydro 
+near Bathurst
+• Establish a new Bathurst 330/132 kV 
+substation with 1 x 330/132 kV 
+375 MVA transformer
+• Rebuild part of Line 949 as 330 kV circuit 
+from Mt Piper to Bathurst with Twin Olive 
+conductor on the same tower as portion 
+of Line 72 Mt Piper – Wellington
+Wellington
+Orange North
+(132 kV)
+Bathurst
+(330/132 kV)
+Mt Piper
+325 90 AEMO 
+TCD
+Class 5b 0.28 December  
+2026
+September  
+2026
+December  
+2027
+N/A With this 
+augmentation, up to 
+325 MW of additional 
+PHES could connect
+
+===== PDF PAGE 19 =====
+
+NSW Network Infrastructure Strategy – Appendices 19
+Downstream Augmentations
+CNSW – NNSW
+Table 6: Improvements to the CNSW – NNSW cut set are encompassed by the augmentations within the NE REZ
+Transfer Increase NNSW – CNSW (MW) Transfer Increase NNSW – SNW (MW)
+Option 1 3,000 -
+Option 2A - 3,000
+Option 2B 3,000 -
+Option 2C 500 3,000
+Option 2D 3,500 -
+
+===== PDF PAGE 20 =====
+
+NSW Network Infrastructure Strategy – Appendices 20
+CNSW – NNSW continued
+Table 7: Downstream network augmentations that impact the CNSW – SNW flow path
+Flow 
+path
+Development 
+path
+Development 
+driver Option name Augmentation description
+Forward 
+direction 
+power flow
+Notional transfer level increase (MW)*
+Indicative 
+cost 
+estimate  
+($ million)
+Earliest delivery
+Additional REZ 
+hosting capacity 
+provided (MW) Notes
+Forward  
+direction
+Reverse  
+direction
+Central 
+Scenario
+Coal Exit by 2030 and 
+Strong Electrification 
+Scenario
+Transmission 
+Delay 
+Scenario
+CNSW-
+SNW
+Northern side 
+of Sydney
+Retirement of 
+coal-powered 
+generation 
+in New 
+South Wales. 
+CNSW-SNW 
+Option 1
+SNW Northern 500 kV loop:
+• A new 500 kV substation 
+near Eraring
+• A new 500 kV double 
+circuit line between 
+substation near Eraring 
+and Bayswater substation.
+• Two 500/330 kV 1,500 
+MVA transformers either at 
+Eraring substation or new 
+substation near Eraring
+CNSW to 
+SNW
+5,000  
+(This capacity 
+increase for 
+accommodation 
+of additional new 
+generation from 
+North of Bayswater 
+and 2/3 generation 
+from Central 
+West NSW)
+NA 993 December  
+2027
+September  
+2027
+December  
+2028
+- With no augmentations 
+in the SNW area, up to 
+235 MW of additional 
+PHES could connect
+Northern side 
+of Sydney
+CWO REZ 
+Development
+CNSW-SNW 
+Option 4
+(Pre-requisite: CNSW-SNW 
+Option1)
+• A new 500 kV Wollar 
+South substation 
+• Divert 3 lines from 
+Merotherie to Wollar, 
+to Wollar South 
+• A new 500 kV double 
+circuit line between 
+Wollar South and Eraring 
+substation with Quad 
+Orange conductor 
+• Two 500/330 kV 1,500 
+MVA transformers either 
+at Kemps Creek
+• 1 x 330 kV SCST line 
+between Vales Pt 
+and Eraring
+• 1 x 330 kV SCST line 
+between Vales Pt 
+and Munmorah
+• Thermal upgrade for Line 
+24 Vales Pt – Eraring and 
+92 Newcastle – Vales Point
+• 1 x 330 kV SCST line 
+between Liddell – 
+Newcastle
+• 1 x 330 kV SCST line 
+between Eraring – 
+Newcastle
+CNSW to 
+SNW
+6,000 NA 2,232 March  
+2031
+December  
+2030
+March  
+2032
+N3: 6,000
+* Same increase applies to all transfer limit conditions (Peak demand, Summer typical and Winter reference)
+
+===== PDF PAGE 21 =====
+
+NSW Network Infrastructure Strategy – Appendices 21
+CNSW – NNSW continued
+Flow 
+path
+Development 
+path
+Development 
+driver Option name Augmentation description
+Forward 
+direction 
+power flow
+Notional transfer level increase (MW)*
+Indicative 
+cost 
+estimate  
+($ million)
+Earliest delivery
+Additional REZ 
+hosting capacity 
+provided (MW) Notes
+Forward  
+direction
+Reverse  
+direction
+Central 
+Scenario
+Coal Exit by 2030 and 
+Strong Electrification 
+Scenario
+Transmission 
+Delay 
+Scenario
+CNSW-
+SNW
+Northern side 
+of Sydney
+Retirement of 
+coal-powered 
+generation in 
+New South 
+Wales + 
+NE REZ + 
+CWO REZ 
+development. 
+CNSW-SNW 
+Option 6
+(Pre-requisite: CNSW-SNW 
+Option 1)
+• A new 500 kV double 
+circuit line between 
+substation near Eraring and 
+Bayswater substation. 
+• Two 500/330 kV 1,500 
+MVA transformers either at 
+Eraring substation or new 
+substation near Eraring
+• Two 500/330 kV 1,500 
+MVA transformers either 
+at Kemps Creek
+• 1 x 330 kV SCST line 
+between Vales Pt 
+and Eraring
+• 1 x 330 kV SCST line 
+between Vales Pt 
+and Munmorah
+• Thermal upgrade for Line 
+24 Vales Pt – Eraring and 
+92 Newcastle – Vales Point
+• 1 x 330 kV SCST line 
+between Liddell – 
+Newcastle
+• 1 x 330 kV SCST line 
+between Eraring – 
+Newcastle
+CNSW to 
+SNW
+6,000 NA 1,766 March  
+2031
+December  
+2030
+March  
+2032
+N2: 6,000 With no augmentations 
+in the SNW area, up to 
+235 MW of additional 
+PHES could connect
+* Same increase applies to all transfer limit conditions (Peak demand, Summer typical and Winter reference)
+
+===== PDF PAGE 22 =====
+
+NSW Network Infrastructure Strategy – Appendices 22
+CNSW – NNSW continued
+Flow 
+path
+Development 
+path
+Development 
+driver Option name Augmentation description
+Forward 
+direction 
+power flow
+Notional transfer level increase (MW)*
+Indicative 
+cost 
+estimate  
+($ million)
+Earliest delivery
+Additional REZ 
+hosting capacity 
+provided (MW) Notes
+Forward  
+direction
+Reverse  
+direction
+Central 
+Scenario
+Coal Exit by 2030 and 
+Strong Electrification 
+Scenario
+Transmission 
+Delay 
+Scenario
+CNSW-
+SNW
+Southern side 
+of Sydney
+Retirement of 
+coal-powered 
+generation in 
+New South 
+Wales. 
+CNSW-SNW 
+Option 2
+SNW Southern 500 kV loop:
+• A new 500 kV double circuit 
+line from the Bannaby 
+substation to a new 
+Overhead/Underground 
+Transition site. 
+• 8 km of tunnel installed 
+underground 500 kV 
+cables from Transition site 
+to new substation in the 
+locality of South Creek.
+• Establish 500/330 kV 
+substation in the locality 
+of South Creek.
+• Cut-in both Eraring 
+– Kemps Creek 500 
+kV circuits at the new 
+substation in the locality 
+of South Creek.
+• Two new 500/330 kV 
+1,500 MVA transformers at 
+the new substation in the 
+locality of South Creek.
+• Replace a section of 
+existing Bannaby-Sydney 
+West 330 kV to double 
+circuit line between the 
+locality of South Creek 
+and Sydney West.
+• Uprate the existing line 
+between Bannaby and 
+the locality of South 
+Creek from 85 degrees 
+to 100 degrees 
+operating temperature.
+• Cut-in Bayswater – 
+Sydney West 330 kV line 
+at South Creek.
+• Cut-in Regentville – 
+Sydney West 330 kV line 
+at South Creek.
+CNSW to 
+SNW
+4,500 
+(This capacity 
+increase for 
+accommodation 
+of additional new 
+generation from 
+South of Bannaby 
+and 1/3 generation 
+from Central West 
+NSW
+NA 1,843 March 2031 December 2030 March 2032 - With no augmentations 
+in the SNW area, up to 
+235 MW of additional 
+PHES could connect
+Northern and 
+Southern 
+sides of 
+Sydney
+Retirement of 
+coal-powered 
+generation in 
+New South 
+Wales. 
+CNSW-SNW 
+Option 3
+Both SNW Northern 500 kV 
+loop and SNW Southern 
+500 kV loop:
+• CNSW-SNW Option 1.
+• CNSW-SNW Option 2.
+CNSW to 
+SNW
+5,600 
+(No restriction 
+to generation 
+dispatch from 
+north, south and 
+west of SNW)
+NA 2,827 March 2031 December 2030 March 2032 -
+* Same increase applies to all transfer limit conditions (Peak demand, Summer typical and Winter reference)
+
+===== PDF PAGE 23 =====
+
+NSW Network Infrastructure Strategy – Appendices 23
+CNSW – NNSW continued
+Flow 
+path
+Development 
+path
+Development 
+driver Option name Augmentation description
+Forward 
+direction 
+power flow
+Notional transfer level increase (MW)*
+Indicative 
+cost 
+estimate  
+($ million)
+Earliest delivery
+Additional REZ 
+hosting capacity 
+provided (MW) Notes
+Forward  
+direction
+Reverse  
+direction
+Central 
+Scenario
+Coal Exit by 2030 and 
+Strong Electrification 
+Scenario
+Transmission 
+Delay 
+Scenario
+CNSW-
+SNW
+Southern side 
+of Sydney
+SW REZ 
+Development
+CNSW-SNW 
+Option 5B
+(Pre-requisite: CNSW-SNW 
+Option 2)
+• A new 500 kV DCST from 
+the Bannaby substation 
+to the substation in the 
+locality of South Creek.
+• Expand Kemps Creek 
+substation with 4 additional 
+500/330 kV transformers
+• A new 500 kV DCST from 
+the South Creek substation 
+to Kemps Creek
+• A new 330 kV DCST 
+between Kemps Creek 
+and Sydney South
+• A new 330 kV DCST 
+between Kemps Creek 
+and Sydney North
+• A new 330 kV DCST 
+between South Creek 
+and Sydney West
+CNSW to 
+SNW
+6,000 NA 1,733 March 2035 December 2034 March 2036 N5: 6,000 With no augmentations 
+in the SNW area, up to 
+235 MW of additional 
+PHES could connect
+Bayswater to 
+Newcastle 
+Hydrogen 
+scenario – 
+To provide 
+access to 
+port near 
+Newcastle.
+H-Newcastle  
+(This is not 
+an alternative 
+option to 
+supply SNW)
+Three new 500 kV lines from 
+Bayswater to Newcastle.
+Four new 500/330 kV 
+transformers at Newcastle.
+Line shunt reactors at each 
+of the new 500 kV lines.
+CNSW to 
+SNW
+5,000 5,000 1,561 March 2031 December 2030 March 2032  
+Bannaby to 
+Dapto 
+Hydrogen 
+scenario – 
+To provide 
+access 
+to port 
+near Dapto.
+H-Dapto 
+(This is not 
+an alternative 
+option to 
+supply SNW)
+Three new 500 kV lines 
+from Bannaby to Dapto.
+Four new 500/330 kV 
+transformers at Dapto.
+Line shunt reactors at each 
+of the new 500 kV lines.
+CNSW to 
+SNW
+5,000 5,000 1,229 March 2031 December 2030 March 2032  
+* Same increase applies to all transfer limit conditions (Peak demand, Summer typical and Winter reference)
+
+===== PDF PAGE 24 =====
+
+NSW Network Infrastructure Strategy – Appendices 24
+SNSW – SNW
+Table 8: Downstream network augmentations that impact the CNSW – SNW flow path
+Flow 
+path
+Development 
+path
+Development 
+driver Option name Augmentation description
+Forward 
+direction 
+power flow
+Notional transfer level increase (MW)* Indicative 
+cost 
+estimate  
+($ million)
+Earliest delivery
+Additional REZ 
+hosting capacity 
+provided (MW) Notes
+Forward  
+direction
+Reverse  
+direction
+Central 
+Scenario
+Coal Exit by 2030 and 
+Strong Electrification 
+Scenario
+Transmission 
+Delay 
+Scenario
+SNSW-
+CNSW
+HumeLink To provide 
+access to 
+Snowy 2.0 
+generation to 
+load centres 
+in SNW. 
+SNSW-
+CNSW 
+Option 1 
+(HumeLink)
+• New Gugaa 500/330 kV 
+substation and 330 kV 
+double circuit connection 
+to the existing Wagga 
+Wagga 330 kV substation.
+• Three new 500 kV 
+transmission lines:
+ − Between Maragle 
+and Bannaby 
+500 kV substations;
+ − Between Maragle 
+and Gugaa 500 kV 
+substations; and
+ − Between Gugaa and 
+Bannaby 500 kV 
+substations.
+• Three 500/330 kV 
+1,500 MVA transformers 
+at Maragle.
+• Two 500/330 kV 1,500 MVA 
+transformers at Gugaa. 
+• 500 kV Line shunt reactors 
+at the ends of Maragle 
+– Bannaby, Maragle 
+– Gugaa and Gugaa – 
+Bannaby 500 kV lines
+SNSW to 
+CNSW
+2,200 2,200 3,324** June  
+2027
+June  
+2026
+June  
+2028
+N6+N7: 2,200 
+(N6: 1,500)  
+Wagga 
+Wagga to 
+Bannaby
+Increased 
+import from 
+Victoria 
+and South 
+Australia with 
+high existing 
+and Snowy 
+2.0 hydro 
+generation
+SNSW-
+CNSW 
+Option 2
+• An additional new 
+500 kV line from Gugaa 
+to Bannaby.
+(Pre‑requisite: HumeLink)
+SNSW to 
+CNSW
+2,000 2,000 962 June  
+2031
+March  
+2031
+June  
+2032
+N6: 1,500  
+SNSW-
+CNSW 
+Option 4A
+(Pre-requisite: HumeLink)
+• An additional new 500 kV 
+DCST line from Dinawan 
+to Gugaa
+• An additional new 500 kV 
+DCST line from Gugaa to 
+Bannaby
+• 4 additional new 
+500/330/33 kV 1500 MVA 
+transformers at Dinawan
+SNSW to 
+CNSW
+6,000 6,000 3,711 June  
+2031
+March  
+2031
+June  
+2032
+N5: 6,000
+* Same increase applies to all transfer limit conditions (Peak demand, Summer typical and Winter reference)
+** Cost estimate sourced from Transgrid, of unknown cost estimate class
+
+===== PDF PAGE 25 =====
+
+NSW Network Infrastructure Strategy – Appendices 25
+SNSW – SNW continued
+Flow 
+path
+Development 
+path
+Development 
+driver Option name Augmentation description
+Forward 
+direction 
+power flow
+Notional transfer level increase (MW)* Indicative 
+cost 
+estimate  
+($ million)
+Earliest delivery
+Additional REZ 
+hosting capacity 
+provided (MW) Notes
+Forward  
+direction
+Reverse  
+direction
+Central 
+Scenario
+Coal Exit by 2030 and 
+Strong Electrification 
+Scenario
+Transmission 
+Delay 
+Scenario
+SNSW-
+CNSW
+Wagga 
+Wagga to 
+Bannaby
+Increased 
+import from 
+Victoria 
+and South 
+Australia with 
+high existing 
+and Snowy 
+2.0 hydro 
+generation
+SNSW-
+CNSW 
+Option 4B
+(Pre-requisite: HumeLink)
+• An additional new 500 kV 
+SCST line from Dinawan 
+to Gugaa
+• An additional new 500 kV 
+SCST line from Gugaa 
+to Bannaby
+• 2 additional new 
+500/330/33 kV 1500 MVA 
+transformers at Dinawan
+SNSW to 
+CNSW
+3,000 3,000 2,065 June  
+2031
+March  
+2031
+June  
+2032
+N5: 3,000  
+SNSW-
+CNSW 
+Option 3
+• HVDC between Wagga 
+Wagga and Bannaby:
+• A 2000 MW bi-pole 
+overhead transmission line 
+from locality of Bannaby to 
+locality of Wagga Wagga.
+• A new 2,000 MW bipole 
+converter station in 
+locality of Bannaby.
+• A new 2,000 MW bipole 
+converter station in locality 
+of Wagga Wagga.
+• AC network connection 
+between new HVDC 
+converter station in the 
+locality of Bannaby and 
+the existing Bannaby 
+500 kV substation. 
+• AC network connection 
+between HVDC converter 
+station in the locality of 
+Wagga Wagga and Gugaa 
+500 kV substation. 
+(Assumption: This option 
+comes after HumeLink)
+SNSW to 
+CNSW
+2,000 2,000 2,490 June  
+2031
+March  
+2031
+June  
+2032
+N6: 2,000  
+* Same increase applies to all transfer limit conditions (Peak demand, Summer typical and Winter reference)
+
+===== PDF PAGE 26 =====
+
+Sydney NSW 2000
+GPO Box 5469  
+Sydney NSW 2001 
+W: energyco.nsw.gov.au
+Published by Energy Corporation of NSW, NSW Treasury 
+Title NSW Network Infrastructure Strategy
+First Published May 2023 
+ISBN 978-1-76058-705-5 
+Cover image courtesy of GettyImages. Wind turbines silhouetted on a ridgeline at sunset. 
+Copyright This publication is protected by copyright. With the exception of (a) any coat of arms, 
+logo, trade mark or other branding; (b) any third party intellectual property; and (c) personal 
+information such as photographs of people, this publication is licensed under the Creative Commons 
+Attribution 3.0 Australia Licence. The licence terms are available at the Creative Commons website at: 
+creativecommons.org/licenses/by/3.0/au/legalcode NSW Treasury requires that it be attributed 
+as creator of the licensed material in the following manner: 
+© State of New South Wales (NSW Treasury), (2023) 
+Permission to use Subject to the Creative Commons Attribution 3.0 Australia Licence, you may 
+copy, distribute, display, download and otherwise freely deal with this publication for any purpose 
+provided you attribute the Energy Corporation of NSW and/or NSW Treasury as the owner. However, 
+you must obtain permission if you wish to charge others for access to the publication (other than at 
+cost); include the publication in advertising or a product for sale; modify the publication; or republish 
+the publication on a website. You may freely link to the publication on a departmental website. 
+Disclaimer The information contained in this publication is based on knowledge and understanding at the time 
+of writing (May 2023) and may not be accurate, current or complete. The State of New South Wales (including 
+the Energy Corporation of NSW and NSW Treasury), the author and the publisher take no responsibility, and 
+will accept no liability, for the accuracy, currency, reliability or correctness of any information included in the 
+document (including material provided by third parties). Readers should make their own inquiries and rely on 
+their own advice when making decisions related to material contained in this publication.

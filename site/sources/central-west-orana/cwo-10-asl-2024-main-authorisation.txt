@@ -1,0 +1,358 @@
+
+
+===== PDF PAGE 1 =====
+
+© AEMO Services 2024  | Notice of authorisation – Main CWO REZ Network Infrastructure Project 
+1
+Notice of Authorisation –  
+Main CWO REZ Network 
+Infrastructure Project 
+1. Authorisation
+The Consumer Trustee hereby authorises the Network 
+Operator to develop, construct, own, control and operate 
+the Main CWO REZ Network Infrastructure Project in 
+accordance with the terms of this instrument and section 
+31(1)(b) of the Electricity Infrastructure Investment Act 
+2020 (NSW). 
+2.	 Definitions	and	interpretation	
+2.1	 Definitions
+Unless otherwise defined below, words and phrases in the 
+Act have the same meaning in this instrument. 
+Access Payment Deed means a deed entitled “Access 
+Payment Deed” entered into between the Scheme 
+Financial Vehicle and an Access Right Holder in respect 
+of the payment of fees by the Access Right Holder which 
+have been determined by the Consumer Trustee under 
+section 26 of the Act.
+Access Right Holder has the meaning given in the Access 
+Scheme.
+Access Scheme means the Central-West Orana 
+Renewable Energy Zone Access Scheme formally declared 
+by the Minister for Energy under section 24(1) of the 
+Act on 19 December 2022 and published in the NSW 
+Government Gazette on 23 December 2022, as amended 
+or replaced from time to time.
+Act means the Electricity Infrastructure Investment Act 
+2020 (NSW).
+Authorisation means the authorisation by the Consumer 
+Trustee under section 31(1)(b) of the Act set out in this 
+instrument.
+Dedicated Connection Assets has the meaning given in 
+the National Electricity Rules.
+Diagram means the diagram set out in Annexure A.
+Energy Hub means a substation identified in  
+section 5(a)(2) or section 5(a)(3) of this instrument.
+H2P Separable Portion means:
+(a)  up to all of the H2P Switching Stations in the H2P 
+Separable Portion as set out in the Schedule to this 
+instrument; and
+(b)  a single or double circuit transmission line between 
+the relevant Energy Hub and each of those H2P 
+Switching Stations, indicatively as shown in the Map,
+generally as described in the Diagram.
+H2P Switching Stations means the switching stations 
+described in the Schedule to this instrument.
+Main CWO REZ Network Infrastructure Project means 
+the REZ network infrastructure project for the Central-
+West Orana renewable energy zone identified in section 5 
+of this instrument.
+Map means the map set out in Annexure B.
+National Electricity (NSW) Law means the provisions 
+applying in New South Wales because of section 6 of the 
+National Electricity (New South Wales) Act 1997 (NSW), as 
+modified or disapplied pursuant to the Act, and includes 
+the National Electricity Rules.
+National Electricity Rules has the same meaning as in the 
+National Electricity (NSW) Law, as modified or disapplied 
+pursuant to the Act.
+Network Operator means the network operator 
+identified in section 4 of this instrument.
+Project Deed means the contractual arrangements for the 
+Main CWO REZ Network Infrastructure Project entitled 
+“Central-West Orana Renewable Energy Zone – REZ 
+Network Infrastructure Project Deed” which have been 
+recommended by the Infrastructure Planner in accordance 
+with cl 43(1)(e) of the Regulation.
+Regulation means the Electricity Infrastructure Investment 
+Regulation 2021 (NSW).
+2.2 Interpretation
+In this instrument, unless the context requires otherwise:
+(a)  headings are used for convenience only and do not 
+affect the interpretation of this instrument;
+(b) the singular includes the plural and vice versa; 
+(c)  the words “including” or “for example” when 
+introducing an example, do not limit the meaning 
+of the words to which the example relates to that 
+example or examples of a similar kind; 
+(d)  references to conditions are references to conditions 
+in this instrument;
+(e)  a reference to a statute, ordinance, code or other law 
+includes regulations and other instruments under it 
+and consolidations, amendments, re-enactments or 
+replacements of any of them; 
+4 June 2024
+
+===== PDF PAGE 2 =====
+
+© AEMO Services 2024  | Notice of authorisation – Main CWO REZ Network Infrastructure Project 
+2
+(f)  a reference to a document includes the document 
+as modified or amended from time to time and any 
+document replacing it; 
+(g)  the word “person” includes a natural person and 
+any firm, body corporate, partnership, trust, joint 
+venture, body or association whether incorporated or 
+unincorporated; and
+(h)  where the Network Operator comprises a group of 
+persons an obligation on that group of persons binds 
+them jointly and each of them individually.
+3. Term of authorisation
+This Authorisation takes effect on the date of this 
+instrument and ceases to have effect on the earlier of: 
+(a)  30 June 2025 if the Project Deed has not been 
+executed by both the Infrastructure Planner and the 
+Network Operator by that date; or
+(b) the expiry or termination of the Project Deed.
+4.	 Network	Operator
+The authorised Network Operator is:
+(a)  Cobra CWO NO Pty Limited (ACN 670 780 631) as 
+trustee of the Cobra CWO NO Trust;
+(b)  Concesiones CWO REZ NO Pty Limited (ACN 670 
+755 521) as trustee of the Concesiones CWO REZ 
+NO Trust; and
+(c)  Edwards REZ NO Pty Limited (ACN 670 791 321) as 
+trustee of the Edwards REZ NO Trust, ERIC Epsilon 
+REZ NO 1 Pty Ltd (ACN 669 396 801) as trustee 
+of the ERIC Epsilon REZ NO Trust 1, ERIC Epsilon 
+REZ NO 2 Pty Ltd (ACN 669 396 909) as trustee of 
+the ERIC Epsilon REZ NO Trust 2, ERIC Epsilon REZ 
+NO 3 Pty Ltd (ACN 669 397 040) as trustee of the 
+ERIC Epsilon REZ NO Trust 3 and ERIC Epsilon REZ 
+NO 4 Pty Ltd (ACN 669 397 237) as trustee of the 
+ERIC Epsilon REZ NO Trust 4, being a partnership 
+carried on under the name of Endeavour REZ NO 
+Partnership,
+operating as a partnership carried on under the name of 
+ACEREZ Partnership (ABN 48 205 081 299). 
+5.  Main CWO REZ Network Infrastructure 
+Project
+The authorised Main CWO REZ Network Infrastructure 
+Project comprises:
+(a)  a 500 kV transmission network from Wollar to Elong 
+Elong via Merotherie comprising:
+ (1)  a 500 kV switching station at Barigan Creek 
+generally at the location shown in the Map;
+ (2)  a 500/330 kV substation at Merotherie generally 
+at the location shown in the Map (Merotherie 
+Energy Hub);
+ (3)  a 330 kV substation at Elong Elong generally 
+at the location shown in the Map (Elong Elong 
+Energy Hub);
+ (4)  a transmission line from the Barigan Creek 
+switching station to the Merotherie Energy Hub 
+comprising two 500 kV double circuit lines, 
+indicatively as shown in the Map; and
+ (5)  a transmission line from the Merotherie Energy 
+Hub to the Elong Elong Energy Hub comprising 
+two 500 kV double circuit lines indicatively as 
+shown in the Map,
+with:
+ (6)  an initial transfer capacity at the Barigan Creek 
+switching station of 4.5GW;
+ (7)  an operating voltage of 500 kV for the network 
+infrastructure from the Barigan Creek switching 
+station to the Merotherie Energy Hub (inclusive); 
+and
+ (8)  an operating voltage of 330 kV for the network 
+infrastructure from the Merotherie Energy Hub to 
+the Elong Elong Energy Hub (inclusive),
+and generally as described in the Diagram;
+(b)  subject to section 6 of this instrument, 330 kV 
+transmission networks comprising the H2P Separable 
+Portions, with an operating voltage of 330 kV;
+(c)  system strength infrastructure at the Energy Hubs, 
+comprising synchronous condensers with a nominal 
+nameplate rating of up to 1,750 MVA;
+(d)  all ancillary plant, equipment or other assets that will 
+be connected to or used by the Network Operator 
+for the purposes of controlling and operating the 
+above network infrastructure; and
+
+===== PDF PAGE 3 =====
+
+© AEMO Services 2024  | Notice of authorisation – Main CWO REZ Network Infrastructure Project 
+3
+(e)  any change, modification or addition to the above 
+network infrastructure:
+ (1)  required for the Network Operator to comply 
+with its obligations under the National Electricity 
+(NSW) Law or otherwise at law; or
+ (2)  made in accordance with the Project Deed, 
+provided that following the relevant change, 
+modification or addition, the authorised Main 
+CWO REZ Network Infrastructure Project will 
+remain consistent with the description in section 
+5(a) to 5(d) of this instrument.
+The Main CWO REZ Network Infrastructure Project does 
+not include any Dedicated Connection Assets.
+6.	 H2P	Separable	Portions
+(a) Each H2P Separable Portion is conditional on:
+ (1)  an Access Right Holder being granted an Access 
+Right at a H2P Switching Station in the H2P 
+Separable Portion;
+ (2)  the relevant Access Right Holder entering into an 
+Access Payment Deed with the Scheme Financial 
+Vehicle; and
+ (3)  the relevant Access Right Holder providing any 
+security required by the Scheme Financial Vehicle 
+under the Access Payment Deed, 
+for the purpose of the Access Scheme and in each case by 
+30 June 2025.
+(b)  If the above condition is not satisfied in respect of a 
+H2P Separable Portion, the relevant H2P Separable 
+Portion will be automatically excluded from the 
+authorised Main CWO REZ Network Infrastructure 
+Project.
+7.   Transfer of REZ network infrastructure 
+project	assets
+(a)  If the Network Operator, having developed and 
+constructed any asset comprising part of the 
+authorised Main CWO REZ Network Infrastructure 
+Project, ceases to own or lease the relevant asset, 
+that asset will automatically cease to be authorised 
+under this instrument.
+(b)  If the Network Operator acquires or leases an asset 
+which:
+ (1)  comprises part of an authorised REZ network 
+infrastructure project under another instrument 
+under the Act; and
+ (2)  connects to or will be used by the Network 
+Operator in connection with the control or 
+operation of the Main CWO REZ Network 
+Infrastructure Project, 
+  the relevant asset will be deemed to be authorised 
+under this instrument.
+8.	 Specified	contractual	arrangements
+The Network Operator is required to enter into the 
+following contractual arrangements for the purpose of 
+carrying out the Main CWO REZ Network Infrastructure 
+Project:
+(a) the Project Deed.
+Authorised by AEMO Services Limited, exercising the authority of the Consumer Trustee, in accordance with its 
+resolution dated 15 May 2024. 
+Nevenka Codevelle 
+Executive General Manager, AEMO Services Limited 
+Date
+4 June 2024
+
+===== PDF PAGE 4 =====
+
+© AEMO Services 2024  | Notice of authorisation – Main CWO REZ Network Infrastructure Project 
+4
+Schedule
+H2P Switching Stations
+H2P	Separable	Portion	(SP) H2P	Switching	Stations
+Separable Portion 3 (SP3)
+• A “MER C3” switching station generally at the location 
+shown in the Map.
+• A “MER C3-1” switching station generally at the 
+location shown in the Map.
+• A “MER C3-2” switching station generally at the 
+location shown in the Map.
+• A “MER C3-3” switching station generally at the 
+location shown in the Map.
+Separable Portion 4 (SP4) • A “MER C2-1” switching station generally at the 
+location shown in the Map.
+Separable Portion 5 (SP5) • A Uarbry East switching station generally at the  
+location shown in the Map.
+Separable Portion 6 (SP6)
+• A Uarbry West switching station generally at the 
+location shown in the Map.
+• A “MER C4-1” switching station generally at the 
+location shown in the Map.
+Separable Portion 7 (SP7) • A “MER C1-1” switching station generally at the loca-
+tion shown in the Map.
+Separable Portion 8 (SP8) • A “ELO C1-2” switching station generally at the 
+location shown in the Map.
+Separable Portion 9 (SP9) • A “ELO C2-1” switching station generally at the 
+location shown in the Map.
+Separable Portion 10 (SP10)
+• A “ELO C3-1” switching station generally at the 
+location shown in the Map.
+• A “ELO C3-2” switching station generally at the 
+location shown in the Map.
+
+===== PDF PAGE 5 =====
+
+© AEMO Services 2024  | Notice of authorisation – Main CWO REZ Network Infrastructure Project 
+5
+Annexure A
+Diagram
+Elong Elong
+Merotherie
+Barigan Creek
+Uarbry West
+MER C4-1
+MER C1-1
+ELO C1-2
+ELO C2-1
+ELO C3-1
+ELO C3-2
+MER C2-1
+MER C3-1
+MER C3-2
+MER C3-3
+MER C3
+Uarbry East
+To Mt Piper
+To Wollar 
+and Bayswater
+500kV transmission lines
+500kV transmission lines (operated at 330kV)
+330kV transmission line (part of H2P Separable Portion)
+500/330kV Energy Hub
+330kV Energy Hub
+500kV switching station
+H2P switching station (part of H2P Separable Portion)
+Legend
+
+===== PDF PAGE 6 =====
+
+© AEMO Services 2024  | Notice of authorisation – Main CWO REZ Network Infrastructure Project 
+6
+Annexure B
+Map
+GOOLMA GULGONG WOLLAR
+CASSILIS
+COBBORA
+DUNEDOO
+ELONG ELONG
+LEADVILLE
+COOLAH
+BIRRIWA
+ELONG ELONG
+UARBRY EAST
+UARBRY WEST
+MER C4-1
+MER C1-1
+MER C2-1
+MER C3
+MER C3-1
+MER C3-2
+MER C3-3
+ELO C1-2
+ELO C2-1
+ELO C3-1
+ELO C3-2
+MEROTHERIE
+BARIGAN CREEK
+500kV transmission lines
+500kV transmission lines 
+(operated at 330kV)
+330kV transmission lines
+500/330kV Energy Hub
+330kV Energy Hub
+H2P switching station (part  
+of H2P Separable Portion)
+500kV switching station
+Legend

@@ -1,0 +1,1507 @@
+--- PDF physical page 1 ---
+Project EnergyConnect |
+Contingent Project
+Application
+29 June 2020
+--- PDF physical page 2 ---
+
+
+
+
+
+ii | Project EnergyConnect | Contingent Project Application
+
+
+
+
+
+
+
+
+
+
+
+
+This page is intentionally left blank.
+--- PDF physical page 3 ---
+
+
+
+
+
+iii | Project EnergyConnect | Contingent Project Application
+Contents
+Executive Summary ............................................................................................................................. 1
+1. Introduction ................................................................................................................................. 5
+ Compliance with the NER ................................................................................................... 5
+ Structure of this document.................................................................................................. 5
+ Structure of the Contingent Project Application Documents and Models for Project
+EnergyConnect ................................................................................................................... 6
+2. Project overview ......................................................................................................................... 8
+ Background to this Application ........................................................................................... 8
+ Project description .............................................................................................................. 8
+ Project benefits ................................................................................................................... 9
+3. Regulatory requirements ......................................................................................................... 13
+ Regulatory requirements .................................................................................................. 13
+ Trigger events ................................................................................................................... 14
+ Project timing .................................................................................................................... 15
+ Stakeholder input and pre-lodgement consultation .......................................................... 15
+4. Forecast revenue ...................................................................................................................... 17
+5. Forecast capex and opex ........................................................................................................ 19
+ Forecast capex ................................................................................................................. 19
+ Forecast opex ................................................................................................................... 23
+6. Guide to compliance ................................................................................................................ 24
+Appendices ......................................................................................................................................... 25
+Appendix A – Our revenue application....................................................................................... 25
+Appendix B – Potential unintended consequences faced by Major ISP Projects...................... 32
+Appendix C – Board resolution................................................................................................... 35
+Appendix D – Glossary ............................................................................................................... 36
+
+
+
+
+--- PDF physical page 4 ---
+
+
+
+
+1 | Project EnergyConnect | Contingent Project Application
+Executive Summary
+The Project and this Application
+This contingent project application (Application) relates to Project EnergyConnect (the Project or PEC)1. PEC
+involves the construction by mid-2023 of a new high voltage interconnector connecting the electricity networks
+of South Australia (SA) at Robertstown and New South Wales (NSW) at Wagga Wagga, together with an
+additional transmission line linking to north-west Victoria (at Red Cliffs).
+PEC is a joint TransGrid and ElectraNet project that has many unique characteristics. It is a landmark project
+as it will be the first new interconnector built between Australian states in 15 years. PEC will be a predominantly
+greenfield project, built in areas where there has been no previous electricity infrastructure constructed (or
+where construction occurred many decades ago).
+PEC is expected to reduce average annual residential electricity bills by up to $110 per year in NSW and by up
+to $23 per year in SA2. It is also expected to substantially improve electricity system stability3, leading to longer
+term benefits for consumers.
+This Application is the last step, subject to finalising our tender process, in the regulatory assessment process
+for the Project.  The Australian Energy Regulator’s (AER) approval of our prudent and efficient expenditure
+forecasts, and the resultant changes in our revenues and prices that are reflected in this Application, will enable
+the Project to proceed to a final investment decision subject to resolving matters related to the financeability of
+the Project.  This will unlock the many benefits that the Project offers.
+The timing for the submission of this Application is driven by our commitment to meet our contractual obligations
+to the SA Government in accordance with our early works agreement with them.
+A Project of national significance
+PEC was identified as an important element of the ‘roadmap’ for the NEM in the Australian Energy Market
+Operator’s (AEMO) 2018 Integrated System Plan (ISP), and as one of AEMO’s immediate priorities that would
+deliver positive net market benefits as soon as it is built. PEC’s importance was confirmed in AEMO’s Draft
+2020 ISP4. It is included in AEMO’s optimal development path as a Group 1 priority project. AEMO’s final 2020
+ISP will be published shortly and will include PEC.
+PEC has been declared to be Critical State Significant Infrastructure for NSW 5. The SA Governmen t has
+declared it a ‘ Major Development’6.  As a result, the SA Government has provided an expedited planning
+approval process and has supported our early works for delivery of the Project.
+Benefits
+PEC fulfils a vital role in the national energy supply system and offers extensive benefits, including:
+ greater sharing of reserves, providing NSW with access to renewable generation as coal retires
+ unlocking renewable generation development en-route and allowing greater market access
+
+1  The AER’s 2018-23 Revenue Determination for TransGrid includes PEC as a contingent project (New South Wales to South Australia
+Interconnector)
+2  FTI Consulting, Benefits of project EnergyConnect, June 2020
+3  AEMO, Minimum Operation Demand Thresholds, 19 June 2020. Found  at Link
+4  Published in December 2019
+5  Media Release, NSW Planning and Public Spaces Minister Rob S tokes, 29 August 2019.
+6  Media Release, SA Premier Steven Marshall, 27 June 2019.
+--- PDF physical page 5 ---
+
+
+
+
+2 | Project EnergyConnect | Contingent Project Application
+ decreasing price volatility through sharing of resources across regions
+ reducing electricity prices through greater supply, diversity and competition
+ supporting the energy transformation to low emission sources
+ reducing reliance on increasingly costly gas plant in SA for dispatchable capacity
+ deconcentrating the SA wholesale market and improving hedging liquidity
+ allowing greater exports of embedded generation at times of minimum SA demand, and
+ reducing vulnerability to extreme weather events and system disturbances, such as bushfires.
+We commissioned FTI Consulting (FTI) to prepare an independent expert report on the benefits of PEC. FTI’s
+assessment addresses the matters raised by the AER  in its Regulatory Invest ment Test for Transmission
+(RIT-T) Determination for PEC7, as well as the assumptions that will be reflected in AEMO’s Final 2020 ISP8.
+FTI estimates gross benefits under the RIT-T framework of $1.6 billion in net present value (NPV) terms over
+the 2020 to 2040 period, which implies a ‘break-even’ cost9 for the Project of $3.0 billion. In addition to the RIT-
+T benefits, FTI estimates:
+ additional gross benefits of $0.8 billion to $1.0 billion by taking into account the benefits expected to
+accrue from the Project beyond the 2040 horizon of the current RIT-T assessment period10. The AER’s
+draft cost benefit analysis guideline recognises that in the case of very long-lived and high-cost
+investments, it may be necessary to adopt a modelling period of 20 years or more.11
+ an increase in gross benefits to $2.1 billion for the 2020-2040 period, where a lower societal discount rate
+of 3.5 per cent is adopted for the net present value (NPV) analysis. This results in an increase in the
+‘break even’ point for the Project to $4.4 billion
+ net consumer benefits of $7.1 billion to $11.9 billion, arising from the material reduction in wholesale
+prices in all national electricity market (NEM) regions driven by improved access to cheaper sources of
+generation from neighbouring regions and increased generator competition, and
+ additional ‘non-monetised’ benefits reflecting the strategic importance of the Project to future NEM
+development.
+These benefits are material and far exceed the interpretation allowed under the RIT -T framework . FTI’s
+assessment reinforces that the Project will play a vital role in reducing electricity costs, improving system
+security and reliability and supporting the transition to a more renewables dominated electricity system:
+Reducing electricity costs
+We expect that PEC will significantly reduce customers’ bills . FTI estimates12 that PEC will reduce wholesale
+electricity prices in NSW by $10.50/MWh to $29.60/MWh on average up to 2040, and in SA by $1.2 0/MWh to
+$4.80/MWh on average up to 2040. This is equivalent to a reduction in average annual residential bills of $34.10
+to $110.10 per year for NSW consumers and $5.10 to $22.50 per year for SA consumers13.
+
+7  The AER’s SA Energy Transformation (SAET) RIT-T Determination, published on 24 January 2020
+8  FTI used AEMOs Draft 2020 ISP assumptions from December 2019. These are t he most recent assumptions available to FTI at the time of
+preparing its report
+9 The break-even cost is the maximum project cost to support positive net market benefits over the 20 year assessment period from 2020
+to 2040
+10  Up to the expected end of PEC’s useful life in the 2070s
+11  AER Draft Cost benefit analysis guidelines  - Guidelines to make the Integrated System Plan actionable , May 2020 p. 63
+12  FTI Consulting, Benefits of project EnergyConnect , June 2020
+13  Assuming: (i) wholesale price changes ; (ii) the cost of EnergyConnect ; and (iii) the effect of the Project on existing interconnector residues,
+are fully passed on to consumer retail bills, and average annual household consumption fi gures remain constant over time.
+--- PDF physical page 6 ---
+
+
+
+
+3 | Project EnergyConnect | Contingent Project Application
+Improving security and reliability of supply
+PEC will improve system stability substantially, particularly for SA. AEMO’s recent advice to the SA
+Government14, found that delivering PEC is critical for the ongoing secure operation of the power system and
+will reduce the likelihood of SA ‘islanding’. AEMO also found that if PEC does not proceed, extensive further
+measures will be required to address system security risks. AEMO considers that the current proposed
+commissioning date for PEC is crucial for the ongoing security of SA’s power system. Give n the timing of
+AEMO’s assessment, its analysis was not included in the RIT-T assessment. AEMO will share the results of its
+analysis with the AER, to emphasise the importance of PEC for ongoing security of the SA power system.
+FTI supports AEMO’s assessment that PEC is likely to enhance the integration of SA with the rest of the NEM,
+thereby reducing the risk of ‘islanding’ during unexpected, low probability events (for example, unexpected
+outages of other transmission lines). FTI considers that PEC will drive down the cost of procuring essential
+system services that are needed by AEMO to balance the system on a second-by-second basis. The need for
+such services is increasing given the growth in  variable intermittent renewable  generation, which make s
+balancing the system more challenging.15  PEC will provide greater scope for more services to be sourced, at
+lower cost, from neighbouring regions.
+Transition to a renewables-based generation mix
+PEC will facilitate t he transition of the NEM to a generation mix with a higher share of renewable sources .
+Modelling undertaken by FTI shows that PEC is expected to facilitate greater integration of renewable
+generation in the NEM by enabling more renewables to be built within individual regions than would be the case
+without the interconnector. This increased volume of renewable generation will be transferred between NSW
+and SA in periods when output within one of these regions exceeds demand.
+Our capex forecast and tender process
+Our forecast capex in this Application is $2.3 billion (Real 2017-18). Our capex forecast reflects:
+ greenfield project risks and associated construction costs. We will seek to transfer some of these risks
+and costs, but it will not be possible to fully transfer all of these, to the final contractor/s
+ results of the market-testing of the forecast capex through our tender process.
+At the time of submitting this Application, we are part-way through our tender process.  We have short-listed
+three tenderers and their initial proposals are reflected in the capex forecast for the NSW component of the
+Project in this Application. The short-listed tenderers were selected by our tender Evaluation Panel, comprising
+members of our Executive Team, the project director and an independent member. The NSW Government, the
+SA Governments and ElectraNet joined the Panel as observers.
+We will provide additional information to the AER as it becomes available from our tender process during the
+second half of 2020, including our revised capex forecast based on the final tender outcomes. We expect our
+capex forecast will be reduced through this process.
+Customer consultation and support
+We have consulted broadly with our customers and other stakeholders through public forums and individual
+meetings to keep them informed about the Project and to facilitate the exchange of views and feedback.
+This has co ntinued throughout our competitive and transparent tender process, where we have conducted
+fortnightly meetings and teleconferences to update stakeholders on key developments. This has been
+
+14  AEMO, Minimum Operation Demand Thresholds, 19 June 2020. Found  at Link
+15  Indeed AEMO has recently remarked that “the requirement for interventions will increase across the NEM…as instantaneous penetrations of
+wind and solar generation grow” . Source: AEMO, Renewable Integration Study: Stage 1 Report, April 2020. Found at Link
+--- PDF physical page 7 ---
+
+
+
+
+4 | Project EnergyConnect | Contingent Project Application
+welcomed by stakeholders. Our engagement has revealed that stakeho lders have a broad understanding of
+the need for the Project and of the benefits that will flow to customers and the energy system, if it proceeds.
+Financeability of the project
+This Application identifies a need to resolve with the AER the timing of revenue recovery and the ex post review
+of any significant capex overspend. These issues arise due to the unprecedented size and scale of this Project,
+and that its timing is driven by the ISP process  and the expectations of  SA Government and other key
+stakeholders. We want to continue to work collaboratively with AER staff and other stakeholders to identify the
+best way to address these issues that balances outcomes for investors and customers.
+As these matters are in the process of being discussed by u s with AER staff, we are not yet in a position  to
+confirm the financeability of the Project under the current regulatory framework.
+
+
+--- PDF physical page 8 ---
+
+
+
+
+5 | Project EnergyConnect | Contingent Project Application
+1. Introduction
+Our 2018-23 Revenue Determination includes a contingent project for PEC.16 The Project is defined in the NER
+as a priority project for early implementation17.
+Section 3.2 explains the relevant trigger events for the Project and demonstrates that they have occurred.
+In accordance with the clause 6A.8.2 and clause 11.114.3  of the NER , t his Application seeks the A ER’s
+approval to amend the revenue requirements and maximum allowed revenue (MAR) in its 2018-23 Revenue
+Determinations for TransGrid so that we can recover the efficient costs of our part of the Project.
+Unless otherwise specified, all expenditure forecasts in this Application are expressed in real terms ($2017-18),
+and all revenue forecasts are expressed in nominal terms, consistent with our 2018-23 Revenue Determination.
+ Compliance with the NER
+This Application and the supporting documents establish the matters in clause 6A.8.2(f) of the NER, being:
+(1) the forecast of the total capital expenditure for the contingent project meets the threshold as referred to
+in clause 6A.8.1(b)(2)(iii)
+(2) the amounts of forecast capital expenditure and incremental operating expenditure reasonably reflect
+the capital expenditure criteria and the operating expenditure criteria, taking into account the capital
+expenditure factors and the operating expenditure factors respectively, in the context of the contingent
+project
+(3) the estimates of incremental revenue are reasonable, and
+(4) the dates are reasonable.
+ Structure of this document
+The remainder of this document is structured as follows:
+ Chapter 2 describes the Project. It also overviews the updated costs and benefits expected to be
+delivered
+ Chapter 3 sets out the regulatory requirements for this Application
+ Chapter 4 sets out forecast incremental revenue for the Project
+ Chapter 5 sets out forecast capex for the Project and incremental opex for the 2018-23 regulatory period
+ Chapter 6 sets out how the NER requirements have been addressed
+ Appendix A is our revenue application
+ Appendix B is potential unintended consequences faced by Major ISP Projects
+ Appendix C is the Board resolution, and
+ Appendix B is a glossary of terms.
+
+16  The NSW-SA Interconnector contingent project specified in TransGrid’s 2018 -23 Revenue Determination. See AER, Final Decision –
+TransGrid transmission determination 2018 to 2023, Attachment 6 – Capital expenditure, May 2018, pp. 137-8.
+17  See definitions of ‘ISP Projects’ and ‘SA -NSW Interconnector Projects’ in clause 11.114.1 of the NER, in Part ZZZP which deals with early
+implemnetation of ISP priority projects.
+--- PDF physical page 9 ---
+
+
+
+
+6 | Project EnergyConnect | Contingent Project Application
+ Structure of the Contingent Project Application Documents and Models for Project
+EnergyConnect
+There are a number of other attachments and models that support, and form part of, our Application for the
+Project. This document references these attachments, models and other supporting documents for further detail
+and should be read in conjunction with them.
+Our Application is structured as illustrated in Figure 1 to be as clear and accessible as possible to the AER,
+customers and other stakeholders.
+Figure 1 – PEC Application document structure
+
+The attachments and supporting models that, together with this document, comprise our Application are
+summarised in Table 1.
+Table 1 – Documents and models comprising this Application (excluding our other supporting documents)
+Document / model
+number
+Name Content/ purpose
+A.1 Project EnergyConnect – Contingent
+Project Application
+Seeks the AER’s approval to amend the
+revenue requirements and MAR in the 2018-23
+Revenue Determination
+A.2 Stakeholder engagement overview Describes pre-lodgement consultation
+undertaken by the businesses
+A.3 PEC Post-Tax Revenue Model Demonstrates the calculations to get to the
+incremental revenue requirements and MAR
+from the Project
+A.4 Specification and scope for PEC Explains development and refinement of project
+specification and scope since the PACR
+PEC Contingent Project Application
+(Application)
+TransGrid  PTRM and other
+supporting models
+TransGrid’s Attachments
+Appendix A – TransGrid’s Revenue
+Application
+TransGrid’s other supporting
+documents
+--- PDF physical page 10 ---
+7 | Project EnergyConnect | Contingent Project Application
+Document / model
+number
+Name Content/ purpose
+A.5 Capex forecasting methodology for
+Project EnergyConnect
+Explains key steps to develop and validate our
+capex forecast and presents the basis on which
+the works have been efficiently scheduled.
+A.6 Capex Model for Project
+EnergyConnect
+Calculates our capex forecast
+A.7 Corporate and network overhead
+forecast for Project EnergyConnect
+Explains the bottom-up forecast of overheads,
+which are a component of our total capex
+forecast.
+A.8 Corporate and network overhead
+spreadsheets for Project
+EnergyConnect
+Calculates the corporate and network overhead
+forecast for the Project
+A.9 GHD, Independent capex Assessment GHD’s independent assessment on the scope,
+procurement process and forecast capex for the
+Project.
+A.10 FTI Consulting, Benefits of project
+EnergyConnect
+FTI’s provides an independent view on the gross
+benefits of PEC under the RIT-T approach,
+having regard for the AER’s feedback, as well
+as other wider benefits of PEC currently not
+captured by the RIT-T framework.
+A.11 Opex forecasting methodology for
+Project EnergyConnect
+Explains key steps to develop and validate our
+opex forecast.
+A.12 Opex model Project EnergyConnect Calculates our opex forecast
+A.13 Independent insurance report
+A.14 Capex tender inputs and summary
+spreadsheet
+Combines tender responses and summarises
+forecast capex
+A.15 Demand forecast model Calculates our incremental energy delivered
+forecast
+In addition to the documents and models listed in Table 1, we have provided the AER with other supporting
+documents that are referenced in the documents in Table 1.
+
+--- PDF physical page 11 ---
+8 | Project EnergyConnect | Contingent Project Application
+2. Project overview
+Background to this Application
+PEC was identified as an important element of the ‘roadmap’ for the NEM in AEMO’s 2018 ISP, and as one of
+AEMO’s immediate priorities that would deliver positive net market benefits as soon as it is built. PEC’s
+importance was confirmed in AEMO’s Draft 2020 ISP18. It is included in AEMO’s optimal development path as
+a Group 1 priority project. AEMO’s final 2020 ISP will be published shortly and will include PEC.
+PEC has been declared to be Critical State Significant Infrastructure for NSW 19. The SA Government has
+declared it a ‘ Major Development’20.  As a result, the SA Government has provided an expedited planning
+approval process and has supported our early works for delivery of the Project.
+This Application is the last step in the regulatory assessment process for the Project.
+The AER’s approval of our prudent and efficient expenditure for ecasts, and the resultant changes in our
+revenues and prices that are reflected in this Application, will enable the Project to proceed to a final investment
+decision subject to resolving matters related to the financeability of the Project .  This will unl ock the many
+benefits that the Project offers.
+The timing for the submission of this Application is driven by our commitment to meet our contractual obligations
+to the SA Government in accordance with our early works agreement with them.
+Project description
+The Project involves the construction of a 900 kilometre interconnector between Robertstown in mid-north SA
+and Wagga Wagga in NSW via Buronga, with an extension between Buronga and Red Cliffs in Victoria. The
+interconnector will provide 800 MW of nominal transfer capacity.
+The scope of works involved includes:
+ a new 330 kV double circuit line linking Robertstown to Buronga to Dinawan to Wagga Wagga
+ a new 330 kV substation at Bundey near Robertstown including 275/330 kV transformers
+ new 330 kV Phase Shifting Transformers at Buronga (in order to share power transfers between new and
+existing interconnectors) together with 330/220 kV transformers
+ augmentation works at the existing Robertstown, Buronga, Wagga Wagga and Red Cliffs substations
+ establishment of a new 330 kV switching station at Dinawan
+ a new double circuit 220 kV line from Buronga to Red Cliffs in Victoria, including decommissioning and
+removal of the existing 220 kV line
+ turning in the existing 275 kV line between Robertstown and Para to Tungkillo
+ static and dynamic reactive plant at Robertstown, Buronga and Dinawan
+ a Special Protection Scheme to detect and manage the loss of either interconnectors, and
+ associated power system studies, commissioning works and testing.
+The PEC route is shown in Figure 2.
+18 Published in December 2019
+19 Media Release, NSW Planning and Public Spaces Minister Rob Stokes, 29 August 2019 .
+20 Media Release, SA Premier Steven Marshall, 27 June 2019.
+--- PDF physical page 12 ---
+
+
+
+
+9 | Project EnergyConnect | Contingent Project Application
+Figure 2 – PEC line route
+
+ Project benefits
+PEC fulfils a vital role in the national energy supply system and contributes to all three corners of the energy
+trilemma: affordability; security; and climate change, though its extensive benefits including:
+ greater sharing of reserves, providing NSW with access to renewable generation as coal retires
+ unlocking renewable generation development en-route and allowing greater market access
+ decreasing price volatility through sharing of resources across regions
+ reducing electricity prices through greater supply, diversity and competition
+ supporting the energy transformation to a more intermittent based resource mix
+ reducing reliance on increasingly costly gas plant in SA for dispatchable capacity and for system stability
+ allowing greater exports of embedded generation at times of minimum SA demand, and
+ reducing vulnerability to extreme weather events and system disturbances, such as bushfires.
+RIT-T benefits and ‘break-even’ point for the Project
+We commissioned FTI to prepare an independent expert report  on the benefits of PEC. FTI’s assessment
+addresses the matters raised by the AER in its RIT-T Determination for PEC21, as well as the assumptions that
+will be reflected in AEMO’s Final 2020 ISP22.
+FTI estimates gross benefits  under the RIT-T framework of $1.6 billion in NPV terms over the 2020 to 2040
+period and calculates the associated maximum project cost to support positive net market benefits to be $3.0
+billion. This is referred to as the ‘break-even’ cost for the Project.23
+
+21  The AER’s SA Energy Transformation (SAET) RIT-T Determination, published on 24 January 2020
+22  FTI used AEMOs Draft 2020 ISP assumptions from December 2019. These are the most recent assumptions available to FTI at the time of
+preparing its report
+23  This is calculated using the commercial discount rate of 5.9 per cen t. We note that a contemporary commercial discount rate would be
+substantially lower than 5.9 per cent given current market returns and discount rates. Using a contemporary commercial discount rate  would
+--- PDF physical page 13 ---
+10 | Project EnergyConnect | Contingent Project Application
+Other benefits not assessed under the RIT-T framework
+In addition to the RIT-T benefits, FTI estimates:
+ additional gross benefits of $0.8 billion to $1.0 billion by taking into account the benefits expected to
+accrue from the Project beyond the 2040 horizon of the current RIT-T assessment period. The AER’s
+draft cost benefit analysis guideline recognises that in the case of very long-lived and high-cost
+investments, it may be necessary to adopt a modelling period of 20 years or more.24
+ an increase in gross benefits to $2.1 billion for the 2020-2040 period, where a lower societal discount rate
+of 3.5 per cent is adopted for the NPV analysis. This might better reflect a societal discount rate rather
+than the higher discount rate of 5.9 per cent currently used in the RIT-T. This results in an increase in the
+‘break even’ point for the Project to $4.4 billion
+ additional ‘non-monetised’ benefits reflecting the strategic importance of the Project to future NEM
+development. This is discussed further below, and
+ net consumer benefits of $7.1 billion to $11.9 billion, arising from the material reduction in wholesale
+prices in all NEM regions driven by improved access to cheaper sources of generation from neighbouring
+regions and increased generator competition.
+FTI notes that the primary focus of Great Britain’s energy regulator, the Office of Gas and Electricity Markets
+(Ofgem), involves assessing the impact of new interconnector investments from the perspective of consumers.
+Accordingly, the RIT -T may significantly undervalue total project benefits as there are benefits, such as
+consumer benefits  stemming from changes in wholesale prices , that do not fall into the allowed benefit
+categories.
+These additional benefits are material and far exceed the interpretation allowed under the RIT-T framework and
+support the project proceeding at an even higher ‘break-even’ cost. FTI’s assessment reinforces that the Project
+will play a vital role in reducing electricity costs, improving system security and reliability and supporting the
+transition to a more renewables dominated electricity system:
+Reducing electricity costs
+We expect that PEC will significantly reduce customers’ bills . FTI estimates25 that PEC will reduce wholesale
+electricity prices in NSW by $10.50/MWh to $29.60/MWh on average up to 2040, and in SA by $1.2 0/MWh to
+$4.80/MWh on average up to 2040. This is equivalent to a reduction in average annual residential bills of $34.10
+to $110.10 per year for NSW consumers and $5.10 to $22.50 per year for SA consumers26.
+Improving security and reliability of supply
+PEC will improve system stability substantially, particularly for SA . AEMO advised the SA Government 27 that
+delivering PEC as soon as possible is critical for the ongoing secure opera tion of the power system and to
+reduce the likelihood of SA ‘islanding’. AEMO also advised the SA Government that if PEC does not proceed,
+extreme measures will be required to maintain power system security, such as an immediate moratorium on
+new solar installations and costly retrofits of existing installations. AEMO therefore considers that the current
+proposed commissioning date for PEC is crucial for the ongoing security of SA’s power system. Given the timing
+substantially increase the benefits and break -even cost of the Project. Using the regulatory WACC from the AER’s most recent revenue
+determination, which is the lower boundary for the discount rate under the AER’s Draft Cost benefit analysis guidelines , would also result in
+significantly higher benefits and therefore a higher break-even cost. The AER’s most recent Decision at the time of making this Application
+is its 2020 to 2025 Final Decision for SA Power Networks. This determined a nominal WACC of 4.75 per cent .
+24 AER Draft Cost benefit analysis guideli nes - Guidelines to make the Integrated System Plan actionable , May 2020 p. 63
+25 FTI Consulting, Benefits of project EnergyConnect , June 2020
+26 Assuming: (i) wholesale price changes ; (ii) the cost of EnergyConnect ; and (iii) the effect of the Project on existing interconnector residues,
+are fully passed on to consumer retail bills, and average annual household consumption fi gures remain constant over time.
+27 AEMO, Minimum Operation Demand Thresholds, 19 June 2020. Found  at Link
+--- PDF physical page 14 ---
+11 | Project EnergyConnect | Contingent Project Application
+of its advice, AEMO’s analysis was not included in the RIT-T assessment to date. AEMO will share the results
+of its analysis with the AER, to emphasise the importance of PEC for ongoing security of the SA power system.
+FTI supports AEMO’s assessment that PEC is likely to enhance the integration of SA with the rest of the NEM,
+thereby reducing the risk of ‘islanding’ during unexpected, low probability events (for example, unexpected
+outages of other transmission lines). FTI found that PEC will drive down the cost of procuring essential system
+services that are needed by AEMO to balance the system on a second -by-second basis. The need for such
+services is increasing given the growth in variable intermittent renewable generation, which makes balancing
+the system more challenging.28  PEC will provide greater scope for more services to be sourced, at lower cost,
+from neighbouring regions.
+Transition to a renewables-based generation mix
+PEC will facilitate t he transition of the NEM to a generation mix with a higher share of renewable sources .
+Modelling undertaken by FTI shows that PEC is expected to facilitate greater integration of renewable
+generation in the NEM by enabling more renewables to be built within individual regions than would be the case
+without the interconnector. This increased volume of renewable generation will be transferred between NSW
+and SA in periods when output within one of these regions exceeds demand.
+Broader strategic benefits
+PEC has been identified by AEMO as a key component of the NEM Roadmap enabling the transitio n of the
+Australian energy sector. As discussed earlier, it has been identified in AEMO’s 2018 ISP and the draft 2020
+ISP as a priority project for implementation.
+The Project is expected to bring a range of strategic benefits to the NEM as the energy sec tor transitions,
+including enabling greater diversification across generation sources and improving the ability of the system to
+withstand High Impact Low Probability (HILP) events.
+FTI highlights that in overseas jurisdictions transmission planners take into account strategic and ‘hard -to-
+monetise’ benefits associated with major investments, such as the impact in mitigating key risks and facilitating
+greater diversity and resilience. These benefits form part of the formal regulatory evaluation and are considered
+within the relevant decision-making frameworks.
+FTI has identified strategic ‘non -monetary’ benefits associated with PEC additional to those that were
+considered as part of the RIT-T. These include benefits:
+ supporting the integration of renewable generation
+ connecting complementary generation mixes in SA and NSW
+ contributing to security of supply in SA (including in relation to High Impact, Low Probability events)
+ providing optionality for potential future policy changes, and
+ supporting the National Electricity Objective (particularly in relation to reliability and security of supply).
+The flexibility given to AEMO under the new ‘actionable ISP’ Rules framework now enables greater
+consideration of these type of benefits as part of the NEM planning framework.
+If the RIT-T for PEC was being commenced now, following publication of the final 2020 ISP, we believe that the
+direction provided by AEMO in relation to the ‘identified need’ and the scenarios to be adopted would result in
+a materially different focus for the RIT-T analysis. In particular, it would be likely to give greater weight to the
+additional strategic benefits underlying AEMO’s inclusion of PEC as part of the optimal development path.
+Given the extent of the analysis conducted to date,  and the high profile and desired near -term timing of PEC
+as an ISP priority project, it would be impractical to now restart the RIT -T assessment under the new ISP
+28 Indeed AEMO has recently remarked that “the requirement for interventions will increase ac ross the NEM…as instantaneous penetrations of
+wind and solar generation grow” . Source: AEMO, Renewable Integration Study: Stage 1 Report, April 2020. Found at Link
+--- PDF physical page 15 ---
+12 | Project EnergyConnect | Contingent Project Application
+framework. However, we expect that these broader strategic benefits will continue to be a key driver for AEMO
+in its decision to include PEC as part of the ISP’s optimal development path. AEMO’s final 2020 ISP is expected
+to be published shortly.
+--- PDF physical page 16 ---
+
+
+
+
+13 | Project EnergyConnect | Contingent Project Application
+3. Regulatory requirements
+The regulatory requirements for contingent projects are contained in:
+ clause 6A.8.2 of the NER, as modified by Part ZZZP for this Project, and
+ the AER’s Process Guideline for Contingent Project Applications.29
+The key requirements are outlined below. Chapter 5 of this Application shows how we have satisfied the
+regulatory requirements.
+ Regulatory requirements
+Clause 6A.8.2 of the NER, as modified for the Project by clause 11.114.3 of the NER, sets out the requirements
+for making an application to amend a revenue determination to include a contingent project.
+This Application is  made in accordance with the requirements of clause 6A.8.2(a), (a1) and (b) of the NER,
+being made:
+ during the 2018 to 2023 regulatory period
+ to amend the revenue determination that applies to us in respect of a contingent project included in the
+revenue determination, and30
+ within the specified time limits.31
+This Application includes the information specified in clause 6A.8.2(b) of the NER:
+(3) except in the case of a clause 5.16.6 trigger,32 an explanation that substantiates the occurrence of the
+trigger event
+(4) a forecast of the total capital expenditure for the contingent project
+(5) a forecast of the capital and incremental operating expenditure, for each remaining regulatory year
+which the Transmission Network Service Provider considers is reasonably required for the purpose of
+undertaking the contingent project
+(6) how the forecast of the total capital expenditure for the contingent project meets the threshold as
+referred to in clause 6A.8.1(b)(2)(iii)
+(7) the intended date for commencing the contingent project (which must be during the regulatory control
+period)
+(8) the anticipated date for completing the contingent project (which may be after the end of the regulatory
+control period), and
+(9) an estimate of the incremental revenue which the Transmission Network Service Provider considers is
+likely to be required to be earned in each remaining regulatory year of the regulatory control period as
+a result of the contingent project being undertaken as described in subparagraph (3), which must be
+calculated:
+(i) in accordance with the requirements of the post-tax revenue model referred to in clause 6A.5.2
+(ii) in accordance with the requirements of the roll forward model referred to in clause 6A.6.1(b)
+
+29  AER, Process Guideline for Contingent Project Applications under the NER, September 2007
+30  NER clause 6A.8.2(a)
+31  NER clause 6A.8.2(a)
+32  That is, a determination that a preferred o ption satisfies the regulatory investment test for transmission
+--- PDF physical page 17 ---
+
+
+
+
+14 | Project EnergyConnect | Contingent Project Application
+(iii) using the allowed rate of return for that Transmission Network Service Provider for the
+regulatory control period as determined in accordance with clause 6A.6.2
+(iv) in accordance with the requirements for depreciation referred to in clause 6A.6.3, and
+(v) on the basis of the capital expenditure and incremental operating expenditure referred to in
+subparagraph (b)(3).
+Clause 6A.8.2(f)(2) of the NER requires the AER to accept the relevant amounts in this Application if it is
+satisfied that:
+the amounts of forecast capital expenditure and incremental operating expenditure reasonably reflect
+the capital expe nditure criteria and operating expenditure criteria, taking into account the capital
+expenditure factors and operating expenditure factors, in the context of the contingent project.
+In addressing these requirements, we have had regard for the AER’s Process Guideline for Contingent Project
+Applications33.  We have met regularly with the AER in preparing this Application and the AER’s feedback has
+informed the content and structure of this Application and supporting documentation.
+ Trigger events
+Table 2 shows that the trigger events approved by the AER in its 2018-23 Revenue Determination for the Project
+have been, or are in the process of being, met.
+Table 2 – Occurrence of the Trigger Events
+Trigger event Status
+1. Successful completion of a RIT-T demonstrating an overall
+network investment by all parties involved in the
+interconnector construction that maximises the positive net
+economic benefits from establishing a new high voltage
+interconnection from South Australia, and/or that
+addresses a reliability corrective action.
+Complete
+On 13 February 2019, ElectraNet published a
+PACR for the SAET Project in which the
+preferred option demonstrated positive net
+economic benefits.
+2. Determination by the AER that the proposed investment
+satisfies the RIT-T.
+Complete
+On 24 January the AER published its RIT-T
+Decision that Project EnergyConnect satisfies
+the RIT-T as the preferred option.
+3. TransGrid Board commitment to proceed with the project
+subject to the AER amending the revenue determination
+pursuant to the Rules.
+On 26 June 2020, the TransGrid Board
+committed to proceed with the Project subject
+to:
+ The AER awarding incremental revenue
+commensurate with the capital and
+operating costs of the Project proposed by
+TransGrid;
+ TransGrid obtaining debt and equity
+funding on terms satisfactory to it; and
+ the Board of ElectraNet making a
+corresponding commitment.
+
+33  AER, Process Guideline for Contingent Project Applications under the National Electricity Rules , September 2007 available at:
+https://www.aer.gov.au/system/files/ac06907 -Final%20guideline.pdf.
+--- PDF physical page 18 ---
+15 | Project EnergyConnect | Contingent Project Application
+Trigger event Status
+4. Clauses 1 and 2 do not apply if a change in the law occurs
+that allow s the inclusion of the proposed investment in
+TransGrid's maximum allowed revenue under this revenue
+determination even if a RIT-T is not carried out.
+Not Applicable – no such change in law has
+occurred.
+Project timing
+For the purposes of this Application, the applicable dates for the commencement and completion of the
+contingent project are:
+ Date for commencement of the contingent project – 1 July 2018
+ Anticipated date for completion of our component of the contingent project – June 2023.
+This timing reflects a realistic assessment of the earliest dates that the investments can be delivered.
+The capex for the Project will occur during the 2018-23 regulatory period. Opex will continue into subsequent
+regulatory periods once the assets are operational. The completion date is consistent with indicative date set
+out in the PACR.
+Stakeholder input and pre-lodgement consultation
+We remain committed to continuing to engage effectively with customer representatives and wider stakeholders
+on the Project.
+Full details of the extensive RIT -T consultation undertaken to date are set out in ElectraNet’s request for
+determination.34 In summary, since commencing its RIT-T consultation in 2016, in addition to the three required
+RIT-T documents (the PSCR, PADR and PACR),  ElectraNet also released extensive supplementary reports,
+models, results and analysis, including reports from indepe ndent consultants that corroborated and further
+investigated aspects of the analysis and points raised in stakeholder submissions. Separate public forums and
+‘deep dive’ sessions were held in Adelaide and Sydney, to help explain the assessment to stakeholders and to
+hear stakeholders’ views. Detailed information was also released responding to the questions and issues raised
+by stakeholders.
+All consultation materials, submissions received, and actions taken to address feedback from stakeholders in
+relation to the RIT-T process are available on ElectraNet’s website.35
+Following the conclusion of the RIT-T process in early 2019, we have continued to engage with stakeholders
+about this Application.
+The purpose of the engagement is to inform customers and othe r stakeholders about the SA -NSW
+interconnector and to allow them to provide their views and perspectives on the Project. In July 2019, we jointly
+published with ElectraNet a draft engagement plan, which set out high-level plans and approaches and invited
+input. We incorporated feedback received into the final engagement plan, which is provided in the "Stakeholder
+engagement overview” attached to this Application.
+Engagement on the Project  has occurred both through individual briefings and meetings and stake holder
+forums, including:
+ Project EnergyConnect stakeholder forum on 25 July 2019, held in Sydney, and
+34 ElectraNet, Letter to Paula Conboy, AER, Re: SA Energy Transformation RIT -T – Request for determination, 11 April 2019, esp. pages 4 to
+6, and Attachments 1, 2 and 3.
+35 See https://www.electranet.com.au/projects/south -australian-energy-transformation/
+--- PDF physical page 19 ---
+
+
+
+
+16 | Project EnergyConnect | Contingent Project Application
+ Project EnergyConnect stakeholder forum on 21 October 2019, held in Adelaide.
+This process provided valuable feedback to inform the development of this A pplication. For example,
+stakeholders expressed a preference for certainty about estimated costs for the Project  and asked us to
+nominate a specific cost estimate in our Application, rather than nominating a cost range. This Application
+provides a specific expenditure forecast for our component of the project , rather than ranges, for both capex
+and opex.
+We have also held fortnightly updates for our stakeholders, which covered a broad range of topics including the
+impact of COVID-19, the refinement of the Project’s line route, the status of the procurement process and the
+interaction between PEC and other ISP projects.
+The “Stakeholder engagement overview ” provided as an attachment to this Application summarises the
+outcomes of this engagement and how it has been reflected into this Application.
+We will continue to engage with customers and other stakeholders through the remaining stages of the
+regulatory approval process.
+ Consultation on our procurement process
+We have adopted a robust, transparent and inclusive procurement process to ensure our capex forecast reflects
+prudent and efficient capex and that customers are paying no more than they should be for the services that
+they will receive.
+This involved establishing an Evaluation Panel (Panel) comprising members of our Executive Team, the project
+director and an independent member. The NSW Government, the SA Governments and ElectraNet joined the
+Panel as observers.
+On 28 November 2019, the Panel assessed the initial tender responses, received on 11 November 2019, based
+on an agreed criteria and weighting methodology.  The Panel short-listed three tenderers for the next stage of
+the procurement process. We have reflected the costs from short-listed tenderers in this Application.
+In February 2020, we presented an overview of the tender process to stakeholders including AER, AEMO and
+consumer groups before releasing the tender documents to the short -listed tenderers on 11 February 2020.
+This provided an opportunity for key stakeholders to raise any issues with the procurement documents, process
+and structure. Stakeholders inquired about our approach to prioritising the use of Australian service providers.
+We responded to this feedback by developing an Australian I ndustry Participation Plan for the Project. The
+successful contractor will implement this Plan.
+Our approach has provided full transparency with respect to our tender documents and process.
+
+
+--- PDF physical page 20 ---
+
+
+
+
+17 | Project EnergyConnect | Contingent Project Application
+4. Forecast revenue
+This section sets out total forecast revenue for the Project.
+This Application identifies a need to resolve with the AER the timing of revenue recovery (refer
+Appendix B).  Accordingly, th e following section is presented in accordance with the current regulatory
+framework, as the matter  is unresolved . We have forecast r evenue using the same assumptions and
+approaches recently adopted by the AER in its determination on the QNI Minor Upgrade contingent project
+application. Table 3 summarises the incremental revenue forecast of $118.7 million ($Nominal), broken down
+by building block component, and briefly explains how we have calculated these. Further detail is provided in
+Appendix A.
+As mentioned above, Appendix B of our Application explains that applying the current regulatory framework
+defers recovery of revenue for PEC (and other Major ISP Projects) into the future. This issue arises due to the
+unprecedented size and scale of PEC. We have been discussing with AER staff alternative approaches so that
+PEC can be financeable. At the time of this Application, this matter remains unresolved with the AER. We look
+forward to continuing to engage with AER staff about this matter in the lead up to its Determination.
+Table 3 – 2018-23 forecast incremental revenue from the Project ($M, Nominal)
+Building block $ Million,
+Nominal
+Approach
+Return on capital 184.8 Calculated by multiplying the forecast opening capital base
+(updated to include expenditure on the Project) for a given year by
+the allowed rate of return adopted by the AER.
+Return of capital
+(70.6)
+Calculated as forecast straight line depreciation for each asset
+class less indexation of the capital base. The value is negative
+because indexation is higher than depreciation over the 2018–23
+regulatory period.
+As discussed in Appendix B, we have concerns with how indexation
+undermines financeability of large projects like PEC. We are
+working collaboratively with AER staff to identify the best way to
+address this issue that balances outcomes for investors and
+customers.
+Opex
+3.6
+Calculated as a bottom-up build of expected operating and
+maintenance costs once the Project assets are commissioned.
+Debt raising costs, calculated using the AER’s standard approach,
+are added on top.
+Corporate income tax 0.3 Calculated as forecast pre-tax income multiplied by the corporate
+tax rate, less the assumed value of imputation credits.
+Annual revenue
+requirement (i.e.
+unsmoothed)
+118.0
+Impact of smoothing 0.7 Revenue is smoothed by shifting some revenue from 2019–22 to
+2022-23 to reduce volatility, without affecting net present value of
+revenue. This slightly increases total revenue over the 2018–23
+regulatory period.
+--- PDF physical page 21 ---
+
+
+
+
+18 | Project EnergyConnect | Contingent Project Application
+Building block $ Million,
+Nominal
+Approach
+Maximum allowed
+revenue (i.e. smoothed)
+118.7
+
+--- PDF physical page 22 ---
+
+
+
+
+19 | Project EnergyConnect | Contingent Project Application
+5. Forecast capex and opex
+This section sets out total forecast capex and opex for the Project.
+ Forecast capex
+This section presents the capex forecast for our component of the Project to address clause 6A.8.2(b) of the
+NER.  All of this capex will be incurred in the 2018-23 regulatory period.
+The capex forecast is prudent and efficient having regard for the capex objectives, criteria and factors in clause
+6A.5.7 of the NER.36  The total forecast capex also satisfies the contingent project expenditure threshold.
+ Capex forecast
+The Project is large with unique characteristics.  It will be:
+ the first new interconnector to be built between Australian states in 15 years, and
+ a greenfield project where there has been no previous electricity infrastructure constructed (or
+construction occurred many decades ago), which gives rise to significant environmental, bio-diversity,
+geotechnical, land access and indigenous heritage risks.
+The delivery of the Project is made more complicated because Government and other stakeholders have tight
+timing expectations. The timing coincides with significant demand for infrastructure delivery in the Australian
+market, par ticularly in NSW, leading to a shortage in available labour and construction resources . This is
+compounded by the remoteness of much of the construction, which poses significant challenges to the
+availability of required resources.
+These characteristics and delivery considerations present risks and uncertainties that need to be reflected in
+our capex forecasts for the Project at this time, but which we anticipate will reduce following completion of the
+tender process. Many of the costs reflect factors outside of our control and we are seeking to efficiently transfer
+these risks to the final contractor/s . However, we will not be able to transfer all of these costs to the final
+contractor/s and we will only know this once our tender process is complete.
+We are  using our best endeavours to provide accurate forecasts of the prudent and efficient capex of the
+Project. We therefore want as much of our forecast capex as possible to be market -tested.  This will help to
+ensure that customers are paying no more than they should be for the services that they will receive.
+At the time of submitting this Application, we are part-way through our tender process for the NSW component
+of the Project.  As part of this process we:
+ sent initial tender documents to the market on 3 October 2019
+ received initial tender responses from five tenderers on 11 November 2019
+ short-listed three tenderers for the next stage in December 2019
+ issued final tender documents to the short-listed tenderers on 11 February 2020
+ will receive final tender submissions and therefore binding offers on 29 June 2020
+ will select a preferred tenderer by September 2020, and
+ will execute a Commitment Deed in September 2020 and an engineering, procurement and construction
+(EPC) deed in December 2020, subject to receiving a satisfactory AER Determination on this Application.
+
+36  As required by clause 6A.8.1(b)(2)(ii) of the NER.
+--- PDF physical page 23 ---
+20 | Project EnergyConnect | Contingent Project Application
+We have already mobilised our team to support the tender process and begin preparations to deliver the Project.
+By the end of March 2020 we had incurred $17.1 million (Real 2017-18) in indirect (or support) costs.
+Table 4 details our current total capex forecast of $2,290.9 million (Real 2017-18) for our component of the
+Project over the 2018-23 period.
+Table 4 – 2018-23 forecast capex ($M, Real 2017-18, including overheads)
+2018-19 2019-20 2020-21 2021-22 2022-23 Total
+Actual1  3.4  13.7  -  -   -  17.1
+Forecast  20.1  50.8  776.3  843.1  583.6 2,273.8
+Total forecast
+capex2 23.5 64.5 776.3 843.1 583.6 2,290.9
+Notes: These are actual indirect costs that we have already incurred  up to March 2020.37 Capex for 2018-19 includes equity raising costs of
+$19.9 million for TransGrid.
+Our capex forecast comprises:
+ $1,826.8 million (Real 2017-18) for tendered works. This capex reflects:
+– the average tender prices of the three short-listed tenders that we received in November 2019 for
+substations and transmission lines
+– quotations from suppliers for the large specialist equipment, which we consider provides a more
+reasonable and realistic cost estimate than the tender prices, and
+– other construction costs not included in the current tender pricing. We are seeking to transfer
+these costs to the final contractor/s efficiently by including them in the final contract price or as a
+variation to the final contract price.
+ $122.1 million (Real 2017-18) for project risks. These costs have been determined in accordance with the
+AER’s risk cost methodology. The AER defines project risk costs as including both the cost of mitigating
+risks (mitigation costs) and the costs associated with bearing residual risks after mitigation (contingency
+costs), and
+ $342.0 million (Real 2017-18) for other costs, including property and easements, corporate and network
+overheads (i.e. indirect costs), biodiversity offsets, real input escalators and equity raising.
+We expect our capex forecast will be reduced through the tender process. In particular, we expect that the risk
+and other construction costs arising from the greenfield nature of the Project  will be significantly r educed,
+however we will only know this once our tender process is complete.
+The AER has publicly indicated that its review process for this Application will take at least six months.
+We propose to provide additional information to the AER as it becomes available from our tender process during
+the second half of 2020.  This will ensure that the capex forecast for the Project, and therefore our adjusted
+revenues and prices, reflect the best view of the market-tested costs that we will incur.
+Basis for estimates
+We developed the capex forecasts based on a detailed scope of works using methods that reflect the specific
+nature of the costs, as shown in Table 5.
+37 These costs are discussed further in section 8.2 of Appendix A.5 (Capex Forecasting Methodology) and in Appendix A.7 (Corporate and
+network overhead forecast for Project EnergyConnect).
+--- PDF physical page 24 ---
+21 | Project EnergyConnect | Contingent Project Application
+Table 5 – Basis of Capex Forecast ($M, Real 2017-18)
+Category of
+PEC capex
+Description Basis of capex forecast Forecast
+capex
+% of total
+capex
+Tendered
+works
+Substations and
+transmission lines,
+including access tracks
+Forecast capex based on
+market pricing, including
+responses provided by
+tenderers and quotes from
+suppliers of large specialist
+equipment as well as top-down
+estimates of other construction
+costs
+1,315.2 57.4%
+Large specialist
+equipment
+216.3 9.4%
+Other construction
+costs
+295.3 12.9%
+Property and
+easements
+Property and easement
+acquisition and costs
+Forecast capex based on
+project land prices and other
+costs associated with acquiring
+easements, including the cost of
+offsetting biodiversity and
+species loss
+109.5 4.8%
+Environmental ‘offset’
+costs
+74.7 3.3%
+Indirect costs Actual costs Actual indirect costs incurred up
+to March 2020
+17.1 0.7%
+Corporate and Network
+overheads
+Forecast capex based on a
+bottom up-build of our indirect
+costs, which have been
+determined using current
+available market rates and
+recent historical data.
+105.3 4.6%
+Risks Biodiversity risk cost Forecast capex calculated using
+the AER’s risk cost methodology
+(detailed probabilistic risk
+assessment)
+122.1 5.3%
+Real input
+escalators
+Real labour cost
+escalation
+Forecast capex calculated by
+multiplying the projected labour
+components of forecast capex
+for tendered works, property
+and easements and indirect
+costs, by the real labour cost
+escalators approved in the
+AER’s 2018-23 Revenue
+Determination for TransGrid.
+15.5 0.7%
+Equity raising
+costs
+Equity raising costs Forecast capex calculated using
+the AER’s Post Tax Revenue
+Model
+19.9 0.9%
+Total capex 2,290.9 100%
+Our capex forecast for PEC is prudent and efficient in accordance with the capex criteria and meets the required
+capex objectives set out in the NER. This is demonstrated by:
+ a rigorous, well-defined and transparent capex forecasting methodology
+ the application of our governance framework and process
+--- PDF physical page 25 ---
+
+
+
+
+22 | Project EnergyConnect | Contingent Project Application
+ the reliance on market testing and expert reports, and
+ external validation of both the capex forecast and deliverability.
+Our capex forecast is explained and justified in the following supporting documents:
+ Capex Forecasting Methodology for PEC
+ Corporate and network overhead forecast for PEC, and
+ Independent engineering capex verification and assessment - this independent expert report prepared by
+GHD confirms that the scope of the Project is reasonable and realistic to meet the investment need and
+that our forecast capex is consistent with that which would be incurred by a prudent and efficient
+business.
+Our capex forecast model is also provided as an attachment to this Application.
+ Capex threshold
+The proposed capex of a contingent project is required to exceed either $30 million, or 5 per cent of the MAR
+for the first year of the regulatory control period, whichever is the greater.
+Table 6 shows that the forecast capex satisfies the relevant threshold.  This means that the capex is covered
+by the contingent project requirements of the NER.
+Table 6 – Contingent project thresholds ($M, Nominal)
+AER Decision
+First year MAR
+5% of MAR Contingent Project
+Threshold
+Pass / Fail
+716.738 36 36 Pass (as capex > $36
+million)
+Note: NER clause 6A.8.1(b)(2)(iii) requires that expected capex is higher than the greater of $30 million or 5% of MAR. The threshold is $36 million
+(being 5% of MAR).
+ Application of the CESS
+The AER’s capital expenditure sharing scheme (CESS) applies to our 2018-23 regulatory period. As previously
+discussed with the AER, we consider the application of the CESS to PEC should be considered in the context
+of the overall risk associated with Major ISP Projects under the current regulatory framework.
+We continue to use our best endeavours to accurately forecast the prudent and efficient costs of the Major ISP
+Projects to comply with the regulatory timeframes, recognising project-level uncertainties. While we support an
+incentive based regulatory regime we have identified two significant potential unintended consequences arising
+from the application of the current regulatory framework to the Major ISP Projects, given their:
+ unprecedented size and scale, and
+ that the timing of delivery is being driven by the ISP process and the expectations of government and
+other stakeholders.
+These risks are  discussed in  Appendix B. We propose further engagement with the AER, and our other
+stakeholders, to identify how best to manage, and fairly allocate, these risks for the Major ISP Projects. We
+consider the application of the CESS to Major ISP Projects should be considered as part of this discussion.
+
+38  AER, Final Decision – TransGrid – Post-tax Revenue Model – May 2018, Revenue Summary.
+--- PDF physical page 26 ---
+
+
+
+
+23 | Project EnergyConnect | Contingent Project Application
+ Forecast opex
+This section presents the incremental opex forecast for PEC in accordance with the re quirements of c lause
+6A.8.2(b)(iii) of the NER.
+The incremental opex forecast detailed is that reasonably required to undertake the Project, in accordance with
+the opex objectives, factors and criteria set out in the NER.
+ Opex forecast
+Table 7 shows that forecast opex for PEC is $3.2 million over the 2018-23 regulatory period.
+Incremental opex is minimal given that the interconnector will be under construction, and will enter servic e, at
+the end of the current regulatory period. Future maintenance and other opex associated with the new assets
+will be recovered in future regulatory periods.
+Table 7 – 2018-23 forecast opex ($M, Real 2017-18)
+2018-19 2019-20 2020-21 2021-22 2022-23 Total
+- 0.0 0.1 0.8  2.2 3.2
+Note: Note: Forecast opex  is incremental to the allowance in our 2018-23 Revenue Determination and include s debt raising costs.  The opex
+shown here is presented in real terms (in $2017 -18) and differs from the opex building block values shown in section A8 of Appendix A, which is
+presented in nominal terms.
+ Basis of opex forecast
+Our opex forecasting methodology for the Project, provided as an attachment to this Application, explains and
+justifies the i ncremental opex forecast.  Our opex forecast model is also provided as an attachment to this
+Application.
+We have  applied a bottom -up build approach to forecast incremental opex for the Project for the 2018 -23
+regulatory period. We have adopted the inflation and real cost escalation assumptions approved by the AER in
+its current 2018 -23 Revenue Determination . The bottom -up build  approach reflects the AER’s preferred
+approach for how it would like us to prepare our opex forecast.39 It is also consistent with the approach accepted
+by the AER for all contingent projects to-date.
+We consider that the forecast opex is efficient and prudent in accordance with the opex criteria and meets the
+required opex objectives set out in the NER.
+ Opex Forecast for the Purposes of the EBSS
+The efficiency benefit sharing scheme (EBSS) provides a constant incentive for TNSPs to pursue efficiency
+improvements in opex.  Our 2018-23 Revenue Determination specifies that version two of the EBSS will apply
+to the 201 8–23 regulatory period.  The EBSS requires that the incremental opex approved through  this
+Application is added to the opex allowance for the purposes of applying the EBSS.
+Incremental opex to be included in the EBSS opex allowance is set out in Table 8 (in accordance with the
+requirements of the scheme).
+Table 8 – 2018-23 forecast opex ($M, Real 2017-18)
+2018-19 2019-20 2020-21 2021-22 2022-23 Total
+-     0.0   0.1   0.4   1.3  1.8
+Note: Opex shown in is table is the same as that in Table 7 with debt raising costs removed (which are excluded from the EBSS) .
+
+39  The AER advised us on 18 October 2019 that it preferred a bottom -up build approach to forecast incremental opex.
+--- PDF physical page 27 ---
+
+
+
+
+24 | Project EnergyConnect | Contingent Project Application
+6. Guide to compliance
+Table 9 details how this Application complies with the NER requirements.
+Table 9 – Compliance with NER requirements
+NER, clause 6A.8.2(b) requirements Reference in Application
+(1) an explanation that substantiates the occurrence of the trigger event Section 3
+(2) a forecast of the total capex for the contingent project Section 5
+(3) a forecast of the capital and incremental opex, for each remaining
+regulatory year which the Transmission Network Service Provider considers
+is reasonably required for the purpose of undertaking the contingent project
+Section 5
+(4) how the forecast of the total capex for the contingent project meets the
+threshold as referred to in clause 6A.8.1(b)(2)(iii)
+Section 5
+(5) the intended date for commencing the contingent project (which must be
+during the regulatory control period)
+Section 3
+(6) the anticipated date for completing the contingent project (which may be
+after the end of the regulatory control period) and
+Section 3
+(7) an estimate of the incremental revenue which the Transmission Network
+Service Provider considers is likely to be required to be earned in each
+remaining regulatory year of the regulatory control period as a result of the
+contingent project being undertaken as described in subparagraph (3),
+which must be calculated:
+(i) in accordance with the requirements of the post-tax revenue model
+referred to in clause 6A.5.2
+(ii) in accordance with the requirements of the roll forward model referred to
+in clause 6A.6.1(b)
+(iii) using the allowed rate of return for that Transmission Network Service
+Provider for the regulatory control period as determined in accordance with
+clause 6A.6.2
+(iv) in accordance with the requirements for depreciation referred to in
+clause 6A.6.3, and
+(v) on the basis of the capex and incremental opex referred to in
+subparagraph (b)(3).
+Section 4 and Appendix A
+
+--- PDF physical page 28 ---
+
+
+
+
+25 | Project EnergyConnect | Contingent Project Application
+Appendices
+Appendix A – Our revenue application
+This Appendix A sets out our estimate of the incremental revenue for the Project over the  2018-23 regulatory
+period, having regard for clause 6A.8.2(b)(9) of the NER.
+Our incremental revenue is relatively small given that incremental opex for the Project is low and incremental
+capex is not expected to be commissioned until 2022-23.  As shown i n Table 19 below, this means that the
+customer bill impact in the current regulatory period is also expected to be low (relative to a typical retail bill).
+Appendix B of our Application explains that applying the current regulatory framework to estimate incremental
+revenue defers revenue recovery for PEC into the future. We have been discussing with AER staff ways to
+resolve this issue so that PEC remains financially viable. At the time of this submission, we have not resolved
+this matter with the AER. We look forward to continuing to engage with AER staff about this matter in the lead
+up to its Determination.
+Table 10 sets out the incremental MAR for the Project for the 2018-23 regulatory period. This has been
+calculated using the AER’s 2018-23 PTRM, updated for:
+ the 2019-20 and 2020-21  return on debt estimates, and
+ the AER’s recent determination on the Queensland NSW Interconnector upgrade contingent project
+application (QNI CPA), and
+ incremental forecast capex, opex and energy delivered for the Project. 40
+Table 10 – Incremental MAR ($M, Nominal)
+ 2018-19 2019-20 2020-21 2021-22 2022-23 Total
+AER 2018-23 determination 734.3 759.5 779.5 828.2 865.2 3,966.7
+Impact of Project EnergyConnect  -   -   -   36.3   82.4   118.7
+Updated MAR  734.3   759.5   779.5   864.4   947.6   4,085.4
+The rest of this Appendix A:
+ identifies the weighted average cost of capital (WACC) and standard asset life assumptions
+ sets out projected regulatory depreciation, tax allowance, debt and equity raising costs, unsmoothed
+revenue requirements and MAR, and
+ details the potential customer bill impact from the incremental revenue requirements resulting from the
+Project.
+A1 WACC
+We have calculated the incremental revenue for the Project using the same WACC assumptions as those
+adopted by the AER in its 2018-23 Revenue Determination, updated for the 2019-20 return on debt averaging
+period. This is consistent with clause 6A.8.2(b)(4)(ii) of the NER.
+
+40  Throughout this Appendix A we refer to the AER 2018 –23 determination updated for the 2019 -20 and 2020-21 return on debt estimates and
+the AER’s recent determination on the QNI CPA as the ‘AER 2018 -2023 determination’.
+--- PDF physical page 29 ---
+
+
+
+
+26 | Project EnergyConnect | Contingent Project Application
+The WACC parameters are set out in Table 11.
+Table 11 – WACC parameters
+Parameter AER Approved Value41
+Forecast inflation 2.45%
+Value of imputation credits 40%
+Gearing 60%
+Nominal pre-tax return on debt 5.97% for 2018-19
+5.77% for 2019-20
+5.41% for 2020-21 onwards
+Nominal post-tax return on equity 7.40%
+Nominal vanilla WACC 6.54% for 2018-19
+6.42% for 2019-20
+6.21% for 2020-21 onwards
+A2 Asset lives
+We have allocated our forecast capex for the Project across regulatory asset classes, as detailed in the Capex
+Forecasting Methodology. Capex is depreciated in the PTRM using the standard asset lives used in the AER’s
+2018-23 Revenue Determination, with two exceptions:
+ a new asset class has been added for synchronous condensers with a standard life of 40 years. This is
+because these assets are new and have not been included in the RAB previously, and
+ the standard life for equity raising costs was updated from ‘n/a’ to 37.9 years using the approach adopted
+by the AER in its recent determinations.
+The applicable standard asset lives are set out in Table 12.
+Table 12 – Asset lives
+Asset Category Standard Life (years) Explanation
+Transmission lines 50
+As per the AER’s 2018-23 Revenue Determination
+Substations 40
+Synchronous condensers 40 As per the AER’s August 2019 decision on
+ElectraNet’s South Australian Main Grid System
+Strength Contingent Project Application42
+Secondary systems 15
+As per the AER’s 2018-23 Revenue Determination
+Communications (short life) 10
+
+41  As last annually updated by the AER for the trailing average cost of debt in January  2019.
+42  AER, August 2019, Final Decision, ElectraNet Contingent Project, Main Grid System Strength , pp. 24-28.
+--- PDF physical page 30 ---
+
+
+
+
+27 | Project EnergyConnect | Contingent Project Application
+Asset Category Standard Life (years) Explanation
+Land and easements n/a
+Equity raising costs 38.6 As per recent AER decisions, this is calculated as the
+weighted average standard life for forecast net
+commission capex43
+Note: Only asset classes that attract the Project capex are shown.
+A3 Depreciation
+Table 13 sets out our forecast incremental regulatory depreciation for the 2018 -23 regulatory period for the
+Project, consistent with clause 6A.8.2(b)(7)(iv) of the NER. This forecast has been calculated using the PTRM,
+projected incremental capex, and the asset lives in section A2.
+Incremental regulatory depreciation is negative over the 2018-23 regulatory period. This is because the long-
+lived nature of the assets leads to indexation being higher than real straight-line depreciation earlier in the lives
+of those assets. This relationship will reverse later in the assets’  lives, leading to positive regulatory
+depreciation.
+Table 13 – Incremental regulatory depreciation ($M, Nominal)
+ 2018-19 2019-20 2020-21 2021-22 2022-23 Total
+AER 2018-23 determination 101.2 118.8 129.9 129.3 144.7 623.9
+Impact of Project
+EnergyConnect
+ -   (0.1)  (1.7)  (22.6)  (46.3)  (70.6)
+Updated regulatory
+depreciation
+ 101.2   118.8   128.1   106.7   98.4   553.2
+A4 Tax allowance
+Table 14 sets out the forecast incremental net tax allowance for the 2018-23 regulatory period attributed to the
+Project. This has been calculated using the PTRM and projected incremental capex.
+We have not made any other changes to the net tax calculation from that used in the AER’s 2018-23 Revenue
+Determination.
+Table 14 – Incremental net tax allowance ($M, Nominal)
+ 2018-19 2019-20 2020-21 2021-22 2022-23 Total
+AER 2018-23 determination 31.7 33.7 35.3 37.6 39.5 177.8
+Impact of Project EnergyConnect   -   (0.7)  (0.7)  0.3   1.4   0.3
+Updated net tax allowance  31.7   33.0   34.7   37.8   40.8   178.0
+
+43  See, for instance, AER, April 2019, Final Decision, Power and Water Corporation, Post -tax Revenue Model, PTRM input sheet, W327 cell.
+Net commissioned capex was used in the weighted average, rather than ne t as incurred capex, as the former is used to calculate regulatory
+depreciation in the ‘Assets’ sheet of our PTRM.
+--- PDF physical page 31 ---
+
+
+
+
+28 | Project EnergyConnect | Contingent Project Application
+A5 Debt and equity raising costs
+Our forecast incremental revenue includes allowances for debt and equity raising costs , consistent with the
+AER’s 2018-23 Revenue Determination. Both costs are calculated automatically within the PTRM.
+Debt raising costs are included within the opex building block and are calculated as follows:
+ projected opening RAB at the start of each regulatory year is multiplied by assumed gearing (of 60%) and
+the debt raising cost benchmark (of 0.085%).
+Equity raising costs are included within the capex forecast and recovered via the return on and of capital building
+blocks. These costs are calculated as follows:
+ retained cash flows are projected by subtracting opex, interest payments, revenue adjustments, tax
+payable, and dividends from projected smoothed (i.e. MAR) revenue
+ equity raising is projected by subtracting retained cash flows from the equity funding component of
+projected capex (assuming 60% gearing), and split between distribution reinvestment and external equity
+raising sources, and
+ equity raising costs are calculated by multiplying the two sources by assumed benchmark equity raising
+cost rates.
+No equity raising costs were projected in the AER’s 2018-23 Revenue Determination, because retained cash
+flows were sufficient to cover projected equity funding.  However, because of the size of th e Project’s capex,
+the PTRM projects that some equity raising will be required. This attracts equity raising costs.
+Table 15 – Incremental debt raising costs ($M, Real 2017-18)
+ 2018-19 2019-20 2020-21 2021-22 2022-23 Total
+Debt raising costs
+AER 2018-23 determination 3.2 3.3 3.3 3.3 3.4 16.5
+Impact of Project EnergyConnect - 0.0 0.0 0.4 0.9 1.4
+Updated debt raising costs 3.2 3.3 3.3 3.8 4.2 17.9
+Equity raising costs
+AER 2018-23 determination - - - - - -
+Impact of Project EnergyConnect 19.9 - - - - 19.9
+Updated equity raising costs 19.9 - - - - 19.9
+A6 Incremental revenue requirements for each year to end of period
+Table 16 details the incremental annual building block revenue requirements for the Project, based on the
+forecasts provided above and using the PTRM.
+
+--- PDF physical page 32 ---
+
+
+
+
+29 | Project EnergyConnect | Contingent Project Application
+Table 16 – Incremental revenue requirements ($M, Nominal)
+ 2018-19 2019-20 2020-21 2021-22 2022-23 Total
+AER 2018-23 determination
+Return on capital  416.8   417.1   417.7   434.8   449.9   2,136.3
+Regulatory depreciation  101.2   118.8   129.9   129.3   144.7   623.9
+Opex   179.9   187.6   196.7   208.6   205.9   978.7
+Revenue adjustments  4.7   18.5   5.4   12.7   5.1   46.5
+Net tax allowance  31.7   33.7   35.3   37.6   39.5   177.8
+Unsmoothed revenue
+requirement
+ 734.3   775.7   785.0   823.0   845.1   3,963.1
+Impact of Project EnergyConnect
+Return on capital  -   1.6   5.8   58.7   118.8   184.8
+Regulatory depreciation  -   (0.1)  (1.7)  (22.6)  (46.3)  (70.6)
+Opex allowance  -   0.0   0.1   0.9   2.5   3.6
+Revenue adjustments  -   -   -   -   -   -
+Net tax allowance  -   (0.7)  (0.7)  0.3   1.4   0.3
+Unsmoothed revenue
+requirements
+ -   0.8   3.5   37.3   76.3   118.0
+Updated
+Return on capital  416.8   418.7   423.5   493.5   568.7   2,321.2
+Regulatory depreciation  101.2   118.8   128.1   106.7   98.4   553.2
+Opex allowance  179.9   187.6   196.8   209.6   208.4   982.2
+Revenue adjustments  4.7   18.5   5.4   12.7   5.1   46.5
+Net tax allowance  31.7   33.0   34.7   37.8   40.8   178.0
+Unsmoothed revenue
+requirements
+ 734.3   776.6   788.5   860.3   921.4   4,081.1
+A7  Amended MAR
+The AER’s final decision on the annual building block revenue requirements for the 2018-23 regulatory period
+is set out in Table 17, together with the calculation of the amended revenue required for the Project.
+We will begin to r ecover incremental revenue approved by the AER in the 2021 -22 regulatory year, in
+accordance with our approved Transmission Pricing Methodology, as shown in Table 17.
+--- PDF physical page 33 ---
+30 | Project EnergyConnect | Contingent Project Application
+Table 17 – Amended annual building block revenue requirements ($M, Nominal)
+2018-19 2019-20 2020-21 2021-22 2022-23 Total
+AER 2018-23 determination 734.3 775.7 785.0 823.0 845.1 3,963.1
+Impact of Project
+EnergyConnect
+-  0.8  3.5  37.3  76.3  118.0
+Updated annual revenue
+requirements
+734.3  776.6  788.5  860.3  921.4  4,081.1
+Table 18 sets out the updated MAR and X-factors for the current regulatory period.
+The incremental revenue requirements have been smoothed so that the only change to the MAR occurs in the
+2021-22 regulatory year.  This approach was adopted to ensure that the final year (2022-23) difference between
+MAR and the annual revenue requirements was less than 3 per cent and so that there is minimal change to the
+revenue profile from the 2018-23 Revenue Determination.
+Table 18 – Amended MAR and X factors ($M, Nominal)
+2018-19 2019-20 2020-21 2021-22 2022-23 Total
+MAR (i.e. smoothed revenue)
+AER 2018-23 determination 734.3 759.5 779.5 828.2 865.2 3,966.7
+Impact of Project
+EnergyConnect
+- - -  36.3  82.4  118.7
+Updated MAR 734.3 759.5 779.5  864.4  947.6  4,085.4
+X-factors
+AER 2018-23 determination (0.51%) (0.97%) (0.17%) (3.70%) (1.98%) n/a
+Impact of Project
+EnergyConnect
+- - - (4.55%) (5.02%) n/a
+Updated X-factors (0.51%) (0.97%) (0.17%) (8.25%) (7.00%) n/a
+Note: Negative X factors represent a real revenue increase.
+A8 Customer bill impact
+PEC is expected to have only a marginal impact on customer bills over the 2018 -23 period. This is largely
+because return of capital is pushed back into future regulatory periods and energy throughput is expected to
+increase (reducing per MWh costs).
+Table 19 shows the indicative customer bill impact of the Project, assuming that a typical customer consumes
+4.22 MWh per year.
+--- PDF physical page 34 ---
+31 | Project EnergyConnect | Contingent Project Application
+Table 19 – Indicative customer bill impact ($ per household, Nominal)
+2018-19 2019-20 2020-21 2021-22 2022-23
+AER 2018-23 determination 45.8 48.4 50.1 53.4 56.4
+Impact of Project EnergyConnect - - - 2.3 4.9
+Updated typical customer bill
+impact
+45.8 48.4 50.1 55.8 61.3
+Note: Typical customer bills are calculated by multiplying the projected MAR per MWh by assumed consumption of 4.22 MWh per y ear per
+household. Project EnergyConnect  is expected to increase energy delivered in 2022 -23 by 494 GWh. The increase in energy del ivered was
+estimated using market modelling that underpins the project design.
+--- PDF physical page 35 ---
+
+
+
+
+32 | Project EnergyConnect | Contingent Project Application
+Appendix B – Potential unintended consequences faced by Major ISP Projects
+We strongly support PEC and are committed to its successful implementation to meet the expectations of our
+customers and stakeholders, where it remains identified by AEMO as one of the priority elements of the ISP.
+We also strongly support AEMO’s ISP process and the Major ISP Projects that it has identified.  These projects
+are necessary to underpin the energy market transition and ensure reliable and affordable electricity supply to
+consumers. They are expected to deliver net market benefits including lower prices for the NEM, and for NSW
+and other Australia n consumers.  AEMO describes these projects as “nationally significant and essential
+investments in the electricity system to ensure the system meets its security and reliability requirements with
+the least cost and lowest regret to consumers”44.
+As part of our assessment of PEC, we have identified two significant potential unintended consequences arising
+from the application of the current regulatory framework to the Major ISP Projects. These issues are discussed
+below and arise due to the unprecedented size and scale of these projects, and because their timing is being
+driven by the ISP process  and the expectations of the SA Government and other key stakeholders such that
+they will be delivered concurrently. We are working collaboratively with the AER staff and other stakeholders to
+find acceptable solutions that balance outcomes for investors and customers.
+B1. Cash-flow impact of indexation of the regulatory asset base (RAB)
+The current regulatory framework is designed to return the cost of efficient investment over the life of the assets
+– a principle often referred to as Financial Capital Maintenance. This principle is applied within the regulatory
+framework using an approach that indexes the RAB for inflation.
+The current approach to RAB indexation defers recovery of invested capital until later in the lives of those assets
+by increasing their value each year by inflation and removing that increase (i.e. indexation) from the  revenue
+recovered via annual tariffs. This effectively capitalises the inflation portion of the debt and equity returns to the
+RAB, resulting in a reduction in cash inflows from revenue in the initial years of the project’s operations and a
+theoretical compensatory increase in later years.
+We acknowledge that the RAB indexation  approach make s sense for business-as-usual (BAU) network
+investments, as it means that  current and future consumers  pay a similar amount each year, in real terms ,
+promoting intergenerational equity. At the same time, the net cash flows are relatively flat because new BAU
+investments largely offset old BAU investments and so the returns to network owners are more consistent with
+other investment alternatives.
+However, as we explain below, the RAB indexation approach can significantly undermine the financeability of
+large projects that lead to a step increase in invested capital – as the PEC and other Major ISP Projects would
+do for us.45
+The revenue impact of indexation for a large stand-alone $2 billion project is illustrated as an example in Figure
+3, where the capital -related revenues are compared with and without indexation applying to the  capital
+expenditure. As shown, indexation tilts revenue recovery to much later in the investment horizon.  The figure
+also shows that using ‘as-incurred’ capex to calculate regulatory depreciation – rather than ‘as-commissioned’
+capex – brings forward some of that revenue recovery earlier to occur during the construction period. Other
+adjustments, such as shortening asset lives or accelerating depreciation, could also be used to bring forward
+revenue recovery.  We have been discussing with the AER staff the  impact of each of these potential
+adjustments for Major ISP Projects over the past few months.  Our discussions in this regard are still in progress.
+
+44  AEMO, draft 2020 ISP, p. 6. Found at https://www.aemo.com.au/-/media/Files/Electricity/NEM/Planning_and_Forecasting/ISP/2019/Draft -
+2020-Integrated-System-Plan.pdf
+45  Our financeability concerns are exacerbated by the tendency for the AER to over -forecast inflation when setting revenue allowances, which
+leads to under-recovery of revenues. We are actively engaging in the AER’s current consultation on how it forecasts inflation.
+--- PDF physical page 36 ---
+33 | Project EnergyConnect | Contingent Project Application
+Figure 3 – Illustrative impact on allowed revenues for a stand-alone $2 billion project
+Source: TransGrid analysis. Capital-related allowed revenues are shown in nominal dollar terms, comprising the return on capital, return of capital
+and taxation building blocks. Projected revenues are illustrative only because they are based on simplifying assumptions.
+In the case of a project or investment that is of a modest scale (such as a BAU investment), this (indexed RAB)
+revenue profile can be managed within the existing means of a network business.   However, for projects of a
+significantly larger size, such as the Major ISP Projects, BAU revenues are insufficient to support financing
+requirements over the period within which (indexed RAB) revenue ramps up for the particular projects.  This is
+exacerbated where multiple Major ISP Projects are undertaken simultaneously.  We are facing this
+predicament, particularly over the next 5-10 years.
+If revenue is too low, particularly during the construction period, then a business cannot achieve the  credit
+metrics required to support a BBB+ credit rating (with model firm gearing). For us, this would mean that:
+ equity investors would need to provide a significant amount of equity (well in excess of that assumed in
+the regulatory WACC building blocks) to fund the initial years of the Major ISP Projects to cover both the
+initial capital outlay, as well as the RAB indexation – materially reducing the risk-adjusted value of these
+projects to those investors, and
+ debt financiers may require higher returns to provide debt funding than those allowed in regulated tariffs
+for these projects – thereby further increasing the risk and reducing the value of these projects.
+Accordingly, RAB indexation appears likely to significantly impair our ability to finance large, non -BAU
+investments in a reasonable, value -accretive manner and we consider this to be a significant potential
+unintended consequence faced by those looking to build and own the Major ISP Projects.
+Regulatory authorities and policy makers in other jurisdictions have considered this issue in different ways.  For
+instance, faced with a similar step change in required transmission investment, the Commerce Commission (in
+New Zealand) allowed for the value of assets for Transpower – NZ’s government-owned transmission business
+– to be rolled forward without indexation.46 This effectively flattened the revenue profile faced by Transpower in
+an effort to help fund needed investment in its network, while doing so in a way that meant that consumers paid
+the same amount over the longer term (in net present value terms).
+Other regulatory adjustments have also been used, such as shortening asset lives, accelerating depreciation
+or allowing for NPV-neutral RAB adjustments.
+As mentioned above, we are working collaboratively with the AER staff and our other stakeholders to identify
+how best to address this issue for the Major ISP Projects  so that they remain financially feasible while still
+46 Commerce Commission, Input Methodologies (Transpower): Reasons Paper , December 2010, pp. 30–31.
+
+--- PDF physical page 37 ---
+34 | Project EnergyConnect | Contingent Project Application
+delivering significant benefits to customers . This involves assessing  potential solutions, including as to how
+best to manage any impact to customer bills.47
+B2. Regulatory risks from capex overspend
+The Major ISP Projects are large in size and scale and have unique characteristics that make it difficult to
+forecast their costs accurately. In particular:
+ the scale of the Major ISP Projects is unprecedented and is beyond the delivery capacity of many
+Australian construction companies
+ many of the Major ISP Projects are proposed to be constructed in regions where there has been no
+previous electricity infrastructure constructed (or construction occurred many decades ago), which gives
+rise to significant environmental, bio-diversity, geotechnical, land access and indigenous heritage risks
+ there is a significant demand for the delivery of other major Australian infrastructure, particularly in NSW,
+leading to a shortage in available labour and construction resources, and
+ government and other stakeholders’ interest in Major ISP Projects is creating expectations in relation to
+delivery times that do not adequately allow for the necessary timeframes for the regulatory approval
+processes, giving rise to risks that are usually mitigated during the regulatory process.
+It appears that the current regulatory framework did not anticipate such a confluence of circumstances and
+does not provide an adequate means of identifying, quantifying and sharing risks associated with Ma jor ISP
+Projects in a manner that is fair to all market participants, including customers and networks.
+We continue to use our best endeavours to forecast accurately the prudent and efficient costs of the Major ISP
+Projects to comply with the regulatory timeframes, recognising project-level uncertainties.  However, we do not
+consider it appropriate or reasonable that we should bear the regulatory risks of recovering costs of these
+projects, especially given that their delivery and timing are being driven by the broader ISP process.
+There are scenarios where the application of the current regulatory arrangements may mean that we do not
+have a reasonable opportunity to recover efficient costs of delivering these projects.  The risks and uncertainties
+of the Major ISP Projects may result in our actual capex of delivering the projects being higher than the capex
+that the AER approves through the regulatory contingent project application process. Overspend could
+potentially be very significant given the scale, number and timing of Major ISP Projects.
+There is currently no provision in the contingent project application process for adjusting the capex allowance
+approved by the AER for a Major ISP Project.  We bear the cost risk of a project and may therefore not have a
+reasonable opportunity to recover the efficient costs of the project.
+Further, overspend on the Major ISP Projects could result in our total actual capex significantly exceeding our
+total capex allowance.  This could result in us being penalised thr ough the ex-post capex review process by
+having actual capex incurred excluded from the RAB.
+We propose further engagement with AER staff, and our other key stakeholders, to identify how best to manage,
+and fairly allocate, these risks for the Major ISP Projects.  Potential options to be explored include:
+ excluding the Major ISP Projects from the coverage of the CESS
+ pass-through provisions for actual capex incurred, and
+ excluding the Major ISP Projects from the coverage of the capex ex post review (which applies to our total
+capex program, including the Major ISP Projects, for the review period).
+47 Potential solutions included changes to how the capital invested in the Major ISP Projects is returned such as: calculating depreciation on
+an as-incurred rather than as-commissioned basis; adopting a weighted trailing average cost  of debt; shortening asset lives; removing
+indexation from the RAB, and accelerating depreciation.
+--- PDF physical page 38 ---
+35 | Project EnergyConnect | Contingent Project Application
+Appendix C – Board resolution
+Below is a certified extract of the relevant board resolution.
+On 26 June 2020, the Board resolved to commit to proceed with Project EnergyConnect subject to:
+ The AER awarding incremental revenue commensurate with the capital and operating
+costs of the project proposed by TransGrid;
+ TransGrid obtaining debt and equity funding on terms satisfactory to it; and
+ The Board of ElectraNet making a corresponding commitment.
+--- PDF physical page 39 ---
+36 | Project EnergyConnect | Contingent Project Application
+Appendix D – Glossary
+Abbreviations/acronyms Definition
+AEMO Australian Energy Market Operator
+AER Australian Energy Regulator
+Application Contingent Project Application
+Capex Capital expenditure
+CESS Capital Expenditure Sharing Scheme
+EBSS Efficiency Benefit Sharing Scheme
+GWh Gigawatt Hour
+ISP Integrated System Plan
+kV kilovolt
+M Millions
+MAR Maximum Allowed Revenue
+MWh Megawatt Hour
+NEL National Electricity Law
+NEM National Energy Market
+NEO National Electricity Objective
+NER (Rules) National Electricity Rules
+NSW New South Wales
+Opex Operating expenditure
+PADR Project Assessment Draft Report
+PACR Project Assessment Conclusions Report
+PTRM Post-Tax Revenue Model
+RAB Regulatory Asset Base
+RIT-T Regulatory Investment Test for Transmission
+ROE Return on equity
+SA South Australia
+--- PDF physical page 40 ---
+37 | Project EnergyConnect | Contingent Project Application

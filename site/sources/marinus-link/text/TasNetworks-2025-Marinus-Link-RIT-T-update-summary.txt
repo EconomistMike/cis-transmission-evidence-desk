@@ -1,0 +1,877 @@
+--- PDF page 1 ---
+
+ Marinus Link Pty Ltd
+PO Box 721, Hobart 7001
+Tasmania
+Australia 7009
+
+
+marinuslink.com.au
+1300 127 775
+11 July 2025
+Dr Kris Funston
+Executive General Manager, Network Regulation
+Australian Energy Regulator
+
+By email
+Dear Kris,
+Re: Project Marinus RIT-T update
+I am pleased to provide you with a copy of the Regulatory Investment Test for Transmission (RIT-T) update
+report (attached), which Marinus Link Pty Ltd (MLPL) will publish on its website in advance of submitting its
+revised Revenue Proposal on 15 July 2025. The purpose of the RIT-T update is to ascertain whether a
+proposed transmission investment continues to be the optimal solution, where circumstances have
+changed materially since the original RIT-T assessment.
+As you know, the AER’s Commencement and Process Paper, which governs the process for MLPL’s revenue
+determination, set the following expectations regarding the RIT-T update and AEMO’s feedback loop, which
+provides a similar cost-benefit assessment from a national planning perspective:1
+“We note Marinus Link’s proposal to complete the AEMO feedback loop process and an updated
+RIT-T assessment prior to submitting the revised proposal in July 2025. Our expectation is that
+Marinus Link will undertake these as a prudent and necessary step prior to lodging a revised
+regulatory proposal.”
+On 19 May 2025, MLPL wrote to the AER to explain that while the RIT-T update could be published prior to
+the submission of our revised Revenue Proposal on 15 July 2025, AEMO had advised that the feedback loop
+assessment will take some time and is expected to be completed by mid-September. For that reason, MLPL
+proposed that it should lodge a feedback loop request to AEMO prior to submitting its revised Revenue
+Proposal, and AEMO should conduct its assessment in parallel with the AER’s revenue determination
+process. In its response, the AER accepted MLPL’s proposed approach noting that the feedback loop should
+be completed prior to the publication of the AER’s supplementary Draft Decision on 10 October 2025.
+This RIT-T update is the second update that MLPL has published. In April 2024, we reviewed the outcome
+from the Project Assessment Conclusions Report (PACR), published in June 2021, which determined that
+the 1500 MW link commissioned in two stages was the preferred option for Project Marinus. The RIT-T
+
+1  AER, Marinus Link, Decision to amend Commencement and Process Paper, December 2024, page 6
+--- PDF page 2 ---
+
+
+marinuslink.com.au
+1300 127 777 2
+update in April 2024 was in response to the material changes that had taken place since June 2021,
+including:
+• the accelerated closure of coal plants and a growing need for renewable generation and energy
+storage projects; and
+• the emergence of an inflationary environment and concerns regarding energy security, which had
+increased the costs of delivering major transmission projects, including Project Marinus.
+At that time, MLPL concluded that the preferred option identified in the PACR remained unchanged,
+although we noted that the timing of the first and second cables is expected to be slightly later than
+indicated in the PACR. MLPL published the RIT-T update on its website and invited stakeholder feedback.
+MLPL did not receive any feedback in response to that update.
+In relation to the current RIT-T update, MLPL expected that the changes since April 2024, including the
+application of technology-specific WACCs and AEMO’s latest assumptions regarding hydrogen load in
+Tasmania, were more likely to increase the estimated net market benefits provided by Project Marinus.
+Nevertheless, MLPL is pleased to have undertaken this further RIT-T update to assist stakeholders in
+understanding the impact of these changes.
+We engaged EY Parthenon (EY) to undertake independent market modelling, using the same modelling
+approach employed in the PACR and the RIT-T update in April 2024, but using many of AEMO’s updated
+inputs and assumptions. In particular, EY was engaged to compute the least-cost generation dispatch and
+capacity development plan for the National Electricity Market (NEM) for two scenarios in AEMO Draft 2025
+Input, Assumptions and Scenarios Report (IASR), being the Step Change and Progressive Change scenarios.
+The modelling for each of these scenarios used the following updated input assumptions:
+• The Draft 2025 IASR assumptions relating to policies, costs and generator technical parameters.
+• AEMO’s August 2024 Electricity Statement of Opportunities demand projections, excluding
+hydrogen demand.
+• The Draft 2025 IASR hydrogen demand projections.
+• The assumed timing for major transmission upgrades based on AEMO’s outcomes from the 2024
+ISP or the proponent’s earliest in-service date where these dates were later.
+While the Green Energy scenario has not been modelled, the RIT-T update in April 2024 indicated that this
+scenario is more favourable to Marinus Link compared to the Step Change and Progressive Change
+scenarios. In comparison to these scenarios, the Green Energy scenario is favourable because it adopted a
+higher system demand and a more restrictive carbon budget, which requires additional renewables. EY
+confirmed that the latest assumptions that underpin the Green Energy scenario will continue to favour
+Project Marinus compared to the other two scenarios. On that basis and given this scenario has a small
+weighting factor, MLPL concluded that it was not necessary to conduct updated modelling for the Green
+Energy scenario.
+EY’s modelling complies with the AER’s Cost Benefit Analysis Guidelines, which contain the applicable RIT-T
+guidelines for actionable ISP projects, such as Project Marinus. The analysis considered options involving a
+single cable commissioned in 2030 and an option that includes both cables, with the second cable
+commissioned in 2034. It should be noted that the net market benefit assessment presented in this RIT-T
+update is conservative because we have not included the benefits of emission reductions, which would
+--- PDF page 3 ---
+
+
+marinuslink.com.au
+1300 127 777 3
+materially increase the expected net market benefits. Further information is provided in EY’s report, which
+is also provided alongside this letter.
+Summary of results
+Table 1 shows EY’s modelled gross market benefits for a 750MW and 1500 MW link for the Step Change
+and Progressive Change scenarios using the updated information described above. It also shows the gross
+benefits for the Green Energy scenario, which adopts the value assessed in the RIT-T update in April 2024,
+updated for real 2024 prices and expressed as a present value discounted to 2025.
+Table 1: EY July 2025 gross market benefits for Project Marinus, $million, real June 2024, discounted to July 2025
+Marinus Link
+Capacity
+Timing Step Change Progressive
+Change
+Green Energy
+Exports
+Delphi weighted
+average
+1,500 MW 2030 & 2034 6,601  6,026  7,321  6,468
+750 MW 2030 5,591  5,002  5,666  5,356
+Figure 1 below presents the net market benefit for Marinus Link that is derived from the EY gross market
+benefits and MLPL’s project cost estimates to be submitted to AEMO for the Project Marinus feedback loop
+request2. The total project cost used in the net market benefit figure below has been reduced by
+approximately $534m of sunk costs in accordance with the AER’s Cost Benefit Analysis Guidelines.
+Figure 1: Project Marinus net market benefits by scenario, for Stage 1 + 2 and Stage 1 only, real June 2023
+
+Source: Marinus Link
+
+2
+
+--- PDF page 4 ---
+
+
+marinuslink.com.au
+1300 127 777 4
+Figure 1 shows that Marinus Link provides material net market benefits across all scenarios in both the
+1500 MW and 750 MW options. It also shows that the 1500 MW option delivers higher net market benefits
+across each of the three scenarios. The Delphi weighted average, which is AEMO’s adopted weighting of
+the three scenarios, shows that the second cable provides an incremental net market benefits of
+$443 million3 compared to the single cable option.
+EY’s previous report that accompanied the RIT-T update in April 2024 included sensitivity analysis to test
+the robustness of the gross benefit assessment. At that time, EY’s sensitivity analysis indicated that there
+were highly credible circumstances that would significantly enhance the economic case for the two cable
+option. In particular, the sensitivity analysis showed that a reduction in the hydrogen load assumptions in
+Tasmania would further enhance the case for Project Marinus. This RIT-T update confirms that these
+sensitivities were appropriate, as AEMO’s draft 2025 IASR has now modified its assumptions regarding
+hydrogen load.
+Given the strength of the findings in this RIT-T update, MLPL does not consider it necessary to conduct
+further sensitivity analysis of the kind conducted in April 2024. In making this assessment, MLPL notes that
+the modelling approach is conservative as it excludes the benefits of emission reductions. In addition, the
+costs adopted for Project Marinus for modelling purposes do not exclude cancellation fees even though
+these costs are unavoidable and, therefore, should be regarded as a sunk cost for modelling purposes. The
+exclusion of these costs would further increase the estimated net market benefits.
+Conclusions
+The outcomes of EY’s updated market modelling, combined with the latest project cost information
+confirms that the preferred option remains unchanged from the PACR and the RIT-T update in April 2024.
+As explained in the PACR, the timing of Stage 2 will depend on future ISPs which will be informed by actual
+events and new information that will emerge with the passage of time. It is not necessary to commit now
+to a specific timeframe for the construction of Stage 2. Instead, the project plan is to proceed with Stage 1
+as soon as practicable and to undertake the required work to facilitate the construction and commissioning
+of Stage 2 in accordance with the optimal timeframe which will be informed by future ISPs.
+Next steps
+We intend to publish and seek stakeholder feedback on EY’s report and the attached RIT-T update -
+Summary Report. In the meantime, if you have any queries on this letter or attachments, please contact me
+at Prajit.Parameswar@marinuslink.com.au at your earliest convenience.
+Yours sincerely,
+
+Prajit Parameswar
+Chief Commercial Officer
+
+3  The incremental net market benefit of $443 million is $3,860 million for two cables minus $3,417 million for a single cable,
+assuming the Delphi weighted average.
+--- PDF page 5 ---
+
+ Marinus Link Pty Ltd
+PO Box 721, Hobart 7001
+Tasmania
+Australia 7009
+
+
+marinuslink.com.au
+1300 127 775
+RIT-T update - Summary Report
+This summary report provides an update of the RIT-T, which was initially completed for Project Marinus
+with the publication of the Project Assessment Conclusions Report (PACR) in June 2021. This is the second
+RIT-T update, with an earlier update published in April 2024.
+For Project Marinus, the Rules require us to assess whether there has been a material change in
+circumstances which, in our reasonable opinion, means that the preferred option identified in the PACR is
+no longer the preferred option.4 The purpose of this RIT-T update, therefore, is to enable us to form an
+opinion as to whether the preferred option remains unchanged or not. The RIT-T update is also being
+published to support our revised Revenue Proposal, which is being submitted to the Australian Energy
+Regulator (AER) on 15 July 2025.
+The conclusion to draw from this RIT-T update is clear – the preferred option, which is to proceed with
+Stage 1 as soon as practicable and to keep the timing of Stage 2 under review, remains unchanged from the
+PACR and the RIT-T update published in April 2024. The timing of Stages 1 and 2 is expected to be slightly
+later than indicated in the PACR, with the timing of Stage 2 continuing to be informed by AEMO’s future
+ISPs. While the timing has changed slightly from the PACR, the preferred option has not.
+We are seeking stakeholder feedback on this RIT-T Summary Report and the accompanying EY report,
+which provides detailed information on the market modelling. Submissions should be provided to:
+Ben Wagner
+Head of Customer Projects
+Marinus Link Pty Ltd
+PO Box 721, Hobart TAS 7001
+Email: team@marinuslink.com.au
+Submissions should be received by 8 August 2025.
+
+
+4  National Electricity Rules, clause 5.16A.4(n).
+--- PDF page 6 ---
+
+
+marinuslink.com.au
+1300 127 777 2
+1. Project background
+Project Marinus comprises Marinus Link and the North West transmission Developments (NWTD). Marinus
+Link involves approximately 255 kilometres of undersea High Voltage Direct Current (HVDC) cable and
+approximately 90 kilometres of underground HVDC cable in Victoria. It also includes converter stations in
+Tasmania and Victoria, as shown in Figure 1.
+Figure 1: Marinus Link overview
+
+Marinus Link will be owned and operated by MLPL, which has transitioned to three -part equity ownership
+between the Australian Government (49%), the Victorian Government (33.3%) and the Tasmanian
+Government (17.7%).
+The other component of Project Marinus is the North West Transmission Developments (NWTD), which is
+being progressed by TasNetworks. The NWTD include new and upgraded overhead transmission lines that
+will link Cressy, Burnie, Sheffield, Staverton, Hampshire, and East Cam. These new and upgraded
+transmission lines, shown in Figure 2, are required to support the interconnector capacity to be provided by
+Marinus Link.
+
+--- PDF page 7 ---
+
+
+marinuslink.com.au
+1300 127 777 3
+Figure 2: North West Transmission Developments
+
+In June 2021, the PACR reached the following conclusion regarding the preferred option for Project
+Marinus:5
+“In accordance with the RIT-T, the preferred option is a 1500 MW HVDC interconnector, comprising two
+750 MW HVDC interconnector stages, plus associated AC network upgrades for each stage.”
+In terms of timing, the PACR explained that the optimal timing would be determined by AEMO’s 2022 ISP
+and subsequent ISPs:6
+“In relation to project timing, TasNetworks will proceed with the early works required for Project Marinus
+to be able to achieve a final investment decision in 2023 -24 and subsequent commissioning of Stage 1
+from as early as 2027 and Stage 2 by 2029. The actual timing of each stage will be determined by the 2022
+and subsequent ISPs and AEMO’s assessment of the proposed project in accordance with the feedback
+loop (as required by clause 5.16A.5(b) of the Rules) and its optimal development path at that time.”
+2. Why Project Marinus?
+During the RIT-T process, stakeholders asked us to go beyond the formal regulatory requirements to
+explain the sources of benefits that Project Marinus would unlock. As part of this explanation, stakeholders
+specifically wanted to understand why Project Marinus is preferred to solely increasing battery capacity on
+mainland Australia, and how Project Marinus interacts with the various policy and project announcements
+in other NEM regions.
+
+5  TasNetworks, Project Assessment Conclusions Report – Project Marinus, June 2021, page 77.
+6  Ibid, page 78.
+
+--- PDF page 8 ---
+
+
+marinuslink.com.au
+1300 127 777 4
+To address these questions, we provided extensive information in the PACR to explain how Project Marinus
+will deliver benefits to the NEM. In summary, we explained that Stage 1 of Project Marinus (i.e., the
+commissioning of the first 750 MW link) will enable customers in the NEM to benefit from cost-effective
+wind resources, together with the spare capacity that already exists in Tasmania’s hydro system. The
+second 750 MW link (Stage 2) was expected to be in service at least two years after Stage 1, at which time
+our modelling showed that Australian mainland NEM regions would otherwise require additional peaking
+gas-fired generation and/or deep storage. By staging Project Marinus, we explained that investment in
+lower cost storage capacity and wind generation in Tasmania is expected to provide savings to the
+mainland NEM by displacing more expensive alternatives.
+Our benefit assessment showed that strategic transmission investment and long-duration energy storage
+have a key role to play in addressing the risk associated with ‘drought’ in Variable Renewable Energy (VRE).
+We also explained that the system modelling understated the benefits of interconnection and deep storage
+to manage variability and VRE drought. This is because the model employs simplifying assumptions, such as
+perfect foresight, to manage the computationally intensive nature of the required system analysis. In
+addition, due to the computational requirements of the ISP and ISP-like long term modelling studies, single
+(or relatively few) weather traces are used for demand, wind and solar. This single future view tends to
+understate the size and nature of renewable energy droughts.
+The figure below shows the breakdown of the benefits from Project Marinus at the time of the PACR , with
+the principal sources of benefit being capital expenditure and fuel cost savings. As explained later, while there
+are extensive changes in the input assumptions and scenarios , the principal sources of benefit provided by
+Project Marinus remain unchanged.
+Figure 3: Breakdown of project benefits, as presented in the PACR 7
+
+
+7  Ibid, page 78.
+
+--- PDF page 9 ---
+
+
+marinuslink.com.au
+1300 127 777 5
+3. AEMO’s 2022 and 2024 ISPs
+Following the publication of the PACR, AEMO re-examined the case for Project Marinus in its 2022 ISP. At
+that time, AEMO’s cost-benefit assessment found that the economic case for Project Marinus had
+strengthened since its 2020 ISP:8
+“Marinus Link is a single actionable ISP project, without staging between the first and second cables. The
+optimal delivery in Step Change is 2029-30 for cable 1, and 2031-32 for cable 2. Any delay reduces net
+market benefits in all scenarios but the unlikely Slow Change.”
+In relation to actionable ISP projects more generally, AEMO’s 2022 ISP highlighted their urgent need in the
+following terms:9
+“The schedule of actionable projects lists the earliest practical delivery time AEMO has been advised by
+the project proponents. Earlier delivery would either be more optimal to deliver benefits to consumers
+or would provide valuable insurance and guard against other potential delays. All actionable projects
+should therefore progress as urgently as possible, and state and Commonwealth mechanisms which
+support earlier progression of projects could deliver earlier benefits or cost savings.”
+In June 2024, AEMO published its 2024 ISP which again reconfirmed that Project Marinus remains actionable.
+AEMO’s direction that Marinus Link continues to be an actionable ISP project provides strong support for
+progressing this project. MLPL notes that AEMO’s draft 2026 ISP is expected to be published in December 2025.
+4. New information since the publication of the PACR
+The costs of delivering Project Marinus have increased markedly since the expenditure forecasts included in
+the PACR were developed. International events, such as the war in Ukraine, and emission reduction targets
+have created an unprecedented global demand for interconnector capacity.
+In our RIT-T update in April 2024, we noted that the cost increases experienced by Project Marinus since
+the PACR are aligned with other major transmission projects, as highlighted in AEMO’s 2023 Transmission
+Expansion Options Report.10 AEMO has provided further commentary on the costs of transmission
+investments in its Draft 2025 Electricity Network Options Report.11
+During the ‘early works’ phase of the project, we have worked closely with prospective service providers to
+obtain cost estimates that reflect the changed market conditions. This work has continued since our
+Revenue Proposal was published in November 2024 and our updated cost estimates, which are consistent
+with those provided in our November 2024 submission, are provided in Section 6.
+
+8  AEMO, 2022 Integrated System Plan June 2022, page 73. It should be noted that AEMO’s references to Marinus Link are
+references to Project Marinus, as defined in this Application.
+9  AEMO, 2022 Integrated System Plan June 2022, page 18.
+10  AEMO, 2023 Transmission Expansion Options Report, September 2023.
+11  AEMO, Draft 2025 Network Options Report, May 2025, page 8.
+--- PDF page 10 ---
+
+
+marinuslink.com.au
+1300 127 777 6
+In addition to the increase in project costs since the PACR, there have been significant changes to AEMO’s
+inputs, assumptions and scenarios which are detailed in its draft 2025 IASR. The three scenarios in the draft
+2025 IASR are: 12
+• Green Energy– Australia’s energy transition in this scenario is commensurate with global actions
+underway to limit temperature increases to 1.5°C. Consumers in this scenario continue to invest in
+CER, with the greatest relative uptake of these assets, and the greatest relative acceptance of
+coordination opportunities. This scenario will examine two variants, Green Energy Exports or Green
+Energy Industries.
+Compared to the 2023 Green Energy Exports scenario, NEM-connected hydrogen production is
+lower reflecting that the scale of hydrogen developments remains uncertain and the opportunity
+for embedded electricity supply is expected to reduce grid investment. The two scenario variants
+include, or exclude, some hydrogen export opportunities. AEMO explains that it is likely to examine
+one of the variants as one of the three scenarios in its 2026 ISP, and explore the investment
+impacts of the other variant as a sensitivity.
+• Step Change – Decarbonisation efforts that support Australia’s share in limiting global temperature
+rise to below 2˚C compared to pre-industrial levels. This scenario uses significant transport
+electrification, as well as developing hydrogen production or low emissions alternatives to support
+domestic industrial loads. This is a refinement of the 2024 AEMO ISP Step Change scenario.
+Compared to the 2023 Step Change scenario, while consumer investment in the energy transition
+remains strong (with energy efficiency and electrification investments, as well as aggregators of
+consumer resources, being a key part of the transition), consumers are tentative to share control
+and coordinate the operation of their consumer energy devices through a third party such as their
+electricity retailer.
+• Progressive Change – meets Australia’s current Paris Agreement commitment of 43% emissions
+reduction by 2030 and net zero emissions by 2050. This scenario has more challenging economic
+conditions, higher relative technology costs and more supply chain challenges relative to other
+scenarios.
+The table below summarises the decarbonisation targets, key demand drivers, technological improvements
+and other key parameters for each of the scenarios, as set out in the draft 2025 IASR.
+
+12  For further details, please refer to AEMO, draft 2025 Inputs, Assumptions and Scenarios Report, December 2024, chapter 2.
+--- PDF page 11 ---
+
+
+marinuslink.com.au
+1300 127 777 7
+Table 1: AEMO’s key parameters for each scenario, draft 2025 IASR13
+Parameter Green Energy A Step Change Progressive Change
+National decarbonisation
+targets
+At least 43% emissions
+reduction by 2030.
+Net zero by 2050
+At least 43% emissions
+reduction by 2030.
+Net zero by 2050
+At least 43%
+emissions
+reduction by
+2030.
+Net zero by 2050
+Global economic growth and
+policy coordination
+High economic
+growth, stronger
+coordination
+Moderate economic growth,
+stronger coordination
+Slower economic
+growth, lesser
+coordination
+Australian economic and
+demographic drivers
+Higher, with near-term
+economic growth impacted
+somewhat by current
+economic challenges
+Moderate economic growth,
+with near-term economic
+growth impacted by current
+economic challenges
+Lower
+Electrification Higher electrification efforts to
+meet aggressive emissions
+reduction objectives, with faster
+pace of adoption
+High electrification to meet
+emissions reduction
+commitments, with pace of
+adoption reflecting economic
+conditions
+Electrification is tailored
+to meet existing
+emissions reduction
+commitments, with
+slower adoption given
+weaker economic
+circumstances
+Emerging commercial loads Emerging sectors such as data
+centres match opportunities
+associated with higher domestic
+economic drivers
+Emerging sectors such as data
+centres match opportunities
+associated with moderate
+domestic economic drivers
+Emerging sectors such as
+data centres experience
+lower growth as weaker
+economic circumstances
+limit technology uptake
+Coordination of CER (VPP and
+V2G)
+High long-term coordination,
+with faster acceptance of
+coordination
+Moderate long-term
+coordination, with gradual
+acceptance of coordination
+Low long-term
+coordination, with gradual
+acceptance of
+coordination
+Energy efficiency Higher High Moderate
+Hydrogen use and availability High production for domestic
+industries, with moderate
+exports in the short term, and
+high exports in the longer term
+Moderate-low production for
+domestic use, with minimal
+export hydrogen
+Low production for
+domestic use, with no
+export hydrogen
+Industrial load closures No specific load closures No specific load closures Weak economic
+conditions provide
+challenging commercial
+conditions, resulting in
+load closures across key
+commercial and industrial
+facilities
+Demand side participation
+uptake
+Higher Moderate Lower
+CER investments (batteries, PV
+and EVs)
+Higher High Lower
+
+13  AEMO, draft 2025 Inputs, Assumptions and Scenarios Report, December 2024, Table 2, page 20.
+--- PDF page 12 ---
+
+
+marinuslink.com.au
+1300 127 777 8
+Parameter Green Energy A Step Change Progressive Change
+Renewable gas blending in gas
+distribution network B
+Up to 10% (hydrogen), with
+unlimited blending opportunity
+for biomethane and other
+renewable gases
+Up to 10% (hydrogen), with
+unlimited blending opportunity
+for biomethane and other
+renewable gases
+Up to 10% (hydrogen),
+with unlimited blending
+opportunity for
+biomethane and other
+renewable gases
+Potential for supply chain
+limitations affecting demand
+forecasts
+Low Moderate High
+Global/domestic temperature
+settings and outcomes C
+Applies Representative
+Concentration Pathway (RCP)
+1.9 where relevant, consistent
+with a global temperature rise
+of
+~ 1.5°C by 2100
+Applies RCP 2.6 where relevant,
+consistent with a global
+temperature rise of ~ 1.8°C by
+2100
+Applies
+Representative
+Concentration
+Pathway (RCP)
+4.5 where relevant,
+consistent with a global
+temperature rise of
+~ 2.6°C by 2100
+International Energy Agency
+(IEA) 2024 World Energy
+Outlook scenario alignment
+Net Zero Emissions by 2050
+(NZE)
+Announced Pledges Scenario
+(APS)
+Stated Policies Scenario
+(STEPS)
+
+As noted in the RIT-T update in April 2024, these scenarios are significantly different from the five scenarios
+developed by AEMO in its 2020 ISP, which were adopted in the PACR for Project Marinus in June 2021.
+Furthermore, the inputs and assumptions developed by AEMO in its draft 2025 IASR have changed from the
+draft 2021 IASR that were adopted in the PACR, being the latest available data at that time. In addition,
+there have also been numerous policy and market developments, including the timing of coal plant closures
+and new generation/storage projects, that were not known at the time of the PACR.
+In this RIT-T update, MLPL engaged EY to model the gross market benefits for Project Marinus using the
+draft 2025 IASR. As noted in our RIT-T update in April 2024, EY are best equipped to model the gross market
+benefits noting that:
+• EY has undertaken the previous market modelling for Project Marinus, including in relation to the
+PACR, using the same market expansion model. This ensures continuity in the modelling approach
+being applied to inform the assessment of whether the preferred option in the PACR remains
+unchanged.
+• EY’s market expansion model is recognised amongst industry as being robust and technology
+neutral. It examines the total integrated system costs of meeting customers’ future electricity
+needs and assesses the benefits of the project by selecting lowest cost combination of generation,
+storage, demand-side response and transmission investments. In this way, the model does not
+favour any type of technology or response.
+
+--- PDF page 13 ---
+
+
+marinuslink.com.au
+1300 127 777 9
+5. EY’s updated market modelling – changes to scenarios, inputs and assumptions
+Table 2 shows the key input assumptions adopted by EY for each of the two modelling scenarios.
+Table 2: Summary of EY’s key input assumptions for modelled scenarios 14
+Key drivers input parameter
+Scenario
+Step Change Progressive Change
+Underlying consumption
+Hydrogen demand based
+on Draft 2025 IASR v7.2 –
+Step Change
+2024 ESOO – Step Change
+Hydrogen demand based
+on Draft 2025 IASR v7.2 –
+Progressive Change
+2024 ESOO – Progressive
+Change
+Committed and anticipated generation Committed and anticipated generators from the 2023
+IASR Assumptions Workbook
+New entrant capital cost and FOM for wind solar
+PV, SAT, OCGT, CCGT, PHES large-scale batteries
+Draft 2025 IASR
+assumptions Workbook -
+Step Change
+Draft 2025 IASR
+assumptions Workbook –
+Progressive Change
+Retirements of coal-fired power stations
+April 2025 Generation Information for announced
+retirements or earlier if economic or driven by
+decarbonisation objectives.
+QEJP coal retirements have not been considered in the
+modelling scenarios.
+Gas fuel price
+Draft 2025 IASR
+Assumptions Workbook –
+Step Change
+Draft 2025 IASR
+Assumptions Workbook –
+Progressive Change
+Coal fuel price
+Draft 2025 IASR
+Assumptions Workbook –
+Step Change
+Draft 2025 IASR
+Assumptions Workbook –
+Progressive Change
+NEM carbon budget to 2030
+Draft 2025 IASR
+Assumptions Workbook –
+Step Change: 418 mega ton
+(Mt) CO2-e 2026-27 to
+2029-30
+Draft 2025 IASR
+Assumptions Workbook –
+Progressive Change: 418
+Mt CO2-e 2026-27 to 2029-
+30
+NEM long- term temperature-linked carbon budget
+Draft 2025 IASR
+Assumptions Workbook –
+Step Change 586 Mt CO2- e
+from 2026-27 to 2049-50
+Draft 2025 IASR
+Assumptions Workbook –
+Progressive Change 797 Mt
+CO2-e from 2026-27 to
+2049-50
+
+14  EY, Gross market benefit assessment of Marinus Link, July 2025, Table 3.
+--- PDF page 14 ---
+
+
+marinuslink.com.au
+1300 127 777 10
+Key drivers input parameter
+Scenario
+Step Change Progressive Change
+Federal renewable energy target
+82% share of renewable generation by 2029.30
+Consistent with the Draft 2025 IASR Assumptions
+Workbook v7.2
+Victoria policy
+Victoria Renewable Energy Target (VRET) – 40% by 2025,
+65% by 2030 and 95% by 2035
+Victoria Energy Storage Target – 2.6 GW by 2030 and
+6.3 GW by 2035
+Victoria Offshore Wind Target – 2 GW by 2032, 4 GW by
+2035 and 9 GW by 2040
+Consistent with Draft 2025 IASR Assumptions Workbook
+v7.2
+Queensland Renewable Energy Target (QRET)
+50% by 2029-30, 70% by 2031-32 and 80% by 2034-35
+Consistent with Draft 2025 IASR Assumptions Workbook
+v7.2
+Tasmanian Renewable Energy Target (TRET)
+100% by 2022, linear trajectory from the mid-2020s to
+150% available renewable generation by 2030 and 200%
+by 2040 as a percentage of 2020 demand in Tasmania. The
+trajectory can be exceeded if part of the least cost
+solution.
+Consistent with Draft 2025 IASR Assumptions Workbook
+v7.2
+NSW Electricity Infrastructure Roadmap
+NSW Roadmap, with at least the same amount of
+electricity as 8 GW in New England, 3 GW in the Central
+West Orana (CWO) REZ and 1 GW of additional capacity
+and 2 GW of long duration storage (8 hrs or more) by
+2029-30.
+Consistent with 2024 ISP
+Victorian SIPS
+300 MW/450 MWh, 250 MW for SIPS service during
+summer. In the summer months the remaining 50 MW
+can be deployed in the market on a commercial basis, in
+the winter months the full capacity is available. From April
+2032 the full capacity is available to the market.
+Consistent with Draft 2025 IASR Assumptions Workbook
+v7.2
+EnergyConnect Draft 2025 IASR Assumptions Workbook v7.2
+Commissioned by July 2027.
+Western Renewables Link Transmission Augmentation Information December 2024.
+Commissioned by July 2027.
+HumeLink 2024 ISP commissioned by July 2030
+--- PDF page 15 ---
+
+
+marinuslink.com.au
+1300 127 777 11
+Key drivers input parameter
+Scenario
+Step Change Progressive Change
+New-England REZ Transmission
+Transmission Augmentation Information December
+202428. Earliest in service date advised by proponent:
+• New England REZ Transmission Link 1 commissioned
+by 1 July 2032
+• New England REZ Transmission Link 2 commissioned
+by 1 January 2034
+Marinus Link
+As per MLPL assumptions. The first stage of Marinus Link
+commissioned by 1 January 2030 and the second stage of
+Marinus Link commissioned by 1 July 2034.
+QNI Connect 2024 ISP commissioned by July 2034
+VNI West In line with Transmission Augmentation Information
+December 2024. Commissioned by December 2029
+Discount rate 7% real, pre tax
+EY also adopted input assumptions to align with the RIT-T update in April 2024, including:
+• Group Constraints with intraconnectors: NQ1, NQ2, NQ3, MN1 and NSA1
+• Committed and anticipated generators
+• VOM for existing and new
+• entrant generators
+• NSW roadmap trajectory
+• REZ capacity factors
+• Hydrogen load dispatch.
+Given the release of AEMO’s draft 2025 IASR in late February 2025, the complexity of market modelling and
+the need for MLPL to submit its revised Revenue Proposal by 15 July 2025, some of the less material inputs
+and assumptions from AEMO’s draft 2025 IASR could not be included by EY in the modelling.
+For both scenarios, the following four additional changes have been adopted consistent with the AEMO
+Draft 2025 IASR:
+• A 100 MW expansion of West Coast power scheme’s capacities.
+• A 150 MW upgrade of Tarraleah’s capacity and a 90 MW upgrade of Gordon 1 capacity.
+--- PDF page 16 ---
+
+
+marinuslink.com.au
+1300 127 777 12
+• A reduced REZ transmission expansion cost applied for the Central Highlands REZ, after Marinus
+Link stage 1 is commissioned. The assumed linearised cost decreases from $0.63m/MW to
+$0.32m/MW.
+• A reduced REZ transmission expansion cost applied for the North West Tasmania REZ, after Marinus
+Link stage 1 is commissioned. The assumed linearised cost decreases from $0.38m/MW to
+$0.035m/MW.
+6. Outcomes from EY’s updated market modelling
+EY’s market model identifies the least cost solution for meeting forecast customers’ electricity needs over
+the 25-year period from 2026-27 to 2050-51. The model is computationally complex as the analysis is
+conducted on an hourly basis; allows for the commissioning of all types of generation and storage capacity;
+and the withdrawal of existing generation on a least-cost basis.
+EY’s model estimates the gross benefits of Project Marinus for each of the scenarios adopted in the draft
+2025 IASR by conducting a ‘with and without’ test. The gross benefit attributed to Project Marinus is the
+difference in the total resource costs ‘with and without’ Project Marinus, expressed in present value terms.
+We asked EY to examine the gross benefits for Project Marinus, assuming that the first cable is
+commissioned in 2030 and the second cable is commission in 2034. This is a simplified approach, but one
+that is able to verify whether the preferred option remains unchanged from the PACR.
+In terms of cable capacity, as noted in our RIT-T update in April 2024, our discussions with prospective
+service providers have confirmed the conclusion in the PACR that the optimal incremental cable capacity is
+750 MW. Accordingly, we did not ask EY to model the gross project benefits for different cable capacities.
+In making this decision, we also recognised that a 600 MW cable, for example, could not be delivered
+within the current project timeframes as the tender process and negotiations would need to be restarted
+given the materiality of the change. Accordingly, we concluded that the 600 MW and 1200 MW
+interconnector options considered in the PACR are no longer credible.
+Table 3 shows the outcomes of gross market modelling results for a 750MW and 1500 MW link, using the
+updated information described above.
+Table 3: Updated gross market benefits for Marinus Link, $Million, Real June 2024, discounted to July 2025
+Marinus Link
+Capacity
+Timing Step Change Progressive
+Change
+Green Energy
+Exports
+Delphi weighted
+average
+1,500 MW 2030 & 2034 6,601 6,026 7,321 6,468
+750 MW 2030 5,591 5,002 5,666 5,356
+In addition to providing the gross benefit calculation, during our consultation process with MLPL’s
+Consumer Advisory Panel (CAP), the CAP asked MLPL to explain the sources of benefits that Project
+Marinus is expected to provide. A detailed explanation of the benefits are provided in the EY report. At a
+high level, however, these benefits from Project Marinus comprise:
+• Capital expenditure savings. By better connecting Tasmania with the mainland, Marinus Link is
+forecast to unlock the potential for high quality Tasmanian wind, new entry pumped hydro and
+--- PDF page 17 ---
+
+
+marinuslink.com.au
+1300 127 777 13
+existing conventional Tasmanian hydroelectric power stations. Without Marinus Link, there is a
+requirement for higher cost renewable, storage and gas capacity on the mainland.
+• Fuel cost savings. Marinus Link is forecast to provide fuel cost savings on the mainland by enabling
+better access to existing Tasmanian hydroelectric generators, as a lower cost alternative to the
+construction and operation of dispatchable gas on the mainland.
+7. Treatment of emission reductions
+An important change since the RIT-T update in April 2024 is that EY has modelled forecast emissions
+benefits that arise from avoided thermal generation unlocked by Project Marinus. EY has valued emissions
+savings in accordance with the AER’s Valuing emissions reduction guidance15 as a post-process to the
+optimisation modelling. While MLPL sets out further details on these benefits below, we have excluded
+them from the net market benefit assessment for the purposes of this RIT-T update to provide confidence
+to stakeholders that a conservative approach has been adopted.
+Emissions benefits vary between scenarios due to differences in carbon budget and demand parameters.
+Table 4 shows EY’s forecast gross emissions benefits for Project Marinus in the Step Change and
+Progressive Change scenarios in real 2024 prices and expressed as a present value discounted to 2025.
+Since emissions benefits were not assessed in EY’s March 2024 report these benefits are not available for
+the Green Energy Exports scenario.
+Table 4: EY July 2025 emissions benefits for Project Marinus, $million, real June 2024, discounted to July 2025
+Marinus Link Capacity Timing Step Change Progressive Change
+1,500 MW 2030 & 2034 104 3,835
+750 MW 2030 71 2,566
+The average emissions benefits weighted across two scenarios is presented in Table 5 below.
+Table 5: Weighted average emissions benefits for Project Marinus, $million, real June 2023, discounted to July 2025
+Marinus Link
+Capacity
+Emissions Benefits
+1,500 MW 1,595
+750 MW 1,068
+As already noted, the inclusion of these benefits would increase the estimated net market benefits, which
+are explained in the next section. Further information on the emission reduction benefits, the scenarios and
+the gross benefit assessment is provided in EY’s report, which is published alongside this report.
+
+
+15  AER, Valuing emissions reduction AER guidance and explanatory statement, May 2024.
+--- PDF page 18 ---
+
+
+marinuslink.com.au
+1300 127 777 14
+8. Net market benefit assessment
+To calculate the net market benefit for a project option, the costs of that option must be deducted from
+the gross benefits, expressed in present value terms. The updated costs for Project Marinus reflect the
+latest available information from our ‘early works’ phase of the project, which commenced in July 2021. A
+key purpose of ‘early works’ is to obtain a better estimate of the project costs through extensive effort on
+the planning activities, including:
+• Landowner and community engagement programs, including Traditional Owners, and stakeholder
+relations;
+• Land and easement acquisition;
+• Environmental impact assessments;
+• Technical designs and specifications; and
+• Procurement strategy and execution.
+The costs adopted in this RIT-T update are the total costs of the project over the study period, which is
+shorter than the project life, and varies depending on the assumed timing of cable 2. It should be noted
+that the cost estimates used in the net market benefit assessment ensure that project costs and benefits
+are consistently measured over the same study period.26
+The total project cost estimates used in this RIT-T update are set out below, expressed in June 2023 prices:
+• The costs for Project Marinus are $5,035 million for the first stage (which includes facilitation for
+stage 2), and $2,535 million for completion of the second stage.
+• The NWTD component is $1,144 million for the first stage, and $525 million for the second stage.
+MLPL and TasNetworks will continue to refine the cost estimates as new information has become available
+from the tender process. This cost information, less expenditure already incurred, known as ‘sunk costs’,
+will be provided to AEMO through the feedback loop process, in accordance with clause 5.16A.5 of the
+Rules.
+Figure 4 below shows the net market benefit for Project Marinus, assuming that the first cable is delivered
+in 2030 and the second cable in 2034. It presents the results for a single cable, i.e., a 750 MW option, and
+for two cables, i.e., a 1500 MW option across each of the three scenarios, noting that the Green Energy
+Exports scenario reflects the outcome from the RIT-T update in April 2024. The figure also shows the Delphi
+
+26  As the study period is truncated (i.e., it is shorter than the life of the project), it is necessary to capture an appropriate portion
+of the total project costs to calculate the net economic benefit. In the case of Project Marinus, this approach is likely to
+understate the net economic benefit over the life of the project because the annual benefits exceed the annual costs towards
+the end of the study period. On the reasonable assumption that this situation persists beyond the study period, the net
+economic benefit over the life of the project will exceed the net economic benefit calculated over the truncated study period.
+--- PDF page 19 ---
+
+
+marinuslink.com.au
+1300 127 777 15
+weighted average, which reflects the views of a panel of experts on the likelihood of the various scenarios
+eventuating.
+The total project cost used in the net market benefit figure below has been reduced by approximately
+$534m of sunk costs in accordance with the AER’s Cost Benefit Analysis Guidelines. As already noted, the
+net market benefits exclude the expected benefits from emission reductions, which would further enhance
+the economic case for Project Marinus (and for both stages).
+Figure 4: Project Marinus net market benefits by scenario, for Stage 1 + 2 and Stage 1 only, real June 2023,
+discounted to July 2025
+
+
+Source: Marinus Link
+Figure 4 shows that Marinus Link provides material net market benefit across all scenarios in both the 1500
+MW and 750 MW options. The Delphi weighted average shows that the second cable provides an
+incremental net market benefit of $443 million16 compared to the single cable option. It follows that the
+two cable option is superior to a single cable. At this stage, however, it is important to note that no decision
+has been made to proceed with the second cable.
+EY’s previous report that accompanied the RIT-T update in April 2024 included a range of sensitivity analysis
+to test the robustness of the gross benefit assessment. EY’s sensitivity analysis explained that there are
+highly credible circumstances that would significantly enhance the economic case for the two cable option,
+at the time of the RIT-T update in April 2024. In particular, EY’s sensitivity analysis showed that a reduction
+in the hydrogen load assumptions in Tasmania would substantially enhance the case for Project Marinus.
+
+16  The incremental net economic benefit of $443 million is $3,860 million for two cables minus $3,417 million for a single
+cable, assuming the Delphi weighted average.
+
+--- PDF page 20 ---
+
+
+marinuslink.com.au
+1300 127 777 16
+Subsequently, AEMO’s draft 2025 IASR has modified its assumptions regarding hydrogen load as
+anticipated by EY.
+Given the strength of the findings in this RIT-T update, MLPL does not consider it necessary to conduct
+further sensitivity analysis. In making this assessment, MLPL notes that the analysis presented does not
+include the value of emission reduction which would further increase the net market benefits. In addition,
+the modelled costs for Project Marinus do not exclude cancellation fees even though these costs are
+unavoidable and, therefore, should be regarded as a sunk cost for modelling purposes. Accordingly, the
+estimated net market benefits are considered conservative.
+9. Conclusion and next steps
+The conclusion to draw from this RIT-T update is clear – the preferred option, which is to proceed with the
+first cable as soon as practicable and to keep the timing of the second cable under review, remains
+unchanged from the PACR in June 2021 and the RIT-T update in April 2024. The timing of the first and
+second cables is slightly later than originally indicated in the PACR, with the timing of the second cable
+continuing to be informed by AEMO’s 2026 ISP and subsequent ISPs. While the timing has changed slightly,
+the preferred option has not.

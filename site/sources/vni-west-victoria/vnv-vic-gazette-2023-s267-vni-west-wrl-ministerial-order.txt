@@ -1,0 +1,951 @@
+
+===== PDF PAGE 1 =====
+SPECIAL
+Victoria Government Gazette
+No. S 267 Saturday 27 May 2023
+By Authority of Victorian Government Printer
+National Electricity (Victoria) Act 2005
+VNI WEST AND WRL MINISTERIAL ORDER
+I, Lily D’Ambrosio, Minister for Energy and Resources and Minister responsible for 
+administering the National Electricity (Victoria) Act 2005  (the Act), having consulted with the 
+Premier, the Treasurer and AEMO in accordance with section 16ZA of the Act, make the following 
+Order pursuant to section 16Y of the Act.
+Note: In accordance with section 16ZB of the Act, my reasons for making this Order are published in this same issue of the 
+Government Gazette and will be made available at www.deeca.vic.gov.au as soon as practicable after the making of this Order.
+PRELIMINARY
+1. Commencement
+This Order commences on the day it is published in the Government Gazette.
+2.	 Definitions	and	interpretation
+In this Order, unless the context otherwise requires, the following words have the following 
+definitions:
+20	February	Order	means the Order made by the Minister under section 16Y of the Act 
+dated 15 February 2023 and published in Special Gazette No. S 60 on 20 February 2023.
+Act means the National Electricity (Victoria) Act 2005.
+AEMO has the same meaning as in the Law. 
+AEMO’s	 costs	 means costs incurred by AEMO as a result of the making of this Order, 
+carrying out a function conferred on it by this Order or complying with a requirement under 
+this Order and:
+(a) includes the costs of carrying out or procuring the carrying out of the functions 
+under clause 4.6(a) or 4.6(b), including those paid to a declared transmission system 
+operator; 
+(b) includes costs that AEMO is obliged to pay to a declared transmission system operator 
+for responding to a request by AEMO in connection with the performance of the 
+functions conferred under clause 4.6; and
+(c) in respect of costs paid to a declared transmission system operator in respect of a 
+WRL Project Document, is limited to costs that AEMO is obliged to pay under a WRL 
+Project Document pursuant to a variation under clause 4.6(g), or arising from:
+(i) delays or suspensions of work; and
+(ii) the declared transmission system operator preparing, providing or negotiating 
+a proposed variation,
+as a result of a direction, proposal or order given by AEMO,
+but does not include costs:
+(d) for which AEMO is reimbursed or is to be reimbursed by the State or the 
+Commonwealth; or 
+(e) in respect of which AEMO receives funding through a State or Commonwealth grant 
+program and which does not need to be repaid by AEMO.
+Note: nothing in this definition limits the definition of AEMO’s costs in the 20 February Order.
+AER means the Australian Energy Regulator.
+augmentation has the same meaning as in the Law.
+contestable	augmentation	has the same meaning as in clause 8.11.3 of the Rules.
+===== PDF PAGE 2 =====
+2 S 267 27 May 2023 Victoria Government Gazette
+declared	transmission	system has the same meaning as in the Law.
+Note: see Ministerial Order under section 30 of the Act made 26 June 2009, published in Special Gazette S 222 on 
+30 June 2009, which initially defined the declared transmission system.
+declared	transmission	system	operator	has the same meaning as in the Law.
+identified	need	has the same meaning as in Chapter 10 of the Rules.
+Law means the National Electricity (Victoria) Law. 
+maximum	allowed	revenue has the same meaning as in Chapter 10 of the Rules.
+PACR means a project assessment conclusions report setting out an assessment of the options 
+for VNI West required to be published under clause 4.4 of this Order. 
+PADR means a project assessment draft report as defined in clause 5.10.2 of the Rules. 
+Project Energy Connect means the electricity interconnector currently under construction 
+between Robertstown in South Australia and Wagga Wagga in New South Wales and 
+connecting into Red Cliffs Terminal Station in Victoria.
+prescribed	 common	 transmission	 services has the same meaning as in Chapter 10 of  
+the Rules.
+prescribed	transmission	services has the same meaning as in Chapter 10 of the Rules.
+regulatory year has the same meaning as in Chapter 10 of the Rules.
+revenue	methodology	means the revenue methodology referred to in clause S6A.4.2(c) of 
+the Rules.
+RIT-T means a regulatory investment test for transmission  as defined in Chapter 10 of  
+the Rules.
+Rules means the National Electricity Rules made under Part 7 of the Law, as amended or 
+modified from time to time in accordance with Part 7 of the Law or the Act.
+specified	augmentation	means each of the augmentations  specified in clauses 3.1, 3.2, 3.4 
+and 3.5, as the context requires.
+Transgrid	 means NSW Electricity Networks Operations Pty Limited as trustee for  
+NSW Electricity Networks Operations Trust, trading as Transgrid. 
+VicGrid means the Victorian Department of Energy, Environment and Climate Action 
+(VicGrid division).
+VNI	West	means the augmentation specified in clause 3.1.
+VNI	West	construction	agreement	has the same meaning as given under the 20 February 
+Order. 
+VNI	 West	PADR	means the PADR published on 29 July 2022 as part of the VNI West  
+RIT-T process.
+VNI	West	RIT-T	means the RIT-T for VNI West being jointly conducted by AEMO and 
+Transgrid.
+WRL means the augmentation described in clause 3.4.
+WRL	Uprate	means the augmentation specified in clause 3.5. 
+WRL PACR means the Western Victoria Renewable Integration Project Assessment 
+Conclusion Report published by AEMO on 19 July 2019.
+WRL Project Document means any document to which AEMO and a declared transmission 
+system operator is a party in relation to the WRL.
+===== PDF PAGE 3 =====
+Victoria Government Gazette   S 267 27 May 2023 3
+3. SPECIFICATION OF AUGMENTATION
+	 Specified	augmentation	–	 VNI	West
+3.1 The carrying out of all works to construct a new high-capacity transmission line 
+between Victoria and New South Wales connecting the Western Renewables Link 
+with Project Energy Connect to meet the identified need described in the VNI West 
+PADR and all associated works, insofar as such works are an augmentation of the 
+declared transmission system, is a specified augmentation for the purposes of Division 
+7 of Part 3 of the Act (VNI West)
+3.2 Without limiting clause 3.1, the carrying out of all works specified in Schedule 1 is a 
+specified augmentation for the purposes of Division 7 of Part 3 of the Act, insofar as 
+such works are an augmentation of the declared transmission system.
+3.3 For the avoidance of doubt, all works carried out by AEMO under clause 6 of the  
+20 February Order (and whether before or after the date of this Order) in respect of 
+VNI West are part of the specified augmentation.
+	 Specified	augmentation	–	 WRL	
+3.4 The carrying out of all works to meet the identified need described by AEMO in the 
+WRL PACR, including but not limited to:
+(a) proposed high voltage transmission lines; 
+(b) new terminal stations; and
+(c) all associated works,
+insofar as such works relate to the declared transmission system, is a specified 
+augmentation for the purposes of Division 7 of Part 3 of the Act.
+	 Specified	augmentation	–	 WRL	Uprate
+3.5 Without limiting clause 3.4, the carrying out of all works specified in Schedule 
+2, insofar as such works relate to the declared transmission system, is a specified 
+augmentation for the purposes of Division 7 of Part 3 of the Act.
+4. AEMO’S FUNCTIONS
+	 Functions	conferred	on	 AEMO	by	this	Order
+4.1 AEMO must carry out the functions in respect of VNI West conferred on it by this 
+Order under clause 4.4.
+4.2 AEMO may carry out any of the functions in respect of the WRL Uprate conferred on 
+it by this Order under clause 4.6. 
+Note 1: functions conferred on AEMO by this Order are taken to be conferred by the Act for the purposes 
+of section 50C(1)(f) of the Law.
+Note 2: functions conferred on AEMO by this Order may be modified or abrogated by further Order:  
+section 16Y of the Act.
+4.3 Except to the extent that this Order provides otherwise, nothing in this Order:
+(a) limits AEMO’s functions under the Law or the Rules; or
+(b) without limiting sub-paragraph (a), limits AEMO in terms of any other 
+agreement that it has entered into or may enter into in respect of the declared 
+transmission system.
+	 AEMO’s	functions	in	respect	of	the	 VNI	West	
+4.4 AEMO is conferred the function of preparing and publishing a PACR with TransGrid 
+for VNI West.
+4.5 For the purposes of the PACR for VNI West to be published under clause 4.4, AEMO 
+is required to identify the augmentation specified in clause 3.2 as the preferred option.
+ 
+===== PDF PAGE 4 =====
+4 S 267 27 May 2023 Victoria Government Gazette
+	 AEMO’s	functions	in	respect	of	the	 WRL	Uprate
+4.6 AEMO is conferred the following functions in respect of the WRL Uprate: 
+(a) carrying out or procuring the carrying out of the following functions:
+(i) investigation, testing and surveying of land associated with designing 
+the WRL Uprate;
+(ii) costs estimation;
+(iii) engineering and electrical design work;
+(iv) project and procurement planning;
+(v) land use planning and landholder consultation;
+(vi) stakeholder engagement with local communities, landowners, 
+government departments, local councils, registered aboriginal parties 
+and others; and
+(vii) assessment of planning, environmental effects assessment and approval 
+requirements;
+(b) subject to clause 4.9, the procurement and disposal of long lead time items of 
+capital equipment for use in the construction or operation of the WRL Uprate;
+(c) obtaining a detailed breakdown of the costs of procuring the WRL Uprate, on 
+an open book basis, from declared transmission system operators including 
+all supporting information and evidence and an associated financial model, 
+including separate information for any:
+(i) capital cost or saving;
+(ii) operating cost or saving;
+(iii) provision for risk;
+(iv) rate of return; 
+(v) financing costs; and
+(vi) other cost, contingency, allowance, margin or saving; 
+(d) issuing requests for proposal(s) in respect of the WRL Uprate and considering 
+any such proposals once received;
+(e) discussing and negotiating in principle amendments to the WRL Project 
+Documents in connection with the WRL Uprate;
+(f) preparing a report and recommendations, which AEMO must provide to the 
+Minister, as to the options for carrying out the WRL Uprate;
+(g) negotiating and entering into variations to WRL Project Documents that are 
+necessary or desirable to enable AEMO to undertake the functions referred 
+to in clauses 4.6(a) to 4.6(c) of this Order and enforcing and complying with 
+those varied documents;
+(h) any other function related to, or arising from, the above, including, for the 
+avoidance of doubt:
+(i) conferring with the AER;
+(ii) obtaining the services of experts and consultants to assist AEMO; and
+(iii) conferring with the State and its representatives, officers, agents, 
+employees, advisers and consultants.
+===== PDF PAGE 5 =====
+Victoria Government Gazette   S 267 27 May 2023 5
+	 Other
+4.7 The functions conferred under clauses 6.1(a), 6.1(b), 6.1(c), 6.1(e) and 6.9 of the  
+20 February Order are revoked. 
+4.8 Subject to clause 4.7, the functions conferred under clause 4.6 of this Order are in 
+addition to the functions conferred on AEMO by the 20 February Order and the 
+functions under clause 6.1(f) of the 20 February Order extend to VNI West being the 
+specified augmentation referred to in clause 3.1. 
+4.9 AEMO must not:
+(a) vary a WRL Project Document to implement an option other than the preferred 
+option under the WRL PACR; or
+(b) enter into an agreement pursuant to clause 4.6(b), 
+save as expressly authorised under this Order or the 20 February Order, without the 
+approval of the Minister or a further Ministerial Order. 
+Note 1: nothing in clause 4.9 applies to an existing obligation or right under a WRL Project Document.
+Note 2: nothing in clause 4.9 prevents or restricts the parties to a WRL Project Document varying that 
+document as a result of claim or circumstance that existed before the date of this Order. 
+Note 3: nothing in this Order authorises AEMO to enter into a VNI West construction agreement.
+5. MODIFICATION OF LAW AND RULES
+5.1 VNI West and the WRL Uprate are not contestable augmentations and the definition 
+of contestable augmentation and clause 8.11.3 of the Rules are modified accordingly.
+5.2 The following provisions do not apply in respect of the augmentations specified under 
+this Order or to any of AEMO’s functions conferred under this Order: 
+(a) sections 50F(2), 50F(3) and 50H of the Law;
+(b) clauses 5.15A, 5.16, 5.16A and 5.16B of the Rules; 
+(c) clauses 8.11.4, 8.11.6, 8.11.7, 8.11.8, 8.11.9 and Schedule 8.11 of the Rules; 
+and
+(d) AEMO’s planning criteria published in accordance with clause 8.11.4 of the 
+Rules.
+6. VNI WEST AND WRL RIT-T
+For the avoidance of doubt, the making of this Order, anything done pursuant to this Order, 
+and any circumstance consequential on, related to or arising from this Order, shall not 
+constitute a material change in circumstances in respect of the VNI West RIT-T or the WRL 
+RIT-T for the purposes of clauses 5.16.4 and 5.16A.4 of the Rules.
+7. PROVISION OF INFORMATION 
+7.1 A declared transmission system operator must provide:
+(a) upon a written request by AEMO; and
+(b) within a reasonable period as specified by AEMO in the request,
+such information, proposal and assistance as is reasonably required by AEMO for 
+AEMO to perform the functions conferred on it under clause 4.6.
+7.2 Nothing in this Order limits a declared transmission system operator’s obligation or 
+duty under the Law or the Rules.
+8. COST RECOVERY
+	 AEMO’s	costs	recoverable	as	a	 TUOS
+8.1 Despite anything to the contrary in the Rules, AEMO’s costs may be recovered 
+through charges in respect of prescribed transmission services.
+8.2 For the purposes of clause 8.1, AEMO carrying out of any of the functions conferred 
+by this Order or the incurring of AEMO’s costs, is deemed to be the provision of 
+prescribed common transmission services.
+===== PDF PAGE 6 =====
+6 S 267 27 May 2023 Victoria Government Gazette
+8.3 The definition of prescribed common transmission services in the Rules is modified 
+accordingly.
+8.4 Despite anything to the contrary in the Rules:
+(a) AEMO’s costs form part of AEMO’s maximum allowed revenue for this and 
+each relevant subsequent regulatory year;
+(b) consequent on the above, AEMO may publish amended prices for prescribed 
+shared transmission services for the regulatory year commencing on 1 July 2023 
+to take effect from 1 July 2023;
+(c) AEMO may amend its revenue methodology for this and each relevant 
+subsequent regulatory year to provide for AEMO’s costs; and
+(d) AEMO is not required to consult with the public in respect of any amendment 
+that is required to its revenue methodology in order to provide for any of 
+AEMO’s costs. 
+Note 1: see clause S6A.4.2 of the Rules.
+Note 2: section 16ZC(1) of the Act provides that this Order has effect despite anything to the 
+contrary in any agreement or contract.
+8.5 Except to the extent that this Order provides otherwise, nothing in this clause limits 
+the provisions of the Law or the Rules that otherwise apply to AEMO in respect of its 
+maximum allowed revenue, revenue methodology or prices for prescribed common 
+transmission services.
+9. SA VINGS
+9.1 Nothing in this Order invalidates or limits anything done under the 20 February Order. 
+9.2 The 20 February Order continues in full force and effect, save as modified by this Order.
+Dated 26 May 2023
+HON. LILY D’AMBROSIO  
+Minister for Energy and Resources
+===== PDF PAGE 7 =====
+Victoria Government Gazette   S 267 27 May 2023 7
+SCHEDULE 1
+PREFERRED OPTION – VNI WEST
+Construction of a new 500 kV double-circuit overhead line from a new terminal station near 
+Kerang to Dinawan crossing the Murray river north of Kerang to Bulgana Terminal Station (BGTS), 
+including series compensation on the line near Kerang and 500 kV line shunt reactors at both ends 
+of each 500 kV line segment.
+Construction of a new terminal station near Kerang, with two 500/220 kV 1,000 MV A transformers 
+and up to +/- 400 MV Ar dynamic reactive compensation on the 220 kV network.
+Construction of 220 kV connections from the new terminal station near Kerang to the existing 
+220 kV lines near Kerang.
+Construction of two new 500 kV bays and line exits with a total of two 500 kV line shunt reactors 
+at the BGTS.
+Modular power flow controllers or other equipment to prevent overloading on 330 kV lines 
+between Upper/Lower Tumut and South Morang and 220 kV lines between Dederang and 
+Thomastown.
+Minor augmentations at existing terminal stations impacted by the above works.
+Refinement to the works specified above required as a result of further investigation, design and 
+planning.
+Any works consequential, or related, to those specified above.
+===== PDF PAGE 8 =====
+8 S 267 27 May 2023 Victoria Government Gazette
+SCHEDULE 2
+SPECIFIED AUGMENTATION – WRL UPRATE
+Extension of the 500 kV Sydenham Terminal Station (SYTS) by two breaker and a half  
+switched bays.
+Additional 500 kV switched bus connected reactor sized approximately 100 MVar.
+Rerouting of the existing No. 1 Sydenham to South Morang and Sydenham to Keilor 500 kV 
+Transmission Lines to terminate into new bays.
+Construction of new 220kV circuit breakers and a second 220kV bus at BGTS.
+Construction of a new 500 kV double circuit transmission line from SYTS to BGTS with 
+switched estimated 70 MV Ar shunt line reactors at the end of each circuit. 
+Extension of the existing 220kV BGTS to construct an adjacent 500kV switchyard, including 
+two 500/220 kV 1000 MV A transformers, transmission line realignment, site provisioning and 
+line cut in works for the existing Bulgana to Horsham 220kV transmission line and Crowlands to 
+Bulgana 220kV transmission line. 
+Installation of new 220kV circuit breakers at Ballarat Terminal Station (BATS) to establish 
+double switching on the existing 220kV bays.
+Cut-in, termination and switching of the existing Ballarat to Moorabool No.2 220kV transmission 
+line at Elaine Terminal Station (ELTS), forming Ballarat to Elaine No.2 line and Elaine to Moorabool 
+No.2 line.
+Re-alignment and switching of the existing Ballarat to Elaine transmission line and Elaine to 
+Moorabool transmission lines at ELTS and renaming them to Ballarat to Elaine No.3 line and Elaine 
+to Moorabool No.3 line.
+Interface activities at various terminal stations including, but not limited to:
+a) special control scheme requirements;
+b) overhead earth wire (OHEW) and optical ground wired (OPGW) requirements;
+c) secondary settings and physical requirements.
+Minor augmentations at existing terminal stations impacted by the above works.
+Refinement to the works specified above required as a result of further investigation, design and 
+planning.
+Any works consequential, or related, to those specified above.
+===== PDF PAGE 9 =====
+Victoria Government Gazette   S 267 27 May 2023 9
+REASONS FOR MAKING THE VNI WEST MINISTERIAL ORDER  
+UNDER SECTION 16Y OF THE  
+NATIONAL ELECTRICITY (VICTORIA) ACT 2005
+In accordance with section 16ZB(1) of the National Electricity (Victoria) Act 2005 (the Act),  
+I make the following statement of reasons for making the VNI West and WRL Ministerial Order 
+under section 16Y of the Act.
+RELEV ANT BACKGROUND MATTERS 
+Introduction
+1. Victoria is facing increasing electricity generation, transmission, reliability and capacity 
+concerns, as its thermal coal generators age and become increasingly unreliable, close or are 
+scheduled to close. 
+2. Victoria’s generation, transmission and storage assets are also part of and interconnect with 
+the National Electricity Market (NEM), allowing the scheduling, sharing and most efficient 
+and cost effective use of resources. This interconnection depends on strong and stable 
+transmission connections between the declared transmission system in Victoria ( DTS) and 
+the rest of the National Electricity Market, with sufficient redundancy and backups to deal 
+with outages and extreme weather events. 
+3. New renewable generators (principally wind and solar) are also being built in Victoria, 
+largely in regional areas where there may not be sufficient existing transmission capacity. 
+4. In addition to the matters noted above relating to the security and reliability of supply of 
+electricity in Victoria, the Victorian government is also committed to transitioning the 
+electricity system from fossil fuels to renewable generation and storage to meet energy 
+needs and climate change targets of net zero emissions by 2045, as part of Victoria’s Climate 
+Change Strategy. 
+Reliability	and	capacity	concerns	raised	by	the	transmission	planner
+5. The Australian Energy Market Operator ( AEMO) is the transmission planner for the 
+Victorian DTS (in that capacity, referred to as AV P). AEMO has warned of increasing risks 
+to the reliability and security of the State’s electricity supply. 
+6. In making this Order, I have considered and taken into account AEMO’s warnings and 
+recommendations, as is appropriate given AEMO’s roles as the transmission planner for the 
+NEM and as A VP for Victoria. In particular, I have had regard to AEMO’s:
+6.1 2020 and 2022 Integrated System Plans (ISP); 
+6.2 2022 Electricity Statement of Opportunities (ESOO); and 
+6.3 2022 ESOO update (ESOO Update); and
+6.4 Victorian Annual Planning Report October 2022 (Planning	Report).
+7. AEMO has stated that:
+7.1 coal generation is becoming increasingly unreliable (2022 ISP, page 25 and 2022 
+ESOO pp 7, 46 – figure 20); 
+7.2 there are predicted increases in the frequency and duration of forced and unplanned 
+coal outages due to forecast generator retirements, which create reliability risks to 
+Victoria (2022 ESOO, pp 56–58);
+7.3 Victoria may experience reliability risks from 2028–29 when the Yallourn Power 
+Station retires (2022 ESOO Update, page 4);
+7.4 future systems could be impacted by extreme weather that could disrupt key 
+transmission paths, which demonstrates that route diversity in a stronger interconnected 
+system increases resilience to a changing climate (2022 ISP page 53 and Appendix 4);
+7.5 outages, thermal, voltage and stability constraints impact on the transmission of 
+electricity between NSW and Victoria (Planning Report, 43).
+===== PDF PAGE 10 =====
+10 S 267 27 May 2023 Victoria Government Gazette
+8. These AEMO reports emphasise the importance of new transmission projects to reduce 
+reliability risks in the medium term (2022 ESOO pp 12, 56–58; 2022 ESOO Update pp 4, 
+13–14).
+VNI	West
+9. VNI West is a proposed high voltage alternating current interconnector between Victoria and 
+New South Wales. 
+10. AEMO identifies VNI West as critical to addressing cost, security and reliability issues for 
+the DTS (2020 ISP page 14) and a critical transmission project for the DTS (2020 ISP and the 
+2022 ISP). 
+11. AEMO identifies the need for VNI West (page 74 of the 2022 ISP):
+To increase transfer capacity between New South Wales and Victoria to realise net market 
+benefits by
+ efficiently maintaining supply reliability in Victoria following the closure of further 
+coal-fired generation and the decline in aging generator reliability – including 
+mitigation of the risk that existing plant closes earlier than expected
+ facilitating efficient development and dispatch of generation in areas with high quality 
+renewable resources in Victoria and southern New South Wales through improved 
+network capacity and access to demand centres, and
+ enabling more efficient sharing of resources between NEM regions.
+12. At page 15 of the 2022 ISP, AEMO states:
+The pace of change and scale of investment in Australia’ s energy sector is already 
+unprecedented, yet will only accelerate. It is imperative that the actionable projects (as well 
+as the projects being progressed under the NSW framework) should commence on time, and 
+be developed efficiently to the proposed timetables, tenable an efficient and effective energy 
+transformation for consumers. There are a range of urgent efforts required to support the ISP’ s 
+timely implementation, and its central role in the Commonwealth Government’ s Rewiring the 
+Nation policy. The Commonwealth and NEM state governments can assist in on-time or 
+earlier delivery of these critical projects through supporting policies and cooperation to 
+deliver ISP projects. (emphasis added).
+13. At page 67 of the 2022 ISP, AEMO states that VNI West is an actionable ISP project to be 
+delivered urgently, with a schedule delivery date of July 2031 which ‘aligns with advice from 
+project proponents as to the earliest practical delivery time under current arrangements ’. 
+However, in clarifying that actionable projects should be progressed as soon as possible, 
+AEMO further states that:
+‘The schedule of actionable projects lists the earliest practical delivery time AEMO has been 
+advised by the project proponents. Earlier delivery would either be more optimal to deliver 
+benefits to consumers or would provide valuable insurance and guard against other potential 
+delays. All actionable projects should therefore progress as urgently as possible, and state 
+and Commonwealth mechanisms which support earlier progression of projects could deliver 
+earlier benefits or cost savings’. (page 18) 
+…..
+Work needs to commence urgently to manage potential risks to delivery. Earlier delivery could 
+provide additional resilience benefits and would require additional supporting arrangements 
+to accelerate timeline.’ (page 67) 
+14. At page 74 and following of the 2022 ISP, AEMO discusses the optimal benefits and timing 
+for VNI West:
+making the project actionable now would increase insurance against the potential of earlier 
+than anticipated coal closures (other than Yallourn) or delays in the delivery or transmission 
+of dispatchable sources.
+===== PDF PAGE 11 =====
+Victoria Government Gazette   S 267 27 May 2023 11
+15. At page 80 of the 2022 ISP, AEMO states –
+The optimal timing for three nationally strategic projects – VNI West, Hume Link and Marinus 
+Link – depend on the pace of the NEM’ s transition. The earlier that coal-fired generation 
+retires, the earlier these projects are needed, so early delivery provides protection against 
+earlier than expected retirements. Early delivery can also offer additional resilience against 
+short-term outages of generation or infrastructure.
+16. Compounding AEMO’s concerns, I consider that there is a significant risk of coal retirement 
+dates being brought forward across the NEM, noting in particular that in September 2022, 
+AGL announced that Loy Yang A would close by 2035, 13 years ahead of schedule, and that 
+AEMO generation information for the NEM shows retirement dates being brought forward 
+for several coal plants since October 2021.
+17. In its 2022 ISP and the VNI West Project Assessment Draft Report ( PADR), AEMO found 
+that VNI West would provide significant hosting capacity for local renewable development in 
+adjacent Renewable Energy Zones (REZs) and increase electricity transfer capacity between 
+Victoria and NSW (noting the benefits of additional interconnection referred to above)  
+(2022 ISP page 74; PADR page 31–32, 74–75). 
+WRL 
+18. The Western Renewables Link ( WRL) will link VNI West to Victoria’s electricity grid 
+while also alleviating network constraints and increasing hosting capacity in Victoria’s 
+west (Planning Report, pp 69–70). This aligns with the need for better and more reliable 
+interconnection of the DTS referred to above (PADR, page 18–19). 
+PACR	and	AEMO	approach
+19. Most recently, and discussed in further detail below, AEMO has provided me with a copy 
+of its final draft for publication of its Project Assessment Conclusions Report ( PACR) for  
+VNI West. The covering letter to the provision of this document states:
+…in the final draft for publication, AEMO still considers Option 5A best meets the criteria 
+under the Ministerial Order made on 20 February 2023 to facilitate and expedite delivery 
+of the VNI West project, while delivering approximately $1.4 billion of net market benefits in 
+NPV terms over the assessment period on a scenario-weighted basis.
+As noted previously, the enclosed final draft for publication has been prepared on the basis 
+that components of Option 5A will be specified in a further Ministerial Order under the 
+National Electricity (Victoria) Act as the preferred option to the extent it relates to the 
+declared transmission system in Victoria.
+If the further Ministerial Order is made on those terms, AEMO will then publish the enclosed 
+document as the VNI West P ACR. 
+20. The final draft PACR endorses the benefits of the AEMO’s proposed approach, while 
+modelling and recommending additional options to improve it. These options are, in part, 
+enabled and facilitated by the making of this Order. 
+21. I accept AEMO’s assessment that construction of VNI West, in the way ultimately 
+recommended in the final draft PACR, will significantly strengthen the reliability and security 
+of the DTS by providing access to replacement dispatchable capacity across the NEM when 
+coal retires. 
+22. I have considered the most recent forecasts of the timing of these projects, the development 
+of REZs, and Snowy 2.0 and other relevant projects in reaching this conclusion. 
+23. I accept AEMO’s expert opinion that acceleration of VNI West is preferable and will facilitate 
+the dispatch of generation in areas of the state with high quality renewables, including the 
+REZs identified by AEMO under the 2022 ISP. I note AEMO’s findings in the final draft 
+PACR that staging or delaying the construction of VNI West would delay the accrual of 
+the benefits of the project, and that acceleration would potentially align with concessional 
+funding from the Commonwealth.
+24. I regard those factors as also complementing the State’s policy goals, identified above.
+===== PDF PAGE 12 =====
+12 S 267 27 May 2023 Victoria Government Gazette
+THE 20 FEBRUARY ORDER
+25. On 15 February 2023 I made an Order under section 16Y of the National Electricity 
+(Victoria) Act 2005 (the Act) (gazetted on 20 February 2023) (the 20	February	Order).
+26. Under the 20 February Order I conferred certain functions on AEMO including the functions 
+of:
+Assessing alternate options to the preferred options described in the VNI West P ADR and the 
+WRL P ACR to facilitate and expedite the development, delivery, construction and energisation 
+of the specified augmentation or otherwise better meet a crucial national electricity system 
+need in Victoria or in Victoria and another participating jurisdiction, including options in 
+relation to:-
+i. alternate routes, notes, terminal stations and transmission network design,
+ii. other augmentations of the declared transmission system, and
+iii. changes to the WRL.
+27. The 20 February Order confirms that AEMO must publish a PACR in respect of VNI West 
+(clause 6.10).
+28. At the time of the 20 February Order, the VNI West project was progressing under a 
+Regulatory Investment Test for transmission ( RIT-T) process under the National Energy 
+Law (Law) and National Energy Rules (Rules). 
+29. Pursuant to that process, the VNI West project proponents (AEMO and New South Wales 
+Electricity Networks Operations Pty Ltd trading as TransGrid) published a project Assessment 
+Draft Report (PADR) in July 2022. 
+CONSULTATION WITH AEMO AND FURTHER CONSIDERATIONS
+30. On 23 February 2023, AEMO released for public consultation the VNI West Consultation 
+Report – Options Assessment ( Options	 Assessment), which assessed alternative options 
+to those canvassed under the VNI West PADR based on economic modelling and a  
+multi-criteria analysis (MCA) that considered land, planning and environmental issues that 
+AEMO expects to affect project timing and delivery risks. 
+31. AEMO had regard to its functions under the 20 February Order in assessing and ranking 
+these options (page 3, Options Assessment).
+Option	5
+32. In the Options Assessment, AEMO identified a new recommended option ( Option	 5) 
+running from Bulgana to near (south of) Kerang. Under this option, the WRL terminal station 
+previously proposed for Mount Prospect (north of Ballarat) would be constructed instead at 
+Bulgana. 
+33. In the Options Assessment AEMO recommended that, regardless of where VNI West connects 
+with WRL, the WRL segment from Mount Prospect to Bulgana should be uprated from  
+220 kilovolts to 500 kilovolts (the WRL	Uprate), which would enable additional generation 
+capacity in Western Victoria by as early as 2027 and assist to alleviate existing constraints. 
+Based on its analysis as set out in the Options Assessment, at that point in time, AEMO 
+recommended Option 5 as its proposed preferred option (Options Assessment page 4).
+Consultation
+34. Following publication of the Options Assessment, AEMO consulted substantively on the 
+results and received detailed submissions from Traditional Owners, community members 
+and other stakeholders. I have considered that consultation process and the range of views 
+expressed by respondents, as set out in the final draft PACR referred to below. 
+35. Following assessment of submissions to the Options Assessment, AEMO also undertook 
+additional analysis including energy market modelling and land, planning and environmental 
+analysis on variants to Option 5. 
+===== PDF PAGE 13 =====
+Victoria Government Gazette   S 267 27 May 2023 13
+AEMO’s	recommendation	that	the	State	specify	Option	5A
+36. On 3 May 2023, the CEO of AEMO, Mr Daniel Westerman, wrote to my office enclosing a 
+draft PACR for VNI West. 
+37. On 22 May 2023, Mr Westerman wrote to me again, enclosing a final draft of the PACR for 
+VNI West, noting that there were no material amendments from the previous draft. 
+38. AEMO’s correspondence and the accompanying drafts of the PACR recommended a variant 
+or alteration of option 5, known as Option	 5A, to better  facilitate expediting delivery of  
+VNI West. In doing so, AEMO also requested that the State consider making the Order I 
+make today. The draft PACR also refers to the making of this Order to specify Option 5A. 
+39. AEMO’s correspondence to me dated 22 May 2023 states:
+‘In particular, in the final draft for publication, AEMO still considers Option 5A best meets 
+the criteria under the Ministerial Order made on 20 February 2023 to facilitate and expedite 
+delivery of the VNI West project, while delivering approximately $1.4 billion of net market 
+benefits in NPV terms over the assessment period on a scenario-weighted basis.’
+40. I regard AEMO’s letter and the draft versions of the PACR, particularly the final version, 
+as constituting AEMO’s expert opinion and concluded recommendations in relation to VNI 
+West. However, in assessing and having regard to its expert view, I have also had regard to 
+the nature of Option 5A and the alternatives assessed by AEMO.
+41. I note that in reaching its recommended conclusions and proposing to publish the final PACR, 
+AEMO have followed a process analogous to and closely aligned with the standard RIT-T 
+process, but having regard to broader criteria directed to early delivery of the project. AEMO 
+has found that Option 5A offers Victorian consumers significant net economic benefits.
+Option	5A
+42. Option 5A describes a route option from the WRL at Bulgana directly to a terminal station 
+near (directly east of) Kerang. 
+43. Option 5A requires some changes to the WRL, including relocation of the Mount Prospect 
+terminal station site to Bulgana and uprating the WRL from 220 kilovolts to 500 kilovolts 
+from Mount Prospect to Bulgana. AEMO had previously foreshadowed those proposed 
+changes to the WRL, as I have outlined above.
+44. AEMO’s recommendations as set out in the draft PACR in the form that AEMO proposes to 
+publish, subject to the making of this Order, state that Option 5A:
+44.1 is expected to harness the most renewable generation in the Murray River REZ in 
+Victoria, while also increasing the hosting capacity in Western Victoria in south-west 
+New South Wales renewable zones;
+44.2 ranks best or joint best with Option 5 from an environmental, land-use and engineering 
+perspective, consistent with stakeholder feedback received in submissions; and
+44.3 delivers significant net benefits to Victorian consumers of approximately $1.4 billion 
+and is most likely to minimise social and environmental constraints based on AEMO’s 
+MCA and considering the views of stakeholders and communities in Victoria’s north.
+45. AEMO’s comprehensive analysis for the VNI West PACR shows that Option 5A also delivers 
+significant net economic benefits for electricity consumers. The draft PACR demonstrates 
+that additional dispatchable capacity enabled by VNI West, including the WRL Uprate, 
+would exert downward pressure on wholesale electricity prices over time (page 23 of the 
+draft PACR).
+46. AEMO also identifies in the draft PACR a Westerly sensitivity of Option 5A, which runs West 
+of Kerang, within the same area of interest, before crossing into NSW at the same location as 
+the base Option 5A, and which AEMO may explore further to support timely delivery. 
+47. AEMO has consulted with stakeholders, including the State, throughout its assessment 
+process and in developing its recommendation for the preferred option for VNI West. 
+===== PDF PAGE 14 =====
+14 S 267 27 May 2023 Victoria Government Gazette
+48. I accept AEMO’s recommendation that Option 5A (including the potential sensitivity and 
+minor possible changes identified by AEMO) is the option most likely to facilitate expedite 
+delivery of VNI West. I accept AEMO’s recommendations that, in order to maximise the 
+benefits AEMO has identified and modelled, in particular, the chance of expediting the project’s 
+completion, Option 5A should be specified in this Order as the specified augmentation for 
+VNI West.
+49. I also consider, for reasons developed below, that certain other modifications to the NEL and 
+NER are necessary and appropriate to achieve these objectives. 
+THE LEGAL FRAMEWORK
+50. Section 16Y of the Act authorises the Minister to make an Order in relation to specified 
+augmentations of the declared transmission system. Such orders may modify or disapply the 
+application of aspects of the NEL and NER with respect to such specified augmentations, 
+confer powers and functions on AEMO and a range of other matters. 
+51. This provision was inserted into the Act by the National	Electricity	(Victoria)	Amendment	
+Act 2020. The second reading speech to the Bill noted that the power in  section 16Y of the 
+Act would enable the facilitation of urgent transmission projects and expedite or override 
+aspects of the complex national regime. It noted that the power could be used to fast-track 
+or expedite priority transmission projects to support the provision of affordable, clean and 
+reliable electricity to Victorians.
+52. Specifically the second reading speech in relation to the Bill stated as follows in relation to 
+the facilitation of transmission projects:
+The Bill will enable the Minister for Energy, Environment and Climate … to make Orders 
+to facilitate urgent transmission projects, under a new Division 7 of Part 3 of the NEVA. 
+A Ministerial Order will be able to regulate specified augmentations of the declared 
+transmission system, the provision of services in respect of such augmentations, and other 
+services that support the transmission network, including modifying or disapplying relevant 
+provisions of the NEL and NER. 
+For example, an Order may modify or disapply parts of the national regulatory framework 
+that have the potential to delay timely investment in the transmission network, including 
+the regulatory investment test for transmission (RIT-T) and rules relating to contestable 
+procurement for augmentations. The RIT-T can add years to a transmission project, 
+frustrating investment to address Victoria’ s urgent reliability needs. …
+The powers to make Ministerial Orders under the Bill  may be used to fast-track priority 
+transmission projects and network investments to improve the reliability of Victoria’s 
+transmission system . It is important to note that such investments in the transmission 
+system may occur through transmission network infrastructure upgrades or through network 
+support measures which increase the service capability of the transmission network such as a  
+grid-scale battery . The Bill will provide the Victorian Government with the ability to 
+expedite specified priority transmission projects to support the provision of affordable, 
+clean and reliable electricity to Victorians (emphasis added)
+53. I have carefully considered the terms of the provision and the secondary material above when 
+considering whether or not to make this Order. 
+A SUMMARY OF THE EFFECT OF THE ORDER
+54. The purpose of this Order is to enable and facilitate the accelerated augmentation of the 
+Victorian transmission system, by enabling AEMO to publish the VNI West PACR and make 
+certain other consequential or related investigations or steps, including in relation to the WRL 
+Uprate. Without this Order and because of both limitations in the Rules and the existing 
+PACR process for the VNI West project: 
+54.1 AEMO would not publish a PACR confirming Option 5A as its recommended Option; 
+and
+===== PDF PAGE 15 =====
+Victoria Government Gazette   S 267 27 May 2023 15
+54.2 the Rules would require an outcome which would not obtain all of the benefits 
+identified by AEMO under Option 5A, being benefits to the reliability, safety and 
+security of the national electricity system and the declared transmission system, as 
+well as benefits for consumers.
+55. It is important that this Order is made prior to the PACR, to enable the NSW aspects of the 
+project to align with the Victorian aspects, as altered by this Order. 
+56. In summary terms, the Order:
+56.1 specifies VNI West and the augmentation referred to in Schedule 1 of the Order, 
+the latter conforming to Option 5A described in the VNI West PACR, as specified 
+augmentations;
+56.2 specifies WRL and the augmentation described in Schedule 2 of the Order, the latter 
+conforming to the WRL Uprate, as specified augmentations;
+56.3 in relation to VNI West, directs AEMO to publish the PACR for VNI West identifying 
+the augmentation referred to in Schedule 1 of the Order, as the preferred option;
+56.4 In relation to the WRL Uprate, which is defined in Schedule 2 of the Order, confers on 
+AEMO the functions of:
+(a) undertaking the investigation, testing and surveying of land associated with 
+designing the WRL Uprate, and related functions; 
+(b) investigating options for procuring the WRL Uprate including obtaining a 
+detailed breakdown of the associated costs, and related functions; 
+(c) the procurement of long lead time items (subject to further approval of the 
+Minister or Ministerial Order); and
+(d) providing me with report and recommendations as to the options for carrying 
+out the WRL Uprate;
+56.5 provides that AEMO must not vary a WRL Project Document to implement an option 
+other than the preferred option under the WRL PACR, save as expressly authorised 
+under this Order, the 20 February Order or as otherwise approved by the Minister or 
+further Ministerial Order;
+56.6 revokes certain functions conferred on AEMO by the 20 February Order; 
+56.7 disallows or modifies certain provisions of the NEL and the NER in respect of the 
+specified augmentations and provides that nothing done under the Order is a material 
+change in circumstances in respect of the VNI West RIT-T or the WRL RIT-T;
+56.8 provides that a declared transmission system operator must provide information upon 
+request by AEMO; and
+56.9 provides that AEMO’s costs may be recovered in accordance with the existing rules and 
+procedures for transmission charges relating to common transmission service costs.
+CONSULTATION OBLIGATIONS
+57. I have consulted on this proposed Order with the Premier, the Treasurer and AEMO in 
+accordance with section 16ZA of the Act.
+58. On 5 May 2023, AEMO CEO Daniel Westerman wrote to me confirming AEMO’s support 
+for the making of the Ministerial Order, subject to minor drafting changes as discussed with 
+my Department, mainly relating to the description of the projects in the Schedule. AEMO’s 
+position was confirmed in its subsequent letter of 22 May 2023 enclosing the final draft 
+PACR for publication, as referred to above.
+59. Following minor amendments to the Order as agreed with AEMO, further consultation letters 
+were issued to the Premier and the Treasurer on 11 May 2023, attaching a copy of the draft 
+PACR and revised Order. This consultation extended the period of consultation under section 
+16ZA, to provide the Premier and the Treasurer with the benefit of the draft PACR before 
+providing comments on the Order.
+===== PDF PAGE 16 =====
+16 S 267 27 May 2023 Victoria Government Gazette
+REASONS FOR MAKING THE ORDER
+60. I have carefully considered and accept AEMO’s expert opinion in relation to the increasing 
+threats to the reliability, safety and security of the national electricity system, including the 
+DTS in Victoria, posed by the increasing unreliability and closure, scheduled and unscheduled, 
+of thermal coal generators.
+61. I have also carefully considered and accept AEMO’s recommendation that completing VNI 
+West as a matter of urgency and, if practical, accelerating the completion would offer a 
+prudent mitigation against these risks.
+62. I have carefully considered the State’s energy policies and commitments to achieve net zero 
+carbon emissions by 2045.
+63. I have carefully considered the development of REZs in regional parts of the State and 
+renewable energy projects and zones in other parts of the country (including Snowy 2.0) that 
+would be benefited by the early completion of VNI West.
+64. I have carefully considered and accept AEMO’s analysis set out in the draft PACR and agree 
+with AEMO’s recommendation in the draft PACR and Mr Westerman’s letters that Option 
+5A is the best approach to seek to accelerate delivery of VNI West, including the associated 
+changes to WRL. 
+65. I am aware that the WRL is the subject of an environment effects assessment process under 
+the Environment	Effects	Act	1978. Any final decision in relation to the WRL, including in 
+relation to the uprated component of the WRL, will only be made after the completion of that 
+environmental effects assessment process. 
+66. To the extent that this order confers upon AEMO the function to investigate, test and survey 
+land associated with the design of the WRL Uprate, those matters are necessary to inform 
+the environment effects assessment process, and are specifically excluded from the works 
+that are the subject of the requirement to prepare an environment effects statement under the 
+Environment	Effects	Act	1978. The other functions conferred upon AEMO are necessary to 
+facilitate administration and consultation in relation to these matters.
+67. In considering and making this Order, I have also had regard to the terms of section 16Y and 
+related provisions of the Act. 
+68. I am not limited to the matters I can have regard to in making the decision, but have, in any 
+event, also considered each of the matters set out in section 16Z of the Act.
+69. I have also carefully considered the stated purposes of the relevant provisions and the 
+surrounding secondary material concerning the purposes of their inclusion in the Act.  
+That material noted that the power in section 16Y of the Act would enable the facilitation of 
+urgent transmission projects and expedite or override aspects of the complex national regime. 
+It noted that the power could be used to fast-track or expedite priority transmission projects to 
+support the provision of affordable, clean and reliable electricity to Victorians. I consider that 
+the use of the power in section 16Y to seek to accelerate and expedite the specified projects 
+is consistent with both the terms and the intent of these provisions. 
+70. The Order achieves these things in part by modifying and disapplying a number of provisions 
+of the NEL and NER. I have considered the impact of each such modification on both the 
+potential acceleration of VNI West, against a position where those modifications were not 
+made, and the costs and impacts of each of those modifications for network participants, 
+contractors, relevant landholders and consumers. 
+71. In making this Order I have also carefully considered that the Order will modify or disallow 
+certain provisions of the Law and Rules in respect of the specified augmentation. Details of 
+the changes are set out in appendix A. In each instance, I am satisfied that these modifications 
+and conferrals are appropriate and necessary to achieve the purposes of the Order. 
+72. I have also had regard to the other relevant legal, policy and planning frameworks which 
+will apply notwithstanding the making of this Order. The Order does not affect, and could 
+not affect, environmental, planning, land acquisition/compensation or other statutory 
+requirements, rights and interests outside the framework of the Act, the NEL and the NER. 
+===== PDF PAGE 17 =====
+Victoria Government Gazette   S 267 27 May 2023 17
+73. I have also considered the need to keep procurement options open for the State and 
+AEMO, to maximise commercial flexibility and options when considering procurement 
+of the construction phase. The options for procurement will be considered by me in close 
+consultation with AEMO in the months ahead and after completion of AEMO’s conferred 
+functions under this Order (specifically, investigations and enquiries in relation to WRL 
+Uprate options).
+74. The Order includes provisions to enables AEMO to progress the carrying out specified 
+activities in respect of the WRL Uprate, which are near-term activities needed to permit the 
+continuation of existing environmental approval processes for the WRL project. I consider 
+this consistent with the overall purposes of the Order.
+75. AEMO has advised that changes to the WRL enabled via the VNI West preferred option, 
+including relocation of the Mount Prospect terminal station site, would minimise ongoing 
+risks of schedule delays associated with the current WRL project, which may offset the  
+near-term impacts of this Order. I have taken this advice into account. 
+76. AEMO costs in carrying out these activities under the Ministerial Order, including costs 
+associated with delays to WRL as a result of this Order, will be apportioned to customers 
+in accordance with the existing Rules and procedures for transmission charges relating to 
+common transmission service costs. These costs are expected to add a small amount to 
+typical household electricity bills over the 40-year life of the asset, which are expected be 
+significantly outweighed by the savings expected from the downward pressure on wholesale 
+prices from implementation of AEMO’s recommended Option 5A. 
+77. The Order provides that AEMO’s costs of undertaking these functions will be recoverable as 
+a transmission use of service charge. I consider that this is appropriate because:
+77.1 AEMO would not otherwise be able to carry out the functions required or provided to 
+it under this Order; and
+77.2 it is consistent with the existing rules and procedures for transmission charges relating 
+to common transmission service costs.
+78. I have also applied appropriate additional oversight mechanisms for the State through the 
+terms of the Order. The State intends to use its regulatory and contracting powers to continue 
+to provide additional oversight, as appropriate, over the course of the VNI West and WRL 
+projects, including on costs.
+CONCLUSION 
+79. I am satisfied that:
+79.1 the proposed Order relates to the carrying out of an augmentation to the Declared 
+Transmission System;
+79.2 the Order adequately specifies those relevant augmentations; and
+79.3 the making of the Order supports and provides the best opportunity for the State to 
+secure the acceleration or expedition of those augmentations, to support the long term 
+and secure supply of reliable and affordable energy to Victorian consumers.
+80. Having regard to each of:
+80.1 the terms of section 16Y and related provisions in the Act, including each of the 
+matters in section 16Z;
+80.2 the factual matters described in these reasons, as set out above;
+80.3 the AEMO publications and correspondence with AEMO referred to in these reasons;
+80.4 the two versions of the draft PACR provided to me by AEMO;
+80.5 the consultations with the Treasurer and Premier referred to in paragraphs 57 and 59 
+above, pursuant to section 16ZA of the Act;
+80.6 the outcome of the Department’s ongoing consultations with AEMO including in its 
+capacity as A VP;
+===== PDF PAGE 18 =====
+18 S 267 27 May 2023 Victoria Government Gazette
+80.7 each of the modifications and disallowances of provisions of the NEL and NER made 
+by the Order; and 
+80.8 the other matters set out in these reasons,
+I have decided to make this Order to specify Option 5A as a specified augmentation for the purposes 
+of the Act and to further facilitate the expedited delivery of the VNI West transmission project in order 
+to meet a crucial national electricity system need in Victoria and other participating jurisdictions.
+===== PDF PAGE 19 =====
+Victoria Government Gazette   S 267 27 May 2023 19
+APPENDIX A
+Law RULES Modification Subject Reason	for	Modification
+50F(2)  Disallow Augmentations to 
+be subject to cost 
+benefit analysis
+Under this provision AEMO would 
+be required to conduct a cost benefit 
+analysis. This may otherwise conflict 
+with or impede the functions conferred 
+on AEMO under clause 6.1 of the Order.
+50F(3)  Disallow Competitive tender Under this provision, AEMO may have 
+been required to conduct a competitive 
+tender to carry out certain specified 
+functions under the Order. This may 
+have conflicted with the functions 
+conferred on AEMO under the Order. 
+It may also have conflicted with the 
+possibility of the State and AEMO 
+considering various options for 
+procurement and delivery.
+50H  Disallow Resolution of 
+dispute arising from 
+attempt to negotiate 
+a network agreement 
+or augmentation 
+connection 
+agreement
+Both WRL and VNI West have or will 
+have network connection agreements. 
+The effect of this modification is to 
+prevent any dispute between AEMO 
+and a DTSO being referred to the AER. 
+AEMO has requested this modification 
+because it otherwise may have 
+conflicted with the functions conferred 
+on AEMO under the Order.
+  RIT
+ 5.15A Disallow Regulatory 
+investment test for 
+transmission
+Without this modification, VNI West 
+and WRL would remain subject to the 
+RIT-T Rules (including re-opening of 
+the RIT-T after a PACR; or referring a 
+dispute about the outcome of a RIT-T to 
+the AER). 
+That standard approach is inconsistent 
+with the expedited approach taken 
+in this Order and with AEMO 
+having taken account of economic, 
+cultural heritage and social licence 
+considerations that sit outside that 
+normal process.
+This modification maximises the 
+possibility of accelerating delivery and 
+construction of VNI West.
+ 5.16 Disallow Application of 
+RIT-T to RIT-T 
+projects which are 
+not actionable ISP 
+projects
+As above. WRL is not an actionable ISP 
+project.
+===== PDF PAGE 20 =====
+20 S 267 27 May 2023 Victoria Government Gazette
+ 5.16A Disallow Application of the 
+RIT-T to actionable 
+ISP Projects
+As above. VNI West is an actionable 
+ISP project.
+ 5.16B Disallow Disputes in relation 
+to application 
+of regulatory 
+investment test for 
+transmission
+As above.
+  Augmentations
+ 8.11.4 Disallow Planning criteria Under this provision AEMO must 
+publish planning criteria outlined the 
+principles on which AEMO carries 
+out cost benefit analysis of proposed 
+augmentations under section 50 F 
+of the Law. This requirement may 
+conflict with the identification of an 
+option that maximises the possibility of 
+accelerating delivery and construction 
+of VNI West.
+ 8.11.6 Disallow Contestable 
+augmentations
+Under this rule certain augmentations of 
+declared shared networks are required 
+to be contestable. 
+This requirement may conflict with 
+the carrying out of certain specified 
+functions under the Order and the 
+possibility of the State and AEMO 
+considering a broad range of options for 
+procuring delivery.
+Disallowing this provision enables the 
+State and AEMO to progress the most 
+efficient procurement approach and 
+maximise the possibility of accelerating 
+delivery and construction.
+ 8.11.8 Disallow Funded 
+augmentations that 
+are not subject to the 
+tender process
+This clause applies to certain 
+contestable augmentations. It is 
+disallowed for the same reasons set out 
+in re 8.11.6.
+ 8.11.9 Disallow Contractual 
+requirements and 
+principles
+This rule requires network agreement 
+and augmentation connection 
+agreements for contestable 
+augmentations to comply with certain 
+requirements set out in Schedule 8.11. 
+It is disallowed for the same reasons set 
+out in re 8.11.6.
+===== PDF PAGE 21 =====
+Victoria Government Gazette   S 267 27 May 2023 21
+ Schedule
+ 8.11
+Disallow Principles to 
+be reflected in 
+agreements relating 
+to contestable 
+augmentations
+As above.
+HON. LILY D’AMBROSIO  
+Minister for Energy and Resources
+===== PDF PAGE 22 =====
+22 S 267 27 May 2023 Victoria Government Gazette
+This page was left blank intentionally
+===== PDF PAGE 23 =====
+Victoria Government Gazette   S 267 27 May 2023 23
+This page was left blank intentionally
+===== PDF PAGE 24 =====
+24 S 267 27 May 2023 Victoria Government Gazette
+The Victoria Government Gazette  is published 
+by IVE Group Limited with the authority of the 
+Government Printer for the State of Victoria
+ State of Victoria 2023
+This publication is copyright. No part may be 
+reproduced by any process except in accordance 
+with the provisions of the Copyright Act.
+Address all enquiries to the Government Printer 
+for the State of Victoria  
+Level 2, 1 Macarthur Street 
+Melbourne 3002  
+Victoria Australia
+ Retail &  Victoria	Government	Gazette
+ Mail	Sales Ground Floor, Building 8, 
+  658 Church Street,
+  Richmond 3121
+ Telephone (03) 8523 4601
+ email  gazette@ivegroup.com.au 
+Price	Code	B
+ How To Order

@@ -1,0 +1,92 @@
+--- PDF page 1 ---
+[Insert additional footer text here if required]  
+ 
+ 
+1 | TransGrid’s Response to AER Request for Information - HumeLink Manager’s Name 
+TransGrid’s Response to AER Request for Information - HumeLink 
+ 
+Date received: 26 August 2021 
+Date responded 1 September 2021 
+Topic HumeLink (PEC) RIT-T 
+RFI 1.0 
+Questions 
+1. Treatment of route diversity in exploring credible options and determining the preferred option in the PACR. In 
+particular, please provide details on whether alternate route lengths or configurations of the credible options 
+and the preferred option were explored and how this impacts the cost benefit analysis in the PACR.  
+a. In its dispute notice, Wunelli has referred to a ‘high diversity option’ which it alleges was not explored in 
+the Humelink RIT-T PACR despite providing cost savings with reduced possible route lengths. Please 
+confirm whether TransGrid explored a similar credible option in its PACR? If so, please provide details on 
+how it affects the cost benefit analysis in the PACR.  
+The PACR considers various network configurations known as electrical circuits. It considers the capacity, 
+reliability, and cost of each credible option in assessing the net market benefits to identify the top-ranked 
+option.  
+The PACR focuses on seven electrical circuit options, each of which could be delivered via various line route 
+options. The PACR considered different circuit configurations (i.e. 330 kV to 500kV) of the top performing 
+network topologies and operating capacities. This is shown by Figure E.1 of the PACR, replicated below for 
+ease of reference.  
+ 
+
+
+--- PDF page 2 ---
+[Insert additional footer text here if required]  
+ 
+ 
+2 | TransGrid’s Response to AER Request for Information - HumeLink Manager’s Name 
+Our assessment included circuit distance comparisons using consistent data, which identified that topology 
+Option 2C and Option 3C provide significantly higher net benefits than the other options. The technical 
+assessments which contributed to the PACR have identified double circuit as the preferred option for 3C.   
+Specifically, we have investigated: 
+> three variants of the preferred network topology and operating capacity in the PADR and PACR 
+analysis, i.e., Option 3C: 
+– Option 3C, constructed as 100 per cent double-circuit configuration. This is indicatively the 
+shortest comparative route length as two circuits are constructed on one double circuit 
+transmission tower i.e. one line of towers 
+– Option 3C-0, constructed as a 100 percent single-circuit configuration. This is indicatively the 
+longest comparative route length as each circuit is constructed on one single circuit transmission 
+tower i.e. two lines of towers built in parallel, and 
+– Option 3C-1, constructed primarily as a single-circuit configuration but with a 132 km double-
+circuit portion west of Bannaby.  
+> two variants of the second-ranked network topology and operating capacity in the PADR and PACR 
+analysis, i.e., Option 2C: 
+– Option 2C, constructed as 100 per cent double-circuit configuration; this is indicatively the 
+shortest comparative route length as two circuits are constructed on one double circuit 
+transmission tower i.e. one line of towers, and  
+– Option 2C-1, constructed primarily as a single-circuit configuration but with a 132 km double-
+circuit portion west of Bannaby. 
+The approval by the AER of our initial CPA will enable us to undertake the activities to specify the preferred 
+route. This includes community and stakeholder consultation on line route specifics and preparation of an 
+Environmental Impact Statement (EIS) under the NSW planning approval pathway, managed by the 
+Department of Planning, Industry and Environment (DPIE). 
+2. Please provide details on the indicative route assumed for the preferred option and other credible options in 
+the PACR for the purposes of estimating costs, and provide a breakdown of the estimated biodiversity costs 
+associated with the preferred option in the PACR. In particular, please advise whether these cost estimates 
+cover the costs associated with different routes that may be determined in post RIT-T processes.  
+Please see our response to question 1 above for relevant background on development of the preferred option.  
+All circuit options considered in the PACR are based on circuit lengths defined by the required nodal points 
+and provide comparable costs across all options. The estimated biodiversity costs for the preferred option, 3C 
+is $953m. The capital costs used in the PACR are ‘P50’ estimates, i.e. there is equal probability of the cost 
+being above or below these estimates. 
+As noted above, the preferred route will be identified by the actives undertaken as part our initial Contingent 
+Project Application (CPA) including the planning approvals process (specifically EIS).  
+As the Project progresses and the route is defined, the forecast delivery cost will be updated. Should the 
+forecast cost increase above the cost estimate in the PACR, then we will seek AEMO’s feedback loop 
+confirmation that the Project remains on the optimal development path at that cost prior to submitting our final 
+CPA. Our final CPA will include the final forecast delivery cost based on the specified route. 
+3. We understand that the PACR refers to the preferred option as a 500kV double circuit electrical ‘loop’ between 
+Maragle, Bannaby and Wagga Wagga. Please confirm whether the preferred option includes a complete 
+double circuit loop between the three connection points or a combination of double circuit and single circuit 
+sections along the proposed routes.  
+The preferred option 3C includes a complete double circuit configuration between all three substation locations 
+(see diagram below for further details), which represents the shortest comparative route line length and 
+therefore the least cost economically and technically feasible option at this point of the development process. 
+
+--- PDF page 3 ---
+[Insert additional footer text here if required]  
+ 
+ 
+3 | TransGrid’s Response to AER Request for Information - HumeLink Manager’s Name 
+4.                 
+ 
+ 
+ 
+

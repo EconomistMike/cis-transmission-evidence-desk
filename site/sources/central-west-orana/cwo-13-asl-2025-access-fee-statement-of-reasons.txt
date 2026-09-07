@@ -1,0 +1,1254 @@
+
+
+===== PDF PAGE 1 =====
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Month YYYY 
+ 
+ 
+ 
+Subtitle 
+Scope/ purpose e.g. A report for the National 
+Electricity Market 
+ 
+Report Title  
+Statement of Reasons 
+Access Fee Determination for  
+Central-West Orana  
+Renewable Energy Zone 
+Public summary of reasons for the 
+Consumer Trustee’s decision on  
+Access Fees
+May 2025
+
+===== PDF PAGE 2 =====
+
+© AEMO Services 2025  | Statement of Reasons
+2
+Important notice
+Purpose
+AEMO Services Limited, in its capacity as the Consumer Trustee, has published this summary of reasons for its decision 
+to determine the Central-West Orana Renewable Energy Zone Network Access Fees for information purposes only. It is 
+published to outline the approach taken by the Consumer Trustee in reaching its decision, is a summary of that decision 
+and is not intended to be comprehensive. To the maximum extent permitted by law, AEMO Services Limited (including 
+its officers, employees, agents, contractors and consultants) expressly disclaims any and all liability relating to or resulting 
+from the use of, or reliance on, the information in this document by any person or entity.
+Any specific questions should be addressed to stakeholderengagement@aemoservices.com.au
+
+===== PDF PAGE 3 =====
+
+© AEMO Services 2025  |  Statement of Reasons
+3
+Contents
+Summary .................................................................................................................................................................4
+1. Introduction  .....................................................................................................................................................5
+2. The role of the Consumer Trustee ....................................................................................................................6
+3.  Access Fees  ......................................................................................................................................................7
+3.1 Access Fee Determination  ..............................................................................................................................7
+3.2 Access Fee structure and amounts ..................................................................................................................7
+3.3 Variation Events ................................................................................................................................................9
+4. Reasons for Decision ......................................................................................................................................10
+4.1 Long-term financial interests (LTFI) of NSW electricity customers  ................................................................ 10
+4.2 Consistency with the objects of the EII Act  ...................................................................................................11
+4.3 Access Fee principles  ....................................................................................................................................14
+4.4 Community and Employment Purposes ........................................................................................................ 16
+4.5 Advice from the Employment Purpose Advisory Committee (EPAC)  ........................................................... 17
+4.6 NSW Renewable Energy Sector (RES) Board Plan .........................................................................................17
+A1.  Legal requirements for the decision  ..............................................................................................................18
+A2. CWO REZ Access Fee Assumptions  ...............................................................................................................20
+Definitions ............................................................................................................................................................22
+Tables
+Table 1: Access Fees excluding fixed indexation ....................................................................................................8
+Table 2: Variation Events .........................................................................................................................................9
+Table 3: Objects of the EII Act ..............................................................................................................................12
+Table 4: Access Fee Principles ...............................................................................................................................15
+Table 5: Statutory requirements for determining Access Fees..............................................................................18
+Table 6: Assumptions in determining Access Fees ................................................................................................20
+
+===== PDF PAGE 4 =====
+
+© AEMO Services 2025  | Statement of Reasons
+4
+Summary
+AEMO Services Limited (ABN 59 651 198 364) (AEMO Services) as the NSW Consumer Trustee (Consumer Trustee) 
+has made Access Fee Determinations under section 26 of the Electricity Infrastructure Investment Act 2020 (NSW) 
+(EII Act) in relation to Access Right Holders (ARHs) who obtained an access right for the Central-West Orana (CWO) 
+Renewable Energy Zone (REZ),1 following an access right application process conducted by the Energy Corporation of 
+New South Wales (ABN 13 495 767 706) (EnergyCo) in 2024 (Initial Allocation). EnergyCo2 conducted this application 
+process in its capacity as the Infrastructure Planner under the EII Act. The Consumer Trustee’s decisions are set out in 
+the redacted Access Fee Determinations published on AEMO Services’ website.3
+In setting Access Fees,4 the Consumer Trustee is required to act independently and in the long-term financial 
+interests (LTFI) of NSW electricity customers and consistently with the objects of the EII Act. The Consumer Trustee 
+is also required to take into account various other matters prescribed in the EII Act and the Electricity Infrastructure 
+Investment Regulation 2021 (NSW) (EII Regulation). 
+The Consumer Trustee has set Access Fees to incorporate the following components:
+• A contribution to initiatives that achieve community purposes and employment purposes in the CWO REZ, as 
+required by sections 26(2) and (4) of the EII Act (Community & Employment (C&E) Fee).
+• A contribution to the administration costs of the CWO REZ access scheme, consistent with section 26(1)(b) of the 
+EII Act (Administration Fee).
+• A contribution to the costs of constructing and maintaining CWO REZ network infrastructure, consistent with 
+maximising the financial value for NSW electricity customers consistent with section 26(1)(a) of the EII Act (Network 
+Infrastructure Contribution Fee).
+• A contribution to the costs of procuring synchronous condensers to meet system strength demand from ARHs 
+when the CWO REZ network infrastructure is commissioned (Centralised System Strength (CSS) Fee).
+• Recovery of capital expenditure, Infrastructure Planner (IP) fees, financing costs, operation and maintenance costs 
+in relation to the construction of an ARH’s hub-to-project infrastructure (Hub-to-Project Fee or H2P Fee).
+The H2P Fee has been set to reflect the forecast costs of the network infrastructure that are specific to an individual 
+project receiving an access right. The Consumer Trustee has set the CWO REZ Base Fee, comprising the Community 
+and Employment Fee, Administration Fee and Network Infrastructure Contribution Fee, at $4,000/MW p.a., or $1,000/
+MW p.q. The Consumer Trustee considers this appropriately balances maximising financial value for NSW electricity 
+customers5 while promoting the optimal use of the existing and planned network infrastructure in the REZ.6
+This document summarises the reasons for the Consumer Trustee’s determination of Access Fees for the Initial 
+Allocation of access rights in CWO REZ, including explaining how the Consumer Trustee has applied the requirements 
+of the EII Act and EII Regulation. It is provided to help stakeholders understand the approach taken by the Consumer 
+Trustee in determining Access Fees. It does not form part of any Access Fee Determination. Table 6 provides full 
+details of the assumptions used in determining Access Fees.
+1	 Defined	in	the	Renewable	Energy	Zone	(CWO)	Access	Scheme	Order	2022	and	Renewable	Energy	Zone	(CWO)	Access	Scheme	(Amendment)	Order	2024.
+2	 All	references	to	EnergyCo	for	the	purpose	of	this	document	are	in	its	capacity	as	the	Infrastructure	Planner	under	the	EII	Act.
+3 https://aemoservices.com.au/products/central-west-orana
+4	 CWO	REZ	Access	Fees	are	to	be	payable	quarterly,	in	advance,	as	specified	in	the	CWO	REZ	Determination.
+5	 Consistent	with	section	26(1)(a)	of	the	EII	Act.
+6	 Consistent	with	section	26(1)(c)	of	the	EII	Act.
+
+===== PDF PAGE 5 =====
+
+© AEMO Services 2025  |  Statement of Reasons
+5
+1. Introduction
+The EII Act creates a framework for the implementation of the NSW Government’s Electricity Infrastructure Roadmap 
+(Roadmap). The Roadmap sets out the plan for the creation of REZs within NSW. REZs support renewable energy 
+generation and storage in locations where electricity can be efficiently transmitted and stored across NSW. 
+AEMO Services is appointed as the Consumer Trustee under the EII Act7 and is responsible for setting Access Fees 
+under section 26(1) of the EII Act. The Consumer Trustee sets Access Fees under an Access Fee Determination. 
+The CWO REZ access scheme was formally declared by the Minister for Energy under section 24(1) of the EII Act on 
+19 December 2022 and published in the NSW Government Gazette on 23 December 2022.8 The CWO REZ access 
+scheme was subsequently amended by the Minister by publication in the NSW Government Gazette on 5 April 2024. 
+Under the CWO REZ access scheme, an access right authorises an ARH to apply to connect an approved project to 
+the access rights network and send out generation to the access rights network up to its allocated maximum capacity. 
+An access right is allocated per connection point of an approved project.
+On 22 January 2024, a market information notice was published to inform stakeholders that EnergyCo would 
+administer an expedited application process to allocate the initial tranche of access rights for generation and storage 
+projects seeking access to the new CWO REZ access rights network. EnergyCo opened the application process for the 
+initial tranche of access rights in April 2024.
+At the same time, AEMO Services as the Consumer Trustee published a series of documents to assist projects seeking 
+access rights to understand the proposed Access Fee Determination process. These documents included a draft 
+Access Fee Calculator, a draft Access Fee Determination and an Access Fee Guideline. The Access Fee Guideline 
+outlined how the Access Fee for CWO REZ is expected to be structured and its components, the calculation of fees 
+under the draft Access Fee Determination using the draft Access Fee Calculator and how Access Fees are expected 
+to be determined and adjusted. Since the publication of those documents, the Consumer Trustee has adopted a 
+more suitable and streamlined approach to Access Fees and as a result, the draft Access Fee Calculator is no longer 
+required.
+The Consumer Trustee has now made Access Fee Determinations for CWO REZ. The Access Fee Determinations are 
+statutory decisions by the Consumer Trustee. 
+7	 Section	60(1)	of	the	EII	Act.
+8	 Renewable	Energy	Zone	(Central-West	Orana)	Access	Scheme	Order	2022	and	Renewable	Energy	Zone	(REZ)	(Central-West	Orana)	Access	Scheme	(Amendment)	
+Order	2024	under	the	Electricity Infrastructure Investment Act 2020	(NSW).
+
+===== PDF PAGE 6 =====
+
+© AEMO Services 2025  | Statement of Reasons
+6
+2. The role of the Consumer Trustee
+The Consumer Trustee has a function under section 26 of the EII Act to determine the fees payable to the Scheme 
+Financial Vehicle (SFV) by participants in an access scheme. 
+When exercising its functions under the EII Act, the Consumer Trustee is to act independently and in the LTFI of 
+NSW electricity customers.9 The Consumer Trustee must also exercise its functions in a way that is consistent with the 
+objects set out in section 3 of the EII Act.10 
+When exercising its Access Fee functions, the Consumer Trustee must also take into account the following principles:
+• Maximising financial value for NSW electricity customers. 
+• Recovering the cost of the operation of the access scheme. 
+• Optimal use of the existing and planned network infrastructure in the REZ.
+• Other principles prescribed by the regulations including the EII Regulation that prescribes the principle of 
+transparency in total determined or expected fees payable under the access scheme for participants.11 
+The fees determined by the Consumer Trustee must include a component that is to be used for a community 
+purpose, as well as a component to be used for an employment purpose, as prescribed by the EII Regulation.12 
+Further, in setting these components, the Consumer Trustee is to seek advice from the Employment Purpose Advisory 
+Committee (EPAC) and to consider the Renewable Energy Sector (RES) Board Plan.13 
+9	 Section	60(3)	of	the	EII	Act.
+10	 Section	3(3)	of	the	EII	Act.
+11	 Section	26(1)	of	the	EII	Act	and	clause	55A	of	the	EII	Regulation.
+12	 Sections	26(2)	and	(4)	of	the	EII	Act.
+13	 Section	9(1)	of	the	EII	Act.	
+
+===== PDF PAGE 7 =====
+
+© AEMO Services 2025  |  Statement of Reasons
+7
+3.  Access Fees
+3.1 Access Fee Determination 
+The CWO REZ Access Fees have been set for each point of connection for each project connecting to the CWO REZ 
+access rights network as part of the Initial Allocation. This approach enables the recovery of the costs of the network 
+infrastructure that are specific to individual ARHs – specifically, the costs of the H2P assets. Accordingly, an Access 
+Fee Determination has been prepared for each point of connection for each ARH. Each Access Fee Determination 
+contains an Access Fee formula and an annexure setting out the fee components to calculate the quarterly Access 
+Fees payable by ARHs to the SFV for connecting into the CWO REZ access rights network. The Access Fee 
+Determinations also outline the circumstances under which Access Fees may be varied (the specified Variation 
+Events), and the mechanism and process through which Access Fees may be adjusted. 
+3.2 Access Fee structure and amounts
+Table 1 sets out the Access Fee components and summarises the purpose, quantum and methodology for each 
+component, as well as how each fee component is proposed to be varied. Further details are provided in Table 6. The 
+Access Fee payable will be calculated by the SFV in accordance with a formula contained in Annexure 1 of the Access 
+Fee Determination. This is reproduced below:
+Access FeeQ=(((C&E FeeQ+ Non C&E FeeQ + CSS FeeQ ) x Maximum Capacity) + H2P FeeQ ) x Fixed Indexation
+
+===== PDF PAGE 8 =====
+
+© AEMO Services 2025  | Statement of Reasons
+8
+ Table 1: Access Fees excluding fixed indexation
+Fee 
+component
+Fee sub-
+components
+Fee purpose Fee 
+quantum
+Fee methodology Variation Events under the 
+Determination
+Base Fee – 
+Community 
+and 
+Employment 
+(C&E) Fee
+Community Fee Contributes to initiatives that 
+achieve community purposes, as 
+required by s26(2) of the EII Act
+$425 / MW 
+per quarter
+Fees were set to the minimum amount in clause 56(2)(a)(i) of the EII 
+Regulation. 
+N/A
+Employment Fee Contributes to initiatives that 
+achieve employment purposes, as 
+required by s26(4) of the EII Act
+$150 / MW 
+per quarter
+Fees were set to the minimum amount in clause 57(2)(a)(i) of the EII 
+Regulation and based on advice sought from EPAC.
+N/A
+Base Fee – 
+Non-C&E Fee
+Administration 
+Fee
+Contributes to the administration 
+costs of the CWO REZ access 
+scheme, consistent with s26(1)(b) of 
+the EII Act
+$125 / MW 
+per quarter
+Fees were set to reflect the forecast administration costs of CWO 
+REZ, as provided by EnergyCo in March 2023.
+N/A
+Network 
+Infrastructure 
+Contribution Fee
+Contributes to the cost of 
+constructing and maintaining the 
+CWO REZ transmission network, 
+consistent with s26(1)(a) of the EII 
+Act
+$300 / MW 
+per quarter
+Fees were set to reflect an amount that would balance maximising 
+financial value for NSW electricity customers consistent with s26(1)(a) 
+while promoting the optimal use of the existing and planned network 
+infrastructure in the REZ and s26(1)(c) of the EII Act. This was based 
+in part on modelling on the expected value of participating in a REZ 
+i.e. the value of a CWO REZ access right.
+N/A
+Centralised 
+System 
+Strength 
+(CSS) Fee
+Contributes to the costs of procuring 
+synchronous condensers to meet 
+system strength demand from 
+ARHs when the CWO REZ network 
+infrastructure is commissioned, 
+consistent with s26(1)(b) and (c) of 
+the EII Act
+$3,090.84 
+/ MW per 
+quarter
+Fees were set to reflect the actual CSS costs, as provided by 
+EnergyCo on 11 November 2024, and assessed by the Consumer 
+Trustee. These costs reflect the outcome of a competitive 
+procurement process conducted by the authorised Network 
+Operator (ACEREZ Partnership) to obtain synchronous condensers. 
+The CSS Fee includes a component for capex, operation and 
+maintenance costs (O&M) (1.00%), financing cost of 15.35% of total 
+CSS capex, as well as amortisation of CSS costs over the period of 
+the access scheme. The residual costs of CSS are included in the 
+terminal value calculations for the Network Operator at the end of 
+the access scheme. The costs reflected are those that have been 
+provided to the AER as part of ACEREZ’s Revenue Proposal.
+Fees may be decreased under 
+a CSS Fee reduction event. This 
+may only occur before the Access 
+Fee Payment Date in accordance 
+with the relevant access right 
+agreement.
+Hub-to-
+Project (H2P) 
+Fee
+Reflects recovery of capital 
+expenditure, IP fees, financing 
+costs and O&M in relation to the 
+construction of an ARH’s H2P 
+infrastructure, consistent with s26(1)
+(b) and (c) of the EII Act
+Fees are 
+specific to 
+each ARH 
+and vary 
+from $0.40m 
+per quarter 
+to $1.52m 
+per quarter
+Fees were set to reflect the actual H2P costs for each project, as 
+provided by EnergyCo on 11 November 2024, and assessed by 
+the Consumer Trustee. These include a component for capex, 
+operation and maintenance costs (O&M) (1.00%) and Infrastructure 
+Planner fees, financing cost of 18.00% of total H2P capex, as well as 
+amortisation of H2P costs over the Payment Term. The residual costs 
+of H2P are included in the terminal value calculations for the Network 
+Operator at the end of the access scheme. The costs reflected are 
+those that have been provided to the AER as part of ACEREZ’s 
+Revenue Proposal.
+Fees will be decreased or 
+increased by an H2P Scope 
+Change or may be decreased 
+under an H2P Asset Sharing 
+Event. This may only occur before 
+the Access Fee Payment Date 
+in accordance with the relevant 
+access right agreement.
+
+===== PDF PAGE 9 =====
+
+© AEMO Services 2025  |  Statement of Reasons
+9
+3.3 Variation Events
+The table below outlines the Variation Events included in the Access Fee Determination. Section 2.4 of the Access 
+Fee Determination specifies the information that the Consumer Trustee will require to vary Access Fees. This section 
+is supported by obligations under the Access PDA which requires either the ARH or the Infrastructure Planner to 
+notify the Consumer Trustee should a Variation Event occur. A Variation Event can only occur before the Access Fee 
+Payment Date. After this date, the only value in the formula referred to in section 3.2 that may change is the maximum 
+capacity as recorded in the Access Rights Register. This change occurs when the ARH’s maximum capacity is varied in 
+accordance with the Access PDA.
+Table 2: Variation Events 
+Variation Events Description
+H2P Scope Change
+An H2P Scope Change occurs if the Infrastructure Planner approves a 
+change to project characteristics or key project equipment proposed by the 
+ARH in accordance with the Access PDA, which results in a change to the 
+Total H2P Capex. 
+H2P Asset Sharing Event
+An H2P Asset Sharing Event occurs if an additional party with an access right 
+will use the same H2P Asset as the ARH and has provided the security for the 
+H2P Assets in accordance with that additional party’s Access Payment Deed, 
+which results in a change to the Total H2P Capex.
+CSS Fee Reduction Event
+A CSS Fee Reduction Event occurs if a hybrid project meets the tests 
+specified in the CSS Fee Reduction Methodology and is designed to reduce 
+the CSS Fee in circumstances where a hybrid project has less reliance 
+on centralised system strength due to the performance of its battery, 
+as referenced in CSS Fee Reduction Methodology Paper.14 A CSS Fee 
+Reduction Event may only decrease the CSS fee by a maximum of 45%. 
+The CSS Fee is reduced via the application of a formula in the Access Fee 
+Determination.
+ 
+14	 This	is	a	paper	prepared	by	EnergyCo	and	independently	reviewed	by	a	consultant	(Digsilent)	and	is	available	here.	The	CSS	Fee	Reduction	Methodology	is	also	
+included	in	the	Access	PDA.
+
+===== PDF PAGE 10 =====
+
+© AEMO Services 2025  | Statement of Reasons
+10
+4. Reasons for Decision
+This section sets out how the CWO REZ Access Fees meet the statutory legal requirements for the exercise of the 
+Consumer Trustee’s functions under section 26 of the EII Act. 
+4.1	 Long-term	financial	interests	(LTFI)	of	NSW	electricity	customers	
+In exercising its functions under the EII Act, the Consumer Trustee is required to act independently and in the LTFI 
+of NSW electricity customers.15 In assessing whether the decision to set CWO REZ Access Fees is in the LTFI of NSW 
+electricity customers, the Consumer Trustee considered whether the financial benefits to NSW electricity customers 
+from the decision to set the level of CWO REZ Access Fees outweigh the financial costs to NSW electricity customers. 
+NSW electricity customers do not incur any direct costs as a result of the Consumer Trustee’s CWO REZ Access Fee 
+Determination decision.
+The broader costs of implementing the Roadmap - for example, the costs of REZ network infrastructure projects, priority 
+transmission infrastructure projects and Long-Term Energy Service Agreements (LTESAs) - are recovered from the SFV 
+and ultimately funded by NSW electricity customers through their retail bills. Costs incurred by Roadmap bodies in 
+performing their functions may also be recovered from the SFV and NSW electricity customers if provided for in the EII 
+Regulation.16 However, these broader Roadmap costs are expected to be offset by the reduction in wholesale market 
+prices arising from the introduction of more renewables into the grid, which will put downward pressure on retail bills. 
+Further, for the Initial Allocation of access rights, EnergyCo has developed a centralised procurement model for H2P 
+and CSS on the CWO REZ access rights network. This means this infrastructure will be procured and delivered by the 
+Network Operator for projects connecting into the access rights network, the costs of which will be recovered from ARHs 
+as part of the Initial Allocation. 
+A key feature of the Access Fee structure for the CWO REZ is that the expected costs to consumers associated with H2P 
+and CSS assets will be recovered from ARHs rather than NSW electricity customers.
+In setting the level of Access Fees, the Consumer Trustee has had regard to the ability to use Access Fees to reduce 
+NSW electricity customer contributions to the costs of the Roadmap, balanced with the need to encourage investment in 
+new renewable generation, thereby reducing pressure on wholesale prices for customers.
+The Consumer Trustee considered the risk that if Access Fees are set too high, ARHs may choose not to connect, or may 
+seek to connect elsewhere rather than in CWO REZ. The Consumer Trustee also considered the possibility that ARHs 
+may seek to pass on the costs associated with the higher Access Fees to NSW electricity customers (through LTESA 
+costs, wholesale contracts markets and/or spot market bids). The Consumer Trustee assessed the consequences of lower 
+than anticipated participation in the access scheme and the potential risks to investment in new infrastructure, and to 
+affordable, reliable and secure electricity supply. The Consumer Trustee notes that the risk of the passing-on of higher 
+costs by ARHs creates risks to affordability and risks the achievement of the objects of the EII Act. The Consumer Trustee 
+also acknowledges the risk that if Access Fees are set too low, NSW electricity customers face risks to affordability 
+because they will bear a greater share of the costs associated with the Roadmap.
+As such, the Consumer Trustee has ensured that the overall fee amount is set with reference to the estimated access 
+premium that ARHs would be willing to pay for the benefits of connecting under the CWO REZ access scheme. The 
+Consumer Trustee has based its analysis of access premiums for the CWO REZ on the expected value to ARHs of 
+connecting to the REZ and receiving increased certainty of congestion outcomes in exchange for an Access Fee. 
+15	 Section	60(3)	of	the	EII	Act.
+16	 Section	66(4)	of	the	EII	Act.
+
+===== PDF PAGE 11 =====
+
+© AEMO Services 2025  |  Statement of Reasons
+11
+The Consumer Trustee has also considered the extent to which Access Fees should be used to reduce contributions 
+by NSW electricity customers to the costs of the Roadmap, which would represent a direct financial benefit to these 
+customers. Based on that assessment, the Consumer Trustee has determined that the CWO REZ Access Fees should 
+incorporate a contribution to the costs of the Roadmap (and in particular, the CWO REZ network infrastructure project), 
+consistent with the Consumer Trustee’s role in acting in the LTFI of NSW electricity customers and the principle of 
+maximising the financial value for NSW electricity customers as referenced in section 26(1)(a) of the EII Act (Network 
+Infrastructure Contribution Fee).
+This component has been set at a level that, the Consumer Trustee considers, reflects the benefits to ARHs of connecting 
+into the CWO REZ access rights network, but not at a level that is so high as to deter investment by renewable 
+generators in the CWO REZ, thereby supporting the financial sustainability and affordability of the Roadmap. As a result 
+of the Network Infrastructure Contribution Fee, the Consumer Trustee considers that the financial benefits to NSW 
+electricity customers of its decision to set the CWO REZ Access Fees outweigh the financial costs to NSW electricity 
+customers over the long-term.
+4.2	 Consistency	with	the	objects	of	the	EII	Act	
+The EII Act has a variety of objects which relate to electricity supply, the delivery of new electricity infrastructure and 
+broader socio-economic objectives. The Consumer Trustee must exercise its functions in a way that is consistent with the 
+objects of the EII Act, as shown in Table 3.17
+The Consumer Trustee considered and assessed the objects in determining the CWO REZ Access Fees by:
+• Preparing quantitative estimates of the benefits to ARHs from participating in an access scheme and comparison 
+with counterfactuals (i.e. costs and benefits of connecting to a network not covered by an access scheme).
+• Consulting with potential ARHs on the fee components and amounts to promote ARH interest and take-up of 
+access rights, and to encourage generation, storage and network technology.
+• Consulting with EnergyCo on the fee components and amounts.
+• Consulting with the Consumer Reference Group18 on setting Access Fees and informing them of the fee 
+components and amounts for CWO REZ, including how the Consumer Trustee proposed to take into account 
+affordability considerations.
+• Seeking advice from EPAC and incorporation of its feedback into the determination of the Employment Fee.
+• Considering the RES Board Plan, which informed the determination of the C&E Fee.
+• Considering how the C&E Fee will enable EnergyCo to undertake activities in accordance with the objects.
+17	 Section	3(3)	of	the	EII	Act.
+18	 The	Consumer	Reference	Group	established	under	the	NSW	Electricity	Infrastructure	Roadmap	which	includes	representatives	from	the	Public	Interest	Advocacy	
+Centre,	Energy	Consumers	Australia,	Energy	Users	Association	of	Australia	and	Business	NSW.
+
+===== PDF PAGE 12 =====
+
+© AEMO Services 2025  | Statement of Reasons
+12
+Table 3: Objects of the EII Act 
+# Objects of the EII Act How this object has been reflected in the Access Fees
+A
+To improve the 
+affordability, 
+reliability, security 
+and sustainability of 
+electricity supply
+This object has been reflected in the Access Fee components, including their 
+methodologies and quantum, and Variation Events, as follows:
+–  Access Fees have been structured to include CSS, H2P and administration costs 
+as well as a Network Infrastructure Contribution Fee, reflecting feedback from 
+consumer groups on affordability.
+B
+To co-ordinate 
+investment in new 
+generation, storage, 
+network and related 
+infrastructure
+This object has been reflected in the Access Fee components, including their 
+methodologies and quantum, and Variation Events, as follows:
+–  Feedback from potential ARHs and EnergyCo on Access Fee structure, quantum 
+and proposed Variation Events. 
+–  Quantitative estimates of the benefits to ARHs from participating in a REZ and 
+comparison with counterfactuals (i.e. costs and benefits of connecting outside a 
+REZ) to inform the Access Fee quantum.
+–   Consultation with the Consumer Reference Group and incorporation of feedback 
+into fee design.
+–  Setting the C&E Fee consistent with the minimum amount to ensure that 
+communities receive benefits from the CWO REZ access scheme.
+–  The C&E Fee was set having regard to the RES Board Plan and following 
+consultation with EnergyCo and on advice from EPAC.
+C
+To encourage investment 
+in new generation, 
+storage, network and 
+related infrastructure 
+by reducing risk for 
+investors
+This object has been reflected in the structure, methodology, quantum for Access 
+Fees as well as their Variation Events as follows:
+–  Feedback from potential ARHs and EnergyCo on Access Fee structure, quantum 
+and proposed Variation Events. 
+–  Quantitative estimates of the benefits to ARHs from participating in a REZ and 
+comparison with counterfactuals (i.e. costs and benefits of connecting outside a 
+REZ) to inform the Access Fee quantum.
+–  Seeking advice from EPAC and incorporation of feedback into the Employment 
+Fee.
+–  Consultation with the Consumer Reference Group and incorporation of feedback 
+into fee design.
+–  Setting the C&E Fee consistent with the minimum amount to ensure that 
+communities receive benefits from the CWO REZ access scheme.
+D
+To foster local 
+community support 
+for investment in new 
+generation, storage, 
+network and related 
+infrastructure
+This object has been reflected in the Access Fee components, including their 
+methodologies and quantum, and Variation Events as follows:
+–   The setting of the C&E Fee enables EnergyCo to use this fee’s component funds 
+to achieve this object.
+–  The C&E Fee was set having regard to the RES Board Plan and following 
+consultation with EnergyCo and seeking advice from EPAC.
+–  This object was also achieved through consultation with the Consumer Reference 
+Group, ARHs and the NSW Department of Climate Change, Energy, the 
+Environment and Water (DCCEEW) on the fee components and amounts, and 
+Variation Events.
+E
+To support economic 
+development and 
+manufacturing
+This object has been reflected in the Access Fee components, including their 
+methodologies and quantum, and Variation Events as follows:
+–  The setting of the C&E Fee enables EnergyCo to use this fee’s component funds 
+to achieve this object.
+–  The C&E Fee was set having regard to the RES Board Plan and following 
+consultation with EnergyCo and advice from EPAC.
+–  This object was also achieved through consultation with the Consumer Reference 
+Group, ARHs and DCCEEW on the fee components and amounts, and Variation 
+Events.
+
+===== PDF PAGE 13 =====
+
+© AEMO Services 2025  |  Statement of Reasons
+13
+# Objects of the EII Act How this object has been reflected in the Access Fees
+F
+To create employment, 
+including employment 
+for Aboriginal and Torres 
+Strait Islander people
+–   The C&E Fee includes an amount which would enable EnergyCo to undertake 
+this object. 
+–  Advice has been sought from EPAC and consultation has been undertaken with 
+the Consumer Reference Group, EnergyCo and DCCEEW. 
+– The C&E Fee was set having regard to the RES Board Plan.
+G To invest in education 
+and training
+–  The C&E Fee includes an amount which would enable EnergyCo to undertake 
+this object. 
+–  Advice has been sought from EPAC and consultation has been undertaken with 
+the Consumer Reference Group, EnergyCo and DCCEEW.
+– The C&E Fee was set having regard to the RES Board Plan.
+H
+To promote local 
+industry, manufacturing 
+and jobs
+–  The C&E Fee includes an amount which would enable EnergyCo to undertake 
+this object.
+–  Advice has been sought from EPAC and consultation has been undertaken with 
+the Consumer Reference Group, EnergyCo and DCCEEW. 
+– The C&E Fee was set having regard to the RES Board Plan.
+I
+To promote export 
+opportunities for 
+generation, storage and 
+network technology
+This object has been reflected in the structure, methodology, quantum and 
+Variation Events for Access Fees as follows:
+–  Feedback from potential ARHs and EnergyCo on Access Fee structure, quantum 
+and proposed Variation Events to promote ARH interest and take-up of access 
+rights and to encourage generation, storage and network technology.
+–  Quantitative estimates of the benefits to ARHs from participating in a REZ and 
+comparison with counterfactuals (i.e. costs and benefits of connecting outside a 
+REZ) to inform the quantum of the Access Fee.
+Additional objects of Parts 4 to 6 of the EII Act
+A
+To increase employment 
+and income 
+opportunities for 
+Aboriginal and Torres 
+Strait Islander people in 
+NSW
+–  The C&E Fee includes an amount which would enable EnergyCo to undertake 
+this object.
+–  Advice has been sought from EPAC and consultation has been undertaken with 
+the Consumer Reference Group, EnergyCo and DCCEEW.
+– The C&E Fee was set having regard to the RES Board Plan.
+B
+To promote consultation 
+and negotiation with the 
+traditional Aboriginal 
+owners of land on which 
+generation, storage and 
+network infrastructure 
+is proposed to be 
+constructed or operated 
+under the EII Act
+–  The C&E Fee includes an amount which would enable EnergyCo to undertake 
+this object. 
+–  Advice has been sought from EPAC and consultation has been undertaken with 
+the Consumer Reference Group, EnergyCo and DCCEEW. 
+– The C&E Fee was set having regard to the RES Board Plan.
+ 
+
+===== PDF PAGE 14 =====
+
+© AEMO Services 2025  | Statement of Reasons
+14
+Having considered the matters set out above, the Consumer Trustee has identified that the main risks to the 
+achievement of the objects of the EII Act relate to Access Fees not achieving the right balance between:
+• maximising ARHs’ contribution to the costs of the access scheme, CWO REZ network infrastructure and community 
+and employment benefit sharing, and
+• maximising participation in the CWO REZ to improve affordability, reliability, security, employment and economic 
+development. 
+These risks have been considered as part of the LTFI of NSW electricity customers assessment above and the 
+Consumer Trustee’s consideration of the appropriate level of the C&E component of the Access Fees.
+The Consumer Trustee considers that these issues have been appropriately considered and balanced in a way that 
+means the Access Fee Determinations for the CWO REZ are consistent with the objects of the EII Act.
+4.3 Access Fee principles 
+The Consumer Trustee must take into account the principles outlined in section 26(1) of the EII Act when determining 
+Access Fees. Table 4 provides an overview of how the Consumer Trustee has applied these principles in the Access 
+Fee structure, methodology, quantum and Variation Events (excluding for Community & Employment Fees which are 
+covered separately in section 4.4). 
+
+===== PDF PAGE 15 =====
+
+© AEMO Services 2025  |  Statement of Reasons
+15
+Table 4: Access Fee Principles 
+# Principles How these have been applied for the CWO REZ Access Fees
+1
+Maximising financial 
+value for NSW electricity 
+customers
+–  Access Fees are structured to include the direct costs of the CWO REZ access 
+scheme (H2P , CSS and administration fees).
+–  The Access Fee methodology takes into account direct cost inputs from 
+EnergyCo which are then reviewed by the Consumer Trustee.
+–  Access Fee components include cost contributions for C&E purposes as well as a 
+Network Infrastructure Contribution Fee.
+–  Access Fees are set at a level which balances affordability with risk that ARHs will 
+not connect to CWO REZ access rights network if Access Fees are set too high.
+–  Variation Events minimise NSW electricity customer exposure to changes in input 
+costs and provide certainty to ARHs of their Access Fees and the allocation of 
+costs between ARHs and NSW electricity customers. 
+2
+Recovering the cost of 
+the operation of the 
+access scheme 
+–  Access Fees are structured to include the direct costs of the CWO REZ access 
+scheme (H2P , CSS and administration fees).
+–  The Access Fee methodology takes into account direct cost inputs from 
+EnergyCo to ensure cost-reflectivity.
+3
+Optimal use of the 
+existing and planned 
+network infrastructure in 
+the REZ
+–  Access Fees are set at a level that seeks to encourage participation in CWO REZ 
+while nonetheless recovering contributions to the costs of the operation of the 
+access scheme and the costs of the CWO REZ network infrastructure.
+–  The Consumer Trustee’s analysis on the Access Fee level includes the following:
+ •  Comparison to the National Electricity Rules (NER) open access regime to 
+identify the key benefits to proponents under the access scheme. 
+ •  Conducting a cost benchmarking exercise to evaluate the potential access 
+premium that ARHs may need to pay to connect to the CWO REZ access rights 
+network based on a comparison of proposed Access Fees and the expected 
+costs of connecting outside of the CWO REZ under the NER. 
+ •  Undertaking a Weighted Average Cost of Capital (WACC) equivalent valuation 
+of the access premium to assess whether benefits received from connecting to 
+the CWO REZ access rights network and participating in the access scheme are 
+likely to outweigh the access premium calculations. 
+4
+Other principles 
+prescribed by the 
+regulations: Transparency 
+in total determined or 
+expected fees payable 
+under the access scheme 
+for participants is 
+prescribed by clause 55A 
+of the EII Regulation.
+–  The Access Fee components, including their methodologies and quantum, were 
+consulted upon with proposed ARHs and the Consumer Reference Group as well 
+as with EnergyCo and DCCEEW.
+–  A draft Access Fee Determination template and a guideline were also released 
+for consultation.
+–  A simplified Access Fee Determination template was introduced following 
+consultation to improve the transparency of Access Fees ensuring NSW 
+electricity customers and ARHs have greater clarity on the fee structure and 
+components.
+
+===== PDF PAGE 16 =====
+
+© AEMO Services 2025  | Statement of Reasons
+16
+4.4 Community and Employment Purposes 
+The Consumer Trustee must ensure Access Fees include a component that is to be used for employment purposes 
+and a component that is used for community purposes.19 The matters that are included within the scope of each of 
+these purposes are set out in the EII Regulation.20
+The EII Regulation specifies a minimum annual amount or percentage of an Access Fee that must go towards 
+community and employment purposes.
+The minimum amount for community purposes is:21
+• if the participant’s annual Access Fee is $2,600 per megawatt or more: $1,700 per megawatt, or
+• otherwise: 60%.
+The minimum amount for employment purposes is:22
+• if the participant’s annual Access Fee is $2,600 per megawatt or more: $600 per megawatt, or
+• otherwise: 20%.
+The EII Regulation specifies that there is no maximum amount for each component during the term of the access 
+scheme.23
+When setting the C&E component of the Base Fee, there is a trade-off between the objects of the EII Act:
+• Setting this component at a lower amount promotes the affordability object and, by extension, may promote the 
+object related to fostering local community support for investment in new generation, storage, network and related 
+infrastructure. It may also promote the object to encourage investment in new generation, storage, network and 
+related infrastructure by reducing risk for investors.
+• Setting this component at a higher amount may promote objects related to employment; education and training; 
+local industry, manufacturing and jobs; and employment and income opportunities for Aboriginal and Torres Strait 
+Islander people in NSW. However, if the component is set so high that it discourages participation in the access 
+scheme then it may undermine these objects. 
+When setting the C&E Fee component, the Consumer Trustee:
+• Sought the advice of EPAC (see section 4.5).
+• Considered the recommendations of the RES Board Plan as discussed in section 4.6 below.
+• Consulted with the Consumer Reference Group established under the Roadmap which included representatives 
+from the Public Interest Advocacy Centre, Energy Consumers Australia, Energy Users Association of Australia and 
+Business NSW.
+• Had regard to the NSW Renewable Energy Planning Framework, including the benefit-sharing rates that renewable 
+energy projects are expected to use when determining the total funding value for community benefits for their 
+projects.
+This informed the Consumer Trustee’s assessment that the Access Fees are consistent with the objects related to 
+fostering local community support; employment; economic development and manufacturing; investing in education 
+and training; local industry, manufacturing and jobs; export opportunities for generation, storage and network 
+technology. The C&E Fee has been set consistent with the amounts prescribed in the EII Regulation for community 
+and employment purposes, noting that the Access Fee Determination reflects the quarterly value of this amount. 
+This minimises risks to affordability to NSW electricity customers and will help to achieve social licence and local 
+community support.
+19	 Section	26	of	the	EII	Act.
+20	 Clauses	56(1)	and	57(1)	of	the	EII	Regulation.
+21	 Clause	56(2)(a)	of	the	EII	Regulation.
+22	 Clause	57(2)(a)	of	the	EII	Regulation.
+23	 Clauses	56(2)(b)	and	57(2)(b)	of	the	EII	Regulation.
+
+===== PDF PAGE 17 =====
+
+© AEMO Services 2025  |  Statement of Reasons
+17
+4.5	 Advice	from	the	Employment	Purpose	Advisory	Committee	(EPAC)	
+The Consumer Trustee must seek the advice of EPAC on the component of Access Fees allocated for employment 
+purposes.24
+On 16 November 2022, EPAC wrote to AEMO Services confirming that AEMO Services as the Consumer Trustee 
+had sought EPAC’s advice when determining the employment purpose component. EPAC also confirmed that it is 
+satisfied that AEMO Services’ proposed employment purpose component of $600 per megawatt per annum is at 
+an appropriate level for CWO REZ. EPAC considered this will deliver significant employment benefits both for the 
+renewable energy sector in the CWO REZ and its broader economy. In providing this advice, EPAC stated that it 
+considered: 
+• employment needs in the region;
+• how the changes in electricity generation in the State will impact employees of the region; 
+• opportunities presented by the CWO REZ; and
+• potential initiatives that could be delivered using access scheme fees alongside existing programs. 
+4.6	 NSW	Renewable	Energy	Sector	(RES)	Board	Plan
+The Consumer Trustee is required to take into account the RES Board Plan in the exercise of its functions.25
+The RES Board Plan was published in September 2022. 
+The Consumer Trustee notes that the only section of the RES Board Plan that is relevant to the determination of 
+Access Fees is a section that sets out the RES Board’s recommendations on actions that could be funded from Access 
+Fees including the community and employment component. The RES Board recommends that the Consumer Trustee 
+and Infrastructure Planner prioritise these actions in the allocation of funds from Access Fees. The priority actions are:26 
+• build the capacity of the local manufacturing sector; and
+• facilitate workforce redeployment, including opportunities for workers affected by the energy transition.
+The C&E component of the Base Fee was set having regard to the RES Board Plan, following consultation with 
+EnergyCo and after seeking advice from EPAC. 
+The Consumer Trustee considers that the C&E component of Access Fees will allow EnergyCo to build the capacity of 
+the local manufacturing sector and facilitate workforce redeployment, including opportunities for workers affected by 
+the energy transition, as a funding priority for Access Fees in the RES Board Plan.
+24	 Section	26(6)	of	the	EII	Act.
+25	 Section	9(1)	of	the	EII	Act.
+26	 RES	Board	Plan,	p73.
+
+===== PDF PAGE 18 =====
+
+© AEMO Services 2025  | Statement of Reasons
+18
+A1.  Legal requirements for the decision 
+The following table sets out the requirements under the EII Act and EII Regulation for the exercise of the Consumer 
+Trustee’s functions under section 26 of the EII Act and where each of these is addressed in this document.
+Table 5: Statutory requirements for determining Access Fees 
+# Requirement Reference and comment
+1 The Consumer Trustee is to take into account the following principles—   
+(a)   maximising financial value for NSW electricity customers,   
+(b)   recovering the cost of the operation of the access scheme,   
+(c)     optimal use of the existing and planned network infrastructure in the 
+renewable energy zone,
+(d)   other principles prescribed by the regulations (s 26(1)(a)-(d) of the EII 
+Act).
+In relation to clause 55A of the EII Regulation, transparency in total 
+determined or expected fees payable under the access scheme for 
+participants is prescribed.
+Section 4.3 of this report sets 
+out how the Consumer Trustee 
+has considered the principles 
+in section 26 of the EII Act and 
+clause 55A of the EII Regulation.  
+2 The fees determined by the Consumer Trustee must include a component 
+that is to be used for a community purpose prescribed by the regulations 
+(s 26(2) of the EII Act). This component is not to be less than the minimum 
+amount or proportion prescribed by the regulations and must not exceed 
+the maximum amount or proportion prescribed by the regulations (s 26(3) 
+of the EII Act). 
+A component of a fee is taken to be used for a community purpose if it 
+used to provide one or more of the following benefits to the relevant local 
+community— 
+(a)   public or community services or infrastructure, 
+(b)   health services or infrastructure, 
+(c)   accommodation or housing, 
+(d)   local or regional energy programs or infrastructure, 
+(e)   environmental programs or infrastructure, 
+(f)   parks and recreation infrastructure, 
+(g)   education programs or research, 
+(h)   arts or cultural programs, 
+(i)   tourism programs or infrastructure, 
+(j)   services, programs or infrastructure for First Nations people, 
+(k)    other services, programs or infrastructure that benefit the relevant local 
+community (cl 56(1) of the EII Regulation).  
+The minimum proportion for the component of the annual Access Fee for a 
+participant is— 
+(i)   if the participant’s annual Access Fee is $2,600 per megawatt or more—
+$1,700 per megawatt, or 
+(ii)   otherwise—60%, and 
+The maximum amount for the component of the annual Access Fee for a 
+participant is— 
+(i)   during the term of the access scheme—no maximum is prescribed, or 
+(ii)   otherwise—$0 (cl 56(2) of the EII Regulation). 
+Section 4.4 of this report sets 
+out the Consumer Trustee’s 
+approach to the component of 
+the Access Fees that is to be 
+used for community purposes.  
+
+===== PDF PAGE 19 =====
+
+© AEMO Services 2025  |  Statement of Reasons
+19
+# Requirement Reference and comment
+3 The fees determined by the Consumer Trustee must include a component 
+that is to be used for an employment purpose prescribed by the regulations 
+(s 26(4) of the EII Act). This component is not to be less than the minimum 
+amount or proportion prescribed by the regulations and must not exceed 
+the maximum amount or proportion prescribed by the regulations (s 26(5) 
+of the EII Act).    
+A component of a fee is taken to be used for an employment purpose if it 
+used to provide for one or more of the following to relevant employees— 
+(a)   employment programs and associated services and facilities, 
+(b)   skills and training programs and associated services and facilities, 
+(c)   a program, service or facility that supports the relevant employees 
+to gain employment skills or experience relevant to employment (EII 
+Regulation, cl 57(1)). 
+The minimum proportion for the component of the annual Access Fee for a 
+participant is— 
+(i)   if the participant’s annual Access Fee is $2,600 per megawatt or more—
+$600 per megawatt, or 
+(ii)   otherwise—20%, and 
+The maximum amount for the component of the annual Access Fee for a 
+participant is— 
+(i)   during the term of the access scheme—no maximum is prescribed, or 
+(ii)  otherwise—$0 (EII Regulation). 
+Section 4.4 of this report sets 
+out the Consumer Trustee’s 
+approach to the component of 
+the Access Fees that is to be 
+used for employment purposes. 
+4 In exercising its function under subsection 26(4), the Consumer Trustee is to 
+seek advice from the committee established under section 34W(1)(b) of the 
+Energy and Utilities Administration Act 1987 (i.e. the Employment Purpose 
+Advisory Committee) (cl 57(2) of the EII Act, s 26(6)). 
+Section 4.5 of this report sets 
+out how the Consumer Trustee’s 
+approach to satisfying this 
+requirement. 
+5 The Consumer Trustee will take into account the plan for NSW renewable 
+energy sector (s9(1) of the EII Act). 
+Section 4.6 sets out the 
+Consumer Trustee’s approach 
+with respect to this requirement.
+6 The Consumer Trustee is to act independently and in the LTFI of NSW 
+electricity customers (s60(3) of the EII Act). 
+Section 3 sets out the 
+Consumer Trustee’s approach 
+to independently determining 
+Access Fees.
+Section 4.1 sets out the LTFI 
+of NSW electricity customers 
+assessment process that has 
+been followed by the Consumer 
+Trustee to form a view on 
+whether the setting of the 
+Access Fees (including their 
+structure and quantum) would 
+be in the LTFI of NSW electricity 
+customers.    
+7 The Consumer Trustee must exercise its function in a way that is consistent 
+with the objects of the EII Act (s3(3) of the EII Act). 
+Section 4.2 of this report sets 
+out how the Consumer Trustee 
+has assessed whether the Access 
+Fee Determinations for the CWO 
+REZ is consistent with the objects 
+of the EII Act. 
+
+===== PDF PAGE 20 =====
+
+© AEMO Services 2025  | Statement of Reasons
+20
+A2. CWO REZ Access Fee Assumptions 
+Table 6: Assumptions in determining Access Fees  
+Access 
+Assumptions 
+Input
+Unit Amount Used in Notes
+Base Fee assumptions 
+Community and 
+Employment Fee  
+(C&E Fee)  
+AUD$ per MW 
+per quarter 
+$575 Calculating 
+the quarterly 
+Base Fee 
+Includes the amounts prescribed in sections 26(2) and (4) of the EII 
+Act to fund community and employment benefits.
+Administration Fee  
+(Non-C&E Fee) 
+AUD$ per MW 
+per quarter 
+$125 Calculating 
+the quarterly 
+Base Fee
+Covers CWO Access Scheme administration costs incurred by 
+EnergyCo.
+Network 
+Infrastructure 
+Contribution Fee 
+AUD$ per MW 
+per quarter 
+$300 Calculating 
+the quarterly 
+Base Fee 
+Contributes to the cost of constructing and maintaining the CWO 
+REZ transmission network consistent with section 26(1) of the EII 
+Act.  
+General assumptions 
+Fixed Indexation 
+Rate
+% per quarter 0.6192% 
+(rounded)
+Calculating 
+all quarterly 
+Access Fee 
+components 
+This amount equates to 2.5% per annum when compounded 
+which was included to reflect the fact that the Network Operator’s 
+revenue is indexed by the AER. Fixed indexation of 2.5% is applied 
+to 80% of total Network Operator revenue, with Consumer Price 
+Index applied to 14% of Network Operator revenue and Wage 
+Price Index applied to the remaining 6%. The AER will true up 
+for actual Consumer Price Index / Wage Price Index as part of 
+their revenue adjustments, noting the largest component is fixed 
+at 2.5%, reflecting the long-term midpoint of the Reserve Bank’s 
+target inflation band. Access Fees are escalated from the Access 
+Fee Payment Date at a fixed quarterly indexation rate of 0.6192% 
+(rounded) (equivalent to 2.5% per annum when compounded) as 
+specified in the CWO REZ Determinations. This provides clarity 
+and transparency to ARHs and ensures alignment with the assumed 
+indexation of the Network Operator’s underlying costs. 
+CSS Fee assumptions 
+CSS Fee Charge AUD$ per MW 
+per quarter 
+$3,090.84 Calculating 
+the quarterly 
+CSS Fee 
+Provided by EnergyCo, this is based on the cost of synchronous 
+condensers to meet system strength demand from ARHs when the 
+CWO REZ network infrastructure is commissioned.  
+The current estimated CSS construction financing cost is 15.35% of 
+capex.
+CSS – O&M and 
+lifecycle charge 
+% of capex (excl 
+financing), paid 
+quarterly 
+0.25% Calculating 
+quarterly the 
+CSS Fee
+This charge is based on market benchmarks sourced from EnergyCo 
+for the estimated annual operations and maintenance costs. 
+CSS useful life Quarters 160 Calculating 
+the quarterly 
+CSS Fee
+Based on advice from EnergyCo. 
+CSS Assumed Cost 
+of Capital 
+% per quarter 1.75% Calculating 
+the quarterly 
+CSS Fee 
+Assumed financing cost of capital expenditure on CSS assets, 
+provided by EnergyCo. 
+
+===== PDF PAGE 21 =====
+
+© AEMO Services 2025  |  Statement of Reasons
+21
+Access 
+Assumptions 
+Input
+Unit Amount Used in Notes
+H2P Fee assumptions 
+H2P Fee charge Total project 
+specific H2P 
+capex 
+Project 
+specific 
+Calculating 
+the quarterly 
+H2P Fee   
+Provided by EnergyCo, this is based on the specifications of each 
+project provided through the Application Process. The current 
+estimated H2P construction financing cost is 18.00% of capex.   
+H2P – O&M and 
+lifecycle charge 
+% of capex 
+(excl. IP fees 
+and financing), 
+paid quarterly 
+0.25% Calculating 
+the quarterly 
+H2P Fee 
+This charge is based on market benchmarks sourced from EnergyCo 
+for the estimated annual operations and maintenance cost. 
+H2P useful life Quarters 200 Calculating 
+the quarterly 
+H2P Fee 
+Based on advice from EnergyCo. 
+H2P Assumed Cost 
+of Capital 
+% per quarter 1.75% Calculating 
+the quarterly 
+H2P Fee 
+Assumed financing cost of capital expenditure on H2P assets, 
+provided by EnergyCo. 
+Transmission Costs AUD$ million Project 
+specific 
+Calculating 
+the quarterly 
+H2P Fee 
+This represents the cost of the transmission line (shared cost 
+applicable to some projects) connecting the project with the energy 
+hub. Provided by EnergyCo.
+On & Off-site 
+Prelims, Design 
+and Overheads   
+AUD$ million Project 
+specific 
+Calculating 
+the H2P Fee 
+This represents the preliminary and overhead costs which include 
+contractor overheads, and time-related costs associated with 
+managing the project, borne by the Network Operator to deliver 
+the H2P assets. Provided by EnergyCo. 
+Switching Station 
+Costs 
+AUD$ million Project 
+specific 
+Calculating 
+the quarterly 
+H2P Fee 
+This represents the costs borne by the Network Operator to deliver 
+the switching station assets. Provided by EnergyCo. 
+Infrastructure 
+Planner Fee 
+AUD$ million Project 
+specific 
+Calculating 
+the quarterly 
+H2P Fee 
+This component includes costs borne by the Infrastructure Planner 
+for land access, easements, biodiversity offsets. Provided by 
+EnergyCo.
+General Fee assumptions 
+Terminal Value AUD$ million Project 
+specific 
+Calculating 
+the Terminal 
+Value of 
+H2P/CSS 
+assets 
+Provided by EnergyCo, this is the residual value of the H2P and  
+CSS assets, based on a useful life (see values above), and 
+straight-line amortisation with 2.5% fixed indexation per annum, 
+compounded quarterly.
+Access Fee 
+Payment Date 
+Date Project 
+specific 
+Determining 
+the start date 
+of the Access 
+Fee payment  
+As defined in the Access Payment Deed. 
+Payment Term Quarters Project 
+specific
+Calculating 
+all quarterly 
+Access Fee 
+components 
+As defined in the Access Payment Deed. The Consumer Trustee has 
+assumed a fixed Payment Term of 124 quarters for the purposes of 
+calculating Access Fees.
+ARH Bid Variables
+Maximum Capacity MW Project 
+specific
+Calculating 
+the quarterly 
+Base Fee 
+and CSS Fee 
+components 
+The maximum capacity for the relevant access right as set out in the 
+Access Rights Register in accordance with the Project Development 
+Agreement.
+
+===== PDF PAGE 22 =====
+
+© AEMO Services 2025  | Statement of Reasons
+22
+Definitions 
+ 
+Term Definition
+Access Fee The Access Fee payable by an Access Right Holder in accordance with the relevant 
+Access Fee Determination.
+Access Fee Determination Sets out Access Fees for each individual project and how they may be adjusted for 
+certain events.
+Access Fee Payment Date As defined in the Access Payment Deed.
+Access Payment Deed or 
+APD The deed between the SFV and the Access Right Holder in respect of the project.
+Access Project 
+Development Agreement or 
+Access PDA
+Project Development Agreement between the Access Right Holder and EnergyCo.
+Access Right Access Right as defined in the Access Scheme Declaration.
+Access Right Holder or ARH A person that holds an access right granted under the Access Scheme Declaration.
+Access Rights Register A publicly available register for access rights as defined in Schedule 1A of the EII 
+Regulation.
+Access scheme Has the meaning given in the EII Act.
+Access Scheme Declaration
+The access scheme declared under section 24(1) of the EII Act in respect of Central-
+West Orana renewable energy zone and set out in the Renewable Energy Zone 
+(Central-West Orana) Access Scheme Order 2022, and amended by the Minister on 
+5 April 2024 (see, Renewable Energy Zone (Central-West Orana) Access Scheme 
+(Amendment) Order 2024.
+Administration Fee A Base Fee component that contributes to the administration costs of the CWO REZ 
+access scheme, consistent with section 26(1)(b) of the EII Act.
+AEMO Services AEMO Services Limited ABN 59 651 198 364.
+Application Process The application process for CWO REZ access rights administered by EnergyCo.
+Community & Employment 
+(C&E) Fee
+A contribution to initiatives that achieve community purposes and employment 
+purposes in the CWO REZ, as required by sections 26(2) and (4) of the EII Act.
+Connection point Point of connection for an Access Right Holder and has the meaning given in the 
+National Electricity Rules.
+Consumer Reference Group
+The Consumer Reference Group established under the NSW Electricity Infrastructure 
+Roadmap which includes representatives from the Public Interest Advocacy Centre, 
+Energy Consumers Australia, Energy Users Association of Australia and Business 
+NSW.
+Consumer Trustee AEMO Services Limited appointed as the Consumer Trustee under the EII Act.
+CSS Centralised System Strength.
+CSS Fee The contribution required to offset the cost of the CSS infrastructure asset. The CSS 
+Fee is calculated based on costs provided by EnergyCo from the Network Operator.
+CSS Fee Reduction 
+Methodology Paper
+A paper that outlines the methodology to be applied in the event of an Access Right 
+Holder applying for a CSS Fee Reduction.
+
+===== PDF PAGE 23 =====
+
+© AEMO Services 2025  |  Statement of Reasons
+23
+Term Definition
+CWO Central-West Orana.
+DCCEEW The Department of Climate Change, Energy, the Environment and Water.
+EII Act Electricity Infrastructure Investment Act 2020 (NSW).
+EII Regulation Electricity Infrastructure Investment Regulation 2021 (NSW).
+Employment Purpose 
+Advisory Committee or 
+EPAC
+The Employment Purpose Advisory Committee is established under section  
+34(W)(1)(b) of the Electricity and Utilities Administration Act 1987 (NSW).
+H2P Hub-to-project.
+H2P Fee
+The contribution required to offset the cost of an Access Right Holder’s H2P 
+infrastructure asset. The H2P Fee is calculated using project specific costs provided 
+by EnergyCo from the Network Operator.
+Infrastructure Planner (IP) or 
+EnergyCo
+Energy Corporation of New South Wales constituted under the Energy and Utilities 
+Administration Act 1987 (NSW) and appointed as the Infrastructure Planner for the 
+CWO REZ under section 19 of the EII Act.
+Initial Allocation The CWO REZ access right application process conducted by EnergyCo in 2024.
+LTESA Long-term Energy Service Agreements.
+Maximum capacity The maximum capacity for the relevant access right as set out in the Access Rights 
+Register in accordance with the Access Project Development Agreement.
+MW Megawatts.
+National Electricity Rules or 
+NER
+The National Electricity Rules, which govern the operation of the national electricity 
+market.
+Network Infrastructure 
+Contribution Fee
+A Base Fee component that contributes to the costs of constructing and maintaining 
+CWO REZ network infrastructure, consistent with section 26(1)(a) of the EII Act.
+Network Operator Has the meaning given in the EII Act. The authorised Network Operator for the 
+CWO REZ Network Infrastructure Project is the ACEREZ Partnership.
+Renewable Energy Sector 
+Board or RES Board
+A Board for the NSW renewable energy sector, appointed by The Minister for Energy 
+in 2021 as required under the EII Act. 
+Renewable Energy Sector 
+Board Plan or RES Board 
+Plan
+A plan for the NSW renewable energy sector, including the manufacture and 
+construction of infrastructure in the renewable sector, as required to be prepared 
+and provided to the Minister by the RES Board under the EII Act.
+Roadmap The NSW Electricity Infrastructure Roadmap enabled by the EII Act.
+Scheme Financial Vehicle or 
+SFV
+The body responsible for entering into and enforcing the Access Payment Deed with 
+Access Right Holders and collecting Access Fees and securities, consistent with the 
+terms of the Access Payment Deed.
+Variation Events
+A change to the input variables as set out in the Access Fee Determination, 
+occurring after the date of the Determination, and which may give rise to a change 
+in the Access Fees.

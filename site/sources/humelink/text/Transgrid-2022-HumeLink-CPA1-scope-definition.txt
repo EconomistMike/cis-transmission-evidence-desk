@@ -1,0 +1,1445 @@
+--- PDF page 1 ---
+0 | A.2 Scope definition document | HumeLink - Stage 1 (early works) Conting ent Project Application 
+A.2 Scope definition document 
+HumeLink - Stage 1 (early works) Contingent Project Application 
+5 April 2022 
+ 
+ 
+  
+
+
+--- PDF page 2 ---
+ 
+i | A.2 Scope definition document | HumeLink - Stage 1 (ear ly works) Contingent Project Application_____________________________  
+Contents 
+1. Introduction ................................ ................................ ................................ ................................ ... 1 
+1.1. Structure of this document  ................................ ................................ ................................ .........  1 
+2. The scope and specification of HumeLink Stage 1 (early works) ................................ ....................  3 
+2.1. AEMO’s definition of Stage 1 (early works)  ................................ ................................ ..................  3 
+2.2. The scope of our Stage 1 (early works) activities ................................ ................................ ..........  4 
+2.3. Our Stage 1 (early works) activities and outcomes  ................................ ................................ .......  6 
+3. Stage 1 CPA – work program scope, resources and deliverables  ................................ ................  10 
+3.1. Project management  ................................ ................................ ................................ ...............  10 
+3.2. Project development ................................ ................................ ................................ ................  10 
+3.3. Procurement ................................ ................................ ................................ ...........................  13 
+3.4. Land acquisitions ................................ ................................ ................................ ....................  19 
+3.5. Environmental approvals................................ ................................ ................................ ..........  23 
+3.6. Community and stakeholder engagement ................................ ................................ ..................  26 
+3.7. Regulatory approvals and other support  ................................ ................................ ....................  30 
+ 
+ 
+  
+
+--- PDF page 3 ---
+ 
+ii | A.2 Scope definition document | HumeLink - Stage 1 ( early works) Contingent Project Application ____________________________  
+ 
+ 
+ 
+This page is intentionally left blank. 
+ 
+
+--- PDF page 4 ---
+1 | A.2 Scope definition document | HumeLink - Stage 1 (early works) Contingent Project Application  
+1. Introduction 
+ 
+This document forms part of our Contingent Project Application to the Australian Energy Regulator (AER) for 
+early works (Stage 1 Application or CPA) for HumeLink (the Project or HumeLink).  
+The purpose of this  document is to: 
+ overview the scope of our Stage 1 (early works) activities 
+ describe how our Stage 1 (early works) activities will: 
+- determine the prudent and efficient construction cost for Stage 2 (project implementation)  
+- identify, explore and manage our project risks, and 
+- enable us to remain on schedule to achieving the Australian Energy Market Operator’s (AEMO) 
+Draft 2022 Integrated System Plan (Draft 2022 ISP) 1 target delivery date of 2026-27.2 
+ describe the scope and resources required for Stage 1 development and approval (D&A) activities, and  
+ explain and justify the resources required for the D&A work streams.  
+This document should be read in conjunction with our Principal Application document and other supporting 
+documents, in particular our Capex Forecasting Methodology. 
+1.1. Structure of this document 
+The remainder of this document is structured as follows: 
+ Chapter 2 overviews AEMO’s definition of Stage 1 (early works)  and the scope of our Stage 1 activities. 
+It also explains how our Stage 1 activities will:  
+- determine the prudent and efficient costs for delivering the Project  
+- identify, explore and manage our project risks, and  
+- achieve AEMO’s target delivery date of 2026 -27. 3 
+ Chapter 3 overviews the Stage 1 work program scopes, resources and deliverables.  
+Our Stage 1 Application is structured as illustrated in Figure 1.1 to be as clear and accessible as possible 
+to the AER, customers and other stakeholders.  
+                                              
+ 
+1
+  AEMO, Draft 2022 Integrated System Plan  (Draft 2022 ISP), December 2021, p.13.  
+2
+  AEMO, Draft 2022 ISP, p. 13 (see Table 1).  
+3
+  AEMO, Draft 2022 ISP, p. 13 (see Table 1).  
+
+--- PDF page 5 ---
+ 
+ii | A.2 Scope definition document | HumeLink - Stage 1 ( early works) Contingent Project Application ____________________________  
+Figure 1.1: Stage 1 CPA document structure for HumeLink 
+ 
+ 
+Attachments and supporting models comprising our  Stage 1 Application are also detailed in section 1 of our 
+Principal Application document. 
+
+
+--- PDF page 6 ---
+ 
+iii | A.2 Scope definition document | HumeLink - Stage 1 (early works) Contingent Project Application ____________________________  
+2. The scope and specification of HumeLink Stage 1 (early works)  
+This chapter overviews AEMO’s definition of Stage 1 (early works) and explains the scope of our Stage 1 
+activities. It also explains how our Stage 1 activities will: 
+ determine the prudent and efficient construction cost for Stage 2 (project implementation)  
+ identify, explore and manage our project risks, and 
+ achieve AEMO’s target delivery date of 2026-27.4 
+2.1. AEMO’s definition of Stage 1 (early works)  
+AEMO defines Stage 1 (early works) as pre-construction activities that can be undertaken now, while keeping 
+open the option to continue, defer or cancel the project as new information becomes available. 5 AEMO 
+identifies the following activities as likely to fall within  Stage 1 (early works) for HumeLink:6  
+ detailed engineering design – transmission line, structure and substation design, detailed engineering 
+design and planning  
+ project initiation – this includes planning and design activities needed to accurately define  the project, 
+including pre -contracting activities for engineering, procurement and construction contracts such as 
+obtaining binding bids 
+ cost estimation – finalisation, including quotes for primary and secondary plant  
+ land-use planning – to identify and o btain all primary planning and environmental approvals, route 
+identification, field surveys, geotechnical investigations, substation site selection, easement acquisition 
+and preparation of option agreements with landowners, and  
+ stakeholder engagement – with local communities, landowners and other stakeholders.  
+AEMO has issued us with a direction in its Draft 2022 ISP to proceed now with Stage 1 (early works) to 
+achieve the following benefits:7 
+ option value – it will allow us to deliver the project as soon as possible or defer it if circumstances change 
+ insurance value – it will mitigate the risk of schedule slippage and the risk of coal exiting faster than 
+anticipated, and  
+ continual improvement value8 – it will refine the project through innovation and cos t effective design in 
+order to identify, explore and manage project risks. This will result in more accurate cost estimation and 
+ensure the Project’s costs are prudent and efficient.  
+                                              
+ 
+4
+  AEMO, Draft 2022 ISP, p. 13 (see Table 1).  
+5
+  AEMO, Feedback Loop Notice , 27 January 2022 
+6
+  AEMO, Draft 2022 ISP , p. 66 
+7
+  AEMO, Draft 2022 ISP, December 2021, p. 80  
+8
+  AEMO comments that further work to drive down project costs should be urgently undertaken as part of early works. AEMO, Draft 2022 
+ISP, December 2021, p. 12.  
+
+--- PDF page 7 ---
+ 
+iv | A.2 Scope definition document | HumeLink - Stage 1 (ear ly works) Contingent Project Application ____________________________  
+AEMO has assessed that undertaking early works now will avoid $200 million of ‘regret costs’ from the project 
+being delivered too late, due to schedule slippage or earlier than expected coal plant closures. AEMO 
+therefore concludes that progressing Stage 1 (early works) is a low regret action for consumers. 9 
+2.2.     The scope of our Stage 1 (early works) activities 
+Figure 2.1 shows the Project’s work breakdown structure . The top line is our Stage 1 work programs, which 
+is supported by more detailed work programs, processes and deliverables. 
+Figure 2.1 Project work breakdown structure  
+  
+ 
+Our Stage 1 (early works) activities comprise direct and indirect and labour capex activi ties. 
+ direct capex activities – these relate to procurement  activities that will be undertaken by successful 
+contractors appointed based on our ECI procurement process, as well as land acquisition activities 
+including acquiring a site for Gugaa substation and establishing options agreements for transmission line 
+easements 
+ indirect and labour capex activities – this relate to D&A activities. 
+The scope for the direct capex activities includes:  
+ pre-construction development work  
+ steel tower design and testing, and  
+ production slots for Long Lead-time Equipment (LLE).  
+                                              
+ 
+9
+  AEMO, Draft 2022 Integrated System Plan ( Draft 2022 ISP), December 2021, p.12.  
+
+
+--- PDF page 8 ---
+ 
+v | A.2 Scope definition document | HumeLink - Stage 1 (ear ly works) Contingent Project Application ____________________________  
+These activities will be incorporated as separate portions (SP1) awarded to successful contractors as part of 
+two Work Packages (WP 01 and WP 02). There is no other construction work included in Stage 1, however 
+the planning, specification and procurement of construction works is included .  
+Table 2.1 shows how our Stage 1 (early works) activities map to AEMO’s Stage 1 categories. 
+Table 2.1: Forecast capex categories alignment with AEMO draft 2022 ISP 
+AEMO draft 2022 ISP 10 Stage 1 CPA– Capex categories  
+Direct costs  
+Direct early works  which includes detailed 
+engineering design  for pre-construction 
+works  
+Steel tower assembly design and prototype testing  
+LLE 
+Pre-construction works 
+Land acquisitions 
+Labour and indirect costs (D&A activities) 
+Project initiation/Cost estimation Project management and project development 
+Project initiation Procurement 
+Land-use planning Land access and acquisitions and environment approvals 
+Stakeholder engagement Community & stakeholder engagement 
+Project initiation Regulatory approvals and other support costs  
+ 
+Table 2.2 shows how our capex for Stage 1 (early works) activities map to our work programs: 
+Table 2.2: Work programs and Capex Cost Categories 
+Category capex  Description Work programs 
+Direct Capex  
+Procurement Steel tower assembly design and 
+prototype testing 
+Procurement 
+Long-lead equipment – Substation Procurement 
+Pre-construction development Procurement 
+Land acquisitions Valuation and land acquisition costs  Land acquisitions 
+Labour and indirect capex (Development & Approvals)    
+                                              
+ 
+10
+ AEMO draft Integrated System Plan 2022  
+
+--- PDF page 9 ---
+ 
+vi | A.2 Scope definition document | HumeLink - Stage 1 (ear ly works) Contingent Project Application ____________________________  
+Category capex  Description Work programs 
+Labour and related costs   
+Project team resources  Labour and corporate support for 
+project management, development, 
+procurement, land and environment 
+activities  
+Across all work programs (includes 
+Project Management) 
+Indirect costs   
+Procurement  
+ 
+Bidder payments Procurement 
+Data room and transaction 
+expenses 
+Procurement 
+Transaction procurement support  Procurement 
+Project development 
+ 
+Development, engineering, legal 
+and economic support 
+Project Development 
+Land and Environment  External labour, fees, and expenses  Land acquisitions and environmental 
+approvals 
+Community and 
+stakeholder engagement 
+External labour, fees, expenses, 
+and social legacy initiatives 
+Community and stakeholder 
+engagement 
+Regulatory approvals and 
+other support costs  
+Labour, corporate support and 
+indirect costs for regulatory RIT-T 
+and CPA activities  
+Regulatory approval and related 
+costs.  
+2.3. Our Stage 1 (early works) activities and outcomes 
+Our Stage 1 (early works) capex will deliver the following outcomes:  
+ determine the prudent and efficient construction cost for Stage 2 (project implementation) by refining the 
+Project scope through innovation and cost effective design   
+ identify, explore and manage our project risks. This will allow us to mitigate and/or diversify the Project’s 
+risks so that residual risk costs included in our Stage 2 Application are as low as possible, and  
+ achieve AEMO’s target delivery date of 2026 -27 by ensu ring that construction can commence as soon 
+as possible following the approval of our Stage 2 CPA. 11 
+Table 3 details the nature of our Stage 1 (early works) activities and how they will contribute to achieving 
+these three outcomes.    
+                                              
+ 
+11
+  AEMO, Draft 2022 ISP, p. 13 (see Table 1).  
+
+--- PDF page 10 ---
+ 
+vii | A.2 Scope definition document | HumeLink - Stage 1 ( early works) Contingent Project Application ___________________________  
+Table 3: Stage 1 (early works) activities – nature and outcomes 
+Category 
+capex  
+Description Nature and outcomes 
+Direct capex    
+Procurement Steel tower 
+assembly design 
+and prototype 
+testing 
+We will need to complete the detailed design and testing of the 
+towers prior to placing orders for steel. This means that we need 
+to complete these activities in Stage 1  to meet the 2026-27 
+delivery date.  
+Long-lead time 
+equipment (LLE) – 
+Substation 
+transformers and 
+reactors 
+Delivery of LLE is estimated to take 12-18 months following 
+placement of orders. Payments for production slots are needed 
+as part of Stage 1 to minimise the risk of project delays arising 
+from delay in receiving LLE which may impact our ability to 
+achieve AEMO’s target delivery date of 2026 -27. 
+Pre-construction 
+development – 
+substation and 
+transmission lines 
+Pre-construction activities include detailed design work, 
+equipment specification and quantities for plant and material s, 
+project documentation and obtaining work permits.  
+These activities will identify all pre-requirements for orders to be 
+placed for the testing of towers, LLE and other pl ant and 
+materials, such as conductors that have lead times of 
+approximately 12 months.  
+This means that pre-construction activities need to be completed 
+in stage 1 to meet the target delivery date of 2026-27. We also 
+expect that pre-construction activities  will drive efficiencies and 
+innovation in the Project's design, thereby lowering the 
+construction costs and risks in Stage 2.  
+Land 
+acquisitions 
+Valuation and 
+acquisition costs 
+including options to 
+acquire easements 
+and acquiring a 
+site for Gugaa 
+substation, and 
+cultural heritage 
+The Project requires the acquisition of easements over a 
+substantial amount of land that impacts many landholder 
+properties. Land access is a critical step to enable construction to 
+commence. It involves: 
+ determining the compensation to be paid to each landholder 
+ establishing option agreements  in order to be able to acquire 
+land in Stage 2  
+ commencing the compulsory acquisition process in the event 
+amicable agreements cannot be reached with landholders 
+ undertaking surveys to identify and protect places of cultural 
+heritage significance along the route, and  
+ securing a site for  Gugaa substation so that designs can be 
+undertaken to match the available site location, size and 
+geotechnical conditions.   
+These activities need to be completed before we can commence 
+construction. Our previous experience with land acquisition 
+indicates that having a longer time period to negotiate with land 
+holders reduces anxiety, the premium we need to pay and the 
+potential for compulsory acquisit ion. This means that completing 
+land acquisitions related activities in Stage 1 will lower the risk 
+
+--- PDF page 11 ---
+ 
+viii | A.2 Scope definition document | HumeLink - Stage 1 (early works) Contingent Project Application ___________________________  
+Category 
+capex  
+Description Nature and outcomes 
+costs in Stage 2 and help meet the target delivery date of 2026-
+27. 
+Labour and indirect capex (Development and Approvals)  
+Labour and related costs   
+Project team 
+resources  
+Labour and 
+corporate support 
+for project 
+management, 
+procurement, land 
+and environmental 
+activities 
+Current and additional internal resources will manage 
+development activities and prepare for the delivery of the Project. 
+All development and approval activities are necessary to be 
+completed to achieve an efficient and timely final investment 
+decision (FID) to proceed with the Project following approval for 
+our Stage 2 Application.  
+This timing is critical to align FID and the unconditional execution 
+of contracts so that Stage 2 construction works can proceed 
+according to the critical path to achieve the 2026-27 completion 
+date. Further, these activities will ensure that we manage delivery 
+of Stage 1 in a prudent and efficient manner.  
+Indirect Costs   
+Procurement  
+ 
+Bidder payments These supporting procurement activities are needed to engage 
+the contract market through the Early Contractor Involvement 
+(ECI) process. Undertaking the ECI process in Stage 1 will: 
+ promote competition and innovation to lower costs including 
+costs for risks for the construction works in Stage 2, and  
+ enable the successful contractors to book production slots for  
+LLE and undertake detailed design and other pre -construction 
+activities in Stage 1. This will en sure construction can 
+commence as soon possible following approval of our Stage 2 
+Application to meet the 2026-27 completion date.  
+Data room 
+services and 
+market road show 
+Transaction 
+procurement 
+support 
+Project 
+development 
+ 
+Development, 
+engineering, legal 
+and economic 
+support 
+The following project development activities must be completed 
+for construction to commence as soon as possible following 
+approval of our Stage 2 CPA to meet the 2026-27 completion 
+date: 
+ legal advice to support land acquisition, procurement and other 
+work activities during Stage 1  
+ geotechnical reports and concept designs for contractors to 
+prepare their pricing in the ECI process described above 
+ an Owners Engineer to oversee the technical due diligence of 
+the Project, and  
+ other specialist studies to support development activities.  
+These activities and specialist resources will assist to drive cost 
+efficiency and reduce risk costs.  
+
+--- PDF page 12 ---
+ 
+ix | A.2 Scope definition document | HumeLink - Stage 1 (ear ly works) Contingent Project Application ____________________________  
+Category 
+capex  
+Description Nature and outcomes 
+Land and 
+environment  
+Fees, labour and 
+indirect costs  
+Development of the Environmental Impact Statement ( EIS), land 
+acquisition, and related activities are scheduled to be undertaken 
+between May 2021 to January 2023. They include: 
+ EIS development work which is being led by Aurecon, including 
+seasonal route surveys, the environmental scopin g report, 
+technical and route option assessments, and completion of EIS 
+documentation  
+ an EIS application fee payable under the Environmental 
+Planning and Assessment ( EP&A) Regulation 2000 based on 
+the capital investment value, and 
+ land agents and administrative support to lead the engagement 
+with landholders and negotiations to establish options  for 
+easements and compulsory acquisitions.  
+These activities and specialist resources are needed in Stage 1 to 
+meet the 2026-27 completion date. Further, the EIS will set out 
+conditions of approval, including any actions we need to 
+undertake to mitigate the Project’s environmental impact . 
+Completing the EIS in Stage 1 will  therefore reduce risk costs in 
+Stage 2.  
+Community & 
+stakeholder 
+engagement 
+Stakeholder and 
+community 
+programs including 
+social legacy12, 
+design and 
+communication 
+and community 
+improvement 
+The local community and landholders will be affected by 
+HumeLink. In Stage 1 we need to implement the HumeLink 
+Engagement Strategy (HES), including indigenous engagement 
+and social impact engagements and initiatives , to improve 
+stakeholder support for the project and meet stakeholder 
+consultation expectations and requirements.  
+These activities are needed to meet the target delivery date of 
+2026-27. We also expect that strong stakeholder support for the 
+Project will reduce potential opposition, thereby supporting cost 
+efficiency, including by reducing risk costs.  
+Regulatory 
+approvals and 
+other support 
+costs 
+RIT-T and CPA 
+activities including 
+document 
+preparation, 
+modelling and 
+commissioning 
+expert reports  
+These activities are needed to prepare our regulatory 
+submissions and seek the necessary regulatory approvals 
+required before the Project can proceed. 
+These activities are needed in Stage 1 to meet AEMO’s target 
+delivery date of 2026-27. 
+  
+                                              
+ 
+12
+ Social  legacy seeks to leverage off the project building a more sustainable energy system – and through its strategic partnership  approach, 
+enabling more sustainable, resilient and future focused community  programs. This includes community grants, youth traineeships, long -
+term jobs for indigenous communities, provision of 5G and digital communication.  
+
+--- PDF page 13 ---
+ 
+x | A.2 Scope definition document | HumeLink - Stage 1 (ear ly works) Contingent Project Application ____________________________  
+3. Stage 1 CPA – work program scope, resources and deliverables 
+This Chapter overviews the Stage 1 work program scopes, resources and deliverables.  
+3.1. Project management 
+We have established a dedicated project team to oversee the delivery of the Project. 
+The Project is led by a Project Director who is accountable for the Project’s overall 
+success.  
+Regular reporting to the Project Director is conducted through a Project Control Group 
+(PCG) forum, which includes representatives leading the different work programs and 
+corporate leads for safety, finance, and risk. The Project Director is the chair of the 
+Project Control Group. The function of this group is to manage reporting and controls 
+for the Project’s development and delivery in accordance with our  governance 
+framework and requirements.  
+The scope of work and resources for project management and governance during the 
+D&A phase includes: 
+ Project Director who is responsible for the project and is supported by the  Project Delivery Manager and 
+direct reports responsible for respective work programs 
+ support functions including HSE, risk management, project controls/scheduling, cost estimating, interface 
+management, quality control, document control and administration support, and  
+ corporate support will provide additional resources for project management and the governance 
+processes. 
+Activities completed to date include the RIT-T, stakeholder engagement, and further refinement of the 
+preferred option. The total project leadership team and direct support will represent around 11 per cent of the 
+total internal and external labour resources that will be required over the D&A phase (actual plus forecast).  
+3.2. Project development 
+The project development work program comprises : 
+ two Program Managers - responsible for overseeing the development of the transmission line and 
+substation designs respectively and managing teams of project managers.  
+ an Engineering Manager  - responsible for  ensuring the design services partners are meeting t he 
+requirements of the Project  
+ project development work – this included the  original planning and scoping work for seven credible 
+network options considered in the RIT-T process . Further work is being und ertaken to produce concept 
+designs and specifications. This will be provided to the c ontractors.  
+ cost estimators – responsible for preparing cost estimates at designated milestones during the D&A 
+phase. 
+The project development team will be supported by external specialists including: 
+ engineering resources including an  owners engineer, geotechnical and Light Detecting and Ranging 
+(LiDAR) surveys and other specialist studies .  
+
+
+--- PDF page 14 ---
+ 
+xi | A.2 Scope definition document | HumeLink - Stage 1 (ear ly works) Contingent Project Application ____________________________  
+ construction and design specialists  
+ risk management specialists, and  
+ legal services and probity advice.  
+Table 3.1 overviews the objectives and deliverables for the project development work program.  
+Table 3.1 Project development work program - key objectives and deliverables  
+Project development  Objective and Deliverables  
+Develop a robust and 
+efficient scope and 
+specification 
+ Develop design briefs for design consultants and construction tenders. 
+ Develop concept designs and specifications for transmission lines and 
+substations for tenders. 
+ Manage and support design contractors within the ECI procurement 
+process to develop optimum engineering solutions and designs .  
+ Engage an independent owners engineer to review engineering solutions 
+and design quality. 
+ Maintain and control document accuracy and design revisions. 
+Minimise design risk   Balance the risk allocation with the Contractors . 
+ Prepare concept designs (~ 25 per cent complete) with assistance from 
+our design consultant at the time of tender. Detailed design will be the 
+responsibility of the contractor(s). 
+ Interface with EPC contractors on separate design scopes to ensure 
+consistency of design across all contracts. Desi gn will be completed 
+during the early works phase prior to construction.  
+Ensure prudent and 
+efficient costs  
+ Competitive market prices from the procurement process will support the 
+prudence and efficiency of Stage 2 costs.  
+ 
+3.2.1. Resource requirements 
+The resources required for these deliverables have been determined based on a bottom-up assessment of 
+the scope of work .  Our experience on Project EnergyConnect and other large projects is that project 
+development work typically represents around 25 per c ent of the total labour and indirect costs during the 
+D&A phase. The project development resources for HumeLink are expected to comprise around 27 per cent.  
+The project development requirements for the remainder of the D&A phase include:  
+ the project development managers overseeing the development of the transmission lines and 
+substations.  
+ the project engineering team and specialist staff continuing to:  
+- engage with network operations, planning, maintenance, and operations to consider the stag ing of 
+construction work during the preparation of specifications and tendering for the construction works  
+- support the teams conducting land surveys and acquisitions, environmental approvals, community 
+and stakeholder engagement, and regulatory approvals 
+
+--- PDF page 15 ---
+ 
+xii | A.2 Scope definition document | HumeLink - Stage 1 ( early works) Contingent Project Application ___________________________  
+- engage with the asset management division to ensure the asset’s full lifecycle is considered and 
+issues resolved. 
+ the cost estimating team working with internal and external risk assessment specialists to refine the Stage 
+2 forecast costs and formally prepare cost estimates at designated milestones during the D&A phase.  
+ external engineering and specialist service providers will be engaged to:  
+- prepare technical specifications for the procurement of equipment and materials for the Project  
+- prepare technical specifications for tendering the design and construction of substations and the 
+transmission lines  
+- undertake risk assessments, scheduling and cost control for both the Stage 1 (early works) and for 
+the proposed Stage 2 scope of work and costs  
+- develop concept designs for the procurement of services for detailed design and ordering of LLE and 
+materials  
+- undertake geotechnical and LiDAR surveys, owner’s engineering services and other specialist 
+studies, and  
+- provide legal services and probity advice.  
+Key parameters and drivers for the level of resources required for the project development scope are: 
+ route design and siting for around 927 transmission tower structures  
+ profiling and design of dual circuit 500kV towers (civil, structural and electrical) to support conductors 
+over a route of around 365 kilometres of 500kV line and 15 kilometres of 330kV line 
+ concept designs prepared for different tower types and to specialised alpine conditions   
+ configuration, layout and concept designs  (civil, structural  and electrical) required for two new 500kV 
+substations, and extensions/augmentation of another two substations, one at 500kV and another at 
+330kV  
+ requirements and s pecifications for l arge specialist equipment such as transformers  and reactors and 
+general substation equipment 
+ protection and control systems requirements and specifications required at each substation  
+ development and specification of requirements augmentation to other parts of the network because of 
+this new network augmentation Project, and 
+ requirements and specification for access tracks and laydown areas .  
+3.2.2. Project development milestones  
+Table 3.2 overviews the key project milestones. 
+Tabl e 3.2 Project development target milestones 
+Milestone  Expected timing 
+Stage 1 CPA submission Apr 2022 
+
+--- PDF page 16 ---
+ 
+xiii | A.2 Scope definition document | HumeLink - Stage 1 (early works) Contingent Project Application ___________________________  
+Milestone  Expected timing 
+Transmission line concept designs complete for ECI tender (stage 3) Mar 2022 
+Stage 1 CPA determination Jun 2022 
+Substation concept designs complete for ECI tender (stage 3) Jul 2022 
+All technical specifications complete for ECI tender (stage 3) Aug 2022 
+Stage 1 FID approved Jul 2022 
+Commence ECI tender (stage 3) Sep 2022 
+Preliminary Geotechnical Investigation Complete Dec 2022 
+Formal Tender Commences (Stage 4) Feb 2023 
+Award Tender/ Instruct Early Works (SP -1)  Oct 2023 
+Optimal development pathway confirmation for Stage 2 CPA Nov 2023 
+Stage 2 CPA submission Dec 2024 
+Stage 2 CPA determination Apr 2024 
+Final FID approved Jun 2024 
+3.3. Procurement  
+The procurement work program includes : 
+ pre-construction work, paying deposits for LLE to secure supplier production slots, and for design and 
+prototype testing of nine standard tower struct ures as part of the early works, and  
+ the procurement team labour and required specialists support needed for  the ECI process including 
+preparing and managing the ECI process, establish ing and awarding contracts, and procuring Stage 1 
+(early works) activities. 
+Our procurement team, with the specialist support, will manage the transactions and the tendering process13.  
+We will engage the construction market early through an ECI procurement process  to promote competition 
+and innovation. We intend to  award two packa ges for the design, construction and procurement of plant , 
+consisting of a separate transmission line package and substation package or a combination of transmission 
+lines and substations. This will be subject to the capacity and capability of the shortlis ted contractors bidding 
+for the work packages.  
+We will engage the construction market early through the ECI process to:  
+                                              
+ 
+13
+ The procurement strategy and process are outlined in Appendix C in the supplementary document A .3 Capex forecast methodology. 
+
+--- PDF page 17 ---
+ 
+xiv | A.2 Scope definition document | HumeLink - Stage 1 (ear ly works) Contingent Project Application ___________________________  
+ ensure greater cost certainty to support the Stage 2 CPA  
+ improve project definition and site information, capture innovations and identify risks opportunities, and 
+ provide assistance to progress the EIS.  
+We need to appoint contactors early to place orders for the LLE and to undertake detailed design work.  
+Production and delivery of LLE is required for construction to begin sufficiently early to meet AEMO’s target 
+delivery date of 2026-27. 
+Production slots for LLE and prototype assembly and testing of nine standard tower designs will be placed 
+by the successful contractors after equipment specifications and the quantities for the materials are 
+determined during the tender phases prior Q4 2023.  
+Bidder payments will be made to unsuccessful tenderers to encourage the competitive participation of 
+multiple bidders and support the considerable investment required of the bidders. These payments are in line 
+with common industry practice and NSW government policy.  
+Table 3.3 overviews the procurement strategy  objectives and deliverables.  
+Table 3.3 Procurement work program - key objectives and deliverables  
+Procurement  Objectives and Deliverables  
+Long-lead purchases  
+Power transformers and reactors have long lead 
+time (12-18 months) and production slots will need 
+to be established prior to approval of the Stage 2 
+CPA. 
+Approximately 39,000 tonnes of steel will be 
+required for the transmission line structures. 
+Orders for the steel will need to be placed 
+sufficiently early after approval of the Stage 2 
+CPA.  Assembly designs and prototype testing of 
+nine standard structures will be required in Stage 
+1. 
+Conductors and other substation plant have long 
+lead times and will also need to be ordered early 
+after approval of the Stage 2 CPA. 
+Production of LLE needs to start in sufficient time to 
+meet AEMO’s target delivery date of 2026-27.  
+Production options or positions will need to be 
+booked with manufacturers (and deposits paid) to 
+achieve the schedule.  
+A Bill of Quantities for major equipment and 
+materials will need to be determined for production 
+to begin and this depends on detailed designs and 
+specifications being sufficiently defined in Stage 1 
+(early works). 
+Market capacity  
+HumeLink is the largest transmission project for 
+NSW in recent times. The construction market is 
+already experiencing record levels of spending 
+which can stretch resources available to 
+Contractors to deliver the Project.  
+The objective is to mitigate the impacts of potential 
+market capacity constraints  and action the 
+procurement strategy to  
+ engage early with Contractors for market 
+awareness and resource planning, and 
+ award multiple construction contracts to diversify 
+resource risk.  
+AEMO optimal development path   
+
+--- PDF page 18 ---
+ 
+xv | A.2 Scope definition document | HumeLink - Stage 1 (ear ly works) Contingent Project Application ___________________________  
+A change to the Project’s optimal development 
+status by AEMO could result in delay of the Project 
+following the Stage 1 CPA. 
+The objective is to manage the production and 
+delivery of materials and equipment to minimise 
+costs overall for the Project should the 
+commissioning date be deferred 12 months while 
+still providing delivery certainty to meet the earliest 
+or a revised commissioning date.  
+Design procurement strategy  
+Design risk is the ownership of design liability and 
+the completeness of design at contract award.  
+Different design delivery strategies can be more 
+efficient depending on the size and complexity of 
+projects.  
+ 
+The objective is to adopt an efficient allocation of 
+design risk for this Project. This will be achieved by:  
+ our own design consultants prepar ing concept 
+designs (~ 25 per cent complete) prior to tenders  
+ detailed d esign work will be completed by the 
+successful contractors during Stage 1 (early 
+works) 
+Contract strategy  
+Market participants vary in size and capability and 
+the strength of tender responses can influence 
+how works are packaged. 
+Some contractors are experienced in the 
+construction of substations and transmission lines, 
+while others are stronger in one or the other.  
+Market feedback has identified the need for 
+bidders to have an in-depth understanding of the 
+project prior to tendering to reduce risk premiums 
+at time of tender, and bidders are also reluctant to 
+invest in tendering if there is a risk of losing with no 
+recovery of costs.  
+ Bidder payments will be paid to unsuccessful 
+tenderers to encourage competitive participation 
+of multiple bidders and supports the considerable 
+investment and innovation required of the 
+bidders. 
+ Contractors will lead detail design to mitigate risk 
+of errors/omissions and allow for innovative 
+construction solutions. 
+ Stage 1 (early works) will include long-lead 
+purchases, the detailed design work , and 
+prototype testing of towers  
+Section 3.3.1 to 3.3.4 overview the scope  of each element of our Stage 1 procurement costs . This will be 
+followed by Stage 2 (implementation), which has a Q3 2024 target commencement date and is subject to 
+regulatory, planning, and funding approval. The current estimate for the duration of construction and 
+commissioning phases in Stage 2 is approximatel y 2.5 years, with completion and handover of works 
+targeted for Q4 2026.  
+3.3.1. Steel tower assembly design and prototype testing 
+The total number of towers in the early concept transmission line designs is 927 and this will comprise nine 
+standard tower assembli es. Each of these tower types will require withstand testing by suppliers to ensure 
+the required strength and the quality of steel being provided by the supplier will meet the design load 
+requirements.  
+The steel supplier scope includes:  
+ tower design and detailing drawings 
+ steel supply for the prototype sections  
+ erection of towers 
+
+--- PDF page 19 ---
+ 
+xvi | A.2 Scope definition document | HumeLink - Stage 1 (ear ly works) Contingent Project Application ___________________________  
+ tower load testing 
+ Management of the above work  
+ 
+Table 3.4 Transmission tower quantities and unit weights 
+3.3.2. Substation transformers and reactors (LLE) 
+The equipment and quantities were specified in the PACR are currently unchanged as follows:  
+ 7 x 500kV 150 MVar shunt reactors (which includes 1 spare) to be located at Gugaa  
+ 5 x 3 phase 1500MVA 500/330/34.5 kV power transformers (plus 1 single phase spare to be located at 
+Gugaa – 16 single phase units in total)  
+The numbers of plant above corresponds to the quantities used in the basis of estimates in the capex forecast 
+for LLE.  
+Stage 1 (early works) involves payment of deposits for LLE to secure supplier production slots.  The timing 
+of this step is critically linked to the awarding of work packages in the procurement process and subsequently 
+the confirmation of specifications and designs as part of the pre -construction works.  
+3.3.3. Pre-construction works 
+Detailed substation designs will be required for: 
+ expansion of Maragle 330kV switching station 500 kV including three new 500/330/33 kV 1500 MVA 
+transformers and provision for two 500 kV double circuit transmission line bays  
+ a new Gugaa 5 00/330 kV Substation in the vicinity of Wagga Wagga Substation including two new 
+500/330/33 kV 1500 MVA transformers 
+ augmentation of the existing Bannaby 500/330 kV Substation to include two additional 500 kV double 
+circuit transmission line bays 
+ augmentation of  the existing Wagga 330 kV Substation to include additional 330 kV double circuit 
+transmission line bays. 
+The preliminary design configurations and plant required for the above substations has formed the basis for 
+estimating the forecast capex for th e pre-construction work for substations.  
+Detailed transmission line designs will be required for: 
+ a 500 kV double circuit transmission line from the existing Bannaby 500 kV Substation to a location near 
+Blowering Dam.  
+
+
+--- PDF page 20 ---
+ 
+xvii | A.2 Scope definition document | HumeLink - Stage 1 ( early works) Contingent Project Application __________________________  
+ a 500 kV double circuit transmission line from the Blowering Dam location to the Maragle 500 kV 
+Substation  
+ a 500 kV double circuit transmission line from Blowering Dam location to the new Gugaa 500 kV 
+Substation 
+ a 330 kV double circuit transmission line from new Gugaa 500/330 kV Substation to existing Wagga 330 
+kV Substation 
+The pre-construction work will also require contractors to complete the following activities: 
+ develop management plans and associated documentation 
+ manage resourcing and scheduling of the pre-construction work  
+ manage planning, resourcing and scheduling of Stage 2 construction work  
+ manage the procurement of the LLE and steel tower type testing  
+ obtain the necessary work p ermits and engaging with s takeholders relevant to the construction  of the 
+Project, and  
+ undertake site surveys to support the detailed design work and above activities  
+3.3.4. Transaction Procurement (indirect costs) 
+A procurement team has been established to develop and implement the procurement strategy .   
+Figure 3.1 shows the five procurement phases which correspond to Stage 1 (early works). Stage 2 CPA is 
+scheduled for the end of Q4 2023. 
+Figure 3.1 Procurement process and timeline  
+ 
+ 
+Our procurement approach is set out in Appendix B of our Capex Forecasting Methodology.  
+
+
+--- PDF page 21 ---
+ 
+xviii | A.2 Scope definition document | HumeLink - Stage 1 (early works) Contingent Project Application __________________________  
+3.3.5. Resource requirements 
+The resources required for transacting the procurement work program comprise internal labour, an  average 
+of seven FTEs, supported by external contracted resources.  
+The external resources and related indirect costs  include: 
+ probity advisor – who will be engaged throughout the Contract Program and will provide Probity Mindset 
+Training as part of the probity framework 
+ independent experts – three experts will be engaged for twelve days to review data. This is consistent 
+with good industry practice and in line with our procurement process for Project EnergyConnect  
+ additional FTEs – to facilitate the ECI delivery phase, RFT preparation and interactive workshops 
+ bidder payments – these are payments to unsuccessful bidders for participating in the process  
+ data room services – these are required to manage transactions, document control, tender submissions, 
+and tender evaluation within a confidential controlled system.  This is consistent with our procurement 
+process for Project EnergyConnect, and  
+ other external resources – additional resources to support transactions with any international contractors, 
+market research and resources for venues, catering, travel and accommodation.   
+Key parameters and drivers for the level of resources required for procurement transactions are: 
+ the specific work program activities involved in each stage such as market sounding, the ECI delivery 
+phase, tender preparation, managing the tender and evaluation of tenders. 
+ the comparative complexity of the project scope and project risks  
+ the number of contractors shortlisted, and  
+ the number of tender phases. 
+3.3.6. Procurement milestones  
+Table 3.5 overviews the procurement milestones for Stage 1 (early works). 
+The Stage 1 timeline is shown in section 6 of our Capex Forecast Methodology. This demonstrates that the 
+procurement activities are on the critical path to construct and commission the Project by 2026-27. 
+Table 3.5 Procurement milestones 
+Milestone – Stage 1 (Early Works) Expected timing 
+Stage 1 Market Scanning commences  Nov 2021 
+Market Sounding Complete (stage 1)  May 2022 
+EOI Market Capability exercise commences (stage 2)  Jun 2022 
+Pre-Tender ECI commences (stage 3)  Sep 2022 
+RFT phase commences - schedule constraint (stage 5) Feb 2023 
+RFT phase Tender closes (stage 5)  Jun 2023 
+
+--- PDF page 22 ---
+ 
+xix | A.2 Scope definition document | HumeLink - Stage 1 (ear ly works) Contingent Project Application ___________________________  
+Milestone – Stage 1 (Early Works) Expected timing 
+Contract Award (SP1 – Stage 1 Pre-Construction works and LLE)  Oct 2023 
+Contract Award (SP2 - Conditional Stage 2 Construction) Nov 2023 
+Pre-construction works commences  Nov 2023 
+LLE (Transformers & Reactors) supply awarded, and production booked 
+– schedule constraint 
+Mar 2023 
+Steel & Towers – place tower design and testing orders – schedule 
+constraint 
+Apr 2024 
+Stage 1 Pre-construction work complete  Jun 2024 
+Stage 2 FID – schedule constraint Jun 2024 
+Stage 2 Construction commences – schedule constraint  Aug 2024 
+Stage 2 Commissioning completed – schedule constraint  Dec 2026 
+3.4. Land acquisitions 
+Approximately 365 kilometres of new double circuit 500kV transmission lines will be constructed requiring 70 
+metre wide easements  to be created over the line routes . Around half of the new transmission lines will be 
+built parallel to existing transmission infrastructure with widening of existing easements required over parts. 
+A new site must be  acquired approximately 15 kilometres east of the existing Wagga Wagga 330kV 
+substation for the construction of a new Greenfield 500/330kV substation.  
+Land acquisitions will therefore be required for: 
+ the freehold purchase of 90 hectare site (approximately) for the new Gugaa 500/330 kV substation  
+ easements for the 330 kV transmission line between Gugaa substation and the existing Wagga Wagga 
+Substation (15 kilometres) 
+ easements for 500 kV transmission line connections consisting of three segments; one from the existing 
+Bannaby substation to the tee -off point in the Blowering area ( ~230 km); a second from the tee-off point 
+to the future Maragle substation 14 (~60 km); and the third from  the tee-off point to the proposed Gugaa 
+substation (75 km). 
+ road easements for permanent access tracks  
+Based on the current indicative transmission line routes it is expected that 3 62 landholders will be directly 
+affected by easement acquisition requirements. We have progressed engagement with landholders based 
+upon the indicative route and broader study corridor. Land access is critical to enable construction to start 
+following the approval of our Stage 2 CPA.  
+                                              
+ 
+14
+ The future Maragle substation is to be delivered as part of the Snowy Connection Transmission Project 
+
+--- PDF page 23 ---
+ 
+xx | A.2 Scope definition document | HumeLink - Stage 1 (ear ly works) Contingent Project Application ___________________________  
+The key success factors are: 
+ early landholde r consultation, reasonable land valuations and genuine negotiations to minimise 
+compulsory acquisition 
+ accurate and efficient refinement of the easement corridor to specific property requirements  
+ certainty of property costs prior to Stage 2, and  
+ alignment of the land acquisition schedule with construction site access to avoid delays and contract 
+disputes. 
+Securing the new Gugaa 500/330kV substation site as part of the early works is a critical element to ensuring 
+the Project can progress as planned and designs can be undertaken to match the available site location, size 
+and geotechnical conditions.  
+There are related services and costs directly related to land acquisitions including: 
+ cultural heritage services  
+ our costs to cover landholders’ own legal and valuation services  
+ our direct land valuation services, and  
+ Valuer General fees. 
+We have a dedicated team focussing on the land acquisitions work program.  
+Table 3.6 overviews the objectives and deliverables for land acquisition work program. 
+Table 3.6 Land acquisition work program key objectives and deliverables 
+Land acquisitions Objectives and Deliverables  
+The Project requires the acquisition 
+of easements over a substantial 
+amount of land, which impacts many 
+landholders, to provide construction 
+site access. Property access is 
+required following the approval of our 
+Stage 2 CPA to allow construction to 
+proceed. 
+To ensure site access as soon as 
+possible, we need to establish early 
+option agreements to secure a future 
+acquisition, and to commence any 
+compulsory acquisition process prior 
+to FID.  
+We have progressed engagement 
+with landholders based upon the 
+indicative route and broader study 
+corridor. There are 362 landholders 
+that we need to negotiate with for an 
+easement.  
+ 
+Our objective are: 
+ ensure landholders have been satisfactorily engaged and are 
+agreeable with the outcomes of negotiations  
+ establish early option agreements for transmission line 
+easements  
+ commence necessary compulsory acquisitio ns prior to 
+commencing Stage 2 activities 
+ acquire the Gugaa substation site  
+ ensure cultural heritage surveys and plans meet the 
+requirements of the relevant government agencies and 
+indigenous stakeholders 
+Achieving the above is critical to:  
+ ensure immediate site access after approval of the Stage 2 
+CPA  
+ avoid any delays to the commencement of the construction 
+works.  
+
+--- PDF page 24 ---
+ 
+xxi | A.2 Scope definition document | HumeLink - Stage 1 (ear ly works) Contingent Project Application ___________________________  
+Land acquisition process  
+Our property acquisition process is guided by the NSW Land Acquisition (Just Terms Compensation) Act 
+1991. Under the Act, acquisition can be by agreement or compulsory acquisition. The acquisition process 
+must be a fair and transparent process with appropriate engagement and negotiation undertaken before 
+compulsory acquisition can be considered as a last reso rt.  
+Figure 3.2 overviews the process for acquisition by negotiation with landowners. 
+Figure 3.2 Acquisition process by negotiation with landholder 
+ 
+To align the timing of funding approval and construction site access, we will seek to negotiate and enter 
+into property option agreements with willing landholders. These conditional contracts are an agreement f or 
+us to acquire an easement over the land at a pre-agreed value at a future date. This approach will d eliver 
+greater certainty for the implement costs of the Project and will reduce the time to access site for 
+construction once funding is approved.  
+If an agreement cannot be reached, we have the option of compulsory acquisition under the Land Acquisition 
+(Just Terms Compensation) Act 1991 with the approval of the Governor. The Act sets out a process that 
+must be followed. The compulsory acquisition process is generally as shown in Figure 3.3. 
+ 
+ 
+3.4.1. Resource requirements 
+In summary the level of management resources and the direct project costs for land acquisitions is driven by 
+four key factors: 
+1) 365 kilometres of transmission line route requiring cultural heritage surveys.  
+2) 362 impacted landholders will require individual consultation and negotiations to determine land 
+valuation i.e. the level of compensation to be paid . The level of resources required is similar to that 
+required for the eastern section of Project EnergyConnect, being more densely populated and with 
+similar land uses. 
+Figure 3.3 Compulsory acquisition process 
+
+
+--- PDF page 25 ---
+ 
+xxii | A.2 Scope definition document | HumeLink - Stage 1 ( early works) Contingent Project Application __________________________  
+3) 287 private landholders will need to be engaged to establish option agreements to secure future 
+acquisitions. No all private landholders will accept the final offer for acquisition. We have estimated that 
+115 will choose to negotiate through compulsory acquisition.  
+4) 130 of the landholders are expected in total, including all Crown and statutory authority landholders, to 
+need valuations determined by the Valuer General and the level of engagement and negotiations by the 
+team included in estimates.  
+3.4.2. Land acquisition milestones 
+Table 3.7 shows the land acquisition target milestones.  
+Table 3.7 Land acquistion milestones 
+Milestone Expected timing 
+Commence issue of Letters of Offer (including Option Agreements) for easements  Jul 2022 
+Gugaa substation land acquired Oct 2022 
+Complete Option Agreements for easements  May 2023 
+Commence compulsory acquisition for easements (Valuer General)  Oct 2023 
+Finalise Compulsory Acquisition List  May 2024 
+Stage 2 FID – schedule constraint Jun 2024 
+The actual acquisitions for easements will be completed in Stage 2 and will follow the key milestones and 
+constraints shown in Table 3.8 as follows. 
+Table 3.8 Land acquistion key dates following FID-2  
+Milestone Expected timing 
+Proposed Acquisition Notices (PANs) commenced  Jun 2024 
+Pay Compensation for Voluntary Easements  Jun 2024 
+Registration of voluntary easement acquisition complete Sep 2024 
+Registration of compulsory acquired easements  Oct 2024 
+Contractor Possession of Site commences – Schedule Constraint  Aug 2024 
+Compulsory acquired compensation for easements commenced  Feb 2025 
+Compulsory acquired compensation for easements completed  May 2025 
+Contractor access over entire transmission line routes – schedule constraint Jun 2025 
+
+--- PDF page 26 ---
+ 
+xxiii | A.2 Scope definition document | HumeLink - Stage 1 (early works) Contingent Project Application __________________________  
+3.5. Environmental approvals  
+The size  of the Project as well as the terrain and the geographical expanse that it covers, means that it will 
+have substantial biodiversity impacts. S ignificant resources are required to manage environmental 
+implications of the Project. In particular, we must follow the established frameworks to avoid, minimise and 
+offset impacts through the NS W Biodiversity Offsets Scheme.  
+Table 3.9 overviews objectives and deliverables for this scope of work.  
+Table 3.9 Work program key objectives and deliverables 
+Planning approval/biodiversity offsets Objectives and Deliverables  
+The impacts from changes during the 
+planning approval process, or obligations 
+within the conditions of consent, can 
+significantly impact construction contract 
+time and cost if they are not incorporated 
+in the competitive tender phase.  
+We will need to follow the established 
+framework to avoid, minimise and offset 
+impacts through the NSW Biodiversity 
+Offsets Scheme. 
+We must undertake a robust environmental impact 
+assessment and develop a comprehensive EIS that 
+ensures: 
+ potential environmental and social impacts are avoided or 
+minimised 
+ our biodiversity offsets credit obligation is accepted  
+ net positive biodiversity outcomes are achieved, and 
+ the delivery of planning and environmental approvals is 
+met according to the project schedule.  
+The ecological surveys will inform the biodiversity assessment for the EIS and development of a biodiversity 
+offsets strategy. Field surveys, technical assessments and the development of the EIS documentation are 
+the primary requirements for environmental approvals. 
+These environmental services are being directed by a small team. The level of resources  provided by 
+Aurecon, with support from other specialist providers, is driven by the following key factors and needs:  
+ seasonal surveys of flora, fauna and ecological impacts, and including specific biodiversity impacts, over 
+the routes of the proposed 365 kilometres of transmission lines  
+ the assessment of impacts and development of the EIS for this very significant size project and given the 
+geographical expanse and potential impacts  
+ development of a biodiversity offset strategy to minimise the significant costs of biodiversity offsets 
+obligations determined to apply to the Project  
+ construction environmental support, technical peer review and route options as sessment/validation  
+The bulk of the work was competitively tendered. Aurecon (the successful tenderer) provided methodologies 
+for each technical specialist area, the resources required and delivery schedule . The initial resources 
+identified have been revised to meet a more precise known scope of work.  
+Environmental approvals are critical activities with critical independencies to other processes. The mitigation 
+of the key risks for each process are provided in Table 3.10.  
+
+--- PDF page 27 ---
+ 
+xxiv | A.2 Scope definition document | HumeLink - Stage 1 (ear ly works) Contingent Project Application __________________________  
+Table 3.10 Environmental approvals and property acquisition risk assessment  
+Risks to Project  Mitigation measures put in place  
+ changes to project scope 
+ community opposition 
+ gaps in the EIS content  
+ Robust impact assessment by experienced 
+environmental consultancy  
+ Early and ongoing community consultation and 
+stakeholder engagement  
+ Construction expert advice to the proposed construction 
+methodology 
+3.5.1. Resource requirements 
+The resource requirements for environmental approvals consist of:  
+ Work already commenced, including  work by Aurecon for planning and undertaking seasonal route 
+ecology surveys, the environmental scoping report under the  NSW Environmental Planning and 
+Assessment  (EP&A) Act and a referral under the Environment Protection and Biodiversity Conservation 
+(EPBC) Act 
+ Remaining work will predominately be undertaken by our contractor Aurecon and includes:  
+- targeted threatened species surveys and heritage surveys 
+- providing technical assessments for the EIS and input to route option assessments  
+- completion of EIS documentation  
+ElS and Biodiversity requirements  
+The Project has been designated Critical State Significant Infrastructure (CSSI) given that it is  part of the 
+wider ‘Snowy 2.0 and Transmission Project ’. It therefore requires assessment and approval under Part 5, 
+Division 5.2 of the NSW EP&A Act before it can proceed. The NSW Minister for Planning and Public Spaces 
+is the determining authority for the Project.  
+The Commonwealth Environment Protection and Biodiversity Conservati on (EPBC) Act provides that a 
+proposed action (proposed project activities) requi res approval if it has, will have, or is likely to have a 
+significant impact on Matters of National Environmental Significance (MNES) or other matters protected 
+under the EPBC Act. It is expected that the Project will be determined to be a ‘controlled acti on’ under the 
+EPBC Act and therefore will require approval from the Commonwealth Minister for the Environment.  
+The EIS process under the NSW EP&A Act  has been accredited under the NSW and Commonwealth 
+Government’s EPBC Act bilateral agreement for the assessment of the Project, which means the EIS process 
+will support both NSW and Commonwealth Government processes. Further, potential impacts to MNES and 
+the environment generally are considered throughout the EIS.  
+The EIS will include a suite of mitigation m easures, as well as project commitments, which will be 
+incorporated into various Construction Environmental Management Plans (EMPs) for the Project’s delivery.  
+Construction EMPs will be prepared for the construction phases of the Project and will be prepa red by 
+Construction Contractors as part of the pre-construction works in Stage 1 ready for the construction works to 
+begin in Stage 2.  
+The biodiversity assessment undertaken as part of the EIS will inform the development of the Biodiversity 
+Offset Strategy. It will also provide guidance on how to deliver an offset portfolio that will realise conservation 
+
+--- PDF page 28 ---
+ 
+xxv | A.2 Scope definition document | HumeLink - Stage 1 (ear ly works) Contingent Project Application __________________________  
+outcomes that improve or maintain the viability of impacted biodiversity. The purpose of the strategy will be 
+to identify an appropriate approach to manag ing project impacts which could not be otherwise avoided or 
+minimised.  
+The NSW Biodiversity Conservation Act 2016 (BC Act) and the Biodiversity Conservation Regulation 2017 
+(BC Regulation) outlines the framework for addressing impacts on biodiversity from  development and 
+clearing. It establishes a framework to avoid, minimise and offset impacts on biodiversity from development 
+through the Biodiversity Offsets Scheme.  
+As required, we will employ an accredited assessor to apply the Biodiversity Assessment Me thod (BAM). 
+The accredited assessor will prepare a Biodiversity Development Assessment Report (BDAR) that will set 
+out how the Project has applied steps to avoid and minimise impacts on biodiversity. The BDAR also 
+describes the number and type of ecosystem  and species credits required to offset residual impacts of the 
+activity on biodiversity (credit obligation). The Project must submit the BDAR to the consent authority (DPIE) 
+as part of their application. 
+DPIE will determine whether to approve or refuse the application against the legal and technical requirements 
+of the BC Act, BC Regulation and the BAM.  
+If DPIE approves the application, the credit obligation (and any other actions required) will be included as 
+conditions of the consent. DPIE has the discretion to increase or decrease the credit obligation generated by 
+the BDAR. Other conditions may also be imposed to secure commitments in the BDAR that the Project has 
+made to avoid or minimise impacts on biodiversity.  
+Once DPIE has issued the consent, that includes the final credit obligation, the Project will have three primary 
+ways that they can satisfy this obligation: 
+ identify and purchase the required ‘like for like’ credits in the market and then retire those credits via the 
+Biodiversity Offsets and Ag reement Management System (BOAMS), e.g. using the registers or by 
+retaining a broker to locate credits for them,  
+ establishing Biodiversity Stewardship Area sites through property purchases  
+ use the offsets payment calculator to determine the cost of the cr edit obligation and transfer this amount 
+to the Biodiversity Conservation Fund via the BOAMS. The Biodiversity Conservation Trust is then 
+responsible for identifying and securing the credit obligation.  
+An estimate of the costs to retire the required biodiversity offsets will be prepared based on:  
+ the application of the BAM using data obtained from surveys of vegetation and other biodiversity impacts 
+anticipated from construction and operations of the Project.  
+ determining the lowest cost options of the three  primary ways to meet the determined credit obligations 
+and 
+ an assessment of the risks in forecasting expected biodiversity offset costs  
+Confirmation of biodiversity offset costs will be developed in conjunction with the EIS process. These costs 
+to the Project will be significant and are determined on the specific impacts assessed in accordance with the 
+Biodiversity Conservation Act 2016 (NSW), and EPBC Act (Commonwealth).  
+
+--- PDF page 29 ---
+ 
+xxvi | A.2 Scope definition document | HumeLink - Stage 1 (ear ly works) Contingent Project Application __________________________  
+3.5.2. Environmental approvals milestones 
+Table 3.11 overview the high -level milestone for the environmental approvals work program. The level of 
+resources required for the deliverables linked to each of the key milestones are scheduled during the D&A 
+phase to meet these targeted deliverable dates and schedule constraints.  
+Table 3.11 Environmental approvals target milestones 
+Milestone Expected timing 
+EIS technical studies and draft preparation commences   Aug 2021 
+Scoping report complete Mar 2022 
+Revised 200m corridor published Apr 2022 
+EIS technical studies and draft preparation completed  Aug 2022 
+Complete DPIE Adequacy Review and submit final EIS  Jan 2023 
+Public exhibition & submissions/DPIE and Commonwealth Review/EIS Approval 
+commences 
+Jan 2023 
+EIS approval Nov 2023 
+Stage 2 FID – schedule constraint  Jun 2024 
+3.6. Community and stakeholder engagement  
+Community and stakeholder engagement is critical to establish support for the Project. The landholders and 
+communities that will be impacted by the Project need to be kept well informed of the benefi ts of the project 
+and be provided information about the development, the construction and future operation of transmission 
+line. Achieving fair and reasonable expectations amongst these stakeholders is an important aspect for the 
+success of the Project including the level and style of engagement.  
+Table 3.12 overviews the objectives and deliverables for our community and stakeholder engagement work 
+program. 
+Table 3.12 Community and stakeholder work program - key objectives and deliverables  
+Community and stakeholder engagement  Objectives and Deliverables  
+Community and stakeholder engagement is a 
+critical process to establish support for the 
+Project from all stakeholders. 
+Industry market participants, the Federal and 
+NSW Governments, landholders, the community 
+and indigenous groups are major stakeholders in 
+the Project. 
+The objective is to establish support for the Project 
+from all stakeholders. This will require the 
+development and implementation of an effective 
+stakeholder engagement plan and action plans for 
+key engagement areas and stakeholders.  
+The plan will aim to support efficient and timely 
+delivery of consultation and engagement across a 
+range of stakeholders for the Project.  
+ 
+
+--- PDF page 30 ---
+ 
+xxvii | A.2 Scope definition document | HumeLink - Stage 1 ( early works) Contingent Project Application__________________________  
+We have developed a HumeLink Engagement Strategy (HES) to outline our communication and engagement 
+approach with communities, landowners and other key stakeholders in Stage 1 (early works). The HES refers 
+to engagement activities for the period March 2022 to March 2023.  
+Figure 3.4 shows the four key engagement areas identified in the HES. Figure 3.5 shows how our Social 
+Legacy communications will link to our social legacy strategy and its objectives.  
+ 
+Figure 3.4 Key engagement areas  Figure 3.5 Social Legacy key focus areas  
+ 
+ 
+ 
+ 
+Indigenous engagement  
+A critical aspect of our engagement is the need to plan and develop actions based on input from the Aboriginal 
+and Torres Strait Islander community around their skills and needs, and to then consider what the Project 
+has to offer and learn. Feedback is being used to help plan the route, minimise project impacts and maximise 
+benefits for the Aboriginal and Torres Strait Islander community and  the Project. 
+In line with our Aboriginal Participation in Construction Policy, we will include requirements in construction 
+contracts for the development of participation opportunities and will set a minimum standards and targets of 
+2.5% to 5% based on th e nature, location and objectives of the Project and community, and encourage the 
+achievement of higher targets.  
+Social legacy  
+Another key aspect of the Project is social impact and legacy management. Our Corporate Strategic Plan, 
+Energy Vision and Environmental and Social and Governance (ESG) principles as well our commitment as 
+a signatory to the Energy Charter give an insight into our Social Legacy aspirations which embraces wider 
+aims towards building a better community for all.    
+NSW and Federal Govern ment policies currently target a minimum 3% project spend on indigenous 
+employment and businesses, and for achieving social legacy outcomes/objectives. For Project 
+EnergyConnect we are targeting 5% and for HumeLink we will aim to achieve a similar or higher investment 
+over the course of the development and delivery phases of the Project.  
+HumeLink’s Social Legacy Strategy aims to enable a lasting positive legacy in south western NSW and 
+provide long-term community benefit and resilience through infrastructure. Initiatives developed as part of 
+
+
+--- PDF page 31 ---
+ 
+xxviii | A.2 Scope definition document | HumeLink - Stage 1 (early works) Contingent Project Application _________________________  
+this strategy will involve many key partners and stakeholders including  local government, the Department of 
+Regional NSW, TAFE's, Dep artment of Education , DPIE, Training Services NSW, Local Aboriginal Land 
+Councils, and several local community groups, universities and long term regional employers.  
+We have established a total of nine separate initiatives that will be funded.  
+The programs relate to areas that have a longer life beyond the construction of HumeLink such as electricity 
+industry opportunities though education and youth pathways, creating opportunities for local contractor 
+services, employment and education opportunities for indigenous communities, creating future leaders in the 
+energy and renewable energy sector through tertiary education programs, and cultural community 
+partnerships. 
+Our engagement  in Stages 1 to 3 of our HES 
+The stakeholder team has focussed on implementing an init ial community engagement plan covering stage 
+1 to 3 of the HES. Stage 1 has been associated with the wider study corridor affecting around 750 affected 
+landholders and the wider community . Stage 2 has been a shorter information gathering phase of 
+engagement with stakeholders now that the current corridor being assessed is 200 metres wide with 362 
+affected landholders.  
+We have engaged experienced contractor s to provide the bulk of the resources to deliver community and 
+stakeholder services. These contractors will work alongside our internal project team.  
+ Stage 1 – Wider Corridor landholder and community engagement 
+Community and stakeholder engagement commenced in March 2020, with the release of an indicative route 
+corridor but was delayed soon after due to COVID -19 restrictions and re -commenced in September 2020. 
+Landholder engagement has been strong with a range of  questions and concerns expressed via written 
+feedback and landholder forums.  
+This initial stage of engagement had been associated with the wider study corridor affecting around 750 
+affected landholders and during this stage we were informed of the need f or improvements to our 
+engagement plan. A review by independent Landholder and Community Advocate Rod Stowe in early 2021 
+identified several areas for improvement and one of which was the establishment of Community Consultative 
+Groups (CCGs) across three r egions which will provide opportunities for landholders, local community 
+organisations, councils and members of the community to be more actively involved.  
+In September 2021 we announced changes to support the preference for a double -circuit configuration  for 
+the entire route. This will reduce the P roject’s footprint and minimise environmental impacts .   
+ Stage 2 – Narrowed Study Corridor landholder and community engagement 
+Stage 2 of our engagement conducted over June to December 2021 , has involved further discussions with 
+landholders and communities to examine ways to reduce the overall impact on them based on the revised 
+route and corridor. During this Stage, we submitted the Scoping Report to the NSW Department of Planning 
+and Environment as part of the environmental approval process. The scoping report also gives an early 
+indication of community views on the project and identified what engagement will be carried out during the 
+preparation of the EIS.  
+We have used this feedback to inform th e development of our updated HES for Stage 3. 
+ Stage 3 – Project development HES engagement initiatives, EIS consultations and exhibitions 
+Stage 3 involves implementing engagement in itiatives for  land acquisitions, the environmental approval 
+process and social legacy outcomes. A key aspect is the development and publication of the final EIS will be 
+
+--- PDF page 32 ---
+ 
+xxix | A.2 Scope definition document | HumeLink - Stage 1 (ear ly works) Contingent Project Application __________________________  
+followed by a public exhibition and stakeholder feedback sessions scheduled for Q3 2022 and complete d by 
+Q2 2023. Landholders, the public and other stakeholders will have the opportunity to comment through the 
+EIS phase. 
+The key activities in stage 3 are:  
+ Landowner engagement: narrowed corridor action plan  
+ Community engagement: event and engagement acti on plan 
+ Indigenous engagement action plan 
+ EIS planning and exhibition plan  
+ Social legacy action plan 
+ Media action plan 
+ Environmental assessment requirement ( SEARs) action plan 
+3.6.1. Resource requirements  
+The resource requirements for the community and stakehol der engagement work program consist of : 
+ The work already undertaken commensurate with actual costs to 31 December 2021.  
+- This has included the preparation of the HE S and early engagement with the community with a 
+team consisting of a small internal team wit h our consultant Aurecon providing the bulk of the 
+required specialist resources. Some media and community events have been held.  
+- These activities corresponding to the actual costs represent around 33 per cent of this work 
+program’s total within the D&A phase, representing a measure of progress to date.  
+ The remaining work commensurate with the forecast additional capex  
+- The forecast remaining work will focus engagement with directly affected stakeholders and 
+communities within the narrower 200 metre corrido r. Our internal team is relatively small and is 
+involved in managing the media and communications  and supporting the overall community 
+strategy and activities. 67 per cent of the total resources are required to implement the remaining 
+work. This will predominately be provided by specialist consultants. 
+Key parameters and drivers for the level of resources required for community and stakeholder engagement 
+are: 
+ the nature of the land impacted by the transmission line route is sensitive and densely populated ( and is 
+comparable only to the eastern section of PEC ). The land is predominately in natural landscape 
+containing a diversity of habitats with high biodiversity value, the route travelling through forested areas, 
+near National Parks and waterways 
+ our commitment to preserve recreational and heritage sites and indigenous culture 
+ the number of directly impacted landholders over the transmission line routes  (362 landholders) 
+ population density in the local regions is high (i.e. compared to PEC)  
+ our commitment  to establish a long-term social legacy with impacted communities  
+ responding to stakeholder feedback to improve our engagement including by establishing CCGs .  
+
+--- PDF page 33 ---
+ 
+xxx | A.2 Scope definition document | HumeLink - Stage 1 (ear ly works) Contingent Project Application __________________________  
+3.6.2. Community and stakeholder engagement milestones  
+Table 3.13 below provides the current plan of high-level milestone deliverables required from the engagement 
+processes.  
+Table 3.13 Community and stakeholder engagement milestones 
+Milestone Expected timing 
+Initial wider corridor landholder consultation  - commenced Apr 2020 
+Initial community engagement plan finalised, and engagement - commenced Oct 2020 
+PACR publication submitted – public consultation begins Jul 2021 
+PACR public consultation finalised Oct 2021 
+200m corridor announcement and early engagement Feb 2022 
+Pre-EIS scoping report announcement and commence engagement  Feb 2022 
+Revisions to the engagement strategy and plan s (HES) Apr 2022 
+200m corridor second phase announcement and commence engagement  Apr 2022 
+70 metre corridor announcement and early engagement  May 2022 
+EIS exhibition early engagement Dec 2022 
+EIS submission - schedule constraint Jan 2023 
+Final EIS exhibition announced, and engagements commence  Jan 2023 
+EIS public exhibition complete  Oct 2023 
+Contractor award announced, and engagements commence  Nov 2023 
+Stage 2 (Implementation) (subject to AER approval)  Jun 2024 
+3.7. Regulatory approvals and other support  
+HumeLink is the first project to progress through the two -stage CPA process with the AER. The Stage 1 
+Application includes early works activities and costs and  our Stage 2 Application will include the project 
+implementation costs .  
+3.7.1. Resource requirements 
+The resource requirements for regulatory approvals and other support consist of:  
+ the work already undertaken commensurate with historical costs. This has included the RIT-T 
+assessment ( PSCR, PADR and PACR ). This includes planning and documentation f or submissions, 
+modelling of market benefits, related corporate and regulatory support, reviews and economic 
+independent verification of the content and data. Historical costs represent around a half of this work 
+program’s total forecasted costs.  
+
+--- PDF page 34 ---
+ 
+xxxi | A.2 Scope definition document | HumeLink - Stage 1 (ear ly works) Contingent Project Application __________________________  
+ the remaining work commensurate with the forecast additional capex. This involves explaining and 
+justifying our forecast costs, document preparation, regulatory modelling, commissioning expert reports, 
+and independent assessment and verification of our cos ts. It also involves continued engagement with 
+the AER and AEMO.  
+3.7.2. Regulatory approval milestones 
+Table 3.14 below provides the current plan of future hi gh-level milestone deliverables required as part of the 
+staged RIT-T and CPA process.  
+Table 3.14 Regulatory target milestones 
+Milestone Expected timing 
+PACR publication (complete) Jul 2021 
+PACR public consultation (complete) Oct 2021 
+RIT-T (complete) Jan 2022 
+Feedback loop and confirmation of optimal development (complete) Feb 2022 
+Stage 1 CPA Board approval and submission to the AER  Apr 2022 
+Stage 1 CPA Determination Jun 2022 
+Feedback loop and confirmation of optimal development before Stage 2 
+CPA 
+Oct 2023 
+Stage 2 Board approval and submission to the AER  Dec 2023 
+Stage 2 CPA Determination Jun 2024 
+Stage 2 FID Jun 2024 
+
+--- PDF page 35 ---
+ 
+xxxii | A.2 Scope definition document | HumeLink - Stage 1 ( early works) Contingent Project Application__________________________  
+Appendix A : Project Scope 
+We completed the Regulatory Investment Test for Transmission (RIT-T) in July 2021, which identifies 
+HumeLink (Option 3C) as the preferred option for reinforcing the southern shared network. 15 
+Option 3C requires the construction of new 500 kV transmission lines in a ‘loop’ between Maragle, Bannaby 
+and Wagga Wagga. This transmission network development reinforces the NSW Southern Shared Network 
+and unlocks access to new generation sources. This is shown i n a  single line diagram representation in 
+Figure 3.6. 
+The Project is currently in the concept stage with further scope refinement to occur during the pro ject 
+development phase.  
+The scope for Option 3C includes the following:  
+ Three (3) new 500 kV double circuit transmission lines, connecting the existing Bannaby 500 kV 
+Substation, new Maragle 500 kV (Snowy 2.0) Substation and new 500 kV Gugaa Substation, v ia a 
+common intersection point located in the vicinity of Blowering Dam.  
+ In addition to the 500 kV lines above, there will be one (1) new 330 kV double circuit transmission line 
+connecting the new 500 kV Gugaa Substation and the existing Wagga Wagga 330 k V Substation. 
+ 
+Figure 3.6 HumeLink Option 3C circuit diagram of network connections 
+ 
+                                              
+ 
+15
+  Transgrid, Reinforcing the NSW Southern Shared Network to increase transfer capacity to demand centers (HumeLink) (HumeLink 
+PACR), July 2021, p. 1  
+
+
+--- PDF page 36 ---
+ 
+xxxiii | A.2 Scope definition document | HumeLink - Stage 1 (early works) Contingent Project Application _________________________  
+A map representing the proposed 500 kV and 330 kV double circuit transmission line routes is shown in 
+Figure 3.7. 
+Figure 3.7 Map of proposed transmission line routes  
+ 
+ 
+The proposed transmission line arrangements are as follows: 
+ 500 kV double circuit transmission line from existing Bannaby 500 kV Substation to a location in the 
+vicinity of Blowering Dam.  
+ 500 kV double circuit transmission line from Blowering Dam location to new Maragle 500 kV Substation.  
+ 500 kV double c ircuit transmission line from Blowering Dam location to new Gugaa 500 kV Substation.  
+ 330 kV double circuit transmission line from new Gugaa 500/330 kV Substation to existing Wagga 330 
+kV Substation. 
+The proposed Substations are: 
+ HumeLink will extend two ex isting substations at Bannaby and Wagga Wagga and establish new 
+substations at Maragle and Gugaa. New equipment will include:  
+- A new Maragle 500 kV substation including three new 500/330/33 kV 1500 MVA transformers 16 and 
+provision for the additional 500 kV double circuit transmission lines.  
+                                              
+ 
+16
+  The Maragle 330 kV switching station is being constructed as part of the Snowy 2.0 Generator Connection project on the same si te and 
+will precede HumeLink works. 
+
+
+--- PDF page 37 ---
+ 
+xxxiv | A.2 Scope definition document | HumeLink - Stage 1 (ear ly works) Contingent Project Application _________________________  
+- A new Gugaa 500/330 kV Substation in the vicinity of Wagga Wagga Substation including two new 
+500/330/33 kV 1500 MVA transformers. 
+- Extension and augmentation of the existing Bannaby 500/330 kV Substation to accommodate t wo 
+additional 500 kV double circuit transmission lines.  
+- Extension and augmentation of the existing Wagga 330 kV Substation to accommodate the additional 
+330 kV double circuit transmission lines.  

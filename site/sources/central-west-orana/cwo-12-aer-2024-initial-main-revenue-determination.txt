@@ -1,0 +1,1728 @@
+
+
+===== PDF PAGE 1 =====
+
+ 
+  
+Revenue 
+determination 
+(Contestable) 
+ACEREZ – Main Central-West Orana 
+Renewable Energy Zone network 
+project 
+ 
+Made under the Electricity Infrastructure 
+Investment Act 2020 (NSW)  
+ 
+ 
+ 
+ 
+ 
+December 2024 
+
+===== PDF PAGE 2 =====
+
+
+
+===== PDF PAGE 3 =====
+
+Revenue Determination (Contestable) – ACEREZ – Main Central-West Orana REZ network project 
+iii 
+ 
+Contents  
+Overview ............................................................................................................................... 1  
+1 Regulatory framework ................................................................................................... 4  
+1.1 Overview of the framework ............................................................................... 4  
+1.2 Contestable processes ..................................................................................... 4  
+1.3 Revenue determinations ................................................................................... 5  
+2 Main Central-West Orana network project ...................................................................  7 
+2.1 Project context .................................................................................................. 7  
+2.2 Project overview ............................................................................................... 7  
+2.3 Authorisation of the Project ............................................................................... 8  
+2.4 Enabling CWO REZ project .............................................................................13 
+3 ACEREZ’s revenue proposal ...................................................................................... 14 
+3.1 Compliance with requirements .........................................................................14 
+3.2 Key elements of the revenue proposal .............................................................14 
+4 Basis of acceptance of costs ...................................................................................... 18 
+4.1 Regulatory framework ......................................................................................18 
+4.2 Competitive assessment process and our role .................................................19 
+4.3 Finalisation and change items ..........................................................................23 
+4.4 Regulatory and contractual costs .....................................................................26 
+5 Capital costs ................................................................................................................ 32 
+5.1 Regulatory framework ......................................................................................32 
+5.2 ACEREZ’s revenue proposal ...........................................................................32 
+5.3 AER assessment .............................................................................................34 
+5.4 AER determination ...........................................................................................35 
+6 Operating and maintenance costs ............................................................................. 36 
+6.1 Regulatory framework ......................................................................................36 
+6.2 ACEREZ’s revenue proposal ...........................................................................36 
+6.3 AER assessment .............................................................................................37 
+6.4 AER determination ...........................................................................................37 
+7 Total revenue and schedule of payments .................................................................. 39 
+7.1 Regulatory framework ......................................................................................39  
+7.2 AC
+EREZ’s revenue proposal ...........................................................................39 
+7.3 AER assessment .............................................................................................40 
+7.4 AER determination ...........................................................................................40 
+8 Revenue adjustments ................................................................................................. 43 
+8.1 Regulatory framework ......................................................................................43 
+8.2 ACEREZ’s revenue proposal ...........................................................................43 
+8.3 AER assessment .............................................................................................52 
+8.4 AER determination ...........................................................................................53 
+Glossary .............................................................................................................................. 54 
+Appendix A: Quarterly schedule of payments – CONFIDENTIAL ................................... 56 
+Appendix B: Cost components – CONFIDENTIAL ........................................................... 58 
+Appendix C: Operating and maintenance costs – CONFIDENTIAL ................................ 65 
+Appendix D: Capital cost – CONFIDENTIAL ..................................................................... 67 
+Appendix E: Revenue adjustments – CONFIDENTIAL ..................................................... 69 
+ 
+
+===== PDF PAGE 4 =====
+
+Revenue Determination (Contestable) – ACEREZ – Main Central-West Orana REZ network project 
+1 
+ 
+Overview 
+The NSW Electricity Infrastructure Roadmap (the Roadmap) sets out a plan for the 
+development of Renewable Energy Zones (REZ) in NSW that will allow multiple renewable 
+generation and storage projects to be grouped into specific locations to achieve a number of 
+NSW Government policy objectives. 
+The Central-West Orana (CWO) Renewable Energy Zone (REZ) is approximately 20,000 
+square kilometres and is located in central NSW and centred by Dubbo and Dunedoo. It is 
+the first REZ to be developed under the Electricity Infrastructure Investment Act 2020 
+(EII Act). The CWO REZ is designed to initially deliver 4.5 gigawatts (GW) of network 
+capacity utilising generation from solar, wind and energy storage, with capacity to increase to 
+6 GW by 2038.  
+The CWO REZ was declared by the NSW Minister for Energy and Environment under 
+section 19(1) of the EII Act in November 2021.1 The declaration was amended in December 
+2023 and April 2024. 
+The CWO REZ network project comprises: 
+• the network infrastructure within the CWO REZ to connect new renewable generation 
+and storage projects to the existing NSW transmission network at Wollar. This is referred 
+to as the Main CWO REZ network project (Project) and is the subject of this contestable 
+revenue determination. 
+• upgrades to the existing NSW transmission network to transfer energy from the CWO 
+REZ to major load centres in NSW. This is referred to as the Enabling CWO REZ 
+network project (Enabling project). It will be undertaken by Transgrid and will be subject 
+to a separate non-contestable revenue determination. 
+Throughout 2022 and 2023, the NSW Infrastructure Planner, Energy Corporation of NSW 
+(EnergyCo) undertook a competitive assessment process to select a Network Operator for 
+the Project.
+2 ACEREZ Partnership (ACEREZ), a consortium comprising Cobra, Acciona and 
+Endeavour Energy, was the successful tenderer. EnergyCo also undertook two other 
+competitive assessment processes during that period to procure synchronous condensers (to 
+provide system strength for the Project) and an independent certifier (to certify completion of 
+the various elements of the Project).  
+On 4 June 2024, AEMO Services (the Consumer Trustee) authorised ACEREZ to be the 
+Network Operator for the Project under section 31(1)(b) of the EII Act.3 ACEREZ will 
+construct, own, control and operate the Project for 35 years, after which the asset will be 
+handed back to EnergyCo. 
+On 24 October 2024, ACEREZ submitted a revenue proposal to the AER setting out the total 
+amount it proposes to be paid for the Project and the corresponding quarterly schedule of 
+payments. It also proposed adjustment mechanisms by which those payments could be 
+adjusted over the term of the Project. ACEREZ’s proposal is based upon the outcomes of the 
+three competitive assessment processes undertaken by EnergyCo.  
+The AER is required under section 38 of the EII Act to make a determination in respect of the 
+amount payable to an authorised Network Operator. This determination sets out in relation to 
+ACEREZ’s revenue proposal: 
+ 
+1  https://gazette.nsw.gov.au/gazette/2021/11/2021-569.pdf 
+2  EnergyCo is a corporation constituted under the Energy and Utilities Administration Act 1987 (NSW) and is 
+responsible for leading the delivery of Renewable Energy Zones (REZs) as part of the NSW Government’s 
+Electricity Infrastructure Roadmap.  
+3  AEMO Services, Notice of Authorisation – Main CWO REZ Network Infrastructure Project, 4 June 2024. 
+
+===== PDF PAGE 5 =====
+
+Revenue Determination (Contestable) – ACEREZ – Main Central-West Orana REZ network project 
+2 
+ 
+Our assessment of EnergyCo’s competitive assessment processes 
+We have reviewed the competitive assessment processes undertaken by EnergyCo 
+against the requirements in our Revenue Determination Guideline for NSW Contestable 
+Network Projects4 (Guideline) and are satisfied that they were ‘genuine and appropriate’ 
+processes. On this basis, we must rely on and adopt the outcomes from the competitive 
+assessment processes in our determination.5 Section 4.2 of this determination sets out 
+why we consider the processes were genuine and appropriate.  
+Our assessment of costs associated with contractual and regulatory requirements 
+We have assessed costs proposed by ACEREZ that relate to contractual and regulatory 
+requirements. We have determined that ACEREZ is entitled to recover these costs under 
+the Electricity Infrastructure Investment Regulation 2021 (EII Regulation). Section 4.4 of 
+this determination sets out why we have adopted the proposed costs associated with 
+contractual and regulatory requirements. 
+Our assessment of amendments to the Project Deed6  
+We have reviewed amendments to the Project Deed negotiated between ACEREZ and 
+EnergyCo since the execution of the Commitment Deed.7 We found all but one of the 
+amendments to be compliant with processes agreed in the Commitment Deed as a result 
+of the competitive assessment process to select a Network Operator. Section 4.3 of this 
+determination sets out why we have accepted all but one of the amendments to the 
+contractual arrangements.  
+The total amount payable and schedule of payments to be made to ACEREZ 
+We have verified that ACEREZ’s revenue proposal is consistent with the Project Deed 
+between ACEREZ and EnergyCo which is the outcome of the competitive assessment 
+processes. On this basis, our determination confirms a total amount payable to ACEREZ 
+over the 35 years of the project. Our determination also confirms the schedule of quarterly 
+amounts to be paid to ACEREZ and the dates on which those quarterly payments are to 
+be made.  
+The EII Regulation requires that we only publish a schedule of payments for the five years 
+following our contestable revenue determination.8 For this reason, the schedule of 
+payments set out in table 7.3 of this determination shows payments through to 
+December 2029. However, our determination also contains confidential appendices 
+setting out the schedule of payments and the cost components which underpin these 
+payments for the full 35-year Project term. 
+The basis on which the schedule of payments may be adjusted 
+The amounts payable to ACEREZ as set out in this determination are subject to 
+adjustment mechanisms that are the outcome of the competitive assessment processes. 
+The adjustment mechanisms are set out in Section 8 of this determination and are 
+consistent with the Project Deed that ACEREZ is required to enter into.  
+ 
+4  AER, Revenue determination guideline for NSW contestable network projects, Final, 19 August 2022. 
+5  Clause 45(6) of the EII Regulation. 
+6  The Project Deed to be entered into between EnergyCo and ACEREZ is the contractual basis for ACEREZ 
+acting as Network Operator for the CWO REZ. ACEREZ must enter into the Project Deed as a requirement 
+of the Consumer Trustee’s authorisation. The Project Deed submitted with ACEREZ’s revenue proposal is 
+in draft form and will be finalised at Contract Close. 
+7  EnergyCo, ACEREZ, the D&C Contractor and the M&L Contractor entered into the Commitment Deed on 18 
+December 2023. The Commitment Deed sets out the agreed outcome from the competitive assessment 
+process to select a Network Operator for the CWO REZ and the rights and obligations of the parties in the 
+period to Contract Close of the Project Deed.  
+8  Clause 53(1A) of the EII Regulation. 
+
+===== PDF PAGE 6 =====
+
+Revenue Determination (Contestable) – ACEREZ – Main Central-West Orana REZ network project 
+3 
+ 
+The determination provides for annual adjustment decisions over the project term. In 
+addition to these annual processes, the AER will be required to assess adjustment 
+proposals following defined project milestones or events. The first of these milestones is 
+Financial Close of the Project, which is expected to occur in 2025. The Financial Close 
+Revenue Determination Adjustment proposal will reflect the final Project Deed agreed at 
+Contract Close and the Project revenue and costs as updated through the Financial Close 
+process. 
+Our determination commences on 13 December 2024 and is required to be remade every 
+five years until the expiry of the Project term (and such additional time as may be required to 
+allow for any end of Project term adjustments) or the contract is terminated.9 
+The Scheme Financial Vehicle (SFV) is required to pay ACEREZ, as the Network Operator, 
+the quarterly amounts set out in the schedule of payments on the dates confirmed in this 
+determination. The costs associated with the Project and the Enabling project form part of 
+the costs of the Roadmap, which is funded from amounts recovered from the NSW electricity 
+distributors. The amounts are passed on to NSW electricity consumers via their electricity 
+retail bills. We note that access fees paid by generation and storage projects connecting to 
+CWO REZ will contribute to funding of the Project, reducing the amount the SFV is required 
+to recover from NSW electricity distributors (and, therefore, NSW electricity customers). 
+Publication 
+In making the revenue determination, we provided ACEREZ and EnergyCo an opportunity to 
+identify information which they claim should not be disclosed. We have considered these 
+claims in accordance with the requirements of clause 53(4) of the EII Regulation. We have 
+determined it is not appropriate for some material to be published following this process. 
+Further, clause 53(1A) of the EII Regulation limits publication of determined revenue to that 
+for the five years following the date of the revenue determination. 
+We have redacted the appendices to this determination. Appendices A–D include cost and 
+revenue information over the Project term and redaction of this information is consistent with 
+the requirement of clause 53(1A) of the EII Regulation. Components of revenue for the first 
+five years of the Project term are set out in the body of this determination (chapter 7). 
+Appendix E sets out the application of adjustment mechanisms which includes commercially 
+sensitive information. Summaries of each adjustment mechanism are included in chapter 8 of 
+this determination. 
+We intend to review redactions in our determination at the time of future adjustment 
+decisions and redeterminations, and may consider removing redactions if we consider the 
+basis for the non-disclosure claim is no longer relevant. We will comply with any relevant 
+consultation requirements at that time. We intend to publish the determined development and 
+construction capital costs following our decision on the Financial Close Revenue 
+Determination Adjustment, recognising that some components of these costs will not be 
+finalised until that time. 
+ 
+9  Section 40(1)(a) of the EII Act. 
+
+===== PDF PAGE 7 =====
+
+Revenue Determination (Contestable) – ACEREZ – Main Central-West Orana REZ network project 
+4 
+ 
+1 Regulatory framework 
+1.1 Overview of the framework 
+In November 2020, the NSW Government released the Roadmap, which is enabled by the 
+EII Act. The AER was appointed to be the economic regulator of network infrastructure 
+projects under the EII Act in 2021. Our key function under Division 3 of Part 5 of the EII Act is 
+to make revenue determinations for Network Operators selected by EnergyCo (the 
+Infrastructure Planner) and authorised or directed to carry out the network infrastructure 
+project.10  
+A Network Operator may be selected to carry out a network infrastructure project in one of 
+two ways: 
+1. Under a contestable process, a Network Operator is selected through a competitive 
+assessment process conducted by EnergyCo.  
+2. Under a non-contestable process, a Network Operator is selected directly by EnergyCo.  
+In both cases, the Network Operator must be authorised by the Consumer Trustee, or 
+authorised or directed by the Minister, before carrying out the network infrastructure project.  
+The regulatory process varies significantly between the contestable and non-contestable 
+approaches, however, both seek to limit the amount that NSW electricity customers are 
+required to pay for network infrastructure projects by ensuring costs are kept to a prudent, 
+efficient and reasonable level.  
+The non-contestable process is subject to a ‘building block’ assessment, where the AER 
+reviews the prudency, efficiency, and reasonableness of the underlying cost components of a 
+Network Operator’s total revenue. 
+In comparison, the contestable process relies on EnergyCo conducting a competitive 
+assessment process so that competition between market participants can reveal efficient 
+costs. The scope and timing of contestable projects are decided by EnergyCo as the 
+Infrastructure Planner. Our role in relation to contestable processes is to assess whether a 
+competitive assessment process was genuine and appropriate, and if so, we must rely on 
+and adopt the outcome in our revenue determination. 
+1.2 Contestable processes 
+Under the EII framework11 EnergyCo may undertake a competitive assessment process to 
+select a Network Operator to carry out all or part of a network infrastructure project. 
+EnergyCo is responsible for identifying the network infrastructure project options and 
+selecting the preferred project, setting the procurement strategy, conducting the competitive 
+assessment process, evaluating submissions, and selecting a successful proponent to 
+recommend for authorisation. The AER has no direct role in these aspects of the project. 
+However, if EnergyCo intends to undertake a competitive assessment process, it must 
+consult with the AER before and during the process and provide information to the AER on 
+the process.12  
+ 
+10  Under the EII Act, a network infrastructure project can be either a REZ network infrastructure project or a 
+priority transmission infrastructure project.  
+11  T he Electricity Infrastructure Investment Act 2020 (EII Act) and the Electricity Infrastructure Investment 
+Regulation 2021 (EII Regulation), collectively. 
+12  Clause 45(4) of the EII Regulation.  
+
+===== PDF PAGE 8 =====
+
+Revenue Determination (Contestable) – ACEREZ – Main Central-West Orana REZ network project 
+5 
+ 
+After the competitive process has been completed and a Network Operator has been 
+selected, we decide whether we are satisfied that the process was genuine and appropriate. 
+Our Guideline sets out how we undertake reviews of competitive assessment processes and 
+the criteria we apply. We undertake reviews at two stages in the process:  
+• At the start of the competitive process, we review whether EnergyCo’s procurement 
+strategy is likely to result in a genuine and appropriate competitive assessment process. 
+• After the competitive process has been completed and a Network Operator has been 
+selected, we decide whether we are satisfied that the process was genuine and 
+appropriate. To assist us in these reviews, we monitor the competitive assessment 
+process through regular meetings with EnergyCo and we may also request to be an 
+observer at procurement evaluation meetings. 
+1.3 Revenue determinations 
+Following authorisation of a Network Operator by the Consumer Trustee or the Minister, the 
+Network Operator is required to submit a revenue proposal to the AER setting out the 
+amount it proposes to be paid for carrying out the network infrastructure project. 
+For a Network Operator selected through a competitive assessment process, the proposal 
+must be consistent with the outcome of that process and the terms of any contractual 
+arrangements it has entered into (or will enter into). Our Guideline sets out: 
+• information requirements for a revenue proposal 
+• our approach to assessing a revenue proposal 
+• the timeline for making a determination, and  
+• the information our determination will contain. 
+Section 37 of the EII Act sets out principles we must consider in making a revenue 
+determination for a Network Operator, including that a Network Operator is entitled to the 
+prudent, efficient and reasonable costs incurred in carrying out the infrastructure project.  
+In summary our determination must include the: 
+• amount payable to a Network Operator – section 38(1) of the EII Act 
+• components of the amount payable – section 38(2) of the EII Act 
+• schedule of amounts required to be paid to the Network Operator and the dates on 
+which the amounts must be paid – clause 52 of the EII Regulation. 
+Our determination may also include provision for the adjustment of any amount included in 
+our determination under section 38(3) of the EII Act and clause 51(1) of the EII Regulation.  
+For REZ network infrastructure projects, section 38(6) of the EII Act also provides that the 
+amount we determine for the capital costs for the development and construction of the 
+project (applying the Transmission Efficiency Test) must not exceed the maximum capital 
+amount as advised by the Consumer Trustee. This amount represents the maximum capital 
+cost for delivering the CWO REZ network project that will provide a net benefit to NSW 
+electricity customers relative to a scenario of meeting the Roadmap generation and storage 
+targets without the CWO REZ network project. 
+If we are satisfied that a competitive assessment process was genuine and appropriate, we 
+can presume the principles under section 37 of the EII Act have been met (including that the 
+resulting costs can be taken to be prudent, efficient and reasonable) and we must make a 
+revenue determination consistent with the outcomes of the competitive assessment process.  
+Once we have made a determination, the Scheme Financial Vehicle, which manages 
+payments to and from participants under the NSW framework, is required to pay the Network 
+
+===== PDF PAGE 9 =====
+
+Revenue Determination (Contestable) – ACEREZ – Main Central-West Orana REZ network project 
+6 
+ 
+Operator in accordance with it.13 However, while we are required to determine the schedule 
+of payments to be paid to ACEREZ for the whole project, it is not expected that the full cost 
+of the project will be recovered from NSW electricity customers. Access fees to be paid by 
+generators and storage projects connecting to the CWO REZ are intended to offset the cost 
+of  ‘hub to project’ (connection) assets as well as system security (synchronous condenser) 
+costs for the network.
+14 In addition, access fees are also intended to include a contribution to 
+reduce consumer funded costs of the core network infrastructure.15 The Scheme Financial 
+Vehicle will collect the access fees from generation and storage projects and offset them 
+against the total Roadmap costs to be recovered from the NSW distribution networks (and 
+ultimately NSW electricity customers).
+16 
+ 
+13  Section 39(1) of the EII Act. 
+14  AEMO Services has the role of setting the Access Fees that are payable to the Scheme Financial Vehicle 
+by Access Rights Holders in an Access Scheme. 
+15  The Base Fee component of Access Fees will contribute to community benefit sharing and employment 
+initiatives in the CWO REZ and CWO Access Scheme administration, with the residual amounts used to 
+reduce consumer contributions to the costs of the CWO REZ. Central-West Orana Renewable Energy Zone 
+Access Fee Guidelines, October 2024 (p.10). 
+16    Under the NS W Electricity Infrastructure Investment Act 2020 (EII Act), we are required to make an annual 
+contribution determination to ensure the Scheme Financial Vehicle has sufficient funds to meet its liabilities.  
+
+===== PDF PAGE 10 =====
+
+Revenue Determination (Contestable) – ACEREZ – Main Central-West Orana REZ network project 
+7 
+ 
+2 Main Central-West Orana network project  
+2.1 Project context 
+The CWO REZ was declared by the NSW Minister for Energy and Environment under 
+section 19(1) of the EII Act in November 2021.17 The declaration was amended in December 
+202318 and again in April 2024.19 The CWO REZ is approximately 20,000 square kilometres 
+located in central NSW and centred by Dubbo and Dunedoo. It comprises two network 
+projects, namely: 
+• Main CWO REZ network project (Project) – involving the construction and operation of 
+network infrastructure within the CWO REZ to connect new renewable generation and 
+storage projects to the existing NSW transmission network at Wollar. The Project is the 
+subject of this contestable revenue determination.  
+• Enabling CWO REZ network project (Enabling project) – involving upgrades to the 
+existing NSW transmission network to allow the transfer energy from the CWO REZ to 
+major load centres in NSW. It will be undertaken by Transgrid and will be subject to a 
+separate non-contestable revenue determination. 
+As part of the Minister’s declaration of the CWO REZ, EnergyCo was appointed as the 
+Infrastructure Planner. Throughout 2022 and 2023, EnergyCo undertook a competitive 
+assessment process to select a Network Operator for the Project. ACEREZ was the 
+successful tenderer.  
+2.2 Project overview  
+The Project involves the construction and maintenance of a transmission network to connect 
+new renewable generation and storage within the CWO REZ to the existing NSW 
+transmission network at Wollar. As shown in figure 2.1, the project spans a corridor from 
+Wollar to Elong Elong via Merotherie. It is designed to initially deliver 4.5 GW of network 
+capacity 20 and support up to 7.7 GW of generation. In summary, the network will consist of: 
+• Core infrastructure: Comprising a 90 km transmission line corridor between Wollar and 
+Elong Elong, with a new switching station at Barigan Creek and energy hubs at Elong 
+Elong and Merotherie. The transmission lines will be two double circuit 500 kilovolt (kV) 
+lines (initially operated at 330 kV between Merotherie and Elong Elong).  
+• Hub to project infrastructure: A 330 kV network of assets extending from energy hubs 
+at Merotherie and Elong Elong to generator connection points. In total this network will 
+cover a corridor of around 150 km. 
+• System strength infrastructure: Comprising seven 250 megavolt amperes (MVA) 
+synchronous condenser units located at the energy hubs.  
+ 
+17  NSW Government Gazette dated 5 November 2021.  
+18  NSW Government Gazette dated 15 December 2023. This amendment was to increase the intended 
+network capacity from 3 GW to 6 GW. 
+19  NSW Government Gazette dated 19 April 2024. This amendment was to provide more detail on the network 
+infrastructure to be developed.  
+20  Network capacity for the Project is planned to be increased to 6 GW by 2038. 
+
+===== PDF PAGE 11 =====
+
+Revenue Determination (Contestable) – ACEREZ – Main Central-West Orana REZ network project 
+8 
+ 
+Figure 2.1: Map of the Project 
+ 
+Note: This figure reflects the project scope as authorised by AEMO Services. The project proposed by 
+ACEREZ excludes three switching stations for Separable Portion 3 (MER C3, MER C3-3 and 
+MER C3-1); one switching station for Separable Portion 4 (MER C2-1); and one switching station for 
+Separable Portion 10 (ELO C3-1). See section 2.3 of this determination for more information. 
+ACEREZ, as the Network Operator, will build, own and operate the project for 35 years, after 
+which the network will be handed back to EnergyCo, with an agreed expiry payment to be 
+paid to ACEREZ.21 Infrastructure completion will be staged between April 2028 and 
+April 2030, with generation projects commencing progressively from November 2028 to 
+April 2030.22 
+The Project term commences on the date of Financial Close, currently estim ated to occur on 
+ 2025, and en ds on the Expiry Date, which is expected to be  2060, 
+unless extended or terminated in accordance with the Project Deed. 
+2.3 Authorisation of the Project 
+EnergyCo is required to assess and make recommendations about REZ network 
+infrastructure projects to the Consumer Trustee (AEMO Services). On 22 December 2023, 
+EnergyCo submitted an Infrastructure Planner Recommendation Report23 to AEMO Services 
+that recommended AEMO Services authorise: 
+ 
+21  The Expiry Payment (Terminal Value) is a payment to ACEREZ by EnergyCo in the final period of the 
+Project term, calculated in accordance with Schedule 25 (Expiry and Termination Payments) to compensate 
+ACEREZ for the remaining value of the assets that are transferred to EnergyCo. The Expiry Payment does 
+not form part of this revenue determination. 
+22  Based on the forecast dates for operational completion of each separable portion (network component) as 
+set out in the draft project deed.   
+23  EnergyCo published a summary report of its assessment and recommendations for the CWO REZ network 
+infrastructure. The report is available on EnergyCo’s website. 
+
+
+===== PDF PAGE 12 =====
+
+Revenue Determination (Contestable) – ACEREZ – Main Central-West Orana REZ network project 
+9 
+ 
+• ACEREZ to carry out the Project, and 
+• Transgrid to carry out the Enabling project. 
+On 4 June 2024, after conducting its assessment, AEMO Services authorised ACEREZ to 
+carry out the Project (and Transgrid to carry out the Enabling project) in accordance with the 
+terms of its Notice of Authorisation and section 31(1)(b) of the EII Act.24 As required by 
+section 31(2) of the EII Act, AEMO Services also determined a maximum capital amount for 
+the development and construction of the Project (section 5.3 discusses our application of the 
+maximum capital amount). 
+Scope of the authorisation 
+Section 37(1) of the EII Act requires that in exercising our functions we take into account a 
+number of principles, including that a Network Operator is entitled to recover the prudent, 
+efficient and reasonable costs incurred by the Network Operator for carrying out the 
+infrastructure project. Section 37(2) of the EII Act states that the carrying out of a project by a 
+Network Operator includes the development and construction of network infrastructure as 
+specified in the Network Operator’s authorisation. 
+Given these requirements we must ensure that in making our revenue determination the 
+Project’s scope is consistent with that contained in AEMO Services’ authorisation. 
+ACEREZ’s revenue proposal 
+ACEREZ’s revenue proposal provides information on the consistency of the Project scope 
+with AEMO Services’ authorisation. The relevant assets that make up the Project are 
+included in Exhibit 1 to the Project Deed – Technical Requirements.  
+ACEREZ notes that the scope of the Project can change in defined circumstances, in 
+accordance with the Project Deed, after the submission of its proposal. Specifically: 
+• Foundation Energy Suppliers may be removed from the Project if conditions in the 
+authorisation are not met by 30 June 2025.25 
+• Changes in scope may be required to ensure Project objectives can continue to be met 
+following a change in circumstances.
+26  
+In all cases, changes to the scope of the Project will be undertaken consistent with AEMO 
+Services’ authorisation of the Project. 
+AER considerations 
+Table 2.1 sets out the scope and terms of the Project as authorised by AEMO Services. It 
+also sets out our assessment of the scope of the Project proposed by ACEREZ compared 
+with that authorised by AEMO Services. For the reasons set out in the table, we consider the 
+Project scope contained in ACEREZ’s revenue proposal is consistent with AEMO Services’ 
+authorisation.    
+ 
+24  Details of AEMO Services’ authorisations for the CWO REZ main and enabling projects can be found on its 
+website.  
+25  Pre-Agreed Changes (as described in Schedule 5 of the Project Deed) may be directed by EnergyCo in 
+accordance with clause 26 of the Project Deed to remove assets related to Foundation Energy Suppliers at 
+any time prior to the relevant Pre-Agreed Change Election Date. 
+26  Clauses 25 (Changes), 26 (Infrastructure Planner initiated Changes) and 27 (Network Operator initiated 
+Changes) of the Project Deed set out the process applicable to changes in scope, which will remain 
+operative over the Project term. 
+
+===== PDF PAGE 13 =====
+
+
+
+===== PDF PAGE 14 =====
+
+
+
+===== PDF PAGE 15 =====
+
+
+
+===== PDF PAGE 16 =====
+
+
+
+===== PDF PAGE 17 =====
+
+Revenue Determination (Contestable) – ACEREZ – Main Central-West Orana REZ network project 
+14 
+ 
+3 ACEREZ’s revenue proposal 
+3.1 Compliance with requirements 
+On 24 October 2024, ACEREZ submitted its revenue proposal to the AER for a contestable 
+revenue determination for the Project.27 ACEREZ states that its revenue proposal has been 
+prepared to be consistent with the requirements set out in the EII Act and the EII Regulation 
+as they relate to the Project. It also states that its proposal complies with: 
+• t he requirements of the AER’s Contestable Guideline; 
+• t he requirements of the AER’s Information notice issued to ACEREZ; 
+• t he contractual arrangements established under the Commitment Deed and those that 
+have been agreed between ACEREZ and EnergyCo under the draft Project Deed; and  
+• a ny other contractual arrangements entered into by ACEREZ with other parties.  
+ACEREZ provided a statutory declaration signed by its Chief Executive confirming that the 
+information contained in its revenue proposal is consistent with the contractual arrangements 
+provided with its proposal, our Information notice and the Consumer Trustee’s authorisation.  
+The revenue proposal contains a table setting out where relevant obligations have been 
+addressed. ACEREZ also submitted that its revenue proposal was consistent with the scope 
+and terms of the authorisation for the Project made by AEMO Services.  
+Based on our review of ACEREZ’s revenue proposal we found it was compliant with the 
+above requirements. We note that the EII Act and EII Regulation do not provide a function for 
+the AER to publish ACEREZ’s revenue proposal. 
+3.2 Key elements of the revenue proposal 
+Set out below is a summary of the key elements of the revenue proposal submitted by 
+ACEREZ for the Project. 
+Competitive procurement processes 
+The EII Regulation prescribes that we must rely on and adopt any information provided to us 
+by the Infrastructure Planner: 
+• that was obtained from a competitive assessment process; and  
+• if we are satisfied that the competitive assessment process was ‘genuine and 
+appropriate’.
+28  
+Section 2 of ACEREZ’s revenue proposal provides an overview of the three competitive 
+assessment processes undertaken for the Project (that is, the selection of a Network 
+Operator, the selection of an Independent Certifier and the procurement of synchronous 
+condensers). ACEREZ submits that as components of the Project were established through 
+competitive assessment processes, its revenue proposal should be assessed by the AER as 
+a contestable determination.  
+Section 4 of this determination contains our assessment of whether the competitive 
+assessment processes undertaken for the Project were genuine and appropriate and the 
+implications of that assessment.  
+ 
+27  Initial Revenue Proposal for the Central-West Orana Renewable Energy Zone – Network Operator, 
+24 October 2024. 
+28  Clause 45(6) of the EII Regulation.  
+
+===== PDF PAGE 18 =====
+
+Revenue Determination (Contestable) – ACEREZ – Main Central-West Orana REZ network project 
+15 
+ 
+Finalisation and change items 
+The Commitment Deed entered into by EnergyCo and ACEREZ following the competitive 
+assessment process for selection of the Network Operator allows for the Project Deed and 
+related contractual arrangements to be amended between execution of the Commitment 
+Deed and Contract Close (subject to any requirements in the Commitment Deed being met).  
+Section 3 of ACEREZ’s revenue proposal provides a summary of the amendments to the 
+Project Deed, arising from finalisation and change items, that have been agreed between 
+ACEREZ and EnergyCo between the execution of the Commitment Deed and the 
+submission of the revenue proposal.29 Attachment 13.7 of the revenue proposal sets out 
+further detail regarding the amendments, including: 
+• the process that has been followed to resolve each item against the requirements in the 
+Commitment Deed,  
+• the time and cost impact of resolving an item (where applicable), and  
+• any changes made to the Project Deed or related contractual arrangements.  
+Section 4 of this determination contains our assessment of whether the amendments 
+negotiated by the parties met the requirements set out in the Commitment Deed.  
+Capital costs 
+In section 4 of its revenue proposal, ACEREZ sets out its proposed capital costs for the 
+Project. The capital costs are separately set out for development and construction capital 
+costs and non-development and construction capital costs. 
+Our assessment of ACEREZ’s proposed capital costs are set out in section 5 of this 
+determination, including our consideration of the Transmission Efficiency Test and our 
+application of the maximum capital cost to the determined development and construction 
+capital costs.  
+Operating and maintenance costs 
+Section 5 of ACEREZ’s revenue proposal sets out its proposed operating and maintenance 
+costs for the Project, broken down into the following categories: Maintenance and Lifecycle 
+costs; Infrastructure Planner Fees (Operations); Strategic Benefit Payments; and Network 
+Operator Costs.  
+Our assessment of ACEREZ’s proposed operating and maintenance costs are set out in 
+section 6 of this determination.  
+Regulatory and contractual costs 
+Section 6 of ACEREZ’s proposal provides information on costs associated with regulatory 
+requirements, including their legislative basis, their forecast amount and their duration.  
+Section 7 of ACEREZ’s revenue proposal sets out Infrastructure Planner Fees that ACEREZ 
+is required to pay to EnergyCo under the Project Deed. These fees are intended to 
+reimburse EnergyCo’s costs incurred for the Project, including in relation to development 
+expenditure, project management costs, and costs associated with acquiring land and 
+easements.  
+Our assessment of ACEREZ’s proposed regulatory and contractual costs is set out in section 
+4 of this determination.  
+ 
+29  All changes to the financial model since Commitment Deed execution and the revenue proposal have been 
+audited by BDO (see Attachment 13.6 of the revenue proposal). 
+
+===== PDF PAGE 19 =====
+
+Revenue Determination (Contestable) – ACEREZ – Main Central-West Orana REZ network project 
+16 
+ 
+Total revenue and schedule of payments 
+Section 9 of ACEREZ’s revenue proposal sets out the total amount it proposes to be paid for 
+carrying out the Project.30 It also breaks down the total amount payable into the following 
+components: return on capital; return of development and construction capital costs; return of 
+non-development and construction capital costs; and operating and maintenance costs. 
+The quarterly schedule of payments proposed by ACEREZ is set out in its financial model 
+(Attachment 13.5) provided with its revenue proposal. ACEREZ states that the financial 
+model has been subject to an independent audit by BDO31 and it has provided a copy of the 
+audit report with its proposal (Attachment 13.6). Section 9 of the proposal also sets out the 
+basis on which the schedule of payments has been calculated and the dates on which 
+ACEREZ proposes the amounts should be paid to it each quarter.  
+Our assessment of the above matters is set out in section 7 of this determination.  
+Revenue adjustments 
+Section 10 and Attachment 13.8 of ACEREZ’s revenue proposal sets out the adjustment 
+mechanisms which ACEREZ is seeking to be included in our determination and includes 
+evidence of the relevant Project Deed provisions that require these mechanisms. 
+A description of the adjustment mechanisms and our review of them is set out in section 8 of 
+this determination.  
+Augmentation framework 
+Section 11 of ACEREZ’s revenue proposal provides an overview of the augmentation 
+framework that has been agreed between ACEREZ and EnergyCo and included in 
+Schedule 11 of the Project Deed. The framework supports future augmentations of the 
+Project through the application of pre-agreed methods for establishing cost components.  
+ACEREZ has requested that the AER comment on its proposed mechanisms for determining 
+cost components for a future augmentation that are referenced back to costs for this Project. 
+Its revenue proposal provides pricing schedules for the reference cost components and a 
+protocol for applying the schedules.  
+We are not required to comment on any aspect of an augmentation proposal prior to 
+receiving a formal augmentation proposal. Given the 42 business days we have to make this 
+determination and in the absence of a formal augmentation proposal, we have advised 
+ACEREZ that we would not be providing comments on its reference cost mechanisms as 
+part of this determination. However, we have indicated that we may do so subsequent to this 
+determination, noting that any comments provided would not bind any future AER decision.   
+Supporting information 
+ACEREZ’s revenue proposal included the following supporting information: 
+• Commitment Deed (Attachment 13.2) – which sets out the agreed outcome from the 
+competitive assessment process for selection of the Network Operator. 
+• D raft Project Deed including relevant schedules and exhibits to the Project Deed and 
+related contractual arrangements (Attachment 13.3) - which sets out the terms and 
+conditions on which ACEREZ will carry out the Project.  
+ 
+30  ACEREZ, Initial Revenue Proposal for the Central-West Orana Renewable Energy Zone – Network 
+Operator - Confidential, 23 October 2024, pp. 83,84. 
+31  BDO provides audit, tax and advisory services and was engaged by ACEREZ to provide assurance over the 
+financial model. BDO was required to conduct its review in accordance with ASRS 4400 – Agreed-Upon 
+Procedures Engagements to report factual findings. BDO’s scope included confirming the inputs into the 
+model reflect the Project Deed and that all calculations in the model are correct. 
+
+===== PDF PAGE 20 =====
+
+Revenue Determination (Contestable) – ACEREZ – Main Central-West Orana REZ network project 
+17 
+ 
+• F inancial model (Attachment 13.5) – which is used to calculate the schedule of 
+payments to ACEREZ based on the terms of the Project Deed, along with an audit report 
+confirming the model accurately calculates the schedule of payments (Attachment 13.6). 
+Our review of relevant aspects of the Commitment Deed and the draft Project Deed are 
+discussed throughout this determination, but we confirm that the revenue proposal reflects 
+these documents. The financial model is discussed further in section 7. 
+
+===== PDF PAGE 21 =====
+
+Revenue Determination (Contestable) – ACEREZ – Main Central-West Orana REZ network project 
+18 
+ 
+4 Basis of acceptance of costs 
+In determining the amount payable to ACEREZ under section 38 of the EII Act, the AER 
+must establish the prudent, efficient and reasonable costs of carrying out the network 
+infrastructure project.
+32 This section sets out our assessment of the costs proposed by 
+ACEREZ.  
+Our assessment requirements vary based on how the cost was established. Most of the 
+proposed costs were established through three competitive assessment processes 
+undertaken for the Project, or through finalisation and change processes undertaken 
+following the conclusion of these competitive assessment processes in accordance with the 
+Commitment Deed. A set of costs have also been proposed based on contractual payments 
+to EnergyCo under the Project Deed and regulatory requirements that ACEREZ must comply 
+with under a relevant law.  
+4.1 Regulatory framework 
+Competitive assessment process 
+Clause 45 of the EII Regulation allows the Infrastructure Planner to undertake a competitive 
+assessment process to select a Network Operator, or a service provider to assist a Network 
+Operator, to carry out all or part of a network infrastructure project.  
+In making a revenue determination under the EII Act, clause 45(6) of the EII Regulation 
+requires the AER to rely on and adopt information provided by the Infrastructure Planner if: 
+• the Infrastructure Planner obtained the information from a competitive assessment 
+process, and 
+• the AER is satisfied that the competitive assessment process was genuine and 
+appropriate.
+33  
+The EII Regulation prescribes a set of principles that the AER is to take into account in 
+exercising its functions. Specifically, clause 46(1)(a) prescribes that a genuine and 
+appropriate competitive assessment process: 
+• results in the cost of carrying out an infrastructure project being prudent, efficient, and 
+reasonable, and 
+• provides incentives to promote economic efficiency, and  
+• results in revenue for the ongoing ownership, control and operation of the infrastructure 
+project being commensurate with the regulatory and commercial risks.  
+These principles mirror the principles in section 37(1) of the EII Act, which we must take into 
+account in exercising our functions under Part 5 (Division 3) of the EII Act.  
+On this basis, if we are satisfied that a competitive assessment process is genuine and 
+appropriate, we can consider the resulting costs to be prudent, efficient and reasonable and 
+must adopt the outcome of that process in our determination.  
+Infrastructure Planner to consult and provide information 
+The EII Regulation requires the Infrastructure Planner to consult with the AER and provide us 
+with information about and obtained from a competitive assessment process both before and 
+ 
+32  Section 37(1) of the EII Act: A Network Operator is entitled to recover the prudent, efficient and reasonable 
+costs incurred by the Network Operator for carrying out the infrastructure project.  
+33  Clause 45(5) of the EII Regulation. 
+
+===== PDF PAGE 22 =====
+
+Revenue Determination (Contestable) – ACEREZ – Main Central-West Orana REZ network project 
+19 
+ 
+during the process.34 Our Guideline sets out information we require from the Infrastructure 
+Planner, and processes to facilitate AER observation of a competitive assessment process. 
+The Infrastructure Planner must: 
+• provide us with a procurement strategy at the commencement of the process.35 We 
+notify the Infrastructure Planner whether we are satisfied that the procurement strategy 
+is likely to result in a genuine and appropriate competitive assessment process. 
+• allow the AER to monitor the competitive assessment process, request information and 
+observe key meetings. 
+• provide the AER with a procurement report on the conduct of the competitive 
+assessment process once the process is complete.
+36 We assess the procurement report 
+in making our assessment of whether a process was genuine and appropriate. 
+Specific costs the Network Operator is entitled to recover 
+Clause 46(1)(b) of the EII Regulation sets out specific costs that a Network Operator is 
+entitled to recover through its revenue determination. These include: 
+i. prudent, efficient and reasonable costs incurred by the Network Operator in complying 
+with a regulatory requirement37 
+ii. payments required to be made by the Network Operator to the Infrastructure Planner 
+under a contractual arrangement, if the Network Operator was required to enter the 
+contractual arrangement under the relevant authorisation. 
+4.2 Competitive assessment process and our role 
+The development, construction and operation of the Project has been procured through a 
+competitive assessment process. As two aspects of the Project were not able to be finalised 
+through that process, EnergyCo decided to contestably procure those elements through 
+separate processes. The three elements of the Project that have been contestably procured 
+are set out below.  
+1. Network Operator – EnergyCo undertook a competitive assessment process to procure 
+a Network Operator to construct, operate and maintain the Project. The process 
+commenced in late 2021 and concluded in December 2023. EnergyCo selected 
+ACEREZ as the successful tenderer and the parties signed a Commitment Deed on 
+18 December 2023.  
+2. Independent Certifier – An independent party38 who will provide design, construction, 
+and completion certification to both EnergyCo and ACEREZ through to construction 
+completion (expected in 2030). EnergyCo commenced a competitive assessment 
+process to select the Independent Certifier (IC) in early 2023 and GHD/Jacobs was 
+selected as the successful tenderer in December 2023. EnergyCo and GHD/Jacobs 
+signed the IC Project Deed on 11 December 2023 and ACEREZ acceded to the 
+IC Project Deed on 18 December 2023. 
+ 
+34  Clause 45(4) of the EII Regulation. 
+35  Information that must be included in a procurement strategy is set out in section 4.2 of our Guideline. 
+36  Information that must be included in a procurement report is set out in section 5.2 of our Guideline. 
+37  ‘ Regulatory requirement’ is defined in clause 46(3) of the EII Regulation as ‘a requirement imposed on the 
+Network Operator by a relevant law but does not include a requirement to pay a fine, penalty or 
+compensation for a breach of a requirement imposed on the Network Operator by a relevant law.’  
+38  The role of an Independent Certifier on a project is to provide specialist advice, monitor compliance with 
+design, specification and statutory standards and ensure all project requirements are met. Although acting 
+on behalf of the principal stakeholder to the project, the Independent Certifier is required to act impartially. 
+
+===== PDF PAGE 23 =====
+
+Revenue Determination (Contestable) – ACEREZ – Main Central-West Orana REZ network project 
+20 
+ 
+3. Synchronous Condensers – EnergyCo authorised ACEREZ to carry out a competitive 
+assessment process to procure the supply and installation of seven 250 MVA 
+synchronous condenser units39 to deliver a system strength solution of 1750 MVA for the 
+Project. The bidders were also required to price a service arrangement for maintaining 
+the synchronous condensers for a 5-year period. The process commenced in August 
+2023 and concluded in July 2024, with Siemens Energy selected as the successful 
+tenderer.  
+The general procurement stages followed by EnergyCo (and ACEREZ for the synchronous 
+condenser process) in each of the competitive assessment processes were: 
+• Market sounding – included briefings to the market to gauge interest in delivering the 
+required activities and identify parties that had relevant experience and qualifications to 
+perform the work.  
+• Expression of interest – seeking submissions from potential bidders against criteria 
+assessing their qualifications, experience and organisational capacity to undertake the 
+work.  
+• Request for proposal – requiring successful respondents from the expression of interest 
+stage to respond to a detailed statement of requirement. The request for proposal set 
+out the process to be followed in assessing the proposals and the criteria against which 
+proposals would be assessed.  
+• Revise and confirm – used to update tenderers’ bids to reflect changes arising from 
+clarifications during the request for proposal stage and any changes introduced by 
+EnergyCo after the submission date.  
+• Negotiation – involved meetings between the tenderers and EnergyCo to resolve 
+departures from the bid requirements contained in bids.  
+Our role 
+Consistent with our Guideline, we reviewed the procurement strategies developed by 
+EnergyCo at the commencement of each competitive assessment process. While suggesting 
+improvements to some aspects of the strategies, we were satisfied that the process set out in 
+each procurement strategy was likely to result in a genuine and appropriate competitive 
+assessment process. 
+We attended key meetings throughout each competitive assessment process, including 
+meetings of the evaluation and review panels, and negotiation meetings between EnergyCo 
+(or ACEREZ) and the tenderers. Where we identified any issues we raised them with the 
+evaluation panel chair. All issues were resolved to our satisfaction during the processes. 
+EnergyCo consulted with us throughout each competitive assessment process and provided 
+us with information on each process when requested. For example, EnergyCo provided us 
+with key draft procurement documentation such as expression of interest and request for 
+tender documents, tender evaluation plans and evaluation reports for our review and 
+comment. We also met regularly with EnergyCo on each procurement process. 
+At the end of each process we received a procurement report from EnergyCo. The reports 
+and associated attachments generally met our information requirements. Where information 
+requirements were not met, we requested further information or considered the deficiency to 
+be immaterial to the outcome of the process. We consider that all three procurement reports 
+provided a sound basis for us to conduct our assessment of the processes.  
+Consistent with our Guideline we also engaged an expert consultant (Dench McClean 
+Carlson) to review the various draft procurement documents related to each procurement 
+ 
+39  Synchronous condensers are designed to safeguard the stability of a transmission network by providing 
+voltage regulation, short circuit current and synchronous inertia (system strength).  
+
+===== PDF PAGE 24 =====
+
+Revenue Determination (Contestable) – ACEREZ – Main Central-West Orana REZ network project 
+21 
+ 
+process. At the end of each process we requested Dench McClean Carlson provide advice, 
+based on its review of the procurement report, as to whether it considered the process met 
+our evaluation criteria. In each case it advised that it considered the competitive assessment 
+process had met our evaluation criteria and was genuine and appropriate.  
+Review of the competitive assessment processes 
+ACEREZ’s revenue proposal requests that we make our revenue determination based on the 
+outcomes of the three competitive assessment processes undertaken by EnergyCo for the 
+Project. To do this, the AER must be satisfied that each competitive assessment process 
+was ‘genuine and appropriate’.  
+Our Guideline sets out our approach to reviewing a competitive assessment process to 
+determine whether the process was genuine and appropriate. In summary, we assess 
+whether the competitive assessment process: 
+1. was undertaken in accordance with the EII Act and EII Regulation; 
+2. was undertaken consistent with the Infrastructure Planner’s procurement strategy; and 
+3. reflects our competitive assessment evaluation criteria.
+40  
+Below we set out our assessment of the three competitive assessment processes against the 
+above criteria. 
+Consistency with the EII Act and EII Regulation 
+We consider the three competitive assessment processes undertaken for the Project were 
+consistent with the requirements of the EII Act and the EII Regulation for the following 
+reasons:  
+• The EII Regulation allows the Infrastructure Planner to carry out a competitive process in 
+relation to a REZ for which it is appointed.41 EnergyCo was appointed the Infrastructure 
+Planner for the CWO REZ under section 63 of the EII Act.   
+• The EII Regulation requires the Infrastructure Planner to request binding bids from two 
+or more proponents.42 EnergyCo sought and received binding bids from at least two 
+proponents for each competitive assessment process.    
+• The EII Regulation requires the Infrastructure Planner to develop eligibility criteria and a 
+selection process.43 EnergyCo developed eligibility criteria and a process to select a 
+Network Operator provider for each competitive assessment process. These were set 
+out in procurement strategies and evaluation plans. 
+• The EII Regulation requires that before and during a competitive assessment process, 
+the Infrastructure Planner must consult with the AER and provide the AER with 
+information about and obtained from the competitive assessment process.44 EnergyCo 
+consulted with the AER through regular meetings, responded to requests for information, 
+and invited AER staff to observe evaluation panel meetings. EnergyCo also provided us 
+with information about, and the outcomes of, the processes consistent with the 
+requirements in our Guideline.   
+ 
+40  AER, Revenue determination guideline for NSW contestable network projects, Aug 2022, s.5.3, pp.14-15. 
+41  Clause 45(1) of the EII Regulation. 
+42  Clause 45(2) of the EII Regulation. 
+43  Clause 45(3) of the EII Regulation. 
+44  Clause 45(4) of the EII Regulation. 
+
+===== PDF PAGE 25 =====
+
+Revenue Determination (Contestable) – ACEREZ – Main Central-West Orana REZ network project 
+22 
+ 
+Consistency with the procurement strategy 
+Based on our observation of each process, review of key project documentation and 
+assessment of the procurement reports, we consider the competitive assessment processes 
+were undertaken consistent with their respective procurement strategies in respect of all 
+major elements including: 
+• the market sounding and invitation process; 
+• the expression of interest and request for proposal evaluations; 
+• the approach to interactions and negotiations with tenderers; 
+• the management of conflicts and probity concerns; and 
+• the decision-making process and recording of information. 
+Consistency with competitive assessment evaluation criteria 
+Our Guideline sets out four high-level evaluation criteria and several sub-criteria we use to 
+assess whether a competitive assessment process was genuine and appropriate.45 Our 
+assessments against our high-level evaluation criteria are set out below for each 
+procurement process. 
+Criterion 1: Sufficient competitive tension exists such that a competitive outcome is 
+likely to be achieved. 
+We are satisfied that each competitive assessment process met this criterion.  
+Market sounding processes undertaken by EnergyCo identified strong market interest in 
+each process. Binding offers were received from multiple engaged bidders and at least two 
+bidders remained active throughout the request for tender stage and subsequent 
+negotiations.  
+Criterion 2: The assessment process supports detailed, credible, and compliant 
+submissions from proponents. 
+We consider that the proponents in each competitive assessment process were provided 
+with sufficient information to make detailed, credible and compliant submissions. For each 
+process:  
+• Procurement documents released to proponents were comprehensive and set out clear 
+and detailed project scopes covering technical engineering, commercial, legal, and 
+regulatory requirements and responsibilities. They also clearly set out procurement 
+rules, processes, and procedures that were appropriate for each procurement process.  
+• Proponents were provided opportunities to seek clarification in a transparent and fair 
+manner through briefings, interactive workshops and interviews, and in writing through a 
+request for clarification process. The process provided proponents with an equal 
+opportunity to participate in the process on the basis of transparent terms, conditions 
+and requirements. 
+• A mendments to the Project scope and requirements were communicated to all tenderers 
+with the opportunity to revise bids where appropriate. 
+• Timeframes for the process were generally reasonable and allowed participants to 
+develop compliant submissions. Where appropriate, extensions of time were granted to 
+all tenderers to ensure complete and compliant submissions. 
+ 
+45  We also use the criteria to assess whether a procurement strategy is likely to result in a genuine and 
+appropriate competitive process at the outset of a competitive assessment process.  
+
+===== PDF PAGE 26 =====
+
+Revenue Determination (Contestable) – ACEREZ – Main Central-West Orana REZ network project 
+23 
+ 
+• Returnable schedules were clearly linked to the evaluation criteria set out in the 
+procurement documentation, and minimum requirements with which submissions had to 
+comply were identified and reasonable. 
+Criterion 3: The decision-making, governance and probity arrangements ensure a fair 
+and rigorous process. 
+We consider the decision-making, governance, and probity arrangements supported fair and 
+rigorous competitive assessment processes for the following reasons: 
+• An independent probity advisor observed all briefings, evaluation meetings and 
+interactive workshops and found that the evaluation plan, negotiation plan and probity 
+conduct plan were followed throughout each assessment process. 
+• A probity register was maintained throughout each process and material probity issues 
+were recorded and mitigated or resolved. The probity advisor found there were no 
+outstanding material probity issues at the conclusion of each process.  
+• G overnance processes were clear and robust and carried out in accordance with the 
+procurement strategy. They included detailed assessment of the bids by subject matter 
+experts, with suitably qualified decision-makers and a clear approval process. 
+• B id departures were normalised to allow for a like-for-like assessment of the bids. 
+• A sensitivity analysis was conducted on the evaluation outcome to assess the impact 
+certain criteria and weightings had on the overall ranking. In addition, the evaluation 
+process was informed by separate analysis of the likely prudent, efficient and reasonable 
+costs for the activity. 
+Criterion 4: The outcomes of the competitive assessment process can be reflected in 
+a revenue determination.  
+We were satisfied that the outcomes from the competitive assessment processes can be 
+reflected in our revenue determination as they: 
+• included payments to or by ACEREZ that could be included in the financial model to 
+calculate a quarterly schedule of payments that ACEREZ is entitled to recover; and  
+• contained arrangements for adjusting the amounts to be paid under the Project Deed, 
+which we consider were capable of being reflected in adjustment mechanisms.  
+Overall conclusion on procurement processes 
+Based on our review of the competitive assessment processes and advice from our expert 
+consultant (Dench McClean Carlson), we decided that we were satisfied that each of the 
+competitive assessment processes were genuine and appropriate on the following dates: 
+• Independent Certifier (8 March 2024) 
+• Network Operator (31 May 2024) 
+• Synchronous Condensers (18 October 2024). 
+Given our genuine and appropriate assessments, we must rely on and adopt the outcomes 
+from those processes in this revenue determination for ACEREZ. Sections 5, 6, 7 and 8 of 
+this determination reflect the outcomes of the three competitive assessment processes and 
+the impact of the finalisation and change items discussed in section 4.3. 
+4.3 Finalisation and change items 
+The Commitment Deed sets out the outcome of the Network Operator competitive 
+assessment process. It allows for the Project Deed and related contractual arrangements to 
+be amended between execution of the Commitment Deed and Contract Close, subject to any 
+amendments meeting the requirements set out in the Commitment Deed. Where 
+
+===== PDF PAGE 27 =====
+
+Revenue Determination (Contestable) – ACEREZ – Main Central-West Orana REZ network project 
+24 
+ 
+amendments were agreed between EnergyCo and ACEREZ prior to the submission of 
+ACEREZ’s revenue proposal, ACEREZ has included the amendments in its revenue 
+proposal. 
+ACEREZ’s revenue proposal notes that Part D (Finalisation Items List) of Schedule 1 of the 
+Commitment Deed included 33 ‘finalisation items’ which could not be resolved before its 
+execution and the processes and principles that the parties agreed to resolve each item. 
+These items required further engagement by EnergyCo with ACEREZ, AEMO, Transgrid, 
+connecting generators and other parties, or were dependent on other regulatory, legislative 
+or commercial processes being concluded. Prior to executing the Commitment Deed, 
+EnergyCo and ACEREZ confirmed the baseline position for each finalisation item (based on 
+the risk allocation in ACEREZ’s bid). The Finalisation Items List required any cost and time 
+impact of a finalisation item to be resolved through the application of Schedule 6A (Net 
+Financial Impact) of the Project Deed. 
+ACEREZ states that between the execution of the Commitment Deed and submission of its 
+regulatory proposal, ACEREZ and EnergyCo have worked to resolve the finalisation items. It 
+submits that the process for resolving each item included a combination of:  
+• amendments to the project documents – updates and amendments relative to those at 
+Commitment Deed; and 
+• commercial agreement on any time and cost impact – in accordance with Schedule 6A 
+and the Project Deed. This includes:  
+o updates to the financial model to reflect the agreed time and/or cost impact, or;  
+o development of adjustment mechanisms which set out how revenue may be 
+adjusted in the future to address any time and cost impacts associated with the 
+finalisation item.  
+ACEREZ’s proposal indicates that all 33 finalisation items were resolved prior to submission 
+of the revenue proposal. Of these items, 19items were fully resolved with no time or cost 
+impact.  
+ACEREZ’s revenue proposal also reflects the time and cost outcome of 12 change items 
+initiated by EnergyCo or as a result of a compensation event (such as a change in law) that 
+were resolved between the Commitment Deed and the submission of the revenue proposal.  
+ACEREZ noted that there are four mechanisms in the Commitment Deed (incorporated from 
+the Project Deed) under which changes to the Project Deed are permitted. These are: 
+• a compensation event under clause 22 of the Project Deed; 
+• an Infrastructure Planner-initiated change under clause 26 of the Project Deed; 
+• a Network Operator-initiated change under clause 27 of the Project Deed; and 
+• the election of a pre-agreed change by EnergyCo under clause 26 of the Project Deed. 
+There are specific processes in the Project Deed relating to these different mechanisms for 
+agreeing changes. However, cost impacts of all changes are required to be resolved using 
+the principles and processes set out in Schedule 6A.  
+Schedule 6A establishes a framework under which the cost of a change can be calculated 
+and agreed. Application of the schedule enables the parties to draw upon the various 
+controls, definitions, and pre-determined cost elements within the schedule which were bid 
+as part of the competitive assessment process. The specific elements of Schedule 6A that 
+are used in calculating the cost impact of a change depends on the types of costs impacted 
+by the change. The overarching aim of Schedule 6A is to provide a framework for a prudent, 
+efficient and reasonable cost outcome to be determined in relation to the change. The key 
+principles in Schedule 6A include:  
+
+===== PDF PAGE 28 =====
+
+Revenue Determination (Contestable) – ACEREZ – Main Central-West Orana REZ network project 
+25 
+ 
+• A Network Operator can only recover incremental costs of the event, based on fair and 
+reasonable, arm’s length arrangements.  
+• Costs must be no higher than equivalent costs in the schedule of rates agreed through 
+the tender process.  
+• An amount can be recovered for identified risks (EnergyCo can require the Network 
+Operator to conduct a quantitative risk assessment to support any claim).  
+• A pre-agreed margin will be added to approved costs.  
+• The Network Operator must use reasonable endeavours to mitigate any costs.  
+ACEREZ’s revenue proposal provides information on the process followed for resolving each 
+change (including finalisation items) as well as supporting information. ACEREZ states that 
+it, along with EnergyCo, acted reasonably and in good faith to resolve the finalisation items 
+and other changes. It explained that the resolution process was undertaken through a series 
+of negotiations, facilitated through meetings held between the parties, and through exchange 
+of documentation and correspondence consistent with the principles and process agreed in 
+the Commitment Deed. This process included input from relevant experts and legal 
+advisors.
+46  
+A series of other updates to financial model inputs were also made between Commitment 
+Deed and the submission of ACEREZ’s proposal, and are reflected in the proposal. ACEREZ 
+has provided evidence that each of these financial model updates is covered by an 
+adjustment mechanism in the Project Deed, and that the updates were undertaken in 
+accordance with the relevant process set out in the adjustment mechanism. 
+In addition, some amendments have been addressed through the inclusion of bespoke 
+adjustment mechanisms in the Project Deed or may be resolved later through ACEREZ 
+making a claim using the Net Financial Impact process set out in Schedule 6A of the Project 
+Deed (and then incorporated in the financial model through the general Net Financial Impact 
+adjustment mechanism). We will be required to assess whether an adjustment mechanism in 
+this revenue determination has been applied correctly at the time of a future adjustment 
+proposal. The proposed adjustment mechanisms and Net Financial Impact Events are 
+discussed in section 8 of this revenue determination. 
+AER assessment 
+We do not have a role in assessing the prudency, efficiency or reasonableness of any 
+amendments agreed between ACEREZ and EnergyCo. As we have decided that the three 
+competitive assessment processes for the Project were genuine and appropriate, we are 
+required to rely on and adopt the outcome of those processes.  
+The Commitment Deed, which includes processes for agreeing any amendments to the 
+Project Deed, is an outcome of the competitive assessment process. On this basis, we must 
+adopt any cost or time impacts if those processes have been complied with.   
+We assessed the process for agreeing amendments and applying financial model updates 
+for compliance with the requirements in the Commitment Deed and Project Deed. In doing 
+so, we reviewed the description of the process and outcome for each item, including the 
+supporting evidence provided in the revenue proposal. Based on our assessment, we 
+confirm that for all but one proposed amendment:  
+• each amendment qualified as a finalisation item or change event under a category set 
+out in the Commitment Deed, and each financial model update is covered by an 
+adjustment mechanism in the Project Deed. 
+ 
+46  ACEREZ , Revenue proposal, Attachment 13.7: changes between commitment deed and submission of the 
+initial revenue proposal, 24 October 2024, p. 88. 
+
+===== PDF PAGE 29 =====
+
+Revenue Determination (Contestable) – ACEREZ – Main Central-West Orana REZ network project 
+26 
+ 
+• each amendment was consistent with the risk allocation (baseline) agreed at the time of 
+execution of the Commitment Deed. 
+• the principles and processes in Schedule 6A have been applied in establishing cost and 
+time impacts of each amendment, or a relevant adjustment mechanism or update 
+process in the Project Deed has been applied. 
+• each amendment or model update has been accurately included in the financial model 
+accompanying the revenue proposal. 
+Overall, we consider that ACEREZ’s revenue proposal has justified all but one change item, 
+all finalisation items and all financial model updates included in its revenue proposal.  
+The impact of the change items, finalisation items and financial model updates is an increase 
+in capital costs of $372m (nominal) and an increase in operating and maintenance costs of 
+around $130m47 (nominal) over the Project term and those outcomes have been adopted in 
+our revenue determination.  
+We have excluded from this revenue determination the capital amount associated with one 
+change that we consider was not sufficiently justified in the evidence provided in ACEREZ’s 
+revenue proposal. The item relates to $5m (nominal) in development and construction capital 
+costs associated with an incentive scheme for the Independent Certifier. Based on the 
+evidence provided we do not consider the inclusion of the item was consistent with the risk 
+allocation established at the conclusion of the Independent Certifier tender process, and a 
+change in risk allocation was not sufficiently justified in accordance with the requirements in 
+Schedule 6A of the Project Deed. 
+To apply the above exclusion in this determination, we required ACEREZ to resubmit its 
+financial model, which it did on 28 November 2024. ACEREZ also provided an updated 
+model audit report from BDO (on 3 December 2024) confirming the exclusion had been 
+correctly reflected in the model and an updated statutory declaration signed by the Chief 
+Executive confirming the model was consistent with the changes requested by the AER. We 
+consider the revised financial model excludes the relevant capital amount.   
+4.4 Regulatory and contractual costs 
+Contractual costs (Infrastructure Planner Fees) 
+EnergyCo (as the Infrastructure Planner for the project) has a range of obligations it must 
+meet during the development, delivery and operation phases of the Project. The costs of 
+EnergyCo meeting these obligations prior to Financial Close have been funded through a 
+NSW Treasury Loan and the Transmission Acceleration Facility (TAF). This funding was 
+provided on the expectation that it would be recovered from the successful Network Operator 
+through payments required to be made to EnergyCo under a contractual arrangement.   
+The Project Deed for the Project (specifically clause 21.1(b) and Schedule 10) requires 
+ACEREZ to pay EnergyCo the following Infrastructure Planner Fees (totalling $2,767m) to 
+cover EnergyCo’s actual and expected costs:  
+• Construction Fees – paid to EnergyCo during the delivery phase of the project for 
+development and delivery activities undertaken or planned to be undertaken by 
+EnergyCo prior to Financial Close or during the delivery phase.  
+• Operating and Maintenance (O&M) Fees – paid to EnergyCo for functions to be 
+performed by EnergyCo during the operations phase of the project. 
+ 
+47  This amount excludes an estimated increase in Infrastructure Planner Fees (O&M) of $973m required by 
+EnergyCo since Commitment Deed. These additional Infrastructure Planner Fees largely reflect a change in 
+the funding approach for the Project and are offset by savings in other cost components (return on capital 
+and return of capital).  
+
+===== PDF PAGE 30 =====
+
+
+
+===== PDF PAGE 31 =====
+
+Revenue Determination (Contestable) – ACEREZ – Main Central-West Orana REZ network project 
+28 
+ 
+Recovered Fees 
+Recovered Fees differ from Construction Fees and O&M Fees as they relate to 
+reimbursement of amounts paid by EnergyCo to ACEREZ under the Bid Cost Contribution 
+Deed and the Commitment Deed. These payments funded early activities required to be 
+undertaken by ACEREZ up to Financial Close (for example, completing design 
+documentation) to maintain on-time delivery of the Project.  
+ACEREZ estimated Recovered Fees would total $726.5m. The actual value will be set at 
+Financial Close, with ACEREZ required to pay the agreed amount to EnergyCo at Financial 
+Close in accordance with Schedule 10 (clause 2.2(b)) of the Project Deed.
+48 The estimated 
+value of Recovered Fees were included by ACEREZ in its revenue proposal as part of its 
+development and construction capital costs.  
+AER assessment of Infrastructure Planner Fees 
+The AER considers that the Infrastructure Planner Fees (comprising Construction Fees and 
+O&M Fees) payable by ACEREZ to EnergyCo, as set out in ACEREZ’s revenue proposal, 
+are contractual costs that ACEREZ is entitled to recover through its revenue determination 
+under clause 46(1)(b)(ii) of the EII Regulation.   
+ACEREZ is required to pay the Infrastructure Planner Fees to EnergyCo under 
+clause 21.1(b) of the Project Deed and in accordance with Schedule 10 of the Project Deed 
+(clause 2.1). The Project Deed is a contractual arrangement that ACEREZ is required to 
+enter into under section 8 of the Consumer Trustee’s Notice of Authorisation.
+49  
+As the AER considers that as the principle in clause 46(1)(b)(ii) of the EII Regulation has 
+been met, the AER is not required to review the prudency, efficiency or reasonableness of 
+the Infrastructure Planner Fees and must include the fees in its revenue determination.  
+Recovered Fees reflect ACEREZ’s costs bid as part of the competitive assessment process. 
+As such, ACEREZ is entitled to recover these amounts as an outcome of a genuine and 
+appropriate competitive assessment process, rather than through clause 46(1)(b)(ii) of the 
+EII Regulation. 
+While we have no formal power to review and approve contractual costs in our revenue 
+determination, given the materiality of the proposed Infrastructure Planner Fees we 
+requested information from the TAF Investment Committee and EnergyCo on the 
+governance arrangements for the approval and oversight of TAF funding and the expenditure 
+of those funds.  
+Transmission Acceleration Facility Investment Committee 
+The TAF is a NSW Government-funded revolving capital facility to fund development 
+activities to accelerate the delivery of critical transmission infrastructure, community and 
+employment benefits and other enabling projects to meet the EII Act and Roadmap 
+objectives. It is governed by the TAF Investment Committee – an advisory committee with 
+independent and NSW Government representatives established under the Energy and 
+Utilities Administration Act 1987. Governance arrangements for the TAF Investment 
+Committee were approved by the NSW Government Expenditure Review Committee (ERC). 
+The TAF Investment Committee makes recommendations on TAF funding proposals for 
+decision by the EnergyCo Board and Chief Executive. The committee also provides 
+assurance, reporting and governance advice. TAF funding proposals are assessed against 
+five criteria: 
+ 
+48  EnergyCo provided information on its payment assessment process for assessment of ACEREZ’s early 
+activity costs, including information required to support a payment claim.  
+49  AEMO Services, Notice of Authorisation – Main CWO REZ Network Infrastructure Project, 4 June 2024. 
+
+===== PDF PAGE 32 =====
+
+Revenue Determination (Contestable) – ACEREZ – Main Central-West Orana REZ network project 
+29 
+ 
+• eligibility of the expenditure under the funding guidelines, 
+• recoverability of the expenditure, 
+• a risk assessment (covering financial, operational and delivery risks) 
+• a cash flow assessment, and 
+• appropriate governance, reporting and financial controls are in place to monitor and 
+manage the use of funds. 
+The TAF Investment Committee found the funding proposals related to the Project were 
+reasonable, efficient and necessary for the acceleration of delivered renewable energy in 
+NSW. Its recommendations were endorsed by the EnergyCo Advisory Committee50 and 
+signed-off by the EnergyCo Chief Executive. 
+EnergyCo governance arrangements 
+EnergyCo indicated that CWO REZ expenditures related to Infrastructure Planner Fees are 
+managed by its central Project Management Office, with oversight provided by members of 
+the EnergyCo Executive Leadership Team. It advised that oversight includes monthly 
+reviews and reporting of actual expenditure against forecasts. Actual monthly expenditure is 
+also provided to the NSW Energy Department and NSW Treasury. EnergyCo also noted that 
+its Board’s involvement in expenditures related to Infrastructure Planner Fees involves 
+providing commentary and feedback when briefed on any significant issues.  
+Adjustment of Infrastructure Planner Fees  
+EnergyCo has the ability to adjust Construction Fees and O&M Fees under the Project Deed 
+(clause 2.5 of Schedule 10). EnergyCo advised that it is required to monitor its expenditure in 
+accordance with its existing governance arrangements and may adjust the fees where costs 
+incurred, or to be incurred, are higher or lower than estimated at the time of ACEREZ’s 
+revenue proposal.
+51 An adjustment to the Infrastructure Planner Fees will be treated as a Net 
+Financial Impact Event in accordance with Schedule 6A of the Project Deed, following which 
+ACEREZ can submit a revenue adjustment proposal to us to reflect the updated fee amount 
+in its revenue determination. 
+An adjustment mechanism applied following Financial Close will update the financial model 
+for the actual Recovered Fees paid by EnergyCo up to Financial Close. 
+Regulatory requirement costs 
+ACEREZ’s revenue proposal contains allowances associated with a number of regulatory 
+requirements related to the Project. The Project Deed includes provisions that allow 
+ACEREZ’s revenue to be adjusted (or ‘trued up’) for differences in forecast allowances and 
+actual costs for regulatory requirements. A description of each regulatory requirement for 
+which ACEREZ has proposed to recover costs, the relevant law they are made under, their 
+annual cost, their assumed duration and the adjustment mechanism for truing up the cost is 
+set out in the table 4.2.  
+ 
+50  The EnergyCo Advisory Committee has since been replaced by an EnergyCo Board.  
+51  EnergyCo, AER information request regarding IPFs and CEFC Facility, 24 October 2024.  
+
+===== PDF PAGE 33 =====
+
+
+
+===== PDF PAGE 34 =====
+
+Revenue Determination (Contestable) – ACEREZ – Main Central-West Orana REZ network project 
+31 
+ 
+AER assessment of regulatory requirement costs 
+Under clause 46(1)(b)(i) of the EII Regulation, ACEREZ is entitled to recover prudent, 
+efficient and reasonable costs incurred in complying with a regulatory requirement.52 All fees 
+and payments identified by ACEREZ in its revenue proposal are imposed on ACEREZ as a 
+Network Operator by a relevant law (within the meaning of clause 46(3) of the 
+EII Regulation). The amount of each fee or payment is set by the relevant law or by the 
+regulating entity of the relevant law. As ACEREZ has no discretion as to whether or how 
+much it pays in relation to the regulatory requirements, we consider the costs can be 
+considered to be prudent, efficient and reasonable costs incurred by ACEREZ in complying 
+with a regulatory requirement.  
+We also note that the application of adjustment mechanisms to these regulatory requirement 
+costs ensure that ACEREZ will only recover the actual costs imposed on it. The costs are 
+treated as operating and maintenance costs in ACEREZ’s revenue proposal and are 
+included in the operating and maintenance costs in section 6 of this determination.  
+ 
+52  ‘Regulatory requirement’ is defined in clause 46(3) of the EII Regulation as ‘a requirement imposed on the 
+Network Operator by a relevant law but does not include a requirement to pay a fine, penalty or 
+compensation for a breach of a requirement imposed on the Network Operator by a relevant law’.  
+
+===== PDF PAGE 35 =====
+
+Revenue Determination (Contestable) – ACEREZ – Main Central-West Orana REZ network project 
+32 
+ 
+5 Capital costs 
+5.1 Regulatory framework 
+In making revenue determinations under Part 5 (Division 3) of the EII Act we are required by 
+section 37(1) of the EII Act to take into account specified principles. These include that: 
+(a) a Network Operator is entitled to recover prudent, efficient and reasonable costs 
+incurred by the Network Operator for carrying out the network infrastructure project.  
+Clause 46(1)(a)(i) of the EII Regulation prescribes that a genuine and appropriate 
+competitive assessment process results in costs that can be taken to satisfy the principle in 
+section 37(1)(a) of the EII Act. That is, the outcome of the process results in the costs of 
+carrying out an infrastructure project being prudent, efficient and reasonable.  
+Section 38(4) of the EII Act states that before making a determination we are required to 
+calculate the prudent, efficient and reasonable capital costs for development and 
+construction of the network infrastructure project, which is referred to as the Transmission 
+Efficient Test. Section 38(5) states that we must publish guidelines on our website about the 
+transmission efficiency test. Our Guideline sets out that we will take the capital costs 
+established through a genuine and appropriate competitive assessment process as the 
+determined capital costs for development and construction under the Transmission Efficiency 
+Test.  
+Section 38(6) of the EII Act states that the prudent, efficient and reasonable capital costs for 
+development and construction of a REZ network infrastructure project must not exceed the 
+maximum amount, if any, notified to us by the Consumer Trustee under section 31(2). 
+Section 38(2) of the EII Act requires our determination to include an allowance for repayment 
+of the prudent, efficient and reasonable capital costs as determined under the Transmission 
+Efficiency Test, and a return on capital costs.  
+Clause 53(1A) of the EII Regulation provides that despite the requirement to determine a 
+schedule of payments for the length of the Project term, the schedule required to be 
+published for a contestable revenue determination must only set out the amounts required to 
+be paid for the following 5 years.  
+5.2 ACEREZ’s revenue proposal 
+ACEREZ’s revenue proposal sets out its proposed total capital expenditure as established 
+through the competitive assessment process. The capital cost of the Project is the cost to 
+build and finance the project and is broken down into two main components: development 
+and construction capital costs and non-development and construction capital costs. 
+Development and construction capital costs 
+Development and construction capital costs are the primary component of the capital cost of 
+the Project and include:  
+• Core infrastructure: the costs associated with the development of the electricity network 
+between Barigan Creek and Elong Elong, via Merotherie.  
+• Hub to Project (H2P) network infrastructure: the costs associated with the development 
+of the network infrastructure that connects generation projects to each energy hub.  
+• System strength infrastructure: the costs associated with the development of the system 
+strength infrastructure, which primarily involves the purchase and installation of seven 
+synchronous condensers.  
+
+===== PDF PAGE 36 =====
+
+
+
+===== PDF PAGE 37 =====
+
+Revenue Determination (Contestable) – ACEREZ – Main Central-West Orana REZ network project 
+34 
+ 
+5.3 AER assessment 
+Development and construction capital costs 
+In assessing ACEREZ’s proposed development and construction capital costs we must apply 
+the Transmission Efficiency Test to calculate the prudent, efficient and reasonable level of 
+those costs. We must also confirm that they do not exceed the maximum capital cost for the 
+Project advised by the Consumer Trustee.  
+Transmission Efficiency Test 
+On the basis of our assessment in section 4, we were satisfied that the competitive 
+assessment processes for the Project were genuine and appropriate. Further, we consider all 
+but one change made to the Project Deed and related contractual arrangements between 
+execution of the Commitment Deed and submission of ACEREZ’s revenue proposal were 
+made consistent with the requirements of the Commitment Deed. 
+We have reviewed ACEREZ’s proposal and found that the proposed development and 
+construction capital costs are consistent with the outcomes of the competitive assessment 
+processes (as adjusted for the change items) and the Project Deed, except for the one item 
+as discussed in section 4.3. We requested ACEREZ resubmit the financial model for the 
+Project to reflect the AER’s finding that the outcome for one change item was not consistent 
+with the requirements for amendments set out in the Commitment Deed. ACEREZ provided 
+an updated model that excluded the change. 
+Given the above analysis and on the basis of the revised model provided, we consider 
+ACEREZ’s adjusted development and construction capital costs for the Project have met the 
+requirements of the Transmission Efficiency Test. 
+Maximum capital cost 
+For REZ network infrastructure projects, the AER must ensure the Network Operator’s 
+proposed capital costs do not exceed the maximum capital cost for the project as notified by 
+the Consumer Trustee.55  
+Under section 31(2) of the EII Act, the Consumer Trustee must notify the AER of the 
+maximum capital amount once it has authorised the Network Operator to carry out the 
+network infrastructure project. The Consumer Trustee notified the AER of the maximum 
+capital amount for the Project on 4 June 2024. Section 31(3) of the EII Act, states that the 
+AER must not disclose the maximum amount to any person. Therefore, the maximum capital 
+amount cannot be disclosed in this determination. 
+We found that the development and construction capital costs proposed by ACEREZ do not 
+exceed the maximum capital amount for the project advised by the Consumer Trustee. On 
+this basis, we are able to make our determination on the basis of the development and 
+construction capital costs proposed by ACEREZ, as adjusted in the revised financial model. 
+Non-development and construction costs 
+ACEREZ’s proposed non-development and construction capital costs are consistent with the 
+outcomes of the competitive assessment processes (as adjusted for the change items and 
+the consequential change from the exclusion of one change item noted above). On this 
+basis, we consider these non-development and construction capital costs to be prudent, 
+efficient and reasonable.   
+ 
+55  Section 38(6) of the EII Act. 
+
+===== PDF PAGE 38 =====
+
+
+
+===== PDF PAGE 39 =====
+
+Revenue Determination (Contestable) – ACEREZ – Main Central-West Orana REZ network project 
+36 
+ 
+6 Operating and maintenance costs  
+6.1 Regulatory framework 
+Section 38(2) of the EII Act provides that a revenue determination is to include an allowance 
+for operating costs in relation to a network infrastructure project.  
+In making revenue determinations under Part 5 (Division 3) of the EII Act we are required by 
+section 37(1) of the EII Act to take into account specified principles. These include that: 
+(a) a Network Operator is entitled to recover prudent, efficient and reasonable costs 
+incurred by the Network Operator for carrying out the network infrastructure project.  
+Clause 46(1)(a)(i) of the EII Regulation prescribes that a genuine and appropriate 
+competitive assessment process results in costs that can be taken to satisfy the principles in 
+section 37(1)(a) of the EII Act. That is, the outcome of the process results in the costs of 
+carrying out an infrastructure project being prudent, efficient and reasonable. 
+Clause 53(1A) of the EII Regulation provides that despite the requirement to determine a 
+schedule of payments for the length of the Project term, the schedule required to be 
+published for a contestable revenue determination must only set out the amounts required to 
+be paid for the following 5 years.  
+6.2 ACEREZ’s revenue proposal 
+ACEREZ’s revenue proposal contains operating and maintenance costs associated with the 
+Project, broken down annually into the following categories: 
+• Maintenance and Lifestyle (M&L) Costs: costs incurred by the M&L Contractor 
+responsible for the physical assets of the Project. These costs will largely be incurred 
+during the operations phase.56 Lifecycle costs include replacement expenditure for the 
+assets over the Project term.  
+• Infrastructure Planner Fees (Operations): costs as decided by EnergyCo as payable 
+to it by ACEREZ during the operations phase. Payment of these fees is a contractual 
+requirement on ACEREZ in the Project Deed. These costs are discussed in section 4 of 
+this determination. 
+• Strategic Benefits Payments: costs payable to landholders under the NSW Strategic 
+Benefits Payments Scheme. The payments are currently set at a rate of $200,000 (real 
+March 2022) per kilometre of transmission infrastructure hosted on a landholder’s 
+property, paid in annual instalments over 20 years. ACEREZ is required to make the 
+payments under the scheme. These costs are discussed in section 4 of this 
+determination.  
+• Network Operator Costs: costs relating to the management and operation of the 
+Network Operator Special Purpose Vehicle. The Network Operator will be the licenced 
+and registered operator of the Project and be responsible for system operations, 
+compliance and reporting functions. 
+ACEREZ’s proposed oper
+ ating and maintenance costs total  over the Project 
+term. Table 6.1 shows the total operating and maintenance costs that ACEREZ proposes to 
+incur over the Project term broken down into the categories described above. These costs 
+ 
+56  T he M&L Contractor will incur some costs during the delivery phase as it commences mobilisation activities 
+and operations activities for each Separable Portion as it reaches Infrastructure Completion. 
+
+
+===== PDF PAGE 40 =====
+
+
+
+===== PDF PAGE 41 =====
+
+
+
+===== PDF PAGE 42 =====
+
+Revenue Determination (Contestable) – ACEREZ – Main Central-West Orana REZ network project 
+39 
+ 
+7 Total revenue and schedule of payments 
+7.1 Regulatory framework 
+The AER is required to determine the amount payable to a Network Operator subject to an 
+authorisation57 and the components of that amount payable.58 The EII Regulation also 
+requires us to set out the total amount payable in a schedule of payments to a Network 
+Operator, including the date on which each amount must be paid.59 If the determination is 
+being made as a result of a competitive assessment process, the schedule must correspond 
+with the term of the Project Deed that the Network Operator is required to enter into under 
+the relevant authorisation.60  
+In making a revenue determination under Part 5 (Division 3) of the EII Act, section 37(1) of 
+the EII Act requires us to take into account the following principles: 
+(a) a Network Operator is entitled to recover prudent, efficient and reasonable costs 
+incurred by the Network Operator for carrying out the network infrastructure project,  
+(b) incentives should be given to Network Operators to promote economic efficiency,  
+(c) the Network Operator is entitled to revenue for the ongoing ownership, control and 
+operation of an infrastructure project that is commensurate with the regulatory and 
+commercial risks to the Network Operator.  
+Clause 46(1)(a) of the EII Regulation prescribes that a genuine and appropriate competitive 
+assessment process results in costs that can be taken to satisfy these principles. 
+Clause 53(1A) of the EII Regulation provides that despite determining a schedule of 
+payments for the length of the Project, the schedule published for a contestable revenue 
+determination must only set out the amounts required to be paid for the following 5 years.  
+7.2 ACEREZ’s revenue proposal 
+ACEREZ’s revenue proposal contains a total revenue requirement (amount payable) of 
+ (nomi nal) over the 35-year Project term. The total amount payable is broken 
+down into quarterly payments. 
+ACEREZ proposed payments be paid to it by the Scheme Financial Vehicle on the fir st 
+business day of the third month of each quarter. ACEREZ has set out the composition of 
+each payment into the following: 
+• Return on capital 
+• Return of development and construction capital costs 
+• Return of non-development and construction capital costs 
+• Operating and maintenance costs. 
+The total amount payable and the above components have been calculated in the financial 
+model agreed between EnergyCo and ACEREZ to reflect the outcome of the competitive 
+assessment processes. Allocation of revenue into the relevant components is based on 
+assumptions specific to ACEREZ’s financial model and differs from the approach adopted by 
+ 
+57  An authorisation is defined in section 36(4) to include an authorisation by the Consumer Trustee under 
+section 31 to carry out a REZ network infrastructure project.  
+58  Sections 38(1) and (2) of the EII Act. 
+59  Clauses 52(1) and 52(2)(a) of the EII Regulation. 
+60  Clause 52(2)(b) of the EII Regulation. 
+
+
+===== PDF PAGE 43 =====
+
+
+
+===== PDF PAGE 44 =====
+
+
+
+===== PDF PAGE 45 =====
+
+
+
+===== PDF PAGE 46 =====
+
+Revenue Determination (Contestable) – ACEREZ – Main Central-West Orana REZ network project 
+43 
+ 
+8 Revenue adjustments   
+8.1 Regulatory framework 
+Our revenue determination may include provision for the adjustment of any amount included 
+in the revenue determination, including the timing or circumstances of when an adjustment 
+must be carried out and whether it requires the determination to be remade.64 All 
+adjustments must be carried out in accordance with our Guideline and, for a revenue 
+determination made as a result of a competitive assessment process, any adjustment 
+provisions must be consistent with the Project Deed the Network Operator will enter into as 
+required under the relevant authorisation.65  
+Our Guideline sets out our process for assessing adjustment proposals from a Network 
+Operator during the Project term, including the timing of those proposals and our assessment 
+decisions.   
+8.2 ACEREZ’s revenue proposal 
+The amounts that ACEREZ has proposed to be paid for carrying out the Project: 
+• reflect forecasts of key financial parameters such as interest swap rates, CPI and WPI;  
+• assume that the CWO project will be undertaken in accordance with the planned project 
+scope and accompanying milestones, operational requirements and performance targets 
+contained in the Project Deed; and 
+• reflect the legal and regulatory requirements at the time of the ACEREZ’s revenue 
+proposal.    
+ACEREZ’s revenue proposal contains adjustment mechanisms that, in specific 
+circumstances, provide for changes to the determined revenue and quarterly schedule of 
+payments to reflect outcomes that vary from these forecasts, assumptions and requirements.  
+In total, ACEREZ proposal includes 29 adjustment mechanisms that can be applied to adjust 
+its determined revenue and its quarterly schedule of payments. ACEREZ has provided 
+evidence confirming that each adjustment is consistent with the Project Deed it is required to 
+enter into under its authorisation for the Project. A summary of each of the proposed 
+adjustments is set out below. 
+ACEREZ’s revenue proposal also sets out the timing of future adjustment and 
+redetermination
+66 decisions. It submits that as set out in the Project Deed, these would be 
+made as part of: 
+• Annual adjustment processes throughout the delivery and operations phases of the 
+project. 
+• Five-year revenue redeterminations67 throughout the delivery and operations phases of 
+the project (these revenue redeterminations would replace the annual adjustment 
+process in the relevant year). 
+ 
+64  Clauses 51(1)–(2) of the EII Regulation. 
+65  Clause 51(3) of the EII Regulation. 
+66  A redetermination may refer to remaking the determination under section 40(1) of the EII Act or a ‘review 
+and remake’ under section 40(2) of the EII Act. 
+67  Section 40(1) of the EII Act requires the AER to remake a determination once every 5 years. 
+
+===== PDF PAGE 47 =====
+
+Revenue Determination (Contestable) – ACEREZ – Main Central-West Orana REZ network project 
+44 
+ 
+In addition to these regular adjustment decisions, ACEREZ has also proposed a set of 
+additional adjustment or redetermination decision points based on the occurrence of specific 
+project milestones or events: 
+• Financial Close Revenue Determination Adjustment – adjustment proposal to be 
+submitted to the AER after Financial Close. 
+• Interim Delivery Phase Revenue Determination Adjustment – adjustment proposal to be 
+submitted to the AER if a Liquidity Financing Facility (LFF) Increase Event occurs. 
+• Final Delivery Phase Revenue Redetermination – adjustment proposal to be submitted 
+to the AER after all Separable Portions have achieved Infrastructure Completion and all 
+Foundation Energy Supplier Facilities have achieved Operational Completion. As this 
+decision point is a significant event in the Project  that will trigger a number of 
+adjustment mechanisms (including adjusting determined revenue to reflect repayment of 
+the LFF), we will review and remake the determination in applying any adjustments. 
+• Interim Operations Phase Revenue Determination Adjustments – adjustment proposal to 
+be submitted to the AER if an Operations Phase Liquidity Event occurs. 
+• Additional Revenue Redetermination – revenue proposal to be submitted to the AER if 
+the Network Operator is notified that the Consumer Trustee has directed an Additional 
+Revenue Redetermination.
+68 
+• Final Revenue Adjustment Decision – adjustment proposal to be submitted to the AER 
+at the completion of the Project term (after the Expiry Date). 
+The decision points set out above will typically not require the AER to review and remake our 
+determination unless noted as a redetermination. However, the AER in assessing an 
+adjustment proposal may decide to apply the adjustment through a review and remake of the 
+determination.
+69 Whether an adjustment mechanism requires a revenue determination to be 
+‘reviewed and remade’ necessarily involves a case-by-case approach, requiring 
+consideration of the individual facts and circumstances of the proposed adjustment, including 
+whether the adjustment reflects the occurrence of a significant event. There is no quantitative 
+cost threshold applied. However, where the adjustment is not mechanical in nature or 
+requires a more rigorous assessment, we consider the adjustment may require the revenue 
+determination to be reviewed and remade. 
+Not all adjustment mechanisms are applied at all decision points. In particular, a sub-set of 
+adjustment mechanisms apply only at the Financial Close Revenue Determination 
+Adjustment decision point. Table 8.1 sets out the adjustment mechanisms contained in the 
+Project Deed to be applied at the Financial Close Revenue Determination Adjustment. Note 
+that capitalised terms have the meaning stated in the Project Deed. 
+  
+ 
+68  Section 40(1)(b) of the EII Act. 
+69  Clause 51(2)(b) of the EII Regulation. 
+ 
+
+===== PDF PAGE 48 =====
+
+
+
+===== PDF PAGE 49 =====
+
+
+
+===== PDF PAGE 50 =====
+
+
+
+===== PDF PAGE 51 =====
+
+
+
+===== PDF PAGE 52 =====
+
+
+
+===== PDF PAGE 53 =====
+
+
+
+===== PDF PAGE 54 =====
+
+
+
+===== PDF PAGE 55 =====
+
+Revenue Determination (Contestable) – ACEREZ – Main Central-West Orana REZ network project 
+52 
+ 
+8.3 AER assessment 
+We reviewed the adjustment mechanisms set out in ACEREZ’s revenue proposal and found 
+them to be consistent with the Project Deed ACEREZ is required to enter into under its 
+authorisation for the Project. 
+As part of our review of the adjustment mechanisms, we engaged with ACEREZ and 
+EnergyCo to ensure the mechanisms could be practicably applied and were unambiguous. 
+ACEREZ and EnergyCo agreed to a number of changes to the adjustment mechanisms to 
+provide additional clarity as to their operation.  
+  
+
+===== PDF PAGE 56 =====
+
+Revenue Determination (Contestable) – ACEREZ – Main Central-West Orana REZ network project 
+53 
+ 
+8.4 AER determination 
+The 29 adjustment mechanisms proposed by ACEREZ have been included in our revenue 
+determination as they reflect the outcome of the competitive assessment processes as set 
+out in the Project Deed. Appendix E of this determination provides further detail on the 
+mechanisms, including: 
+• a description of each adjustment mechanism, as well as a detailed methodology for 
+applying each mechanism; 
+• a description of each point over the Project term where ACEREZ can propose a revenue 
+adjustment, and the relevant approval and timing requirements; 
+• a description of key terms and concepts in the Project Deed relevant to applying 
+adjustment mechanisms; and 
+• the process for updating the financial model to apply the outcome of each adjustment 
+mechanism. 
+NFI Events are not explicitly set out in this revenue determination. They are incorporated into 
+this determination through the operation of Adjustment Mechanism TM-01 – Net Financial 
+Impacts. Under this adjustment mechanism ACEREZ can propose an adjustment to the 
+schedule of payments to reflect the outcome of a successful NFI Impact claim under 
+Schedule 6A of the Project Deed. 
+ 
+
+===== PDF PAGE 57 =====
+
+
+
+===== PDF PAGE 58 =====
+
+
+
+===== PDF PAGE 59 =====
+
+
+
+===== PDF PAGE 60 =====
+
+Revenue Determination (Contestable) – ACEREZ – Main Central-West Orana REZ network project 
+56 
+ 
+Appendix A: Quarterly schedule of payments – CONFIDENTIAL
+
+===== PDF PAGE 61 =====
+
+Revenue Determination (Contestable) – ACEREZ – Main Central-West Orana REZ network project 
+58 
+ 
+Appendix B: Cost components – CONFIDENTIAL
+
+===== PDF PAGE 62 =====
+
+Revenue Determination (Contestable) – ACEREZ – Main Central-West Orana REZ network project 
+65 
+ 
+Appendix C: Operating and maintenance costs – CONFIDENTIAL
+
+===== PDF PAGE 63 =====
+
+Revenue Determination (Contestable) – ACEREZ – Main Central-West Orana REZ network project 
+67 
+ 
+Appendix D: Capital costs – CONFIDENTIAL
+
+===== PDF PAGE 64 =====
+
+Revenue Determination (Contestable) – ACEREZ – Main Central-West Orana REZ network project 
+69 
+ 
+Appendix E: Revenue adjustments – CONFIDENTIAL 
+ 

@@ -1,0 +1,2163 @@
+
+===== PDF PAGE 1 =====
+ 
+AER 
+Determination 
+Transgrid’s Victoria to NSW Interconnector West  
+Stage 1 Early Works Contingent Project 
+Application 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+6 May 2024 
+ 
+===== PDF PAGE 2 =====
+AER Determination | Transgrid | VNI West Stage 1 Early works Contingent Project  
+ii 
+© Commonwealth of Australia 2024 
+This work is copyright. In addition to any use permitted under the Copyright Act 1968 all material 
+contained within this work is provided under a Creative Commons Attributions 3.0 Australia licence 
+with the exception of: 
+• the Commonwealth Coat of Arms 
+• the ACCC and AER logos 
+• any illustration diagram, photograph or graphic over which the Australian Competition and 
+Consumer Commission does not hold copyright but which may be part of or contained within 
+this publication.  
+The details of the relevant licence conditions are available on the Creative Commons website as is the 
+full legal code for the CC BY 3.0 AU licence. 
+Inquiries about this publication should be addressed to: 
+Australian Energy Regulator 
+GPO Box 3131 
+Canberra ACT 2601 
+Tel: 1300 585 165 
+AER reference: AER23007952 
+Amendment record 
+Version Date Pages 
+1.0 6 May 2024 54 
+   
+  
+===== PDF PAGE 3 =====
+AER Determination | Transgrid | VNI West Stage 1 Early works Contingent Project  
+iii 
+Executive Summary 
+This document sets out our decision on Transgrid’s stage 1 contingent project application 
+(CPA) for the Victoria to New South Wales Interconnector West (VNI West). On 22 
+December 2023, Transgrid submitted its stage 1 early works contingent project application 
+for $1,096.3 million ($Real 2022–23) in capital expenditure (capex).1 This application relates 
+to the New South Wales portion of the project.  
+The VNI West project  
+VNI West is an electricity transmission line interconnector between Victoria and NSW. The 
+total costs for VNI West are estimated at $3,963.6 million ($Real 2022–23),2 with the costs 
+split about 50/50 between the Victorian component and the NSW component, delivered by 
+Transmission Company Victoria and Transgrid, respectively.3  
+The identified need for the VNI West project is to facilitate the efficient development and 
+dispatch of generation in areas with high quality renewable resources in Victoria and NSW.4 
+The preferred option 5A in the Regulatory Investment Test for Transmission Project 
+Assessment Conclusions Report involves constructing a 500 kV double-circuit overhead 
+transmission line between Victoria and NSW, connecting the Western Renewables Link (at 
+Bulgana, Victoria) with Project EnergyConnect (at Dinawan, NSW) via a new Kerang 
+substation (Victoria).5  
+VNI West is included in the Australian Energy Market Operator’s (AEMO) draft 2024 
+Integrated System Plan (ISP) as an ‘actionable project’ under the optimal development path 
+(ODP).6 VNI West has remained an actionable ISP project since the 2020 ISP. In the 2022 
+ISP, VNI West was a staged actionable project with the following stages: 
+• Stage 1 early works expected to be completed in 2026  
+• Stage 2 implementation with a target delivery date of 2031, brought forward to 2028 with 
+support from the Commonwealth Government and Victorian State Government.7  
+In the draft 2024 ISP, VNI West is an actionable project without staging.8   
+ 
+1  Unless otherwise stated, all dollar figures referred to in this document are in $ Real 2022–23.  
+2  AEMO, Feedback loop notice – VNI West early works, December 2023. 
+3  AEMO Victorian Planning (AVP) and Transgrid, RIT-T PACR – VNI West - Volume 1, May 2023, p. 48.  
+4  AEMO, Integrated system plan 2022, June 2022; and, AEMO, Integrated system plan draft 2024 - Appendix 
+A5 – Network investments, December 2023.  
+5  AVP and Transgrid, RIT-T PACR – VNI West - Volume 1, May 2023, p. 15. 
+6  AEMO, Integrated system plan draft 2024, December 2023, p. 12. 
+7  Commonwealth Government and Victorian Government, Joint media release: Rewiring the nation to 
+supercharge Victorian renewables, October 2022. 
+8  AEMO, Integrated system plan draft 2024 - Appendix A5 – Network investments, December 2023, pp. 35–
+36.  
+===== PDF PAGE 4 =====
+AER Determination | Transgrid | VNI West Stage 1 Early works Contingent Project  
+iv 
+Transgrid’s stage 1 application for VNI West  
+Transgrid’s application states that:9 
+“achieving the 2028 target delivery date is subject to undertaking early works 
+activities to obtain the necessary planning and environmental approvals, secure 
+land and easements, progress detailed design, establish biodiversity 
+stewardship sites and engage with the community and landholders. These 
+activities are expected to take around two to three years to complete.” 
+Transgrid’s application states it is undertaking early works and part of the design and 
+construction to:10 
+• determine the stage 2 delivery cost by refining the project scope through further detailed 
+design activities.  
+• identify, explore and manage the project risks to mitigate and/or diversify the project’s 
+risks to minimise residual risks.  
+• progress the pre-construction activities and community engagement to ensure 
+construction can commence as soon as possible following the stage 2 application.  
+• realise investment synergies by undertaking design and construction works associated 
+with the integration of VNI West with HumeLink and Project EnergyConnect.  
+In December 2023, Transgrid submitted a contingent project application to amend its 2023–
+28 revenue determination under clause 6A.8.2 of the National Electricity Rules (NER). 
+Transgrid proposed $1,096.3 million in capex for stage 1 of VNI West and $213.4 million in 
+incremental revenue in the 2023–28 period.  
+Transgrid’s stage 1 contingent project application included a variety of cost categories. 
+These costs are for pre-construction development costs, procuring long lead equipment, 
+stakeholder engagement and social licence, land-use planning and approvals, land and 
+easement acquisition, biodiversity offset costs, and two design and construction packages. 
+Transgrid acknowledged that some of these costs are not typically included within a stage 1 
+early works contingent project application, particularly the design and construction costs. 
+However, it states that there are cost saving benefits to bringing forward these costs.11  
+Transgrid also proposed changes to the treatment of other parts of its proposal relating to 
+depreciation and the application of incentive schemes.12 For depreciation, Transgrid 
+proposed to apply an ‘as-incurred’ depreciation approach to all depreciable asset classes 
+associated with the VNI West Stage 1 project, instead of our standard ‘as-commissioned’ 
+approach for transmission assets. Transgrid proposed this approach due to concerns with 
+financeability. Transgrid also proposed introducing a new ‘Biodiversity offsets costs’ asset 
+class to enable the depreciation of these costs over the weighted average of the standard 
+ 
+9  Transgrid, VNI West stage 1 CPA - A.1 Principal application, January 2024, p. 4.  
+10  Transgrid, VNI West stage 1 CPA - A.1 Principal application, January 2024, pp. 4–5.  
+11  Transgrid, VNI West stage 1 CPA - A.1 Principal application, January 2024, p. 7.  
+12  Transgrid, VNI West stage 1 CPA - A.1 Principal application, January 2024, pp. 2, 12–13.  
+===== PDF PAGE 5 =====
+AER Determination | Transgrid | VNI West Stage 1 Early works Contingent Project  
+v 
+asset lives of all other depreciating assets. For incentive schemes, Transgrid proposed to not 
+apply the Capital Expenditure Sharing Scheme (CESS) stating:13 
+“…we do not support the application of the CESS to AEMO’s ISP projects. This 
+is because in an inflationary and uncertain operating environment with high 
+value, complex and specialised projects, these incentive schemes introduce an 
+asymmetric risk.”  
+Our role in assessing actionable ISP projects 
+Contingent projects are significant network augmentation projects that may arise during a 
+regulatory control period but the need and or timing is uncertain. While the expenditures for 
+such projects do not form part of the total forecast expenditure in a revenue determination, 
+the project costs may ultimately be recovered from customers if the requirements of the NER 
+are met.  
+For actionable ISP projects such as VNI West, our role is to first assess whether the trigger 
+event for an actionable ISP project has been satisfied. If we assess the trigger event for the 
+actionable ISP project has been satisfied, we must then determine the incremental revenues 
+that will be added to Transgrid's revenue allowance, reflecting the forecast prudent and 
+efficient capital expenditure and operating expenditure required to deliver the contingent 
+project.14   
+Under the NER, the four criteria set out under clause 5.16A.5 (also called the ‘trigger event’) 
+must be met for an actionable ISP project and the project costs must exceed a materiality 
+threshold. If we are satisfied the trigger event has been met, our role is then to determine the 
+expenditure reasonably required for the project and the incremental revenue.15   
+The four criteria are:   
+• Transgrid must issue a Regulatory Investment Test for Transmission (RIT-T) project 
+assessment conclusions report (PACR) that meets the requirements of clause 5.16A.4 
+and which identifies a project as the preferred option (which may be a stage of an 
+actionable ISP project if the actionable ISP project is a staged project)16 
+• Transgrid must obtain written confirmation from AEMO that the preferred option 
+addresses the relevant identified need specified in the most recent ISP and aligns with 
+the ODP referred to in the most recent ISP;17 and, the cost of the preferred option does 
+not change the status of the actionable ISP project as part of the optimal development 
+path as updated in accordance with clause 5.22.15 where applicable.18,19 
+ 
+13  Transgrid, VNI West stage 1 CPA - A.1 Principal application, January 2024, p. 12.  
+14  NER, cl. 6A.8.2(e)(1). 
+15  NER, cl. 6A.8.2(e).  
+16  NER, cl. 5.16A.5(a). 
+17  NER, cl. 5.16A.5(b)(1).  
+18  NER, cl. 5.16A.5(b)(2). 
+19  This process is the ‘ISP feedback loop’.  
+===== PDF PAGE 6 =====
+AER Determination | Transgrid | VNI West Stage 1 Early works Contingent Project  
+vi 
+• No dispute notice has been given to the Australian Energy Regulator (AER) under rule 
+5.16B(c) or, if a dispute notice has been given, then in accordance with rule 5.16B(d), the 
+dispute has been rejected or the project assessment conclusions report has been 
+amended and identifies that project as the preferred option.20 
+• The cost of the preferred option set out in the contingent project application must be no 
+greater than the cost considered in AEMO's ISP feedback loop assessment.21 
+Our decision on VNI West stage 1 
+We are satisfied that all four criteria in the trigger event have been met and that the project 
+capex exceeds the threshold.22 As such, we must make a determination on Transgrid’s 
+contingent project application for: the expenditure reasonably required for the purpose of 
+undertaking the contingent project; the likely commencement and completion dates for the 
+project; and the incremental revenue.23  
+We are satisfied with Transgrid’s proposed timing for completing stage 1 in 2025–26 as this 
+aligns with the stage 1 timing in the 2022 ISP.24  
+Table 1 sets out the forecast prudent and efficient capital expenditure required to deliver the 
+project, the estimated impact on the transmission component of residential customer 
+electricity bills in New South Wales, and the incremental revenues that will be added to 
+Transgrid’s revenue in the 2023–28 regulatory control period (2023–28 period). 
+Table 1 VNI West stage 1 contingent project – Assessment of forecast 
+expenditure, revenues and bill impact 
+ Transgrid’s 
+application 
+AER’s 
+determination 
+Total capex ($2022–23) to be commissioned for VNI West stage 1 in 
+years 2022–23 to 2025–26 
+$1,096.3 million $948.8 million 
+Stage 1 indicative average annual increase in residential electricity bills in 
+NSW over 2025–26 to 2027–28 
+$7 p.a. $6 p.a. 
+Total incremental revenue to be recovered from customers over 2025–26 
+to 2027–28 ($ nominal, smoothed) 
+$213.4 million $164.2 millionA  
+Source: Transgrid application and AER analysis. 
+(A)  Incremental revenues are calculated based on the 2024–25 return on debt update post-tax revenue 
+model. 
+ 
+ 
+20  NER, cl. 5.16A.5(c). 
+21  NER, cl. 5.16A.5(d).  
+22  NER, cl. 6A.8.1(b)(2)(iii). The project capex of $1,096.3 million exceeds the threshold of $46.2 million, 
+calculated as the higher of $30 million or 5% of the maximum allowable revenue in the first year of the 
+2023–28 regulatory control period.  
+23  NER, cl. 6A.8.2(e).  
+24  AEMO, Integrated system plan 2022, June 2022, p. 74. The 2025–26 date is determined from the 
+expenditure profile in: Transgrid, VNI West stage 1 CPA - A.5 Capex forecast model, January 2024.   
+===== PDF PAGE 7 =====
+AER Determination | Transgrid | VNI West Stage 1 Early works Contingent Project  
+vii 
+Our alternative estimate of prudent and efficient costs for stage 1 
+Our decision is to not accept Transgrid’s proposed capex of $1,096.3 million and instead 
+substitute an alternative estimate of $948.8 million to ensure consumers pay no more than 
+necessary for progressing stage 1 of the project. We have undertaken a detailed review of 
+cost categories to ensure the proposed costs comply with the NER and found that much of 
+Transgrid’s forecast was prudent and efficient. However, we found the estimates for 
+contingency costs, biodiversity offset costs, and social licence were not justified and we have 
+substituted an alternative estimate for these categories.  
+We are satisfied the proposed costs for those cost components that would usually be 
+included as part of stage 1 early works reasonably reflect prudent and efficient costs and are 
+reasonably required for progressing stage 1. In forming this view, we examined Transgrid’s 
+supporting documentation and responses to our information requests and verified the 
+proposed volumes and unit costs. Our decision to accept these costs will enable Transgrid 
+to: 
+• procure various materials and long lead equipment (steel, conductor, transformers, 
+reactors, and power flow controllers) by placing orders and securing production slots 
+early to reduce overall costs for materials and equipment. 
+• undertake pre-construction development for substations and transmission lines, including 
+progressing the detailed design, resource planning and specification for equipment, plant 
+and materials in preparation for stage 2 implementation.  
+• value and acquire land and easements for where substations will be located and where 
+transmission lines will traverse in preparation for construction in stage 2.  
+• fulfil the internal labour and indirect costs (overheads) relating to project development, 
+community and stakeholder engagement, land and environment planning, regulatory 
+approvals, and other support costs such as consultants, governance and contract 
+management.  
+Our alternative estimate also includes capex proposed by Transgrid for design and 
+construction costs for the PEC Enhancement and Gugaa substation integration.25 While 
+construction costs are not typically included within stage 1 applications, we recognise the 
+benefit in undertaking the works concurrently with the PEC and HumeLink projects. 
+Undertaking these design and construction works in stage 1 lowers the overall costs across 
+stages 1 and 2. It does so by reducing construction complexity in completing the works 
+concurrently (rather than piecemeal) and avoiding undertaking the upgrades on brownfield 
+sites with associated costs such as planned outages, re-negotiating contracts, re-mobilising 
+labour and equipment, and traffic management.   
+However, we are not satisfied that Transgrid has established all its proposed cost 
+components are efficient and prudent or reasonably required for the purposes of undertaking 
+stage 1 of the project.  
+ 
+25  Gugaa substation is being built near Wagga Wagga as part of HumeLink. The Gugaa substation integration 
+is part of the VNI West scope with the purpose of connecting the PEC Enhancement to the Gugaa 
+substation at 500 kV.  
+===== PDF PAGE 8 =====
+AER Determination | Transgrid | VNI West Stage 1 Early works Contingent Project  
+viii 
+Firstly, we substituted an alternative estimate for the contingency costs associated with the 
+design and construction costs included within VNI West stage 1 relating to the Project 
+EnergyConnect and HumeLink projects. We consider a portion of the contingency costs 
+proposed by Transgrid are already sufficiently addressed in these related projects and there 
+is not a greater level of risk requiring additional funding. Further, a number of the identified 
+risks are reasonably within Transgrid’s control to manage, such that consumers should not 
+bear these risks. Otherwise, we have found the remainder of the contingency costs 
+reasonably reflected prudent and efficient costs and are consistent with the expectations as 
+set out in our Guidance Note on the Regulation of actionable ISP projects.26 However, 
+Transgrid could improve in how it follows the guidance, principles, and expectations set out 
+in our Guidance Note. For example, by submitting the supporting information with the 
+application (for example, risk registers)27 and specifically identifying risks and controls rather 
+than broad percentage contingency allowances.28  
+Secondly, we reduced Transgrid’s biodiversity offset costs for the VNI West corridor because 
+they were not at a stage of sufficient planning and approvals to be included in stage 1. We 
+did not accept the amounts that were not sufficiently certain at this stage, such as the 
+payments into the Biodiversity Conservation Fund. However, we did accept the proposed 
+labour and indirect costs and the establishment of Biodiversity Stewardship Agreements to 
+enable Transgrid to progress the required environmental studies, planning and approvals. 
+Accepting the costs for establishing Biodiversity Stewardship Agreements also allows for a 
+more cost-effective way of acquitting the biodiversity liability and acknowledges the longer 
+lead time to undertake this approach. We would expect Transgrid to complete the necessary 
+environmental studies, planning and approvals prior to submitting its stage 2 application so 
+that the cost estimates are more refined and certain.  
+We have not accepted the proposed biodiversity direct non-labour costs relating to the PEC 
+Enhancement because Transgrid has not satisfied us that these costs are reasonably 
+required because they are not additional to the expenditure and revenue previously approved 
+in the PEC CPA.29  
+Thirdly, while we have accepted the proposed costs for stakeholder engagement, we have 
+not accepted a portion of the proposed social licence costs for activities. This is because we 
+do not consider Transgrid has yet undertaken sufficient community engagement to support 
+the proposed activities as part of a stage 1 application. Some of the costs may be more 
+suitable for the stage 2 application when the activities are better informed following further 
+meaningful engagement with the local communities. The funding provided as part of this 
+decision will enable Transgrid to undertake high quality engagement with affected 
+communities in the lead up to its stage 2 application.  
+Our decision on depreciation and application of incentive schemes 
+We do not accept Transgrid’s proposed as-incurred depreciation approach for all depreciable 
+assets associated with the VNI West stage 1 project, except for the biodiversity offset costs. 
+ 
+26  AER, Guidance note - Regulation of actionable ISP projects, March 2021. 
+27  AER, Guidance note - Regulation of actionable ISP projects, March 2021, p. 38. 
+28  AER, Guidance note - Regulation of actionable ISP projects, March 2021, pp. 16–21. 
+29  AER, Final decision – Transgrid – Project EnergyConnect contingent project, May 2021. 
+===== PDF PAGE 9 =====
+AER Determination | Transgrid | VNI West Stage 1 Early works Contingent Project  
+ix 
+We have applied our standard as-commissioned depreciation approach to the asset classes 
+for ‘Transmission lines’ and ‘Substations’ to reflect the nature of these assets. However, we 
+consider depreciating biodiversity offset costs on an as-incurred basis better reflects the 
+nature of these costs.  
+We will determine the application of the CESS at the stage 2 contingent project application. 
+This is consistent with our treatment of the HumeLink project. We do not consider it is 
+appropriate to make a decision on the application of the CESS until the full costs of the 
+project have been assessed, which will occur at stage 2.  
+Next steps  
+Following this decision and by the operation of the NER, Transgrid’s revenue determination 
+is now amended such that the incremental revenues we have approved in this determination 
+will be added to Transgrid’s total maximum allowed revenues for the 2023–28 period. This 
+follows the process set out in clause 6A.8.2 of the NER.  
+The increase in allowed revenues will be reflected in customer bills over the remaining three 
+years of the 2023–28 period (2025–26 to 2027–28). 
+The next stage of the VNI West project is for Transgrid to submit its stage 2 application for 
+the remainder of the project costs. As AEMO has provided feedback loop confirmation on the 
+whole project, Transgrid will not be required to go through the feedback loop process again 
+unless the total costs have increased from when the project first went through the feedback 
+loop.30  
+The incremental revenue approved in stage 1 will enable Transgrid to progress the early 
+works to obtain more accurate cost estimates, undertake high quality community 
+engagement, and progress the necessary environmental planning and approvals. We 
+consider that it would be optimal from an assessment perspective if the stage 2 contingent 
+project application could be lodged after the appropriate environmental planning and 
+approvals have been obtained. 
+ 
+ 
+30  AER, Guidance note - Regulation of actionable ISP projects, March 2021, pp. 27, 29.  
+===== PDF PAGE 10 =====
+AER Determination | Transgrid | VNI West Stage 1 Early works Contingent Project  
+1 
+Contents 
+Executive Summary ................................ ................................ ................................ ............ iii 
+Contents................................ ................................ ................................ ................................  1 
+1 VNI West stage 1 contingent project ................................ ................................ ............ 2 
+2 Summary of NER requirements ................................ ................................ .................... 4 
+3 Our contingent project determination ................................ ................................ .......... 6 
+4 Project trigger and expenditure threshold ................................ ................................ ... 8 
+4.1 Assessment of trigger event ................................ ................................ ................ 8 
+4.2 Assessment of expenditure threshold ................................ ................................ .. 9 
+5 Prudent and efficient project expenditure ................................ ................................ . 10 
+5.1 Forecast capital expenditure ................................ ................................ ...............10 
+5.2 Application of expenditure incentive schemes ................................ .....................36 
+6 Calculation of incremental allowed revenues ................................ ........................... 38 
+6.1 As-incurred depreciation and financeability ................................ .........................39 
+6.2 Biodiversity offset costs asset classes and asset lives ................................ ........42 
+6.3 Update for 2022–23 actual capex ................................ ................................ .......43 
+Shortened forms ................................ ................................ ................................ ................. 45 
+ 
+ 
+  
+===== PDF PAGE 11 =====
+AER Determination | Transgrid | VNI West Stage 1 Early works Contingent Project  
+2 
+1 VNI West stage 1 contingent project 
+VNI West is a planned transmission line interconnector between Victoria and NSW. The total 
+costs for VNI West are estimated at $3,963.6 million,31 with the costs split about 50/50 
+between the Victorian component and the NSW component, delivered by Transmission 
+Company Victoria and Transgrid, respectively.32   
+The identified need for the VNI West project is to facilitate the efficient development and 
+dispatch of generation in areas with high quality renewable resources in Victoria and NSW.33 
+The preferred option 5A in the Regulatory Investment Test for Transmission (RIT-T) project 
+assessment conclusions report (PACR) involves constructing a 500 kV double-circuit 
+overhead transmission line between Victoria and NSW, connecting the Western Renewables 
+Link (at Bulgana, Victoria) with Project EnergyConnect (at Dinawan, NSW) via a new Kerang 
+substation (Victoria).34  
+AEMO has identified VNI West as an actionable ISP project since 2020 and its status has not 
+changed in the 2022 ISP and draft 2024 ISP (‘the most recent ISP’). At the time of the ISP 
+2022, two stages were considered for VNI West: stage 1 early works and stage 2 
+implementation. In the draft 2024 ISP, the VNI West project is no longer staged.35   
+AEMO provided feedback loop confirmation on 21 December 2023 for the VNI West project 
+as a whole (NSW and Victoria).36 As staging has been removed in the draft 2024 ISP, 
+AEMO’s assessment of the ‘cost cap’ was for the overall project, rather than the first stage.  
+Transgrid expects to complete stage 1 in 2025–26. The Commonwealth Government has 
+committed $750 million concessional finance to bring forward the complete delivery of VNI 
+West from 2031 to 2028.37 The Commonwealth Government has also underwritten funds to 
+construct the transmission line section of Project EnergyConnect (PEC) between Dinawan 
+and Wagga Wagga at 500 kV rather than 330 kV.38  
+On 22 December 2023, Transgrid submitted its stage 1 early works contingent project 
+application (CPA) for $1,096.3 million ($Real 2022–23) in capex to the AER.39 This 
+represents 55% of the total expected costs for the NSW portion of costs. The stage 1 
+application involves costs for pre-construction development activities, procuring long lead 
+ 
+31  AEMO, Feedback loop notice – VNI West early works, December 2023. 
+32  The cost split is set out in: AVP and Transgrid, RIT-T PACR – VNI West - Volume 1, May 2023, p. 48.  
+33  AEMO, Integrated system plan 2022, June 2022; and, AEMO, Integrated system plan draft 2024 - Appendix 
+A5 – Network investments, December 2023.  
+34  AVP and Transgrid, RIT-T PACR – VNI West - Volume 1, May 2023, p. 15. 
+35  AEMO, Integrated system plan draft 2024 - Appendix A5 – Network investments, December 2023, pp. 35–
+36.  
+36  AEMO, Feedback loop notice – VNI West early works, December 2023. 
+37  Commonwealth Government and Victorian Government, Joint media release: Rewiring the nation to 
+supercharge Victorian renewables, October 2022.  
+38  Commonwealth Government, Government supporting delivery of critical transmission infrastructure in 
+southwest NSW, September 2021. 
+39  Unless otherwise stated, all dollar figures referred to in this document are in $ Real 2022–23 terms. 
+===== PDF PAGE 12 =====
+AER Determination | Transgrid | VNI West Stage 1 Early works Contingent Project  
+3 
+equipment, stakeholder engagement and social licence, land-use planning, approvals and 
+acquisition, biodiversity offset costs, and two design and construction packages. 
+  
+===== PDF PAGE 13 =====
+AER Determination | Transgrid | VNI West Stage 1 Early works Contingent Project  
+4 
+2 Summary of NER requirements 
+For an actionable ISP project, a transmission network service provider (TNSP) may submit a 
+contingent project application to the AER if the trigger event under clause 5.16A.5 of the 
+National Electricity Rules (NER) has occurred.40 The information that a TNSP is required to 
+include in its application is set out under clause 6A.8.2(b). Transgrid submitted its application 
+on 22 December 2023 as described in section 1.  
+As soon as practicable following receipt of the application, we must publish the application 
+and invite submissions on the application.41 We must consider any written submissions on 
+the application in making our determination and we must make our decision within 40 
+business days from the later of the date we receive the application and the date we receive 
+any information required by us under clause 6A.8.2(h1).42 We published the application on 5 
+February 2024 and sought submissions. Submissions closed on 1 March 2024 and we 
+received one written submission. We issued four notices under clause 6A.8.2(h1) and 
+Transgrid’s final response was received on 11 April 2024.  
+If we are satisfied the trigger event has occurred, the forecast total capital expenditure in the 
+application exceeds the threshold in clause 6A.8.1(b)(2)(iii), and AEMO has provided written 
+confirmation requested under clause 5.16A.5(b),43 we must then: 
+• determine the capital expenditure (capex), incremental operating expenditure (opex) and 
+incremental revenue reasonably required for the purposes of undertaking the project, and 
+the likely commencement and completion dates for the project.44 
+• determine the estimate of incremental revenue likely to be required in each remaining 
+regulatory year as a result of the project.45 
+• amend the relevant revenue determination in accordance with clause 6A.8.2(h).46  
+We discuss our assessment of the trigger event and cost threshold in section 4.  
+In making the determinations required under clause 6A.8.2(e)(1), we must accept the 
+relevant amounts and dates in the application if we are satisfied that: 
+• the forecast of the total capex for the project meets the threshold in clause 
+6A.8.1(b)(2)(iii)47 
+ 
+40  NER, cl. 6A.8.2(a)(2). 
+41  NER, cl. 6A.8.2(c).  
+42  NER, cl. 6A.8.2(d).  
+43  6A.8.2(e).  
+44  6A.8.2(e)(1). 
+45  6A.8.2(e)(2). 
+46  6A.8.2(e)(3). 
+47  6A.8.2(f)(1). 
+===== PDF PAGE 14 =====
+AER Determination | Transgrid | VNI West Stage 1 Early works Contingent Project  
+5 
+• the capex and opex in the application reasonably reflects the capex and opex criteria 
+required to achieve the capex and opex objectives,48 taking into account the capex and 
+opex factors49, 50 
+• the estimates of incremental revenue and the dates are reasonable.51  
+Our decision focuses on the assessment of prudent and efficient capex because Transgrid’s 
+application does not include an amount for incremental opex.52  
+In making the determinations under 6A.8.2(e)(1) and determining whether to accept the 
+amounts and dates in the application, we must have regard to the matters under clause 
+6A.8.2(g).53 Having regard to the matters under clause 6A.8.2(g), if we are then satisfied of 
+the matters in clause 6A.8.2(f), we must accept the amounts and dates proposed in the 
+application. If we are not satisfied, then we must determine the amounts and dates.  
+We are not satisfied that Transgrid’s estimate of capex reasonably reflects the prudency and 
+efficiency criteria. Therefore, we are required to determine an alternative estimate of capex 
+that is reasonably required for the purposes of undertaking the contingent project.54 We set 
+out our overall determination on the amounts and dates in section 3, our alternative estimate 
+of capex in section 5, and the corresponding incremental revenue in section 6. 
+ 
+48  The capex and opex criteria are set out in NER clauses 6A.6.7(c) and 6A.6.6(c), respectively. The capex 
+and opex objectives are set out in NER clauses 6A.6.7(a) and 6A.6.6(a), respectively. 
+49  The capex and opex factors are set out in NER clauses 6A.6.7(e) and 6A.6.6(e), respectively.  
+50  6A.8.2(f)(2).  
+51  6A.8.2(f)(3) and (4).  
+52  The only opex in Transgrid’s application relates to debt-raising costs following a standardised estimation 
+methodology.   
+53  6A.8.2(g).  
+54  NER, cl. 6A.8.2(e)(ii).  
+===== PDF PAGE 15 =====
+AER Determination | Transgrid | VNI West Stage 1 Early works Contingent Project  
+6 
+3 Our contingent project determination 
+Under clause 6A.8.2(a) of the NER, Transgrid may apply to amend its existing revenue 
+determination to increase allowed revenues for a contingent project. However, we are only 
+required to determine the incremental revenues required to deliver the contingent project if 
+we are satisfied that the actionable ISP project trigger event has occurred, and the project 
+exceeds a cost threshold.55 
+As set out in section 4, the VNI West stage 1 CPA meets the criteria under clause 6A.8.2(e) 
+required for us to make a determination because: 
+• we are satisfied that each element of the actionable ISP project trigger event for this 
+project has occurred56 
+• we are satisfied that the proposed capex amount of $1,096.3 million exceeds the 
+applicable materiality threshold of $46.2 million (5% of the maximum allowable revenue in 
+year one of the 2023–28 period).57 
+We have made a determination on Transgrid's CPA in accordance with clause 6A.8.2 of the 
+NER, which specifies the process we must undertake and the determinations we must make 
+on a CPA.  
+In accordance with clause 6A.8.2(e)(1) of the NER, we have determined: 
+• the total capex that is reasonably required for the project and the amount of capex for 
+each remaining year of the regulatory control period (see section 5).58  
+• the incremental revenue which is likely to be required by Transgrid for each remaining 
+regulatory year as a result of the efficient capex for the contingent project (see section 6), 
+and 
+• that the project has commenced and stage 1 is aimed to be completed in 2026. The 
+target date for completing all stages of the project is 2028.  
+Prior to making our determination, we were required to publish Transgrid's application and 
+invite interested parties to make written submissions.59 We sought submissions on 
+Transgrid's application, which closed on 1 March 2024.60 We are required to consider any 
+ 
+55  NER, cl. 6A.8.2(e).  
+56  The criteria for actionable ISP project trigger events are set out in clause 5.16A.5 of the NER.  
+57  NER, cl. 6A.8.1(b)(2)(iii).  
+58  Transgrid’s application does not include any additional operating expenditure beyond its opex forecast 
+included in the 2023–28 Determination. However, Transgrid’s application includes debt raising costs using a 
+standard estimation approach calculated within the PTRM.  
+59  NER, cl. 6A.8.2(c). 
+60  We received one submission as published on the AER website.  
+===== PDF PAGE 16 =====
+AER Determination | Transgrid | VNI West Stage 1 Early works Contingent Project  
+7 
+written submissions made and make our decision on Transgrid’s application within statutory 
+timeframes.61  
+In making our determination, we must accept Transgrid’s proposed amounts and dates in the 
+application if we are satisfied the proposed expenditure meets the relevant threshold, the 
+proposed expenditure reasonably reflects the expenditure criteria, the incremental revenue is 
+reasonable, and the dates are reasonable.62 If we are not satisfied, we must determine these 
+amounts and dates.  
+Based on our review of Transgrid’s application, we do not accept Transgrid’s forecast 
+$1,096.3 million for capex for stage 1 incurred, or to be incurred, in years 2017–18 to 2025–
+26. Our alternative estimate of stage 1 capex is $948.8 million, which is $147.5 million 
+(13.5%) lower than Transgrid’s forecast. We discuss our reasons in section 5.1. As 
+discussed in section 6, our decision is for Transgrid to recover incremental revenue of $164.2 
+million over the remaining three years of the 2023–28 period (2025–26 to 2027–28). 
+We are satisfied with Transgrid’s proposed timing for completing stage 1 in 2025–26 as this 
+aligns with the stage 1 timing in the 2022 ISP.63  
+We do not accept Transgrid’s proposed as-incurred approach for depreciating forecast capex 
+allocated to the transmission lines and substations asset classes. Instead, we applied the as-
+commissioned approach to these asset classes. However, we accept the proposed as-
+incurred approach for depreciating forecast capex associated with biodiversity offsets. We 
+discuss our reasons in section 6.1.  
+We also do not accept Transgrid’s proposal to not assign a standard tax asset life for costs 
+associated with payments made directly into the Biodiversity Conservation Fund and other 
+indirect costs. We consider a standard tax asset life of 50 years should be assigned for tax 
+depreciation purposes for these costs. However, we accept the proposal to not assign a 
+standard tax asset life for costs associated with biodiversity stewardship sites. We discuss 
+our reasons in section 6.2.  
+We have published on our website a supporting post-tax revenue model (PTRM) for the 
+2023–28 period which sets out the updated annual revenues and X-factors for the 2023–28 
+period after including the contingent project amount. We have also published a supporting 
+regulatory asset base (RAB) roll forward model which sets out the updated opening RAB 
+value as at 1 July 2023 after including the contingent project amount for the 2018–23 period. 
+ 
+ 
+  
+ 
+61  NER, cl. 6A.8.2(d). We are required to make a decision within 40 business days from the later of the date 
+we receive the application and the date we receive any information required by us under clause 6A.8.2(h1). 
+On 11 April 2024, we received Transgrid’s final response to the information we requested under clause 
+6A.8.2(h1).  
+62  NER, cl. 6A.8.2(f).  
+63  AEMO, Integrated system plan 2022, June 2022, p. 74. The 2025–26 date is determined from the 
+expenditure profile in: Transgrid, VNI West stage 1 CPA - A.5 Capex forecast model, January 2024.   
+===== PDF PAGE 17 =====
+AER Determination | Transgrid | VNI West Stage 1 Early works Contingent Project  
+8 
+4 Project trigger and expenditure 
+threshold 
+Under clause 6A.8.2(e) of the NER, we are required to determine the expenditure reasonably 
+required and the incremental revenues necessary to deliver the contingent project if we are 
+satisfied that a specific trigger event has occurred, and that the project exceeds a cost 
+threshold. 
+4.1 Assessment of trigger event 
+The criteria for trigger events for actionable ISP projects are set out in clause 5.16A.5 of the 
+NER.  
+Table 2 sets out the required elements of the actionable ISP project trigger event (as per 
+NER 5.16A.5 and our assessment against each trigger event. We are satisfied that each 
+element of the trigger event has occurred. 
+Table 2 Actionable ISP project trigger event (NER 5.16A.5) 
+Description of trigger event element Assessment 
+(a) The RIT-T proponent must issue a RIT-T project 
+assessment conclusions report that meets the 
+requirements of clause 5.16A.4 and which 
+identifies a project as the preferred option (which 
+may be a stage of an actionable ISP project if the 
+actionable ISP project is a staged project). 
+Transgrid published a RIT-T PACR for VNI West in 
+May 2023 that meets the requirements of clause 
+5.16A.4, and which identified the preferred option to be 
+a new 500 kV double circuit transmission line 
+connecting the high voltage electricity grids in NSW 
+and Victoria (option 5A).  
+(b) The RIT-T proponent must obtain written 
+confirmation from AEMO that:64  
+• the preferred option addresses the relevant 
+identified need specified in the most recent ISP 
+and aligns with the optimal development path 
+referred to in the most recent ISP; and 
+• the cost of the preferred option does not change 
+the status of the actionable ISP project as part of 
+the optimal development path as updated in 
+accordance with clause 5.22.15 where applicable. 
+Transgrid received written feedback loop confirmation 
+from AEMO on 21 December 2023 that the entire VNI 
+West project meets the identified need in the most 
+recent ISP, this being the draft 2024 ISP, and that the 
+total VNI West project costs remain part of the optimal 
+development path at an updated total cost of $3,963.6 
+million ($2022–23) for both the NSW and Victorian 
+components.  
+(c) No dispute notice has been given to the AER under 
+rule 5.16B(c) or, if a dispute notice has been given, 
+then in accordance with rule 5.16B(d), the dispute 
+has been rejected or the project assessment 
+conclusions report has been amended and 
+identifies that project as the preferred option. 
+On 26 June 2023, we received a dispute notice from 
+Moorabool and Central Highlands Power Alliance 
+(MCHPA) under rule 5.16B(c).65 In October 2023, we 
+rejected this dispute notice in accordance with rule 
+5.16A(d).66   
+ 
+64  This is the ‘ISP feedback loop’.  
+65  MCHPA, Dispute notice – VNI West project assessment conclusions report, June 2023.  
+66  AER, Determination of dispute – application of the regulatory investment test for transmission – VNI West, 
+October 2023. 
+===== PDF PAGE 18 =====
+AER Determination | Transgrid | VNI West Stage 1 Early works Contingent Project  
+9 
+Description of trigger event element Assessment 
+(d) The cost of the preferred option set out in the 
+contingent project application must be no greater 
+than the cost considered in AEMO's assessment in 
+requirement 2 above. 
+Transgrid’s proposed Stage 1 capex of $1,096.3 million 
+($2022–23) is no greater than the $3,963.6 million total 
+project costs considered in the AEMO’s feedback loop 
+confirmation.  
+Source: AER analysis. 
+4.2 Assessment of expenditure threshold 
+As required under clause 6A.8.2(e)(1B) of the NER, we are satisfied that the proposed capex 
+amount of $1,096.3 million exceeds the applicable materiality threshold of $46.2 million (5% 
+of the maximum allowed revenue in year one of the 2023–28 period). This is calculated from 
+the updated post tax revenue model for the 2023–28 regulatory period following our 
+decisions for HumeLink stage 1 part 1 and stage 1 part 2.67  
+ 
+  
+ 
+67  AER, Final decision HumeLink stage 1 (part 2) – post-tax revenue model, August 2023.  
+===== PDF PAGE 19 =====
+AER Determination | Transgrid | VNI West Stage 1 Early works Contingent Project  
+10 
+5 Prudent and efficient project expenditure  
+In making our determination we have had regard to the specific matters under clause 
+6A.8.2(g) of the NER. This section outlines how we have considered these matters and our 
+assessment of the prudent and efficient costs for Transgrid’s VNI West stage 1 contingent 
+project application. Transgrid proposed incremental capex associated with the project and 
+did not propose any incremental operating expenditure.  
+5.1 Forecast capital expenditure 
+Our alternative estimate is $948.8 million, which is $147.5 million (or 13.5%) lower than 
+Transgrid’s proposed forecast capex of $1,096.3 million for its stage 1 CPA. In assessing 
+capex, we developed an alternative estimate because we did not consider Transgrid’s 
+proposed capex was prudent and efficient and reasonably required for the purposes of 
+undertaking the project. In assessing the scope of the project that is reasonably required, we 
+had regard to:  
+• the scope of works described within the 2022 ISP, the RIT-T PACR and the draft 2024 
+ISP.68 We considered that the early works described in the 2022 ISP provides a 
+reasonable basis for the potential early works activities, though this is not a binding 
+requirement. We also noted the draft 2024 ISP no longer includes staging for the VNI 
+West project.  
+• whether the costs were sufficiently certain to be included stage 1 and whether the costs 
+would be more suitable in a subsequent stage 2 contingent project application after 
+progressing the early works activities.   
+• the expectations and guidance set out in our Cost Benefit Analysis Guidelines and our 
+Guidance note on the regulation of actionable ISP projects.69 
+Table 3 sets out our determination on the total capex reasonably required for the project 
+compared to Transgrid’s proposal, including actual capex incurred in the 2018–23 period and 
+forecast capex in the first three years of the 2023–28 period.  
+ 
+68  AEMO, Integrated system plan 2022, June 2022, p. 75; AVP and Transgrid, RIT-T PACT – VNI West 
+Volume 1, May 2023, pp. 113–116; and AEMO, Integrated system plan draft 2024 - Appendix A5 – Network 
+investments, December 2023, pp. 35–36.    
+69  AER, Guidance note - Regulation of actionable ISP projects, March 2021 and AER, Cost benefit analysis 
+guidelines, October 2023.  
+===== PDF PAGE 20 =====
+AER Determination | Transgrid | VNI West Stage 1 Early works Contingent Project  
+11 
+Table 3 AER’s determination on VNI West stage 1 capex ($ million, $2022–23) 
+ 2018–23 2023–24 2024–25 2025–26 Total 
+ Actual Forecast Forecast Forecast  
+Transgrid's application 77.1 499.7 450.1 69.4 1,096.3 
+AER's determination 38.2 476.5 369.9 64.2 948.8 
+Difference ($) -38.9 -23.2 -80.2 -5.2 -147.5 
+Difference (%) -50.5% -4.6% -17.8% -7.5% -13.5% 
+Source:  AER analysis of Transgrid’s revised capex model submitted in response to information requests 02 and 03.  
+Note: Numbers may not add up due to rounding. Excludes equity raising costs. Capex in 2022–23 is updated for actual 
+capex.  
+Table 4 summarises our determination against the components of Transgrid's proposed 
+forecast capex by category. 
+Table 4 AER’s determination compared with Transgrid’s application ($ million, 
+$2022–23) 
+Capex category 
+Transgrid's 
+application 
+AER's 
+determination 
+Difference 
+($) 
+Difference 
+(% of total 
+capex) 
+Pre-construction development costs 49.4 49.4 0.0 0.0% 
+Long lead equipment 228.9 228.9 0.0 0.0% 
+Project EnergyConnect 
+EnhancementA 
+345.6 309.7 -35.9 -3.3% 
+HumeLink substation (Gugaa) 
+integration worksB 
+169.0 131.1 -37.9 -3.5% 
+Land acquisition 30.7 30.7 0.0 0.0% 
+Biodiversity offsets 67.1 10.0 -57.1 -5.2% 
+Labour 65.2 64.2 -1.0 -0.1% 
+Indirect non-labour 140.4 125.5 -14.9 -1.4% 
+Subtotal capex 1,096.3 949.5 -146.8 -13.4% 
+Modelling adjustments   -0.6     
+Total capex 1,096.3 948.8 -147.5 -13.5% 
+Source:  Transgrid, VNI West stage 1 Early works Contingent Project Application, January 2024 and AER analysis.  
+Note: Numbers may not add up due to rounding. Excludes equity raising costs. Modelling adjustment aligns the inflation 
+series to our 2023–28 Determination for Transgrid. Transgrid claimed confidentiality over further cost breakdowns: 
+(A) Including costs for: contract costs, property compensation costs, biodiversity offset costs, contingency costs.  
+(B) Including costs for: contract costs, contingency costs, storage and land purchase costs.  
+In making our decision, we have had regard to the range of supporting documents Transgrid 
+submitted, including a breakdown of the project cost elements, a capex forecasting 
+methodology, cost models, and an independent engineering verification and assessment of 
+===== PDF PAGE 21 =====
+AER Determination | Transgrid | VNI West Stage 1 Early works Contingent Project  
+12 
+its capex forecast. Transgrid also responded to all four of the information requests we issued 
+under clause 6A.8.2(h1), which we have used in forming our decision and alternative 
+estimate of capex. We have also had regard to the written stakeholder submission received. 
+Context for our stage 1 assessment  
+AEMO’s 2022 ISP described the early works activities that may be included for VNI West:70 
+• “Project initiation – scope, team mobilisation, service procurement. 
+• Stakeholder engagement – with local communities, landowners and other stakeholders. 
+• Land-use planning – identify and obtain all primary planning and environmental 
+approvals, route identification, field surveys, geotechnical investigations, substation site 
+selection and easement acquisition. 
+• Detailed engineering design – transmission line, structure and substation design, detailed 
+engineering design and planning. 
+• Cost estimation – finalisation, including quotes for primary and secondary plant. 
+• Strategic network investment – an uplift to the delivered capacity of PEC between 
+Dinawan and Wagga Wagga.” 
+Our Cost benefit analysis (CBA) Guidelines and our Guidance Note on the regulation of 
+actionable ISP projects set out our expectations on, and the objectives of, early works and 
+project staging in contingent project applications in detail.71 Following the Australian Energy 
+Market Commission’s (AEMC) Transmission Planning and Investment Review (TPIR), we 
+updated our CBA Guidelines to include further guidance on early works and clarify that early 
+works activities are prior to the construction of the preferred option.72 As the CBA Guidelines 
+were updated subsequent to the PACR for VNI West being published, we have not applied 
+this amended guidance on early works.  
+Transgrid’s stage 1 application represents 55% of the total expected costs for the NSW 
+component of VNI West. This is a significant amount of capex for a stage 1 application. The 
+high proportion of stage 1 costs reflect that Transgrid has, in large part, brought forward 
+costs that would typically be included in a stage 2 application.73 We would not typically 
+include construction costs within a stage 1 CPA decision as early works are intended to be 
+activities prior to construction. However, given the timing of when our CBA Guidelines were 
+amended and the likely lower overall cost of delivering these projects by undertaking the 
+PEC Enhancement and Gugaa substation scope of works concurrently in PEC and 
+HumeLink, we have included the proposed capex (except for the contingency costs).  
+ 
+70  AEMO, Integrated system plan 2022, June 2022, p. 75. 
+71  AER, Cost benefit analysis guidelines, October 2023, pp. 47–48; and AER, Guidance note - Regulation of 
+actionable ISP projects, March 2021, pp. 25–31.  
+72  AER, Cost benefit analysis guidelines, October 2023, pp. 47–48. 
+73  For example, the design and construction costs amount to $514.6 million, which accounts for 47% of the 
+$1,096.3 million in the stage 1 application.  
+===== PDF PAGE 22 =====
+AER Determination | Transgrid | VNI West Stage 1 Early works Contingent Project  
+13 
+For costs relating to contingencies, social licence, and biodiversity, we are not satisfied that 
+the proposed costs are prudent and efficient for a stage 1 application. As discussed further in 
+this section: 
+• The magnitude of the contingency costs relating to the design and construction are in 
+large part due to bringing forward costs from stage 2. In this case, we consider it is 
+reasonable to bring forward parts of the design and construction to reduce overall costs 
+and align the construction timing with PEC and HumeLink. However, based on the 
+information provided in Transgrid’s risk register, we found the amount of risk costs were 
+likely overstated and not prudent and efficient. Our alternative estimate includes capex 
+for specific risk costs that meet the expectations in our Guidance note on the regulation 
+of actionable ISP projects. We have excluded risk costs where additional expenditure is 
+not reasonably required beyond what is included in the related PEC and HumeLink 
+projects and where the risks are reasonably within Transgrid’s control. We discuss this 
+further in section 5.1.2.  
+• A portion of the costs for social licence and biodiversity offsets would be more suitable for 
+the stage 2 application where there will be better information to support the costs. The 
+case would be better supported following further community engagement to justify social 
+licence activities and further progressing environmental studies and planning approvals 
+for biodiversity offset costs. We have provided sufficient capex to enable Transgrid to 
+progress these. The efficiency and prudency of these costs would need to be justified by 
+Transgrid and assessed by us at stage 2. We discuss our assessment of biodiversity 
+offset costs and social licence in section 5.1.3 and section 5.1.4, respectively.  
+Subsequent to the submission of Transgrid’s VNI West stage 1 contingent project 
+application, the AEMC introduced a definition of early works contingent project applications 
+into the NER recognising that these types of applications are for activities undertaken prior to 
+construction of the preferred option.74 Any future staged contingent project applications with 
+early works will need to reflect the definitions and guidance applicable at that time for that 
+project, such as that in the NER and our Guidelines. As such, our decision contained within 
+may not necessarily be entirely applicable to future contingent project decisions due to the 
+various proposed AEMC rule changes following the TPIR relating to early works, staging, 
+and related processes for the ISP, RIT-T, AEMO feedback loop confirmation, and our 
+assessment of contingent project applications.  
+Our overall conclusion on Transgrid’s proposed capex  
+Based on our review of the available information, we do not accept Transgrid’s proposed 
+capex for VNI West stage 1. Instead, we have substituted an alternative estimate of $948.8 
+million, which is $147.5 million (or 13.5%) lower than Transgrid’s application.  
+We found that: 
+• We were satisfied the typical costs components included within stage 1 early works 
+reasonably reflect prudent and efficient costs and are reasonably required for progressing 
+ 
+74  NER Chapter 10 Glossary for “early works contingent project application” - An application by a Transmission 
+Network Service Provider to amend its revenue determination in respect of the costs of activities undertaken 
+in respect of an actionable ISP project prior to construction of the preferred option. 
+===== PDF PAGE 23 =====
+AER Determination | Transgrid | VNI West Stage 1 Early works Contingent Project  
+14 
+stage 1. This includes costs for: procurement of various materials and long lead 
+equipment (steel, conductor, transformers, reactors, and power flow controllers); pre-
+construction development for substations and transmission lines; land and easement 
+acquisition; and the internal labour resource requirements and indirect costs.75  
+• Compared to the RIT-T PACR, Transgrid brought forward a variety of costs (such as 
+power flow controllers, biodiversity offset costs, and Gugaa substation integration) that 
+significantly increased the proportion of stage 1 early works expenditure compared to the 
+total project expenditure. In some cases, we found these costs have been reasonably 
+justified, will be offset from stage 2 costs, and will contribute to lowering the overall 
+project costs across the stages. Our decision includes the cost estimates for the PEC 
+Enhancement and Gugaa substation integration as these were largely based on 
+contracts with pre-agreed variations, though we reduced the amount for contingency 
+costs in our alternative estimate (see below).  
+• Contingency costs relating to design and construction packages and land acquisition 
+contributed 11.5% to the total capex. We undertook a detailed review of these 
+contingency costs and found Transgrid had not established that many of the proposed 
+amounts for addressing risk were greater than the risks already addressed in the PEC 
+CPA and the HumeLink stage 2 CPA. Further, several contingency costs are reasonably 
+within Transgrid’s control to manage and mitigate. Therefore, these components of the 
+contingency costs are not reasonably required for the project. Our alternative estimate is 
+based on our bottom-up review of Transgrid’s risk register, applying the expectations 
+outlined in our Guidance note on the regulation of actionable ISP projects.  
+• Biodiversity offset costs contributed 9% to the total capex. Transgrid submitted 
+biodiversity offset costs for two areas: one for the VNI West transmission line corridor and 
+one for the PEC Enhancement. For the VNI West corridor, Transgrid provided good 
+reasons to bring forward some of the biodiversity costs to enable more cost-effective 
+solutions to be available (through Biodiversity Stewardship Agreements that have long 
+lead time to implement). We consider the Biodiversity Stewardship Agreement 
+establishment costs and the labour and indirect costs to progress environmental studies, 
+planning approvals, and related costs are reasonably required for stage 1. For the PEC 
+Enhancement biodiversity offset costs, we have accepted the labour and indirect costs 
+but not the direct non-labour costs because Transgrid has not established that 
+incremental revenue is required to meet the regulatory obligations beyond that already 
+approved in the PEC CPA. Overall, our alternative estimate will enable Transgrid to 
+develop more refined and certain estimates for biodiversity offset costs to include in its 
+stage 2 application.  
+• Social licence costs were generally justified. We have provided Transgrid with the full 
+amount for its proposed community and stakeholder engagement and expect Transgrid 
+to undertake high quality engagement with this funding. We also have accepted a portion 
+of the social licence activities (beyond engagement activities) that have been reasonably 
+justified based on engagement with the affected communities. Conversely, we have not 
+accepted some costs where we do not consider Transgrid has yet undertaken sufficient 
+ 
+75  Transgrid proposed a variety of cost subcategories for project development, community and stakeholder 
+engagement, land and environment, regulatory approvals, and other support costs.   
+===== PDF PAGE 24 =====
+AER Determination | Transgrid | VNI West Stage 1 Early works Contingent Project  
+15 
+community engagement to support the proposed activities in a stage 1 application. We 
+consider these costs may be more suitable for the stage 2 application when the activities 
+are better informed following further engagement with the local communities.     
+We discuss our decision on the key cost categories in more detail below.   
+ 
+5.1.1 Design and construction costs for PEC Enhancement and 
+Gugaa substation integration 
+Our decision    
+We have included Transgrid’s estimates for the design and construction costs for the PEC 
+Enhancement and the HumeLink (Gugaa) substation integration in our alternative estimate. 
+The costs were predominantly based on pre-agreed contract variations with the existing PEC 
+contractor and the HumeLink delivery partner. These scopes of work included within the VNI 
+West application are an expansion of design and construction funded and delivered by the 
+related PEC and HumeLink projects. We found these scopes were additional to the scope 
+and associated costs included in the PEC and HumeLink projects and are therefore not 
+duplicative.  
+We consider the PEC Enhancement and Gugaa substation integration are important scopes 
+of work as they enable the connection of PEC, VNI West and HumeLink to each other at 500 
+kV. Addressing these upgrades in stage 1 allows for concurrent investment while PEC and 
+HumeLink are being built to derive investment synergies. This will lower the overall costs 
+compared to undertaking the upgrades only a few years later.   
+However, there are two cost components for contingencies and biodiversity offset costs as 
+part of the PEC Enhancement and Gugaa substation integration that we reduced as part of 
+our alternative estimate of capex. We discuss these in section 5.1.2 and section 5.1.3.2, 
+respectively.   
+Transgrid’s proposal 
+Transgrid submitted two design and construction scopes of work within its stage 1 
+application. The scopes relate to expanding the capacity of a transmission line being built as 
+part of PEC and a substation being built as part of HumeLink.  
+The PEC Enhancement is one of two design and construction packages submitted in the VNI 
+West stage 1 CPA. The PEC Enhancement is required for uplifting the delivered capacity of 
+the PEC transmission line between Dinawan and Wagga Wagga from 330 kV to 500 kV. The 
+proposed works involve constructing a 500 kV double circuit line instead of the initial 330 kV 
+scope for the PEC transmission line previously approved.76 The total cost submitted with the 
+VNI West stage 1 application for the PEC Enhancement is $357.0 million, comprising: $345.6 
+million for direct non-labour costs, and $11.4 million for labour and indirect costs.  
+The second design and construction package are for the Gugaa substation integration works 
+associated with HumeLink ($169.0 million). Transgrid submitted these costs as they are 
+ 
+76  This will uprate the line capacity from 800 MVA to 3,200 MVA. 
+===== PDF PAGE 25 =====
+AER Determination | Transgrid | VNI West Stage 1 Early works Contingent Project  
+16 
+required to integrate the 500 kV PEC enhancement with the Gugaa 500/330 kV substation 
+being built as part of HumeLink. Transgrid states that it submitted the Gugaa integration 
+costs as part of VNI West stage 1 instead of stage 2 to meet the required timing for 
+HumeLink (2026) and to enable a positive final investment decision by securing revenue 
+sooner.77  
+Our assessment 
+“Early works” do not typically include design and construction costs as acknowledged by 
+Transgrid.78 Our current Cost Benefit Analysis Guidelines note that early works are activities 
+undertaken prior to construction.79 The stage 1 proportion of total costs is about 55%, 
+compared to 18% in the RIT-T PACR, largely driven by including these design and 
+construction costs in stage 1.  
+We have considered the overall project in determining whether to include the proposed PEC 
+Enhancement and Gugaa substation costs within stage 1 instead of stage 2. AEMO’s draft 
+2024 ISP removed the staging of VNI West so the previous distinction of stage 1 early works 
+and stage 2 implementation in the 2022 ISP has been superseded. We are required to 
+determine the prudent and efficient costs reasonably required for undertaking the contingent 
+project and we have considered the overall context of the project in whether to include these 
+design and construction costs in stage 1. We consider there are benefits in undertaking 
+these works in stage 1 and we note that the costs included in stage 1 will be offset from the 
+costs within stage 2. Further, this would lower the overall costs across stage 1 and stage 2 
+for VNI West.  
+We are satisfied the proposed scope and costs for the PEC Enhancement and Gugaa 
+integration are additional to the costs previously approved in the PEC CPA and HumeLink 
+stage 2 CPA currently being assessed. In response to our information requests, Transgrid 
+provided further information on the scope of works for the PEC Enhancement and the Gugaa 
+substation integration including updated descriptions, schematics, and cost breakdowns of 
+pre-agreed contract variations to demonstrate the incremental nature of the capex.80  
+We agree investment synergies arise from undertaking the upgrades concurrently with the 
+PEC and HumeLink construction that will reduce costs for consumers. However, we do not 
+agree with Transgrid’s proposed counterfactuals and the estimated amount of cost saving 
+benefits totalling $787 million for bringing forward these design and construction costs from 
+stage 2 to stage 1 as follows:81  
+• For the PEC Enhancement, Transgrid’s proposed counterfactual considers avoiding 
+costs of constructing duplicate transmission lines: one line initially at 330 kV and a 
+ 
+77  Transgrid, VNI West stage 1 CPA - A.1 Principal application, January 2024, p. 6.  
+78  Transgrid, VNI West stage 1 CPA - A.1 Principal application, January 2024, p. 3.  
+79  AER, Cost benefit analysis guidelines, October 2023, pp. 47–48.  
+80  Transgrid, Response to AER information request 02 - Q6, 19 February 2024; and Transgrid, Response to 
+AER information request 01 - Q1.6, 9 February 2024.  
+81  Transgrid claims the proposed PEC Enhancement would provide a cost saving of $697 million and the 
+Gugaa substation integration would save $90 million. Transgrid, VNI West stage 1 CPA - A.1 Principal 
+application, January 2024, p. 7.  
+===== PDF PAGE 26 =====
+AER Determination | Transgrid | VNI West Stage 1 Early works Contingent Project  
+17 
+second at 500 kV (within two years).82 It is debatable what the alternative state of the 
+world would be for constructing PEC at 500 kV rather than 330 kV, considering the 
+concessional loans and government underwriting since 2021 to enable building the 
+transmission line between Dinawan and Wagga Wagga at 500 kV upfront rather than 
+initially at 330 kV then upgrading to 500 kV in future.83 We also question the magnitude of 
+the proposed cost saving benefits derived by comparing the real pre-agreed contract 
+variation from the PEC contractor against the hypothetical ‘current market pricing’ from 
+equivalent HumeLink costs.84  
+• For Gugaa substation, the proposed benefits of reducing costs associated with working 
+on a brownfield site 1–2 years later are reasonable in principle, though we question the 
+magnitude of those cost saving benefits proposed by Transgrid as these have simply 
+been presented as percentage increases for brownfield allowance and contractor 
+preliminaries not included in the pre-agreed variation.  
+Notwithstanding the above comments on the proposed counterfactuals and cost saving 
+benefits, we agree there would be net cost savings associated with the concurrent 
+investment and avoiding duplication cost increases associated with undertaking works later 
+on brownfield sites.  
+In addition, we sought confirmation from Transgrid that no further costs would be expected 
+regarding the scope of the PEC Enhancement and Gugaa substation integration, to ensure 
+that customers would not pay twice.  
+For the PEC Enhancement, Transgrid indicated that no further costs are expected to be 
+included in CPA stage 2, stating the “PEC Enhancement scope of works and associated 
+costs is included in its entirety in this CPA1 submission.”85 However, Transgrid stated there is 
+some additional scope for surge arresters and line reconfigurations in stage 2, though this is 
+not required under the PEC Enhancement scope of works. Surge arresters will be installed 
+on one circuit between Dinawan and Wagga Wagga and there will be some line 
+reconfiguration works, with these costs included in the stage 2 CPA.86  
+For Gugaa substation, Transgrid has indicated that:  
+• the Gugaa substation is likely to be substantially complete by the end of 2025 under the 
+HumeLink delivery, though there will be some “additional works required to facilitate the 
+upgrade from 330 kV to 500 kV, requiring design, construction of new transmission line 
+spans, testing and commissioning which will be included within CPA-2.”87  
+• there is a new 500 kV double circuit transmission line being constructed and delivered 
+through HumeLink, with the costs split between the projects: HumeLink CPA stage 2 
+ 
+82  Transgrid, VNI West stage 1 CPA - A.1 Principal application, January 2024, p. 36.  
+83  Commonwealth Government, Government supporting delivery of critical transmission infrastructure in 
+southwest NSW, September 2021; and, Commonwealth Government and Victorian Government, Joint 
+media release: Rewiring the nation to supercharge Victorian renewables, October 2022. 
+84  Transgrid, Response to AER information request on the draft application - Q7, December 2023. 
+85  Transgrid, Response to AER information request 01 - Q1.4, February 2024.  
+86  Transgrid, Response to AER information request on the draft application - Q4, December 2023.  
+87  Transgrid, Response to AER information request on the draft application - Q4, December 2023.  
+===== PDF PAGE 27 =====
+AER Determination | Transgrid | VNI West Stage 1 Early works Contingent Project  
+18 
+includes costs for building the line at 330 kV, then VNI West CPA stage 1 includes the 
+incremental costs for building this line at 500 kV.88 There is an existing 330 kV 
+transmission line (TL51) from Wagga Wagga substation that will connect to Gugaa 
+substation, so there are some costs expected within VNI West CPA stage 2 to cut TL51 
+into Gugaa substation and rebuild TL51 between Wagga Wagga and Gugaa as a 330 kV 
+double circuit transmission line. 
+Beyond the design and construction scope included in this stage 1 application and the 
+abovementioned expected costs for stage 2 (which we would need to assess the prudency 
+and efficiency of as part of our stage 2 assessment) , we do not consider that it is reasonable 
+for Transgrid to make further requests on the two scopes of work for the PEC Enhancement 
+and Gugaa substation integration in its stage 2 application. This is to ensure customers do 
+not pay twice for these scopes of work.  
+In making our decision, we have considered the overall costs of the interrelated projects and 
+their associated expected delivery timeframes of PEC in 2026 and HumeLink in 2026–27. As 
+discussed further in section 5.1.2 below, our primary concern with the prudency and 
+efficiency of the cost estimates relates to including substantial contingency costs.  
+ 
+5.1.2 Contingency costs    
+Our decision 
+Our alternative estimate for contingency costs is $61.9 million. This is $64.5 million lower 
+than Transgrid’s proposed contingency costs of $126.4 million. Our decision reflects that: 
+• We have not accepted the full amount for the contingency costs associated with the 
+design and construction of the PEC Enhancement and the Gugaa substation integration. 
+Transgrid’s application submitted broad percentage allowance for contingencies, which 
+we do not consider is appropriate justification. Our alternative estimate is based on a 
+bottom-up review of Transgrid’s risk register.89 We accepted $61.1 million for risks costs 
+where we were satisfied the risk costs met our expectations set out in our Guidance note 
+on the regulation of actionable ISP projects. In contrast, we excluded several risks that 
+are either already included within the PEC CPA and the HumeLink CPA, or that are 
+reasonably within Transgrid’s control to mitigate and manage.  
+• We have not accepted the proposed $3.9 million contingency costs for labour and indirect 
+costs because we are not satisfied that an increase in direct costs would incur 
+proportionate increases in labour and indirect costs. The drivers of direct costs are often 
+different from the drivers of indirect costs. Because of this, we have assessed the labour 
+and indirect contingency as part of the total design and construction packages 
+contingency. 
+ 
+88  Transgrid, Response to AER information request 01 - Q1.3, February 2024.  
+89  Transgrid, Response to AER information request 02 - Q13 (Confidential), February 2024. 
+===== PDF PAGE 28 =====
+AER Determination | Transgrid | VNI West Stage 1 Early works Contingent Project  
+19 
+• We have accepted the proposed $0.8 million contingency for land access and acquisition 
+as the costs are reasonably justified based on historical costs and Transgrid’s 
+consultant’s advice.  
+Transgrid’s proposal 
+Transgrid proposed contingency costs to allow it to address unexpected expenses or risks 
+that may arise during the project's implementation and thereby facilitate the smooth 
+execution of the project.90 These cover the expected cost increases to construction activities, 
+such as material prices and labour costs during delays. These contingency costs comprise:91 
+• $125.6 million for the design and construction packages for the PEC Enhancement and 
+Gugaa substation. This includes $121.7 million contractor’s contingency and owner’s 
+contingency on the direct construction costs, and $3.9 million labour and indirect costs 
+contingencies.  
+• $0.8 million for land access and acquisition. Transgrid determined this amount based on 
+historical costs and advice from a consultant.  
+Transgrid’s proposed contingency costs for the PEC Enhancement and Gugaa Substation 
+works were based on broad percentage allowances for risk and uncertainty determined by 
+Transgrid’s consultant, Fission. Fission’s advice highlights the early development stage and 
+estimate uncertainty as justification for the contingency costs. The $121.7 million contingency 
+on the direct construction costs cover costs which are not included in contract costs that 
+Transgrid considers may be incurred in the construction of the contracted PEC Enhancement 
+and Gugaa Substation works.  
+Transgrid also applied $3.9 million of contingencies to the PEC enhancement and Gugaa 
+integration labour and indirect costs. Transgrid included these labour and indirect 
+contingencies proportionately to the contingencies on the direct costs of the design and 
+construction packages. 
+Transgrid proposed an additional $27.4 million for biodiversity contingency, which is 
+discussed in section 5.1.3. 
+Our assessment approach 
+Our Guidance Note on the regulation of actionable ISP projects sets out our assessment 
+approach and expectations on the supporting information accompanying a CPA.92  
+When accounting for project risks, we do not provide a project risk allowance that completely 
+covers all potential cost impacts to the project.93 We expect that most projects have 
+symmetrical risk distributions, meaning that the likelihood of projects being over or under-
+budget is approximately equal. In those cases, we would expect a network service provider 
+to balance the over and under-budget programs in its portfolio. Our contingent project 
+determination is not intended to completely de-risk the project, as investment projects are 
+ 
+90  Transgrid, VNI West stage 1 CPA - A.2 Direct Capex Forecasting Methodology, December 2023 p. 18. 
+91  Transgrid has largely claimed confidentiality of further breakdowns of these contingency costs.   
+92  AER, Guidance note - Regulation of actionable ISP projects, March 2021. 
+93  AER, Guidance note - Regulation of actionable ISP projects, March 2021, p. 17 
+===== PDF PAGE 29 =====
+AER Determination | Transgrid | VNI West Stage 1 Early works Contingent Project  
+20 
+inherently uncertain and financing arrangements account for this. However, it may be 
+prudent to include specific and appropriate contingency costs for asymmetric risks, where the 
+likelihood of programs being over-budget is greater than the likelihood of being under-
+budget.94 
+We have assessed each of Transgrid’s proposed contingency costs against the “project 
+risks” section of our guidance note on the regulation of actionable ISP projects.95 The 
+guidance note outlines the information and justification we expect to accept a risk cost as 
+prudent and efficient. In summary, our guidance note states that we can accept risk costs in 
+a contingent project determination if the network service provider:  
+• comprehensively and transparently identifies and defines the different project risks 
+• identifies and justifies reasonable and realistic potential cost impacts (including potential 
+cost reductions) and likelihoods of occurrence, accounting for controls or mitigations 
+• shows that the residual consequential cost is weighted to reflect the likelihood of 
+occurrence 
+• shows why the risk cannot be efficiently transferred, avoided or mitigated (or included in 
+cost pass through events) 
+• shows that the cost of mitigation measures exceeds the expected weighted cost impact 
+should the risk eventuate 
+• shows that risk will be allocated to the party that is best placed to manage that risk. 
+We consider the contingency costs in this VNI West contingent project application are similar 
+in nature to the “other construction costs” Transgrid proposed in the contingent project 
+applications for Project EnergyConnect and HumeLink stage 2, as they cover construction 
+risks which are not included in the contracted works. A key difference is that the contingency 
+costs in this VNI West contingent project application cover incremental scopes of work 
+relating to other projects. As described in section 5.1.1, the PEC Enhancement and Gugaa 
+substation works included in the VNI West contingent project application are variations on 
+works already being performed in the PEC and HumeLink contingent project applications, 
+respectively.  
+We will only consider contingency costs for risks that are genuinely incremental to the scope 
+of works being performed under this contingent project application, that are not otherwise 
+sufficiently addressed in the other related PEC and HumeLink projects. As such, where the 
+risks included in the VNI West application are not materially different to the existing level of 
+risk under the PEC and HumeLink contingent project applications, we have excluded them 
+from the VNI West alternative capex estimate. This is to ensure consumers do not pay twice 
+for addressing the same level of risk so they pay no more than necessary. We only approve 
+the incremental revenue for the expenditure reasonably required for the project by an 
+efficient and prudent operator managing and mitigating the identified risks.96  
+ 
+94  AER, Guidance note - Regulation of actionable ISP projects, March 2021, pp. 16–17. 
+95  AER, Guidance note - Regulation of actionable ISP projects, March 2021, pp. 16–21. 
+96  NER, cl. 6A.8.2(g)(4).  
+===== PDF PAGE 30 =====
+AER Determination | Transgrid | VNI West Stage 1 Early works Contingent Project  
+21 
+Our assessment of contingency costs    
+In accordance with our guidance note, we consider that actionable ISP projects can include 
+specific provisions for risks costs in the forecast for asymmetric risks provided there is 
+sufficient justification that meets the expectations of our guidance note. Transgrid’s 
+application submitted contingency costs based on broad percentage allowances for risk and 
+uncertainty as advised by its consultant, rather than transparently assessing individual 
+specific risks. Transgrid’s application included a table summarising its alignment with our 
+guidance note.97 However, we did not consider that Transgrid’s application met the expected 
+information set out in the guidance note. In particular, Transgrid had not consistently 
+quantified the costs in a probabilistic way by assessing both the cost of the identified 
+consequence and the likelihood of the cost being incurred. We subsequently issued 
+information requests to understand the risks further. 
+A key part of Transgrid’s information request response provided a risk register spreadsheet 
+containing risk costs associated with the relevant section of PEC and Gugaa substation by 
+applying an applicability factor to the related VNI West project scope of works.98 The risk 
+register identified 60 risks in total, including 15 risks for the PEC Enhancement and 45 risks 
+for the Gugaa substation. We reviewed these bottom-up risk costs against our guidance note 
+and used this information to inform our alternative estimate. Of these identified risks: 
+• Twenty-three relate to risks that we consider are already addressed in the PEC and 
+HumeLink projects. Therefore, we have reduced these risk costs to zero for VNI West 
+because additional expenditure is not reasonably required for addressing these risks. 
+This reflects that the VNI West risk register was derived from the pre-existing PEC and 
+HumeLink risk registers and applied to VNI West. For example, we have excluded the 
+contingency costs relating to industrial action and exceptional events, as these risks are 
+not materially different for the additional VNI West scope of works.  
+• Nine relate to risks that are reasonably within Transgrid’s control to manage and mitigate. 
+For example, we have not accepted risks relating to labour and indirect costs, interfacing 
+with contractors, and social licence. We considered the labour and indirect cost 
+contingencies in context of the total labour and indirect costs proposed by Transgrid. We 
+consider that accepting Transgrid’s labour and indirect costs forecast will allow Transgrid 
+to sufficiently manage the risk of project delays and scope changes within its reasonable 
+control and deliver VNI West stage 1 without the need for additional contingencies. 
+• The remaining 28 risks were reasonably justified and we consider are prudent and 
+efficient, in line with the guidance note expectations. This amounts to $61.1 million of 
+incremental contingency costs for the VNI West works. We have included some of the 
+risk costs relating to delays due to approvals, conditions, materials, and worker safety. 
+We have allowed these risk costs following a detailed analysis of the risk register 
+because Transgrid presented sufficient justification to demonstrate these would likely be 
+asymmetric risks relating to the incremental works for this project. The risk register 
+information satisfied the guidance note expectations for each of these risks by providing 
+reasonable potential causes, controls, and residual risk with probability distributions and 
+ 
+97  Transgrid, VNI West stage 1 CPA - A.1 Principal application, January 2024, p. 55. 
+98  Transgrid, Response to AER information request 02 - Q13 (Confidential), February 2024. 
+===== PDF PAGE 31 =====
+AER Determination | Transgrid | VNI West Stage 1 Early works Contingent Project  
+22 
+magnitude of consequences. In these cases, we are satisfied that Transgrid has justified 
+that it may be reasonably subjected to these material cost impacts outside of its control.  
+In addition to the above factors, we note that the proposed contingency costs were higher 
+than we would expect for design and construction projects that are expected to be incurred in 
+FY2024 (59%) and FY2025 (38%). Further, design and construction works are typically 
+submitted in stage 2 applications and are therefore at a further stage of project development 
+and maturity. The PEC Enhancement and Gugaa integration are closely related to the PEC 
+project (currently under construction) and the HumeLink project (currently in a stage 2 
+contingent project assessment) which are further developed. As such, we do not agree with 
+Transgrid’s position that these works being in stage 1 necessitates higher contingencies. 
+We consider that our alternative estimate provides sufficient capex for Transgrid to complete 
+the works if some additional costs are incurred during construction, while not transferring all 
+potential risks to consumers.  
+ 
+5.1.3 Biodiversity offset costs  
+We do not accept Transgrid’s total biodiversity capex of $99.3 million for VNI West and the 
+PEC Enhancement. Table 5 sets out our total alternative biodiversity capex estimate of $30.0 
+million compared with Transgrid’s proposed costs.99   
+ 
+99  The PTRM total for our decision on biodiversity asset classes is $29.8 million. The difference from the $30.0 
+million is explained by the combination of Transgrid’s approach to apportioning labour and indirect costs 
+across the PTRM asset classes and some minor adjustments to labour and indirect cost contingencies. For 
+simplicity, we refer to the changes to the inputs, rather than the PTRM outputs.  
+===== PDF PAGE 32 =====
+AER Determination | Transgrid | VNI West Stage 1 Early works Contingent Project  
+23 
+Table 5 AER’s alternative estimate of total biodiversity capex compared with 
+Transgrid’s application ($million, $2022–23) 
+Biodiversity cost category Transgrid's 
+application 
+AER's 
+determination 
+Difference 
+($) 
+Difference 
+(%) 
+VNI West total  84.1 27.0 -57.1 -67.9% 
+Direct Non-labour 67.1 10.0 -57.1 -85.1% 
+BSA - land 10.0 10.0 0.0 0.0% 
+BSA - land management in perpetuity 10.0 10.0 0.0 0.0% 
+less: residual Total Fund Deposit or BSA 
+establishment cost -10.0 -10.0 0.0 0.0% 
+Residual BCF credits 29.8 0.0 -29.8 -100.0% 
+Contingency 27.4 0.0 -27.4 -100.0% 
+Labour 4.6 4.6 0.0 0.0% 
+Indirect non-labour 12.3 12.3 0.0 0.0% 
+PEC Enhancement total 15.2 3.1 -12.1 -79.6% 
+Direct Non-labour 12.1 0.0 -12.1 -100.0% 
+Labour 0.8 0.8 0.0 0.0% 
+Indirect Non-labour 2.2 2.2 0.0 0.0% 
+Total biodiversity costs 99.3 30.0 -69.3 -69.8% 
+Source:  Transgrid application and AER analysis.  
+Note: Numbers may not add up due to rounding. 
+Overall, our decision on the prudent and efficient costs for biodiversity offsets in stage 1 is: 
+• the capex for the Biodiversity Stewardship Agreements (BSAs) is prudent and efficient as 
+it is a lower cost option and is suitable for an early works application as it requires a 
+longer lead time.  
+• the labour and indirect costs relating to biodiversity are prudent and efficient to enable 
+Transgrid to progress the relevant planning and approvals to minimise project delays and 
+appropriately manage biodiversity impacts.  
+• the proposed payment into the Biodiversity Conservation Fund (BCF) for VNI West is not 
+prudent at this time, as this is not expected to be due until 2 years after development 
+approval has been granted. This is expected to be between late 2027 and early 2028. We 
+expect Transgrid to propose capex for this, if it is required, in its stage 2 CPA. 
+• the contingency amount to mitigate the risk of Transgrid not fully realising the expected 
+Biodiversity Stewardship sites/options is not prudent, whereby a larger amount would be 
+required to be paid into the BCF for VNI West. This risk exposure does not apply for the 
+early works period covered by a stage 1 CPA. 
+• the additional capex for any biodiversity impacts attributable to an increase in the 
+easement for Line 5 of PEC East (part of the PEC Enhancement) is not efficient as we 
+assess that sufficient funding has already been provided in the PEC CPA decision.100 
+ 
+100  AER, Final decision – Transgrid – Project EnergyConnect contingent project, May 2021, pp. 23–29. 
+===== PDF PAGE 33 =====
+AER Determination | Transgrid | VNI West Stage 1 Early works Contingent Project  
+24 
+Our decision in relation to the biodiversity capex for VNI West and the PEC Enhancement is 
+set out in section 5.1.3.1 and section 5.1.3.2, respectively.  
+ 
+5.1.3.1 VNI West biodiversity offset costs  
+Our decision 
+We do not accept Transgrid’s proposed $67.1 million for direct non-labour biodiversity costs 
+for VNI West. We do not consider that it is prudent and efficient to include the full amount in 
+early works where the appropriate environmental studies, planning and approvals have not 
+yet been undertaken. We have included $10.0 million for biodiversity costs in our alternative 
+estimate. Based on the timing of the obligations and the uncertainty of forecasts, the 
+remaining biodiversity costs should not be included as part of early works. 
+Transgrid’s proposal 
+Transgrid is required to estimate the likely biodiversity ecosystem and species credit 
+requirements to offset the impacts of its construction of VNI West. To do this Transgrid 
+undertook a desktop assessment of the ecosystems and species that are likely to be 
+impacted along the transmission line corridor. Transgrid engaged a consultant, WSP, to 
+estimate the biodiversity credit requirements associated with the identified ecosystems and 
+species based on WSP’s experience with PEC. The credit requirement is calculated by 
+applying the PEC credit per hectare liability to VNI West. This is on the basis that the PEC 
+and VNI West areas share common ecosystems and species.101 WSP has undertaken 
+limited field work to validate its desktop assessment, due to land access restrictions and 
+seasonal limitations. Transgrid estimated that to offset its construction impacts on 
+biodiversity, 12,228 ecosystem credits are required and it estimated the value of the fauna 
+and flora species credits required at 20% of the cost of the ecosystem credits.102 
+Transgrid’s estimated credit liability is able to be acquitted through a mixture of: 
+• Retirement of credits generated through the establishment of BSAs103 
+• Retirement of credits purchased from the market for biodiversity credits. These are 
+credits which have already been created and registered  
+• Retirement of credits that have been generated and registered by Transgrid from other 
+project BSAs (e.g. Project EnergyConnect West or Project EnergyConnect East) 
+• Payment into the BCF. 
+ 
+101  Transgrid, Response to AER information request 03 – Q13–14, March 2024. 
+102  Transgrid, VNI West stage 1 CPA - A.6 Direct non-labour model, January 2024, tab ‘Biodiversity Offsets’. 
+103  Retiring credits refers to the process of a credit owner removing credits from the market so they can no 
+longer be traded – for example, to meet an offset obligation. A biodiversity credit created on a biodiversity 
+stewardship site is registered by the NSW Department of Planning and Environment (DPE). An entity who 
+owns biodiversity credits may apply to the NSW DPE to retire the credits to satisfy its biodiversity liability 
+under the Biodiversity Offsets Scheme (Biodiversity Conservation Act 2016 (NSW) s. 6.27).  
+===== PDF PAGE 34 =====
+AER Determination | Transgrid | VNI West Stage 1 Early works Contingent Project  
+25 
+Transgrid has proposed capex of $67.1 million to offset its credit liability. Transgrid plans to 
+use two offset options: establish BSAs and make payments into the BCF.  
+Transgrid submitted that there is a trade-off between cost and certainty for the two proposed 
+offset options. There is an approximate two-year lead time between either securing an option 
+for the establishment of a BSA with a landholder or purchasing the property and registering 
+credits with the Biodiversity Conservation Trust for acquittal. In addition to this establishment 
+time is the search and negotiation time for potential BSAs. However, the costs associated 
+with generating the credits from a BSA are significantly cheaper than the costs of paying into 
+the BCF.104 
+Given this, Transgrid has proposed funding for the establishment of BSAs to generate some 
+of the required credits,105 which it will retire to partially meet the credit obligation. Transgrid 
+stated that to meet its 2028 delivery timeline it has included costs for land that it purchases or 
+options to establish BSAs.106 Transgrid submits that this will minimise offset costs. It also 
+states that the BSAs are required prior to construction commencing.107  
+Transgrid advised that it has purchased one property and is currently considering further 
+potential BSA properties to purchase.108 It submits that it is necessary to secure funding 
+under its stage 1 CPA so that it can opportunistically secure property either by purchase or 
+entering into a binding option as it becomes available. 
+Transgrid also included $10.0 million for the in-perpetuity management cost of the 
+Biodiversity Stewardship sites,109 which are each covered by a BSA, that it expects to 
+purchase or option. This amount is forecast to be $2,500/hectare, also based on PEC costs. 
+These costs are established by the Biodiversity Conservation Trust and depend on the BSA 
+specifics. However, on the basis of WSP’s advice, this $10.0 million was deducted off the 
+total cost build-up to reflect that “only the cost for the BSA (opportunity cost/land purchase 
+cost) payment would be required prior to approval within the EIS budget, leaving the residual 
+TFD110 or BSA establishment cost until after approval”.111 
+For the residual credits, which it cannot create through BSAs, Transgrid has proposed to 
+make a $29.8 million payment into the Biodiversity Conservation Fund.112 
+ 
+104  Transgrid, VNI West stage 1 CPA - A.2 Direct Capex Forecasting Methodology, January 2024, p. 23. 
+105  Typically, securing biodiversity by purchasing land or entering into options for land and entering into 
+agreements with local landholders for land management with relevant flora and fauna.   
+106  This is to be able to retire credits created on land which is subject to a Biodiversity Stewardship Agreement. 
+Transgrid is able to purchase the land and register the credits or it is able to enter into an option to purchase 
+the credits generated on another landholder‘s BSA. 
+107  Transgrid, VNI West stage 1 CPA - A.1 Principal application, January 2024, p. 15. 
+108  Transgrid, Response to AER information request 03 - Q15, March 2024.  
+109  Transgrid, VNI West stage 1 CPA - A.6 Direct non-labour model, January 2024, tab ‘Biodiversity Offsets’. 
+110  Total Fund Deposit (TFD) is the payment required to be lodged with the NSW Biodiversity Conservation 
+Trust. It funds annual payments to the landholders undertaking the management requirements set out in the 
+BSA over their land. It seeks to maintain the ecosystem or species habitat for which credits were generated 
+on the land. 
+111  Transgrid, VNI West stage 1 CPA - A.6 Direct non-labour model, January 2024, tab ‘Biodiversity Offsets’. 
+112  Making payments directly into the BCF to meet the liability. The $29.8 million estimate comprises $7.0 
+million for ecosystem credits and $22.8 million for species credits. 
+===== PDF PAGE 35 =====
+AER Determination | Transgrid | VNI West Stage 1 Early works Contingent Project  
+26 
+Transgrid also added a contingency amount of 20% of the estimated total BCF payment,113 
+an amount of $27.4 million, to manage the risk of not being able to establish as many BSAs 
+as planned, and therefore having to pay a higher amount into the BCF.  
+Transgrid also proposed $4.6 million and $12.3 million for labour and indirect capex, 
+respectively. These are for costs associated with securing BSAs and undertaking the 
+environmental approvals required to proceed to construction. This includes funding of the 
+preparation of the Environmental Impact Statement (EIS), the preceding survey work, the 
+biodiversity consultants, and Transgrid’s biodiversity and environmental staff.114 
+Our assessment 
+In assessing Transgrid’s proposed biodiversity capex we have assessed whether the 
+proposed capex meets the capital expenditure criteria.115 This includes assessing whether 
+Transgrid’s proposed biodiversity capex is prudent and efficient in achieving the capital 
+expenditure objectives.  
+We consider that the biodiversity capex is required to meet a regulatory obligation created by 
+the Biodiversity Conservation Act 2016 (NSW), the Environment Protection and Biodiversity 
+Conservation Act 1999 (Cth), and associated regulations.116 These Acts and regulations 
+require Transgrid to estimate their expected environmental impact on ecosystems and 
+species and offset them as part of the development approval process.117 Transgrid is 
+required to submit an EIS,118 which is then subject to approval by the NSW Department of 
+Planning and Environment, prior to development approval being granted.119  
+In assessing whether the proposed capex for the offset strategy is prudent and efficient, we 
+have assessed the accuracy of Transgrid’s biodiversity cost estimate and the likely timing of 
+when the costs will be incurred. Our assessment of each of these aspects is set out below. 
+With respect to Transgrid’s estimate of the likely biodiversity ecosystem and species credit 
+requirements, we acknowledge that there is likely to be considerable variation in the estimate 
+of credits required as the project progresses due to project design changes, including to 
+avoid or mitigate biodiversity impacts. The final biodiversity offset liability will be determined 
+ 
+113  This is an estimate of the total amount that would need to be paid into the BCF ($136.8 million) if this were 
+the only offset option pursued. 
+114  Transgrid, VNI West stage 1 CPA - A.7 Labour and overhead costs, January 2024. 
+115  We are required to make this assessment under cl. 6A.8.2(f)(2) of the NER. The capex criteria are set out in 
+cl. 6A.6.7(c). 
+116  Compliance with regulatory obligations or requirements is a capital expenditure objective: cl. 6A.6.7(a)(2).  
+117  See Parts 5 to 7 of the Biodiversity Conservation Act 2016 (NSW), Parts 5 to 7 of the Biodiversity 
+Conservation Regulation 2017 (NSW) and Chapters 2 to 4 of the Environment Protection and Biodiversity 
+Conservation Act 1999 (Cth). Transgrid, VNI West stage 1 CPA - A.6 Direct Non-Labour Model, January 
+2024, tab ‘Biodiversity Offsets’; Transgrid, Victoria to New South Wales Interconnector West (VNI West) 
+(NSW), Preferred Route Report – NSW, March 2024, p.37. 
+118  The Biodiversity Development Assessment Report sets out the consideration of the biodiversity impacts in 
+the EIS. 
+119  See Part 5 of the Environmental Planning and Assessment Act 1979 (NSW).  
+===== PDF PAGE 36 =====
+AER Determination | Transgrid | VNI West Stage 1 Early works Contingent Project  
+27 
+using a field validated data set which confirms the on the ground conditions just prior to 
+construction.120 
+We consider that it is reasonable to have considerable uncertainty in the credit requirement 
+estimate at this point in the project’s development. We consider that Transgrid has provided 
+the best estimate available to it, of the number and type of credits required, at this stage. 
+In relation to Transgrid’s approach to acquitting its estimated credit liability, we consider that 
+Transgrid’s approach to offsetting as many of its credits as possible via establishing BSAs is 
+the most efficient option. 
+ Assessment of BSA expenditure  
+We consider that funding the BSAs in stage 1 provides Transgrid with the maximum flexibility 
+to purchase land/enter options to generate the greatest number and range of ecosystem and 
+species credits possible. Seeking to meet as many credit requirements as possible through 
+BSA establishment is likely to significantly reduce the overall biodiversity costs, reflecting the 
+most efficient strategy possible. We assess that the financing costs associated with the 
+arguably early provision of BSA establishment costs is likely to be considerably less than 
+missing opportunities and having to pay a higher amount for credits into the BCF. 
+Transgrid’s BSA land purchase or option cost estimates are based on PEC costs of 
+$2,500/hectare. We consider that these are reasonable on the basis of land sales data 
+provided by Transgrid which had land values ranging between $1,623/hectare and 
+$2,912/hectare.121 
+For this reason, we consider it prudent and efficient to include $10.0 million in capex for the 
+purchase or optioning of BSAs for least cost credit generation to offset as much of 
+Transgrid’s biodiversity liability for VNI West as possible. 
+We have not included any amount for Total Fund Deposit (TFD) payments (for the in-
+perpetuity management cost of the Biodiversity Stewardship sites) in our alternative estimate 
+for biodiversity capex.122 This is because, while Transgrid included $10.0 million for TFDs, it 
+subsequently deducted off this amount, on the basis of WSP’s advice that “only the cost for 
+the BSA (opportunity cost/land purchase cost) payment would be required prior to approval 
+within the EIS budget, leaving the residual TFD123 or BSA establishment cost until after 
+approval”.124  
+ Biodiversity acquittal timing  
+We assessed the likely timing of when the residual BCF payment and contingency that 
+Transgrid proposed would be payable relative to the early works timeframe of stage 1. The 
+ 
+120  This is an ongoing process throughout the construction process. 
+121  Transgrid, Response to AER information request 03 - Q16, March 2024. 
+122  Transgrid, VNI West stage 1 CPA - A.6 Direct non-labour model, January 2024, tab ‘Biodiversity Offsets’. 
+123  TFD is the payment required to be lodged with the NSW Biodiversity Conservation Trust. It funds annual 
+payments to the landholders undertaking the management requirements set out in the BSA over their land. 
+It seeks to maintain the ecosystem or species habitat for which credits were generated on the land. 
+124  Transgrid, VNI West stage 1 CPA - A.6 Direct non-labour model, January 2024, tab ‘Biodiversity Offsets’. 
+===== PDF PAGE 37 =====
+AER Determination | Transgrid | VNI West Stage 1 Early works Contingent Project  
+28 
+timing is influenced by Transgrid’s ability to delay the acquittal date by providing surety to the 
+NSW Government over the residual biodiversity liability, in the form of a bank guarantee. 
+While Transgrid included $29.8 million for payment for residual credits into the BCF in its 
+forecast, Transgrid has also indicated that it will be pursuing the use of a bank guarantee to 
+delay the requirement to pay into the BCF if it has not secured sufficient credits generated 
+through BSAs to offset its liability. This is expected to provide two years’ post project 
+approval to acquit its biodiversity liability.125 This is consistent with Transgrid’s experience 
+with PEC and HumeLink. 
+If a bank guarantee were to be in place, the BCF payments will not be expected to be 
+incurred in the early works period. Transgrid plans to commence construction in November 
+2025, which means that its biodiversity liability would be required to be acquitted in 
+November 2027.126 We therefore consider that the assessment of the prudency and 
+efficiency of this cost can be deferred to the stage 2 CPA, which is scheduled for Q2 2025, 
+where the liability will be significantly more certain.127 We therefore have not included the 
+$29.8 million in our alternative estimate. 
+ Contingency cost 
+Transgrid also proposed a 20% contingency amount of $27.4 million for the risk of not 
+establishing as many BSAs as forecast and so having to make a higher payment into the 
+BCF. For the same reasons as rejecting the BCF payment, we have rejected this inclusion of 
+a contingency. We therefore have not included the $27.4 million for the 20% contingency in 
+our alternative estimate. 
+ Labour and indirect costs 
+Transgrid proposed $4.6 million and $12.3 million for labour and indirect capex, respectively. 
+We accept Transgrid’s proposed labour and indirect costs for VNI West. This is because the 
+early works period covers a considerable amount of the regulatory approval process for 
+biodiversity. This requires consultants to carry out survey work, write the scoping report in 
+preparation for the Secretary’s Environmental Assessment Requirements and prepare the 
+Biodiversity Development Assessment Report as part of the EIS. It is also when the bulk of 
+the work is done to identify potential Biodiversity Stewardship sites and negotiate and 
+execute the agreement to purchase or option the land. The amount proposed appears 
+reasonable when benchmarked against the PEC costs. 
+Considerations for the stage 2 application 
+We encourage Transgrid to consider alternative acquittal options and the timing of the stage 
+2 application to follow environmental and planning approvals.  
+ 
+125  Transgrid, Response to AER information request 03 - Q12, March 2024. 
+126  Transgrid, VNI West stage 1 CPA - A.2 Direct capex forecast method - Confidential, January 2024, p. 30. 
+127  Transgrid, VNI West stage 1 CPA - A.2 Direct capex forecast method - Confidential, January 2024, p. 30. 
+===== PDF PAGE 38 =====
+AER Determination | Transgrid | VNI West Stage 1 Early works Contingent Project  
+29 
+ Alternative acquittal options 
+As noted above, Transgrid has proposed acquitting its biodiversity liability via a combination 
+of credits generated through BSAs and payments into the BCF. While purchasing credits 
+from the market is another alternative, Transgrid has indicated that there is limited 
+availability. We consider that this option should be actively considered by Transgrid. We also 
+note that there may be residual credits generated from the BSAs established for PEC that 
+may be applied to VNI West. 
+ Timing of the stage 2 application 
+The lack of certainty around the biodiversity costs poses a significant risk that consumers will 
+bear the costs associated with this risk. The later in the approvals process the more 
+information is gathered, the more refined is the construction plan and so the more certain the 
+number and type of ecosystem and species credit required. We consider that it would be 
+optimal from an assessment perspective if the stage 2 application could be lodged after the 
+EIS and planning approval have been received. 
+ 
+5.1.3.2 PEC Enhancement biodiversity offset costs 
+Our decision 
+We do not accept Transgrid’s proposed total amount of $15.2 million for the PEC 
+Enhancement biodiversity offset costs. Our alternative estimate of $3.1 million reflects that 
+we have accepted Transgrid’s proposed labour and indirect costs of $3.1 million, except for 
+the 20% contingency amount (see section 5.1.2). We do not accept Transgrid’s proposed 
+direct non-labour amount of $12.1 million. We do not consider Transgrid has provided 
+evidence that the proposed costs for direct non-labour for biodiversity offset costs are 
+incremental to the amount provided in our approval of the PEC CPA in May 2021. 
+Transgrid's proposal 
+Transgrid proposed $12.1 million for direct non-labour biodiversity costs for the PEC 
+enhancement.128 This is for the biodiversity credit liability that is estimated for the expansion 
+of the L5 transmission line easement from 60 metres wide to 80 metres, a 33% increase.129 
+The expansion is required to increase the capacity of the transmission line from 330 kV to a 
+500 kV.130 
+The $12.1 million consists of $10.1 million for direct non-labour biodiversity costs plus a 20% 
+contingency of $2.0 million. 
+ 
+128  Transgrid, VNI West stage 1 CPA - A.5 Capex forecast model, January 2024, tab ‘Inputs’. 
+129  Transgrid, VNI West stage 1 CPA - A.6 Direct non-labour model - Confidential, January 2024, tab ‘PEC 
+Lines’. 
+130  Transgrid, VNI West stage 1 CPA - A.1 Principal application, January 2024, p. 7. 
+===== PDF PAGE 39 =====
+AER Determination | Transgrid | VNI West Stage 1 Early works Contingent Project  
+30 
+To calculate the direct non-labour biodiversity cost Transgrid proposed multiplying the L5 line 
+kilometre share of the total PEC line (that is, PEC East and PEC West) kilometres by the 
+33% increase in the line easement by the total PEC biodiversity cost. 
+Our assessment of Transgrid’s proposed incremental biodiversity offset costs 
+We do not accept Transgrid’s proposed $12.1 million for direct non-labour biodiversity costs 
+for the PEC enhancement as we do not consider that it is prudent and efficient. This is 
+because we assess that the amount that was provided in the PEC CPA is sufficient to cover 
+any potential increase in impacts associated with the expanded easement on the L5 
+transmission line. 
+We do not accept Transgrid’s proposed method for calculating the direct costs on the basis 
+that it is not reasonable to expect homogeneity of the biodiversity impacts along the PEC 
+transmission line as ecosystem and species populations will vary along the line. 
+We asked Transgrid to provide information on the actual difference in the biodiversity impact 
+for the L5 line between the PEC CPA assessment and this VNI West stage 1 application. It 
+submitted that “[a] retrospective analysis of L5 330kV vs 500kV easements, set against 
+current resolution of biodiversity values within the disturbance footprint, is a detailed GIS and 
+computational exercise that has not previously been undertaken and cannot be easily 
+resourced by the project”.131 Transgrid proposed an alternative methodology of using the 
+increased easement area as a proportion of the total impacted area. Transgrid calculated 
+that this reduced its estimated liability from $10.1 million to $6.8 million. We consider that this 
+method similarly does not take into account the difference in impacts on specific ecosystems 
+and flora and fauna species that are likely to exist across the PEC transmission lines. We 
+therefore do not consider that this method provides a reasonable estimate. 
+We also asked Transgrid for information on the expenditure required to meet its biodiversity 
+offset strategy for PEC West, which was required to be finalised on 31 December 2023, and 
+the amount of expenditure expected to meet the biodiversity strategy for PEC East, which is 
+to be finalised by 1 September 2024. Transgrid reported that the combined actual cost for 
+PEC West and the estimate of the PEC East cost of meeting its biodiversity liability is $84.8 
+million ($2023–24). We compared this to the amount that we approved for Transgrid’s PEC 
+CPA, that is $125 million ($2017–18) (or $144.5 million ($2023–24)).132 Given the 
+considerable head room between the allowed amount of $144.5 million in the CPA and the 
+current estimate provided by Transgrid of $84.8 million we consider that it would be 
+inefficient to provide an allowance for any increase in credit liability caused by the increase in 
+easement for L5 on PEC East. We consider that it would amount to an over recovery of costs 
+from consumers for PEC East. This is not consistent with the requirement that we consider 
+only the reasonable incremental revenue required.133 We have therefore not made any 
+allowance for direct non-labour biodiversity costs for the PEC Enhancement. 
+ 
+131  Transgrid, Response to AER information request 04 - Q5, April 2024. 
+132  AER, Final decision – Transgrid – Project EnergyConnect contingent project, May 2021, p. 23. 
+133  NER, cl. 6A.8.2(f)(3). 
+===== PDF PAGE 40 =====
+AER Determination | Transgrid | VNI West Stage 1 Early works Contingent Project  
+31 
+Transgrid proposed applying a 20% contingency to the direct non-labour biodiversity cost 
+based on advice from Fission.134 We consider there is considerable head room between 
+Transgrid’s current estimate of liability for PEC West and East and the allowance that has 
+already been provided under the PEC CPA, such that no additional increment is required. 
+We therefore have not included any contingency in our alternative estimate. 
+ 
+5.1.4 Social licence costs  
+Our decision 
+We have included $28.6 million in social licence related costs in our alternative estimate. 
+This is $11.9 million less than Transgrid’s proposed social licence related costs of $40.5 
+million. As discussed in this section, we make the distinction between social licence 
+engagement and subsequent activities following on from the engagement. We have 
+accepted Transgrid’s proposed capex for engagement. In contrast, we have not accepted a 
+portion the proposed capex for activities because Transgrid has not undertaken adequate 
+engagement with the affected VNI West communities at this stage to justify this portion of 
+costs.  
+We consider the $28.6 million expenditure included in this decision is sufficient to conduct 
+high quality engagement, which should be the primary focus of early works. The onus is on 
+Transgrid to effectively engage, monitor and deliver to the affected VNI West communities’ 
+expectations. 
+Transgrid’s Proposal  
+Transgrid proposed $19.4 million capital expenditure within the Community and Stakeholder 
+Engagement (CSE) cost category. Based on our engagement and information requests with 
+Transgrid,135 Transgrid has classified social licence costs as those only included in the CSE 
+cost category.136  
+Transgrid submitted the CSE cost category recognising that communities along the VNI West 
+corridor will be hosting new transmission infrastructure and are concerned about the 
+environment, rural amenities, and primary production industries. To minimise the risk of 
+project delays and the associated costs, Transgrid has acknowledged the need to retain and 
+improve its social licence to operate. To do this Transgrid is required to undertake early and 
+effective engagement with local communities, landowners, and First Nations people.137  
+In developing its strategy to undertake early and effective engagement, Transgrid has sought 
+feedback across its major projects. It has also appointed its Community and Landowner 
+ 
+134  Transgrid, VNI West stage 1 CPA - A.6 Direct non-labour model - Confidential, January 2024, tab ‘PEC 
+Lines’. 
+135  Transgrid, Response to AER information request on the draft application - Q15-24, December 2023; 
+Transgrid, Response to AER information request 01 - Q1-2,13 – Confidential, February 2024.  
+136   We note that since these are still general costs, a small portion of these costs may not necessarily be wholly 
+related to social licence. Transgrid could not provide a more precise disaggregation of costs. 
+137  Transgrid, VNI West stage 1 CPA - A.1 Principal application, January 2024, p. 25. 
+===== PDF PAGE 41 =====
+AER Determination | Transgrid | VNI West Stage 1 Early works Contingent Project  
+32 
+Advocate to undertake a review of the HumeLink project.138 Using this approach, Transgrid 
+identified four non-negotiable pillars for understanding the preferences and priorities of its 
+stakeholders. The four pillars are: landowner engagement, community engagement, social 
+legacy, and indigenous engagement.  
+Transgrid notes the four pillars form the foundation of its strategy to retain and improve its 
+social licence to operate. To obtain social licence, Transgrid has proposed costs for 
+engagement and undertaking social legacy activities such as scholarship programs, regional 
+telecommunications, and community grants.139 Some of these activities have been informed 
+by the HumeLink social licence program.  
+Our assessment of social licence costs  
+We have viewed social licence costs broader than what Transgrid identified in its application. 
+We have identified $40.5 million capital expenditure that we consider is for the purposes of 
+social licence. This includes $14.2 million for social licence engagement and $26.3 million for 
+social licence activities. 
+We recognise that Transgrid will incur costs to build and maintain social licence during the 
+early works and construction of new transmission lines. We have considered the prudency 
+and efficiency of costs to achieve social licence, along with other elements of transmission 
+development and operation activities. As part of its contingent project application, the onus is 
+on Transgrid to establish how each element of the proposed social licence costs contributes 
+to the delivery of the overall project in a prudent and efficient manner. Therefore, social 
+licence costs must be specific to, and should be shaped by, the needs of the affected 
+communities.  
+As stated in our Directions paper, we approach social licence costs in two parts. These are 
+an assessment of Transgrid’s:140 
+• effective engagement approach to build and maintain social licence 
+• activities in response to engagement feedback to build and maintain social licence. 
+When we refer to effective engagement, we mean engagement that facilitates collaboration 
+and a dialogue between landholders, communities, the broader consumer base, and 
+Transgrid. Effective engagement provides us the evidence to be satisfied that the proposed 
+activities are in response to the feedback received during the engagement and meet the 
+needs of the specific communities.  
+Social licence activities refer to actions proposed or undertaken by Transgrid to assist with 
+building and maintaining social licence with affected communities in relation to the VNI West 
+project. These activities must be in response to the engagement.141 For example, social 
+licence activities may include an increase in amenity responding to community needs, or a 
+change in the planned route following engagement with affected landholders. 
+ 
+138  Transgrid, VNI West stage 1 CPA - A.1 Principal application, January 2024, p. 25. 
+139  Transgrid, VNI West stage 1 CPA - A.1 Principal application, January 2024, p. 27. 
+140  AER, Directions paper – Social licence for electricity transmission infrastructure, October 2023, p. 17. 
+141  AER, Directions paper – Social licence for electricity transmission infrastructure, October 2023, p. 20. 
+===== PDF PAGE 42 =====
+AER Determination | Transgrid | VNI West Stage 1 Early works Contingent Project  
+33 
+We expect that costs related to social licence in the early works phase would be primarily for 
+engagement, as Transgrid would have limited information on which to base an assessment 
+of expenditure for social licence activities.  
+We recognise that this area of social licence is still developing, and Transgrid may interpret 
+social licence costs differently to how we have defined them in our assessment. 
+Using our approach discussed above and our Directions Paper, we have assessed the scope 
+of Transgrid’s social licence program and determined the prudency and efficiency of social 
+licence engagement and social licence activities as part of early works. Below we set out our 
+assessment approach, and our assessment of the prudent and efficient costs for the 
+proposed social licence engagement and social licence activities.  
+ Assessment criteria and approach 
+In assessing social licence costs, we considered the criteria in our Directions Paper 
+published in October 2023142 and community engagement expectations under the NER.143 
+Given the timing of the proposal and our Directions Paper, we acknowledge Transgrid may 
+have had limited scope to incorporate the principles from the Directions Paper into this 
+current contingent project application.  
+In assessing the proposed expenditure, we need to be satisfied that Transgrid has identified 
+the prudent and efficient expenditure to gain social licence. For clarity, we are not assessing 
+each individual social licence engagement and activity, but rather we assess the overall 
+method as a package. In particular, we consider the costs associated with social licence 
+engagement and activities can be prudent and efficient if they are shaped by the feedback 
+from the engagement with affected communities.  
+In addition, the social licence engagement and activities must be specific to the delivery of 
+the transmission service, in this case the VNI West project. This is consistent with the NER 
+which requires transmission expenditure to relate to the provision of prescribed transmission 
+services.144 
+Broadly, to demonstrate the prudency and efficiency, social licence costs must:145 
+• clearly relate to actions that go beyond existing ongoing engagement but are attributable 
+and proportionate to the particular project 
+• Clearly relate to the stakeholder feedback for the specific project corridor and the 
+provision of prescribed transmission services  
+• be justified to be prudent and efficient using a transparent assessment framework, such 
+as a "but for" test or any other qualitative and quantitative measures, to ensure energy 
+consumers are paying no more than necessary. 
+ 
+142  AER, Directions paper – Social licence for electricity transmission infrastructure, October 2023, pp. 18–20. 
+143  NER, cl. 5.10.2. 
+144  NER, cl. 6A.6.7(a) sets out the capital expenditure objectives for providing prescribed transmission services. 
+145  AER, Directions paper – Social licence for electricity transmission infrastructure, October 2023, pp. 5, 10, 
+17–21. 
+===== PDF PAGE 43 =====
+AER Determination | Transgrid | VNI West Stage 1 Early works Contingent Project  
+34 
+A “but for” test is not an intended to be a strict binary test. Rather, we would expect Transgrid 
+to provide available evidence and justification to reasonably show that the VNI West project 
+cannot be prudently and efficiently delivered but for the social licence expenditure proposed.  
+Our assessment of the proposed engagement 
+We have accepted Transgrid’s proposed $14.2 million for social licence engagement costs. 
+We are satisfied this expenditure is related to the affected VNI West stakeholders and is 
+required for effective engagement. In accepting this expenditure, we encourage Transgrid to 
+conduct high quality engagement and collaborate with the VNI West communities as per its 
+proposed strategy.  
+We consider social licence engagement as actions that facilitate collaboration and a dialogue 
+between landholders, communities, the broader consumer base, and Transgrid. In this case, 
+this would include engagement with the affected communities along the VNI West project 
+corridor and other associated stakeholders. We expect that expenditure proposed for social 
+licence engagement will be supported by an engagement plan, which identifies the process 
+Transgrid will follow and the outcomes to be achieved. 
+Transgrid’s proposed engagement costs are contained in the CSE labour cost category and 
+as a small proportion of indirect costs. We are satisfied that Transgrid’s proposed 
+engagement strategy does seek to actively consult and collaborate with the VNI West 
+communities. Transgrid’s Community and Stakeholder Engagement Plan broadly outlines its 
+overall engagement strategy for major projects, including VNI West. Transgrid’s engagement 
+approach considers learning from its 2021 HumeLink engagement process.146  
+We note that targeted engagement within Transgrid’s proposed strategy is required to 
+adequately address communities’ concerns. We received one written submission suggesting 
+there has been inadequate engagement with some affected VNI West communities to 
+date.147 The stakeholder is not satisfied with Transgrid’s consultation on the proposed 
+route.148 While we support the need for Transgrid to appropriately engage on route selection, 
+the AER does not participate in route selection as this is the role of the transmission network 
+service provider. The onus is on Transgrid to undertake effective engagement with the 
+communities during its route selection process and refine the route as required. Given the 
+project is at stage 1 early works, Transgrid has the opportunity to understand the views of 
+stakeholders and make sure it undertakes high quality engagement in the lead up to its stage 
+2 application.  
+ Our assessment of the proposed social licence activities  
+We have included $14.4 million capital expenditure out of Transgrid’s proposed $26.3 million 
+for social licence activities in our alternative estimate. We have not included $11.9 million 
+capital expenditure in stage 1, as this proposed expenditure does not adequately relate to or 
+respond to Transgrid’s VNI West engagement to date.   
+ 
+146  Transgrid, Review of HumeLink engagement process, Findings of the Review – Landholder and Community 
+Advocate, July 2021. 
+147  R B Crawford & JA Crawford, VNI West CPA Stage 1 submission – draft route report, 25 March 2024.  
+148  Transgrid, VNI West preferred route report – NSW, March 2024.  
+===== PDF PAGE 44 =====
+AER Determination | Transgrid | VNI West Stage 1 Early works Contingent Project  
+35 
+As discussed above, social licence activities must clearly address community and landholder 
+concerns along the proposed route and be specific to VNI West Project. This is consistent 
+with the NER which requires transmission expenditure to relate to the provision of prescribed 
+transmission services. 
+Therefore, Transgrid must reasonably establish that the project cannot be prudently or 
+efficiently achieved in the absence of incurring the proposed expenditure for each social 
+licence activity.  
+Using the definition of social licence activity expenditure set out above, we consider 
+Transgrid’s $26.3 million capital expenditure relates to activities for building community 
+acceptance. This comprises $11.9 million within the CSE and Other Support Costs 
+categories. The remaining $14.4 million costs include: 
+• Land access consent payments to maintain community expectations 
+• Route deviations in response to stakeholder feedback 
+• Legal fees allocated to social licence issues. 
+We have accepted the proposed $14.4 million for activities relating to land access, route 
+deviation and the associated fees that may arise from these activities. Even though Transgrid 
+has not explicitly applied the ‘but for’ test, we are satisfied that these activities meet our 
+assessment criteria summarised above. Specifically, the land consent payments and route 
+deviation are responding to either community expectations in that region from previous 
+projects or Transgrid’s ongoing engagement with VNI West communities. These activities 
+also relate to the delivery of VNI West project. Therefore, we are satisfied that these costs 
+would need to be incurred by Transgrid in order to gain community acceptance and relate to 
+the VNI West project.  
+In contrast, we have not included $11.9 million capital expenditure for the remaining social 
+licence activities in our alternative estimate. These activities, consisting of establishing a 
+training hub, scholarships, community grants and regional telecommunications, are not 
+demonstrated to be responding to the engagement feedback from affected VNI West 
+communities. Rather, these activities are extrapolated from Transgrid’s engagement with 
+HumeLink stakeholders and have also been included in Transgrid’s HumeLink stage 2 CPA.  
+Transgrid’s supporting information relating to the activities described above does not meet 
+our expectations set out in the Directions Paper and is unlikely to be prudent because it is 
+not based on the feedback from affected communities.  
+Transgrid has an opportunity during stage 1 to adequately consult with the affected 
+stakeholders and include community endorsed activities as part of later CPAs. As mentioned 
+above, we have accepted Transgrid’s proposed labour and indirect costs for community 
+engagement to allow it to undertake high quality and targeted consultation to identify prudent 
+and efficient activities within VNI West communities. The prudent and efficient costs of these 
+activities can be funded as part of its stage 2 CPA. 
+ 
+===== PDF PAGE 45 =====
+AER Determination | Transgrid | VNI West Stage 1 Early works Contingent Project  
+36 
+5.1.5 Minor adjustments for capex modelling  
+In addition to our alternative estimates across the above-described capex categories, we 
+have made some minor capex modelling adjustments. These include: 
+• Factoring in Transgrid’s response to information request 03 to update for actual capex 
+spent in 2022–23 and the corresponding adjusted forecast for 2023–24.149 This is 
+described further in section 6.3. The overall effect of this update reduced the total capex 
+by $1.5 million.  
+• Minor variations to the formulae Transgrid used to apportion labour and indirect non-
+labour costs based on the amount of direct non-labour capex for the respective asset 
+classes. We have treated biodiversity offset costs separately from this apportioning and 
+held those costs constant to reflect our acceptance of the proposed labour and indirect 
+forecast (less the 20% contingency for the PEC Enhancement). We have then allowed 
+the remaining labour and indirect costs to apportion to the PTRM asset classes 
+consistent with Transgrid’s proposed approach (except for excluding biodiversity from the 
+calculation). This has no effect on the total capex, only the apportionment to the 
+respective PTRM asset classes.  
+• Minor modifications to inflation assumptions. Transgrid applied a June inflation series for 
+historical inflation up to 2023. We have substituted this for a December series consistent 
+with our 2023–28 Determination for Transgrid. This reduced total capex by $0.6 million.  
+ 
+5.2 Application of expenditure incentive schemes 
+We will decide the application of the Capital Expenditure Sharing Scheme (CESS) to VNI 
+West at the time of the stage 2 application.  
+Transgrid proposed to not apply the CESS for the following reasons:150  
+• There is an asymmetric risk due to “labour shortages, increasing materials costs and 
+supply chain disruption, and other unquantifiable costs that will arise in a project such as 
+this, given the operating environment and the unique characteristics of ISP projects 
+including their size and scale” 
+• Contractors are unable or not willing to enter into fixed price contracts, and require some 
+costs components to be variable in the contract to safeguard against potential losses.  
+Transgrid suggests this means the probability of overspending the capex forecast is greater 
+than the probability of underspending it.  
+We do not consider Transgrid has justified not applying the CESS for the proposed capex for 
+stage 1. Transgrid also sought to address the asymmetric risk by submitting material 
+contingency costs in its application as described in section 5.1.2. Compared with typical 
+stage 1 activities that are low risk and least regret, these contingency costs are related 
+largely to the costs that Transgrid has nominated to bring forward from stage 2 to stage 1. 
+ 
+149  Transgrid, Response to AER information request 03 - Q17, March 2024. 
+150  Transgrid, VNI West stage 1 CPA - A.1 Principal application, January 2024, p. 12.  
+===== PDF PAGE 46 =====
+AER Determination | Transgrid | VNI West Stage 1 Early works Contingent Project  
+37 
+We consider there is close relationship between the contingency costs and the application of 
+the CESS. Our alternative estimate has included about 49% of these proposed contingency 
+costs where they have been adequately justified. Further, we do not consider it is appropriate 
+to determine the application of the CESS at the time of a stage 1 contingent project. Rather, 
+it is appropriate to determine the application of the CESS when the total costs of the project 
+have been considered and assessed at stage 2. This is consistent with our treatment of 
+HumeLink.  
+===== PDF PAGE 47 =====
+AER Determination | Transgrid | VNI West Stage 1 Early works Contingent Project  
+38 
+6 Calculation of incremental allowed 
+revenues  
+This section sets out our calculation of the incremental revenue that Transgrid would recover 
+from customers over the 2023–28 period to account for our determination of efficient project 
+costs. We have applied an annual building block revenue approach, in accordance with 
+clause 6A.8.2(h) of the NER. Transgrid's application is based on this approach.  
+Table 6 shows Transgrid is to recover $164.2 million ($ nominal) in additional revenues for 
+VNI West stage 1 from customers over the 2023–28 period.  
+As a result of recovering these revenues, we estimate that the transmission component of an 
+average residential electricity bill in New South Wales would increase by $6 per year over the 
+remaining three years of the 2023–28 period (2025–26 to 2027–28). 
+Table 6 Incremental revenue calculation ($ million, nominal) 
+ 2023–24 2024–25 2025–26 2026–27 2027–28 Total 
+Return on capital 2.2 31.0 55.3 61.2 62.6 212.3 
+Return of capitalA –1.1 –13.2 –17.9 –8.3 –7.9 –48.4 
+ Straight-line depreciationB 0.0 2.5 9.9 22.1 22.7 57.2 
+ Less: inflation indexation on 
+opening RAB 
+1.1 15.8 27.8 30.3 30.6 105.6 
+Operating expenditure 0.0 0.3 0.5 0.5 0.5 1.8 
+Revenue adjustments - - - - - - 
+Net tax amountC 0.0 –0.3 –1.2 –2.6 –2.2 –6.3 
+Annual building block revenue 
+requirement (unsmoothed) 
+1.1 17.7 36.8 50.8 53.0 159.4 
+Annual expected maximum 
+allowed revenue (MAR – 
+smoothed) 
+– – 25.6 53.8 84.8 164.2 
+Increase to annual expected 
+MAR (smoothed) (%) 
+– – 2.6% 5.2% 7.9% 3.3% 
+Source:  AER analysis. 
+(A)  Regulatory depreciation (return of capital) consists of straight -line depreciation net of indexation of the RAB. The 
+negative incremental regulatory depreciation is a result of a higher growth in the RAB and the consequent increase in 
+the indexation of the RAB exceeding the increase in the straight-line depreciation. 
+(B) Based on as-commissioned capex.  
+(C) The negative incremental net tax amount in this decision is due to the growth in tax expenses, primarily the tax 
+depreciation, being higher than the incremental increase in taxable income as a result of VNI West stage 1. 
+===== PDF PAGE 48 =====
+AER Determination | Transgrid | VNI West Stage 1 Early works Contingent Project  
+39 
+Table 7 provides the effect of the resultant incremental increase in revenues on Transgrid's 
+total annual building block revenue requirement (unsmoothed), expected maximum allowed 
+revenues, and the X-factors over the 2023–28 period. 
+Table 7 Indicative annual building block revenue requirement, expected MAR 
+and X-factors ($ million, nominal) 
+ 2023–24 2024–25 2025–26 2026–27 2027–28 Total 
+Annual building block revenue 
+requirement (unsmoothed) 
+865.6 965.3 1,055.6 1,127.8 1,140.6 5,154.9 
+Annual expected MAR (smoothed)  924.0 959.7 1,021.2 1,086.6 1,156.2 5,147.6 
+X-factors n/a –0.92% –3.39% –3.39% –3.39% n/a 
+Source: AER analysis. 
+6.1 As-incurred depreciation and financeability 
+Transgrid proposed to apply an ‘as-incurred’ depreciation approach for all depreciable asset 
+classes associated with the VNI West stage 1 project (including transmission lines, 
+substations and biodiversity offsets). This is a change from our standard ‘as-commissioned’ 
+depreciation approach under the AER’s regulatory models for transmission networks. 
+Financeability concerns were Transgrid’s principal justification for its proposal to use as-
+incurred depreciation. It noted that financeability of VNI West remains a key challenge and it 
+has been working with the Clean Energy Finance Corporation (CEFC) to develop a 
+concessional financing package via the Rewiring the Nation program. However, Transgrid 
+proposed that receiving depreciation on its assets on an as-incurred basis would also assist 
+in addressing the cash-flow issues of financing the VNI West project. 
+As part of our pre-engagement with Transgrid on its VNI West proposal, we asked Transgrid 
+to provide further detail on its proposal to apply as-incurred depreciation to all of the ISP 
+project related expenditure. Transgrid submitted that the NER already allows the AER to 
+depreciate transmission assets on an as-incurred basis, including for ISP projects. It stated 
+that the depreciation framework that the AER is required to apply to distribution and 
+transmission assets is substantively the same and does not specifically provide for or prevent 
+depreciation to be recovered on an as-incurred basis.151 It also submitted that the nature of 
+early works expenditure would support an as-incurred approach to depreciation because it 
+provides benefits to customers in terms of improving the project cost estimates and ensuring 
+that the project can be delivered on time. It submitted that these benefits begin to accrue as 
+the expenditure takes place, not when the actionable ISP project is commissioned.152  
+The NER require that the depreciation schedules use a profile that reflects the nature of the 
+assets or categories of assets over their economic life.153 While the relevant rule drafting on 
+ 
+151  Transgrid, VNI West stage 1 CPA - A.1 Principal application, January 2024, p. 59. 
+152  Transgrid, VNI West stage 1 CPA - A.1 Principal application, January 2024, p. 60. 
+153  NER, cl. 6A.6.3(b)(1). 
+===== PDF PAGE 49 =====
+AER Determination | Transgrid | VNI West Stage 1 Early works Contingent Project  
+40 
+depreciation is broadly the same for distribution154 and transmission155 in the NER, our 
+regulatory models for transmission differs from distribution in terms of when the depreciation 
+of an asset should commence due to the following reasons:  
+• We consider the nature of transmission assets is that there is generally significant time 
+gap during construction between when costs are incurred and when the assets are 
+commissioned. In 2007 when the AER developed the transmission regulatory models 
+under chapter 6A, we took the view that the as-commissioned approach (depreciation of 
+an asset starts when the asset is commissioned) was the preferred interpretation of the 
+NER. We considered that customers should not have to pay for the return of capital until 
+the assets were providing transmission service (commissioned).156 Since 2007, we have 
+consistently applied the as-commissioned depreciation approach for transmission. 
+• For distribution assets, they usually have a much shorter build timeframe compared to 
+transmission assets and are typically put into use at a time closer to when the 
+expenditure is incurred. As such, applying an as-incurred approach (depreciation 
+commences when costs are incurred) better reflects the nature of distribution assets. 
+Since 2009, we have consistently applied the as-incurred depreciation approach for 
+distribution using the regulatory models developed under chapter 6. 
+Therefore, while our standard approach for transmission assets is to provide depreciation on 
+an as-commissioned basis, it may be appropriate to begin depreciation for some assets on 
+an as-incurred basis. However, for us to approve depreciation schedules using an as-
+incurred approach, we must be satisfied that this depreciation profile reflects the nature of 
+the assets over the economic life of the assets.157 The exceptions to this are: 
+1. for assets valued over $20 million that are dedicated to a single user or small group of 
+users158 
+2. for assets that form part of an actionable ISP project where the TNSP has submitted a 
+financeability request to the AER following the commencement date of the National 
+Electricity Amendment (Accommodating financeability in the regulatory framework) Rule 
+2024 on 29 March 2024 which does not relate to an early works contingent project 
+application.159  
+Transgrid’s VNI West stage 1 early works CPA proposal does not meet either of these 
+exceptions to the depreciation clause. Transgrid also submitted its CPA prior to the 
+commencement date of the Accommodating financeability in the regulatory framework 
+ 
+154  NER, cl. 6.5.5(a)-(b). 
+155  NER, cl. 6A.6.3(a)-(b). 
+156  AER, Final decision: Electricity transmission network service providers, Post-tax revenue model, September 
+2007, pp. 6–7. 
+157  Under NER cl. 6A.8.2(b)(7)(iv), contingent project applications must estimate the incremental revenue in 
+accordance with the requirements for depreciation referred to in clause 6A.6.3. NER cl. 6A.6.3(b)(1) 
+requires that depreciation schedules use a profile that reflects the nature of the assets or categories of 
+assets over their economic life. 
+158  NER, cl. 6A.6.3(c).  
+159  NER, cl. 6A.6.3A.  
+===== PDF PAGE 50 =====
+AER Determination | Transgrid | VNI West Stage 1 Early works Contingent Project  
+41 
+amending rule, therefore it was ineligible to submit a financeability request as part of its 
+CPA.160 
+We do not agree with Transgrid that the nature of its VNI West early works expenditure on 
+physical assets is of a different nature to other capital expenditure on physical assets. The 
+ability to stage projects and allow for early works CPAs separate to the stage 2 CPA was 
+itself a means to reduce uncertainty around cost estimates.161 Therefore, the staging of VNI 
+West already provides for some degree of earlier recovery of depreciation by Transgrid 
+through ‘partial commissioning’ of the costs of early works capex. We do not consider there 
+are any further benefits realised by consumers by beginning depreciation of all costs when 
+they are incurred that are not already provided for in the staging of VNI West. As such, we 
+consider that applying the fully as-incurred approach to all assets does not provide for 
+depreciation schedules that reflect the nature of transmission assets and is therefore 
+inconsistent with the NER requirements.  
+However, we consider depreciating biodiversity offset costs on an as-incurred basis better 
+reflects the nature of these biodiversity offset ‘assets’. The nature of biodiversity offset costs 
+is that they relate to intangible assets (such as biodiversity credits). Unlike the physical 
+transmission assets, biodiversity credits will be acquired and retired during the ISP project 
+construction stage. Therefore, the amortisation (depreciation) of these assets should 
+commence at the time the costs are incurred.  
+As noted above financeability concerns were a principal justification for Transgrid’s proposal 
+to use as-incurred depreciation. The AEMC’s Accommodating financeability in the regulatory 
+framework rule change which commenced on 29 March 2024 allows TNSPs to submit a 
+financeability request to amend depreciation profiles to assist with financeability. Although 
+Transgrid’s VNI West stage 1 CPA does not meet the criteria to submit a financeability 
+request to adjust depreciation profiles, for completeness we have considered Transgrid’s 
+claims regarding its financeability issues. 
+As part of this consideration, any additional financial support received from the CEFC is 
+relevant to our assessment of any financeability issues. Transgrid submitted that it has been 
+negotiating a concessional loan to support VNI West stage 1 from the CEFC. Transgrid 
+noted that adjustment mechanisms to ensure there is no over-recovery resulting in it earning 
+more than the regulated return have also been included in the arrangements. To properly 
+assess Transgrid’s proposal we issued a request for further information regarding its 
+arrangements with the CEFC, including commitment letters and any models supporting this 
+agreement.  
+In its response, Transgrid arranged a meeting with us to present details of its concessional 
+financing arrangements with the CEFC, and provided some of the presented material. This 
+material included high-level summary of its arrangements with CEFC. Transgrid did provide 
+further confidential written information shortly before the release of this decision consistent 
+with the presentation, however the specific terms and details of the agreement, or any 
+supporting models related to this agreement have not been provided as requested.  
+ 
+160  AEMC, Rule determination Financeability of ISP projects, 21 March 2024, p. i. 
+161  AEMO, 2022 Integrated System Plan, June 2022, pp. 83–85. 
+===== PDF PAGE 51 =====
+AER Determination | Transgrid | VNI West Stage 1 Early works Contingent Project  
+42 
+Based on the information provided we assessed the impact of VNI West stage 1 on 
+Transgrid’s benchmark cash flow metrics after adjusting for its share of concessional finance. 
+The results did not show any demonstrable financeability issues associated with VNI West 
+stage 1, using an as-commissioned approach for physical assets.162 On the basis of the 
+material before us and the requirements of the NER, we are not satisfied that Transgrid has 
+demonstrated any financeability issues with VNI West stage 1.  
+Transgrid also raised concerns that if the AER only provided depreciation on an as-
+commissioned basis, there would be no certainty that it would recover this expenditure. We 
+do not consider that the as-commissioned approach prevents Transgrid from recovering its 
+efficient capex incurred for stage 1 in full. This is because the commissioning date for VNI 
+West stage 1 capex is independent of the commissioning date for stage 2 of the project. This 
+means that Transgrid will start to receive regulatory depreciation once the early works are 
+expected to be completed (from 2026–27) even if VNI West stage 2 does not proceed. This 
+reflects the intention of the ISP’s Optimal Development Path providing for the staging of VNI 
+West.163 
+6.2 Biodiversity offset costs asset classes and 
+asset lives  
+As part of its VNI West stage 1 CPA, Transgrid proposed a new asset class for ‘Biodiversity 
+offsets’ costs. It has assigned a standard asset life of 45.6 years for regulatory depreciation 
+for this asset class, and no standard tax asset life for tax depreciation purposes. 
+We note that the biodiversity offset costs that Transgrid will incur are related to the following 
+cost categories:  
+1. Land purchases for establishing the biodiversity stewardship sites: This includes the 
+purchase of land and the management of the land in perpetuity.  
+2. Direct payments: This includes market purchases of biodiversity credits and payments 
+into the Biodiversity Conservation Fund. 
+3. Other costs: This includes costs for bank guarantee, independent expert biodiversity 
+panel, labour costs and indirect non-labour costs. 
+In this determination, we: 
+• accept the proposed standard asset life of 45.6 years for regulatory depreciation for all 
+cost categories of the biodiversity offsets costs  
+• accept the proposal not to assign a standard tax asset life for costs associated with land 
+purchases for establishing the biodiversity stewardship sites (category 1 above) 
+• reject the proposal not to assign a standard tax asset for costs associated with direct 
+payments and other costs (categories 2 and 3 above). We consider a standard tax asset 
+life of 50 years should be assigned for tax depreciation purposes for these costs. 
+We are satisfied that Transgrid’s proposed standard asset life of 45.6 years for regulatory 
+depreciation of biodiversity offset costs is reasonable. This is because it reflects the weighted 
+ 
+162  The biodiversity offset costs were depreciated on an as-incurred basis. 
+163  AEMO, 2022 Integrated System Plan, June 2022, pp. 83. 
+===== PDF PAGE 52 =====
+AER Determination | Transgrid | VNI West Stage 1 Early works Contingent Project  
+43 
+average of the standard asset lives for all depreciating assets associated with VNI West 
+stage 1. We consider that biodiversity offset costs are inextricably linked to the project life as 
+the biodiversity credits are used to offset the project’s biodiversity obligation. For this reason, 
+the costs of establishing the biodiversity credits should be depreciated over the weighted 
+average life of the project. 
+For tax depreciation purposes, we do not agree with Transgrid’s proposal of not assigning a 
+standard tax asset life for all cost categories of the biodiversity offsets costs.  
+We agree with Transgrid that costs associated with land purchases for establishing the 
+biodiversity stewardship sites are not subject to tax depreciation, consistent with the Income 
+Tax Assessment Act 1997. Therefore, no standard tax asset life is applicable for these costs.  
+However, we consider that costs which are not related to land purchases should still be 
+subject to tax depreciation. In its response to our information request, Transgrid stated that 
+direct payments (such as payments into the Biodiversity Conservation Fund) represent a 
+capital cost to be incurred in developing the transmission network. It stated that such costs 
+should therefore be included in the cost base of the relevant capital asset—that is, the 
+transmission line which gave rise to the biodiversity offset obligation.164 We note that the 
+standard tax asset life for the transmission line asset class is 50 years. Therefore, we 
+consider it is appropriate to assign the same life for tax depreciation purpose as the 
+'Transmission lines’ asset class.  
+For the purposes of the roll forward model (RFM) and the PTRM, we have split the 
+‘Biodiversity offsets’ asset class into the following two asset classes to reflect our approach 
+on tax depreciation: 
+• Biodiversity offsets (Stewardship sites): Not assign a standard tax asset life. 
+• Biodiversity offsets (Direct payments & other costs): Assign a standard tax asset life of 50 
+years. 
+In its response to our information request, Transgrid agreed with this approach.165 
+ 
+6.3 Update for 2022–23 actual capex  
+We have updated the 2022–23 as-incurred capex for VNI West stage 1 with the actual 
+amount incurred for this year for RAB roll forward purposes. In its response to our 
+information request, Transgrid agreed with this update.166 
+Transgrid adopted an estimated as-incurred capex amount for 2022–23 of $66.6 million 
+($ nominal) in its VNI West stage 1 CPA.167 However, the actual as-incurred capex amount 
+for this year is $28.8 million ($ nominal) which is now available. Therefore, we have updated 
+the opening RAB value as at 1 July 2023 in the RFM to reflect the actual capex for 2022–
+ 
+164  Transgrid, Response to AER information request 03 - Q18, March 2024.  
+165  Transgrid, Response to AER information request 03 - Q18, March 2024. 
+166  Transgrid, Response to AER information request 03 - Q17, March 2024. 
+167  Transgrid, VNI West – CPA 1 – RFM, January 2024. 
+===== PDF PAGE 53 =====
+AER Determination | Transgrid | VNI West Stage 1 Early works Contingent Project  
+44 
+23.168 We note that the reduced 2022–23 capex reflects a change of timing in capex. The 
+resulting difference of $37.8 million ($ nominal) between actuals and estimate in 2022–23 will 
+be reflected in the forecast capex for 2023–24.169  
+ 
+168  We have also updated the debt raising costs input in the PTRM to reflect the updated opening RAB value at 
+1 July 2023. 
+169  Transgrid, Response to AER information request 03 - Q17, March 2024. 
+===== PDF PAGE 54 =====
+AER Determination | Transgrid | VNI West Stage 1 Early works Contingent Project  
+45 
+Shortened forms 
+Term Definition 
+AEMC Australian Energy Market Commission 
+AEMO Australian Energy Market Operator 
+AER Australian Energy Regulator 
+BCF Biodiversity Conservation Fund 
+BSA Biodiversity Stewardship Agreement 
+capex capital expenditure 
+CBA Cost benefit analysis 
+CEFC Clean Energy Finance Corporation 
+CESS Capital Expenditure Sharing Scheme 
+CPA contingent project application  
+CSE Community and Stakeholder Engagement  
+EIS Environmental Impact Statement 
+ISP Integrated System Plan 
+MAR maximum allowed revenue  
+MCHPA Moorabool and Central Highlands Power Alliance 
+NER National Electricity Rules 
+NSW DPE New South Wales Department of Environment and Planning 
+ODP Optimal Development Path 
+opex operating expenditure 
+PACR Project Assessment Conclusions Report 
+PEC Project EnergyConnect 
+PTRM post-tax revenue model 
+RAB regulatory asset base 
+regulatory control 
+period 
+period 
+RFM roll-forward model 
+RIT-T regulatory investment test for transmission 
+TFD Total Fund Deposit 
+TPIR transmission planning and investment review 
+VNI West Victoria to New South Wales Interconnector West 
+ 

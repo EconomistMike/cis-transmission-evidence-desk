@@ -1,0 +1,1125 @@
+--- PDF page 1 ---
+ 
+Decision  1 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+Decision 
+  
+Reinforcing the NSW 
+Southern Shared Network 
+(Humelink) 
+Determination on dispute -  
+application of the regulatory 
+investment test for transmission 
+ 
+ November 2021 
+  
+
+--- PDF page 2 ---
+ 
+Reinforcing the NSW Southern Shared Network (Humelink) RIT-T dispute determination  2 
+ 
+ 
+ 
+© Commonwealth of Australia 2021 
+This work is copyright. In addition to any use permitted under the Copyright Act 1968, all material 
+contained within this work is provided under a Creative Commons Attributions 3.0 Australia licence, 
+with the exception of: 
+• the Commonwealth Coat of Arms 
+• the ACCC and AER logos 
+• any illustration, diagram, photograph or graphic over which the Australian Competition and 
+Consumer Commission does not hold copyright, but which may be part of or contained within this 
+publication. The details of the relevant licence conditions are available on the Creative Commons 
+website, as is the full legal code for the CC BY 3.0 AU licence. 
+Requests and inquiries concerning reproduction and rights should be addressed to the  
+Director, Corporate Communications,  
+Australian Competition and Consumer Commission,  
+GPO Box 3131,  
+Canberra ACT 2601  
+or publishing.unit@accc.gov.au. 
+Inquiries about this publication should be addressed to: 
+Australian Energy Regulator 
+GPO Box 520 
+Melbourne  Vic  3001 
+Tel: 1300 585165 
+Email: AERinquiry@aer.gov.au   
+AER Reference: 47337 
+ 
+ 
+  
+
+--- PDF page 3 ---
+ 
+Reinforcing the NSW Southern Shared Network (Humelink) RIT-T dispute determination  3 
+ 
+ 
+ 
+Contents 
+Executive Summary ....................................................................................... 4 
+1 Introduction .............................................................................................. 7 
+1.1 . Who we are and our role in this process ........................................ 7 
+1.2 . The Humelink RIT-T .......................................................................... 7 
+1.3 . The dispute ........................................................................................ 9 
+1.4 . Structure of this document ............................................................ 10 
+2 RIT-T dispute resolution ........................................................................ 11 
+2.1 . Our dispute resolution process ..................................................... 11 
+2.2 . Application of our dispute resolution process ............................. 14 
+2.3 . Our assessment approach ............................................................. 14 
+3 AER assessment of RIT-T dispute ........................................................ 17 
+3.1 . Consideration of credible options and treatment of route diversity 17 
+3.1.1 AER Assessment ................................ ................................ .......... 20 
+3.2 . Double circuit configuration of credible options ......................... 21 
+3.2.1 AER Assessment ................................ ................................ .......... 22 
+3.3 . Consultation Process ..................................................................... 25 
+4 AER determination ................................................................................. 26 
+  
+
+--- PDF page 4 ---
+ 
+Reinforcing the NSW Southern Shared Network (Humelink) RIT-T dispute determination  4 
+ 
+ 
+Executive Summary 
+This document sets out the Australian Energy Regulator's (AER) determination in regard to a 
+dispute, brought by the Wunelli Pty Ltd (Wunelli), of TransGrid's regulatory investment test 
+for transmission (RIT-T) for its Reinforcing Southern Shared Network (Humelink) project. 
+The AER is the economic regulator for electricity transmission and distribution services in the 
+National Energy Market (NEM). Our electricity-related powers and functions are set out in 
+the National Electricity Law (NEL) and National Electricity Rules (NER).   
+We are responsible for developing, publishing and maintaining the RIT-T and accompanying 
+RIT-T Application Guidelines (RIT-T Guidelines). The RIT-T is an economic cost–benefit 
+analysis that is used by transmission businesses to assess and rank different electricity 
+investment options. We are also responsible for determining RIT-T disputes raised by parties 
+following the conclusion of the RIT-T process as set out in the NER.  This requires the AER 
+to consider whether the RIT-T proponent (in this case TransGrid) applied the RIT-T in 
+accordance with the National Electricity Rules (NER). 
+TransGrid initiated a RIT-T consultation process in June 2019 to identify a project that: 
+• increases the transfer capacity and stability limits between the Snowy Mountains and 
+major load centres of Sydney, Newcastle and Wollongong, thereby enabling access to 
+lower cost generation to meet demand in these major load centres; and 
+• facilitates the development of renewable generation in southern NSW.  
+TransGrid published the Project Assessment Conclusions Report (PACR) for the Humelink 
+RIT-T on 29 July 2021.  
+The preferred option identified in the Project Assessment Conclusions Report (PACR) 
+involves constructing new 500 kV double circuit transmission lines in an electrical ‘loop’ 
+between Maragle, Wagga Wagga and Bannaby (referred to as option 3C). The cost is 
+estimated cost to be $3.317 billion. 
+Wunelli raised a dispute on 16 August 2021 under rule 5.16B of the National Electricity 
+Rules (NER) on the grounds that the PACR fails to consider all credible options to address 
+the network need. In section 2.3 of this document we have discuss the specific grounds of 
+the dispute including reference to AER's assessment of each element. Broadly, the dispute 
+notice asserted that: 
+ There are other distinct network configurations of the preferred option, each having 
+materially different route lengths, geographic or environmental risks, construction costs 
+and network benefits, and also differing in their relationship to existing assets. 
+ Given the high proportion of biodiversity offset costs, once the route specifics are 
+identified and proper consideration given to environmental risks (e.g. bushfire, storm and 
+lightning risks), the NPV ranking of the preferred option and the second ranked option 
+may be reversed. 
+ It is not clear whether the route corridors for costing the different options have been 
+optimised for double circuit construction. 
+
+--- PDF page 5 ---
+ 
+Reinforcing the NSW Southern Shared Network (Humelink) RIT-T dispute determination  5 
+ 
+ 
+ TransGrid has provided insufficient transparency about the double circuit configuration of 
+the preferred option. 
+After considering the grounds of the dispute, the AER's determination is that TransGrid is 
+required to amend its PACR for Humelink RIT-T by 23 December 2021. In conducting our 
+review:  
+• We consider that TransGrid did not meet the RIT-T requirements with respect to its 
+consideration of credible options. Specifically, TransGrid could reasonably have been 
+expected to include in the RIT-T analysis, a full double circuit configuration of option 1C 
+(referred to as option 1C-new in this determination), in order to assess the net economic 
+benefit associated with the option.  
+• We are satisfied that the costs and benefits of other distinct configurations of the top two 
+ranked credible options are likely to be sufficiently similar in terms of costs and benefits 
+such that the cost of considering these other configurations is likely to be 
+disproportionate. 
+• We are satisfied that TransGrid met the RIT-T consultation requirements regarding 
+double circuit configurations TransGrid assess full double circuit configurations of the top 
+two ranked options in its PACR following the issue being raised in a submission to the 
+Project Assessment Draft Report (PADR). 
+More broadly, we consider that in circumstances where updated estimated costs may 
+change the ranking of the preferred option in the PACR, it is important to recognise that the 
+NER requires the RIT-T proponent (in this case TransGrid) to reapply the RIT-T, if in the 
+reasonable opinion of the proponent there has been a material change in circumstances that 
+changes the preferred option.  
+A material change in circumstances could arise where updated estimated projects costs 
+increase significantly from the costs estimated in the RIT-T as a result of finalising the route. 
+We would expect TransGrid to consider its obligations under the NER in the event that 
+updated estimated project costs, for example following route selection, significantly depart 
+from those estimated in its PACR.  
+To ensure that the RIT-T meets the requirements of the NER and to ensure transparency of 
+the RIT-T analysis, we require that TransGrid amend the Humelink PACR to include the 
+following: 
+• A full double circuit option for the path between Maragle and Bannaby as a credible 
+option - Option 1C-new. 
+• The estimated capital cost of this option, including the estimated biodiversity offset costs. 
+We require TransGrid, when doing so, to explain the cost accuracy of these costs and 
+ensure this is consistent with the expected accuracy of the top two ranked options in the 
+PACR. 
+• A complete comparative cost benefit analysis (with and without competition benefits) 
+including this option for each scenario and its impact on the ranking of the credible 
+options assessed in the PACR. 
+
+--- PDF page 6 ---
+ 
+Reinforcing the NSW Southern Shared Network (Humelink) RIT-T dispute determination  6 
+ 
+ 
+• Sensitivity analysis for this option as assessed for options 2C and 3C in the PACR, to 
+demonstrate the robustness of RIT-T modelling outcomes. In particular, we require that 
+TransGrid include the following sensitivities for this option in the central scenario:  
+ the impact of the Kurri Kurri and Tallawarra B gas generators 
+ delaying VNI West until 2035/36 
+ the impact on the positioning analysis of adopting the draft 2021 IASR 
+assumptions 
+ the impact of alternate scenario weightings i.e. higher weighting of the step-
+change scenario which is an increase of 10 per cent to the 2020 ISP scenario 
+weightings 
+ the impact of 25 per cent higher and lower network capital costs of the credible 
+options (including the adoption of P90 costs); and  
+ the impact of alternate commercial discount rate assumptions i.e. a high discount 
+rate of 7.90 per cent and a low discount rate of 2.23 per cent.  
+We are also of the view that full provision of information is essential for ensuring the 
+transparency and stakeholder confidence in the RIT-T process. In this instance, it may have 
+helped prevent this dispute and ensured efficient and timely resolution of the RIT-T process.  
+
+--- PDF page 7 ---
+ 
+Reinforcing the NSW Southern Shared Network (Humelink) RIT-T dispute determination  7 
+ 
+ 
+1 Introduction 
+This chapter sets out the relevant background information to our determination on the 
+dispute in relation to the Humelink RIT-T, including a summary of the dispute and the dispute 
+resolution process.  
+1.1 Who we are and our role in this process 
+The AER is the economic regulator for electricity transmission and distribution services in the 
+NEM.1 Our electricity-related powers and functions are set out in the NEL and NER.   
+We are responsible for developing, publishing and maintaining the RIT-T and accompanying 
+RIT-T Guidelines.2 The RIT-T is an economic cost–benefit analysis that is used by 
+transmission businesses to assess and rank different electricity investment options.3 The 
+purpose of the RIT-T is to identify the credible option4 which maximises the present value of 
+the net economic benefit to all those who produce, consume and transport electricity in the 
+market (the preferred option).5 The RIT-T Guidelines provide guidance on the operation and 
+application of the RIT-T.6  
+Transmission businesses must apply the RIT-T to proposed transmission investments that 
+are actionable ISP projects, except in the circumstances specified in clause 5.16.3(a) of the 
+NER.7 The RIT-T aims to promote efficient transmission investment decision making in the 
+NEM and provide greater consistency, transparency and predictability.  
+1.2 The Humelink RIT-T  
+TransGrid initiated a RIT-T consultation process in June 2019 to identify a project that 
+increases the transfer capacity and stability limits between the Snowy Mountains and major 
+load centres of Sydney, Newcastle and Wollongong, thereby enabling access to lower cost 
+generation to meet demand in these major load centres and facilitating the development of 
+renewable generation in southern NSW.  
+ 
+1  In addition to regulating transmission and distribution in the NEM and Northern Territory, we also monitor the wholesale 
+electricity and gas markets to ensure suppliers comply with the legislation and rules, taking enforcement action where 
+necessary, and regulate retail energy markets in Queensland, New South Wales, South Australia, Tasmania (electricity 
+only) and the ACT. 
+2  https://www.aer.gov.au/networks-pipelines/guidelines-schemes-models-reviews/rit-t-and-rit-d-application-guidelines-2018  
+3  The current RIT-T, version 2.0, was published by the AER on 25 August 2020.  
+4  A credible option is defined in NER, cl. 5.15.2(a) as an investment option that (a) addresses the identified need; (b) is 
+commercially and technically feasible; and (c) can be implemented in sufficient time to address the identified need. A 
+credible option is also an option that is identified as a credible option in accordance with paragraphs (b) or (d) of cl. 5.15.2 
+(as relevant).    
+5  NER, cl. 5.15A.1(c)  
+6     AER, Regulatory Investment Test for Transmission Application RIT-T Guidelines, December 2018, 
+7      NER, cl.5.16A.3(a) 
+
+--- PDF page 8 ---
+ 
+Reinforcing the NSW Southern Shared Network (Humelink) RIT-T dispute determination  8 
+ 
+ 
+A project referred to as 'HumeLink' was identified as an actionable project in the 2020 ISP.8 
+Projects that are identified as actionable are eligible for a streamlined process in a manner 
+consistent with section 5.16A of the NER.   
+TransGrid published the PACR for the Humelink RIT-T on 29 July 2021.9 The preferred 
+option identified in the PACR involves constructing new 500 kV double circuit transmission 
+lines in an electrical ‘loop’ between Maragle, Wagga Wagga and Bannaby. The cost is 
+estimated cost to be $3.317 billion. TransGrid's modelling indicates that the preferred option, 
+upon construction, is expected to provide additional 2570MW of transfer capacity between 
+the aforementioned load centres. 
+The PACR estimates that the preferred option, known as 3C, would deliver net market 
+benefits of $491 million. The second ranked option, option 2C, is estimated to have only four 
+per cent higher capital costs however, the benefits are estimated to be 23 per cent lower 
+than the preferred option. The PACR states there is a high degree of uncertainty regarding 
+the estimated capital costs of the project and if these costs increase by 24 per cent, the 
+preferred option (on a weighted scenario basis) no longer provides net economic benefits. 
+Table 1 presents the three highest ranked options along with their key features and a 
+topology diagram reproduced from the PACR.10 The topologies presented are indicative 
+electrical lines rather than proposed geographical routes. Additionally, the PACR provides 
+several variations of the options presented in Table 1, however these have lower net 
+economic benefits.  
+Table 1: Network topologies for credible options 
+ Summary Topology 
+Option 
+1C 
+• Maragle to Bannaby 
+• Two new 500 kV transmission lines, tie 
+transformers and switchgear 
+• Partial double circuit electrical configuration 
+• 2510 MW capacity 
+Capex: 
+• Lines and substations: $1,725m 
+• Biodiversity offset: $1,340m 
+• Total capex: $3,065m  
+ 
+8  AEMO, 2020 Integrated System Plan, July 2020, p.14. 
+9  TransGrid, Project Assessment Conclusions Report- Humelink RIT-T, July 2021 
+10  TransGrid, Project Assessment Conclusions Report- Humelink RIT-T, July 2021, p.29. 
+
+
+--- PDF page 9 ---
+ 
+Reinforcing the NSW Southern Shared Network (Humelink) RIT-T dispute determination  9 
+ 
+ 
+Option 
+2C 
+• Maragle to Bannaby via Wagga Wagga 
+• Four new 500 kV full double circuit 
+transmission lines, tie transformers and 
+switchgear 
+• Full double circuit electrical configuration 
+• 2510 MW capacity 
+Capex: 
+• Lines and substations: $2,585m 
+• Biodiversity offset: $815m 
+• Total capex: $3,400m 
+ 
+Option 
+3C 
+• Electrical loop between Maragle, Wagga 
+Wagga and Bannaby 
+• Three new 500 kV transmission lines, tie 
+transformers and switchgear 
+• Full double circuit electrical configuration 
+• 2570 MW capacity 
+Capex: 
+• Lines and substations: $2,380m 
+• Biodiversity offset: $935m 
+• Total capex: $3,317m 
+ 
+ Source: TransGrid, PACR, 29 July 2021 
+The PACR does not identify the preliminary route of the preferred option and TransGrid 
+expects to further refine costs and identify the specific route following the Environmental 
+Impact Statement process which is currently underway.11 
+1.3 The dispute  
+On 16 August 2021, the AER received a notice of dispute from Wunelli Pty Ltd (Wunelli), 
+based in Tumut NSW, disputing the conclusions of the Humelink PACR.12  The disputing 
+party has raised the dispute on the grounds that the PACR fails to identify and consider all 
+options that could reasonably be classified as credible options and the route selection may 
+affect the ranking of the preferred option. In particular, Wunelli contends that: 
+(a) "The PACR fails to identify that there are at least two distinct configurations of this 
+option; each having materially different route lengths, geographic or 
+environmental risks, construction costs and network benefits. These options also 
+differ significantly in their relationship to existing assets." The dispute notice 
+ 
+11  TransGrid, Project Assessment Conclusions Report- Humelink RIT-T, July 2021 
+12  https://www.aer.gov.au/communication/aer-receives-notification-of-rit-t-dispute-from-wunelli-pty-ltd  
+
+
+--- PDF page 10 ---
+ 
+Reinforcing the NSW Southern Shared Network (Humelink) RIT-T dispute determination 
+ 10 
+ 
+ 
+illustrates this with indicative "low diversity" and "high diversity" options and states 
+that given "the scale of the HumeLink project, and the biodiversity and land 
+acquisition costs constituting 30% of the PACR project cost estimate, it is critical 
+that the proponent properly identify the characteristics of the proposed routes and 
+evaluate all credible options."  
+(b) "Once the route specifics are identified and proper consideration given to diversity 
+benefits, the NPV ranking of… [the preferred option and the second ranked 
+option]… may be reversed." 
+(c) Late changes to double circuit constructure and lack of visibility on route 
+alignment raises several questions: 
+(d) "Are the corridors used for costing different options optimised for double circuit 
+construction? 
+(e) Are previously investigated corridors intended for single circuit construction likely 
+to be utilised due to time and / or budgetary pressure? Are these routes optimised 
+for length and other considerations in the proposed double-circuit option? 
+(f) Has there been sufficient industry consultation, given that the proposed solution 
+was never previously presented?   
+(g) How can consumers be satisfied the proposal represents a sound investment, 
+when there is no visibility on the line length proposed? Similarly, when there is no 
+indication of the types of terrain and vegetation, especially when biodiversity offset 
+costs represent 28 cent of the project budget." 
+1.4 Structure of this document 
+This document sets out our determination on the dispute including the reasons for the 
+determination.  
+The decision is structured as follows:  
+• Chapter two sets out our dispute resolution process and how it relates to the present 
+dispute. 
+• Chapter three sets out our assessment of the application of the RIT-T by TransGrid.  
+• Chapter four sets out our determination on Humelink RIT-T dispute.  
+ 
+ 
+  
+
+--- PDF page 11 ---
+ 
+Reinforcing the NSW Southern Shared Network (Humelink) RIT-T dispute determination 
+ 11 
+ 
+ 
+2 RIT-T dispute resolution  
+2.1 Our dispute resolution process 
+The AER is responsible for determining RIT-T disputes raised by parties following the 
+conclusion of the RIT-T consultation process as set out in the NER. In accordance with rule 
+5.16B(c) of the NER, certain parties may raise a dispute in relation to the conclusions made 
+in the PACR by a RIT-T proponent by lodging a written notice to the AER within 30 days of 
+the publication of the PACR.  
+Rule 5.16B(a) of the NER identifies Registered Participants, the AEMC, Connection 
+Applicants, Intending Participants, AEMO and interested parties as parties eligible to lodge a 
+dispute notice. A dispute may be raised about conclusions made by the RIT-T proponent in 
+the project assessment conclusions report in relation to:13 
+• the application of the RIT-T  
+• the basis on which the RIT-T proponent has classified the preferred option as being for 
+reliability corrective action; or 
+• whether the preferred option will have a material inter-network impact. 
+ 
+ 
+13   NER, r. 5.16B (a) 
+
+--- PDF page 12 ---
+ 
+Reinforcing the NSW Southern Shared Network (Humelink) RIT-T dispute determination 
+ 12 
+ 
+ 
+Figure A: Dispute resolution process 
+Transmission business publishes a conclusions report. 
+                
+                                    Within 30 days 
+ 
+The disputing party must lodge a dispute notice with the AER, 
+setting out the grounds of the dispute. It must also provide a copy 
+of the dispute notice to the transmission business. 
+ 
+The AER reviews the dispute notice and ground/s for dispute. 
+         Valid ground/s for dispute                                        Invalid ground/s for dispute 
+ 
+  
+    
+AER makes determination 
+and publishes reasons. 
+ 
+The AER will 
+generally 
+make a 
+determination 
+on the dispute 
+within 40 to 
+100 days 
+(depending on 
+the complexity 
+of the issues 
+involved and 
+the time taken 
+for a disputing 
+party or the 
+transmission 
+business to 
+provide 
+information to 
+the AER). 
+AER commences 
+determination process. The AER does not 
+proceed with 
+determination process 
+and rejects the dispute by 
+written notice to the 
+disputing party. The AER 
+also notifies the 
+transmission business 
+that the dispute has been 
+rejected. 
+ 
+A dispute notice may not be raised about any issues in the PACR which the RIT-T treats as 
+externalities or relate to an individual's personal detriment or property rights.14 The AER's 
+RIT-T Guidelines provide guidance on the information that should be included in a dispute 
+notice.15 The RIT-T Guidelines also provide a summary of the RIT-T dispute resolution 
+process. This summary has been reproduced as Figure A above.16 
+After considering the dispute notice and any other relevant information, we must either reject 
+the dispute or make and publish a determination. We can:  
+• reject the dispute by written notice to the disputing party if we consider that the grounds 
+for the dispute are misconceived or lacking in substance; and 
+• notify the RIT-T proponent that the dispute has been rejected.17 
+ 
+14  NER, r. 5.16B (b) 
+15  AER, December 2018, Regulatory Investment Test for Transmission (RIT-T) Application Guidelines p. 74  
+16  AER, December 2018, Regulatory Investment Test for Transmission (RIT-T) Application Guidelines p.75 
+17  NER, r. 5.16B (d)(1) and (2)   
+
+--- PDF page 13 ---
+ 
+Reinforcing the NSW Southern Shared Network (Humelink) RIT-T dispute determination 
+ 13 
+ 
+ 
+ Alternatively, we must make and publish a determination that: 
+• directs the RIT-T proponent to amend the matters set out in the PACR, and specifies a   
+reasonable timeframe for the RIT-T proponent to comply with the AER's direction; or 
+• states that, based on the grounds of the dispute, the RIT-T proponent will not need to 
+amend the PACR.18 
+We must decide whether a dispute is valid and resolve the dispute within: 
+• 40 days of receiving the dispute notice; or 
+• an additional period of up to 60 days where we notify interested parties that additional 
+time is required to make a determination because of the complexity or difficulty of the 
+issues involved.19 
+In making a determination on the dispute, we: 
+• must only take into account information and analysis that the RIT-T proponent could 
+reasonably be expected to have considered or undertaken at the time it performed the 
+RIT-T 
+• must publish our reasons for making the determination 
+• may disregard any matter raised by the disputing party or the RIT-T proponent that is 
+misconceived or lacking in substance; and 
+• must specify a reasonable timeframe for the RIT-T proponent to comply with the AER’s 
+direction to amend the matters set out in the PACR.20 
+Under rule 5.16B (f)(3) of the NER, we may request additional information regarding the 
+dispute from the disputing party and/or the RIT-T proponent. The disputing party or the RIT-
+T proponent (as the case may be) must provide any additional information as soon as is 
+reasonably practicable.21 
+A request for additional information will automatically extend the period of time for making a 
+determination by the amount of time it takes the relevant party to provide the requested 
+information, provided that: 
+• we make the request for additional information at least seven days prior to the expiry of 
+the relevant period; and 
+• the RIT-T proponent or disputing party provides the information within 14 days of receipt 
+of the request.22 
+ 
+ 
+ 
+18  NER, r. 5.16B (d)(3)  
+19  NER r. 5.16B (d)  
+20  NER, r. 5.16B (f)   
+21  NER, r. 5.16B (h) 
+22   NER, r. 5.16B (i) 
+
+--- PDF page 14 ---
+ 
+Reinforcing the NSW Southern Shared Network (Humelink) RIT-T dispute determination 
+ 14 
+ 
+ 
+2.2 Application of our dispute resolution process 
+We received a written dispute notice from Wunelli on 16 August 2021. Rule 5.16B (c) of the 
+NER requires a dispute notice to be provided to us within 30 days of the date of the 
+publication of the PACR. As the PACR was published on 29 July 2021, Wunelli met the 
+deadline for raising a valid dispute. 
+After an initial assessment, we considered that the dispute notice was not misconceived nor 
+lacking in substance and that it adequately specified the grounds of the dispute. The 
+concerns raised in the dispute notice are summarised in section 1.3 above. 
+To better understand the concerns raised by Wunelli, we met with Wunelli and TransGrid on 
+18 and 24 August 2021, respectively. We also met with TransGrid on 25 October 2021 to 
+seek additional information related to the dispute. 
+We also sought further information from TransGrid via information requests sent to 
+TransGrid on 24 August (initial information request), 21 September and 12 and 22 October 
+2021 seeking further details on:  
+• Treatment of route diversity in exploring credible options and determining the preferred 
+option in the PACR.  
+• The indicative route assumed for the preferred option and other credible options in the 
+PACR for the purposes of estimating costs. 
+• Breakdown and methodology behind ascertaining biodiversity costs associated with the 
+credible options assessed in the PACR. 
+• Consideration of double circuit configuration for the top three ranked credible options and 
+impact on the cost benefit analysis in the PACR. 
+Copies of our information requests and TransGrid's responses are available on our 
+website.23 
+2.3 Our assessment approach 
+In accordance with the NER, our review of this dispute was an assessment against the RIT-
+T requirements, in light of the grounds of the dispute. That is, we conducted a review as to 
+whether the grounds of the dispute identified a failure by TransGrid to apply the RIT-T in 
+accordance with the NER.24 
+Accordingly, our assessment focused on identifying whether TransGrid in its PACR for 
+Humelink: 
+• Considered whether it was necessary to consider route variations of the top two ranked 
+options assessed in the PACR, taking into account the costs and benefits of these route 
+variations in addressing the identified need for investment. 
+ 
+23    https://www.aer.gov.au/about-us/dispute-resolution/reinforcing-the-nsw-southern-shared-network-humelink-rit-t-dispute  
+24  NER, r.5.16B (a) 
+
+--- PDF page 15 ---
+ 
+Reinforcing the NSW Southern Shared Network (Humelink) RIT-T dispute determination 
+ 15 
+ 
+ 
+• Provided information and analysis including demonstrable reasons regarding underlying 
+cost assumptions associated with the credible options demonstrating that costs have 
+been derived taking into account material cost uncertainty for each credible option. 
+• Considered and optimised other credible options for 'double circuit' transmission line 
+configurations that would meet the identified need of the Humelink RIT-T. 
+Table 1 sets out the specific list of issues raised by Wunelli and a reference to the relevant 
+section in this document where we have addressed those issues. 
+Table 1 Issues raised in dispute notice and AER assessment 
+Issues raised in the dispute notice Reference to AER Assessment 
+The PACR fails to identify that there are at least two distinct configurations of this 
+option; each having materially different route lengths, geographic or environmental 
+risks, construction costs and network benefits. These options also differ significantly 
+in their relationship to existing assets." The dispute notice illustrates this with 
+indicative "low diversity" and "high diversity" options and states that given "the scale 
+of the HumeLink project, and the biodiversity and land acquisition costs constit uting 
+30% of the PACR project cost estimate, it is critical that the proponent properly 
+identify the characteristics of the proposed routes and evaluate all credible options . 
+ 
+Section 3.1 Consideration of 
+credible options and treatment of 
+route diversity  
+ 
+Section 3.1.1 Consideration of 
+distinct variations of the 
+preferred option 
+Once the route specifics are identified and proper consideration given to diversity 
+benefits, the NPV ranking of the preferred option and the second ranked option may 
+be reversed. 
+ 
+Section 3.1 Consideration of 
+credible options and treatment of 
+route diversity  
+ 
+Section 3.1.1 Consideration of 
+distinct variations of the 
+preferred option 
+Late changes to double circuit constructure and lack of visibility on route alignment Section 3.2.1 Stakeholder 
+consultation on double circuit 
+consideration of preferred option 
+Are the corridors used for costing different options optimised for double circuit 
+construction? 
+Section  3.2.1 Consideration of 
+full double circuit configuration 
+of option 1C 
+Are previously investigated corridors intended for single circuit construction likely to 
+be utilised due to time and / or budgetary pressure? Are these routes optimised for 
+length and other considerations in the proposed double-circuit option? 
+Section 3.1 Consideration of 
+credible options and treatment of 
+route diversity  
+Section 3.1.1 Transparency of 
+indicative routes 
+Has there been sufficient industry consultation, given that the proposed solution 
+was never previously presented?   
+Section 3.2.1 Stakeholder 
+consultation on double circuit 
+consideration of preferred option 
+How can consumers be satisfied the proposal represents a sound investment, when 
+there is no visibility on the line length proposed? Similarly, when there is no 
+indication of the types of terrain and vegetation, especially when biodiversity offset 
+Section 3.1 Consideration of 
+credible options and treatment of 
+route diversity  
+ 
+
+--- PDF page 16 ---
+ 
+Reinforcing the NSW Southern Shared Network (Humelink) RIT-T dispute determination 
+ 16 
+ 
+ 
+costs represent 28 cent of the project budget. Section 3.1.1 Transparency of 
+indicative routes 
+ 
+
+--- PDF page 17 ---
+ 
+Reinforcing the NSW Southern Shared Network (Humelink) RIT-T dispute determination 
+ 17 
+ 
+ 
+3 AER assessment of RIT-T dispute 
+This section outlines our assessment of TransGrid's application of the RIT-T for the 
+Humelink project in response to the dispute notice we received from Wunelli.  
+3.1 Consideration of credible options and treatment of 
+route diversity  
+In its dispute, Wunelli contends that TransGrid failed to consider route diversity for the 
+preferred option in the Project Assessment Conclusions Report (PACR).25 In particular, 
+there may be other distinct configurations of the preferred option, each having materially 
+different route lengths, geographic or environmental risks, construction costs and network 
+benefits, and differing in their relationship to existing assets.26  Wunelli characterised 
+variations to the preferred option as a 'low diversity variation' and a 'high diversity' variation 
+as set out in Figure 1. 
+Figure 1: Different routes of preferred option  
+Source: Notification of dispute- Wunelli Pty Ltd- Humelink RIT-T27 
+Wunelli states that given the scale of the Humelink project, and the biodiversity and land 
+acquisition costs constituting 30 per cent of the PACR project cost estimate, it is critical that 
+ 
+25  https://www.aer.gov.au/communication/aer-receives-notification-of-rit-t-dispute-from-wunelli-pty-ltd  
+26  ibid 
+27  ibid 
+
+
+--- PDF page 18 ---
+ 
+Reinforcing the NSW Southern Shared Network (Humelink) RIT-T dispute determination 
+ 18 
+ 
+ 
+the proponent properly identify the characteristics of the proposed routes and evaluate all 
+credible options. 
+Wunelli also raises concerns on the transparency of the proposed route. Wunelli states: 
+How can consumers be satisfied the proposal represents a sound investment, when 
+there is no visibility on the line length proposed? Similarly, when there is no indication 
+of the types of terrain and vegetation, especially when biodiversity offset costs 
+represent 28% of the project budget? 
+ 
+ 
+Route diversity 
+For the purposes of this determination and TransGrid's Humelink RIT-T, route diversity 
+refers to the geographical routing of transmission lines between connection points. The 
+credible options across the network topologies have different assumed geographical routes 
+and therefore different costs and environmental and operating risks. 
+ 
+Both the NER, and the RIT-T application guidelines, published by the AER, define a credible 
+option as an option that:28 
+• addresses the identified need, that is, achieves the objective that the RIT-T proponent 
+seeks to achieve by investing in the network 
+• is commercially and technically feasible; and 
+• can be implemented in sufficient time to meet the identified need. 
+Clause 5.15.2 (b) of the NER requires RIT-T proponents to consider all options it could 
+reasonably classify as credible options. Under the NER,29 the RIT-T must not require a level 
+of analysis that is disproportionate to the scale and likely impact of each credible option 
+being considered.  The identification and consideration of credible options a RIT–T 
+proponent assesses for meeting a particular identified need should therefore be 
+proportionate to the magnitude of the likely costs of any credible option.  
+The PACR considered a diverse range of credible options, including options based on 
+operating capacity, connection points, and network configuration (voltage). As part of the 
+RIT-T process a total of twelve credible options (full or partial single circuit configurations) 
+were identified in the Project Assessment Draft Report (PADR), which involved three 
+connection points namely Maragle, Wagga Wagga and Bannaby.30 These options were 
+further refined to seven credible options in the PACR, including consideration of full double 
+circuit configurations of the top two ranked options, option 2C and option 3C (preferred). 
+Option 1C involving a partial double circuit configuration ranked third in the PACR.  
+ 
+28  AER, Regulatory Investment Test for Transmission (RIT-T) Application Guidelines, December 2018, p. 16. This is 
+consistent with the definition in cl. 5.15.2(a) of the NER. 
+29   NER, cl. 5.15A.3(b)(2). 
+30   TransGrid, Humelink RIT-T, PADR, January 2020 
+
+--- PDF page 19 ---
+ 
+Reinforcing the NSW Southern Shared Network (Humelink) RIT-T dispute determination 
+ 19 
+ 
+ 
+In considering this ground of review, it is important to recognise that the NER defines a 
+credible option as an option or group of options.31  Thus, it is permissible for a RIT-T 
+proponent to group variations of an option together as long as the overall cost-benefit 
+analysis of each variation is very similar. In these circumstances, a more detailed analysis 
+(of individual options) would be disproportionate. In reviewing whether the costs and benefits 
+of potential variations are likely to be similar, we sought further information to understand the 
+basis for the cost estimates. TransGrid advised that the cost estimates for each credible 
+option in the PACR were developed based on the shortest corridor route lengths.  TransGrid 
+also stated that in estimating cost for each credible option:32 
+Uncertainty associated with the corridor routes is captured using the Hollmann model 
+contingency toolset. This toolset, in conjunction with a Monte-Carlo Simulation 
+program, uses a combination of Systemic (Parametric) and PACR option specific cost 
+and schedule risk analysis to develop a probability weighted (P50) contingency.  
+Based on this further information we are satisfied that the PACR has optimised the costs of 
+the preliminary route for each credible option and weighted the cost estimates for each 
+credible option taking into account cost uncertainty.33  TransGrid advised that it has also 
+included biodiversity costs in estimating a probabilistic approach to estimating the total 
+capital costs of credible options assessed in the PACR and this cost estimation approach 
+was applied consistently between all credible options.  
+Wunelli considers that the PACR fails to consider route diversity costs and benefits 
+associated with route variations to the credible options such that the costs and benefits of 
+these variations should therefore be considered as distinct options.  
+We understand, in the context of the grounds of review, that route diversity costs and 
+benefits refer to the impact of route selection associated with environmental factors affecting 
+the performance of transmission lines. In particular, Wunelli refers to the impact of 'high-cost 
+low probability' events (such as lightning strikes, bushfires or extreme wind events) that may 
+affect multiple lines simultaneously. 
+As noted by Wunelli, the PACR stated that34: 
+Final decisions regarding route diversity for the preferred option will be based on an 
+assessment of network risks and mitigation strategies, having regard to the relative 
+cost of diversity options, that sits outside of the RIT-T process (specifically, the EIS 
+process summarised in the introduction). 
+It appears that the PACR acknowledged that network diversity will be an important 
+consideration to be balanced against costs in finalising the route.  
+Wunelli also raises concern that35: 
+Another aspect of the insufficient treatment of diversity in the PACR and the high 
+proportion of biodiversity offset costs is that once the route specifics are identified and 
+ 
+31  NER, cl. 5.15.2(a) 
+32  TransGrid, Response to AER information request, 5 October 2021 
+33  RIT-T Clause 6 
+34  TransGrid, Project Assessment Conclusions Report- Humelink RIT-T, July 2021, pg 30 
+35  https://www.aer.gov.au/communication/aer-receives-notification-of-rit-t-dispute-from-wunelli-pty-ltd  
+
+--- PDF page 20 ---
+ 
+Reinforcing the NSW Southern Shared Network (Humelink) RIT-T dispute determination 
+ 20 
+ 
+ 
+proper consideration given to diversity benefits, the NPV ranking of low-diversity 3C 
+option (figure 2) and PACR option 2C may be reversed. 
+In considering the potential for the ranking of the top two ranked options to be reversed, the 
+PACR also includes sensitivity analysis to assess the impact of estimated capital costs 
+increase for the preferred option (option 3C) relative to option 2C. The PACR stated that36: 
+If Option 3C’s capital costs are more than 24 per cent higher than the central 
+estimates, it would no longer have positive estimated net benefits (on a weighted -
+basis). We also find that if Option 2Cs costs were to remain constant, Option 3C’s 
+costs would need to increase by more than 4 per cent for Option 2C to become 
+preferred. 
+3.1.1 AER Assessment 
+Consideration of distinct variations of the preferred option 
+Overall, we are satisfied that the consideration of route variations for the preferred option is 
+not likely to result in sufficiently different costs and benefits to warrant treating these 
+variations as distinct credible options from option 3C. We have reached the conclusion that 
+the costs of considering variations to the preliminary route for each network topology are 
+likely to be disproportionate, on the basis that: 
+• The PACR was undertaken at an early stage of project development when detailed route 
+selection had not been completed. TransGrid has stated that, in identifying the preferred 
+route, considerations of route diversity and costs need to be balanced and that it has 
+adopted the shortest corridor lengths consistently for each of the credible options in the 
+PACR. As such a consideration of route variations is not likely to be proportionate given 
+this need to balance environmental risks and costs and this process will be finalised 
+outside the RIT-T process.37 
+• In its response to our information request, TransGrid recognised that capital costs of the 
+credible options (including biodiversity offset costs) are uncertain. In completing the 
+PACR, TransGrid undertook a probabilistic analysis to understand the likely distribution 
+of costs under each of the options.38 We have reviewed TransGrid’s methodology and 
+consider that its approach is reasonable. We also consider as a result that the costs of 
+undertaking further analysis of route variations of the preferred option at the PACR stage 
+is likely to exceed the benefits of doing so. 
+It is also noteworthy that the NER requires the RIT-T proponent (in this case TransGrid) to 
+reapply the RIT-T if, in the reasonable opinion of the proponent, there has been a material 
+change in circumstances that changes the preferred option.  A material change in 
+circumstances could arise where updated estimated projects costs increase significantly 
+from the costs estimated in the RIT-T as a result of finalising the route.  The estimation of 
+costs and benefits in a RIT-T will involve some uncertainty and the RIT-T seeks to address 
+this uncertainty through scenario and sensitivity analysis. However, we would expect 
+TransGrid to consider its obligations under the NER in the event that updated estimated 
+ 
+36  TransGrid, Project Assessment Conclusions Report- Humelink RIT-T, July 2021, p. 56 
+37  TransGrid, Response to AER information request, 5 October 2021 
+38  ibid 
+
+--- PDF page 21 ---
+ 
+Reinforcing the NSW Southern Shared Network (Humelink) RIT-T dispute determination 
+ 21 
+ 
+ 
+project costs, for example following route selection and the completion of the Environmental 
+Impact Statement, significantly depart from those estimated in its PACR.  
+Transparency of indicative routes 
+We have also considered Wunelli's concerns in terms of: 
+• Whether consumers can be satisfied the proposal represents a sound investment, when 
+there is no visibility on the line length proposed and there is no indication of the types of 
+terrain and vegetation along the line, especially when biodiversity offset costs represent 
+28 cent of the project budget.  
+• Whether previously investigated corridors intended for single circuit construction likely to 
+be utilised due to time and/or budgetary pressure and whether these routes optimised for 
+length and other considerations in the proposed double-circuit option. 
+The PACR provided a high-level scope for each credible option and assumed an indicative 
+route for each network topology. However, the assumed routes were not identified in the 
+PACR.  The PACR stated that TransGrid expects to further refine costs and the specific 
+route following the Environmental Impact Statement process which is currently underway 39. 
+In considering this issue, we consider it is good practice for a RIT-T proponent to be 
+transparent regarding the assumed route in the PADR and PACR. The inclusion of the 
+assumed route and the assumptions adopted in the PACR would have provided 
+stakeholders with additional information to understand the basis of the estimated costs for 
+each credible option (e.g. TransGrid advised that the shortest corridor lengths have been 
+adopted for each network topology).  
+We also understand that TransGrid, following the PACR publication, published a geographic 
+map of proposed route corridors for the preferred option on its website. The map identifies a 
+broad study area where new transmission lines could be built to connect substations at 
+Wagga Wagga, Bannaby and Maragle. It also provides details about how TransGrid intends 
+to narrow the broad study area to a study corridor as the post RIT-T processes, such as the 
+EIS process and landowner community consultation process.40 To the extent that this 
+information was available at the time of finalising the PACR and this was relevant to the 
+preliminary routes, TransGrid could have considered whether this information should have 
+been made available in the PACR. However, the AER does not consider that the PACR 
+needs to be amended as this is subject to processes outside the RIT-T process. 
+3.2 Double circuit configuration of credible options 
+The top two ranked options in the PACR include double circuit transmission line 
+configurations. The PACR demonstrates that single circuit or double circuit configurations of 
+transmission lines significantly impact the overall cost benefit assessment. Based on the 
+information in the PACR and further information provided by TransGrid, we also understand 
+that double circuit configurations of credible options have significantly lower biodiversity 
+ 
+39   TransGrid, Project Assessment Conclusions Report- Humelink RIT-T, July 2021 
+40   https://www.transgrid.com.au/projects-innovation/humelink#Map  
+
+--- PDF page 22 ---
+ 
+Reinforcing the NSW Southern Shared Network (Humelink) RIT-T dispute determination 
+ 22 
+ 
+ 
+offset costs than the single circuit configurations.  Relevantly, the PACR considers that 
+credible options include a double circuit configuration.  
+ 
+Double circuit vs single circuit electrical configuration of transmission lines 
+On the basis of electrical configuration, transmission lines can be classified into single circuit 
+and double circuit configurations. Generally, double circuit configurations of transmission 
+lines provide benefits over single circuit in respect of reduced geographical footprint and 
+ability to house multiple transmission lines on one electrical tower, thereby providing cost 
+savings. However, double circuit transmission lines are also understood to be more exposed 
+to operational risks, which may include bushfire, storm and lightning risks.  
+While full double circuit configurations of all credible options were not considered in earlier 
+stages of the Humelink RIT-T, TransGrid, in response to stakeholder submissions, assessed 
+full double circuit configurations of top two ranked options 2C and 3C (preferred) in its 
+PACR. In its PACR, TransGrid stated that41: 
+The outworking of this process is that Option 2C and Option 3C from the PADR are 
+presented in the PACR as complete double-circuit options, which allows significant 
+cost reductions relative to where they are constructed as either a single-circuit, or a 
+combination of single- and double-circuit, configuration.  
+ 
+In addition, while the other options are primarily single-circuit, they all now involve a 
+132 km double-circuit component west of Bannaby, an area where we consider 
+bushfire risk is a more manageable risk, in order to reduce costs. We have not 
+investigated complete double-circuit versions of these options, as we have for Option 
+2C and Option 3C, as any cost reductions are not expected to result in these options 
+becoming top ranked options given their significantly lower net benefits than for Option 
+2C and Option 3C. 
+Wunelli questions whether the corridors for costing the different options have been optimised 
+for double circuit construction. In considering this issue, the 'direct' path credible options 
+between Maragle and Bannaby included in the PACR did not consider a full double circuit 
+option.  In particular, the PACR stated42: 
+Please note that the biodiversity offset costs shown in the tables below for Option 2C 
+and Option 3C are lower than for Option 1C due to their full double circuit 
+arrangement, while Option 1C involves two single circuit lines to be constructed in 
+parallel (with a 132 km of double circuit lines) that translates to a larger easement 
+width footprint. Similarly, Option 2C and Option 3C have lower biodiversity costs than 
+Option 2B and Option 3B, respectively, since these ‘B’ options assume two single 
+circuit lines (with the exception of the 132 km double circuit section). 
+Wunelli also raises concerns on the lack of transparency and stakeholder consultation on the 
+consideration of double circuit configurations of the credible options in the PACR. Wunelli 
+further raises concern that the PACR provided limited details on whether corridors used for 
+costing different options were optimised for double circuit construction. 
+3.2.1 AER Assessment 
+ 
+41  TransGrid, Project Assessment Conclusions Report- Humelink RIT-T, July 2021, pg 15 
+42  ibid, footnote 75, pg 28 
+
+--- PDF page 23 ---
+ 
+Reinforcing the NSW Southern Shared Network (Humelink) RIT-T dispute determination 
+ 23 
+ 
+ 
+Stakeholder consultation on double circuit consideration of preferred option 
+In relation to stakeholder consultation, Wunelli queries whether there has been sufficient 
+consultation during the RIT-T process, as the double circuit configuration of the preferred 
+option 3C was not presented in the Humelink PADR. However, the full double circuit 
+configurations of options 3C and option 2C were assessed in the PACR following 
+stakeholder feedback to the Humelink PADR43. In particular, the NER requires RIT-T 
+proponents to have regard to the submissions received in response to the PADR, when 
+preparing its PACR44. Accordingly, we are satisfied that TransGrid met the RIT-T 
+consultation requirements. 
+Consideration of full double circuit configuration of option 1C 
+We sought further information from TransGrid to understand the reasons why the PACR did 
+not consider a full double circuit configuration of option 1C consistent with option 2C and 3C.  
+TransGrid submitted that45: 
+TransGrid conducted a screening step on the different circuit configurations for the top 
+performing network topologies, and confirmed that Route 2 and 3 (i.e. Option 2C and 
+Option 3C) will have higher net market benefits than Route 1 (Option 1C).  
+Both Options 2C and 3C have higher gross benefits since they provide a wider 
+footprint via Wagga Wagga as compared with Option 1C. These options (Options 2C 
+and 3C):  
+~ access additional capacity for new renewable generation in south west NSW; and  
+~ allow the additional transfer capacity between South Australia / Victoria and NSW 
+provided by the proposed EnergyConnect project to flow to NSW major load centres . 
+We also sought further information to inform the estimated costs of a full double circuit option 
+for the 'direct' path between Maragle and Bannaby. TransGrid (Table 2) estimated significant 
+capital cost reductions with a full double circuit configuration of option 1C.  
+Table 2: Network topology cost reductions from single and double circuit to 
+full double circuit configurations46 
+ Primary 
+single circuit 
++ 138km 
+double circuit 
+cost 
+100% double 
+circuit cost 
+Km of 
+previous 
+single circuit 
+Reduction in 
+biodiversity 
+offset costs 
+to get to full 
+double circuit 
+Total cost 
+reduction 
+inclusive of 
+substation 
+and lines 
+variations 
+Option 1C $3,065m $2,768m 272km $451m $297m 
+Option 2C $3,770m $3,399m 460km $357m $371m 
+ 
+43  TransGrid, Project Assessment Conclusions Report- Humelink RIT-T, July 2021, pg 26 
+44  NER cl. 5.16A.4 (i) 
+45  TransGrid, Response to AER information request, 18 October 2021 
+46  TransGrid, Response to AER information request, 28 October 2021 
+
+--- PDF page 24 ---
+ 
+Reinforcing the NSW Southern Shared Network (Humelink) RIT-T dispute determination 
+ 24 
+ 
+ 
+Option 3C $3,509m $3,317m 366km $287m $192m 
+Further, cost benefit analysis provided by TransGrid also indicates that the ranking of the 
+credible options changes, excluding competition benefits, with a full double circuit 
+configuration of option 1C (referred to as 'Option 1C-new'). In particular, option 1C-new 
+ranked as the second option. As indicated in Table 3, the net market benefits (excluding 
+competition benefits) of option 1C significantly increase with a full double circuit configuration 
+considered. The estimated net benefits of option 1C-new also increase significantly including 
+competition benefits (Table 4), however, option 3C remains as the preferred option after the 
+inclusion of competition benefits (refer to 5).  
+Table 3 Positioning analysis (Option 1C-new), excluding competition benefits 
+(Present Value)47 
+Route Option Central Step Slow Fast Weighted Rank 
+Route 1 Option 1A -$333m -$178m -$1,011m -$306m -$362m 6 
+ Option 1B -$371m -$175m -$1,389m -$331m -$422m 7 
+ Option 1C 
+(DC+SC) 
+-$182m $7m -$1,206m -$136m -$233m 4 
+ Option 
+1C-new 
+(100%DC) 
+$40m $229m -$985m $86m -$11m 2 
+Route 2 Option 2B -$639m -$62m -$2,015m -$599m -$649m 8 
+ Option 2C 
+(100% 
+DC) 
+-$33m $537m -$1,413m $9m -$44m 3 
+Route 3 Option 3B -$287m $309m -$1,660m -$248m -$293m 5 
+ Option 3C 
+(100% 
+DC) 
+$49m $634m -$1,340m $91m $39m 1 
+ 
+ 
+ 
+ 
+ 
+47  TransGrid, Response to AER information request, 9 November 2021 
+
+--- PDF page 25 ---
+ 
+Reinforcing the NSW Southern Shared Network (Humelink) RIT-T dispute determination 
+ 25 
+ 
+ 
+Table 4 Cost benefit analysis (option 1C-new), including competition benefits 
+(Present Value)48 
+Route Option Central Step Slow Fast Weighted  Rank 
+Route 1 Option 
+1C-new 
+$375m $735m -$829m $404m $335m 3 
+Route 2 Option 2C $431m $1,168m -$1,253m $394m $399m 2 
+Route 3 Option 3C $520m $1,271m -$1,177m $487m $491m 1 
+TransGrid also states that it has refined the capital cost estimates of option 1C-new to class 
+4 estimates, which are consistent with the class 4 cost estimates presented for options 2C 
+and 3C in the PACR.49  
+We consider that, as a double circuit configuration is a credible option, the PACR should 
+have considered a full double circuit of option 1C i.e. the direct path between Maragle and 
+Bannaby. Given the net benefits associated with this option (both with and without 
+competition benefits being taken into account) the consideration of this option would not 
+have been disproportionate. In addition, based on the further information provided by 
+TransGrid, we consider that option1C-new should have been included in the PACR's 
+positioning analysis. In particular, we consider that by screening this option out, TransGrid 
+has not reasonably considered all credible options (as defined in clause 5.15.2(a) of the 
+NER) in the Humelink RIT-T process.   
+To ensure that the RIT-T meets the requirements of the NER and to ensure transparency of 
+the RIT-T analysis, we require that TransGrid amend the Humelink PACR as set out in 
+section 4.  
+3.3 Consultation Process 
+Early engagement between stakeholders and the proponent of a RIT-T, and fuller provision 
+of information is essential for the efficient and timely resolution of a RIT-T process.  
+This dispute may have been avoided if more detailed information about TransGrid's 
+consideration of credible options, treatment of route diversity, cost assumptions and impact 
+on ranking of the credible options, was provided in the Humelink PACR. However, the AER 
+does not consider that the PACR needs to be amended to provide this further information. 
+ 
+ 
+48   TransGrid, Response to AER information request, 9 November 2021 
+49   Class 4 estimates have cost certainty typically between -30 per cent and +50 per cent. In its 28 October 2021 information 
+response to AER, TransGrid had reported class 5 estimates (cost certainty between +/- 50%) for Option 1C- new. 
+
+--- PDF page 26 ---
+ 
+Reinforcing the NSW Southern Shared Network (Humelink) RIT-T dispute determination 
+ 26 
+ 
+ 
+4 AER determination 
+Under rule 5.16B(d)(3)(i) of the NER, we determine that, based on the grounds of the 
+dispute, TransGrid is required to amend its PACR by 23 December 2021. In conducting our 
+review:  
+• We consider that TransGrid did not meet the RIT-T requirements with respect to its 
+consideration of credible options. Specifically, TransGrid could reasonably have been 
+expected to include in the RIT-T analysis, a full double circuit configuration of option 1C 
+(referred to as option 1C-new in this determination), in order to assess the net economic 
+benefit associated with the option.  
+• We are satisfied that the costs and benefits of other distinct configurations of the top two 
+ranked credible options are likely to be sufficiently similar in terms of costs and benefits 
+such that the cost of considering these other configurations is likely to be 
+disproportionate. 
+• We are satisfied that TransGrid met the RIT-T consultation requirements regarding 
+double circuit configurations as this issue was raised in a submission to the PADR. 
+To ensure that the RIT-T meets the requirements of the NER and to ensure transparency of 
+the RIT-T analysis, we require that TransGrid amend the Humelink PACR to include the 
+following: 
+• A full double circuit option for the path between Maragle and Bannaby as a credible 
+option - Option 1C-new. 
+• The estimated capital cost of this option, including the estimated biodiversity offset costs. 
+We require TransGrid, when doing so, to specify the cost accuracy of these costs and to 
+ensure this is consistent with the expected accuracy of the top two ranked options in the 
+PACR. 
+•  A complete comparative cost benefit analysis (with and without competition benefits) 
+including this option for each scenario and its impact on the ranking of the credible 
+options assessed in the PACR. 
+• Sensitivity analysis for this option as assessed for options 2C and 3C in the PACR, to 
+demonstrate the robustness of RIT-T modelling outcomes. In particular, we require that 
+TransGrid include the following sensitivities for this option in the central scenario:  
+ the impact of the Kurri Kurri and Tallawarra B gas generators 
+ delaying VNI West until 2035/36 
+ the impact on the positioning analysis of adopting the draft 2021 IASR 
+assumptions 
+ the impact of alternate scenario weightings i.e. higher weighting of the step-
+change scenario which is an increase of 10 per cent to the 2020 ISP scenario 
+weightings 
+
+--- PDF page 27 ---
+ 
+Reinforcing the NSW Southern Shared Network (Humelink) RIT-T dispute determination 
+ 27 
+ 
+ 
+ the impact of 25 per cent higher and lower network capital costs of the credible 
+options (including the adoption of P90 costs); and  
+ the impact of alternate commercial discount rate assumptions i.e. a high discount 
+rate of 7.90 per cent and a low discount rate of 2.23 per cent.  
+These amendments may occur by way of an addendum or other approach TransGrid 
+chooses to meet the requirements above. 
+These amendments will ensure Option 1C-new is presented alongside the two top-ranked 
+options, improving the ability of stakeholders to understand and compare this option and 
+ensuring the transparency and credibility of the RIT-T process. 
+ 
+ 
+ 

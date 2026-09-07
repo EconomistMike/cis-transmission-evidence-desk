@@ -1,0 +1,1085 @@
+--- PDF page 1 ---
+
+
+
+Gross market
+benefit assessment
+of Project Marinus -
+Addendum to Report
+dated 4 September
+2025
+
+Marinus Link Pty Ltd
+5 November 2025
+
+--- PDF page 2 ---
+
+
+A member firm of Ernst & Young Global Limited
+Liability limited by a scheme approved under Professional Services Legislation
+EY | ii
+
+
+Release Notice
+Ernst & Young (“EY”) was engaged on the instructions of Marinus Link Pty Ltd (“Marinus Link”, “MLPL ” or the “Client”) to
+undertake market modelling of system costs and benefits to forecast the gross market benefit of the proposed Marinus Link
+interconnector (the "Project"), in accordance with the service order dated 12 May 2025 and the revised service order dated
+15 October 2025.
+The results of EY’s work, including the assumptions and qualifications made in preparing the report are set out in both EY’s
+report dated 4 September 2025 (the “Main Report”, originally published 10 July 2025) and this report dated 31 October
+2025 (the “Addendum Report”). This Addendum Report is an addendum to the Main Report and has been prepared at the
+specific request of Marinus Link to present further market modelling outcomes associated with updated assumptions to the
+scenarios described in the Main Report. This Addendum Report must be read in conjunction with the Main Report. The Main
+Report and Addendum Report should be read in their entirety including this release notice, the applicable scope of the work
+and any limitations. The Main Report and the Addendum Report are hereinafter collectively referred to as the Report and a
+reference to the Report includes any part of the Main Report or Addendum Report.
+EY has prepared the Report for the benefit of the Client and has considered only the interest of the Client. EY has not been
+engaged to act, and has not acted, as advisor to any other party. Accordingly, EY makes no representations as to the
+appropriateness, accuracy or completeness of the Report for any other party's purposes.
+Our work commenced on 5 May 2025 and was completed on 17 October 2025. No further work has been undertaken by EY
+since the date of the Report to update it. Therefore, our Report does not take account of events or circumstances arising
+after 17 October 2025 and we have no responsibility to update the Report for such events or circumstances arising after that
+date.
+No reliance may be placed upon the Report or any of its contents by any party other than the Client (“Third Party Recipients”
+or “you”). Any Third Party Recipients receiving a copy of the Report must make and rely on their own enquiries in relation to
+the issues to which the Report relates, the contents of the Report and all matters arising from or relating to or in any way
+connected with the Report or its contents. EY disclaims all responsibility to any Third Parties for any loss or liability that the
+Third Parties may suffer or incur arising from or relating to or in any way connected with the contents of the Report, the
+provision of the Report to the Third Parties or the reliance upon the Report by the Third Parties.
+No claim or demand or any actions or proceedings may be brought against EY arising from or connected with the contents of
+the Report or the provision of the Report to the Third Parties. EY will be released and forever discharged from any such
+claims, demands, actions or proceedings. In preparing this Report EY has considered and relied upon information provided to
+us by the Client and other stakeholders engaged in the process and other sources believed to be reliable and accurate. EY has
+not been informed that any information supplied to it, or obtained from public sources, was false or that any material
+information has been withheld from it.
+EY does not imply, and it should not be construed that EY has performed an audit, verification or due diligence procedures on
+any of the information provided to us. EY has not independently verified, nor accept any responsibility or liability for
+independently verifying, any such information nor does EY make any representation as to the accuracy or completeness of
+the information. Neither EY nor any member or employee thereof undertakes responsibility in any way whatsoever or liability
+for any loss or damage to any person in respect of errors in this Report arising from incorrect information provided to EY .
+Modelling work performed as part of our scope inherently requires assumptions about future behaviours and market
+interactions, which may result in forecasts that deviate from future conditions. There will usually be differences between
+estimated and actual outcomes, because events and circumstances frequently do not occur as expected, and those
+differences may be material. EY takes no responsibility that the projected outcomes will be achieved. EY highlights that the
+analysis included in this Report does not constitute investment advice or a recommendation to you on a future course of
+action. EY provides no assurance that the scenarios that have been modelled will be accepted by any relevant authority or
+third party.
+Ernst & Young have consented to the Report being published electronically on Marinus Links’s websites for informational
+purposes only. Ernst & Young have not consented to distribution or disclosure beyond this. The material contained in the
+Report, including the Ernst & Young logo, is copyright. The copyright in the material contained in the Report itself, excluding
+Ernst & Young logo, vests in the Client. The Report, including the Ernst & Young logo, cannot be altered without prior written
+permission from Ernst & Young.
+Readers are advised that the outcomes provided are based on many detailed assumptions underpinning the scenarios, and
+the key assumptions are described in the Report. These assumptions were selected by the Client. The modelled scenarios
+represent three possible future options for the development and operation of the National Electricity Market, and it must be
+acknowledged that many alternative futures exist. Alternative futures beyond those presented have not been evaluated as
+part of the Report.
+Ernst & Young’s liability is limited by a scheme approved under Professional Standards Legislation.
+--- PDF page 3 ---
+
+
+A member firm of Ernst & Young Global Limited
+Liability limited by a scheme approved under Professional Services Legislation
+EY | iii
+
+Table of contents
+1. Executive summary ........................................................................................................ 1
+2. Background ................................................................................................................... 4
+3. Input Assumptions ......................................................................................................... 4
+3.1 Differences in assumptions from the Main Report ........................................................ 7
+3.2 Differences in assumptions from the 2025 IASR ......................................................... 9
+4. Forecast gross market benefit outcomes ........................................................................ 11
+4.1 Summary of forecast gross market benefit outcomes ................................................ 11
+4.2 Forecast benefits from emissions ............................................................................. 15
+--- PDF page 4 ---
+
+
+A member firm of Ernst & Young Global Limited
+Liability limited by a scheme approved under Professional Services Legislation
+EY | 1
+
+1. Executive summary
+Marinus Link Pty Ltd engaged EY to undertake further market modelling of system costs to forecast
+the gross market benefits of Project Marinus from 1 July 2026 to 30 June 2051 (the “Modelling
+Period”, as selected by the Client). Project Marinus involves approximately 255 kilometres of
+undersea High Voltage Direct Current (HVDC) cable, approximately 90 kilometres of HVDC cable in
+Victoria and converter stations in Tasmania and Victoria. These components will be delivered by
+Marinus Link Pty Ltd. Project Marinus also includes the North West Transmission Developments
+(NWTD) component which is being progressed by TasNetworks. The NWTD include new and
+upgraded overhead transmission lines that will link Cressy, Burnie, Sheffield, Staverton, Hampshire,
+and East Cam in Tasmania. These new and upgraded transmission lines are required to support the
+interconnector capacity to be provided by Marinus Link.  References to the gross market benefits of
+Marinus Link in this report should be interpreted as the gross market benefits of Project Marinus.
+This Addendum Report provides additional market modelling based on updated assumptions,
+consistent with the Australian Energy Market Operator’s (AEMO’s) Final 2025 Inputs, Assumptions,
+and Scenarios (Final 2025 IASR) workbook1 (dated 28 August 2025), as applied to the modelled
+scenarios outlined in the Main Report and an additional ‘Accelerated Transition’ scenario which was
+not included in the Main Report. Therefore, readers are advised to read this Addendum Report in
+conjunction with the Main Report to get a complete understanding of the context, background,
+applicable base assumptions, modelling methodology and qualifications. In the Final 2025 IASR, the
+Progressive Change scenario was recast as the Slower Growth scenario and Green Energy Exports
+was recast as Accelerated Transition. The scenario names presented in this Addendum Report are
+consistent with the Final 2025 IASR scenarios names.
+The forecast gross market benefits of Marinus Link in the three modelled scenarios are summarised
+in Table 1. As shown in Figure 1, although the forecast gross market benefits remain substantial
+they have decreased overall for Step Change and Slower Growth (previously Progressive Change)
+scenarios compared to the Main Report. The difference in forecast benefits between the two
+scenarios is also wider . The forecast gross market benefits of each scenario must be compared to
+the cost of Marinus Link to determine the forecast net economic benefit of each option. This
+evaluation is not part of our scope and hence has not been included in the Main Report or in this
+Addendum Report.
+Table 1: Overview of forecast gross market benefits of Marinus Link over the Modelling Period discounted to 1
+July 2025, excluding the value of emissions savings. All dollars are presented in $million, real June 2025.
+Marinus Link
+size Marinus Link timing Step Change Slower Growth Accelerated
+Transition
+1,500 MW Stage 1 2030 & Stage 2 2034 $6,001 $4,607 $6,754
+750 MW Stage 1 2030 $5,126 $3,430 $6,251
+
+1
+ AEMO, 28 August 2025, 2025 Inputs and Assumptions Workbook v7.4. Available at:
+https://www.aemo.com.au/consultations/current-and-closed-consultations/2025-iasr. Accessed 15 October
+2025
+--- PDF page 5 ---
+
+
+A member firm of Ernst & Young Global Limited
+Liability limited by a scheme approved under Professional Services Legislation
+EY | 2
+
+Figure 1: Forecast gross market benefits of Marinus Link Stage 1 (2030 commissioning) and Stage 2 (2034
+commissioning) over the Modelling Period discounted to 1 July 2025. All dollar values are presented in $million
+real June 20252.
+
+The Accelerated Transition scenario was not modelled for the Main Report, so in Figure 1 a
+comparison is instead made to the previous assessment of the Green Energy Exports scenario in
+March 2024.3 The March 2024 forecast gross market benefits for Green Energy Exports were
+reported in June 2023 dollars discounted to July 2023 and were assessed over a modelling period
+of 2024-25 to 2049-50 for assumed Marinus Link Stage 1 and 2 commissioning of 1 October 2029
+and 1 July 2033 respectively.
+The main drivers for these movements in gross market benefits in relation to AEMO’s updates to the
+input assumptions are outlined below:
+▪ While Tasmanian wind capacity remains the highest capacity factor wind resource in the
+NEM, the competitiveness of Tasmanian wind capacity has decreased relative to the
+mainland, due to increased assumed wind capacity factors for the mainland and mixed
+increases and decreases throughout Tasmania. Overall, less renewable capacity is required to
+meet demand and policy targets, and more of the forecast new entrant renewable capacity is
+built on the mainland. Consequently, the benefits of Marinus Link associated with a forecast
+deferral of investment in new renewable capacity on the mainland have also reduced relative
+to the Main Report.
+▪ There is significantly more renewable capacity and storage forecast to be commissioned on
+the mainland in all cases and scenarios due to updates to policy constraints and additional
+committed and anticipated units. This committed forecast capacity is expected to reduce the
+amount of capacity that can be avoided or deferred with Marinus Link. The effect of this
+change is most prominent in the Slower Growth scenario where assumed demand is lower
+and so additional committed and new entrant capacity meets a larger proportion of demand.
+
+2
+Dollar values of outcomes from the Main Report and Green Energy Exports scenario have been adjusted for
+Consumer Price Index (CPI) changes to June 2025 dollars and discounted to July 2025 to be broadly
+comparable. However, because the Modelling Period and Marinus Link entry dates differ for the Green Energy
+Exports scenario from the March 2024 Report, caution is required when making this comparison.
+3
+ EY, 28 March 2024, Gross market benefits assessment of Marinus Link. Available at:
+https://www.marinuslink.com.au/wp-content/uploads/2024/04/EY-report-Project-Marinus-Gross-Benefits-28-
+March-2024.pdf. Accessed 16 October 2025
+0
+1000
+2000
+3000
+4000
+5000
+6000
+7000
+8000
+Step Change Slower Growth/Progressive
+Change
+Accelerated Transition/Green
+Energy Exports
+Gross market benefits ($m, NPV)
+Main Report Addendum Report
+0
+1000
+2000
+3000
+4000
+5000
+6000
+7000
+8000
+Step Change Slower Growth/Progressive
+Change
+Accelerated Transition/Green
+Energy Exports
+Gross market benefits ($m, NPV)
+March 2024 Report
+--- PDF page 6 ---
+
+
+A member firm of Ernst & Young Global Limited
+Liability limited by a scheme approved under Professional Services Legislation
+EY | 3
+
+▪ Assumed hydrogen demand has decreased for Tasmania relative to mainland demand across
+all years. All else being equal, this change leads to higher benefits as more mainland build can
+be avoided in place of Tasmanian build when Marinus Link unlocks Tasmanian generation.
+However, the other changes listed above outweigh the impact of this change resulting in an
+overall reduction in gross market benefits.
+As discussed, the Accelerated Transition scenario was not modelled in the Main Report and
+comparison is instead made to higher demand and faster decarbonisation scenarios modelled in
+earlier assessments of Marinus Link gross market benefits.4 Consistent with those previous studies,
+gross benefits are forecast to be higher in the Accelerated Transition scenario than in the Step
+Change and Slower Growth scenarios.
+As in the Main Report, forecast emissions benefits are a byproduct of avoided thermal generation,
+when Tasmanian hydro and wind capacity are forecast to be unlocked with Marinus Link. Potential
+emissions savings are valued according to Australian Energy Regulator’s Valuing emissions
+reduction documentation5, calculated as a post-process to the optimisation. The potential emissions
+benefits vary between the scenarios due to differences in assumed carbon budget and demand.
+Table 2 shows the forecast gross benefits with associated emissions savings for Marinus Link over
+the 25-year Modelling Period for the modelled scenarios.
+Table 2: Overview of scenarios with associated emissions benefits for Marinus Link over the Modelling Period
+discounted to 1 July 2025. All dollars are presented in $million, real June 2025
+Marinus Link
+size Marinus Link timing Step Change Slower Growth Accelerated
+Transition
+1,500 MW Stage 1 2030 & Stage 2 2034 44.92 71.95 9.15
+750 MW Stage 1 2030 26.98 19.47 2.70
+
+In all scenarios, the carbon budget is binding, meaning that both the with and without Marinus Link
+cases produce the same overall amount of emissions in Mt from 2026-27 to 2049-50. For the
+Slower Growth scenario, this represents a significant reduction in emissions outcomes from the
+Progressive Change forecast in the Main Report, where the emissions budget was not binding,
+allowing room for a decrease in total forecast emissions with Marinus Link which led to large
+forecast emissions benefits of $3,835m6. This change in emissions outcomes from the Main Report
+is attributed to the reduction in emissions budget in the Final 2025 IASR of 727 Mt CO2-e from
+797 Mt CO2-e in the Draft 2025 IASR Stage 2. Binding carbon budgets allow less difference in coal
+generation between cases with and without Marinus Link, reducing the opportunity for Tasmanian
+generation to displace coal generation on the mainland with Marinus Link. In the Main Report, there
+are higher levels of emissions-intensive brown coal generation in the Base Case, which are partially
+avoided with Marinus Link. This was not the case in the updated modelling due to the carbon budget
+binding in both cases.
+
+
+4
+ EY, 28 March 2024, Gross market benefits assessment of Marinus Link. Available at:
+https://www.marinuslink.com.au/wp-content/uploads/2024/04/EY-report-Project-Marinus-Gross-Benefits-28-
+March-2024.pdf. Accessed 16 October 2025
+5
+ AER, May 2024, Valuing emissions reduction AER guidance and explanatory statement. Available at:
+https://www.aer.gov.au/system/files/2024-05/AER%20-%20Valuing%20emissions%20reduction%20-
+%20Final%20guidance%20and%20explanatory%20statement%20-%20May%202024.pdf. Accessed 24 June
+2025
+6
+ Real June 2024 dollars
+--- PDF page 7 ---
+
+
+A member firm of Ernst & Young Global Limited
+Liability limited by a scheme approved under Professional Services Legislation
+EY | 4
+
+2. Background
+Marinus Link Pty Ltd engaged EY to undertake further market modelling of system costs to forecast
+the gross market benefits of the Marinus Link interconnector from 1 July 2026 to 30 June 2051
+(selected by the Client) (the “Modelling Period”). This Addendum Report provides additional market
+modelling based on updated assumptions, consistent with the Australian Energy Market Operator’s
+(AEMO’s) Final 2025 Inputs, Assumptions, and Scenarios (IASR) workbook7 (dated 28 August
+2025), as applied to the modelled scenarios outlined in the Main Report and an additional
+‘Accelerated Transition’ scenario which was not included in the Main Report. Therefore, readers are
+advised to read this Addendum Report in conjunction with the Main Report to get a complete
+understanding of the context, background and applicable base assumptions, and qualifications. In
+the Final 2025 IASR the Progressive Change scenario was renamed Slower Growth and Green
+Energy Exports was renamed to Accelerated Transition. We have used the new scenario name in this
+Addendum Report.
+3. Input Assumptions
+The modelling presented in the Main Report was based on market information and input assumptions
+available at the time of the modelling, as selected by the Client. Many input assumptions selected by
+the Client were from AEMO’s  Draft 2025 Input, Assumptions and Scenarios (IASR)  workbook8. For
+this Addendum Report, the Client requested EY to conduct modelling in line with assumptions derived
+from the 2025 Final IASR workbook , released 28  August 2025 7. The key input assumptions are
+summarised in Table 3. The remainder of this section provides further detail on the differences in
+assumptions to the Main Report, divergences from the 2025 IASR workbook7 and differences between
+the with and without Marinus Link cases.
+Table 3: Overview of key input parameters in the Step Change, Slower Growth and Accelerated Transition
+scenarios
+Input parameter
+Scenarios
+Step Change Slower Growth Accelerated
+Transition
+Underlying consumption
+2024 ESOO9 –
+Step Change
+Hydrogen
+demand based
+on 2025 IASR
+Workbook7–
+Step Change.
+2024 ESOO9 –
+Progressive
+Change
+Hydrogen demand
+based on 2025
+IASR Workbook7–
+Slower Growth.
+2024 ESOO9 –
+Green Energy
+Exports
+Hydrogen
+demand based
+on 2025 IASR
+Workbook7–
+Accelerated
+Transition.
+Committed and anticipated generation ▪ July 2025 Generation Information10.
+
+7
+ AEMO, 28 August 2025, 2025 Inputs and Assumptions Workbook v7.4. Available at:
+https://www.aemo.com.au/consultations/current-and-closed-consultations/2025-iasr. Accessed 15 October
+2025
+8
+ AEMO, 28 February 2025, Draft 2025 Inputs and Assumptions Workbook v7.2. Available at:
+https://www.aemo.com.au/consultations/current-and-closed-consultations/2025-iasr. Accessed 15 October
+2025
+9
+ AEMO, National Electricity and Gas Forecasting. Available at: https://aemo.com.au/energy-
+systems/electricity/national-electricity-market-nem/nem-forecasting-and-planning/forecasting-and-planning-
+data/electricity-forecasting-data-portal. Accessed 15 June 2025
+10
+ AEMO, 1 August 2025, NEM July 2025 Generation Information. Available at https://aemo.com.au/energy-
+systems/electricity/national-electricity-market-nem/nem-forecasting-and-planning/forecasting-and-planning-
+data/generation-information. Accessed 15 August 2025
+--- PDF page 8 ---
+
+
+A member firm of Ernst & Young Global Limited
+Liability limited by a scheme approved under Professional Services Legislation
+EY | 5
+
+Input parameter
+Scenarios
+Step Change Slower Growth Accelerated
+Transition
+▪ 1,241 MW of CIS Tender 411 wind and solar
+generators committed as new entrant capacity for
+Queensland. This was not been considered
+committed in the IASR Workbook v7.47 as Tender 4
+winners were announced after publication.
+New entrant capital cost and FOM for wind solar PV, SAT,
+OCGT, CCGT, PHES large-scale batteries
+2025 IASR
+Workbook7 –
+Step Change.
+2025 IASR
+Workbook7 –
+Slower Growth.
+2025 IASR
+Workbook7 –
+Accelerated
+Transition.
+Retirements of coal-fired power stations
+July 2025 Generation Information10 for announced
+retirements or earlier if economic or driven by
+decarbonisation objectives.
+QEJP coal retirements have not been considered in the
+modelling scenarios.
+Gas and coal fuel price
+2025 IASR
+Workbook77 –
+Step Change.
+2025 IASR
+Workbook77 –
+Slower Growth.
+2025 IASR
+Workbook77 –
+Accelerated
+Transition.
+Emissions factors
+2025 IASR
+Workbook77 –
+Step Change:
+includes gas
+biomethane
+blending
+factors.
+2025 IASR
+Workbook77 –
+Slower Growth:
+includes gas
+biomethane
+blending factors.
+2025 IASR
+Workbook77 –
+Accelerated
+Transition:
+includes gas
+biomethane
+blending factors.
+NEM carbon budget to 2030 2025 IASR Workbook77: 418 mega ton (Mt) CO2-e
+2026-27 to 2029-30.
+NEM long- term temperature-linked carbon budget
+2025 IASR
+Workbook77 –
+Step Change:
+583 Mt CO2-e
+from 2026-27
+to 2049-50.
+2025 IASR
+Workbook77 –
+Slower Growth:
+727 Mt CO2-e from
+2026-27 to
+2049-50.
+2025 IASR
+Workbook77 –
+Accelerated
+Transition:
+303 Mt CO2-e
+from 2026-27 to
+2049-50.
+Federal renewable energy target
+82% share of renewable generation by 2029-30.
+Consistent with the 2025 IASR Workbook77.
+Capacity Investment Scheme (CIS) generation target
+15.1 GW new entrant renewable capacity in the NEM by
+2029-30 including tender winners with minimum
+generation capacity targets set by state where relevant.
+Inclusive of new large-scale solar, onshore and offshore
+wind.
+Consistent with the 2025 IASR Workbook77.
+CIS clean dispatchable capacity target
+11.23 GW/ 45.03 GWh NEM new entrant storage
+capacity by 2029-30 including eligible tender winners.
+Minimum dispatchable capacity targets for New South
+Wales, South Australia and Victoria. Inclusive of new
+pumped hydro and batteries with a duration greater or
+equal to 2 hours.
+Consistent with the 2025 IASR Workbook77.
+
+11
+ Department of Climate Change, Energy, the Environment and Water, 9 October 2025, Capacity Investment
+Scheme Tender 4 to deliver 6.6GW of clean energy. Available at: https://www.dcceew.gov.au/about/news/cis-
+tender-4-deliver-6-6gw-clean-energy. Accessed 21 October 2025
+--- PDF page 9 ---
+
+
+A member firm of Ernst & Young Global Limited
+Liability limited by a scheme approved under Professional Services Legislation
+EY | 6
+
+Input parameter
+Scenarios
+Step Change Slower Growth Accelerated
+Transition
+Victoria policies
+Victoria Renewable Energy Target (VRET) – 40% by
+2025, 65% by 2030 and 95% by 2035
+Victoria Energy Storage Target – 2.6 GW by 2030 and
+6.3 GW by 2035
+Victoria Offshore Wind Target – 2 GW by 2032, 4 GW by
+2035 and 9 GW by 2040
+Consistent with 2025 IASR Workbook77.
+Tasmanian Renewable Energy Target (TRET)
+100% by 2022, linear trajectory from the mid-2020s to
+150% available renewable generation by 2030 and 200%
+by 2040 as a percentage of 2020 demand in Tasmania.
+Inclusive of energy spilled in order to achieve a solution
+in the no Marinus case. The trajectory can be exceeded if
+part of the least cost solution.
+Consistent with 2025 IASR Workbook77.
+NSW Electricity Infrastructure Roadmap
+NSW Roadmap, with at least the same amount of
+electricity as 8 GW in New England, 3 GW in the Central
+West Orana (CWO) REZ and 1 GW of additional capacity
+and 2 GW of long duration storage (8 hrs or more) by
+2029-30. 28 GWh of storage capacity by 2033-34.
+Consistent with 2025 IASR Workbook77.
+South Australia policy
+South Australia net renewable generation target – 100%
+net renewable energy generation in 2026-27 formulated
+as net export flows greater than or equal to fossil-fuel
+generation.
+Consistent with 2025 IASR Workbook77.
+Victorian SIPS
+300 MW/450 megawatt-hour (MWh), 250 MW for SIPS
+service during summer. In the summer months the
+remaining 50 MW can be deployed in the market on a
+commercial basis, in the winter months the full capacity
+is available. From April 2032 the full capacity is available
+to the market.
+Consistent with 2025 IASR Workbook77.
+EnergyConnect Commissioned by July 2027 based on 2025 IASR
+Workbook7.
+Western Renewables Link Commissioned by July 2027 based on Transmission
+Augmentation Information December 202412.
+HumeLink
+Commissioned
+by July 2029
+based on 2024
+ISP13.
+Commissioned
+by July 2030
+based on 2024
+ISP13.
+Commissioned by
+July 2029 based
+on 2024 ISP13.
+Central-West Orana REZ Transmission Commissioned by 1 Aug 2028 based on Transmission
+Augmentation Information December 202412.
+New-England REZ Transmission Earliest in service date advised by proponent:
+
+12
+ AEMO, 13 December, NEM Transmission Augmentation information December 2024. Available at
+https://aemo.com.au/energy-systems/electricity/national-electricity-market-nem/nem-forecasting-and-
+planning/forecasting-and-planning-data/transmission-augmentation-
+information#:~:text=The%20Transmission%20Augmentation%20Information%20workbook%20contains%20info
+rmation%20for,%28ESOO%29%20and%20Inputs%2C%20Assumptions%20and%20Scenarios%20Report%20%28I
+ASR%29. Accessed 15 October 2025
+13
+ AEMO, 26 June 2024, 2024 Integrated System Plan. Available at https://aemo.com.au/energy-
+systems/major-publications/integrated-system-plan-isp/2024-integrated-system-plan-isp Accessed
+15 October 2025
+--- PDF page 10 ---
+
+
+A member firm of Ernst & Young Global Limited
+Liability limited by a scheme approved under Professional Services Legislation
+EY | 7
+
+Input parameter
+Scenarios
+Step Change Slower Growth Accelerated
+Transition
+▪ New England REZ Transmission Link 1 commissioned
+by 1 July 2032
+▪ New England REZ Transmission Link 2 commissioned
+by 1 January 2034
+Transmission Augmentation Information December
+202412.
+Marinus Link
+As per MLPL assumptions. The first stage of Marinus
+Link commissioned by 1 January 2030 and the second
+stage of Marinus Link commissioned by 1 July 2034
+Queensland-New South Wales Interconnector (QNI) Connect Commissioned by July 2034 based on 2024 ISP1313.
+Victoria-New South Wales Interconnector (VNI) West
+Commissioned
+by December
+2029 based
+on
+Transmission
+Augmentation
+Information
+December
+20241212.
+Commissioned by
+July 2034 based
+on 2024 ISP1313.
+Commissioned
+by July 2030
+based on 2024
+ISP1313.
+Discount rate 7% real, pre-tax
+
+3.1 Differences in assumptions from the Main Report
+The input assumptions used for modelling in the Main Report were primarily based on the Draft
+2025 IASR Stage 214. Since publication, AEMO has released the Final 2025 IASR15. This Addendum
+Report incorporates updates from the Final 2025 IASR15 deemed to have the most material impact
+on gross market benefits due to the magnitude of change and/or relevance to mainland and
+Tasmania interactions in the model. Where there are differences in assumptions from the Final 2025
+IASR, these are outlined in Section 3.2.
+In addition, there were some new assumptions introduced in the Draft 2025 IASR Stage 214 not
+captured in the Main Report modelling due to time constraints which are now included. The
+differences in assumptions are summarised in Table 4 ordered based on estimated magnitude of
+impact from highest to lowest.
+Table 4: Differences in assumptions from the 4 September 2025 Main Report
+Input parameter Overview of differences
+Renewable generator
+availability profiles
+▪ Increases in wind capacity factors on the mainland. Mixed changes in Tasmania with an
+increase in capacity factor for North West Tasmania and decreases for Central Highlands
+and North East Tasmania.
+
+14
+ AEMO, 28 February 2025, Draft 2025 Inputs and Assumptions Workbook v7.2. Available at:
+https://www.aemo.com.au/consultations/current-and-closed-consultations/2025-iasr. Accessed 15 October
+2025
+15
+ AEMO, 28 August 2025, 2025 Inputs and Assumptions Workbook v7.4. Available at:
+https://www.aemo.com.au/consultations/current-and-closed-consultations/2025-iasr. Accessed 15 October
+2025
+
+--- PDF page 11 ---
+
+
+A member firm of Ernst & Young Global Limited
+Liability limited by a scheme approved under Professional Services Legislation
+EY | 8
+
+Input parameter Overview of differences
+Hydrogen load
+▪ Modelled with minimum utilisation factors and accounts for capex cost aligned with
+Alkaline Electrolyser in the 2025 IASR workbook15.
+▪ Annual hydrogen consumption updated – including new desalination component;
+increased hydrogen demand in the NEM, decrease in Tasmania in the short term.
+Committed and
+anticipated generation
+▪ Additional committed and anticipated units as per AEMO July 2025 Generation
+Information16.
+▪ 1,241 MW of CIS Tender 417 wind and solar generators committed as new entrant
+capacity for Queensland. This was not considered committed in the IASR Workbook
+v7.415 as Tender 4 winners were announced after publication.
+Tasmania REZ model
+Tasmania REZ transmission limits and optional expansion cost updates. Changes include:
+▪ Central Highlands (T3) REZ initial transmission limit updated to 702 MW from 527 MW
+(summer).
+▪ No optional expansion of REZ transmission capacity for Central Highlands or North West
+Tasmania without Marinus since Marinus Stage 1 is a prerequisite.
+▪ No increase in Central Highlands REZ transmission capacity with Marinus Link Stage 1.
+The Main Report increased limits by 690 MW from 1 July 2029.
+
+Changes in costs for optional transmission expansion with Marinus:
+▪ Central Highlands
+▪ $0.40m/MW for up to an additional 555 MW
+▪ $0.76m/MW for up to an additional 690 MW
+▪ North West Tasmania
+▪ $0.31m/MW for up to an additional 800 MW
+▪ $1.03m/MW for up to an additional 800 MW
+Victoria REZ model
+New entrant generator capex, transmission limits and modifiers and transmission
+augmentation costs, renewable generator availability profiles updated to reflect Victorian
+Transmission Plan as represented in the 2025 IASR Workbook15.
+Optional transmission
+expansion
+Transmission expansion cost trajectories vary annually according to IASR ‘REZ cost
+forecasts’ sheet and upper build limits set by ‘REZ augmentations options’ sheet.
+Queensland Renewable
+Energy Target (QRET) QRET removed.
+NEM carbon budgets Overall reduction in carbon budget.
+Technology costs Updates to capex costs, locational factors, FOM and VOM NEM wide.
+REZ renewable resource
+limits Increases in Central-West Orana (N3) and South West NSW (N5) resource and land limits.
+CIS clean dispatchable
+capacity target
+Expanded target and new committed and anticipated projects added to count towards the
+target. Removed trajectory to 2030 with single year target.
+NSW Electricity
+Infrastructure Roadmap
+▪ Removal of trajectory to 2030 with single year target.
+▪ Updates to constraint calculations to include consideration of new committed and
+anticipated units.
+
+16
+ AEMO, 1 August 2025, NEM July 2025 Generation Information. Available at https://aemo.com.au/energy-
+systems/electricity/national-electricity-market-nem/nem-forecasting-and-planning/forecasting-and-planning-
+data/generation-information. Accessed 15 August 2025
+17
+ Department of Climate Change, Energy, the Environment and Water, 9 October 2025, Capacity Investment
+Scheme Tender 4 to deliver 6.6GW of clean energy. Available at: https://www.dcceew.gov.au/about/news/cis-
+tender-4-deliver-6-6gw-clean-energy. Accessed 21 October 2025
+--- PDF page 12 ---
+
+
+A member firm of Ernst & Young Global Limited
+Liability limited by a scheme approved under Professional Services Legislation
+EY | 9
+
+Input parameter Overview of differences
+Cost of thermal plant
+retirement Increase in thermal retirement cost.
+Generator maintenance  Decreased maintenance rates for OCGTs.
+Forced outage rate Increased coal forced outage rates.
+Technology auxiliaries New entrant renewables and storage now have auxiliaries, updates to other technologies’
+auxiliaries.
+New entrant battery
+degradation rate Increased new entrant battery annual degradation rates.
+Value of Customer
+Reliability (VCR) Updated to new values – generally decreased.
+
+3.2 Differences in assumptions from the 2025 IASR
+The input assumptions outlined in Table 5 are a deviation from the 2025 IASR Workbook18. Several
+of the input assumptions are consistent with those outlined in the Main Report. This approach was
+used to facilitate comparison with earlier modelling and to address limitations of the five-node
+model detailed in the Main Report. Demand assumptions (with the exception of hydrogen load) were
+not updated from the 2024 ESOO to the more recent 2025 ESOO because half-hourly data for the
+2025 ESOO has only been published by AEMO to 30 June 2036.19
+Table 5: Differences in assumptions from the 2025 IASR
+Input parameter
+Scenarios
+Step Change Slower Growth Accelerated
+Transition
+Underlying consumption
+2024 ESOO20 – Step
+Change
+Hydrogen demand
+based on 2025 IASR
+v7.418– Step Change.
+2024 ESOO20 –
+Progressive Change
+Hydrogen demand
+based on 2025 IASR
+v7.418– Slower
+Growth.
+2024 ESOO20 – Green
+Energy Exports
+Hydrogen demand
+based on 2025 IASR
+v7.418– Accelerated
+Transition.
+Group Constraints considering
+intraconnectors: CQ1, SQ1, MN1, SEVIC1,
+SWNSW2 and SWQLD1
+NQ2, NQ3 modelled instead of CQ1 and SQ1 based on 2022 ISP inputs
+and assumptions workbook v3.421.
+MN1 modelled based on 2022 ISP inputs and assumptions workbook
+v3.421.
+
+18
+ AEMO, 28 August 2025, 2025 Inputs and Assumptions Workbook v7.4. Available at:
+https://www.aemo.com.au/consultations/current-and-closed-consultations/2025-iasr. Accessed 15 October
+2025
+19
+ AEMO, 21 August 2025, Electricity Statement of Opportunities: 2025 ESOO Model. Available at:
+https://www.aemo.com.au/energy-systems/electricity/national-electricity-market-nem/nem-forecasting-and-
+planning/forecasting-and-reliability/nem-electricity-statement-of-opportunities-esoo. Accessed 16 October
+2026
+20
+ AEMO, National Electricity and Gas Forecasting. Available at: https://aemo.com.au/energy-
+systems/electricity/national-electricity-market-nem/nem-forecasting-and-planning/forecasting-and-planning-
+data/electricity-forecasting-data-portal. Accessed 15 June 2025
+21
+ AEMO, 30 June 2022, 2022 ISP Inputs, assumptions and scenarios workbook, Available at:
+https://aemo.com.au/energy-systems/major-publications/integrated-system-plan-isp/2022-integrated-
+system-plan-isp. Accessed 16 October 2025
+--- PDF page 13 ---
+
+
+A member firm of Ernst & Young Global Limited
+Liability limited by a scheme approved under Professional Services Legislation
+EY | 10
+
+Input parameter
+Scenarios
+Step Change Slower Growth Accelerated
+Transition
+SEVIC1 based on 2024 ISP 2024 inputs and assumptions workbook
+v6.022.
+SWNSW2 constrains VIC-NSW instead of WNV-SNSW.
+SWQLD1 constraint excluded.
+CIS Tender 4 Queensland winners
+1,241 MW of CIS Tender 423 wind and solar generators committed as
+new entrant capacity for Queensland. This has not been considered
+committed in the IASR Workbook v7.418.
+REZ optional transmission
+Wide Bay and Darling Downs optional transmission expansion and
+transmission limits based on 2022 ISP inputs and assumptions
+workbook v3.421.
+Gippsland Onshore based on 2024 ISP inputs and assumptions
+workbook v6.022.
+REZ capacity factors Solar PV single axis tracking capacity factors based on the Draft 2025
+IASR v7.224.
+Reference years Not incorporating reference years from 2019-20 onwards due to
+unavailability of matched hydro generation data.
+REZ model DREZs omitted.
+REZ dispatch constraints New committed and anticipated BESS units not added to LHS of REZ
+dispatch constraints due to high computational cost.
+
+
+22
+ AEMO, 26 June 2024, 2024 ISP Inputs and Assumptions workbook. Available at
+https://aemo.com.au/energy-systems/major-publications/integrated-system-plan-isp/2024-integrated-
+system-plan-isp. Accessed 16 October 2025
+23
+ Department of Climate Change, Energy, the Environment and Water, 9 October 2025, Capacity Investment
+Scheme Tender 4 to deliver 6.6GW of clean energy. Available at: https://www.dcceew.gov.au/about/news/cis-
+tender-4-deliver-6-6gw-clean-energy. Accessed 21 October 2025
+24
+ AEMO, 28 February 2025, Draft 2025 Inputs and Assumptions Workbook v7.2. Available at:
+https://www.aemo.com.au/consultations/current-and-closed-consultations/2025-iasr. Accessed 15 October
+2025
+--- PDF page 14 ---
+
+
+A member firm of Ernst & Young Global Limited
+Liability limited by a scheme approved under Professional Services Legislation
+EY | 11
+
+4. Forecast gross market benefit outcomes
+4.1 Summary of forecast gross market benefit outcomes
+The forecast gross market benefits of Marinus Link in the three modelled scenarios are summarised
+in Table 6.
+Table 6: Overview of forecast gross market benefits of Marinus Link over the Modelling Period discounted to
+1 July 2025, excluding the value of emissions savings. All dollars are presented in $million, real June 2025.
+Marinus Link
+size Marinus Link timing Step Change Slower Growth Accelerated
+Transition
+1,500 MW Stage 1 2030 & Stage 2 2034 $6,001 $4,607 $6,754
+750 MW Stage 1 2030 $5,126 $3,430 $6,251
+
+The forecast gross market benefits of each scenario must be evaluated by comparison to the cost of
+Marinus Link to determine the forecast net economic benefit of each option. This evaluation is not
+part of our scope and hence has not been included in the Main Report or in this Addendum Report.
+Although the forecast gross market benefits remain substantial, they have decreased for the Step
+Change and Slower Growth (previously Progressive Change) scenarios compared to the Main Report.
+As shown in Figure 2, the difference in forecast benefits between the two scenarios is also bigger. In
+Figure 2, the forecast gross market benefits from the Main Report have been adjusted for CPI from
+June 2024 dollars to June 2025 dollars and discounted to July 2025.
+The Accelerated Transition scenario was not modelled in the Main Report, so in Figure 2 a
+comparison is instead made to the previous assessment of the Green Energy Exports scenario in
+March 202425. The March 2024 forecast gross market benefits for Green Energy Exports were
+reported in June 2023 dollars discounted to July 2023 and were assessed over a modelling period
+of 2024-25 to 2049-50 for assumed Marinus Link Stage 1 and 2 commissioning of 1 October 2029
+and 1 July 2033 respectively. In Figure 2, these values have been adjusted for CPI to June 2025
+dollars and discounted to July 2025 to be broadly comparable. However, because the Modelling
+Period and Marinus Link entry dates differ, caution is required when making this comparison.
+
+25
+ EY, 28 March 2024, Gross market benefits assessment of Marinus Link. Available at:
+https://www.marinuslink.com.au/wp-content/uploads/2024/04/EY-report-Project-Marinus-Gross-Benefits-28-
+March-2024.pdf. Accessed 16 October 2025
+--- PDF page 15 ---
+
+
+A member firm of Ernst & Young Global Limited
+Liability limited by a scheme approved under Professional Services Legislation
+EY | 12
+
+Figure 2: Forecast gross market benefits of Marinus Link Stage 1, in 2030 and Stage 2, in 2034 over the
+Modelling Period discounted to 1 July 2025. All dollar values are presented in $million real June 2025
+
+The main drivers for these movements in benefits in relation to updates to the input assumptions in
+AEMO’s Final 2025 IASR are outlined below:
+▪ One of the sources of benefits of Marinus Link identified in previous assessments is high
+capacity factor wind resource in Tasmania. This resource is captured through capacity built
+to meet TRET that is able to be exported to the mainland with Marinus Link and offsets the
+need for higher cost mainland renewable capacity. Relative to the assumptions in the Main
+Report, the assumptions in the Final 2025 IASR (which have been adopted in this Addendum
+Report) mean that mainland wind has been assumed to increase in competitiveness relative
+to Tasmanian wind due to increased capacity factors for wind in most mainland REZs
+compared to mixed increases and decreases in Tasmania. This is shown in
+▪ Figure 3. Tasmanian wind remains the highest capacity wind resource but by a smaller
+margin than in previous modelling studies. With these changes, less renewable capacity is
+required to meet demand and policy targets, and more of the renewable capacity is built on
+the mainland. Consequently, the forecast benefits of Marinus Link associated with reducing
+or deferring investment in new renewable capacity on the mainland has also reduced relative
+to the Main Report.
+0
+1000
+2000
+3000
+4000
+5000
+6000
+7000
+8000
+Step Change Slower Growth/Progressive
+Change
+Accelerated Transition/Green
+Energy Exports
+Gross market benefits ($m, NPV)
+Main Report Addendum Report
+March 2024 Report
+--- PDF page 16 ---
+
+
+A member firm of Ernst & Young Global Limited
+Liability limited by a scheme approved under Professional Services Legislation
+EY | 13
+
+Figure 3: Distribution of the average capacity factor over 9 reference years for new entrant of the wind high
+technology in all REZs in each region26,28
+
+▪ There is significantly more renewable capacity and storage forecast to be commissioned on
+the mainland in all cases. Firstly, there are additional committed and anticipated renewable
+and storage units on the mainland. Furthermore, there is significant additional new capacity
+forecast to meet the assumed CIS 2030 minimum generation capacity targets, CIS 2030
+dispatchable capacity target and the New South Wales 2030 long-duration storage target.
+ The scale of this difference is depicted in Figure 4 for the Slower Growth/Progressive
+Change scenario where the change is most apparent. The CIS region-based minimum
+generation targets were newly introduced compared to the Draft Stage 2 IASR
+Workbook27 and the CIS dispatchable capacity target has also increased from 7. 59 GW
+in the Draft Stage 2 IASR Workbook27 to 11.23 GW in the 2025 IASR Workbook28.
+ Additional assumed new entrant renewable capacity on the mainland reduces the
+amount of capacity that can be avoided or deferred with Marinus Link. This effect is
+especially prominent in the Slower Growth scenario as it has the lowest forecast share
+of renewables out of all scenarios. The amount of additional committed capacity is
+proportionally larger for Slower Growth due to its lower assumed demand. This
+additional committed renewable and storage capacity is the principal driver of the
+reduction in forecast gross market benefits in the Slower Growth scenario relative to
+the Progressive Change scenario in the Main Report.
+
+26
+ AEMO, 8 September 2023, 2023 IASR Assumptions Workbook v5.2. Available at:
+https://www.aemo.com.au/consultations/current-and-closed-consultations/2023-inputs-assumptions-and-
+scenarios-consultation. Accessed 15 October 2025
+27
+ AEMO, 28 February 2025, Draft 2025 Inputs and Assumptions Workbook v7.2. Available at:
+https://www.aemo.com.au/consultations/current-and-closed-consultations/2025-iasr. Accessed 15 October
+2025
+28
+ AEMO, 28 August 2025, 2025 Inputs and Assumptions Workbook v7.4. Available at:
+https://www.aemo.com.au/consultations/current-and-closed-consultations/2025-iasr. Accessed 15 October
+2025
+QLD NSW VIC SA TAS
+0%
+10%
+20%
+30%
+40%
+50%
+60%Capacity factor (%)
+0
+5
+10
+15
+20
+25
+30Capacity (GW)
+Main Report (2023 IASR workbook) Addendum Report (2025 IASR workbook)
+--- PDF page 17 ---
+
+
+A member firm of Ernst & Young Global Limited
+Liability limited by a scheme approved under Professional Services Legislation
+EY | 14
+
+Figure 4: Comparison of mainland grid BESS and PHES capacity for the Slower Growth/Progressive Change
+scenario in the Marinus link Stage 1 and 2 case excluding Snowy 2.0 and Borumba.
+a) Installed capacity
+
+
+
+b) Energy capacity
+
+▪ Assumed hydrogen demand has decreased for Tasmania relative to mainland demand across
+all years. This change leads to higher benefits than otherwise as more mainland build can be
+avoided in place of Tasmanian build when Marinus Link unlocks Tasmanian generation.
+However, the other changes listed above outweigh the impact of this change resulting in an
+overall reduction in gross market benefits.
+The Accelerated Transition scenario was not modelled in the Main Report. However , higher demand
+and faster decarbonisation scenarios have been modelled in earlier assessments of Marinus Link
+0
+5
+10
+15
+20
+25
+30Capacity (GW)
+Addendum Report Main Report
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100Storage (GWh)
+Addendum Report Main Report
+--- PDF page 18 ---
+
+
+A member firm of Ernst & Young Global Limited
+Liability limited by a scheme approved under Professional Services Legislation
+EY | 15
+
+gross market benefits29. Consistent with those previous studies, gross benefits are forecast to be
+higher in the Accelerated Transition scenario than in the Step Change and Slower Growth scenarios.
+4.2 Forecast benefits from emissions
+
+As in the Main Report, forecast emissions benefits are a byproduct of avoided thermal generation,
+when Tasmanian hydro and wind capacity are unlocked with Marinus Link. The forecast emissions
+savings are valued according to AER’s Valuing emissions reduction documentation30, calculated as a
+post-process to the optimisation. The emissions benefits vary between the scenarios due to
+differences in assumed carbon budget and demand.
+Table 7 shows the forecast gross benefits with associated emissions savings for Marinus Link over
+the 25-year Modelling Period from 2026-27 to 2050-51 for the modelled scenarios.
+Table 7: Overview of scenarios with associated emissions benefits for Marinus Link over the Modelling Period
+discounted to 1 July 2025. All dollars are presented in $million, real June 2025
+Marinus Link
+size Marinus Link timing Step Change Slower Growth Accelerated
+Transition
+1,500 MW Stage 1 2030 & Stage 2 2034 44.92 71.95 9.15
+750 MW Stage 1 2030 26.98 19.47 2.70
+
+In all scenarios, the carbon budget is binding, meaning that both the with and without Marinus Link
+cases produce the same overall amount of emissions in Mt from 2026-27 to 2049-50. This
+represents a significant reduction in forecast emissions benefits for the Slower Growth scenario
+relative to the Progressive Change forecast in the Main Report, where previously the emissions
+budget was not binding, allowing room for a decrease in total forecast emissions with Marinus Link
+which led to large forecast emissions benefits of up to $3,835m. This change in emissions outcomes
+from the Main Report is attributed to the reduction in emissions budget in the 2025 IASR of 727 Mt
+CO2-e from 797 Mt CO2-e in the Draft 2025 IASR Stage 2. Binding carbon budgets allow less
+flexibility in coal generation between cases with and without Marinus Link, reducing the opportunity
+for Tasmanian generation to displace coal generation on the mainland with Marinus Link. In the Main
+Report, there are higher levels of emissions-intensive brown coal generation in the Base Case, which
+are partially avoided with Marinus Link. This was not the case in the updated modelling due to the
+carbon budget binding in both cases.
+
+
+29
+ EY, 28 March 2024, Gross market benefits assessment of Marinus Link. Available at:
+https://www.marinuslink.com.au/wp-content/uploads/2024/04/EY-report-Project-Marinus-Gross-Benefits-28-
+March-2024.pdf. Accessed 16 October 2025
+30
+ AER, May 2024, Valuing emissions reduction AER guidance and explanatory statement. Available at:
+https://www.aer.gov.au/system/files/2024-05/AER%20-%20Valuing%20emissions%20reduction%20-
+%20Final%20guidance%20and%20explanatory%20statement%20-%20May%202024.pdf. Accessed 24 June
+2025
+--- PDF page 19 ---
+
+
+
+EY  |  Building a better working world
+
+EY is building a better working world by creating
+new value for clients, people, society and the
+planet, while building trust in capital markets.
+
+Enabled by data, AI and advanced technology,
+EY teams help clients shape the future with
+confidence and develop answers for the most
+pressing issues of today and tomorrow.
+
+EY teams work across a full spectrum of
+services in assurance, consulting, tax, strategy
+and transactions. Fueled by sector insights,
+a globally connected, multidisciplinary network
+and diverse ecosystem partners, EY teams can
+provide services in more than 150 countries
+and territories.
+
+All in to shape the future with confidence.
+EY refers to the global organization, and may refer to one or more,
+of the member firms of Ernst & Young Global Limited, each of which
+is a separate legal entity. Ernst & Young Global Limited, a UK
+company limited by guarantee, does not provide services to clients.
+Information about how EY collects and uses personal data and a
+description of the rights individuals have under data protection
+legislation are available via ey.com/privacy. EY member firms do
+not practice law where prohibited by local laws. For more
+information about our organization, please visit ey.com.
+About EY-Parthenon
+Our unique combination of transformative strategy, transactions
+and corporate finance delivers real-world value – solutions that
+work in practice, not just on paper.
+
+Benefiting from EY’s full spectrum of services, we’ve reimagined
+strategic consulting to work in a world of increasing complexity.
+With deep functional and sector expertise, paired with innovative
+AI-powered technology and an investor mindset, we partner with
+CEOs, boards, private equity and governments every step of the
+way – enabling you to shape your future with confidence.
+
+EY-Parthenon is a brand under which a number of EY member firms
+across the globe provide strategy consulting services. For more
+information, please visit www.ey.com/parthenon.
+
+© 2025 Ernst & Young, Australia
+All Rights Reserved.
+Ernst & Young is a registered trademark.
+Liability limited by a scheme approved under Professional Standards
+Legislation.
+ey.com
+
+

@@ -1,0 +1,1687 @@
+
+===== PDF PAGE 1 =====
+  
+ 
+Project EnergyConnect 
+An application to reopen the 2023-2028 Revenue Determination 
+ 
+Peop/e. Power. Possibilities. 
+===== PDF PAGE 2 =====
+ 
+ii  | Project Energy Connect | An application to reopen the 2023-2028 Revenue Determination 
+ Official
+ABN 70 250 995 390 
+180 Thomas Street, Sydney 
+PO Box A1000 Sydney South 
+NSW 1235 Australia 
+T (02) 9284 3000 
+F (02) 9284 3456 
+ 
+February 2026 
+Clare Savage,  
+Chair, Australian Energy Regulator 
+Level 17 Casselden, 2 Lonsdale Street  
+Melbourne VIC 3000 
+Lodged online: aerinquiry@aer.gov.au  
+Dear Clare,  
+Project EnergyConnect – Reopener Application 
+Project EnergyConnect (PEC) is a nation-critical project, which is vital to Australia's transition to renewable 
+energy and the achievement of State and Federal emissions reduction targets. It is the largest transmission 
+project underway in Australia and will deliver welcome savings to energy consumers  across the N ational 
+Electricity Market (NEM). 
+By connecting South Australia, New South Wales and Victoria, PEC will address the weak interconnection 
+across the NEM and unlock the South-West Renewable Energy Zone (REZ), thereby facilitating 3.5 GW of 
+new renewable generation ahead of coal -fired generator closures. For consumers, PEC means improved  
+reliability and reduced electricity costs in all three states  – supporting shared generation and increas ed 
+access to high-quality renewable resources.  
+At the start of this year, we confirmed that the forecast cost to deliver PEC had increased to $3.6 billion. We 
+have heard directly through our stakeholder engagement about the importance of keeping network costs as 
+low as possible , particularly given the  affordability issues facing  many households. In relation to PEC , 
+however, the Australian Energy Market Operator (AEMO) has consistently identified it as an urgently needed, 
+actionable project in each of its Integrated System Plans (ISPs) since 2020. As such, consumers in NSW, 
+South Australia and Victoria are better off with PEC – and the sooner the better – because its capital costs 
+will be more than offset by savings in wholesale energy prices. 
+I am pleased to confirm that updated independent modelling conducted by EY shows that PEC is expected 
+to deliver total gross market benefits of $4.2 billion and net market benefits of $964 million in present value 
+terms. Reassuringly, this analysis confirms that, despite the increased costs to deliver th is critical 
+interconnector project, it remains the best option for meeting consumers' future energy needs. In addition, 
+even at the higher cost to complete,  the construction cost for PEC benchmarks favourabl y against other 
+transmission projects.  
+Transgrid is submitting the attached Application in relation to PEC, in accordance with the capital expenditure 
+reopener provisions in Clause 6A.7.1(a) of the National Electricity Rules (NER). This Application is necessary 
+because significant external factors outside Transgrid’s control impacted the contractor’s ability to deliver the 
+project in accordance with the competitively determined contractual terms and conditions. These factors 
+===== PDF PAGE 3 =====
+ 
+iii  | Project Energy Connect | An application to reopen the 2023-2028 Revenue Determination 
+ Official
+included floods in N ew South Wales, labour shortages, project delays and hyper -inflation, all of which 
+combined to severely impact the contractor.  
+Transgrid refers to this event as Contract Failure. Specifically, the accumulation of adverse circumstances 
+affecting PEC, which became apparent in the period between August to October 2023, required Transgrid’s 
+Board to recognise and accept on 25 October 2023 that the construction of PEC would not be completed by 
+the competitively procured contractor, Secure Energy Joint Venture (SEJV), under the existing Engineering, 
+Procurement and Construction (EPC) contract. Furthermore, if PEC was to proceed and deliver the expected 
+consumer benefits, an alternative contractual arrangement would be necessary. Transgrid has adopted the 
+term ‘Contract Failure’ to capture these circumstances in a simple expression that can be readily understood. 
+As explained in this Application, at every stage of the process Transgrid has acted to protect the interests of 
+consumers and deliver PEC at the lowest cost  and with minimal delay. The evidence shows that the initial 
+decision to enter into the EPC contract and our management of that contract reflected good industry practice. 
+Following the Contract Failure, we continued to hold our contractor to account, while fully exploring all options 
+including engaging alternative contractors to deliver the project. Ultimately, Transgrid concluded that the best 
+option was to establish new contractual arrangements with Elecnor Australia Pty Ltd (Elecnor Australia) to 
+deliver PEC at the lowest cost and as soon as practicable for the benefit of consumers. 
+Throughout this process, we considered independent technical, legal, and accounting advice to ensure that 
+Transgrid’s approach delivers the best outcome for consumers. Benchmarking analysis undertaken by 
+KPMG demonstrates that while the costs of delivering PEC have increased from the initial estimates , the 
+latest forecast project costs compare very favourably with other large transmission projects in Australia. While 
+benchmarking is notoriously challenging where project design requirements and terrain differ markedly, PEC 
+is expected to be cheaper than HumeLink, VNI West, and the transmission investments associated with the 
+REZ developments in the Hunter Valley and Central-West Orana. Transgrid is therefore confident that it has 
+achieved value for money on behalf of consumers. 
+In taking action to address Contract Failure, Transgrid has consistently acted in consumers’ best interests, 
+despite the uncertainty and costs in doing so. Even after allowing for the financial relief provided by this 
+Application, we estimate that shareholders will face losses in the region of $130  million, through a 
+combination of increased financing costs and potential penalties that may apply under the AER ’s Capital 
+Expenditure Sharing Scheme (CESS). Furthermore, Transgrid’s Board (with the support of the shareholders) 
+committed to the increased project costs of delivering PEC without first seeking assurance from the AER in 
+relation to the cost recovery arrangements. Transgrid’s Board and s hareholders adopted that approach 
+because to do otherwise would have led to avoidable delays in the project, higher project costs and 
+appreciably reduced net benefits for consumers. 
+In preparing this Application, we have engaged extensively with the Transgrid Advisory Council (TAC), which 
+is o ur principal stakeholder engagement forum  comprising energy consumers, business and industry 
+representatives. During six deep dive sessions and a further facilitated workshop, we have listened to the 
+range of views expressed by TAC members and provided a draft Application for feedback. Transgrid is 
+grateful to the TAC for its invaluable feedback  which has been reflected in this Application. Details of our 
+engagement, including the views of the TAC members and Transgrid’s responses , are provided in 
+Attachment 1 to our Application. 
+Transgrid remains committed to delivering PEC and achieving the best possible outcome for consumers – 
+and the actions taken by Transgrid as described in this Application provide a clear demonstration of that 
+===== PDF PAGE 4 =====
+ 
+iv  | Project Energy Connect | An application to reopen the 2023-2028 Revenue Determination 
+ Official
+commitment. Transgrid looks forward to working with the AER and our stakeholders in progressing this 
+Application as we continue to work to deliver PEC. 
+Yours faithfully 
+ 
+ 
+Brett Redman 
+Chief Executive Officer
+
+===== PDF PAGE 5 =====
+ 
+1  | Project Energy Connect | An application to reopen the 2023-2028 Revenue Determination 
+ Official
+Contents 
+1. Introduction and background ............................................................................................................... 2 
+1.1 Project overview ..................................................................................................................................... 3 
+1.2 New contractual arrangements .............................................................................................................. 5 
+1.3 Purpose of this document ...................................................................................................................... 6 
+1.4 Rules compliance ................................................................................................................................... 8 
+1.5 Regulatory principles .............................................................................................................................. 9 
+1.6 Stakeholder engagement ..................................................................................................................... 10 
+1.7 Structure of this Application ................................................................................................................. 12 
+2. Event definition, causes and rectification ......................................................................................... 14 
+2.1 Event definition ..................................................................................................................................... 15 
+2.2 Causes of the event ............................................................................................................................. 15 
+2.3 Rectification options ............................................................................................................................. 18 
+2.3.1 Engaging an alternative contractor ............................................................................................... 20 
+2.3.2 Establishing new contractual arrangements with Elecnor Australia ............................................. 22 
+2.4 Options analysis ................................................................................................................................... 24 
+3. Forecast capital expenditure and reopener amount ........................................................................ 26 
+3.1 Forecast capital expenditure and reopener amount ............................................................................ 26 
+3.2 ICC contract cost .................................................................................................................................. 27 
+3.3 Other project costs ............................................................................................................................... 28 
+4. Revenue and pricing implications ...................................................................................................... 31 
+4.1 Revised annual building block revenue requirement and expected MAR ........................................... 31 
+4.2 Customer bill impact of PEC ................................................................................................................ 32 
+5. Next steps .............................................................................................................................................. 34 
+ 
+===== PDF PAGE 6 =====
+ 
+2  | Project Energy Connect | An application to reopen the 2023-2028 Revenue Determination 
+ Official
+1. Introduction and background  
+Key points 
+• PEC will deliver substantial benefits to consumers as it plays a central role in the future 
+development of the national transmission system, including by making an important contribution 
+to achieving the Federal and State targets for renewable generation and emissions reductions , 
+and maintaining security and reliability of supply. 
+• AEMO has identified PEC as an urgently needed, actionable ISP project in each ISP since 2020. 
+The New South Wales Government has also demonstrated its support for PEC through various 
+initiatives to facilitate the project's construction and integration into the State's energy grid. This 
+support from the national transmission planner and the N ew South Wales Government 
+underscores the importance of the project for the NEM, the State and consumers. 
+• Transgrid has remained committed to the successful delivery of PEC, despite a number of 
+significant challenges that have led to delays and increased costs. In June 2021, Transgrid 
+entered into a fixed price EPC contract with SEJV to deliver PEC. Subsequently, a series of 
+external factors severely  impacted the ability of SEJV to deliver PEC in accordance with th e 
+terms and conditions of that contract.    
+• The accumulation of adverse circumstances affecting PEC, which became apparent in the period 
+between August to October 2023, required Transgrid’s Board to recognise and accept on 25 
+October 2023 that alternative contractual arrangements would be necessary if PEC were to 
+proceed. Transgrid has adopted the term ‘Contract Failure’ , which is not a concept of law,  to 
+capture these circumstances in a simple expression that can be readily understood. In response, 
+Transgrid identified and evaluated the alternative options before entering into an Incentivised 
+Completion Cost (ICC) contract to deliver PEC with Elecnor Australia in December 2024. 
+• Following the new contractual arrangements, substantial improvements have been achieved in 
+relation to project delivery, with PEC now running ahead of the agreed project milestones. In 
+addition, local communities are benefiting significantly in terms of employment, training and local 
+housing.  
+• Transgrid is lodging this Application to the AER , which seeks an amendment to Transgrid’s 
+revenue determination to include the increased costs of delivering PEC as a result of the Contract 
+Failure, in accordance with the NER.   
+• Transgrid will continue to engage with the Transgrid Advisory Council  (TAC) and other 
+stakeholders in relation to PEC and this Application.  
+• Amounts are generally provided as real 2023 $ to allow ready comparison back to the revenue 
+determination. Numbers in tables may not add due to rounding. 
+ 
+===== PDF PAGE 7 =====
+ 
+3  | Project Energy Connect | An application to reopen the 2023-2028 Revenue Determination 
+ Official
+1.1 Project overview 
+PEC is a landmark infrastructure project, which will deliver the first new electricity interconnector between 
+Australian states in 15 years. The Australian energy landscape is changing, as we transition away from 
+traditional fossil fuel-based electricity generation to a greater mix of renewable energy sources. The main 
+drivers of this change include: 
+• closure of traditional coal-fired power plants  
+• reduced cost and increasing penetration of renewable energy generation (wind and solar) 
+• Government commitments to reduce carbon emissions, and 
+• demand for more reliable and affordable electricity. 
+Against this backdrop, PEC is a critical piece of transmission infrastructure for the NEM that forms an integral 
+part of AEMO’s Optimal Development Path (ODP), both on its own and in combination with other actionable 
+ISP projects. AEMO makes it clear that any delay in the delivery of actionable ISP projects, such as PEC, 
+will compromise the most efficient path to maintain reliable and secure electricity supply as coal retires, and 
+as such, all actionable projects should progress “as urgently as possible.”1  
+PEC will facilitate the development of significant renewable generation in New South Wales, South Australia 
+and Victoria and contribute to meeting federal and state renewable generation and emission reduction 
+targets. These targets depend on PEC and other ISP projects to promote the  connection of renewable 
+generation resources and provid e transfer capacity to transport energy across the NEM to meet demand. 
+Without PEC, significant changes to AEMO’s ODP would be required , leading to a slower  and more costly 
+energy transition that would put federal and State Government renewable generation and emissions 
+reduction targets at risk. 
+As shown in Figure 1, PEC will span 900 km connecting New South Wales, South Australia and Victoria . 
+Transgrid is responsible for the N ew South Wales portion of the project, which involves the construction of 
+700 km of transmission line from the New South Wales/South Australia border to Wagga Wagga substation 
+in two sections (Western and Eastern), and two new substations at Buronga and Dinawan. ElectraNet 
+completed the 206 km South Australian portion of the project in December 2023. 
+ 
+ 
+1  AEMO, 2024 Integrated System Plan, June 2024, p.16. 
+===== PDF PAGE 8 =====
+ 
+4  | Project Energy Connect | An application to reopen the 2023-2028 Revenue Determination 
+ Official
+Figure 1: Route map of Project EnergyConnect and key connections 
+ 
+PEC will deliver a range of direct benefits for consumers in S outh Australia, New South Wales and Victoria 
+in terms of savings in wholesale generation costs, and improved energy security and reliability. 2 Based on 
+updated independent modelling conducted by EY, PEC is expected to provide $9 64 million of total net 
+benefits over the life of the project, after allowing for the latest estimate of the total construction costs. In 
+addition to the direct consumer benefits that PEC will provide, the project will facilitate other major 
+transmission projects, which are essential to the future development of the NEM including: 
+• VNI West, which is required to efficiently maintain supply reliability in Victoria following the closure of 
+coal-fired generation and the decreasing reliability of aging generators,3  
+• South West Renewable Energy Zone ( SWREZ), which is required to unlock high -quality renewable 
+generation in south -west NSW 4 and to help support the NEM as we transition away from coal-fired 
+generation, and 
+• HumeLink, which is required to unlock the full capacity of the expanded Snowy Hydro Scheme and enable 
+greater sharing of energy across the eastern states.5 
+As explained in this Application, significant changes to the contractual arrangements for delivering PEC have 
+been necessary following major project challenges, including flooding, labour shortages and hyper-inflation 
+which have combined to materially impact the contractor’s ability to deliver PEC. While the new contractual 
+arrangements will result in  cost increases  for consumers,  they have also brought about substantial 
+ 
+ 
+2  Appendix 6a provides a detailed explanation of the reliability and security of supply benefits provided by PEC.   
+3  AEMO, 2024 Integrated System Plan, Appendix 5 Network Investments, June 2024, p. 44. 
+4   AEMO, Draft 2026 Integrated System Plan, Appendix 5 Network Investments, December 2025, p. 41. 
+5  AEMO, 2024 Integrated System Plan, Appendix 5 Network Investments, June 2024, p. 22.  
+Adelaide 
+legend 
+• • • SA-NSWln ~IOfR~ 
+EnergyConnect 
+• JOO w n. bltwftn liloblrlRown Ind Wegoa w~ 
+au_,......,_..,_c 220,v1nO 
+• EffklfW ctlPIK•fY ec,ou b01h intierconnecton 
+M1.lOO WA 
+Bundey 
+cP .. _ . . Buronga 
+------o 
+Robertstown Q • • EnergyConnect 
+Sydney 
+Humelink ,.... 
+Red Cliffs Wagga Wagga 
+VNI West ~ .. -:: .. o ----·M·--0-······ . .-·-
+Dlnawan Canberra 
+VIC 
+Melbourne 
+===== PDF PAGE 9 =====
+ 
+5  | Project Energy Connect | An application to reopen the 2023-2028 Revenue Determination 
+ Official
+improvements in resourcing and productivity which had become constrained as the contractor faced severe 
+challenges. 
+Figure 2 provides a snapshot of the recent progress in project delivery and the wider economic benefits that 
+are being obtained by the local communities that are supporting the delivery of PEC. 
+Figure 2: Recent project developments and community benefits (December 2025, $m nominal) 
+ 
+Transgrid remains committed to the successful delivery of PEC, despite a number of significant challenges 
+that have led to delays and increased costs. The New South Wales Government has also demonstrated its 
+commitment to PEC by providing support, including through initiatives such as the Strategic Benefit Payments 
+Scheme, which provides financial compensation to private landowners hosting transmission infrastructure.  
+The support for PEC from the N ew South Wales Government and AEMO reinforces the importance of its 
+timely delivery for the NEM, the State and its consumers. Further detailed information on PEC, including the 
+project chronology, is provided in Attachment 2 to this Application. 
+1.2 New contractual arrangements 
+Elecnor Australia is the contractor with responsibility for delivering PEC in accordance with an ICC contract, 
+which was executed in December 2024.  These contractual arrangements replace d the EPC contract that 
+was originally awarded to SEJV in June 202 1, following a competitive tender process. SEJV was a  joint 
+venture between Elecnor Australia and Clough Projects Australia Pty Ltd (Clough). 
+Following the execution of the EPC contract, a number of factors materially impacted the ability of SEJV to 
+deliver PEC. As a result, o n 25 October 2023,  Transgrid’s Board recognised and accepted that the 
+construction of PEC would not be completed by SEJV under the existing EPC contract  and, if the project 
+were to proceed, an alternate arrangement to delivery under the EPC contract would be necessary. The 
+subsequent decision to enter into an ICC contract with Elecnor Australia is explained in further detail in 
+Chapter 2 and Attachment 3 to this Application. 
+As shown in Figure 3 below, the ICC contract includes substantially different terms and conditions compared 
+to the EPC contract, including an increased contract price; an enhanced management role for Transgrid; and 
+protection arrangements that are unprecedented in the Australian market.  Further information on the ICC 
+contract is provided in section 2.3.2 and Attachment 4 to this Application.   
+100 % 
+100 % 
+100 % 
+PEC stage one is now complete, connecting Robertstown and Buronga, 
+unlocking 150MW in transfer capacity. 
+Buronga substation has been successfully energised, which is the largest 
+and most complex substation in the Southern Hemisphere. 
+Local Communities 
+have benefited significantly 
+Places for on- Scholarships 
+the-job (§ for 
+transmission- _ 1 Q Q _ engineering 
+line students at 
+construction Charles Sturt 
+workers University 
+Dedicated worker camps at 
+Booroorban, Bundure, Lockhart and 
+Balranald - relieving pressure on 
+local housing. 
+m 
+invested in 
+3 3 
+Local and 
+First Nations 
+Businesses 
+===== PDF PAGE 10 =====
+ 
+6  | Project Energy Connect | An application to reopen the 2023-2028 Revenue Determination 
+ Official
+Figure 3: Comparison of ICC and EPC contract6 
+ 
+  
+Transgrid’s decision to execute the ICC contract at a substantially increased price without delaying the project 
+to first secure regulatory approval demonstrates our commitment to delivering PEC. As explained in Chapter 
+2 of this Application, Transgrid considered alternative options, such as contract termination, that would have 
+protected Transgrid’s commercial position, but exposed consumers to the cost of significant project delays. 
+Transgrid rejected these alternative options in favour of an approach that maximise s the overall benefit for 
+consumers. 
+1.3 Purpose of this document  
+In April 2023, the AER made its determination on Transgrid’s total regulated revenue for the regulatory period 
+from 1 July 2023 to 30 June 2028. In that determination, the capital expenditure allowance provided by the 
+AER included an amount in relation to PEC that reflected the forecast costs of delivering PEC under the EPC 
+contract. As explained in the previous section, the EPC contract was subsequently replaced by a new ICC 
+contract in December 2024 with substantially different terms and conditions.  While the AER’s revenue 
+determination was set on the basis that PEC would be delivered in accordance with the EPC contract , that 
+assumption has not eventuated. 
+Table 1 shows Transgrid’s revised forecast total capital expenditure to deliver PEC under the ICC contract 
+compared to the inflation adjusted PEC Contingent Project Allowance (CPA) determined by the AER . The 
+table shows that the majority of the increase in capital expenditure required to deliver PEC relates to the new 
+contract costs.  
+ 
+ 
+6 The EPC contract value of $1,607 million includes $ 103 million  of provisional sums . The EPC contract value excluding 
+provisional sums is $1,504 million.  
+EPC 
+Contract 
+'Turnkey' arrangement in 
+which the contractor plans, 
+designs and delivers a fully 
+operational project on behalf 
+of the owner 
+Fixed price 
+($1,607 million) 
+Real$2023 
+U mited control and risk 
+management capability 
+Price 
+Fixed price 
+($2,967 million) 
+Real$2023 
+An expanded role for Transgrid 
+as an 'Active Client ' 
+Active Client Role 
+Bank and parent company 
+guarantees (10% and 50% 
+of contract price 
+respectively) 
+Visibility limited by 
+nature of EPC Contract 
+- no rights to proJect or 
+business accounts 
+Operational oversight 
+limited by nature of EPC 
+Contract - primarily 
+program and progress 
+reporting 
+® 
+Protections 
+@ 
+Transparency 
+@ 
+KPls and 
+Management 
+$400m (nominal) Escrow Account 
+for access at Transgrid's discretion 
+Rebased guarantees for revised 
+contract price 
+Audit rights allowing open 
+book access to systems, 
+accounts and payments , incl. 
+auditing compliance with 
+contractor's obligations relating 
+to the project trust accounts 
+Achievement of specified 
+milestones and KPls linked 
+to Escrow Account 
+World-class leadership 
+resourcing requirement 
+ICC 
+Contract 
+Bespoke arrangement with 
+high degree of visibility, 
+control and risk management 
+capability afforded to owner, 
+unique in the market 
+===== PDF PAGE 11 =====
+ 
+7  | Project Energy Connect | An application to reopen the 2023-2028 Revenue Determination 
+ Official
+Table 1: Revised capital expenditure forecasts for PEC ($m, 2022/23) 
+ 
+Current Forecast CPA Allowance7 Forecast Increase 
+Contract costs  2,967 1,634 1,333 
+Other project costs  661 487 174 
+Total 3,628 2,121 1,507 
+The regulatory framework provides a mechanism for the AER to reopen its revenue determination if a TNSP’s 
+capital expenditure requirements have increased materially as a result of ‘an event’ that has occurred during 
+the regulatory period. However, the amount that can be included in a reopener Application must be limited 
+to increases that have been caused by the event. For example, it is not permissible to include cost increases 
+that are unrelated to the event, such as cost increases that occurred prior to that event.  
+The event referred to in this Application to reopen the 2023-2028 revenue determination is a Contract Failure, 
+which is described in Chapter 2. ‘Contract Failure’ is a short-hand label, which is not a concept of law, that 
+Transgrid has given to the event so that it can be readily captured in a simple expression. 
+The proposed reopener amount is $1,142 million, which is $365 million or approximately 24% lower than the 
+total forecast increase in Transgrid’s costs. Transgrid’s shareholders have funded the total PEC overspend 
+at the cost of equity rather than the regulated WACC, and this will continue until the overspend is included in 
+Transgrid’s RAB. The total net cost to shareholders, including financing costs and expected penalties under 
+the CESS, is estimated to be approximately $130 million (assuming the reopener amount is accepted and 
+the standard CESS penalty applies to the overspend amount, which is expected to be $365 million, as noted 
+above).  
+Transgrid’s actual capital expenditure , including the overspend amount , will be reviewed by the AER in 
+making its revenue determination for the 2028-2033 regulatory period. Only capital expenditure that the AER 
+determines to be prudent and efficient will be recovered from consumers.  Shareholders are therefore 
+exposed to further financial penalties if any expenditure is found not to be prudent and efficient.8  
+ 
+ 
+7 The AER’s allowance for Contract Costs of $1,634 million includes escalation for the longer project duration and higher than 
+expected inflation and, therefore, exceeds the EPC contract value of $1,607 million. Section 3.2 of this Application explains 
+that the AER's allowance is the base from which the increase in Contract Costs is measured. 
+8  As per the AER’s 2025 Capital Expenditure Incentive Guidelines, the application of CESS can vary in limited circumstances 
+at the AER’s discretion.   
+===== PDF PAGE 12 =====
+ 
+8  | Project Energy Connect | An application to reopen the 2023-2028 Revenue Determination 
+ Official
+1.4 Rules compliance  
+As explained in this Application, Transgrid considers that the Contract Failure and the costs incurred to rectify 
+it satisfy the relevant provisions of the NER. As such, this document, the accompanying attachments and 
+supporting information comprise Transgrid’s Application to reopen the 2023 -2028 Revenue Determination, 
+in accordance with clause 6A.7.1 of the NER, to increase the capital expenditure allowance for PEC.  
+Table 2 below provides a summary of the NER requirements and how each clause has been satisfied. 
+Table 2: Transgrid’s compliance with the NER provisions 
+Clause Summary of the NER 
+requirement 
+How has this requirement been met Compliance 
+6A.7.1(a)(1) An event has occurred that is 
+beyond the reasonable control of 
+the TNSP and could not reasonably 
+have been foreseen at the time the 
+revenue determination was made. 
+Section 2.1 defines the event  as 
+Contract Failure and explains that its 
+occurrence was beyond Transgrid’s 
+reasonable control and  was not 
+reasonably foreseeable.  
+ 
+6A.7.1(a)(2) The AER did not provide an 
+expenditure allowance for the event 
+in its revenue determination. 
+As an unforeseen event, no 
+expenditure allowance was provided in 
+the AER’s revenue determination.  
+ 
+6A.7.1(a)(3) The TNSP proposes to undertake 
+capital expenditure to rectify the 
+adverse consequences of the event. 
+Transgrid has entered into the ICC 
+contract to rectify the adverse 
+consequences of the Contract Failure, 
+which will increase Transgrid’s capital 
+expenditure. 
+ 
+6A.7.1(a)(4) The capital expenditure required to 
+rectify the adverse consequences of 
+the event exceeds 5% of the value 
+of the TNSP’s regulatory asset base 
+and will  result in the TNSP 
+exceeding the AER’s total capital 
+expenditure allowance for the 
+regulatory period. 
+Attachment 6 sets out the data which 
+demonstrates compliance with this 
+provision. It shows that 5% of 
+Transgrid’s RAB is $457 million 
+compared to the rectification costs of 
+$1,142 million. It also shows that 
+Transgrid’s total capital expenditure for 
+the regulatory period will exceed the 
+AER’s allowance.   
+ 
+6A.7.1(a)(5) The TNSP cannot remain within the 
+AER’s total capital expenditure 
+allowance by reducing other capital 
+expenditure without materially 
+adversely affecting the reliability and 
+security of the transmission system. 
+Attachment 6 explains that Transgrid’s 
+total capital expenditure cannot remain 
+within the AER’s allowance  given the 
+substantial costs of rectifying the event 
+and the limited scope to defer other 
+projects, all of which will deliver 
+significant benefits to consumers. 
+ 
+6A.7.1(a)(6) A failure to rectify the adverse 
+consequences of the event would 
+be likely to materially adversely 
+affect the reliability and security of 
+the relevant transmission system. 
+Attachment 6 explains the material, 
+adverse consequences of the Contract 
+Failure. GHD has provided an 
+independent expert opinion in an 
+Appendix to Attachment 6,  which 
+explains the criticality of PEC to 
+reliability and security of supply, 
+ 
+
+===== PDF PAGE 13 =====
+ 
+9  | Project Energy Connect | An application to reopen the 2023-2028 Revenue Determination 
+ Official
+Clause Summary of the NER 
+requirement 
+How has this requirement been met Compliance 
+particularly in New South Wales and 
+South Australia. 
+6A.7.1(a)(7) The event is not a pass-through 
+event or a contingent project. 
+A Contract Failure is not a  pass-
+through event or a contingent project.  
+6A.7.1(b) An application must not be made 
+within 90 business days prior to the 
+end of a regulatory year. 
+This Application has been lodged in 
+accordance with this requirement.  
+As noted in Table 2, detailed information that demonstrates compliance with the NER requirements is 
+provided in Attachment 6 to this Application. 
+1.5  Regulatory principles 
+The reopener provisions in clause 6A.7.1 of the Rules were introduced by the Australian Energy Market 
+Commission (AEMC) in a Rule determination in 2006. That Rule determination was an important milestone 
+in the development of the regulatory framework as it finalised the design of the revenue-setting arrangements 
+that were to apply to transmission networks.  
+As part of its determination process, the AEMC undertook an extensive stakeholder consultation to consider 
+how the Rules should apply , including how e ach element of the framework would operate individually and 
+collectively to protect the long-term interests of consumers. In finalising its design, the AEMC also had regard 
+to a comprehensive review undertaken by an expert panel, completed in March 20 06, that had been 
+convened by Energy Ministers. In summary, the AEMC’s design of the regulatory framework, including the 
+reopener provisions, involved a comprehensive examination of the alternative approaches to balancing risks 
+and incentives to provide a regulatory framework that would promote the long-term interests of consumers 
+in accordance with the National Electricity Objective. 
+In that context, the AEMC’s Rule determination explains that the purpose of the reopener provisions is to:9 
+“...allow for the revenue cap to be reopened during a regulatory control period where an event 
+occurs that sufficiently impacts on the financial viability of the business, or its scope to 
+respond to unforeseeable circumstances.” 
+In summarising the feedback from stakeholders, the AEMC noted that the majority of the submissions 
+received supported the reopening of a revenue determination if  specific circumstances eventuated. The 
+AEMC also noted that the Expert Panel  considered that  reopener provision s should be adopted  as a 
+mechanism for appropriately balancing incentives and risks:10 
+ 
+ 
+9  AEMC, Rule Determination, National Electricity Amendment (Economic Regulation of Transmission Services) Rule 2006 
+No.18. 16 November 2006, p. 60. 
+10  Ibid, p.61. 
+
+===== PDF PAGE 14 =====
+ 
+10  | Project Energy Connect | An application to reopen the 2023-2028 Revenue Determination 
+ Official
+“… the incentives and risks inherent in the building block approach to price caps can be  
+ameliorated by incorporating pass through or re -opener clauses, thereby allowing the price  
+control parameters to be adjusted before the end of the designated period if certain trigger  
+events take place.” 
+Following a detailed consideration of the issues and the submissions received, the AEMC concluded that a 
+TNSP should be able to apply for the re -opening of its revenue cap i f a ‘shipwreck event’ occurs, which it 
+defined as the TNSP being required to incur unforeseen capital expenditure that is at least 5% of its RAB. 
+The AEMC explained that this approach is intended:11 
+“…to overcome the incentive for a TNSP to defer major vital investment where it would result 
+in the TNSP exceeding its capital expenditure allowance for the period.”  
+The reopener provisions  adopted by the AEMC in 2006 are those d escribed in section 1.4 above , which 
+Transgrid has fully satisfied in this Application.  
+In drafting the Rules provisions, the AEMC did not attempt to list the ‘events’ that would trigger a reopener 
+Application. Instead, the AEMC described the characteristics and consequences that an event or ‘series of 
+events’ must satisfy. This approach reflects a conscious decision by the AEMC to define an event broadly 
+with reference to its impact on the network company and consumers, including the impact on the reliability 
+and security of supply if no action was taken in response to the event. 
+As explained in this Application, in the absence of the reopener provisions, PEC would have been paused or 
+abandoned as Transgrid sought to clarify the cost recovery arrangements with the AER, with consequential 
+delays and cost consequences for electricity consumers. This Application, therefore, is fully aligned with the 
+AEMC’s intended purpose in drafting the reopener provisions, which is to avoid project delays and adverse 
+outcomes for consumers  by allowing a revenue determination to be reopened , subject to satisfying the 
+reopener provisions. As already noted, further details on Transgrid’s compliance with the reopener provisions 
+are provided in Attachment 6 to this Application.  
+1.6 Stakeholder engagement 
+Transgrid recognises the importance of engaging with our stakeholders , particularly in relation to major 
+transmission projects such as PEC. During the development of this Application, Transgrid engaged with the 
+TAC, which is Transgrid’s principal stakeholder engagement forum comprising energy consumers, business 
+and industry representatives.  
+Transgrid’s engagement approach in relation to this Application aligns with ‘inform to consult’ on the IAP2 
+Spectrum of Public Participation,12 which reflects the commercial-in-confidence nature of the issues that are 
+central to this Application. Despite the commercially sensitive issues relating to PEC, Transgrid has engaged 
+extensively with the TAC through six deep dive sessions. A further workshop was also held to provide TAC 
+members with an opportunity to provide feedback on Transgrid’s draft Application. We briefly summarise the 
+ 
+ 
+11  Ibid, p.61. 
+12  International Association for Public Participation (IAP2), IAP2 Public Participation Spectrum, 
+https://iap2.org.au/resources/spectrum/  
+===== PDF PAGE 15 =====
+ 
+11  | Project Energy Connect | An application to reopen the 2023-2028 Revenue Determination 
+ Official
+range of views expressed by TAC member s, noting that further detailed information, including Transgrid’s 
+response to the feedback received, is provided in Attachment 1 to this Application.  
+TAC members provided a range of views on the following matters relating to this Application, including:  
+• the design of the regulatory framework and the risk sharing arrangements  
+• Transgrid’s decision to negotiate an ICC contract with Elecnor Australia 
+• whether the TAC should have been consulted prior to Transgrid taking that decision on behalf of 
+consumers 
+• the increased costs of delivering PEC and affordability considerations 
+• whether ‘Contract Failure’ is a shipwreck event, as described by the AEMC, and 
+• whether Transgrid should make an Application to reopen the 2023-2028 revenue determination. 
+Some TAC members suggested that there had been a ‘collective failure’ by Transgrid, AEMO and the AER 
+to protect the interests of consumers in relation to PEC. Specifically, these TAC members consider ed that 
+more active engagement by all three parties may have prevented Contract Failure or ameliorated its impact. 
+For these TAC members, it was unreasonable for Contract Failure to occur as risks had been transferred to 
+the contractor for a premium contrac t price. It was suggested  that a resolution to the issues faced by 
+Transgrid, other than a reopener , would be preferable, including the possibility of the AER waiving CESS 
+penalties for any overspend amount that is found to be prudent and efficient. 
+Other TAC members expressed different views. For example, some TAC members commented that market 
+circumstances and the risk appetite of prospective service providers will often dictate the preferred 
+contracting structure. In this context, these TAC members  considered it reasonable that Transgrid entered 
+into an EPC contract in June 2021. In relation to this reopener Application, the view was expressed that the 
+prospects for essential investment to support the energy transition would be compromised if TNSPs were 
+unable to rely on the reopener provisions in the Rules.  
+ 
+Some TAC members questioned whether ‘Contract Failure’ is a ‘shipwreck event’ of the kind described by 
+the AEMC in its 2006 Rule determination. Specifically, the suggestion was made that the event is essentially 
+contractual in nature and does not constitute a ‘shipwreck’. As explained in section 1.5  above, Transgrid 
+notes that the AEMC ultimately defined a ‘shipwreck event’ in terms of its impact on the network company’s 
+capital expenditure requirements, i.e., that the impact of the event must exceed 5% of its RAB. The AEMC’s 
+approach, therefore, was to define ‘an event’ broadly and then set preconditions in clause 6A.7.1 that must 
+be satisfied for a reopener Application to be allowed. As explained in section 1.4 and Attachment 6, each of 
+these conditions have been met and, therefore, Contract Failure is a ‘shipwreck event’ of the kind 
+contemplated by the AEMC. 
+Transgrid appreciates the TAC’s feedback and the views expressed on a range of complex commercial and 
+regulatory issues. As a general observation, Transgrid shares the TAC’s concerns regarding affordability, 
+and the importance of taking decisions in the best interests of consumers. At each stage of the project, 
+Transgrid has endeavoured to put consumers’ interests first in its decision-making. In relation to the TAC’s 
+possible role in endorsing or directly engaging on commercial decisions to be taken by Transgrid’s Board, 
+commercial sensitivities and the potential risk of litigation meant that in-depth engagement was not possible 
+on this occasion.  
+===== PDF PAGE 16 =====
+ 
+12  | Project Energy Connect | An application to reopen the 2023-2028 Revenue Determination 
+ Official
+In relation to Transgrid’s decision to submit this Application, it is important to note the following points:  
+• The reopener provisions in the NER have been designed to address rare events, such as the Contract 
+Failure as defined and described in this Application.  
+• The ability to recover the costs of a rare event, if it occurs, through a reopener Application ensures that 
+the costs to consumers are kept as low as possible. The alternative pathway is to compensate TNSPs 
+for the risk of rare events, whether or not those events actually occur.   
+• Transgrid has acted to secure the best outcome for consumers, albeit in difficult circumstances. Given 
+the financial commitments made by the company, Transgrid considers that submitting this Application is 
+the most appropriate way to recover prudent and efficient costs in accordance with the NER provisions. 
+It is also important to note that Transgrid’s  allowed rate of return is consistent with  revenue-setting 
+arrangements that provide a reasonable opportunity to recover at least its efficient costs, including the 
+costs of rectifying events, such as Contract Failure, that satisfy the reopener provisions.13 
+• As explained in Chapter 3, Transgrid is not seeking to recover  the total costs of delivering PEC  in this 
+Application. Furthermore, Transgrid is voluntarily excluding costs associated with Transgrid’s new role 
+as an ‘active client’ under the ICC contract, even though those costs fall within the scope of the reopener 
+provisions. The voluntary exclusion of permissible costs from this Application  means that Transgrid’s 
+shareholders will face additional costs and potential CESS penalties as a result of the Contract Failure. 
+The prudency and efficiency of Transgrid’s active client and other costs will be assessed by the AER in 
+its ex post review prior to those costs being included in Transgrid’s RAB. 
+Transgrid will continue to engage with the TAC and other stakeholders in relation to this Application and our 
+progress in delivering major infrastructure projects, including PEC. 
+1.7 Structure of this Application 
+Transgrid’s Application comprises this document, being the main Application; Attachments 1-7 that provide 
+further detail on the information presented; and supporting Appendices and models. The remainder of this 
+document is structured as follows: 
+• Chapter 2 explains the event definition, the causes of the event and Transgrid’s response. 
+• Chapter 3 explains how the reopener costs have been determined, noting that these costs are less than 
+the total increase in project costs that Transgrid will incur. 
+• Chapter 4 sets out the revenue and pricing implications arising from the proposed reopener amount. 
+The scope and content of the accompanying Attachments, Appendices and models are described in Figure 
+4 below. 
+ 
+ 
+13  In accordance with the Revenue and Pricing Principles in the National Electricity Law. 
+===== PDF PAGE 17 =====
+ 
+13  | Project Energy Connect | An application to reopen the 2023-2028 Revenue Determination 
+ Official
+Figure 4: Attachments and Appendices to Transgrid's Reopener Submission 
+ 
+Reopener Engagement 
+-
+Details hO't,V Transgricl has 
+engaged the TAC as par1 
+of the Reopener 
+SubrrlSsion Process 
+2. Project EnergyConnect and 
+Contract Failure 
+2a 
+2b 
+Letter of support-Elecnor 
+Australia 
+Cost estimate reports -
+F1ss1on 
+Narrative Attachments 
+Background to the Reopener : Transgrid's Actions and Arrangements Reopener Compliance and Methodology 
+Detalts lhe governance 
+arrangements relating to 
+PEC, e,:p l.aining how 
+these arrangemenls have 
+evolved iri response to 
+changing circumstances 
+"-• vmviz 
+Sets out the information 
+required by the NER in order 
+for the AER to progress this 
+Application. 
+Explails TrMlsgrid 's 
+methodology for delem1ining 
+the proposed reopeoor 
+amount 
+Appendices, Models and Supplementary Information 
+3. Rectification actions and 
+options report 
+3a 
+3b 
+3c 
+3d 
+Net m ■ rket benefits 
+assessment- T rensgr1d 
+Net market benefits NPV 
+Model (Forward-look1nl!)­
+T ransgr1d 
+Net market benefits NPV 
+Model{Total}-Transgnd 
+Gross market benefits 
+assessment-EY 
+4. Prudency and Efficiency 
+4a 
+4b 
+4c 
+Independent estimate to 
+complete report-Turner & 
+Townsend 
+ProJect EnertyConnect new 
+contract review-E3 Advisory 
+Project Enere,Connect 
+benchmark report- KPMG 
+6a 
+6b 
+6. Support for Rules 
+Preconditions 
+Statement of facts: 
+Relin bility and security 
+1mpacts-GHD 
+Letter of support 
+- Electra Net 
+7a 
+7b 
+7c 
+7. Capital expenditure 
+methodology 
+CAPEX forecast model­
+T ransgnd 
+Labour and 1ndirects 
+model-Transgnd 
+Post~tax revenue model­
+Transgrid 
+===== PDF PAGE 18 =====
+ 
+14  | Project Energy Connect | An application to reopen the 2023-2028 Revenue Determination 
+ Official
+2. Event definition, causes and rectification 
+Key points 
+• In order for the AER to accept this Application, Transgrid must demonstrate that, amongst other 
+things, an ‘event’ has occurred that has led to a material increase in Transgrid’s capital 
+expenditure requirements. The event must not have been reasonably foreseeable at the time of 
+the making of the revenue determination and must have been beyond Transgrid’s reasonable 
+control. 
+• The event is ‘Contract Failure’, which is further described in section 2.1. While various factors 
+led to this outcome, Transgrid had no visibility of the cumulative financial impact of those factors 
+on the contractor’s ability to deliver PEC, nor did Transgrid have any control over those factors. 
+• Transgrid explored the options to address the Contract Failure with the objective of securing the 
+best outcome for consumers. The principal choices were:   
+− to negotiate a new contract with Elecnor Australia, or  
+− to engage an alternative contractor. 
+• Transgrid formed the view that a decision by Elecnor Australia to walk away from the project 
+would be contrary to consumers’ interests as it would lead to extensive project delays  and 
+increased costs. Instead, Transgrid acted promptly to maintain project continuity to maximise the 
+potential options to address the Contract Failure and achieve the best outcome for consumers.  
+• Following the completion of a competitive tender process to identify an alternative contractor and 
+concurrent negotiations with  Elecnor Australia, Transgrid concluded that e xecuting the  ICC 
+contract with Elecnor Australia would provide the best outcome for consumers. The key benefits 
+for consumers in executing the ICC contract are: 
+− substantially lower cost and s horter completion timeframes compared to the alternative 
+options 
+− fixed price terms, supported by extensive protections against contractor non-performance 
+and profit share if cost savings are achieved, and 
+− an extended role for Transgrid under new ‘active client ’ provisions to provide greater 
+oversight and risk mitigation.  
+• Before executing the ICC contract in December 2024, Transgrid conducted a formal assessment 
+of eight alternative options, including project abandonment. The options analysis confirmed that 
+PEC will provide an overall net benefit to consumers, despite the increased costs , and that the 
+ICC contract option was superior to all other options. 
+• Transgrid’s decision -making throughout this period was supported by external independent 
+technical, legal, and accounting advic e. In addition to the advice that was obtained during the 
+decision-making process, subsequent benchmarking analysis and an independent expert review 
+conducted by E3 Advisory confirm that Transgrid’s approach and the resulting outcomes are 
+prudent and efficient.  
+ 
+===== PDF PAGE 19 =====
+ 
+15  | Project Energy Connect | An application to reopen the 2023-2028 Revenue Determination 
+ Official
+2.1 Event definition  
+In the context of this Application, the event is a Contract Failure, which is defined in Box 1 below.  
+Box 1: Event Definition – ‘Contract Failure’ 
+The event for this Application is a Contract Failure. It means that the construction of 
+PEC would not be completed by SEJV under the existing EPC contract and, if PEC 
+were to proceed, an alternative arrangement to delivery under the EPC contract would 
+be necessary. 
+Note: The fulsome, legal description of the event, the subject of this reopener 
+application, is contained in section 2.1.1 of Attachment 6. For the convenience of 
+readers, Transgrid has included short -hand descriptions of this event (labelled the 
+‘Contract Failure’) above, and in other sections of the application. 
+Transgrid’s Board recognised and accepted that Contract Failure had occurred on 25 October 2023  based 
+on information and analysis obtained between August and October 2023 which revealed that SEJV faced 
+such significant financial losses under the terms of the EPC contract  that (in the absence of support from 
+Elecnor Australia’s parent company) PEC could not be delivered in accordance with the terms and conditions 
+in that contract.    
+In order for the AER to accept this Application, the event must not have been reasonably foreseeable by 
+Transgrid at the time the reve nue determination was made  and must not have been  within Transgrid’s 
+reasonable control. We address these issues next by discussing the causes of the event, which were entirely 
+outside Transgrid’s control  and not foreseeable . A comprehensive discussion of  what is ‘reasonably 
+foreseeable’ in this context, and the other NER requirements that Transgrid must also satisfy, is provided in 
+Attachment 6 to this Application.  
+2.2 Causes of the event 
+Transgrid undertook a competitive and transparent procurement process during 2019 and 2020 to select a 
+service provider to deliver PEC. The aim of th at procurement process was to secure an EPC contract to 
+deliver PEC at a competitive fixed price and by a specified date. The EPC contracting form was market 
+standard at that time. As explained in Attachment 2 to this Application , the tender process was highly 
+competitive, transparent and subject to a robust evaluation process. The successful bidder, being SEJV , 
+submitted a price that was very closely aligned with the other shortlisted bidder following a strongly contested 
+Request for Proposal (RFP) stage.  
+At that time, Transgrid’s Board made the decision to enter into the EPC contract with SEJV with the 
+knowledge that a competitively tendered process had identified the party best able to deliver the project  on 
+behalf of electricity consumers. Around the same time, the AER completed its revenue-setting process for 
+PEC, and made the following observations regarding the risks and costs associated with the adoption of a 
+fixed price, turnkey contracting arrangement: 
+“This is a conservative approach to contracting as it transfers the majority of risk to the 
+contractor. This will provide cost certainty and reduce delivery risk for both Transgrid and 
+consumers. However, it likely increases tendered costs because the contractor will instead 
+bear procurement and construction risk. Alternative contracting approaches may lower 
+===== PDF PAGE 20 =====
+ 
+16  | Project Energy Connect | An application to reopen the 2023-2028 Revenue Determination 
+ Official
+tendered costs but would potentially increase Transgrid's own costs (including overheads and 
+contract management) and risk.  
+For Project EnergyConnect, this contracting model may be appropriate for Transgrid given 
+that it is relatively inexperienced in delivering a project as large and complex as Project 
+EnergyConnect. It may also have reduced Transgrid's own project delivery costs, when 
+compared to alternative project delivery and contracting models.”14 
+For the avoidance of doubt, Transgrid made the commercial decision to enter into the EPC contract  with 
+SEJV, and it is not the AER’s responsibility to advise on or approve contractual decisions. Importantly, 
+however, the AER correctly understood Transgrid’s procurement strategy, which sought to transfer risk from 
+consumers and Transgrid to the successful bidder, being SEJV, in exchange for a reasonable risk premium 
+determined by the competitive market. While not responsible for the contracting decision, the AER reviewed 
+the competitively determined  contract price, which included the premium paid, and considered it to be 
+reasonable in the circumstances: 
+“We recognise that given the contracts were entered into following a competitive tender 
+process, any risk premium included in the contracted prices will at least reflect the lowest 
+efficient amount that the contractors are willing to bear. Transgrid's approach also in large 
+part protects consumers from the risk of project cost overruns due to poor project delivery or 
+unforeseen events. On balance, our view is Transgrid's tendered costs are likely to 
+reasonably reflect the prudent and efficient costs required to deliver the project.”15 
+Given the competitive tender process, and consistent with the AER’s findings, Transgrid fully expected that 
+PEC would be delivered in accordance with the terms of the EPC contract and that the project risks had been 
+appropriately transferred to SEJV. In particular, Transgrid’s Board considered the risk premium to be 
+reasonable in order to compensate the contractor for the risks associated with a fixed price EPC contract. 
+Furthermore, the contractor's required performance in accordance with the EPC contract was secured by 
+material parent company guarantees and bonds. The EPC contract also included mechanisms for variation 
+claims and extensions of time, which were considered appropriate to address project risks that could not be 
+effectively managed by SEJV. 
+Following the execution of the EPC contract in June 2021, however, significant challenges affected project 
+delivery which combined in such a way as to severely affect the financial capacity of the contractor to deliver 
+PEC in accordance with that contract. Each of these challenges were external events that were outside 
+Transgrid’s control, and included: 
+• Flooding. Major flooding events in New South Wales in 2022 and 2023 caused significant site access 
+issues, damaged works, and delayed material deliveries. 
+• Labour shortages. Labour shortages have been a persistent issue for the construction sector since the 
+COVID-19 pandemic, with many migrant workers opting to return to their home countries, fewer young 
+people entering the construction industry than those retiring from it  and the surging demand for labour 
+ 
+ 
+14 AER, Final Decision, Transgrid Contingent Project - Project EnergyConnect, May 2021, p. 18. 
+15 Ibid, p. 18. 
+===== PDF PAGE 21 =====
+ 
+17  | Project Energy Connect | An application to reopen the 2023-2028 Revenue Determination 
+ Official
+leading to increased labour costs. While international borders have reopened, strong demand from the 
+sector continues to outweigh supply16. 
+• Productivity. Actual productivity fell short of the expected performance levels, resulting in additional 
+costs and an extension of the construction schedule. The lower levels of productivity during the initial 
+stages of the project were further impacted by external factors such as the limited supply of workers with 
+suitable experience and the impact of flooding, as noted above.   
+• Market conditions . From 2021, the construction and energy sectors in Australia have faced 
+unprecedented inflationary pressures. The cost of materials, labour, and logistics has risen sharply, with 
+inflation peaking in 2022 and remaining elevated in 2023 and into 2024.  As a consequence, the cost  
+impact of a longer project timeframe was further impacted by much less favourable market conditions , 
+adding to the future costs of delivering the project. 
+It is also important to note that these factors had a cumulative financial impact on the contractor, which were 
+further amplified by the scale of the project covering a geographical area in excess of 700 km. Not only were 
+these factors external to Transgrid and beyond Transgrid’s control, as the project owner under an EPC 
+contract Transgrid had no visibility o f how these challenges were impacting the financial position of the 
+contractor. In particular, Transgrid had no role in the commercial decisions taken by SEJV to manage its 
+financial exposure to the multitude of external factors that may impact the project  financially, as shown in 
+Figure 5 below.  
+Figure 5: Context during delivery of PEC and Transgrid’s visibility and control 
+ 
+ 
+ 
+16 Turner & Townsend, The Lasting Impact of COVID-19 on the Construction Sector, 14 June 2024, section 4. 
+Project Factors 
+Impacts of late Plann ing Appro11als and 
+inconsisten t requ irements 
+Clough's Voluntary Adm inistration 
+impacts project systems and requires 
+transfer of labour agreements, which are 
+delayed 
+Actua l production rates on site lower 
+Geographical Factors 
+Major NSW fiooding e11ents in 
+2022 and 2023 
+Limited ability to expand camp 
+sizes. 
+Impacts of local stakeholders , 
+induding restricted site access 
+Industrial Factors 
+Skilled labour shortages and 
+delayed visa approvals in 
+transmission and substations 
+Concentration of infrastructure and 
+energy projects in Australia 
+Global Factors 
+Competition for raw materials and 
+components 
+Disruption to freight routes and 
+subsequent supply chain impacts 
+Inflation of materials and labour 
+J!l 
+C 
+(1) 
+E 
+(1) 
+Cl 
+C 
+co ... ... co 
+ea 
+::I 
+-(.) 
+co ... -C 
+0 
+(.) 
+u a. 
+Ill 
+Transgrid's Visibility and Control 
+Requests for construction programme updates 
+Knowledge of approval delays 
+Support for project continuity post-Clough insolvency 
+Awareness of labour shortage, and support pro11ided via 
+facilitating visa fast tracking 
+Outside of Transgrid's Visibility and/ or 
+Control 
+Contract and payment terms with suppliers and 
+subcontractors 
+Financial risk management strategies, including 
+potential hedging of commodity prices 
+Day-to-day project deli11ery status , performance data 
+and inventory 
+Project and delivery partner cash fiow , working capital 
+and financial status 
+The impact on Elecnor of the Clough insol11ency, 
+including terms of the Joint Venture 
+Project profitability and margin le11ers. incl. 011erheads 
+Funding structures and gearing ratios 
+===== PDF PAGE 22 =====
+ 
+18  | Project Energy Connect | An application to reopen the 2023-2028 Revenue Determination 
+ Official
+As shown in Figure 5, under a turnkey EPC contract Transgrid had visibility and oversight of the contractor’s 
+performance in relation to project delivery, but no visibility or oversight of the contractor’s financial 
+performance. It is also important to note that the insolvency of Clough in December 2022 resulted in a 
+significant loss of management systems and information , including actual rates of production, that affected 
+the contractor’s ability to accurately forecast the costs of completing  PEC. These gaps were only fully 
+addressed by mid-2024, which made it difficult for Elecnor Australia to assess the full extent of the financial 
+challenges facing the project.   
+While the EPC contract placed limitations on Transgrid’s project management role, this does not mean that 
+Transgrid adopted a ‘hands -off’ approach to contract management , as explained in further detail in 
+Attachment 2 to this Application . By August 2023 Transgrid had become sufficiently concerned about the 
+contractor’s deteriorating contract performance against the agreed project milestones to obtain open book 
+access to review Elecnor Australia’s project performance and financial position. Transgrid also received 
+anecdotal reports of late payments to sub -contractors which raised further concerns . Prior to that date, 
+Elecnor Australia made a series of claims for additional compensation many of which lacked substantiation 
+and/or contractual entitlement. In accordance with effective contract management  and in accordance with 
+the interests of consumers, Transgrid held Elecnor Australia to the contract and only resolved those claims 
+that were valid.   
+During August and September 2023 executives from Transgrid and Elecnor Australia’s parent company met 
+to discuss the issues being experienced on the project. During these meetings, Elecnor Australia’s parent 
+company stated that a commercial resolution would be required to resolve the ongoing project issues, noting 
+that its forecast cost overrun at that time had increased to $ 380 million (nominal). Further information 
+subsequently became available which indicated that the magnitude of the overrun would be considerably 
+greater.  
+As already noted, the Contract Failure occurred on 25 October 2023 when Transgrid’s Board recognised and 
+accepted that the construction of PEC would not be completed by SEJV under the existing EPC contract 
+and, if the project were to proceed, an alternative arrangement to delivery under the EPC contract would be 
+necessary. That conclusion was supported by Transgrid’s external independent technical, legal, and 
+accounting advisors who, together with Transgrid, found that the projected magnitude of Elecnor Australia’s 
+losses under the EPC contract were such that without intervention, Elecnor Australia would become insolvent 
+and that its parent company would not provide ongoing support. The circumstances are described in more 
+detail in Attachment 2 to this Application. 
+In order to satisfy the NER requirements, Transgrid must not have been able to reasonably foresee the 
+occurrence of the event, being the Contract Failure, at the time of the making of the revenue determination. 
+As explained above,  the Contract Failure was not foreseeable by Transgrid given its role  under the EPC 
+contractual arrangements and the complex and unknown cumulative impact of the multitude of factors that 
+impacted the contractor’s financial position. Further information on foreseeability and Transgrid’s compliance 
+with the NER provisions is provided in Attachment 6 to this Application. 
+2.3 Rectification options 
+In response to the Contract Failure, Transgrid considered whether to exercise its rights to enforce the EPC 
+contract given Elecnor Australia’s financial circumstances and the material parent company guarantees that 
+Transgrid had secured when the EPC contract was established in June 2021 . Transgrid concluded that 
+attempting to enforce the EPC contract would lead Elecnor Australia to enter voluntary administration with 
+the following adverse consequences for the project and consumers: 
+===== PDF PAGE 23 =====
+ 
+19  | Project Energy Connect | An application to reopen the 2023-2028 Revenue Determination 
+ Official
+• project works would cease with immediate effect, and equipment and materials would be removed from 
+sites 
+• no warranties would be provided in relation to partially completed works 
+• intellectual property and experienced project workers would be lost 
+• a replacement contractor would be un likely to complete the project  for a fixed price and not  without 
+significant indemnities, and 
+• significant further project delays would be expected of a minimum of 12 months  with substantial cost 
+consequences for consumers, in addition to a loss of project benefits. 
+For these reasons, Transgrid did not consider contract enforcement and termination to be an appropriate 
+course of action  for consumers at that time . By the same token, Transgrid wanted to ensure that Elecnor 
+Australia remained bound to its contractual commitments as far as practicable and for Transgrid to maintain 
+its legal rights including in relation to claiming under the parent company guarantees. Transgrid therefore 
+took immediate and ongoing action to maintain project continuity and avoid the substantial delays and cost 
+increases that would have arisen from pausing the project.  
+Transgrid then embarked on a comprehensive 14-month process, supported by external experts, to assess 
+all alternative options and ensure that the resolution of the Contract Failure would deliver the best outcome 
+for consumers. While contract enforcement and the recovery of the parent company guarantees was not 
+expected to be the preferred option, it remained open to Transgrid to pursue that option as it considered how 
+best to respond to the Contract Failure.  
+At a high level, there were two alternative pathways that Transgrid actively pursued to deliver PEC: 
+1. Engage an alternative contractor . Under this pathway, an alternative contractor would be appointed 
+either to replace or work alongside Elecnor Australia.  The options available to Transgrid under this 
+pathway included: 
+a. Friendly descope, where Elecnor Australia agrees to reduce its scope of work  and assist with 
+the transition to a new contractor. 
+b. Unfriendly descope, where Transgrid replaces Elecnor Australia with no transitional assistance.   
+2. Establish new contractual arrangements with  Elecnor Australia . Under this pathway, Elecnor 
+Australia would be retained as the contractor, but under new contractual arrangements . The options 
+available to Transgrid were: 
+a. Negotiate new contract terms, which ensure that PEC will be delivered in a timely and efficient 
+manner, with unprecedented protections against non-performance. This option was selected by 
+Transgrid and ultimately led to the development of the ICC contract , which was executed in 
+December 2024.  
+b. Alliance or acquisition of Elecnor Australia , which would involve a significantly different 
+delivery model with substantially increased risks for Transgrid and consumers.  Given the 
+significant project challenges  and the risks of this contracting structure , t his option was not 
+progressed further.   
+Transgrid actively pursued both pathways to ensure that the best outcome was obtained for consumers. For 
+each of these pathways, a number of specific options were considered as shown in Figure 6 below. The third 
+===== PDF PAGE 24 =====
+ 
+20  | Project Energy Connect | An application to reopen the 2023-2028 Revenue Determination 
+ Official
+pathway, project abandonment, was not in consumers’ best interests as the net benefits from PEC would be 
+foregone. 
+Figure 6: High level pathways and options 
+ 
+Our quantitative assessment of the eight options shown in Figure 6 is summarised in section 2.4. We first 
+discuss the two alternative pathways for delivering PEC in sections 2.3.1 and 2.3.2 below. 
+2.3.1 Engaging an alternative contractor 
+To explore this pathway, Transgrid undertook a tender process to identify a potential alternative contractor. 
+The tender followed a conventional process, including: 
+• engagement of probity advisors 
+• issuing of returnable schedules 
+• conducting workshops with each tenderer, and  
+• the application of a standard evaluation criteria.  
+This process allowed Transgrid to engage directly with prospective service providers to understand the risk 
+appetite, willingness to offer a fixed price, likely costs and schedule, capacity and capability in the market to 
+complete some or all of the remaining project.  
+A summary of the tender process is set out in Box 2 below. 
+2 
+High Level Pathway 
+Engage 
+alternative 
+contractor 
+Establish new 
+contractual 
+arrangements with 
+Elecnor Australia 
+Option 
+Direct engagemefll of alternative contractor 
+A "friendly" or agreed 
+descoping of EPC contract Elecnor agrees to reduce its scope of work 
+...................................................................................... , .......... , ......... , .......... , ...................... , .......... ,, ................................ , .......... , ......................... .. 
+An "unfriendly" descoping of 
+EPC contract 
+Transgrid replaces Elecnor Australia for the remainder 
+of PEC delivery 
+Indirect engagement of alternative contractor 
+Contract Termination 
+Continue additional 
+payments (Status Quo) 
+Enforcement of the EPC 
+contract 
+New contract with Elecnor 
+Australia 
+Alliance or acqu1s1t1on of 
+Elecnor Australia 
+These options ultimately lead Transgrid to recover 
+the parent company guarantees, recognising that: 
+a_ the legal costs and potential delays to 
+completing the project are likely to be significant; 
+and 
+b_ an alternative contractor would still need to be 
+pursued 
+New price and terms are negotiated under a new 
+delivery contract for PEC 
+Establish a different type of delivery and ownership 
+model for PEC 
+Abandon P.EC PEC is not completed , and benefits are not 
+delivered 
+===== PDF PAGE 25 =====
+ 
+21  | Project Energy Connect | An application to reopen the 2023-2028 Revenue Determination 
+ Official
+Box 2: Summary of tender process to secure an alternative contractor 
+Market Sounding  
+Transgrid undertook a confidential market sounding process in May 2024 to: 
+(i) brief selected market participants on the project status and requirements, and 
+(ii) seek feedback from the select ed market participants to understand market 
+appetite, capacity, and capability to step into a project where construction was 
+47% complete and under unusual circumstances. 
+All five selected entities expressed an interest in being part of the procurement 
+process.  advised that they would form a Joint Venture, whereas 
+ would participate as single 
+entities, but intended to form strategic partnerships to further bolster capacity and 
+capability in discrete areas. 
+Phase 1: Expression of Interest (EOI) 
+The purpose of the EOI was to shortlist applicants to participate in the RFT phase 
+of the procurement process. EOI submissions were evaluated in accordance with 
+the following EOI evaluation criteria: management systems, financial capability, 
+safety performance, project experience and the proposed project leadership team.  
+Transgrid selected three contractors to proceed to the request for tender being: 
+  
+Phase 2: Request for tender (RFT) 
+The purpose of Phase 2 was to select the tenderers to participate in the 
+development phase to undertake detailed due diligence of the project activities. 
+RFT submissions were evaluated, and weighted, in accordance with the following 
+evaluation criteria: 
+(iii) project leadership resources 
+(iv) management capability to deliver transmission lines and substations 
+(v) safety management 
+(vi) proposed development phase approach, 90 -day mobilisation plan and 
+transition programme, and 
+(vii) initial pricing for the Managing Contractor services and likely total cost. 
+Phase 3: Development Phase  
+Phase 3 would have enabled the tenderers to undertake detailed due diligence of 
+the project activities and status, documentation, systems, and processes with 
+Transgrid and confirm binding offers and best pricing to undertake the works.  
+Phase 3 was ultimately not finalised as Elecnor Australia withdrew their willingness 
+to support a ‘friendly descope’ and it became evident from the results of Phases 1 
+and 2 that bringing in an alternative contractor would not be in the best interests of 
+consumers.   
+-
+===== PDF PAGE 26 =====
+ 
+22  | Project Energy Connect | An application to reopen the 2023-2028 Revenue Determination 
+ Official
+The outcome from the tender process indicated that if the remainder of the project  were completed by an 
+alternative contractor, the cost to complete PEC would range between $4,02 2 million to $4,06 1 million, 
+(nominal). However, the alternative contractors were not willing to provide a fixed price offer in the timeframe 
+required and, therefore, would expose Transgrid and consumers to the risk of further cost increases. In 
+addition, Transgrid estimated that bringing in a new contractor on a fixed price would delay the project by at 
+least 12 months, with a consequential loss of consumer benefits.  
+2.3.2 Establishing new contractual arrangements with Elecnor Australia  
+To obtain the best outcome for consumers, Transgrid also progressed its negotiations with Elecnor Australia 
+in parallel with pursuing the alternative contractor pathway described above.  
+Transgrid’s negotiators were two seasoned executives with extensive executive, transactional and major 
+projects experience . One held  management roles at Thiess Construction, Ergon Energy, Macquarie 
+Infrastructure and Real Assets and Ventia Infrastructure Services  while the other previously held positions 
+as Executive Vice President, Mergers & Acquisitions, EVP Commercial, General Counsel and other senior 
+executive roles in multiple international jurisdictions at Linklaters and BP plc. Sectors of experience for both 
+executives include energy, oil and gas and other major civil projects. These Transgrid negotiators consulted, 
+liaised and sought approval to negotiate in accordance with Transgrid’s governance structure, as detailed in 
+Attachment 5 to this Application.  
+The revised contract price was determined with reference to actual and potential productivity rates and 
+applying those rates to calculate the costs of the remaining portions of the project. The loss of systems as a 
+result of Clough’s insolvency and the lack of demonstrated production rates impacted Elecnor Australia’s 
+ability to prepare accurate cost estimates until July 2024. Elecnor Australia’s revised contract price was 
+subject to reviews by its Project Managers, Programme Director, Country Managers, General Managers, the 
+Managing Director and CEO, prior to being approved by its Board.  
+Elecnor Australia’s proposed price was reviewed and challenged by Transgrid, from July 2024 through to 
+October 2024. Transgrid focused on the proposed work programme, construction methodologies and 
+productivity assumptions, supply rates, risks, opportunities and contingencies. In addition to negotiating the 
+new price, the terms and conditions of the ICC contract were also negotiated. As noted in section 1.2, the 
+negotiated outcomes in relation to the ICC contract terms and conditions, which are summarised in Box 3 
+below, are unique in the Australian market.  
+Box 3: Key differences between the EPC contract and the ICC contract 
+Transgrid’s role as an ‘active client’ 
+Transgrid negotiated an extended role in the day-to-day management and control 
+of the project through the inclusion of active client provisions. This is a significant 
+change from the limited role afforded to Transgrid under the EPC contracting 
+model. While the active client role will increase Transgrid’s project management 
+costs, it is expe cted to deliver significant consumer benefits by ensuring that 
+Transgrid is able to identify and address any emerging project or financial 
+performance issues. 
+Achievement of specified milestones and KPIs 
+===== PDF PAGE 27 =====
+ 
+23  | Project Energy Connect | An application to reopen the 2023-2028 Revenue Determination 
+ Official
+The inclusion of specific KPIs in the ICC contract is a new concept to ensure that 
+Elecnor Australia focuses on the quality of its work, plans and forecasts sufficiently 
+ahead, and the safety of its staff and subcontractors on the project as it completes 
+the remainder of PEC , creating an improved risk profile for consumers  and 
+Transgrid.  
+Appointment of highly qualified resources  
+Elecnor Australia is required to provide a world -class project leadership and 
+management team to lead delivery and facilitate participation by Transgrid's 
+personnel, as an active client. The additional project leadership and management 
+resources provide greater certainty that Elecnor Australia has adequate 
+supervision and planning capability for the works and an increased capacity to pivot 
+as issues arise.  
+Audit rights and transparency 
+Transgrid has a right to engage an external service provider to undertake ongoing 
+audits of Elecnor Australia. Elecnor Australia must provide to Transgrid, at any 
+time, open book access to its key systems, accounts and records in relation to 
+Elecnor Australia’s activities, including in regard to payments to subcontractors, 
+resources and costs to complete PEC as well as compliance with Elecnor 
+Australia’s obligations relating to the project trust account . Furthermore, Elecnor 
+Australia is required to coopera te in facilitating any functions of Transgrid or its 
+nominees to inspect and verify such information. 
+Project trust account 
+A project trust account has been opened in Elecnor Australia’s name and all 
+payments required to be made by Transgrid or Elecnor Australia’s parent company 
+to Elecnor Australia are held on trust in the project trust account for the benefit of 
+Elecnor Australia, subcontractors and Transgrid. The use of a project trust account 
+ensures that Transgrid has visibility over the way in which Elecnor Australia uses 
+any project funds to ensure that subcontractors and suppliers are paid on time. 
+Escrow account 
+The escrow account is a new mechanism that has not previously been used in the 
+Australian contracting market.  It was added to the ICC contract in order for 
+Transgrid to ensure that Elecnor Australia delivers PEC in accordance with the ICC 
+contract. The ICC contract required Elecnor Australia’s parent company to deposit 
+$400 million (nominal) into an account nominated by Transgrid. Subject to certain 
+limitations, Transgrid has access to draw down on the funds  held in the escrow 
+account if Elecnor Australia breaches the ICC contract. 
+Residual profit share 
+While the fixed price does not include a profit component, the ICC contract contains 
+terms which provide for a rebate to Transgrid in the event of a significant cost 
+underrun and Elecnor Australia’s residual profit exceeding $50 million (nominal). 
+This mechanism is designed to ensure that Elecnor Australia has an incentive to 
+deliver the project efficiently, but cannot profit excessively if savings are achieved.    
+===== PDF PAGE 28 =====
+ 
+24  | Project Energy Connect | An application to reopen the 2023-2028 Revenue Determination 
+ Official
+In establishing the ICC contract, Transgrid acted prudently and efficiently to obtain the best available terms 
+and conditions from Elecnor Australia , in addition to pursuing the alternative pathway of engaging a 
+replacement contractor. Transgrid acknowledged and accepted the risk of incurring significant additional 
+costs under the ICC contract, noting that the additional costs had not been included in Transgrid’s revenue 
+determination and may be subject to an ex post review by the AER. 
+Further information on Transgrid’s assessment of the rectification options is provided in Attachment 3 to this 
+Application. 
+2.4 Options analysis 
+As shown in Figure 6, section 2.3, Transgrid identified eight options to address the Contract Failure each of 
+which relate to one of three high-level pathways: 
+• engage an alternative contractor 
+• establish new contractual arrangements with Elecnor Australia, and 
+• project abandonment.  
+To provide a comprehensive assessment of the eight options, Transgrid engaged EY and HoustonKemp to 
+conduct a net market benefit test, consistent with the approach used in the Regulatory Investment Test for 
+Transmission (RIT-T). The purpose of that analysis was to identify the preferred option, being the option that 
+maximises the net market benefit for consumers.  
+The net market benefit analysis conducted by EY and HoustonKemp estimated that the gross market benefits 
+provided by PEC would be $4.2 billion, with the ICC contract delivering the highest total net market benefit 
+of $964 million (in present value terms). From a total project cost perspective, therefore, the analysis confirms 
+that consumers are better off with PEC, and the project should definitely not be abandoned. In deciding how 
+to respond to Contract Failure, our options analysis focused on the incremental net market benefits for each 
+alternative option. That approach recognises that decision -making should only be informed by future costs 
+and benefits. 
+Figure 7  shows the incremental net market benefit of each option and also indicates those options that 
+provide greater certainty regarding the timely delivery of PEC. For example, options involving enforcement, 
+continuation of payments, and contract termination  are expected to deliver PEC later, hence the reduced 
+benefits compared to options involving either a new contract with Elecnor Australia or a ‘friendly’ descoping. 
+Figure 7 shows that the ICC contract with Elecnor Australia achieves the highest incremental net market 
+benefits of $2,389 million and, therefore, is the preferred option. 
+===== PDF PAGE 29 =====
+ 
+25  | Project Energy Connect | An application to reopen the 2023-2028 Revenue Determination 
+ Official
+Figure 7: Assessment of the competing options ($m, 2022/23)   
+ 
+In addition to conducting the net market benefit analysis, Transgrid also obtained independent expert reports 
+to assist in evaluating the alternative options, which provided further support for the prudency and efficiency 
+of the ICC contract option, including:  
+• A report from Fission, which confirmed that Transgrid would likely achieve a lower contract cost if it were 
+able to negotiate a revised contract with Elecnor Australia, instead of replacing Elecnor Australia with an 
+alternative contractor. 
+• A report from Turner & Townsend  which provided a  further independent assessment of the costs to 
+complete the project. Transgrid used this benchmarking analysis as a further data point from which to 
+assess the prudency and efficiency of the new contract and new contract price that was being negotiated 
+with Elecnor Australia. 
+• A benchmarking report prepared by  KPMG, which verifies that the negotiated outcome compares 
+favourably with other major transmission projects.  
+• A review from E3 Advisory which confirms that Transgrid took appropriate steps to obtain the best 
+outcome on behalf of electricity consumers. 
+In summary, while the Contract Failure has led to substantially higher costs than envisaged in the EPC 
+contract, Transgrid has acted prudently and efficiently to rectify the adverse consequences of that event for 
+the benefit of consumers.  Further detailed information on the options analysis and Transgrid’s decision 
+making is provided in Attachment 3 to this Application. 
+Incremental Net Market Benefits of Rectification Options against Base Case, by benefit total ($m, 2022123) 
+2,389 
+Base Case 
+0 
+i'lew contract with A "friendly' or Enforc ement of Continue additional Contract An ·unfriendly" Alliance or Project 
+Elecnor Austral ia agreed descoping the EPC contract payments (Status Termination descoping of acquisition of Abandonment 
+of EPC contract Ouo) EPC contract Elecnor Australia 
+Delivery ✓ ✓ ? ? ? ? ✓ Certainty? 
+===== PDF PAGE 30 =====
+ 
+26  | Project Energy Connect | An application to reopen the 2023-2028 Revenue Determination 
+ Official
+3. Forecast capital expenditure and reopener amount 
+Key points 
+• Transgrid’s proposed reopener amount is limited to the cost increases that have been caused 
+by the event, being Contract Failure, in accordance with the NER requirements. 
+• Transgrid considers that it has adopted a conservative approach to the reopener amount . In 
+particular, Transgrid is voluntarily not claiming any costs in this Application relating to its active 
+client role under the ICC contract, even though these costs fall within the scope of the reopener 
+provisions.  
+• The total forecast capital expenditure to deliver PEC has increased by $1,507 million and the 
+proposed reopener amount is approximately $ 365 million lower at $1, 142 million, which is 
+approximately 24% below the total increase in project costs.  
+• The remaining costs are expected to be reviewed by the AER during its ex post review, following 
+the successful completion of the project. 
+• Transgrid negotiated a profit share arrangement in the new ICC contract for the benefit of 
+consumers. Accordingly, if a profit share is provided to Transgrid at the end of the project, we 
+commit to return the full value to consumers. 
+3.1 Forecast capital expenditure and reopener amount 
+Table 3 summarises the forecast total capital expenditure to complete PEC is $3,628 million compared to the 
+AER’s inflation adjusted PEC CPA allowance of $2,121 million. The reopener amount is $1,142 million, which 
+is approximately $365 million or 24% lower than the forecast increase in the total project costs.  
+Table 3: Summary of the Reopener Amount ($m, 2022/23) 
+Items Current 
+forecast 
+CPA 
+allowance 
+Forecast 
+increase 
+Excluded 
+from 
+reopener 
+Reopener 
+amount 
+Contract Costs  2,967 1,634 1,333 211 1,122 
+Other Project Costs  661 487 174 154 20 
+Total 3,628 2,121 1,507 365 1,142 
+Following the completion of PEC, the AER will conduct an ex post review in relation to any overspend amount 
+incurred by Transgrid. The AER’s ex post review will examine the prudency and efficiency of any overspend, 
+and any expenditure that does not satisfy the AER’s assessment will be excluded from Transgrid’s regulatory 
+asset base, i.e., those costs will be borne by Transgrid’s shareholders rather than consumers.  Based on 
+current forecasts, Transgrid expects that the AER’s ex post review will apply to  approximately $365 million, 
+assuming that the reopener amount is approved.   
+In summary, the reopener amount principally relates to the increase in the contract costs caused by Contract 
+Failure, while the AER’s subsequent ex post review will focus on the prudency and efficiency of any increase 
+in ‘Other Project Costs’, being Transgrid’s internal project costs. While Transgrid is confident that these cost 
+increases will be assessed as prudent and efficient, we recognise that the ex post review provides 
+I I I I I 
+===== PDF PAGE 31 =====
+ 
+27  | Project Energy Connect | An application to reopen the 2023-2028 Revenue Determination 
+ Official
+stakeholders with comfort the AER will be able to scrutinise these cost increases even though they fall outside 
+the scope of this Application. The AER’s ex post review will also scrutinise the Contract Cost increases that 
+are excluded from this Application. 
+3.2 ICC contract cost 
+This section explains the methodology, approach and calculations to determining the reopener amount for 
+the contract cost. A high-level overview of the methodology is shown in Figure 8 below. 
+Figure 8: Methodology for determining the reopener amount for the Contract Costs   
+ 
+The ‘simplified approach’ in Figure 8 illustrates that the event caused a ‘step up’ in the costs of delivering 
+PEC from the fixed price in the EPC contract, depicted by the green line, to the fixed price in the ICC contract, 
+depicted by the blue line. The difference between the two lines, shown by the green shaded area is the 
+reopener cost or the ‘rectification costs’, i.e., the additional costs that must be incurred if PEC is to be 
+delivered.  
+The ‘our approach’ in Figure 8 extends the simplified approach to show that the ICC contract includes 
+additional claims and variations amounts , depicted by orange boxes,  that were paid by Transgrid  in 
+accordance with the EPC contract. Therefore, the ICC contract is a combination of the EPC contract , plus 
+claims and variations, plus the rectification costs. The reopener amount is therefore calculated as the ICC 
+contract price (the blue line) minus the EPC contract price (the green line) minus the claims and variations 
+(the orange boxes). This is also represented in Figure 9 below, which shows that the reopener amount with 
+respect to the contract costs is $1,122 million.  
+  
+Simplified approach 
+Simplified version ... 
+Rectification options 
+-----+ 
+Event 
+date 
+' \ I Rectification costs 
+New 
+contract 
+date 
+ICC contract 
+EPC contract 
+r - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Conceptually, the impact of the event is the increase in the 
+'headline' fixed price in the ICC contract compared to the EPC 
+contract cost (green shaded area). 
+This approach uses the AER-approved tendered works 
+allowance as the EPC contract price. The detemnination 
+provided a higher allowance for tendered works than was 
+ultimately agreed with SEJV in the EPC contract. 
+Our approach (stylised) 
+With claims, variations 
+and savings ... 
+Rectification options 
+-----+ 
+Deduct claims 
+and variations--f m~~§L _____ _ 
+Event 
+date 
+Rectification costs 
+New contract 
+date 
+ICC contract 
+EPC Contract 
+-Th~-ICC ~~tr-;;~t-p~i~ -i~ci~d-~~ -th-~- ~l~i~-; ~-~d---
+variations prior to the execution of tne comraci wnich would 
+have arisen had the event not occurred. 
+Removing these claims and variations ensures that costs that 
+are not relevant to the rectification of the event are excluded 
+from the claim. 
+Rectification cosl ~ Other amounts impacting 
+~ Cost lo Complete 
+===== PDF PAGE 32 =====
+ 
+28  | Project Energy Connect | An application to reopen the 2023-2028 Revenue Determination 
+ Official
+Figure 9: Determining the reopener amount for the Contract Costs 
+ 
+As explained in section 2.3.2, Transgrid negotiated a profit sharing arrangement into the ICC contract, which 
+means that if Elecnor Australia makes a profit in excess of $50 million (nominal), any additional profit above 
+that amount will be shared equally between Elecnor Australia and Transgrid. The ICC contract price includes 
+no allowance for profit and, therefore, Elecnor Australia’s cost performance would need to be better than 
+expected in order for Elecnor Australia to earn any profit in relation to PEC.  
+If a profit share is provided to Transgrid at the end of the project, we commit to return Transgrid’s profit share 
+to consumers.  
+3.3 Other project costs 
+In addition to the Contract Cost increase, Transgrid expects to incur increases in its Other Project Costs  
+which comprise Transgrid’s own internal labour resources, external labour hire, and costs for professional 
+and other services.  
+Table 4  below shows Transgrid’s forecast capital expenditure  for Other Project Costs, and the net cost 
+increase taking account of the AER’s CPA allowance and Clough Bonds  that have been received by 
+Transgrid to defray its increased costs caused by project delay. 
+Table 4: Transgrid’s forecast Other Project Costs ($m, Real 2022/23) 
+Other Project Costs Total Basis of forecast 
+Total forecast costs  765 Internal Transgrid forecast based on specific roles, 
+activities and scopes of work 
+Less Bonds (104) Compensation received to defray the increase in 
+Transgrid’s costs arising from the administration of 
+Clough 
+Net increase in Other 
+Project Costs before AER 
+allowance 
+661 This is the sum of the two items shown above 
+Less AER CPA allowance (487) The AER’s CPA allowance inflation adjusted from real 
+2018$ to real 2023$ 
+Net cost increase 174  
+Step 1: New contract costs less costs not related to PEC 
+and offsets 
+"What we expect to incur now that the event has happened " 
+(119) (276) 
+New Cont ract Less: Elecnor Paymen ts & Less: Line 5 {Dinawa n) 
+Interes t Upg rade 
+Step 2: Less AER CPA 
+Allowance 
+(1 ,634) 
+Step 3: Less Net cost 
+increase under EPC Contract 
+(211) 
+ICC contrac t cost fo r l ess: AER CPA Allowance Total PEC con tract cost Claims a nd Variations 
+PEC increase 
+• 
+. . 
+Reopener Claim 
+===== PDF PAGE 33 =====
+ 
+29  | Project Energy Connect | An application to reopen the 2023-2028 Revenue Determination 
+ Official
+While Table 4 shows that Transgrid expects to incur cost increases of $174 million, only those cost increases 
+that have been caused by the event may be included in this Application. As set out below, Transgrid proposes 
+to include Negotiation and Analysis and Insurance costs in this Application, but does not seek to recover 
+Transgrid’s other costs, such as active client costs. The AER will assess the prudency and efficiency of these 
+other costs in its ex post review as a precondition for those costs being included in Transgrid’s RAB. 
+Negotiation and Analysis Costs 
+The Negotiation and Analysis Costs comprise the cost associated with undertaking analysis, options 
+assessments and finalising the ICC contract. These costs include: 
+• the cost of internal labour to negotiate the ICC contract 
+• legal fees relating to the drafting and finalisation of the contract and to finalise matters relating to the 
+contract (such as claims), and 
+• other external advisor costs incurred to analyse and negotiate the ICC contract. 
+The reopener amount for Negotiation and Analysis Costs is $ 6 million. This comprises $4 million of non -
+labour costs and $2 million of internal labour costs. Of the non-labour costs approximately 50% relate to legal 
+fees, with the balance for a range of external advisers. As these costs would not have been incurred but for 
+the Contract Failure, they have been included in the reopener amount. 
+Insurance Costs 
+Transgrid renewed its insurance coverage for Material Damage and Third-Party Liability cover to reflect the 
+increase in the ICC Contract Cost compared to the EPC contract, excluding the costs of the completed works 
+such as Separable Portion 1 (SP1). The increase in the Insurance Costs as a consequence of the event is 
+$14 million and has been included in the reopener amount. 
+Excluded active client costs 
+As already noted, Transgrid will incur additional costs as a result of its active client role, which is a new role 
+under the ICC contract. While these costs are directly attributable to the event, Transgrid is voluntarily not 
+seeking to recover these costs in this Application. This decision means that Transgrid’s shareholders will 
+share a greater burden of the increase in project costs and help ease affordability concerns. In relation to the 
+AER’s review process, this conservative approach means that the AER will review Transgrid’s active client 
+costs as part of its ex post review  and also provides confidence that the amount claimed in this Application 
+is reasonable.   
+Proposed amount for Other Project Costs 
+Table 5 below shows Transgrid’s proposed reopener amount for Other Project Costs. 
+Table 5: Other Project Costs, Reopener Amount ($m, Real 2022/23) 
+Item Real $m 
+Contract Analysis and Negotiation costs 6 
+Insurance costs 14 
+Total Other Project Costs 20 
+===== PDF PAGE 34 =====
+ 
+30  | Project Energy Connect | An application to reopen the 2023-2028 Revenue Determination 
+ Official
+Further detailed information on the calculation of the reopener amount is provided in Attachment 7 to this 
+Application, which sets out the capital expenditure methodology. 
+===== PDF PAGE 35 =====
+ 
+31  | Project Energy Connect | An application to reopen the 2023-2028 Revenue Determination 
+ Official
+4. Revenue and pricing implications 
+Key points 
+• Transgrid’s total maximum allowed  revenue for the final year of the 2023 -2028 period will 
+increase by $173 million (nominal) as a result of the reopener Application.  
+• As explained in sections 1.1 and 2.4, PEC is expected to deliver substantial net  benefits to 
+consumers in New South Wales, South Australia and Victoria by enabling the connection and 
+sharing of lower cost generation across the NEM.  
+• The bill impact analysis presented in this section, which reflects the total costs of PEC including 
+the South Australian component, confirms that PEC will provide a net benefit to consumers over 
+the period 2023-2050.  
+4.1 Revised annual building block revenue requirement and expected MAR 
+Table 6 below shows that $173 million (nominal) in incremental revenue is required during the 2023-2028 
+period in relation to the reopener amount in this Application.  
+Table 6: Incremental revenue from PEC capex reopener for the 2023-2028 regulatory period ($m, nominal)  
+Building block Total Approach 
+Return on capital 166 Calculated by multiplying the forecast opening capital base for 
+a given year by the allowed rate of return adopted by the AER 
+Return of capital 10 Calculated as forecast straight line depreciation for each asset 
+class less indexation of the capital base 
+Operating expenditure 1 Transgrid is not seeking to adjust its current operating 
+expenditure allowance as part of this Application, other than 
+adjusting the allowance for debt raising cost s as a 
+consequence of the revised capex allowance. Debt raising 
+costs have been calculated using the AER’s standard 
+approach 
+Revenue adjustments - None 
+Corporate income tax (11) Calculated as forecast pre -tax income multiplied by the 
+corporate tax rate, less the assumed value of imputation 
+credits 
+Annual revenue 
+requirement (i.e. 
+unsmoothed) 
+166  
+Impact of smoothing 7 Calculated by resolving the year 5 X-factor, so the NPV of the 
+MAR for the 2023-2028 regulatory period matched that of the 
+forecast annual revenue requirement for the same period 
+Maximum allowed revenue 
+(i.e. smoothed) 
+173  
+Transgrid is seeking to recover this incremental revenue during the last year of the current regulatory period 
+because Transmission Use of System ( TUOS) prices for prior years have already been determined . 
+===== PDF PAGE 36 =====
+ 
+32  | Project Energy Connect | An application to reopen the 2023-2028 Revenue Determination 
+ Official
+Transgrid’s revenue requirement for subsequent regulatory periods will reflect the actual costs of delivering 
+PEC, subject to the AER’s prudency and efficiency assessment in its ex post review.  
+Table 7: Incremental revenue from PEC capex reopener forecast by year ($m, nominal) 
+MAR  
+(smoothed revenue) 
+2023-24 2024-25 2025-26 2026-27 2027-28 Total 
+AER 2023-2028 Determination 
+(updated for 2025-26 return on debt)   
+924 960 1,108 1,283  1,389  5,663  
+Impact of capex reopener - - - - 173 173 
+Updated MAR 924 960 1,108 1,283 1,562 5,837  
+For further detail please see the updated PTRM, which has been submitted as part of this Application.  The 
+inclusion of $173 million in Transgrid’s revenue for 2027 -28 translates to an increase of approximately $18 
+per residential customer. As 2027 -28 is the first year in w hich Transgrid may increase its revenue  in 
+accordance with this Application, the $18 increase per customer includes the impact of cost increases from 
+prior years. To provide an indication of the total annual costs and benefits of PEC, the next section provides 
+an assessment of the net impact of PEC on residential consumers’ annual bills.  
+4.2 Customer bill impact of PEC 
+In addition to improving the reliability and security of supply in New South Wales, South Australia and Victoria, 
+PEC is still expected to deliver substantial electricity bill savings for consumers across these States 
+(compared to the scenario where PEC was not built). This is because the lower cost generation enabled by 
+PEC will more than offset the increase in the transmission component of electricity bills, even after 
+considering the increased cost of the capex reopener. 
+Table 8 below provides an indicative range for the average annual bill impact for residential customers across 
+New South Wales, South Australia, and Victoria . It shows an estimated range for the annual generation 
+savings per residential customer as a result of PEC proceeding, which have been estimated by ACIL Allen 
+based on detailed modelling. 17 The estimated range for the annual residential transmission costs takes 
+account of: 
+• The estimated share of the annual transmission costs relating to PEC that is expected to be allocated to 
+residential customers in NSW and South Australia.  
+• The estimated impact of  the Modified Load Export Charge ( MLEC), which is a n inter-regional 
+transmission charge between regions based on a complex methodology that is mandated in the NER. 
+The purpose of MLEC is to recognise that each TNSP makes use of its neighbouring TNSP’s assets and 
+should, therefore, contribute to those costs according to usage. In the case of PEC, the effect of MLEC 
+will be to  transfer some transmission costs from NSW to South Australia and Victori a. The analysis 
+ 
+ 
+17 By its nature, these savings are indicative and are likely to vary from the estimates provided. 
+I I I I I I 
+===== PDF PAGE 37 =====
+ 
+33  | Project Energy Connect | An application to reopen the 2023-2028 Revenue Determination 
+ Official
+presented below provides an estimate of this impact, noting that the actual calculation will be determined 
+annually in accordance with the NER.  
+Table 8: Indicative Average Annual Bill Impact of PEC for a typical residential customer by state, 2022-23 to 
+2049-50 ($Nominal) 
+ NSW1 SA VIC 
+Generation saving  25 – 30  60 – 75  35 – 45  
+Transmission cost2  15 – 20  10 – 15  0 – 5  
+Net bill savings  5 – 15  45 – 65  30 – 45  
+Source: ACIL Allen, Transgrid analysis. Note: Bill impacts are indicative estimates only, rounded to the nearest $5 increment.1. The indicative 
+bill impacts for residential customers living within the Australian Capital Territory are assumed to be the same as those for NSW Customer s. 
+2. The estimated transmission cost upper bound value for NSW, and lower bound values for SA and VIC show the bill impact if MLEC did not 
+have any redistributive effect. In reality, we expect the net impact of MLEC to redistribute transmission costs from NSW to SA and VIC, although 
+the magnitude of this effect is difficult to estimate at this stage. 
+The analysis shows that residential consumers in New South Wales, South Australia and Victoria remain 
+better off with PEC compared to the hypothetical case in which PEC did not proceed. It also illustrates the 
+value of PEC in providing a more integrated gr id as highlighted by AEMO’s ISP, particularly for consumers 
+in South Australia and Victoria.    
+===== PDF PAGE 38 =====
+ 
+34  | Project Energy Connect | An application to reopen the 2023-2028 Revenue Determination 
+ Official
+5. Next steps 
+The AER will now review this Application in accordance with the NER requirements. Transgrid expects that 
+the AER will seek additional information as part of its review process and seek the views of stakeholders and 
+interested parties. Transgrid welcomes the AER’s review, and we look forward to working with its staff and 
+Board in making its determination. 

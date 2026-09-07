@@ -1,0 +1,189 @@
+{
+  "families": [
+    {
+      "blocker_count": 1,
+      "counts": {
+        "components": 9,
+        "findings": 12,
+        "observations": 64,
+        "sources": 26,
+        "timeline": 23,
+        "warnings": 18
+      },
+      "family_slug": "central-west-orana",
+      "files": {
+        "json": "families/central-west-orana.json",
+        "md": "families/central-west-orana.md"
+      },
+      "name": "Central-West Orana Renewable Energy Zone",
+      "project_id": "CWO-PROJECT-MAIN"
+    },
+    {
+      "blocker_count": 0,
+      "counts": {
+        "components": 15,
+        "findings": 12,
+        "observations": 91,
+        "sources": 27,
+        "timeline": 28,
+        "warnings": 15
+      },
+      "family_slug": "humelink",
+      "files": {
+        "json": "families/humelink.json",
+        "md": "families/humelink.md"
+      },
+      "name": "HumeLink",
+      "project_id": "HUM-PROJECT-HUMELINK"
+    },
+    {
+      "blocker_count": 0,
+      "counts": {
+        "components": 7,
+        "findings": 12,
+        "observations": 39,
+        "sources": 8,
+        "timeline": 7,
+        "warnings": 14
+      },
+      "family_slug": "hunter-transmission-project",
+      "files": {
+        "json": "families/hunter-transmission-project.json",
+        "md": "families/hunter-transmission-project.md"
+      },
+      "name": "Hunter Transmission Project",
+      "project_id": "HTP-PROJECT-HTP"
+    },
+    {
+      "blocker_count": 1,
+      "counts": {
+        "components": 7,
+        "findings": 12,
+        "observations": 32,
+        "sources": 10,
+        "timeline": 9,
+        "warnings": 12
+      },
+      "family_slug": "marinus-link",
+      "files": {
+        "json": "families/marinus-link.json",
+        "md": "families/marinus-link.md"
+      },
+      "name": "Project Marinus",
+      "project_id": "ML-PROJECT-MARINUS"
+    },
+    {
+      "blocker_count": 1,
+      "counts": {
+        "components": 13,
+        "findings": 12,
+        "observations": 41,
+        "sources": 8,
+        "timeline": 7,
+        "warnings": 18
+      },
+      "family_slug": "new-england-rez",
+      "files": {
+        "json": "families/new-england-rez.json",
+        "md": "families/new-england-rez.md"
+      },
+      "name": "New England REZ Network Infrastructure Project",
+      "project_id": "NER-PROJECT-NIP"
+    },
+    {
+      "blocker_count": 3,
+      "counts": {
+        "components": 11,
+        "findings": 12,
+        "observations": 61,
+        "sources": 13,
+        "timeline": 15,
+        "warnings": 12
+      },
+      "family_slug": "project-energyconnect",
+      "files": {
+        "json": "families/project-energyconnect.json",
+        "md": "families/project-energyconnect.md"
+      },
+      "name": "Project EnergyConnect",
+      "project_id": "PEC-PROJECT-PEC"
+    },
+    {
+      "blocker_count": 1,
+      "counts": {
+        "components": 9,
+        "findings": 12,
+        "observations": 49,
+        "sources": 5,
+        "timeline": 9,
+        "warnings": 14
+      },
+      "family_slug": "sydney-ring-south",
+      "files": {
+        "json": "families/sydney-ring-south.json",
+        "md": "families/sydney-ring-south.md"
+      },
+      "name": "Sydney Ring South (Reinforcing Sydney, Newcastle and Wollongong Supply)",
+      "project_id": "SRS-PROJECT-SRS"
+    },
+    {
+      "blocker_count": 2,
+      "counts": {
+        "components": 7,
+        "findings": 12,
+        "observations": 28,
+        "sources": 9,
+        "timeline": 13,
+        "warnings": 16
+      },
+      "family_slug": "vni-west-nsw",
+      "files": {
+        "json": "families/vni-west-nsw.json",
+        "md": "families/vni-west-nsw.md"
+      },
+      "name": "VNI West (South West NSW REZ component)",
+      "project_id": "VNN-PROJECT-VNI-NSW"
+    },
+    {
+      "blocker_count": 1,
+      "counts": {
+        "components": 7,
+        "findings": 12,
+        "observations": 44,
+        "sources": 10,
+        "timeline": 16,
+        "warnings": 15
+      },
+      "family_slug": "vni-west-victoria",
+      "files": {
+        "json": "families/vni-west-victoria.json",
+        "md": "families/vni-west-victoria.md"
+      },
+      "name": "VNI West (Victoria)",
+      "project_id": "VNV-PROJECT-VNI-VIC"
+    },
+    {
+      "blocker_count": 3,
+      "counts": {
+        "components": 14,
+        "findings": 12,
+        "observations": 30,
+        "sources": 6,
+        "timeline": 11,
+        "warnings": 16
+      },
+      "family_slug": "western-renewables-link",
+      "files": {
+        "json": "families/western-renewables-link.json",
+        "md": "families/western-renewables-link.md"
+      },
+      "name": "Western Renewables Link",
+      "project_id": "WRL-PROJECT-WRL"
+    }
+  ],
+  "generated": {
+    "contract": "v1",
+    "research_cutoff": "2026-09-04"
+  },
+  "schema": "ate.project-evidence-pack.v2.families-index"
+}

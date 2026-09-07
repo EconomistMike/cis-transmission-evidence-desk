@@ -1,0 +1,9 @@
+node_modules/
+playwright-report/
+test-results/
+.DS_Store
+.env
+.env.*
+.herenow/
+credentials
+*.log

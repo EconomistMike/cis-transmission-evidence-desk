@@ -1,0 +1,230 @@
+
+
+===== PDF PAGE 1 =====
+
+EnergyCo  
+energyco .nsw.gov.au   
+ 
+The Energy Corporation of NSW (EnergyCo)  
+C e nt r al-West Ora na  R enewa bl e  Energy Zone :  Hea droom  Asse ssment – F in a l D e c is io n 
+Central - West Orana Renewable Energy 
+Zone: Headroom Assessment –  Final 
+Decision  
+January 20 2 5  
+ 
+ 
+ 
+
+===== PDF PAGE 2 =====
+
+ 
+Ce n tra l - West Ora na  R enewa bl e Energy Zone: Hea droom Assessment – Final Deci sion  | Central- West Orana Renewable Energy Zone: Headroom Assessment – Final Decision | 2 
+A cknowledgement of Country  
+Energy Corporation of New South Wales acknowledges that it stands on Aboriginal land. We 
+acknowledge the Traditional C ustodians of the land and we show our respect for Elders past 
+and present  through thoughtful and collaborative approaches to our work, seeking to 
+demonstrate our ongoing commitment to providing places in which Aboriginal people are 
+included socially, culturally and economically.  
+Published by Energy Corporation of New South Wales 
+energyco.nsw.gov.au  
+Central -West Orana Renewable Energy Zone: Headroom Assessment – Final Decision First published:  
+January 2025  
+Copyright and disclaimer 
+© State of New South Wales through the Energy Corporation of New South Wales 2025 . Information 
+contained in this publication is based on knowledge and understanding at the time of writing, January 2025 , 
+and is subject to change. For more information, please visit energy.nsw.gov.au/copyright  
+TMP - MC -R-DC- V1.2  
+ 
+ 
+
+===== PDF PAGE 3 =====
+
+ 
+Ce n tra l - West Ora na  R enewa bl e Energy Zone: Hea droom Assessment – Final Deci sion  | Central - West Orana Renewable Energy Zone: Headroom Assessment – Final Decision | 3  
+Contents  
+1. Headroom Assessment  .......................................................................................................................... 4  
+1.1. Overview  ..................................................................................................................................................................................... 4  
+1.2. Background  .............................................................................................................................................................................. 5  
+1.3. Consultation on the Draft Headroom Assessment  ................................................................................................ 6  
+1.2. More information  ................................................................................................................................................................... 6  
+2. Outcomes and Assumptions of Final Decision.................................................................................... 7 
+2.1. Headroom Available  ............................................................................................................................................................. 7  
+2.2. Increase to the Aggregate Maximum Capacity Cap  ............................................................................................ 7  
+2.3. Forecast Curtailment  .......................................................................................................................................................... 7  
+2.4. Assumptions  .......................................................................................................................................................................... 8  
+ 
+ 
+ 
+
+===== PDF PAGE 4 =====
+
+ 
+Ce n tra l - West Ora na  R enewa bl e Energy Zone: Hea droom Assessment – Final Deci sion  | Central- West Orana Renewable Energy Zone: Headroom Assessment – Final Decision | 4 
+1. Headroom Assessment 
+1.1. Overview  
+The Energy Corporation of NSW (EnergyCo), in its capacity as Infrastructure Planner for the Central -
+West Orana Renewable Energy Zone (REZ) , has conducted a headroom assessment in accordance 
+with clause 10 of the Renewable Energy Zone (Central- West Orana) Access Scheme Declaration  2022 
+(Access Scheme Declaration) . 1   
+The purpose of a headroom assessment is to determine  “headroom”, being  the increase in 
+aggregate  maximum capacity in a capacity period 2  that could be allocated under access rights for 
+the Central - West Orana REZ access rights network (access rights network) without resulting in 
+forecast curtailment on the access rights network exceeding the target transmission curtailment 
+lev el  of 4.37% (TTCL) .   
+EnergyCo has calculated that  the aggregate maximum capacity could be increased by  1.86 
+gigawatts (GW) without  forecast curtailment  exceeding the TTCL. The basis for the  decision is set 
+out in section 2.  
+Summary of Final Headroom Assessment  decision  
+• H eadroom  determined : 1.86 GW  
+• Previous aggregate maximum capacity cap: 5.84 GW  
+• New aggregate maximum capacity cap: 7.7 GW  
+The basis of EnergyCo’s calculation on the amount of additional capacity that could be allocated in 
+the Central - West Orana REZ is explained in this document .  
+This decision  document includes the following information: 3  
+• Background on the Central - West Orana REZ headroom assessment (section 1.2); and  
+• Consideration of consultation that EnergyCo has undertaken on the Headroom Assessment 
+(section 1.3); and  
+• the headroom available in each capacity period  (section 2.1);  and  
+ 
+1  As amended by the Renewable Energy Zone (Central -West Orana) Access Scheme (Amendment) Order 2024 (dated 5 April 2024),  available 
+at: Government Gazette No 116 of Friday 5 April 2024 (nsw.gov.au) .   
+2  There is currently  a single 24-hour  capacity period under the Access Scheme Declaration.   
+3  Clause 10( 5)( c)  of Renewable Energy Zone (Central -West Orana) Access Scheme Order 2022  
+
+===== PDF PAGE 5 =====
+
+ 
+Ce n tra l - West Ora na  R enewa bl e Energy Zone: Hea droom Assessment – Final Deci sion  | Central- West Orana Renewable Energy Zone: Headroom Assessment – Final Decision | 5 
+• the forecast curtailment based on the increased aggregate maximum capacity  cap  (section 
+2.2); and  
+• material assumptions about the aggregate expected capacities profiles or the technology mix 
+of potential future projects made as part of the headroom assessment  (section 2.3) . 
+1.2. Background 
+Under the Access Scheme Declaration, the initial limit on maximum capacity that could be allocated 
+under access rights to generation and storage projects is 5.84  GW (the initial aggregate maximum 
+capacity cap ) . The initial aggregate maximum capacity cap was determined based on an assumed 
+transfer capacity of the access rights network of 3  GW, being the intended network capacity of the 
+Central West Orana REZ when the Access Scheme Declaration was made.  
+In December 2023 , the Renewable Energy Zone (Central- West Orana) Order 2021 was  amended to 
+increase the intended network capacity of the Central West Orana REZ from 3 GW to 6 GW, noting 
+the network infrastructure will initially have a transfer capacity of 4.5 GW. 4  This was reflected in the 
+new network infrastructure authorised by the Consumer Trustee in May 2024  which authorises a 
+network infrastructure project with a n initial transfer capacity of 4.5GW . 5  A determination of t he 
+transfer capacity of the access rights network has been made  at 4.5 GW 6 . The headroom 
+assessment has been conducted based on this transfer capacity.  
+Because the transfer capacity of the access rights network has increased from 3GW to 4.5GW  since 
+the Access Scheme Declaration was made and initial aggregate maximum capacity cap specified, 
+EnergyCo formed the view that there was likely to be material headroom and commenced a 
+headroom assessment process.
+7    
+An increase in the aggregate maximum capacity cap under the Access Scheme Declaration will 
+provide certainty to the market and communities on the amount of generation and storage 
+development likely to occur in the near to medium term  based on the transfer capacity of the access 
+rights network . The identification of headroom also promotes the efficient utilisation of the 
+authorised access rights network, once constructed .  
+The Central - West Orana REZ Access Scheme is the first Access Scheme being developed under the 
+Electricity Infrastructure Investment Act 2020  and this is the first  headroom assessment conducted 
+ 
+4  Renewable Energy Zone (Central -West Orana) Order 2023: https://gazette.nsw.gov.au/gazette/2023/12/2023 -580.pdf   
+5  Notice of Authorisation Enabling CWO REZ Network Infrastructure Project: https://aemoservices.com.au/ -
+/media/services/files/publications/authorisation -function/notice - of -authorisation -cwo -enabling.pdf?la=en   
+6  Transfer Capacity Determination under the Central - West Orana  Renewable Energy Zone Access Scheme.   
+7  Under the Access Scheme Declaration , EnergyCo as the infrastructure planner may conduct a headroom assessment whenever its forms 
+the opinion that there will likely be material headroom.  Clause 10(1)(c) of Renewable Energy Zone  (Central -West Orana) Access Scheme 
+Order 2022 .  
+
+===== PDF PAGE 6 =====
+
+ 
+Ce n tra l - West Ora na  R enewa bl e Energy Zone: Hea droom Assessment – Final Deci sion  | Central- West Orana Renewable Energy Zone: Headroom Assessment – Final Decision | 6 
+under an Access Scheme. EnergyCo, as Infrastructure Planner,  has exercised  its discretion to 
+determine the increase in additional maximum capacity as a result of the headroom assessment and 
+has  take n a conservative approach to  calculating the increase in maximum  capacity that can be 
+allocated to generation and storage projects as a result of the  increase in the  transfer capacity  of 
+the access rights network . 8   
+1.3. Consultation on the Draft Headroom Assessment  
+EnergyCo published a notice of its  Draft Headroom Assessment on 1 August 2024 . The document 
+was open for consultation from the date of publication until 5 September 2024.  
+Overall, 14 submissions were received and EnergyCo has considered each of these submissions 
+when making  a final decision on the headroom available in the Central - West Orana REZ . 
+In response t o submissions received during the consultation period , EnergyCo has published a fact 
+sheet  to provide accessible information on the headroom process and the impacts it will have in the 
+REZ. The intention of the  document is  to  provide a plain English  explanation of th is process . 
+1. 2 . More information  
+For more information on headroom and headroom assessments please refer to the Central - West 
+Orana Renewable Energy Zone Access Scheme Target Transmission Curtailment Level & Headroom 
+Assessment Method  p aper.  
+Future headroom assessments  may further increase the aggregate maximum capacity cap  
+The aggregate maximum capacity cap  determined as a result of  this headroom assessment may  
+not be the final limit  on aggregate maximum capacity that may be allocated to generation and 
+storage projects under access rights for the  Central - West Orana REZ access rights network . 
+EnergyCo will conduct further headroom assessments as required or permitted by the Access 
+Scheme Declaration , including  conducting  a headroom assessment as soon as practical following 
+the completion of the initial allocation 9  and every two calendar years during the period of six 
+calendar years after the initial allocation is complete. 10  
+ 
+8 EnergyCo  has discretion under the Access Scheme Declaration to determine that the amount of additional maximum capacity in a 
+capacity period should be less than the headroom calculated under a headroom assessment under Schedule 3, including without 
+limitation after taking into account relevant power system limits  - c lause 10( 3 ) of the Access Scheme Declaration .  
+9  Clause 10(1)(a) of Renewable Energy Zone (Central -West Orana) Access Scheme Order 2022 .  
+10  Clause 10(1)(b) of Renewable Energy Zone (Central -West Orana) Access Scheme Order 2022 .  
+
+===== PDF PAGE 7 =====
+
+ 
+Ce n tra l - West Ora na  R enewa bl e Energy Zone: Hea droom Assessment – Final Deci sion  | Central- West Orana Renewable Energy Zone: Headroom Assessment – Final Decision | 7 
+2. Final Decision  
+2.1. Headroom  
+Headroom represents  the additional maximum capacity of generation and storage projects that 
+could be granted under access rights in all relevant capacity periods without forecast curtailment 
+exceeding the TTCL. 
+At the date  this decision is made , no projects have been allocated access rights  for the access 
+rights network , and the previous aggregate maximum capacity in the single 24 - hour capacity period 
+under the Access Scheme Declaration is 0 MW.  
+EnergyCo has undertaken a headroom calculation in accordance with Schedule 3 of the Central -
+West Orana Access Scheme Declaration and the Central - West Orana Renewable Energy Zone Access 
+Scheme Target Transmission Curtailment Level & Headroom Assessment Method . 11  
+EnergyCo has identified that the aggregate maximum capacity cap can be increased by 1.86  GW  
+without forecast curtailment exceeding TTCL (see section 2.3) . 
+2.2. Increase to the Aggregate Maximum Capacity Cap  
+The previous aggregate maximum capacity cap for the CWO REZ was  5.84 GW. As  EnergyCo has 
+determined that there is  1.86 GW of headroom, the new aggregate maximum capacity cap under the 
+Access Scheme Declaration is  7.7  GW.   
+2.3. Forecast Curtailment  
+The forecast curtailment before and after the headroom determination were calculated in 
+accordance  with the Central West Orana Renewable Energy Zone Access Scheme Target Transmission 
+Curtailment Level & Headroom Assessment Method Paper . 12  
+Before the headroom assessment, the forecast curtailment on the access rights network is 0%, as at 
+the date this decision is made there are no access right holders under the Access Scheme 
+Declaration . 13   
+ 
+11  Chapter of paper 
+12  Relevant chapter of paper  
+13  Note that m odelled planting of generation (solar and wind) up to the initial aggregate maximum capacity of 5.84 GW, for 3 GW of 
+transfer capacity,  results in forecast curtailment of 4.37%.  
+
+===== PDF PAGE 8 =====
+
+ 
+Ce n tra l - West Ora na  R enewa bl e Energy Zone: Hea droom Assessment – Final Deci sion  | Central- West Orana Renewable Energy Zone: Headroom Assessment – Final Decision | 8 
+After the headroom assessment, the forecast curtailment (based on the assumptions specified  in 
+section 2.4) of the new aggregate maximum capacity  cap  of 7.7 GW, based on an access rights 
+network with  4.5 GW of transfer capacity , is  0.25%.   
+ 
+2. 4 . Assumptions  
+For the purposes of this headroom assessment , EnergyCo has considered the successful applicants 
+that have been conditionally awarded access rights from  the Access Application P rocess  conducted 
+in 2024 14 . Using this information, the following assumptions were made:  
+Aggregate expected capacity profiles 
+EnergyCo represented each successful applicant using the expected capacity profiles  that were 
+used as part of the TTCL assessment in the previous access rights application process . These 
+profiles  may be those provided by the relevant  applicant , or as determined by EnergyCo following 
+clarifications with the relevant applicant and considering other relevant information.  
+Technology mix  of successful applicants 
+The technology mix is that of the projects applying for access award, totalling 7.7 GW:  
+Solar and solar hybrid: 3,056  MW  
+Wind: 2,951  MW  
+Stand - alone  battery: 1,700 MW (2 hr)  
+ 
+ 
+14  https://www.energyco.nsw.gov.au/industry/central -west - orana -rez -access -rights -application -process   

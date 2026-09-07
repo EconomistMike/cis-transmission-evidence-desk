@@ -1,0 +1,3675 @@
+
+
+===== PDF PAGE 1 =====
+
+ 
+   
+ 
+2020 ISP 
+Appendix 3. 
+Network 
+Investments 
+ 
+ 
+ 
+July 2020 
+ 
+ 
+ 
+ 
+
+===== PDF PAGE 2 =====
+
+ 
+   
+ 
+Important notice 
+PURPOSE 
+This is Appendix 3 to the Final 2020 Integrated System Plan, available at https://aemo.com.au/en/energy-
+systems/major-publications/integrated-system-plan-isp. 
+DISCLAIMER 
+This document or the information in it may be subsequently updated or amended. This document does not 
+constitute legal or business advice, and should not be relied on as a substitute for obtaining detailed advice 
+about the National Electricity Law, the National Electricity Rules, or any other applicable laws, procedures or 
+policies. AEMO has made every effort to ensure the quality of the information in this document but cannot 
+guarantee its accuracy or completeness.  
+Accordingly, to the maximum extent permitted by law, AEMO and its officers, employees and consultants 
+involved in the preparation of this document: 
+• make no representation or warranty, express or implied, as to the currency, accuracy, reliability or 
+completeness of the information in this document; and 
+• are not liable (whether by reason of negligence or otherwise) for any statements or representations in this 
+document, or any omissions from it, or for any use or reliance on the information in it. 
+VERSION CONTROL 
+Version Release date Changes 
+1.0 30/7/2020 Initial release 
+ 
+© 2020 Australian Energy Market Operator Limited. The material in this publication may be used in 
+accordance with the copyright permissions on AEMO’s website. 
+
+===== PDF PAGE 3 =====
+
+ 
+© AEMO 2020 | Final 2020 ISP, Appendix 3. Network Investments 3 
+ 
+Contents 
+Summary 8 
+A3.1. Introduction 9 
+A3.2. Network investments in the optimal development path 10 
+A3.2.1 Committed ISP projects 13 
+A3.2.2 Actionable ISP Projects 13 
+A3.2.3 Future ISP projects 14 
+A3.2.4 Summary of variations to the optimal development path 16 
+A3.2.5 Summary of non-network opportunities 16 
+A3.3. Committed ISP projects 18 
+A3.3.1 South Australia system strength remediation 18 
+A3.3.2 Western Victoria Transmission Network Project 19 
+A3.3.3 QNI Minor 21 
+A3.4. Actionable ISP projects 24 
+A3.4.1 VNI Minor 24 
+A3.4.2 Project EnergyConnect 27 
+A3.4.3 HumeLink 29 
+A3.4.4 Central-West Orana REZ Transmission Link 31 
+A3.4.5 VNI West 32 
+A3.4.6 Marinus Link (Stage 1 and Stage 2) 38 
+A3.5. Future ISP projects with preparatory activities 41 
+A3.5.1 QNI Medium and Large 42 
+A3.5.2 Central Queensland to Southern Queensland Transmission Link 47 
+A3.5.3 Reinforcing Sydney, Newcastle and Wollongong Supply 48 
+A3.5.4 Gladstone grid reinforcement 50 
+A3.5.5 New England REZ Network Expansion 52 
+A3.5.6 North West New South Wales Network Expansion 54 
+A3.6. Other future ISP projects 57 
+A3.6.1 Mid North South Australia network project 57 
+A3.6.2 Far North Queensland Network and REZ Expansion 58 
+A3.6.3 South East South Australia network expansion 60 
+A3.7. Addressing network congestion 62 
+A3.8. Alternatives considered 64 
+A3.8.1 Options to increase interconnection between Queensland and New South Wales 64 
+
+===== PDF PAGE 4 =====
+
+ 
+© AEMO 2020 | Final 2020 ISP, Appendix 3. Network Investments 4 
+ 
+A3.8.2 Options to increase interconnection between New South Wales and Victoria 65 
+A3.8.3 Option to build interconnection between South Australia and Queensland 67 
+ 
+ 
+Tables 
+Table 1 Committed ISP projects 13 
+Table 2 Actionable ISP projects 13 
+Table 3 Future ISP projects with preparatory activities 15 
+Table 4 South Australia system strength remediation summary 18 
+Table 5 Western Victorian Transmission Network Project overview 19 
+Table 6 Western Victoria Transmission Network Project detail 20 
+Table 7 QNI Minor overview 21 
+Table 8 QNI Minor detail 22 
+Table 9 VNI Minor overview 25 
+Table 10 VNI Minor detail 25 
+Table 11 Project EnergyConnect overview 27 
+Table 12 Project EnergyConnect detail 28 
+Table 13 HumeLink overview 29 
+Table 14 HumeLink detail 30 
+Table 15 Associated augmentations for HumeLink 31 
+Table 16 Central-West Orana REZ Transmission Link overview 31 
+Table 17 Central-West Orana REZ Transmission Link detail 32 
+Table 18 Central-West Orana Transmission Link – non-network opportunity 32 
+Table 19 Associated augmentations to Central-West Orana REZ Transmission Link 32 
+Table 20 VNI West (Shepparton) overview 34 
+Table 21 VNI West (Shepparton) detail 34 
+Table 22 VNI West (Kerang) overview 35 
+Table 23 VNI West (Kerang) detail 36 
+Table 24 Associated augmentations to VNI West 38 
+Table 25 Marinus Link Stage 1 and 2 overviews 38 
+Table 26 Marinus Link Stage 1 and 2 detail 39 
+Table 27 Future ISP projects for which preparatory activities are required 41 
+Table 28 QNI Medium and Large overview 42 
+Table 29 QNI Medium and Large detail 43 
+Table 30 Alternative option for QNI Medium and Large 45 
+
+===== PDF PAGE 5 =====
+
+ 
+© AEMO 2020 | Final 2020 ISP, Appendix 3. Network Investments 5 
+ 
+Table 31 QNI Medium and Large – non-network opportunity 46 
+Table 32 Associated augmentations with QNI Medium and Large 46 
+Table 33 Central Queensland to Southern Queensland Transmission Link overview  47 
+Table 34 Central Queensland to Southern Queensland Transmission Link detail 47 
+Table 35 Central Queensland to Southern Queensland – non-network opportunity description 48 
+Table 36 Reinforcing Sydney, Newcastle and Wollongong Supply overview 48 
+Table 37 Sydney/Newcastle/Wollongong load centre reinforcement detail 49 
+Table 38 Reinforcing Sydney, Newcastle and Wollongong Supply – non-network opportunity 
+description 50 
+Table 39 Gladstone grid reinforcement overview 51 
+Table 40 Gladstone grid reinforcement detail 51 
+Table 41 Gladstone network section reinforcement – non-network opportunity description 52 
+Table 42 New England REZ Network Expansion overview 52 
+Table 43 New England REZ Network Expansion detail 53 
+Table 44 New England – non-network opportunity description 54 
+Table 45 North West New South Wales Transmission Link overview 54 
+Table 46 North West New South Wales Transmission Link detail 55 
+Table 47 North West New South Wales Transmission Link – non-network opportunity description 56 
+Table 48 Mid North South Australia network project overview 57 
+Table 49 Mid North South Australia network project detail 58 
+Table 50 Far North Queensland network and REZ expansion overview 58 
+Table 51 Far North Queensland Network and REZ expansion detail 59 
+Table 52 Far North Queensland REZ expansion – non-network opportunity description 60 
+Table 53 South East South Australia network expansion overview 60 
+Table 54 South East South Australia network expansion detail 60 
+Table 55 South East South Australia– non-network opportunity description 61 
+Table 56 Discounted options to increase interconnection between Queensland and New South 
+Wales 64 
+Table 57 Discounted options to increase interconnection between New South Wales and Victoria 66 
+ 
+ 
+Figures 
+Figure 1 Additional interconnector capacity in the optimal development path 10 
+Figure 2 Increase in REZ hosting capacity 11 
+Figure 3 Optimal development path 12 
+
+===== PDF PAGE 6 =====
+
+ 
+© AEMO 2020 | Final 2020 ISP, Appendix 3. Network Investments 6 
+ 
+Figure 4 Synchronous condenser locations and commissioning dates 19 
+Figure 5 Victoria – New South Wales Interconnector options 33 
+Figure 6 Alternative for QNI Medium and Large 45 
+Figure 7 2019-20 system normal congestion in the NEM without (left) and with (right) ISP projects 63 
+ 
+  
+
+===== PDF PAGE 7 =====
+
+ 
+© AEMO 2020 | Final 2020 ISP, Appendix 3. Network Investments 7 
+ 
+2020 ISP Appendices 
+ 
+Appendix 1.  Stakeholder Engagement 
+Stakeholder engagement program and timelines 
+Consultation on Draft 2020 ISP 
+Appendix 2. Cost Benefit Analysis 
+An economically efficient development path  
+Appendix 3. Network Investments 
+Network investments in the optimal 
+development path 
+Committed ISP projects  
+Actionable ISP projects 
+Future ISP projects recommended with 
+preparatory activities 
+Other future ISP projects 
+Addressing network congestion  
+Alternatives considered 
+Appendix 4. Energy Outlook 
+Future energy supplies for a resilient power 
+system  
+Unlocking VRE through REZs 
+Managing variable energy supplies through 
+energy storages and firming technologies 
+Development outlooks across scenarios 
+NEM emission intensity with the least-cost 
+development paths 
+Appendix 5. Renewable Energy Zones 
+Integrating large volumes of VRE 
+REZ framework and design principles 
+ISP REZ development 
+REZ scorecards 
+Appendix 6. Future Power System Operability 
+Power system operability models and input 
+NEM-wide operability outlook 
+Regional risks and insights 
+Appendix 7. Future Power System Security 
+Renewable Integration Study 
+System strength outlook 
+Inertia outlook 
+REZ opportunities 
+South Australia in transition 
+Appendix 8. Resilience and Climate Change 
+Resilience in the 2020 ISP 
+Forecasting climate impacts on energy systems 
+Planning for a climate-resilient network 
+Next steps  
+Appendix 9. ISP Methodology 
+Overview of ISP methodology 
+Inputs 
+Engineering assessment 
+Model outputs 
+Appendix 10.  Sector Coupling 
+Hydrogen 
+EVs 
+Gas 
+Energy efficiency 
+Bioenergy 
+ 
+
+===== PDF PAGE 8 =====
+
+ 
+© AEMO 2020 | Final 2020 ISP, Appendix 3. Network Investments 8 
+ 
+Summary 
+This Network Investments appendix provides technical detail on the network investments which form the 
+optimal development path. These network investments can be classified into committed, actionable  (with and 
+without staging), future projects with preparatory activities, and future projects where no action is required 
+before the 2022 ISP. 
+Key insights 
+The national transmission network (the network) will continue to be fundamental in realising an efficient, 
+reliable, and secure power system, but the role of the network will shift from one based predominantly on 
+bulk energy transfer to one that also includes the network’s critical role in enabling essential power system 
+services and supporting new generation development. To support this evolution, this ISP recommends: 
+• Increased interconnection between regions to enable more efficient sharing of resources and, where 
+possible, to also serve to connect to REZs. 
+• Facilitating connection of new renewable generation with REZ network expansion. 
+• Reinforcing sections of the network to ensure congestion on the network is minimised as the location 
+of new generation moves from coal centres to REZs. 
+• Making the power system resilient to climate and other events through increased interconnection with 
+geographical diverse paths1. 
+• Recognising key decision points to adapt the network plan to policy, technical and market changes.  
+To achieve this, AEMO recommends network investment which yields some 6,000 MW of increased 
+interconnector capability and increases REZ hosting capacity by 23 GW in the Central scenario, including: 
+• Six actionable projects that should now progress regulatory approval: 
+– VNI Minor – an upgrade to the existing Victoria to New South Wales Interconnector (VNI) to 
+improve transfer from Victoria to New South Wales. 
+– Project EnergyConnect – a proposed 330 kV interconnector between South Australia and New 
+South Wales. 
+– HumeLink – a proposed major transmission line in New South Wales to connect the Snowy 
+Mountains hydroelectric scheme to the Greater Sydney load centre. 
+– Central-West Orana REZ Transmission Link – expansion of the network to connect 3,000 MW of 
+new generation which is expected as part of the New South Wales Electricity Strategy2. 
+– VNI West – a proposed interconnector between Victoria and New South Wales. 
+– Marinus Link – a proposed HVDC link between Tasmania and Victoria. 
+• Six future ISP projects that require preparatory activities so the next scheduled ISP (in 2022) has 
+better information to determine their optimal timing. 
+• Three future ISP projects with no action required until the 2022 ISP. 
+ 
+1 See Appendix 8 for further detail. 
+2 See https://energy.nsw.gov.au/government-and-regulation/electricity-strategy. 
+
+===== PDF PAGE 9 =====
+
+ 
+© AEMO 2020 | Final 2020 ISP, Appendix 3. Network Investments 9 
+ 
+A3.1. Introduction 
+This appendix is part of the 2020 ISP, providing more detail on the network investments which form the 
+optimal development path. These network investments can be classified into the following depending on 
+their status and required timing: 
+• Committed grid projects. 
+• Actionable ISP projects, including projects with decision rules. 
+• Future ISP projects, which include: 
+– Projects which preparatory activities are required. 
+– Projects which no action is required until the next ISP. 
+These network investments ensure there is sufficient interconnection so resources can be shared between 
+regions, REZs are able to transfer their energy to the load centres, and the power system is secure and 
+reliable. 
+The appendix is set out in the following sections: 
+• A3.2 – an overview of network investments in the optimal development path. This section outlines 
+individual projects and their respective status, and summarises the key information including cost, timing 
+and classification. It also covers decision rules that affect the optimal development path given uncertain 
+events, as well as a summary of the key non-network opportunities identified in the development path. 
+• A3.3 – describes the committed network projects including their timing, costs, technical detail and related 
+projects. Committed network projects are projects which have gone through the Regulatory Investment 
+Test for Transmission (RIT-T) process and received contingent project approval from the AER.  
+– This section also includes a description of potential non-network opportunities and alternative network 
+options which were considered but not ultimately not selected for the optimal development path 
+• A3.4 – describes the optimal timing, costs, technical detail and related projects of actionable projects. 
+Actionable ISP projects are projects which are underway or should commence immediately in order to 
+reduce costs, enhance system resilience and optionality. It includes actionable ISP projects with decision 
+rules to be met. Their decision rules can be assessed during the RIT-T process and will be confirmed by 
+AEMO during an ISP feedback loop process with the TNSP. 
+– This section also includes a description of potential non-network opportunities and alternative network 
+options of the actionable projects which were considered.  
+• A3.5 and A3.6 – describes the optimal timing, costs, technical detail and related projects for the two types 
+of future ISP projects. These are: 
+– Projects for which preparatory activities are required. 
+– Projects for which no action is required until the next ISP. 
+• A3.7 – compares the network congestion observed to date with the projects on the optimal development 
+path, demonstrating how network congestion is addressed by these projects . 
+• A3.8 – lists the options which were not progressed as a direct alternative to a project on the optimal 
+development path and explains why they were not progressed. 
+
+===== PDF PAGE 10 =====
+
+ 
+© AEMO 2020 | Final 2020 ISP, Appendix 3. Network Investments 10 
+ 
+A3.2. Network investments 
+in the optimal 
+development path 
+The optimal development path includes a set of network investments which are coordinated and integrated 
+with projected development of new generation, storage, and DER, to deliver the best outcomes for 
+consumers across a range of scenarios and sensitivities3. The optimal development path results in the network 
+having greater capability in order to meet the future power system needs. In short, this capability can be 
+demonstrated by two overarching metrics4: 
+• An increase in interconnector capability, and, in conjunction, 
+• An increase in capability to connect and transfer generation from REZs to load centres or to increase 
+interstate trading.  
+The net increase in interconnector capacity from the optimal development path investment is shown in 
+Figure 1. In all scenarios, a significant increase in capacity is developed – more than double the existing 
+interconnector capacity in all except the Slow Change scenario.  
+Figure 1 Additional interconnector capacity in the optimal development path 
+  
+Note: Decision rules may affect the optimal timing of interconnector upgrades. 
+Likewise, the optimal development path investment yields a significant increase in the network’s ability to host 
+VRE in REZs, as shown in Figure 2. In all scenarios, a significant increase in REZ hosting capacity is delivered to 
+ 
+3 The scenarios and sensitivities can be found in Appendix 2.  
+4 The investment required to maintain system security is covered in Appendix 7.  
+
+
+===== PDF PAGE 11 =====
+
+ 
+© AEMO 2020 | Final 2020 ISP, Appendix 3. Network Investments 11 
+ 
+provide sufficient capability to connect generation located in REZ to the load centres and reduce network 
+congestion.  
+Figure 2 Increase in REZ hosting capacity 
+  
+ 
+The optimal development path includes a range of projects from Far North Queensland to Tasmania and 
+includes interconnector projects, transmission to connect REZs, system security investments, and network 
+upgrades to reinforce the network following the retirement of thermal plant. These projects can be seen in 
+Figure 3. 
+  
+0
+5,000
+10,000
+15,000
+20,000
+25,000
+30,000
+35,000
+40,000Additional REZ Hosting Capacity (MW)
+Slow Change Central High DER Fast Change Step Change
+
+===== PDF PAGE 12 =====
+
+ 
+© AEMO 2020 | Final 2020 ISP, Appendix 3. Network Investments 12 
+ 
+Figure 3 Optimal development path 
+ 
+† The timing of this actionable project is dependent on decision rules. 
+2030s
+ Far North QLD REZ 
+2030s
+ Gladstone Grid Reinforcement 
+Early-2030s
+ Central to Southern QLD 
+Mid-2020s
+ Central-West Orana REZ 
+Transmission Link 
+2030s
+ New England REZ 
+2026-27 to 
+2032-33
+ Reinforcing Sydney, 
+Newcastle & 
+Wollongong Supply 
+2030s
+ QNI Medium & Large 
+2021-22
+ Minor QNI Upgrade 
+2024-25
+ Project EnergyConnect 
+2025-26
+ HumeLink 
+2022-23
+ VNI Minor 
+2028-29 to 2031-32 
+ Marinus Link Stage   
+2030s
+ Mid-North REZ 
+2030s
+ South-East REZ 
+SVC 
+2025-26
+ Western Victoria 
+Transmission Network 
+Project 
+Brisbane
+Sydney
+Hobart
+Bundaberg
+Rockhampton
+Mackay
+Proserpine
+Forsayth
+Cairns
+  Armidale
+Dubbo
+Newcastl e
+Woll ongong
+Broken Hill
+Coober Pedy
+Ceduna
+Be ndigo
+Launceston
+Queenstown
+Canberra
+2021-22
+ System Strength 
+Longreach
+ 
+1
+ 
+2
+ 
+3
+MelbourneBallarat
+Adelaide
+Port Lincoln
+Mount G ambier
+Gladstone
+Townsville
+Existing network
+Network upgrade
+Alternative network routes
+System strength remediation
+Capacitor
+Static VAr Compensator
+Decision rules may affect timing
+SVC 
+SVC 
+ 
+2031-32 to 2035-36 
+ Marinus Link Stage   
+2027-28 
+ VNI West 
+
+===== PDF PAGE 13 =====
+
+ 
+© AEMO 2020 | Final 2020 ISP, Appendix 3. Network Investments 13 
+ 
+A3.2.1 Committed ISP projects 
+Committed ISP projects are network projects identified by the 2018 ISP5 which have now completed their 
+regulatory approval processes. These projects are outlined in the following table. 
+Table 1 Committed ISP projects 
+A. The transfer capacities shown in this table are notional limits at the time of high summer demand in the importing region.  
+B. AER, Final Decision: ElectraNet Contingent Project – Main Grid System Strength, at https://www.aer.gov.au/system/files/AER%20-%20
+Final%20Decision%20-%20ElectraNet%20-%20SA%20system%20strength%20contingent%20project%20-%2016%20August%20
+2019.pdf. 
+C. As a part of the South Australia system strength remediation project, ElectraNet is currently on track to energise Davenport 
+synchronous condensers in Q4 2020 and Robertstown synchronous condensers in Q2 2021. Any changes to power system limits are 
+likely to be staged for testing purposes. 
+D. AER, Final Decision: TransGrid – QNI minor upgrade contingent project, at https://www.aer.gov.au/networks-
+pipelines/determinations-access-arrangements/contingent-projects/transgrid-qni-minor-upgrade-contingent-project/final-decision. 
+E. No contingent project approval process required; revenue approval complete. 
+F. Date of expected delivery by 2025. 
+G. As at the time of Western Victoria RIT-T Project Assessment Conclusions Report (PACR). 
+A3.2.2 Actionable ISP Projects 
+Actionable ISP projects are network projects which are underway or should commence regulatory approval 
+immediately. For projects not yet underway, a date for which a Project Assessment Draft Report (PADR)6 must 
+be completed is provided.  
+Table 2 Actionable ISP projects 
+Project  Timing in the 
+optimal 
+development 
+path 
+Approval status  Cost range 
+[ISP modelled cost] 
+Network capability 
+improvement† 
+VNI Minor 
+PADR completed 
+in 2019 
+2022-23 
+ 
+RIT-T Complete  
+NSW: Pending 
+TransGrid CPA  
+VIC: Committed  
+$74 million to $137 
+million 
+[$105.5 million] 
+VIC-NSW (North): +170 MW  
+ 
+5 At https://aemo.com.au/en/energy-systems/major-publications/integrated-system-plan-isp/2018-integrated-system-plan-isp.  
+6 The PADR is a stage in the regulatory approval process in which the TNSP determines a draft outcome to meet the identified ne ed. 
+Project  Scheduled timing Approval status  Network capability improvementA 
+SA system strength 
+remediationB 
+2021-22C Complete  Maintain system security 
+QNI MinorD  2021-22  Complete  NSW-QLD (North): +150 MW  
+NSW-QLD (South): +165 MW to 215 MW 
+Western Victoria 
+Transmission 
+Network ProjectE 
+2025-26F  Complete  The Western Vic Augmentation will increase the hosting capacity in 
+the Western VIC REZ to cater for all existing and committed 
+generationG with approximately 450 MW of remaining hosting 
+capacity. 
+
+===== PDF PAGE 14 =====
+
+ 
+© AEMO 2020 | Final 2020 ISP, Appendix 3. Network Investments 14 
+ 
+Project  Timing in the 
+optimal 
+development 
+path 
+Approval status  Cost range 
+[ISP modelled cost] 
+Network capability 
+improvement† 
+Project 
+EnergyConnect 
+PADR completed 
+in 2018 
+2024-25 
+(with staging from 
+late 2022) 
+ 
+RIT-T complete  
+Pending CPA  
+$1,393 million to $2,587 
+million 
+[$1,990 million] 
+SA-NSW +800 MW 
+SA –VIC +100 MW 
+Riverland REZ: +800 MW 
+Murray River REZ: + 600 MW 
+South-west NSW REZ: +380 MW 
+HumeLink 
+PADR completed 
+February 2020 
+2025-26 
+ 
+PADR complete  
+Pending PACR (late 
+2020)  
+$1,470 million to 
+$2,730 million  
+[$2,100 million]  
+Snowy to Sydney +2,230 MW to 
+2,570 MW 
+Wagga Wagga REZ: +1,000 MW 
+Central-West 
+Orana REZ 
+Transmission Link 
+PADR required 
+by December 
+2021 
+2024-25 
+ 
+RIT-T not yet 
+initiated  
+$450 million to $850 
+million 
+[$650 million] 
+Central West – Orana REZ: +3,000 
+MW 
+VNI West‡ 
+(with decision 
+rules) 
+PADR required 
+by March 2021 
+2027-28 
+(conditional on 
+decision rules 
+being satisfied) 
+PSCR Complete  
+Pending 
+PADR (~late 2020)  
+$1,211 million to $2,249 
+million  
+[$1,730 million] 
+VIC-NSW (North): +1,930 MW# 
+VIC-NSW (South): +1,800 MW  
+Central North Vic REZ: +2,000 MW 
+Western Victoria REZ: +1,000 MW 
+Marinus Link  
+(with decision 
+rules) 
+PADR completed 
+in December 
+2019 
+Project Stage 1  
+(1st cable): 
+2028-29  
+(conditional on 
+decision rules 
+being satisfied) 
+Project Stage 2  
+(2nd cable): 
+2031-32  
+(conditional on 
+decision rules 
+being satisfied) 
+ 
+PADR complete  
+Pending PACR  
+ 
+Marinus Link with one 
+750 MW cable – $1,292 
+million to $2,399 million. 
+[$1,845 million]  
+Marinus Link with two 
+750 MW cables –  
+$2,209 million to $4,102 
+million.  
+[$3,155 million] 
+TAS – VIC (both directions): 
+- Stage 1: +750 MW  
+- Stage 2: +1500 MW (combined 
+stage 1 and stage 2) 
+REZ hosting capacity increase: 
+- Stage 1: +540 MW Midlands 
+- Stage 2: +600 MW North West 
+Tasmania, +1,080 MW Midlands 
+(combined stage 1 and stage 2) 
+† The transfer capacities shown in this table are notional limit at the time of high summer demand in the importing region. Tasmania 
+peak demand occurs in winter and notional transfer capacity of VIC-TAS interconnector represents for winter as well. 
+‡ This is for VNI West (Shepparton). For the alternative VNI West (Kerang) please see section A3.4.5.2. 
+# Calculated with VNI Minor already in service.  
+A3.2.3 Future ISP projects 
+Future ISP projects are transmission investments which in some scenarios would enable efficient development 
+of VRE and storage systems required in the longer term but are not required yet or may not be optimal in 
+some scenarios. In some cases, this ISP recommends preparatory activities now – in other cases, no action is 
+needed until the next scheduled ISP (in 2022). Other future grid projects that do not have actions in this ISP 
+can be found in Section A3.6.  
+The future ISP projects identified in this ISP are described in Table 3.  
+  
+
+===== PDF PAGE 15 =====
+
+ 
+© AEMO 2020 | Final 2020 ISP, Appendix 3. Network Investments 15 
+ 
+Table 3 Future ISP projects with preparatory activities 
+Project  Timing  Cost Range [Modelled 
+cost] 
+Network capability 
+improvementE 
+QNI Medium and Large  2032-33 to 
+2035-36 
+RIT-T not started  QNI Medium: 
+$1,481 million to $2,750 
+million 
+[$2,115 million]  
+QNI Large: 
+$802 million to1,489 
+million 
+[$1,145 million] 
+ 
+QNI Medium: 
++832 MW (NSW to QLD) 
++760 MW (QLD to NSW) 
+North West NSW: +1,000 MW 
+Darling Downs: +1,000 MW 
+QNI Large: (combined 
+improvement) 
++2,372 MW (NSW to QLD) 
++2,130 MW (QLD to NSW) 
+North West NSW: +2,000 
+MW  
+Darling Downs: +2,000 MW 
+Central to Southern 
+Queensland Transmission 
+Link 
+Early 
+2030s  
+RIT-T not started  $300 million to $560 
+million 
+[$432 million] 
+Transfer across CQ-SQ: +900 
+MW 
+Gladstone Grid 
+Reinforcement  
+2030s RIT-T not started  $300 million to $560 
+million 
+[$432 million] 
+Fitzroy REZ: +800 MW 
+Reinforcing Sydney, 
+Newcastle and 
+Wollongong Supply  
+2026-27 to 
+2032-33  
+RIT-T not started  Uncertain – Pending 
+Preparatory ActivitiesA 
+Stages 1 & 2: Between 5,000 
+MW and 6,000 MW 
+New England REZ 
+Network Expansion 
+2030sD RIT-T not started  Stage 1: $720 million to 
+$1,330 million 
+[$1,025 million] 
+Stage 2: $220 million to 
+$420 million 
+[$315 million] 
+Stage 1: +3,000 MW to 4,000 
+MW 
+Stage 2: +4,000 to 5,000 MW 
+(including Stage 1) 
+ 
+North West NSW REZ 
+network expansionB,C 
+2030s, 
+based on 
+connection 
+interest 
+RIT-T not started  Stage 1: $ 320 million to 
+$590 million 
+[$455 million] 
+Stage 2: $70 million to 
+$140 million 
+[$105 million] 
+Stage 3: $220 million to 
+$420 million 
+[$320 million]  
+Additional REZ hosting 
+capacity   
+Stage 1: +1,000 MW 
+Stage 2: +3,000 MW (4,000 
+MW in total)  
+A. Due to the nature of this project, the cost estimates of this project are extremely uncertain. Preparatory activities will develop these 
+cost estimates (see section A3.5.3). 
+B. Stage 1 is the bringing forward of some sections of QNI Medium; see section A3.5.1 for details. 
+C. This includes any parts of QNI Medium and Large that were not constructed in Stage 1. 
+D. New South Wales Government may accelerate this project to meet the announced renewables targets for this REZ (media 
+announcement, 10 July 2020, at https://energy.nsw.gov.au/renewables/renewable-energy-zones). 
+E. The transfer capacities shown in this table are notional limit at the time of high summer demand in the importing region. Tasmania 
+peak demand occurs in winter and notional transfer capacity of VIC-TAS interconnector represents for winter as well. 
+
+===== PDF PAGE 16 =====
+
+ 
+© AEMO 2020 | Final 2020 ISP, Appendix 3. Network Investments 16 
+ 
+A3.2.4 Summary of variations to the optimal development path 
+In developing this ISP, AEMO has considered events that might vary from scenarios used, such as developers 
+building generation at different times or different locations, or changes to government policies and initiatives.  
+A3.2.4.1 Victoria’s alternative paths 
+The optimal development path identifies that Victoria can meet the VRET and have a reliable and secure 
+system with minimal additional transmission built beyond the Western Victoria Transmission Network Project 
+(see Section A3.3.2) and VNI Minor (see Section A3.4.1) before 2030. However, if generation is developed in 
+other areas, such as the Murray River REZ, additional transmission infrastructure may become optimal. 
+The three possible overarching paths to efficiently meet the VRET are: 
+• Optimal generation planting, based on least-cost ISP modelling assumptions, which makes the most 
+efficient use of resource potential and network hosting capacity. This is the strategy described in the 
+optimal development path. 
+• A focus on developing the Central North Victoria REZ, requiring additional transmission to Shepparton, 
+which improves the case for Shepparton route being the preferred option for VNI West. This also presents 
+the opportunity for VNI West via Shepparton to be partly or wholly developed early in the optimal 
+development path, to align with generation. This option is described in Section A3.4.5.1. For more on the 
+economic considerations of bringing forward VNI West via Shepparton, see Appendix 2. 
+• A focus on developing the Murray River REZ, requiring additional transmission to Kerang and potentially 
+Red Cliffs, which improves the case for VNI West via Kerang being the preferred option for VNI West. This 
+also presents the opportunity for VNI West via Kerang to be partly or wholly developed early in the 
+optimal development path, to align with generation. This network option is described in Section A3.4.5.2. 
+For more on the economic considerations of bringing forward VNI West via Kerang, see Appendix 2.  
+A3.2.4.2 Alternative path for QNI Medium and Large and the New England REZ 
+The optimal development path considers significant generation development in the North West New South 
+Wales REZ. This focus on North West New South Wales is linked with the QNI Medium and Large network 
+augmentation which connects to the Central West-Orana New South Wales REZ, traverses north to the North 
+West New South Wales REZ (providing a strong connection of the generation developed there), and onwards 
+towards Darling Downs REZ in Queensland. 
+If the New England REZ is favoured by generation developers7, this could materially change the preferred 
+option for a section of QNI Medium and Large to traverse the New England REZ instead of the North West 
+New South Wales REZ, making the QNI Medium and Large route significantly different. For more detail, see 
+section A3.5.1.2  
+A3.2.5 Summary of non-network opportunities 
+There are a number of identified needs which can partly or wholly be addressed by non -network alternatives.   
+For clarity, when this ISP refers to non-network options, it refers to a number of options including: 
+• Embedded generation such as home battery systems. 
+• Residential behavioural demand side response. 
+• Automated demand reduction via DRED or other systems. 
+• Distribution network voltage control. 
+ 
+7 As part of the New South Wales Electricity Strategy; see https://energy.nsw.gov.au/government-and-regulation/electricity-strategy. 
+ 
+
+===== PDF PAGE 17 =====
+
+ 
+© AEMO 2020 | Final 2020 ISP, Appendix 3. Network Investments 17 
+ 
+• Industrial load reduction. 
+• Virtual transmission lines8. 
+Importantly, a non-network option does not have to fully meet the identified need to have benefit. 
+Non-network options can defer the optimal timing of investment, provide option value, and reduce the total 
+amount of network investment required. 
+A3.2.5.1 Consultation on non-network opportunities 
+A consultation was run from December 2019 to March 2020 to call for non -network options for the two 
+actionable ISP projects identified in the Draft 2020 ISP – QNI Medium and Large, and VNI West. A new 
+consultation from July 2020 is calling for non-network options for the Central-West Orana Transmission Link. 
+Central-West Orana REZ Transmission Link 
+AEMO has initiated a consultation process for the Central-West Orana REZ Transmission Link in accordance 
+with clause 5.22.14(c)(1) of the NER. AEMO welcomes potential non-network service providers making 
+submissions on potential solutions they believe can address the identified need outlined in this ISP. 
+During high VRE there will be network constraints which provide opportunities for strategically placed battery 
+storage and/or pumped hydro. These could defer the optimal timing, reduce the scale, or increase the 
+capability of network augmentation. The Central-West Orana REZ has access to pumped hydro resources 
+which, if strategically developed, can increase the hosting capacity of this REZ. 
+QNI Medium and Large 
+A total of six submissions were received for the QNI Medium non-network consultation, of which four were 
+confidential. Several of these proposed installation of batteries at either end of the QNI corridor to form 
+‘virtual transmission lines’9. AEMO values the input from stakeholders who have submitted responses to the 
+non-network consultation. Each proposal was assessed for the ISP and shared with the respective TNSPs – 
+Powerlink and TransGrid (after authorisation was received for confidential responses).  
+The concept of virtual transmission lines offers an exciting opportunity as an alternative or partial alternative 
+to traditional network augmentation in the development of the future power system. Depending on the 
+technology, this may be suitable as part of a hybrid alternative for the proposed QNI Medium project. 
+However, during finalisation of the modelling and assessments for the final ISP and considering feedback 
+received during the consultation, QNI Medium is no longer actionable even though it remains on the optimal 
+development path.  
+AEMO considers that virtual transmission lines coupled with suitable wide area protection systems could 
+provide a technically feasible solution (factoring in sufficient lead-time constraints to meet the identified 
+need) to increasing the capacity of QNI, and will work with Powerlink and TransGrid to explore options to 
+justify and implement a solution (potentially under a new RIT-T) – see Section A3.5.1.3. 
+VNI West 
+Submissions relating to the VNI West consultation were directed to the RIT -T10 process being run in parallel to 
+the ISP by the TNSPs (AEMO Victorian Planning and TransGrid) and are therefore not included in this report. 
+A number of submissions were received and can be found on AEMO’s website11 (see Section A3.4.5.3). 
+ 
+8 A virtual transmission lines are included in the ‘non-network’ section of this document however it can be a ‘non-network’ or a ‘network’ option. It may form 
+part of the TNSP’s regulated asset base depending on how the virtual transmission line is funded if it is included . 
+9 Virtual transmission lines are comprised of devices, such as batteries, which sit on either side of a transmission corridor. For a contingency of one circuit, 
+one device injects power, and the other device absorbs power to counteract the effect of a contingency event. See Appendix 9f or more details. 
+10 AEMO. Victoria to New South Wales Interconnector West (VNI West) regulatory investment test for transmission (RIT -T), at 
+https://aemo.com.au/en/initiatives/major-programs/victoria-to-new-south-wales-interconnector-west-regulatory-investment-test-for-transmission. 
+11 AEMO, https://aemo.com.au/initiatives/major-programs/victoria-to-new-south-wales-interconnector-west-regulatory-investment-test-for-
+transmission/stakeholder-consultation. 
+
+===== PDF PAGE 18 =====
+
+ 
+© AEMO 2020 | Final 2020 ISP, Appendix 3. Network Investments 18 
+ 
+A3.3. Committed ISP 
+projects 
+Committed network projects are projects which have gone through the RIT-T process and received funding 
+approval (for example, approval of a contingent project application from the AER). The following three 
+projects, that were identified as actionable in the 2018 ISP, are now committed: 
+• South Australia system strength remediation – to install four synchronous condensers to meeting the 
+ongoing need for system strength to ensure the secure and reliable operation of the power system in 
+South Australia 
+• Western Victoria Transmission Network Project – to support additional generation connections in the 
+Western Victoria region, through upgrades to the existing 220 kV network and new 500 kV and 220 kV 
+network. 
+• QNI Minor – to expand transfer capacity between New South Wales and Queensland in the near term 
+through uprating the 330 kV network between Liddell and Tamworth and installing dynamic reactive 
+support. 
+The Victorian components of the VNI minor upgrade are also considered committed, while the New South 
+Wales components are pending regulatory approval (see Section A3.4.1). 
+A3.3.1 South Australia system strength remediation 
+The 2018 ISP recommended synchronous condensers as an urgent for system strength remediation. 
+ElectraNet has since gained regulatory approval to install two synchronous condensers at Davenport and two 
+at Robertstown12.  
+Table 4 South Australia system strength remediation summary 
+Timing Davenport synchronous condensers energised in Q4 2020 and Robertstown energised in Q2 2021. 
+Description This project is committed and includes installation of: 
+• Two high inertia synchronous condensers at Davenport 275 kV substation. 
+• Two high inertia synchronous condensers at Robertstown 275 kV substation. 
+Each of the four synchronous condensers provide 575 MVA nominal fault current and 1,100 MWs of inertia. Figure 
+4 highlights the location of the four synchronous condensers. 
+Identified need AEMO declared a system strength gap in December 2016. In 2017, the Fault Level rule changeB required TNSPs to 
+maintain a minimum level of system strength, as defined by AEMO. In 2018 AEMO also declared an inertia gap in 
+South Australia, recommending high-inertia synchronous condensers in South Australia that would address both 
+the inertia shortfall and the declared system strength gap. 
+ 
+12 ElectraNet. Strengthening South Australia’s power system, at https://www.electranet.com.au/what-we-do/projects/power-system-strength/. 
+
+===== PDF PAGE 19 =====
+
+ 
+© AEMO 2020 | Final 2020 ISP, Appendix 3. Network Investments 19 
+ 
+Responsible 
+TNSP(s) 
+ElectraNet 
+Drivers of 
+benefits 
+Maintaining power system security 
+A. See https://www.aer.gov.au/news-release/aer-approves-electranet-spending-on-south-australia-system-strength. 
+B. See AEMC: Managing Power System Fault Levels, at https://www.aemc.gov.au/rule-changes/managing-power-system-fault-levels. 
+Figure 4 Synchronous condenser locations and commissioning dates 
+ 
+A3.3.2 Western Victoria Transmission Network Project 
+The Western Victoria Transmission Network Project is a combination of 500 kV and 220 kV transmission 
+augmentations to alleviate constraints identified on the 220 kV network between Moorabool and Horsham.  
+These constraints are due to the development of large-scale renewable generation within the area. Table 5 
+and Table 6 provide information on this project.  
+Table 5 Western Victorian Transmission Network Project overview 
+Timing Western Victoria Transmission Network Project is a committed project. The short-term 
+augmentation is expected to be complete by 2021, and the medium-term augmentation, 
+which is currently on track, is to be commissioned by 2025.  
+Description Stage 1:  
+• The installation of wind monitoring equipment and the upgrade of station limiting 
+transmission plant on the 220 kV network between Bendigo and Red Cliffs and on the 
+Moorabool-Terang-Ballarat 220 kV lines.  
+Stage 2:  
+• A new terminal station north of Ballarat and new 220 kV double circuit transmission lines 
+from the new terminal station north of Ballarat to Bulgana (via Waubra). 
+• A New 500 kV double circuit transmission lines from Sydenham to the new terminal 
+station north of Ballarat connecting two new 1,000 megavolt amperes (MVA) 500/220 kV 
+transformers at the new terminal station. 
+Two synchronous 
+condensers in 
+late-2020 
+Two synchronous 
+condensers in 
+mid-2021 
+
+===== PDF PAGE 20 =====
+
+ 
+© AEMO 2020 | Final 2020 ISP, Appendix 3. Network Investments 20 
+ 
+Approximate network capability 
+improvement 
+The Western Victoria Augmentation will increase the hosting capacity in the Western 
+Victoria REZ to cater for all existing and committed generation A with 450 MW of remaining 
+hosting capacity. 
+Identified need The identified need for the Western Victoria augmentation is to increase the thermal 
+capacity of the Western Victoria power system, reducing constraints on the network that 
+would restrict generation within this REZ. It will deliver net market benefits and support the 
+energy market transition by reducing the capital cost and dispatch cost of generation in the 
+long termB.  
+Responsible TNSP(s) AEMO Victorian Planning 
+Non-network opportunity Investigated as part of the Western Vic RIT-T. 
+Drivers of benefits Currently the generation interest within the Western Victoria REZ exceeds the capacity of 
+the transmission network. With the growth of inverter-based generation in this area, 
+generator outputs are being constrained due to thermal and stability limitations. Network 
+security issues also arise due to diminishing system strength within the area. The level of 
+VRE is expected to increase beyond present levels when Victoria’s VRET is met. 
+The Western Victoria Transmission Network Project seeks to minimise network congestion 
+and facilitate more efficient generation dispatch in the Western Victoria REZ whilst allowing 
+for more efficient generation connections. The project will also improve the capacity of the 
+existing Victoria to New South Wales interconnector and enable the future transmission 
+network expansion from Victoria to New South Wales 
+A. As at time of Western Vic RIT-T PACR. 
+B. AEMO, Western Victoria Renewable Integration Project Assessment Conclusions Report, at https://www.aemo.com.au/-
+/media/Files/Electricity/NEM/Planning_and_Forecasting/Victorian_Transmission/2019/PACR/Western-Victoria-RIT-T-PACR.pdf. 
+Table 6 Western Victoria Transmission Network Project detail 
+Augmentation 
+detail  
+The installation of wind monitoring equipment and the upgrade of station limiting transmission plant on the: 
+• Red Cliffs–Wemen 220 kV line. 
+• Wemen–Kerang 220 kV line. 
+• Kerang–Bendigo 220 kV line. 
+• Moorabool–Terang 220 kV line. 
+• Ballarat–Terang 220 kV line. 
+The medium-term augmentation includes: 
+• A new terminal station at north of Ballarat. 
+• A new 500 kV double circuit transmission line from Sydenham to the new terminal station north of Ballarat. 
+• A new 220 kV double circuit transmission line from the new terminal station North of Ballarat to Bulgana (via 
+Waubra). 
+• 2 x 500/220 kV transformers at the new terminal station north of Ballarat. 
+• Cut-in the existing Ballarat–Bendigo 220 kV line at the new terminal station north of Ballarat. 
+• Moving the Waubra Terminal Station connection from the existing Ballarat–Ararat 220 kV line to one of the new 
+terminal station north of Ballarat–Bulgana 220 kV lines. 
+• Cut-in the existing Moorabool–Ballarat No. 2 220 kV line at Elaine Terminal Station.  
+Limits 
+addressed 
+Thermal and voltage limitations in the Western Vic 220 kV network. 
+
+===== PDF PAGE 21 =====
+
+ 
+© AEMO 2020 | Final 2020 ISP, Appendix 3. Network Investments 21 
+ 
+Network 
+Diagram 
+ 
+ 
+A3.3.3 QNI Minor 
+A minor upgrade to the New South Wales to Queensland interconnector was recommended as urgently 
+needed in the 2018 ISP.  
+Since that time, Powerlink and TransGrid have completed a RIT-T13 to confirm the optimal solution and 
+gained regulatory approval from the AER. The outcome from this RIT-T, which was published on 
+20 December 2019, confirms the solution recommended in the 2018 ISP. Table 7 and Table 8 provide 
+information on this project. 
+Table 7 QNI Minor overview 
+Timing This upgrade has completed the RIT-T process and is currently on track to undergo commissioning in 2021-22 
+Description The preferred QNI Minor upgrade known as “QNI Option 1A” is a minor upgrade of the existing interconnector 
+with uprating to increase thermal capacity of the existing transmission lines and installation of additional new 
+capacitor banks and Static Var Compensators (SVCs). 
+Approximate 
+network 
+capability 
+improvement 
+NSW to QLD (at time of peak demand, Forward 
+direction) 
++150 MW 
+QLD to NSW (at time of peak demand), Reverse 
+direction) 
+Approximately +165 MW to +215 MW 
+Identified need The identified need for the minor New South Wales to Queensland upgrade, as determined by Powerlink and 
+TransGrid, is to increase overall net market benefits in the NEM through relieving existing and forecast congestion 
+on the transmission network between New South Wales and Queensland. 
+Responsible 
+TNSP(s) 
+TransGrid and Powerlink 
+ 
+13 Powerlink and TransGrid, Expanding New South Wales – Queensland Transmission Transfer Capacity, at https://www.transgrid.com.au/what-we-
+do/projects/regulatory-investment-tests/Documents/Expanding%20NSW-QLD%20Transmission%20Transfer%20Capacity%20Project%20
+Assessment%20Conclusions%20Report%20%28PACR%29%20-%20Full%20Report.pdf. 
+North of Ballarat
+Bulgana
+Elaine
+Horsham
+Crowlands Ararat
+Ballarat
+Waubra 
+Sydenham
+Moorabool
+Bendigo
+Proposed augmentation
+Existing network
+500 kV network
+220 kV network
+ 
+Transformer 
+
+===== PDF PAGE 22 =====
+
+ 
+© AEMO 2020 | Final 2020 ISP, Appendix 3. Network Investments 22 
+ 
+Non-network 
+opportunity 
+Non network options were considered but not ultimately pursued. Powerlink and TransGrid identified that QNI 
+Option 1A delivers the greatest expected net benefits of all above alternative options considered and is the 
+‘preferred option’ in their PADRC. 
+Drivers of 
+benefits 
+The QNI Minor PACRD states that the preferred option is expected to: 
+• reduce the need for new generation and large-scale storage in New South Wales to meet demand following 
+Liddell Power Station’s forecast retirement over 2022 and 2023 
+• lower the aggregate generator fuel costs required to meet demand in the National Electricity Market (NEM) 
+going forward;  
+• avoid capital costs associated with enabling greater integration of renewables in the NEM. 
+A. AER, Final Decision, QNI Minor Upgrade https://www.aer.gov.au/system/files/AER%20-%20Final%20Decision%20-%20TransGrid%20-
+%20QNI%20minor%20upgrade%20contingent%20project%20-%20April%202020.pdf. 
+B. QNI transfer capability is influenced by generation connection along the transmission corridor.  
+C. See https://www.transnetwork.com.au/what-we-do/projects/current-projects/ExpandingNSWQLDTransmissionTransferCapacity/
+Documents/Expanding%20NSW-QLD%20Transmission%20Transfer%20Capacity%20PADR%20-%20Full%20Report.pdf. 
+D. See https://www.transnetwork.com.au/what-we-do/projects/regulatory-investment-tests/Documents/Expanding%20NSW-QLD%20
+Transmission%20Transfer%20Capacity%20Project%20Assessment%20Conclusions%20Report%20%28PACR%29%20-
+%20Full%20Report.pdf.  
+Table 8 QNI Minor detail 
+Augmentation 
+detail  
+The committed upgrade (QNI Option 1A) involves: 
+Uprating of following transmission lines from the existing design operating temperature of 85ºC to 120ºC. 
+• Liddell–Tamworth 330 kV line. 
+• Liddell–Muswellbrook 330 kV line. 
+• Muswellbrook–Tamworth 330 kV line. 
+• Installation of shunt capacitor banks at Armidale, Dumaresq, and Tamworth substations. 
+• Installation of dynamic reactive plant at Tamworth and Dumaresq. 
+Limits 
+addressed 
+In normal system operation, the transfer from Queensland to New South Wales is mainly limited by the following 
+constraints: 
+• Stability limits for faults on either Sapphire to Armidale or Armidale to Dumaresq line.  
+• Thermal capacity of the 330 kV lines within northern New South Wales.  
+• Oscillatory stability upper limit of 1,200 MW.  
+In normal system operation, the transfer from New South Wales to Queensland is mainly limited by the following 
+constraints:  
+• Stability limits on loss of the largest Queensland unit.  
+• Transient stability associated with transmission line faults in the Hunter Valley.  
+• Voltage collapse for trip of the Liddell to Muswellbrook 330 kV line.  
+• Thermal capacity of the 330 kV and 132 kV transmission lines within northern New South Wales.  
+
+===== PDF PAGE 23 =====
+
+ 
+© AEMO 2020 | Final 2020 ISP, Appendix 3. Network Investments 23 
+ 
+Network 
+diagram 
+ 
+ 
+A3.3.3.1 Alternative options 
+A number of alternative options were included in Powerlink and TransGrid’s PADR 14 on expanding New South 
+Wales to Queensland transmission transfer capacity: 
+• Option 1B – uprate Liddell–Tamworth and Liddell–Muswellbrook–Tamworth 330 kV lines. 
+• Option 1C – install new dynamic reactive support at Tamworth and Dumaresq and shunt capacitor banks 
+at Armidale, Dumaresq, and Tamworth. 
+• Option 1D – cut-in Armidale–Dumaresq 330 kV line 83 at Sapphire substation and establish a mid-point 
+switching station between Dumaresq and Bulli Creek. 
+• A virtual transmission line comprised of grid-connected battery systems. This option targets both northerly 
+and southerly QNI stability and thermal limits by installing a Battery Energy Storage System (BESS), 
+controlled by a System Integrity Protection Scheme (SIPS) at two ends of the QNI corridor. The operation 
+of each BESS would mimic a ‘virtual transmission line’ following a transmission line contingency. Following 
+two BESS options were considered: 
+– Option 5A – small-scale BESS (2 x 40 MW / 20 MWh) located at Liddell in New South Wales and Halys 
+in Queensland. 
+– Option 5B – large-scale BESS (2 x 200 MW / 100 MWh) located at Liddell in New South Wales and 
+Calvale in Queensland. 
+Powerlink and TransGrid identified that QNI Option 1A delivers the greatest expected net benefits of all above 
+alternative options considered and is the ‘preferred option’ in their Project Assessment Conclusions Report 
+(PACR)15. 
+A3.3.3.2 Non-network opportunity 
+Non-network options have been investigated in the QNI Minor RIT-T. A number of options were received 
+which helped inform the non-network options for QNI Medium. 
+ 
+14 Powerlink and TransGrid, Expanding New South Wales – Queensland Transmission Transfer Capacity, at https://www.transgrid.com.au/what-we-
+do/projects/current-projects/ExpandingNSWQLDTransmissionTransferCapacity/Documents/Expanding%20NSW -QLD%20Transmission%20Transfer%20
+Capacity%20PADR%20-%20Full%20Report.pdf. 
+15 Powerlink and TransGrid, Expanding New South Wales – Queensland Transmission Transfer Capacity, at https://www.transgrid.com.au/what-we-
+do/projects/regulatory-investment-tests/Documents/Expanding%20NSW-QLD%20Transmission%20Transfer%20Capacity%20 Project%20Assessment%20
+Conclusions%20Report%20%28PACR%29%20-%20Full%20Report.pdf. 
+Muswellbrook SapphireTamworth
+Line uprating
+Armidale Dumaresq Bulli Creek
+NSW QLD
+SVC
+SVC
+SVC
+Proposed augmentation
+Existing network
+330 kV network 
+Shunt capacitor 
+Transformer
+Power flow controller
+Static VAr compensatorSVC
+
+===== PDF PAGE 24 =====
+
+ 
+© AEMO 2020 | Final 2020 ISP, Appendix 3. Network Investments 24 
+ 
+A3.4. Actionable ISP 
+projects 
+Actionable ISP projects are critical to address cost, security and reliability issues. These projects are either 
+already progressing or should commence their RIT-T  after the publication of this ISP. 
+The following are actionable ISP projects in this ISP: 
+• VNI Minor – upgrade to the existing VNI to improve transfer from Victoria to New South Wales. 
+• Project EnergyConnect – a proposed 330 kV interconnector between South Australia and New South 
+Wales.  
+• HumeLink – a proposed major transmission line in New South Wales to connect the Snowy Mountains 
+hydroelectric scheme to the Greater Sydney load centre. 
+• Central-West Orana REZ Transmission Link – expansion of the network to add 3,000 MW of generation 
+hosting capacity as part of the New South Wales Electricity Strategy16. 
+The following are actionable ISP projects with early works to start as soon as possible and with decision rules. 
+The decision rules identified in this ISP for these actionable ISP projects can be assessed during the RIT-T 
+process and will be confirmed by AEMO as part of the ISP feedback loop process with the TNSP17: 
+• VNI West – A proposed interconnector between Victoria and New South Wales. 
+• Marinus Link (stage 1 and stage 2) – Two proposed HVDC links between Tasmania and Victoria. 
+A3.4.1 VNI Minor 
+A minor upgrade to the Victoria to New South Wales Interconnector (VNI) was recommended for immediate 
+action in the 2018 ISP. Since that time, AEMO and TransGrid completed a RIT-T18 to confirm the optimal 
+solution and gain regulatory approval. The PACR, the final report of the RIT-T, was published in February 
+2020. Its outcome is largely consistent with the solution recommended in the 2018 ISP. 
+Procurement and installation of the Victorian component of this project is currently on track to be 
+commissioned in 2022-23.  
+ 
+16 See https://energy.nsw.gov.au/government-and-regulation/electricity-strategy. 
+17 Clause 5.16A.5 of the NER. 
+18 AEMO and TransGrid. Victoria to New South Wales Interconnector Upgrade Regulatory Investment Test for Transmission , at 
+https://aemo.com.au/initiatives/major-programs/victoria-to-new-south-wales-interconnector-west-regulatory-investment-test-for-transmission. 
+
+===== PDF PAGE 25 =====
+
+ 
+© AEMO 2020 | Final 2020 ISP, Appendix 3. Network Investments 25 
+ 
+A3.4.1.1 Preferred option  
+Table 9 VNI Minor overview 
+TimingA The VNI Minor upgrade is currently on track to be commissioned in 2022-23. AEMO’s 2020 ISP modelling 
+indicates that this project will provide value as soon as it can be completed. 
+Description of ISP 
+candidate option 
+A minor upgrade of the existing Victoria – New South Wales interconnector with the installation of an 
+additional 500/330 kV transformer, uprating to increase thermal capacity of the existing transmission, and 
+installation of power flow controllers to manage the overload of transmission lines. 
+Cost $74 million to $137 million 
+Approximate 
+network 
+capability 
+improvement 
+VIC to NSW Transfer (at time of peak demand) +170 MW 
+Identified need The identified need for VNI Minor, as determined by AEMO and TransGrid, is “to realise net market benefits by 
+increasing the power transfer capability from Victoria to New South Wales”B. 
+Responsible 
+TNSP(s) 
+AEMO Victorian Planning and TransGrid 
+Non-network 
+opportunity 
+Non-network alternatives were investigated in the RIT-T but not chosen as the preferred option. 
+Drivers of benefits • Reducing dispatch costs, through more efficient dispatch of generation in Victoria and New South Wales.  
+• Reducing capital costs associated with new generation build in New South Wales. 
+A. The earliest time by when the project has been found to needed in the optimal development path, allowing for practical delivery 
+times. Regulatory approval is generally required years before construction can be completed. All dates are indicative, and on a 
+financial year basis. For example, 2023-24 represents the financial year ending June 2024. 
+B. AEMO and TransGrid. Victoria to New South Wales Interconnector Upgrade Regulatory Investment Test for Transmission. Available at 
+https://aemo.com.au/-/media/files/electricity/nem/planning_and_forecasting/victorian_transmission/2020/vni-rit-t/victoria-to-new-
+south-wales-interconnector-upgrade-rit-t-pacr.pdf. 
+C. Refer to PADR for details on Non-network options https://aemo.com.au/-
+/media/files/electricity/nem/planning_and_forecasting/victorian_transmission/2019/vni-rit-t/victoria-to-new-south-wales-
+interconnector-upgrade-rit-t-padr.pdf. 
+Table 10 VNI Minor detail 
+Augmentation 
+detail  
+• Installation of a new 1,000 MVA 500/330 kV transformer at South Morang Terminal Station. 
+• Uprating of the South Morang – Dederang 330 kV lines from the existing design operating temperature of 
+75ºC to 82ºC and uprating of associated series capacitors to match increased line rating. 
+• Installation of modular power flow controllers on both the Upper Tumut – Canberra and Upper Tumut – Yass 
+330 kV lines to increase transfer capability between Lower Tumut/Upper Tumut and Canberra/Yass.  
+Limits addressed In normal system operation, the transfer from Victoria to New South Wales is mainly limited by the following 
+constraints: 
+• Thermal capacity of:  
+− South Morang 500/330 kV transformers. 
+− South Morang–Dederang 330 kV lines. 
+− Upper Tumut–Canberra 330 kV line. 
+− Dederang–Mount Beauty 220 kV lines. 
+− Murray–Lower Tumut 330 kV line. 
+− Murray–Upper Tumut 330 kV line. 
+• Voltage stability for potential loss of Alcoa Portland potlines. 
+
+===== PDF PAGE 26 =====
+
+ 
+© AEMO 2020 | Final 2020 ISP, Appendix 3. Network Investments 26 
+ 
+• Transient stability for a potential fault on a Hazelwood–South Morang 500 kV line. 
+In normal system operation, the transfer from New South Wales to Victoria is mainly limited by the following 
+constraints:  
+• Thermal capacity of:  
+− Murray–Dederang 330 kV lines. 
+− South Morang–Dederang 330 kV lines. 
+− Dederang–Mount Beauty 220 kV lines. 
+− Mount Beauty–Eildon 220 kV lines. 
+− Eildon–Thomastown 220 kV line. 
+− Bendigo–Shepparton 220 kV line. 
+• Voltage collapse for a potential outage of largest generating unit in Victoria or Basslink. 
+The proposed VNI Minor augmentation was economically justified to address the most critical constraint 
+during export from VIC to NSW. These constraints include: 
+Thermal capacity of: 
+− South Morang–Dederang 330 kV lines. 
+− South Morang 500/330 kV transformers. 
+− Upper Tumut–Canberra 330 kV line. 
+Network 
+diagram 
+ 
+ 
+A3.4.1.2 Alternative options 
+A number of alternative options were included in AEMO and TransGrid’s PADR 19. These were: 
+• Replacing the existing South Morang F2 transformer with a transformer with higher capacity as an 
+alternative to an additional South Morang 500/330 kV transformer. 
+• Additional 330 kV circuit(s) in parallel with the existing 330 kV South Morang – Dederang lines. Replacing 
+the existing 330 kV South Morang – Dederang lines with higher capacity conductors as an alternative to 
+uprating existing 330 kV lines between South Morang and Dederang. 
+• Additional 500 kV single circuit line between Snowy and Bannaby as an alternative to uprating existing 
+330 kV lines between Snowy and Sydney. 
+• A non-network option of a BESS, which improves the stability limit. 
+ 
+19 At https://www.aemo.com.au/-/media/Files/Electricity/NEM/Planning_and_Forecasting/Victorian_Transmission/2019/VNI -RIT-T/Victoria-to-New-South-
+Wales-Interconnector-Upgrade-RIT-T-PADR.pdf. 
+South Morang Murray
+Upper Tumut Canberra 
+Uprating of lines and series capacitors
+Dederang 
+Lower Tumut Yass
+Proposed augmentation
+Existing network
+500 kV network
+330 kV network
+Transformer 
+Power flow controller 
+Series capacitor 
+
+===== PDF PAGE 27 =====
+
+ 
+© AEMO 2020 | Final 2020 ISP, Appendix 3. Network Investments 27 
+ 
+AEMO and TransGrid’s PACR found Option 2 for VNI Minor delivers the greatest expected net benefits of all 
+above alternative options considered and is the ‘preferred option’. 
+A3.4.1.3 Non-network opportunity 
+Non-network options were investigated in the VNI Minor RIT-T.  
+A3.4.1.4 Associated augmentations 
+Not applicable. 
+A3.4.2 Project EnergyConnect 
+Project EnergyConnect is a new 330 kV interconnector between New South Wales and South Australia. The 
+interconnector runs from Robertstown in South Australia to Wagga Wagga in New South Wales, via the most 
+north section of the transmission network in Victoria. It traverses between east and west, linking the REZ of 
+Riverland, Murray River, and South West New South Wales, providing additional hosting capacity in these 
+REZs. 
+The RIT-T has been completed and approved by the AER20. This upgrade is currently on track to be 
+commissioned in 2023-24. 
+A3.4.2.1 Preferred option  
+Table 11 Project EnergyConnect overview 
+Timing Project EnergyConnect is an actionable project and is timed optimally in 2024-25 across all scenarios. The 
+implementation of this project is tracking ahead of schedule with commissioning targeted in stages between late 
+2022 and late 2023. 
+The additional single circuit from Buronga to Red Cliffs is proposed with double circuit towers. The second circuit 
+is planned to be added with increased renewable generation in Murray River REZ. 
+Description of 
+ISP candidate 
+option 
+Project EnergyConnect is a new double circuit 330 kV transmission line between Robertstown, Buronga, Dinawan 
+and Wagga Wagga, and an additional 220 kV line between Red Cliffs and Buronga. Included are additional 
+transformers at Robertstown and Buronga, reactive plant, and special protection schemes. 
+Cost The capital cost estimate is $1,393 million to $2,587 million.  
+Approximate 
+network 
+capability 
+improvement 
+SA to NSW (at time of peak demand, both directions) +800 MW 
+SA to VIC (at time of peak demand, both directions)A +100 MW 
+Additional REZ hosting capacity Riverland: +800 MW 
+South-West NSW: +600 MW 
+Murray River: +380 MW 
+Identified need The identified need for Project EnergyConnect is to deliver net market benefits through: 
+• Energy: Lowering dispatch costs, initially in South Australia, through increasing access to supply options across 
+regions. 
+• Transformation: Facilitating the transition to a lower carbon emissions future and the adoption of new 
+technologies, through improving access to high quality renewable resources across regions. 
+• Security: Enhancing security of electricity supply in South Australia, including management of inertia, frequency 
+response and system strength in South Australia. 
+Responsible 
+TNSPs 
+ElectraNet and TransGrid 
+ 
+20 ElectraNet. Project EnergyConnect, at https://www.electranet.com.au/projects/south-australian-energy-transformation/.  
+
+===== PDF PAGE 28 =====
+
+ 
+© AEMO 2020 | Final 2020 ISP, Appendix 3. Network Investments 28 
+ 
+Non-network 
+opportunity 
+Non-network alternatives were investigated but not pursued in the Project EnergyConnect RIT-TB. 
+Drivers of 
+benefits 
+• Lowering dispatch costs, initially in South Australia, through increasing access to supply options across regions. 
+• Facilitating the transition to a lower carbon emissions future and the adoption of new technologies, through 
+improving access to high quality renewable resources across regions. 
+• Enhancing security of electricity supply in South Australia. 
+A. With the implementation of special protection scheme to prevent potential loss of one AC interconnector with South Australia for a 
+non-credible loss of other AC interconnector with South Australia, the overall transfer capacity of both AC interconnectors with 
+South Australia (New South Wales – South Australia and Victoria – South Australia) is limited to 1,300 MW import into South 
+Australia and 1,450 MW export from South Australia.  
+B. See https://www.projectenergyconnect.com.au/. 
+Table 12 Project EnergyConnect detail 
+Augmentation 
+detail  
+Project EnergyConnect involves: 
+• A new 275 kV double circuit line between Robertstown and Bundey  
+• A new Bundey–Buronga–Dinawan–Wagga Wagga 330 kV double circuit line.  
+• A new double circuit 220 kV line between Buronga and Red Cliffs to replace the existing 220 kV single circuit 
+line. 
+• New 3 x 275/330 kV transformers at Bundey. 
+• New 330 kV phase shift transformers at Buronga†. 
+• New 330/220 kV transformers at Buronga†. 
+• New 330 kV substations at Bundey and Dinawan. 
+• Augmentation of existing substations at Robertstown, Buronga, Wagga Wagga and Red Cliffs. 
+• Turn in the existing Robertstown–Para 275 kV line into Tungkillo. 
+• Static and dynamic reactive plant at Bundey, Buronga, and Dinawan substations. 
+• A special protection scheme to detect and manage loss of either interconnection of Victoria – South Australia 
+or New South Wales – South Australia. 
+† The exact number of 330 kV phase shift transformers and 330/220 kV transformers at Buronga are still being 
+reviewed by TransGrid.  
+Limits 
+addressed 
+Project EnergyConnect represents an essential new transmission connection between South Australia and New 
+South Wales and does not specifically address a particular congested region. However, it does improve network 
+capacity in the general South-West New South Wales region. 
+Network 
+diagram 
+ 
+Bundey
+Red Cliffs
+Darlington  Point
+Balranald
+Broken Hill
+Wagga Wagga
+Buronga
+Dinawan
+Proposed augmentation
+Existing network
+330 kV network
+275 kV network
+220 kV network
+Transformer 
+Phase shift transformer
+Robertstown
+
+===== PDF PAGE 29 =====
+
+ 
+© AEMO 2020 | Final 2020 ISP, Appendix 3. Network Investments 29 
+ 
+A3.4.2.2 Alternative options 
+Alternative options were investigated as part of the South Australia Energy Transformation RIT-T. 
+A3.4.2.3 Non-network opportunity 
+Non-network augmentations were investigated as part of the South Australia Energy Transformation RIT -T21. 
+A3.4.3 HumeLink 
+HumeLink is a proposed transmission network augmentation that reinforces the Ne w South Wales southern 
+shared network to increase transfer capacity to the state’s demand centre. The proposed transmission 
+upgrades span a distance of approximately 630 km. TransGrid is currently undertaking a RIT -T to identify the 
+preferred option to augment this corridor22. The PADR, the second report of the RIT-T, was published in 
+January 202023. 
+A3.4.3.1 Preferred option  
+Table 13 HumeLink overview 
+Timing HumeLink is an actionable project and is timed for 2025-26 across all scenarios. 
+Description of 
+ISP candidate 
+option 
+The ISP modelled a triangle configuration with a 500 kV transmission line from Maragle to Bannaby to Wagga 
+Wagga and back to Maragle). This route provides access to Wagga Wagga and Southern New South Wales 
+Tablelands REZs and provides a 500 kV access point at Wagga Wagga for future network expansion between 
+New South Wales and Victoria. 
+Cost $1,470 million to $2,730 million  
+Approximate 
+network 
+capability 
+improvement 
+Tumut to Sydney Transfer (at time of peak demand) 2,230 MW to 2,570 MW 
+Additional REZ hosting capacity Wagga Wagga: +1,000 MW 
+Tumut: +2,040 MW hydro generation 
+Identified need The identified need for HumeLink is to deliver a net market benefit by: 
+• Increasing the transfer capacity and stability limits between the Snowy Mountains and major load centres of 
+Sydney, Newcastle and Wollongong. 
+• Enabling greater access to lower-cost generation to meet demand in these major load centres; and 
+• Facilitating the development of renewable generation in high quality renewable resource areas in southern 
+NSW, which will further lower the overall investment and dispatch costs in meeting NSW demand whilst also 
+ensuring that emissions targets are met at the lowest overall cost to consumers. 
+Responsible 
+TNSP(s) 
+TransGrid 
+Non-network 
+opportunity 
+Investigated as part of the RIT-T. 
+Drivers of 
+benefits 
+Without HumeLink, the capacity from Snowy 2.0 and other generation in southern New South Wales will not be 
+able to reach major load centres. At present, access to existing and new capacity around the Snowy Mountains is 
+limited by constraints on the 330 kV and 132 kV transmission network between the Snowy Mountains and Sydney. 
+ 
+ 
+21 See https://www.electranet.com.au/projects/south-australian-energy-transformation/. 
+22 See https://www.transgrid.com.au/HumeLink. 
+23 See https://www.transgrid.com.au/what-we-do/projects/current-projects/Reinforcing%20the%20NSW%20Southern%20 Shared%20Network/Documents/
+TransGrid%20HumeLink%20PADR%20-%20FINAL%20(AMENDED).pdf. 
+
+===== PDF PAGE 30 =====
+
+ 
+© AEMO 2020 | Final 2020 ISP, Appendix 3. Network Investments 30 
+ 
+Table 14 HumeLink detail 
+Augmentation 
+detail  
+For the 2020 ISP, a triangle linking Maragle, Wagga Wagga and Bannaby (Option 3C in RIT-T application) at 
+500 kV voltage level. It is modelled along with Snowy 2.0 generation, and other interconnector and REZ 
+developments in the NEM. The selected option involves: 
+• A new 500 kV single circuit from Maragle to Bannaby. 
+• A new 500 kV single circuit from Maragle to Wagga Wagga.  
+• A new 500 kV single circuit from Wagga Wagga to Bannaby.  
+• Cut-in Lower Tumut – Upper Tumut 330 kV line at Maragle. 
+• Three 500/330 kV 1,500 MVA transformers at Maragle.  
+• Two 500/330 kV 1,500 MVA transformers at Wagga Wagga.  
+Limits 
+addressed 
+ 
+The transfer capability from Snowy to Sydney is limited by transmission line thermal capacity, voltage stability, and 
+transient stability. The capability of this corridor at any particular time is dependent on a number of factors, 
+including demand levels, generation dispatch, status and availability of transmission equipment, and operating 
+conditions of the network. In normal system operation, transfer is limited by the following constraints: 
+• Thermal capacity of:  
+− Lower Tumut–Yass 330 kV line. 
+− Lower Tumut–Canberra 330 kV line.  
+− Canberra–Yass 330 kV line. 
+− Yass–Marulan 330 kV line.  
+− Kangaroo Valley–Dapto 330 kV line.  
+− Bannaby–Gullen Range.  
+− Bannaby–Sydney West.  
+• Voltage stability limit between Upper Tumut/Lower Tumut and Bannaby. 
+Network 
+diagram 
+ 
+ 
+A3.4.3.2 Alternative options  
+Alternative options were considered in the HumeLink RIT-T. All provided a similar capability improvement 
+between Tumut and Sydney, but less market benefit and system security. 
+A3.4.3.3 Non-network opportunity 
+Non-network options have been investigated in the PADR of the HumeLink RIT-T24.  
+ 
+24 At https://www.transgrid.com.au/what-we-do/projects/current-projects/Reinforcing%20the%20NSW%20Southern%20Shared%20 Network/Documents/
+TransGrid%20HumeLink%20PADR%20-%20FINAL%20(AMENDED).pdf.  
+Upper Tumut Lower Tumut
+Wagga Wagga
+Maragle
+Bannaby
+Proposed augmentation
+Existing network
+500 kV network
+330 kV network
+Transformer 
+
+===== PDF PAGE 31 =====
+
+ 
+© AEMO 2020 | Final 2020 ISP, Appendix 3. Network Investments 31 
+ 
+A3.4.3.4 Associated augmentations 
+Table 15 Associated augmentations for HumeLink 
+Augmentation Description Section reference 
+VNI West VNI West can be considered as an extension of HumeLink, which extends south from 
+Wagga Wagga to Victoria. 
+A3.4.5 
+A3.4.4 Central-West Orana REZ Transmission Link 
+The Central-West Orana REZ is highlighted in the New South Wales Government’s Electricity Strategy 25 for 
+development as the first co-ordinated REZ in New South Wales. It is expected that the proposed transmission 
+upgrades would unlock 3,000 MW of new generation capacity in the Central-West Orana REZ, by the 
+mid-2020s26. TransGrid is working with the New South Wales Government to plan new transmission 
+infrastructure in the REZ and will start engaging with local communities over the coming months. Community 
+feedback will be used to help plan the route, minimise project impacts and maximise benefits 27. 
+A3.4.4.1 Preferred option  
+Table 16 Central-West Orana REZ Transmission Link overview 
+Timing Central-West Orana REZ Transmission Link is an actionable project and is timed for 2024-25. 
+Description of 
+ISP candidate 
+option 
+A 500 kV/ 330kV loop which traverses the Central-West region 
+Cost $450 million to $850 million  
+Approximate 
+network 
+capability 
+improvement 
+Additional REZ hosting capacity Central West NSW: +3,000 MW 
+Identified need  To increase the capability of the transmission network to enable the connection of expected generation in the 
+Central-West Orana REZ 
+• increasing the transfer capacity between expected generation in the Central-West Orana REZ and the 
+existing 500 kV transmission network between Bayswater, Wollar and Mount Piper; and 
+• ensuring sufficient resilience to avoid material reductions in transfer capacity during an outage of a 
+transmission element, 
+or as otherwise consistent with the NSW Government’s Central-West Orana REZ program, including any change 
+of law. 
+Responsible 
+TNSP(s) 
+TransGrid 
+Non-network 
+opportunity 
+During high VRE and low demand periods there is likely opportunities for strategically placed battery storage 
+and/or pumped hydro to optimise network utilisation and/or reduce the size of the network augmentation 
+Drivers of 
+benefits 
+Access to increased amounts of renewable generation in Central-West Orana region. 
+ 
+25 At https://energy.nsw.gov.au/government-and-regulation/electricity-strategy.  
+26 See https://energy.nsw.gov.au/renewables/renewable-energy-zones. 
+27 See https://www.transgrid.com.au/what-we-do/projects/current-projects/CentralWest. 
+
+===== PDF PAGE 32 =====
+
+ 
+© AEMO 2020 | Final 2020 ISP, Appendix 3. Network Investments 32 
+ 
+Table 17 Central-West Orana REZ Transmission Link detail 
+Augmentation 
+detail  
+Augmentation to be developed as part of the RIT-T. 
+Limits 
+addressed 
+The Central-West Orana REZ is currently connected by an existing 330 kV and 132 kV network. The existing 
+capacity in this network is significantly less than the 3,000 MW targeted by the New South Wales Government.  
+Additionally, the existing network does not traverse where significant generator interest is located. 
+ 
+A3.4.4.2 Alternative options  
+Some alternative options are variations of a loop design, which have at least two points of connec tion to the 
+existing network. These variations include the route, location of generation connection hubs, where the loop 
+starts and ends on the existing network, and sections of the loop at 330 kV.  
+Other alternative options are radial configurations. Radial options would negatively impact generation during 
+network outages, and there would be more security and operational issues to address, such as low system 
+strength. For further details on managing local power system requirements refer to Appendix  5.  
+A3.4.4.3 Non-network opportunity 
+The identified need for the Central-West Orana Transmission Link can partially be met by non-network 
+alternatives.  
+Table 18 Central-West Orana Transmission Link – non-network opportunity 
+Opportunity 
+description 
+The identified need is to increase the overall net market benefits in the NEM by increasing the capability of the 
+network connecting the Central-West Orana REZ to the major load centres in New South Wales. The Central-
+West Orana REZ is as defined in the New South Wales Electricity Strategy.  
+It is AEMO’s view that a non-network option, or combination of non-network options can partially or wholly 
+meet this need. 
+During high VRE there will be network constraints which provide opportunities for strategically placed battery 
+storage and/or pumped hydro. These could defer the reduce the scale or increase the capability of network 
+augmentation. Central-West Orana has access to good pumped hydro resources which, if strategically 
+developed, can increase the hosting capacity within this REZ. 
+Timing From 2024-25 
+Technical 
+guide 
+ 
+AEMO is not prescriptive at this early regarding the role of non-network options and operating profiles for these 
+solutions. AEMO is interested to hear from parties regarding the potential for non-network options to satisfy, or 
+contribute to satisfying, the identified need, and from potential proponents of such non-network options.  
+A3.4.4.4 Associated augmentations 
+Table 19 Associated augmentations to Central-West Orana REZ Transmission Link 
+Augmentation Description Section reference 
+QNI Medium 
+and Large 
+One of the new Central-West Orana Transmission Link substations could be a 
+connection point for a QNI upgrade. 
+A3.5.1 
+A3.4.5 VNI West 
+VNI West is a large new interconnector between Victoria and New South Wales, with a route which is 
+significantly west of the existing VNI path. VNI West should be progressed for completion as soon as 
+
+===== PDF PAGE 33 =====
+
+ 
+© AEMO 2020 | Final 2020 ISP, Appendix 3. Network Investments 33 
+ 
+practicable, which is by 2027-28. Early works for this project should commence as soon as possible for 
+completion in late 2024.  
+This project is currently AEMO’s preferred option to maintain system security and reliability in Victoria. It 
+provides a prudent pathway to access sufficient dispatchable capacity to deliver int o Victoria and, therefore, 
+avoids the risk associated with earlier than planned exit of a major generator.  
+There are a number of factors which will ultimately determine the preferred route, which are beyond the 
+scope of the ISP. These include: 
+• Location of generator interest in Victoria. 
+• Future government policy. 
+• Land, planning and environment considerations. 
+• Additional resilience benefits. 
+This section describes the candidate options for VNI West (see Figure 5). The preferred options for this 
+actionable project are VNI West from a new substation north of Ballarat via Shepparton to Wagga Wagga 
+(which opens up the Central North REZ), or VNI West via Kerang and Dinawan to Wagga Wagga (which 
+opens up the Murray River REZ). 
+Despite differences in costs, these two options are very close in terms of net market benefits. The preferred 
+route will be determined in the RIT-T. Variations of these options may also be tested if appropriate, including  
+variations to the terminal stations and where they connect to the New South Wales network. 
+Further information on the bring forward case for VNI West is provided in section D of the ISP.  
+Figure 5 Victoria – New South Wales Interconnector options  
+ 
+ 
+A3.4.5.1 VNI West (Shepparton route) 
+This option to address the identified need entails a new interconnector to address the identified need, which 
+is indicatively from a terminal station north of Ballarat28 to Wagga Wagga via Bendigo and Shepparton, with 
+approximately 440 km route length.  
+ 
+28 Developed as part of the Western Victoria Transmission Network Project . 
+
+
+===== PDF PAGE 34 =====
+
+ 
+© AEMO 2020 | Final 2020 ISP, Appendix 3. Network Investments 34 
+ 
+Table 20 VNI West (Shepparton) overview 
+Timing 2027-28 or later 
+Description of 
+ISP candidate 
+option 
+A 500 kV HVAC double circuit line between a new terminal station north of Ballarat – Shepparton – Wagga 
+Wagga A 
+Cost $1,211 million to $2,249 million  
+Approximate 
+network 
+capability 
+improvement 
+Increase in VIC-NSW transfer (at time of peak 
+demand)A 
++1,930 MW North 
++1,800 MW South 
+Additional REZ hosting capacity Western Victoria: +1,000 MW 
+Central North Vic: +2,000 MW 
+Identified need 
+for project 
+The identified need is for additional transfer capacity between New South Wales and Victoria, to realise net 
+market benefits by: 
+• Efficiently maintaining supply reliability in Victoria following the closure of further coal-fired generation and the 
+decline in ageing generator reliability – including mitigation of the risk that this plant closes earlier than 
+expected. 
+• Facilitating efficient development and dispatch of generation in areas with high quality renewable resources in 
+Victoria and southern New South Wales through improved network capacity and access to demand centres. 
+• Enabling more efficient sharing of resources between NEM regions. 
+Responsible 
+TNSP(s) 
+AEMO Victorian Planning and TransGrid 
+Non-network 
+opportunity 
+Being consulted and investigated as part of the RIT-T 
+Drivers of 
+benefits 
+VNI West via Shepparton provides benefits from: 
+• Increased connection to the Central North and Western Vic REZ. 
+• Increased resilience in Victoria through the additional interconnection to New South Wales. 
+• Increased capability to export VRE to New South Wales.  
+A. This path travels towards Bendigo, but a new terminal station near Bendigo is not included. 
+B. Calculated with VNI Minor already in service. 
+Table 21 VNI West (Shepparton) detail 
+Augmentatio
+n detail  
+VNI West (Shepparton) involves the following augmentations: 
+• Two 500 kV lines from a new terminal station north of Ballarat to SheppartonA. 
+• Two 500 kV lines from Shepparton to Wagga Wagga. 
+• Two 500/220 kV 1,000 MVA transformers at Shepparton. 
+• Power flow controllers to prevent overloading on 330 kV lines between Upper/Lower Tumut and South Morang. 
+Possible locations are on the Murray–Lower Tumut, Murray–Upper Tumut and Wodonga–Jindera 330 kV lines. 
+• Additional reactive plant at a new terminal station north of Ballarat, Shepparton, and Wagga Wagga. 
+Limits 
+addressed 
+The transfer capability across the Victoria to New South Wales interconnector is limited by transmission line 
+thermal capacity, voltage stability, and transient stability. The capability across this interconnector at any particular 
+time is dependent on a number of factors, including demand levels, generation dispatch, status and availability of 
+transmission equipment, and operating conditions of the network.  
+In normal system operation, the transfer from Victoria to New South Wales is mainly limited by the following 
+constraints: 
+• Thermal capacity of:  
+– South Morang 500/330 kV transformers. 
+– South Morang–Dederang 330 kV lines. 
+
+===== PDF PAGE 35 =====
+
+ 
+© AEMO 2020 | Final 2020 ISP, Appendix 3. Network Investments 35 
+ 
+– Upper Tumut–Canberra 330 kV line. 
+– Dederang–Mount Beauty 220 kV lines. 
+– Murray–Lower Tumut 330 kV line. 
+– Murray–Upper Tumut 330 kV line. 
+• Voltage stability for potential loss of Alcoa Portland potlines. 
+• Transient stability for a potential fault on a Hazelwood–South Morang 500 kV line. 
+For normal system operation, the transfer from New South Wales to Victoria is mainly limited by the following 
+constraints:  
+• Thermal capacity of:  
+– Murray–Dederang 330 kV lines. 
+– South Morang–Dederang 330 kV lines. 
+– Dederang-Mount Beauty 220 kV lines. 
+– Mount Beauty–Eildon 220 kV lines. 
+– Eildon-Thomastown 220 kV line. 
+– Bendigo-Shepparton 220 kV line. 
+• Voltage collapse for a potential outage of the largest generating unit in Victoria, or of Basslink. 
+Network 
+diagram 
+ 
+A. This path travels towards Bendigo, but a new terminal station near Bendigo is not included. 
+A3.4.5.2 VNI West (Kerang route)  
+An alternative route to address the identified need is from a new terminal station north of Ballarat to Wagga 
+Wagga via Bendigo, Kerang and Dinawan. VNI Minor (VNI Option 1) and HumeLink is assumed to be in place.  
+Table 22 VNI West (Kerang) overview 
+Timing 2027-28 or later 
+Description of 
+ISP candidate 
+option 
+A 500 kV HVAC double circuit line between a new terminal station north of Ballarat – Bendigo – Kerang – 
+Dinawan – Wagga Wagga 
+Cost $1,687 million to $3,133 million 
+Approximate 
+network 
+Increase in VIC-NSW transfer (at time of peak demand) A +1,930MW North 
++1,800 MW South 
+
+
+===== PDF PAGE 36 =====
+
+ 
+© AEMO 2020 | Final 2020 ISP, Appendix 3. Network Investments 36 
+ 
+capability 
+improvement Additional REZ hosting capacity South West NSW: +1,000 MW 
+Murray River: +2,000 MW 
+Western Victoria: +1,000 MW 
+Identified need 
+for project 
+The identified need is for additional transfer capacity between New South Wales and Victoria, to realise net 
+market benefits by: 
+• Efficiently maintaining supply reliability in Victoria following the closure of further coal-fired generation and the 
+decline in ageing generator reliability – including mitigation of the risk that this plant closes earlier than 
+expected. 
+• Facilitating efficient development and dispatch of generation in areas with high quality renewable resources in 
+Victoria and southern New South Wales through improved network capacity and access to demand centres. 
+• Enabling more efficient sharing of resources between NEM regions. 
+Responsible 
+TNSP(s) 
+AEMO (Victorian Planning) and TransGrid 
+Non-network 
+opportunity 
+Being consulted and investigated as part of the RIT-T 
+Drivers of 
+benefits 
+VNI West (Kerang) provides benefits from: 
+• Increased connection to the South West NSW, Murray River and Western Vic REZ. 
+• Increased resilience in Victoria through the additional interconnection to New South Wales. 
+• Increased capability to export VRE to New South Wales 
+A. Calculated with VNI Minor already in service. 
+Table 23 VNI West (Kerang) detail 
+Augmentation 
+detail  
+VNI West (via Kerang) involves following augmentation: 
+• Two 500 kV lines from a new terminal station north of Ballarat to Bendigo.  
+• Two 500 kV lines from Bendigo to Kerang. 
+• Two 500 kV lines from Kerang to Dinawan. 
+• Two 500 kV lines from Dinawan to Wagga Wagga. 
+• Two 500/220 kV 1,000 MVA transformers at each of Bendigo and Kerang Terminal Stations. 
+• Two 500/330 kV 1,500 MVA transformers at Dinawan. 
+• Power flow controllers to prevent overloading on 330 kV lines between Upper/Lower Tumut and South Morang. 
+Possible locations are on the Murray–Lower Tumut, Murray–Upper Tumut and Wodonga–Jindera 330 kV lines. 
+• Additional reactive plant at Bendigo, Kerang, Dinawan and Wagga Wagga.  
+Limits 
+addressed 
+As per VNI West (via Shepparton) option. 
+
+===== PDF PAGE 37 =====
+
+ 
+© AEMO 2020 | Final 2020 ISP, Appendix 3. Network Investments 37 
+ 
+Network 
+diagram 
+ 
+ 
+A3.4.5.3 Alternative network options and next steps 
+A number of alternative credible network options were assessed and discounted in this ISP (see Section 
+A3.8.2). This detailed assessment has resulted in two remaining ISP candidate options as preferred: 
+• VNI West (Shepparton route) – as per Section A3.4.5.1. 
+• VNI West (Kerang route) – as per Section A3.4.5.2. 
+AEMO therefore requires that the VNI West RIT-T excludes network options discounted in this ISP, and 
+assesses and refines the two remaining ISP candidate options for VNI West. 
+A3.4.5.4 Non-network opportunity 
+The VNI West Project Specification Consultation Report (PSCR) sought submissions from providers of 
+potential non-network solutions for information on options that may be capable of addressing or partially 
+addressing the identified need of VNI West. Through the consultation process, AEMO and TransGrid engaged 
+with a number of non-network providers to discuss options proposed in submissions, and for feedback on 
+how these options should be considered in the RIT-T. 
+This feedback has now been incorporated, and modelling is being undertaken to identify and assess credible 
+non-network options, to identify the optimal size, technology, location, and staging that has the potential to 
+meet the identified need and deliver market benefits. This includes investigating the benefits of a virtual 
+transmission line, which involves the installation and pairing of two battery energy storage solutions at two 
+substations to relieve the limitations on the existing New South Wales to Victoria interconnector. AEMO and 
+TransGrid will continue to progress this analysis over the coming months and publish for consultation the 
+outcome of this analysis in the VNI West PADR. 
+
+
+===== PDF PAGE 38 =====
+
+ 
+© AEMO 2020 | Final 2020 ISP, Appendix 3. Network Investments 38 
+ 
+A3.4.5.5 Associated augmentations 
+Table 24 Associated augmentations to VNI West 
+Augmentation Description 
+ 
+Section reference 
+Project 
+EnergyConnect 
+VNI West (Kerang) connects to Project EnergyConnect in the NSW network. A3.4.2 
+HumeLink HumeLink complements VNI West by completing the interconnection to 
+Sydney. 
+A3.4.3  
+A3.4.6 Marinus Link (Stage 1 and Stage 2) 
+Marinus Link is a second, and potentially third, HVDC cable connecting Victoria to Tasmania, with associated 
+HVAC transmission. TasNetworks is currently undertaking a RIT-T to identify the preferred option and net 
+market benefit29. The PADR, the second report of the RIT-T, was published in December 201930. 
+This is an actionable ISP project for which AEMO recommends early works to commence as soon as 
+practicable, and with each of the future project stages subject to decision rules (see Section D of the ISP 
+body,  and Appendix 2). 
+A3.4.6.1 Preferred option  
+Table 25 Marinus Link Stage 1 and 2 overviews 
+Timing First cable: from 2028-29 or later 
+Second cable: from 2031-32 or later 
+Description of 
+ISP candidate 
+option 
+Marinus Link is a second, and potentially third, HVDC cable interconnection between Tasmania and Victoria. It is 
+proposed with a transfer capability of 750 MW (one cable) or 1,500 MW (two cables).  
+Cost estimate Marinus Link with one 750 MW cable: $1,292 million to $2,399 million [Discussed in section A3.4.6] 
+Marinus Link with two 750 MW cables: $2,209 million to $4,102 million  
+These cost estimates represent for both cables installed within four years. 
+Approximate 
+network 
+capability 
+improvement 
+TAS – VIC (both directions) Stage 1: +750 MW  
+Stage 2: +750 MW, i.e. total +1,500 MW combined Stage 1 & 2 
+ Additional REZ hosting capacity Stage 1: Tasmania Midlands: +540 MW  
+Stage 2: North West Tasmania: +600 MW 
+ 
+Identified need 
+for project 
+The characteristics of customer demand, generation, and storage resources vary significantly between Tasmania 
+and the rest of the NEM. Increased interconnection capacity between Tasmania and the other NEM regions has 
+the potential to realise a net economic benefit by capitalising on this diversity. 
+Responsible 
+TNSP(s) 
+TasNetworks and AEMO Victorian Planning 
+ 
+29 See https://www.marinuslink.com.au/rit-t-process/. 
+30 At https://www.marinuslink.com.au/wp-content/uploads/2019/12/rit-t-project-assessment-draft-report.pdf. 
+
+===== PDF PAGE 39 =====
+
+ 
+© AEMO 2020 | Final 2020 ISP, Appendix 3. Network Investments 39 
+ 
+Non-network 
+opportunity 
+None 
+Drivers of 
+benefits 
+Key drivers include: 
+• Thermal coal power retirements in Victoria. 
+• Access to high-quality wind resources in Tasmania. 
+• Deep storage capability of Tasmanian hydro generation. 
+•  Access to low cost pumped storage capability in Tasmania. 
+ 
+Table 26 Marinus Link Stage 1 and 2 detail 
+Augmentation 
+detail  
+Marinus Link with two 750 MW interconnector involves:  
+• Two 750 MW HVDC interconnector using voltage source converter technology and monopole configuration. 
+Converter stations located in the Burnie area in Tasmania and the Hazelwood area in Victoria.  
+• AC network augmentations in Tasmania comprise:  
+− A new 220 kV switching station in the Burnie area adjacent to the converter station. 
+− A new double-circuit 220 kV transmission line from Burnie to Sheffield. 
+− A new 220 kV double circuit line from Hampshire to Burnie. 
+− A new 220 kV double circuit line from Hampshire to Staverton. 
+− 220 kV switching station at Staverton. 
+− Cut-in two Sheffield-Mersey Forth double circuit 220 kV lines at Staverton. 
+− A 220 kV double circuit line from Sheffield to Palmerston.  
+• AC network augmentations in Victoria comprise:  
+− A 500 kV connection asset for connection of the converter station in the Hazelwood area to the 
+Hazelwood 500 kV terminal station. 
+Limits 
+addressed 
+The transfer capability across the Tasmania and Victoria interconnector is limited by the transmission capacity of 
+the HVDC cable (Basslink) between Tasmania and Victoria. In addition, with a second interconnector in the Burnie 
+area, the thermal capacity of the following transmission lines becomes the limitation:  
+• Burnie–Sheffield 220 kV line. 
+• Sheffield–Palmerston 220 kV line. 
+Network 
+diagram 
+ 
+ 
+Marinus Link
+Burnie Area
+(Tasmania)
+Hazelwood
+(Victoria)
+Palmerston
+Sheffield
+Marinus Link – Proposed stage 1
+Marinus Link – Proposed stage 2 
+Existing network
+HVDC 
+500 kV network 
+220 kV network 
+AC/DC Converter  
+Hampshire
+Staverton
+750 MW symmetrical monopole
+750 MW symmetrical monopole
+Burnie
+
+===== PDF PAGE 40 =====
+
+ 
+© AEMO 2020 | Final 2020 ISP, Appendix 3. Network Investments 40 
+ 
+A3.4.6.2 Non-network opportunity 
+TasNetworks is not aware of any non-network alternatives to deliver an increase in interconnection capacity 
+between Tasmania and Victoria31. 
+A3.4.6.3 Associated augmentations 
+Not applicable. 
+ 
+31 TasNetworks. Project Specification Consultation Report – Additional interconnection between Victoria and Tasmania, at https://www.marinuslink.com.au/wp-
+content/uploads/2019/05/Project-Specification-Consultation-Report.pdf. 
+
+===== PDF PAGE 41 =====
+
+ 
+© AEMO 2020 | Final 2020 ISP, Appendix 3. Network Investments 41 
+ 
+A3.5. Future ISP projects 
+with preparatory 
+activities 
+These projects would reduce costs, and enhance system resilience and optionality. They are not yet 
+‘actionable’ under the new ISP Rules, but are expected to become actionable in the future and are part of the 
+optimal development path.  
+For each of these future ISP Projects, AEMO requires the responsible TNSP to carry out preparatory activities 
+including publishing a report on the outcome of these activities by 30 June 2021: 
+• QNI Medium and Large interconnector upgrades32. 
+• Central to Southern Queensland Transmission Link. 
+• Gladstone Grid Reinforcement. 
+• Reinforcing Sydney, Newcastle and Wollongong Supply reinforcement.  
+• New England REZ network expansion33. 
+• North West New South Wales REZ network expansion. 
+Further details are provided in Table 27. 
+Table 27 Future ISP projects for which preparatory activities are required 
+Project Indicative timingA Status  Responsible 
+TNSP(s) 
+Preparatory activities required 
+QNI Medium and Large 2032-33 to 2035-36 RIT-T not 
+started  
+Powerlink and 
+TransGrid 
+AEMO requires that the responsible 
+TNSPs undertake the following 
+preparatory activities by 30 June 
+2021 on each project: 
+• Preliminary engineering design. 
+• Desktop easement assessment. 
+• Cost estimates based on 
+preliminary engineering design 
+and route selection. 
+Central to Southern 
+Queensland Transmission 
+Link 
+Early-2030s  RIT-T not 
+started  
+Powerlink 
+Gladstone Grid 
+Reinforcement  
+2030s  RIT-T not 
+started  
+Powerlink 
+Reinforcing Sydney, 
+Newcastle and Wollongong 
+Supply  
+Between 2026-27 
+and 2032-33 
+RIT-T not 
+started  
+TransGrid 
+ 
+32 Some parts of these upgrades may be needed earlier if the New England REZ development is accelerated  through New South Wales Government policy. 
+33 The New England REZ network expansion may be accelerated thr ough New South Wales Government policy (New South Wales Government. New England 
+to light up with second New South Wales Renewable Energy Zone, at https://www.nsw.gov.au/media-releases/new-england-to-light-up-second-nsw-
+renewable-energy-zone). 
+
+===== PDF PAGE 42 =====
+
+ 
+© AEMO 2020 | Final 2020 ISP, Appendix 3. Network Investments 42 
+ 
+Project Indicative timingA Status  Responsible 
+TNSP(s) 
+Preparatory activities required 
+New England New South 
+Wales REZ Network 
+ExpansionB 
+2030s RIT-T not 
+started  
+TransGrid • Preliminary assessment of 
+environmental and planning 
+approvals. 
+• Appropriate stakeholder 
+engagement. North West New South 
+Wales REZ Network 
+Expansion 
+2030s RIT-T not 
+started  
+TransGrid 
+A. The earliest time by when the full ISP project has been found to needed in the optimal development path. All dates are indicative, 
+and on a financial year basis.  
+B. The requirement for preparatory activities may be accelerated for the New England REZ network expansion if that development is 
+accelerated through New South Wales Government policy (see at https://www.nsw.gov.au/media-releases/new-england-to-light-
+up-second-nsw-renewable-energy-zone). 
+A3.5.1 QNI Medium and Large 
+AEMO recommends preparatory activities for a staged delivery of QNI Medium and Large. These 
+augmentations are identified as part of the optimal development path – this is strongly linked to the closure 
+of the next New South Wales and/or Queensland black coal generators after Liddell Power Station. 
+Following the development of a QNI Medium, a larger QNI upgrade is identified on the optimal development 
+path, to increase the capacity of the network to host renewable energy and share both storage and firming 
+services between the regions. QNI Large is essentially a second stage, stringing a second 500 kV line on the 
+same route.  
+QNI Medium and Large provides additional REZ hosting capacity in N ew South Wales to the North West 
+NSW REZ, as it is a westerly route. However, there is an alternative route for a portion of QNI Medium and 
+Large, which would have one of the 500 kV lines initially traversing an easterly path and connecting the New 
+England REZ. 
+New England REZ has also been identified as ‘priority’ by the New South Wales Government Electricity 
+Strategy34. 
+A3.5.1.1 Preferred option – QNI Medium and Large via North West NSW REZ 
+Table 28 QNI Medium and Large overview 
+Timing The staged delivery of QNI Medium and Large is timed for 2033 for Medium and 2036 for Large in the optimal 
+development path. This timing is for all scenarios aside from Slow Change. 
+Description QNI Medium comprises:  
+• A single 500 kV circuit between New South Wales and Queensland strung on a double circuit tower via the 
+western part of the existing QNI including terminal stations and supporting plant.  
+• The proposed route goes through the North West New South Wales and Darling Downs REZs. 
+This augmentation can be expanded with a second stage to form the Large QNI Upgrade. 
+QNI Large comprises: 
+• A second 500 kV circuit between New South Wales and Queensland strung on the double circuit tower which 
+was proposed in QNI medium stage. 
+Cost QNI Medium $1,481 million to $2,750 million. 
+QNI Large (second stage only) $802 million to $1,489 million. 
+Forward direction (NSW to QLD)A +832 MW (Medium) 
+ 
+34 New South Wales Government, https://energy.nsw.gov.au/renewables/renewable -energy-zones. 
+
+===== PDF PAGE 43 =====
+
+ 
+© AEMO 2020 | Final 2020 ISP, Appendix 3. Network Investments 43 
+ 
+Approximate 
+network 
+capability 
+improvement 
++2,372 (Combined Medium and Large) 
+Reverse direction (QLD to NSW)A +760 MW (Medium)  
++2,130 MW (Combined Medium and Large) 
+Additional REZ hosting capacity North West NSW: +1,000MW (Medium), +2,000 MW 
+(Combined Medium and Large) 
+Darling Downs: +1,000 MW (Medium), +2,000 MW 
+(Combined Medium and Large) 
+Responsible 
+TNSP(s) 
+TransGrid and Powerlink 
+Non-network 
+opportunity 
+Options include: 
+• Battery Energy Storage Systems. 
+• Pumped Hydro Energy Storage (PHES). 
+• Other forms of dispatchable generation 
+Drivers of 
+benefits 
+QNI Medium’s benefit comes from providing support to export excess renewable generation in Queensland 
+and/or increase efficient access to renewable generation at REZs in both Queensland and New South Wales. It 
+also helps share resources more efficiently between regions as aging black coal-fired generators retire. 
+A This is calculated with QNI minor already operational. 
+Table 29 QNI Medium and Large detail 
+Augmentation 
+detail  
+The QNI Medium and Large upgrade includes a single 500 kV circuit between New South Wales and Queensland 
+via the western part of the existing QNI. The proposed route goes through the North West New South Wales and 
+Darling Downs REZs. Specifically, Medium includes: 
+• Single circuit 500 kV from a new substation in NSW Central West Orana REZ to Boggabri to West of Dumaresq 
+to Bulli Creek to Western Downs (first circuit strung on a double circuit tower). 
+• New 330 kV single circuit line from Boggabri to Tamworth or future Uralla substation. 
+• New 330 kV single circuit line from West Dumaresq to Dumaresq. 
+• Establishing new 500/330 kV substations at Boggabri site and a new site West of Dumaresq (West Dumaresq). 
+• One 550/330kV 1,500 MVA transformer at Boggabri. 
+• One 500/330 kV 1,500 MVA transformer at west of Dumaresq. 
+• One 500/330 kV 1,500 MVA transformer at Bulli Creek. 
+• One 500/275 kV 1,000 MVA transformer at Western Downs. 
+• New static and dynamic compensation at Boggabri, West Dumaresq, Sapphire, Bulli Creek, and/or Western 
+Downs. 
+Work and investment can be undertaken to make any potential second circuit of the 500 kV (QNI Large) more 
+ready. These works could include: 
+• Easement and land acquisition. 
+• Substation works and bus extension, including provision of additional spare bays. 
+QNI Large comprises: 
+• A second 500 kV circuit from a new substation in NSW Central West Orana REZ to Boggabri to West of 
+Dumaresq to Bulli Creek to Western Downs (second circuit strung on a double circuit tower). 
+• Second 500/275 kV 1,000 MVA transformer at Western Downs. 
+• Power flow controllers on Boggabri-Tamworth and West Dumaresq-Dumaresq 330 kV lines (or 330 kV lines 
+between Armidale-Tamworth-Liddell). 
+• Additional static and dynamic compensation at Boggabri, West Dumaresq, Sapphire, Bulli Creek, and/or Western 
+Downs. 
+
+===== PDF PAGE 44 =====
+
+ 
+© AEMO 2020 | Final 2020 ISP, Appendix 3. Network Investments 44 
+ 
+Limits 
+addressed 
+In normal system operation and with QNI minor upgrade (QNI Option 1A), the transfer from Queensland to New 
+South Wales is mainly limited by the following constraints: 
+• Stability limits for faults on either Sapphire to Armidale, Dumaresq–Sapphire, or Armidale to Dumaresq line.  
+• Thermal capacity of the 330 kV lines within northern New South Wales.  
+• Oscillatory stability upper limit of 1,350-1,450 MW.  
+In normal system operation, the transfer from New South Wales to Queensland is mainly limited by the following 
+constraints:  
+• Stability limits on loss of the largest Queensland unit.  
+• Transient stability associated with transmission line faults in the Hunter Valley.  
+• Voltage collapse for trip of the Liddell to Muswellbrook 330 kV line. 
+• Thermal capacity of the 330 kV and 132 kV transmission lines within northern New South Wales. 
+Network 
+diagram 
+ 
+ 
+A3.5.1.2 Alternative to QNI Medium and Large, via New England 
+The major alternative pathway option in New South Wales is the possibility for the route of QNI Medium and 
+Large to traverse and easterly route and connect the New England REZ. This alternative route is essentially 
+splitting in the lower half of the interconnector, with one circuit of QNI to traversing a more eastly path, 
+connecting the New England REZ, with the other circuit maintaining a westerly path and connecting North 
+West New South Wales (see Figure 6). The easterly path is already partially developed as part of the New 
+England REZ network expansion (see Section A3.5.5). 
+This alternative involves building part of the New England REZ expansion as part of QNI Medium and Large, 
+in turn potentially avoiding building a second circuit between Central West and Boggabri. This option is 
+linked to New England REZ preparatory activities; there is some commonality between the alternative easterly 
+path of QNI and potential network expansions to connect the New England REZ. 
+West of Dumeresq
+Boggabri
+Armidale
+Bulli Creek
+Western Downs
+Dumaresq
+Sapphire
+Tamworth
+Wollar
+Bayswater
+Mount Piper
+Central-West 
+Orana REZ
+.
+SVC
+SVCSVC
+Proposed – QNI Medium
+Proposed – QNI Large
+Existing
+500 kV network 
+330 kV network 
+275 kV network 
+Transformer
+Power flow controller
+Static VAr compensatorSVC
+
+===== PDF PAGE 45 =====
+
+ 
+© AEMO 2020 | Final 2020 ISP, Appendix 3. Network Investments 45 
+ 
+Figure 6 Alternative for QNI Medium and Large 
+ 
+ 
+Table 30 Alternative option for QNI Medium and Large 
+Timing 
+Similar to preferred option – staged delivery of QNI Medium and Large is timed for 2033 for Medium 
+and 2036 for Large in the optimal development path. This timing is for all scenarios aside from Slow 
+Change. 
+Overview 
+A 500 kV circuit between Bayswater and Uralla, which can be shared with the New England REZ 
+expansion. This would be in place of one of the circuits between Central West and Boggabri. An 
+additional 500 kV circuit between Boggabri and Uralla is required, also shared with Stage 2 of the new 
+England REZ expansion 
+Cost The total cost of this alternative is between $3,100 million and $5,700 million; however, this would avoid 
+the $940 million to $1,750 million New England REZ expansion costs. 
+Approximate Network 
+capability improvement 
+Forward direction (NSW to QLD) Similar to preferred option 
+Reverse direction (QLD to NSW) Similar to preferred option 
+Additional REZ hosting capacity North West and New England: +2,000 MWA 
+Darling Downs: +1,000 MW 
+Comparison to preferred 
+option 
+The QNI Medium and Large via New England has some key trade-offs with the preferred option: 
+• It has the same effective transfer capacity between New South Wales and Queensland.  
+• It also increases the network hosting capability of New England, but consequently the additional REZ 
+hosting capacity to North NSW is reduced as it is effectively shared between these two REZ. 
+• It also has a slight increased cost compared to the preferred option as there is an additional section 
+of network (Boggabri to Uralla) being built with double circuit towers instead of single. 
+A  The 2,000 MW of additional hosting capacity is similar to the preferred option; however, it is shared between the two REZ. 
+Furthermore, this only reflects the hosting capacity provided by a single circuit between Bayswater and Uralla, not the second circuit 
+which is considered in the New England REZ expansion. Two circuits provide 4,000 MW to 5,000 MW as described in A3.5.5 
+N2N1
+  Armidale
+Dumaresq
+Boggabri
+West 
+Dumaresq
+Newcastl e
+Wellington
+Tamworth
+Sydney
+N3
+Uralla
+Q8
+N1  North West NSW
+N2  New England
+N3 Central-West Orana
+Q8 Darling Downs
+       Terminal Station
+       City
+       QNI West
+       QNI East
+       Central West
+Brisbane
+Bayswater
+
+===== PDF PAGE 46 =====
+
+ 
+© AEMO 2020 | Final 2020 ISP, Appendix 3. Network Investments 46 
+ 
+A3.5.1.3 Non-network opportunity 
+The need for QNI Medium and Large can partially be met by non-network alternatives. A virtual transmission 
+line is a strong option, due to the nature of the limitations across QNI and the relative speed at which virtual 
+transmission lines can be developed35.  
+Table 31 QNI Medium and Large – non-network opportunity 
+Opportunity 
+description 
+There is a need to maintain reliability, facilitating additional renewable generation in the north and west of NSW 
+to the load centres, and the ability to share resources between regions. It is AEMO’s view that a non-network 
+option, or combination of non-network options can partially or wholly meet this need. 
+One or more BESS located in northern New South Wales and southern Queensland could be made available for 
+Special Protection Integrity Protection Scheme (SIPS) operation for severe system events. This option could defer 
+or avoid costs of a large transmission investment. Devices located at strategic locations in New South Wales can 
+also serve to facilitate increased renewable generation in the North West NSW and New England REZs. 
+Timing There are benefits accruing from increasing QNI southerly flow from the mid-2020s. 
+Transfer 
+capability 
+AEMO assessed the improvement to transfer capability associated with operating a pair of 200 MW BESS, 
+one connected at Calvale 275 kV substation and one connected at Newcastle 330 kV substation.  
+The batteries are armed to operate to reduce QNI flow, immediately after contingencies.  
+Contingencies include the loss of 330 kV lines between Liddell and Western Downs and outage of Kogan Creek 
+generator and the largest generator in New South Wales.  
+Technical 
+guide 
+ 
+200 to 300 MW BESS located in northern New South Wales with an equivalent size BESS or braking resistor 
+located in southern Queensland. 
+The operation of the virtual transmission lines should be in the sub-second range, with short operating times 
+increasing the transient and voltage stability. Operation within 1,000 ms was shown to improve QNI southerly 
+flow by 200 MW as the thermal limitation is the dominant constraint. For a pair of batteries larger than 300 MW, 
+the improved QNI flow diminishes as the transient stability limit is the dominant limit.  
+Service 
+specification 
+Under high transfer conditions, and after a major system event, the solution must mitigate thermal overload and 
+prevent system instability such that the interconnector transfer can be increase during system normal conditions.  
+There must be sufficient capability to inject/absorb power in the order of 15 minutesA such that NEMDE can 
+redispatch generation to resecure the system.  
+A. This will need to be refined/confirmed as the non-network option is further investigated. 
+A3.5.1.4 Associated augmentations 
+Table 32 Associated augmentations with QNI Medium and Large 
+Augmentation Description Section reference 
+New England 
+REZ 
+Portions of the 500 kV New England REZ expansion between Uralla and Bayswater 
+are common with the alternative easterly QNI Medium route.  
+A3.5.5 
+QNI Medium 
+and Large 
+The QNI Medium and Large path form the backbone of the network connecting the 
+North West NSW REZ. Future REZ expansion will build from the QNI Medium and 
+Large infrastructure. 
+A3.5.1 
+ 
+ 
+35 A virtual transmission line is potentially a ‘non-network’ or a ‘network’ option. It may form part of the TNSP’s regulated asset base depending on who the 
+VTL is funded. 
+
+===== PDF PAGE 47 =====
+
+ 
+© AEMO 2020 | Final 2020 ISP, Appendix 3. Network Investments 47 
+ 
+A3.5.2 Central Queensland to Southern Queensland Transmission 
+Link 
+The Central Queensland to Southern Queensland (CQ-SQ) cut-set is defined as the power flow on the 
+following 275 kV lines: Calvale – Halys lines 8810 and 8811, Calliope River – Gin Gin lines 813 and 814, and 
+Wurdong –Teebar Creek36 line 819. The optimal timing of the CQ-SQ upgrade depends on the generation 
+developed north of CQ-SQ as well as the timing of the retirement of coal power stations in central 
+Queensland. 
+In 2019-20, there was significant congestion on CQ-SQ, largely during planned network outages that reduced 
+the transfer capacity. Generation connecting north of CQ-SQ will increase congestion on this corridor. When 
+CQ-SQ is at its limit, new generation will compete for market dispatch against approximately 4,700 MW of 
+existing coal-powered generation in Central Queensland. 
+Table 33 Central Queensland to Southern Queensland Transmission Link overview 
+Timing The optimal timing ranges between 2028-29 to 2033-34 depending on scenario. This upgrade together with the 
+upgrade on the Gladstone is being investigated further, however, currently it is expected to be required when 
+additional generation in the north of this limit exceeds approximately 2,000-2,500 MW.  
+Description A new double circuit Calvale to Wandoan South 275 kV line 
+Cost $300 million to $560 million [$432 million used in modelling] 
+ 
+Approximate 
+network 
+capability 
+improvement 
+Network transfer capacity CQ-SQ cut-set: +900 MW 
+Responsible 
+TNSP(s) 
+Powerlink 
+Non-network 
+opportunity 
+Network constraints of the CQ-SQ corridor will likely occur in periods of high VRE and low demand as power is 
+forced South to major load centres. Strategically placed and operated non-network solutions such as battery 
+storage and/or pumped hydro can defer the optimal timing and/or reduce the scale of network augmentation. 
+Drivers of 
+benefits 
+Increase in renewable generation in Central and Northern Queensland. 
+ 
+Table 34 Central Queensland to Southern Queensland Transmission Link detail 
+Augmentation 
+detail  
+To increase the capacity of the CQ-SQ cut-set, the following augmentations are required:  
+• A new double circuit Calvale–Wandoan South 275 kV line.  
+Limits 
+addressed 
+Power transfer across the CQ-SQ cut-set is limited to prevent voltage and transient instability. 
+ 
+36 There is an augmentation planned which will reconfigure this network to b e Rodds Bay to Teebar Creek in 2022-23. 
+
+===== PDF PAGE 48 =====
+
+ 
+© AEMO 2020 | Final 2020 ISP, Appendix 3. Network Investments 48 
+ 
+Network 
+diagram 
+ 
+ 
+Table 35 Central Queensland to Southern Queensland – non-network opportunity description 
+Opportunity description The deferment of network augmentation coupled with the potential increase in hosting capacity north 
+of the CQ-SQ cut-set could be realised with strategic placement of pumped hydro and/or battery 
+storage. To this end, Isaac, Fitzroy, North Queensland, and Far North Queensland REZs have been 
+identified as areas with potential for significant pumped hydro resources. 
+Timing 2030s 
+Potential benefits Deferral and/or reduced scale of network augmentation in addition to potential increase in hosting 
+capacity north of CQ-SQ. 
+Service specification Northern Queensland has access to potentially significant pumped hydro resources which can operate 
+to efficiently supply Queensland load. 
+ 
+A3.5.3 Reinforcing Sydney, Newcastle and Wollongong Supply  
+AEMO recommends preparatory activities to reinforce supply to Sydney, Newcastle and Wollongong. The 
+transmission network in Sydney and the surrounding area37 was designed in large part to connect large coal 
+generators in the Hunter Valley to the Sydney load centres. When these coal generators retire, the network 
+has insufficient capability to supply Sydney from generators located outside of the Hunter Valley. 
+Transmission network augmentation or non-network services are projected to be needed between 
+Marulan and Liddell to supply the Sydney/Newcastle/Wollongong load areas following retirement of coal -
+powered generation in New South Wales. Due to the difficultly in estimating costs in this area, this ISP does 
+not include cost estimates for the network options. AEMO also recommends that both network and 
+non-network options for this project be explored.  
+Table 36 Reinforcing Sydney, Newcastle and Wollongong Supply overview 
+Timing 2026-27 to 2032-33, specifically linked to coal retirements in New South Wales. 
+Description Transmission network augmentation or non-network services are projected to be needed between Marulan and 
+Liddell to supply the Sydney/Newcastle/Wollongong load areas following retirement of coal-powered generation 
+in New South Wales. A possible long-term network option is extending 500 kV networks in central New South 
+Wales closer to major load centres. 
+Stage 1: Extending 500 kV network from Bannaby to a new substation between Mt Piper and Kemps Creek 
+(Southern loop) 
+Stage 2: Extend 500 kV network from Bayswater to Eraring (Northern loop)  
+ 
+37 Essentially this is the Hunter Valley, Greater Sydney area, New South Wales Southern Tablelands, and just west of the Blue Mo untains. 
+Proposed augmentation
+275 kV network
+
+===== PDF PAGE 49 =====
+
+ 
+© AEMO 2020 | Final 2020 ISP, Appendix 3. Network Investments 49 
+ 
+Cost Uncertain – Pending Preparatory Activities 
+Approximate 
+network 
+capability 
+improvement 
+Additional network capacity to supply the 
+Sydney/Newcastle/Wollongong load areas. 
+Stages 1 & 2: Between 5,000 and 6,000 MW 
+Responsible 
+TNSP(s) 
+TransGrid 
+Non-network 
+opportunity 
+Non-network solutions, such as demand management and battery storage within the 
+Sydney/Newcastle/Wollongong areas. 
+Drivers of 
+benefits 
+The key driver is the retirement of coal-powered generation in New South Wales. 
+The sequence of works and the optimal timing highly influenced by load distribution, battery storage locations, 
+and potential line uprating’s within Sydney/Wollongong/Newcastle load centre. 
+ 
+Table 37 Sydney/Newcastle/Wollongong load centre reinforcement detail 
+Augmentation 
+detail  
+Stage 1 – Closing the southern portion of the loop. Network augmentation with retirement of Liddell and Vales 
+Point power stations and increased Snowy generation and increased import from Victoria, South Australia, and 
+Queensland:  
+• Uprating of selected highly loaded 330 kV lines between Marulan and Liddell.  
+• Two 500 kV lines from Bannaby to South Creek (closer to Sydney West).  
+• A new 500/330 kV substation at South Creek.  
+• Tap both Eraring–Kemps Creek 500 kV lines at South Creek.  
+• Two 500/330 kV 1,500 MVA transformers at South Creek.  
+• One 500/330 kV 1,500 MVA transformer at Bannaby.  
+• A new 330 kV transmission line from South Creek to Sydney West (8 km).  
+• Tap Sydney West–Bayswater 330 kV line at South Creek.  
+• Tap Sydney West–Regentville 330 kV line at South Creek.  
+• Third Mt Piper–Wallerawang 330 kV line.  
+• Third Bayswater–Liddell 330 kV line.  
+Stage 2 – closing the northern portion of the loop. Network augmentation with additional retirement of Eraring 
+power station and increased generation from North West New South Wales and New England REZs and 
+increased import from Victoria, South Australia, and Queensland:  
+• Two 500 kV lines from Bayswater to Eraring. 
+Limits 
+addressed 
+Thermal capacity of the following transmission lines:  
+• Marulan–Avon 330 kV line.  
+• Marulan–Dapto 330 kV line.  
+• Avon–Macarthur 330 kV line.  
+• Macarthur–Kemps Creek 330 kV line.  
+• Bannaby–Sydney West 330 kV line.  
+• Dapto–Sydney South 330 kV line.  
+• Sydney South–Liverpool 330 kV line.  
+• Sydney West–Sydney North. 
+• Mount Piper–Wallerawang 330 kV line.  
+• Wallerawang–Ingleburn 330 kV line.  
+• Wallerawang–Sydney South 330 kV line.  
+
+===== PDF PAGE 50 =====
+
+ 
+© AEMO 2020 | Final 2020 ISP, Appendix 3. Network Investments 50 
+ 
+• Bayswater–Liddell 330 kV line.  
+• Liddell–Newcastle 330 kV line.  
+• Bayswater 500/330 kV transformer. 
+Network 
+diagram 
+ 
+ 
+Table 38 Reinforcing Sydney, Newcastle and Wollongong Supply – non-network opportunity description 
+Opportunity 
+description 
+Due to network constraints, unserved energy could occur during high demand periods. Non-network solutions, 
+such as demand management and battery storage within the Sydney/Newcastle/Wollongong areas, could defer 
+the optimal timing of this network augmentation.  
+Timing Staged through to the mid-2030s in line with coal retirement. 
+Potential 
+benefits 
+Deferral and/or reduced scale of network augmentation. Improve existing network utilisation with the 
+deployment of utility BESS and demand management through the Sydney/Newcastle/Wollongong area. 
+Service 
+specification 
+A service specification is not quantified at this time; however, it is likely that a significant amount of energy and 
+capacity will need to be provided within the Sydney region to replace retired coal-powered generation.  
+The exact size, duration and location will be investigated in future studies and preparatory works. 
+ 
+A3.5.4 Gladstone grid reinforcement  
+Following the closure of Gladstone Power Station, network upgrades will be required to supply major loads in 
+the Gladstone area. Furthermore, with the significant increase in generation projected for the Far North, Isaac, 
+and Fitzroy REZs, the thermal capacity of the network between Bouldercombe, Raglan, Larcom Creek, and 
+Calliope River will be reached. Upgrading the CQ-SQ cut-set will further highlight the need for the upgrade 
+on this network, as addressing this limitation will shift the limitations further north under high VRE output. 
+Regentville
+Kemps Creek
+Bannaby
+South Creek Sydney West
+Eraring
+BayswaterMt Piper
+Wollar
+Wallerawang
+Liddell
+Proposed augmentation
+Existing network
+500kV network
+330 kV network
+Transformer
+Power flow controller
+
+===== PDF PAGE 51 =====
+
+ 
+© AEMO 2020 | Final 2020 ISP, Appendix 3. Network Investments 51 
+ 
+Table 39 Gladstone grid reinforcement overview 
+Timing 2030s. This upgrade together with the upgrade on the CQ-SQ limit is being investigated further, however, 
+currently it is expected to be required when additional generation in the north of this limit exceeds approximately 
+2,000 to 2,500 MW. Timing could be brought forward with retirement of Gladstone generationA. 
+Description To address the thermal constraints transmission network between Calliope River in the south and Bouldercombe 
+in the north requires rebuilding and reconfiguring, as well as new 275 kV network between Calvale and Larcom 
+Creek. A third 132/275 kV Calliope River transformer is also required. 
+Cost $300 million to $560 million 
+Approximate 
+network 
+capability 
+improvement 
+Additional REZ hosting capacity REZ Fitzroy: +700 MW to 800 MW 
+Responsible 
+TNSP(s) 
+Powerlink 
+Non-network 
+opportunity 
+Network constraints are likely to occur during high VRE and during low demand. 
+Drivers of 
+benefits 
+Asset renewal, Gladstone retirement and increase in high VRE in Northern Queensland. 
+A The potential closure of Boyne Island also influences the size and timing of this future project. 
+Table 40 Gladstone grid reinforcement detail 
+Augmentation 
+detail  
+The augmentation to address the thermal constraints includes: 
+• Rebuild the Bouldercombe–Raglan–Larcom Creek–Calliope River and the Bouldercombe–Calliope River 275 kV 
+line as a high capacity double circuit line, for a gain of approximately 700-800 MW of additional hosting capacity. 
+• Turn Bouldercombe–Calliope River 275 kV line into Larcom Creek.  
+• A new double circuit Calvale–Larcom Creek 275 kV line. 
+• Third Calliope River 275/132 kV transformer. 
+Limits 
+addressed 
+Future limitations are projected to occur as generation retires and Gladstone load is met from alternative 
+transmission paths. Additionally, new generation in the north will cause thermal capacity limitations between 
+Bouldercombe, Raglan, Larcom Creek, and Calliope River. 
+Network 
+diagram 
+ 
+Raglan
+Bouldercombe
+New connection to existing busbar
+Proposed augmentation
+275 kV network
+132 kV network
+Transformer
+
+===== PDF PAGE 52 =====
+
+ 
+© AEMO 2020 | Final 2020 ISP, Appendix 3. Network Investments 52 
+ 
+Table 41 Gladstone network section reinforcement – non-network opportunity description 
+Opportunity description Strategically placed and operated non-network solutions such as battery storage, braking resistors, 
+tripping of renewables/load. and/or pumped hydro can defer the optimal timing and/or reduce the 
+scale of network augmentation. Isaac, Fitzroy, North Queensland, and Far North Queensland have 
+access to areas with potential for good pumped hydro resources which, if strategically developed, 
+can increase the hosting capacity within these REZs. 
+Timing See network option timing. 
+Potential benefits Deferral and/or reduced scale of network augmentation. 
+Service specification BESS strategically placed along the transmission corridor and operating as a virtual transmission 
+lines to assist in network utilisation and system reliability requirements. 
+ 
+A3.5.5 New England REZ Network Expansion 
+The New England REZ is one of the three REZs identified as a priority in the New South Wales Electricity 
+strategy38.  
+Furthermore, as described in Section A3.5.1, there is the potential for a section of one of the QNI Medium and 
+Large circuits to traverse the New England REZ instead of North West New South Wales.  
+Across all scenarios, except for Slow Change, large transmission augmentation is projected to be required to 
+connect the generation in New England to the Sydney load centre.  
+Table 42 and Table 43 provide information on the New England Network Expansion design modelled in 
+the ISP. 
+Table 42 New England REZ Network Expansion overview 
+Timing This project is optimally required sometime in the 2030s, but this may be accelerated by the New South Wales 
+Government as part of their announced policy to support development of VRE in this REZA. The delivery of New 
+England Network Expansion is required from mid-2036 in the Central, and High DER scenarios and 2031 in the 
+Step and Fast change scenarios.  
+Description Various upgrades and new network between Bayswater, and Uralla, linking with QNI Medium and Large and 
+North West New South Wales. 
+Cost Stage 1: $720 to $1,330 million  
+Stage 2: $220 to $420 million 
+Approximate 
+network 
+capability 
+improvement 
+Additional REZ hosting capacity New England:  
+Stage 1: 4,000 MW to 4,500 MW 
+Stage 2: 5,000 MW to 6,000 MW (including stage 1)B, C 
+Responsible 
+TNSP(s) 
+TransGrid 
+ 
+38 New South Wales Government, New South Wales Electricity Strategy, https://energy.nsw.gov.au/government-and-regulation/electricity-strategy. 
+
+===== PDF PAGE 53 =====
+
+ 
+© AEMO 2020 | Final 2020 ISP, Appendix 3. Network Investments 53 
+ 
+Non-network 
+opportunity 
+Network constraints are likely to occur during high VRE. Strategically placed and operated non-network solutions, 
+such as battery storage and/or pumped hydro, can defer the optimal timing and/or reduce the scale of network 
+augmentation. New England has good pumped hydro resources and, if strategically developed, can increase the 
+hosting capacity within this REZ. 
+Drivers of 
+benefits 
+Shared network to facilitate the connection of renewable generation and to unlock geographic areas not catered 
+for with the existing network. 
+A. New South Wales Government. New England to light up with second New South Wales Renewable Energy Zone, at 
+https://www.nsw.gov.au/media-releases/new-england-to-light-up-second-nsw-renewable-energy-zone. 
+B. Stage 2 is sufficient to host the amount of generation projected in all ISP scenarios. Options to increase this to 8,000 MW to match 
+the target from the New South Wales Government will be explored in the preparatory activities for QNI Medium and Large, North 
+West New South Wales REZ, and New England REZ. See Appendix 5 for further details. 
+C. Capacity is dependent on development of North West New South Wales REZ and QNI transfers, resource diversity and the amount 
+of storage to connect in this area. Storage was assumed for this zone. Stage 2 is sufficient to host the amount of generation 
+projected in all ISP scenarios. Options to increase this to 8,000 MW to match the target from NSW Government will be explored in 
+the preparatory activities for QNI Medium and Large, North West NSW REZ and New England REZ. 
+Table 43 New England REZ Network Expansion detail 
+Augmentation 
+detail  
+Augmentations, across two stages, comprise of:  
+Stage 1A 
+• Uprate Armidale–Tamworth 330 kV lines 85 and 86 
+• Establish a new Uralla 500/330 kV substation 
+• Turn both Armidale–Tamworth 330 kV lines 85 and 86 into Uralla 
+• A new double circuit Uralla–Bayswater 500 kV line 
+• Two 500/330 kV 1,500 MVA Uralla transformers  
+• Additional reactive support  
+• Establish a new 500/300 kV substation at Walcha 
+• Cut Uralla–Bayswater 500 kV lines into Walcha 
+• Two 500/330 kV 1,500 MVA Walcha transformers 
+• One 500/330 kV 1,500 MVA Bayswater transformer 
+Estimated cost is ~ $720 million to $1,330 million 
+Stage 2: 
+• A new single circuit Boggabri–Uralla 500 kV lineB 
+Estimated cost is ~ $220 million to $420 million 
+Total estimated cost is ~ $940 million to 1,750 million 
+Limits 
+addressed 
+ 
+The 330 kV network between Armidale and Bayswater 
+ 
+
+===== PDF PAGE 54 =====
+
+ 
+© AEMO 2020 | Final 2020 ISP, Appendix 3. Network Investments 54 
+ 
+Network 
+diagram 
+  
+A. Additional to the REZ expansion listed in Table 7, network augmentation between Bayswater, New Castle and Sydney may be 
+required due to the increase in VRE in North West New South Wales, New England and Central-West Orana. 
+B. Common between North West New South Wales REZ and New England REZ 
+Table 44 New England – non-network opportunity description 
+Opportunity description During high VRE network constraints are likely to occur. 
+Timing 2030s (or earlier as per the network option) 
+Potential benefits Deferral and/or reduced scale of network augmentation. 
+Service specification New England has good pumped hydro resources and, if strategically developed, can increase 
+the hosting capacity within this REZ. 
+ 
+A3.5.6 North West New South Wales Network Expansion 
+Development in North West New South Wales is supported by QNI Mediu m and Large upgrades which 
+essentially provides additional REZ hosting capacity to North West New South Wales. The additional capacity 
+provided by QNI Medium is utilised immediately in the Central and High DER scenarios and is required one 
+year prior to QNI Medium in the Step and Fast Change scenarios.  
+Table 45 and Table 46 provide information on the North West New South Wales Network Expansion design 
+modelled in the ISP. 
+Table 45 North West New South Wales Transmission Link overview 
+Timing Sometime in the 2030s, depending on connection interest. 
+Description This development is in three stages: 
+Stage 1: Bring forward the Boggabri and Wollar sections of QNI Medium 
+Stage 2: Additional transformation at Boggabri and West of Dumaresq after QNI Medium and Large 
+Stage 3: A new 500 kV line connecting North West New South Wales REZ to New England (this is common with 
+New England Stage 2) 
+Armidale
+Bulli Creek
+Dumaresq
+Sapphire
+Uralla 
+(Stage 1)
+Walcha 
+(Stage 2)
+Tamworth
+Bayswater
+Boggabri
+(Stage 2)
+330 kV network
+Transformer
+QNI interconnection
+500 kV network
+Proposed augmentation
+
+===== PDF PAGE 55 =====
+
+ 
+© AEMO 2020 | Final 2020 ISP, Appendix 3. Network Investments 55 
+ 
+Cost Stage 1: $ 320 million to $590 million 
+Stage 2: $70 million to $140 million 
+Stage 3: $220 million to $420 million 
+Approximate 
+network 
+capability 
+improvement 
+North West New South Wales additional REZ hosting 
+capacity 
+Stage 1: +1,000 MW 
+Stage 2 and 3: +3,000 MW (4,000 MW in total) 
+Responsible 
+TNSP(s) 
+TransGrid 
+Non-network 
+opportunity 
+Network constraints are likely to occur during high VRE. Strategically placed and operated non-network solutions, 
+such as battery storage, can defer the optimal timing and/or reduce the scale of network augmentation.  
+Drivers of 
+benefits 
+Shared network to facilitate the connection of renewable generation and to unlock geographic areas not catered 
+for with existing network. 
+A. Only possible with the QNI Medium and Large development 
+Table 46 North West New South Wales Transmission Link detail 
+Augmentation 
+detail  
+Stage 1 (+1,000 MW) 
+• Bring forward QNI Medium 
+• Establish a new 500/330 kV at Boggabri 
+• A new single circuit Boggabri–Tamworth 330 kV line  
+• A new double circuit 500 kV line, strung one side, from this new substation via Central-West Orana to Boggabri 
+• 500/330 kV transformation at Boggabri. 
+Estimated cost is ~ $320 million to $590 million 
+Stage 2: 
+• This occurs after the development of QNI Medium and Large 
+• Establish additional 500/330 kV transformation at Boggabri 
+• Establish additional 500/330 kV transformation at West of Dumaresq 
+• Estimated cost is ~ $70 million to $140 million 
+Stage 3: (+3,000 MW for stage 2 and stage 3): 
+• A new single circuit Boggabri–Uralla 500 kV line (this is common with New England Stage 2)  
+Estimated cost is ~ $220 million to $420 million 
+Limits 
+addressed 
+ 
+Without QNI Medium and Large, the limiting factor of this REZ is the regional 132 kV network.  
+
+===== PDF PAGE 56 =====
+
+ 
+© AEMO 2020 | Final 2020 ISP, Appendix 3. Network Investments 56 
+ 
+Network 
+diagram 
+Stage 1: 
+ 
+Stage 2 and 3: 
+ 
+ 
+Table 47 North West New South Wales Transmission Link – non-network opportunity description 
+Opportunity description During high VRE network constraints are likely to occur. 
+Timing Early to mid-2030s 
+Potential benefits Deferral and/or reduced scale of network augmentation. 
+Service specification BESS systems strategically developed, can increase the hosting capacity within this REZ and 
+defer and avoid the need for network augmentation.  
+ 
+Central-West Orana REZ
+Boggabri (Stage 1) Armidale
+Bulli Creek
+Wollar
+Dumaresq
+Sapphire
+Proposed augmentation 
+Existing network
+500 kV network
+330 kV network
+Central-West Orana Transmission 
+Link, network configuration to be 
+determined through the RIT-T
+Transformer 
+Tamworth
+SVCSVC
+Bayswater
+North West NSW Stage 1
+West of Dumaresq
+Boggabri Armidale
+Bulli Creek
+Western 
+Downs
+Wollar
+Dumaresq
+Sapphire
+Tamworth
+SVC
+SVC
+SVC
+Bayswater
+(Stage 2)
+(Stage 2)
+Proposed augmentation 
+Existing network
+500 kV network
+330 kV network
+275 kV network
+Central-West Orana Transmission 
+Link, network configuration to be 
+determined through the RIT-T
+Transformer 
+Mount Piper
+Uralla 
+(Stage 3)
+North West NSW Stage 2 and 3
+Central-West Orana REZ
+
+===== PDF PAGE 57 =====
+
+ 
+© AEMO 2020 | Final 2020 ISP, Appendix 3. Network Investments 57 
+ 
+A3.6. Other future ISP 
+projects  
+This section describes projects which are part of the optimal development path, but for which no further 
+action is required before the 2022 ISP. There are three projects listed in this section: 
+• An upgrade of the Mid North network in South Australia. 
+• An upgrade of Far North Queensland network.  
+• The South East South Australia network expansion. 
+A3.6.1 Mid North South Australia network project 
+Due to the nature of the South Australian network, generation north and west 39 of Davenport contributes to 
+congestion in the Mid North REZ. Consequently, addressing the Mid North con gestion increases the 
+generation hosting capacity of Mid North REZ, and the REZs to the north and west (Mid North, Northern 
+South Australia, Leigh Creek, Roxby Downs, and Eastern and Western Eyre Peninsula). 
+Table 48 Mid North South Australia network project overview 
+Timing This augmentation is optimally timed in 2035-36 in the Central scenario and 2034-35 in the Step Change scenario 
+and is triggered when the total generation in Mid North, Northern South Australia, Leigh Creek, and Roxby 
+Downs exceeds 1,000 MW. The optimal timing of this augmentation is heavily influenced by the retirement of gas 
+generation and the configuration of the network in the Adelaide area. 
+Description Rebuild of Davenport-Brinkworth-Templers West-Para 275 kV line 
+Cost $420 million to $770 million 
+Approximate 
+network 
+capability 
+improvement 
+Additional REZ hosting capacity +1,000 MW 
+Responsible 
+TNSP(s) 
+ElectraNet 
+Non-network 
+opportunity 
+None 
+Drivers of 
+benefits 
+Alleviation of constraints between Davenport and Adelaide and between Davenport and Robertstown such that 
+the hosting capacity of wind can increase. 
+ 
+ 
+39 This is essential generation in Northern South Australia, Leigh Creek, Roxby Downs, East Eyre Peninsula, and West Eyre Penin sula. 
+
+===== PDF PAGE 58 =====
+
+ 
+© AEMO 2020 | Final 2020 ISP, Appendix 3. Network Investments 58 
+ 
+Table 49 Mid North South Australia network project detail 
+Augmentation 
+detail  
+To alleviate constraints between Davenport and Adelaide and between Davenport and Robertstown, increasing the 
+hosting capacity by approximately 1,000 MW, the following augmentation is required:  
+• Rebuild the single circuit Davenport–Brinkworth–Templers West–Para 275 kV line at a high capacity double 
+circuit line, and/or  
+• Reconfiguration of 132 kV network in the Mid-North REZ to ensure balance flows between the 275 kV and the 
+132 kV. 
+Limits 
+addressed 
+Alleviation of constraints between Davenport and Adelaide and between Davenport. 
+Network 
+diagram 
+ 
+ 
+A3.6.2 Far North Queensland Network and REZ Expansion  
+This network expansion is designed to enable the connection and transfer of energy from potential wind 
+farms in Far North Queensland to the wider network. 
+Table 50 Far North Queensland network and REZ expansion overview 
+Timing The optimal timing for this augmentation is linked to the connection of wind farms in the Far North Queensland 
+REZ exceeding 700 MW above what is currently committed and commissioned, which in the modelling typically 
+coincides with coal retirements. For the Central, Fast and Higher DER scenario, both Stage 1 and Stage 2 are 
+required by 2035-36 to 2037-38. For the Step Change scenario, timing is brought forward to 2030-31. 
+Description This project includes reinforcement of the existing network and an extension of the network to facilitate 
+renewable connection. The reinforcement includes a rebuild of the double circuit Ross–Chalumbin 275 kV line, 
+and a new 275 kV single circuit Ross–Chalumbin 275 kV line with an uprating of the lower rated 8 km section of 
+the Ross–Strathmore 275 kV line. 
+The extension involves either a new 275 network to Lakeland or Millstream depending on generation interest.  
+This option does not include potential system strength remediation costs associated with the Ross system 
+strength shortfall.  
+Cost Reinforcement of the existing network: 
+• Stage 1: $400 million to $740 million 
+• Stage 2: $280 million to $530 million 
+REZ expansion: $90 million to $570 million  
+Approximate 
+network 
+capability 
+improvement 
+Additional REZ hosting capacity Stage 1: +500 MW 
+Stage 2: +700 MW 
+ 
+Responsible 
+TNSP(s) 
+Powerlink 
+Proposed augmentation
+275 kV network
+
+===== PDF PAGE 59 =====
+
+ 
+© AEMO 2020 | Final 2020 ISP, Appendix 3. Network Investments 59 
+ 
+Non-network 
+opportunity 
+There are no non-network options put forward. During high VRE and low demand periods there will be network 
+constraints which provide opportunities for strategically placed battery storage. 
+Drivers of 
+benefits 
+Generation of energy from quality wind resources in the region to the wider network. 
+ 
+Table 51 Far North Queensland Network and REZ expansion detail 
+Augmentation 
+detail  
+Existing network reinforcement  
+Stage 1  
+• Rebuild Chalumbin–Ross 275 kV double circuit line  
+Estimated cost ~ $400 million to $740 million 
+Stage 2 
+• Uprating the lower rated Ross–Strathmore 275 kV line (~$10 million to $15 million)  
+• Build 3rd 275 kV Chalumbin–Ross single circuit line 
+Estimated cost ~ $280 million to $530 million 
+Network extension to facilitate renewable connection  
+Option 1 – Development interest towards Millstream 
+• Build new 275 kV substation North of Millstream 
+• Build a new 275 kV Chalumbin–North of Millstream single circuit line 
+• Turn existing Chalumbin–Woree 275 kV line into Millstream  
+Estimated cost ~ $90 million to $160 million 
+Option 2 – Development interest towards Lakeland 
+• Build new 275 kV substation at Lakeland 
+• Build a new 275 kV double circuit Chalumbin–Walkamin line 
+• Build a new 275 kV Lakeland–Walkamin single circuit line 
+• Estimated cost ~ $310 million to $570 million 
+Limits 
+addressed Aging assets in Far North Queensland which require replacement. 
+Network 
+diagram 
+ 
+ 
+Proposed augmentation
+275 kV network
+Strathmore
+
+===== PDF PAGE 60 =====
+
+ 
+© AEMO 2020 | Final 2020 ISP, Appendix 3. Network Investments 60 
+ 
+Table 52 Far North Queensland REZ expansion – non-network opportunity description 
+Opportunity description During high VRE and low demand, network constraints are likely to occur. A network and 
+non-network option, such as battery storage or pumped hydro, can assist in relieving 
+congestion. 
+Timing Staged through to 2030s 
+Potential benefits Deferral and/or reduced scale of network augmentation 
+Service specification BESS strategically placed along the transmission corridor and operating as a virtual 
+transmission line to assist in network utilisation and system reliability requirements. 
+ 
+A3.6.3 South East South Australia network expansion 
+Hosting capacity in South Australia is approaching capacity and requires augmentation to facilitate the 
+connection of wind generation west of the Heywood interconnector. 
+Table 53 South East South Australia network expansion overview 
+Timing 2030-31 in Step Change and 2037-38 to 2039-40 in Central, Fast, and High DER scenarios. 
+Description String vacant circuit between Tailem Bend and Tungkillo with reactive compensation. Where necessary manage 
+generation with control schemes such as runback schemes. 
+Cost $20 million to $80 million 
+Approximate 
+network 
+capability 
+improvement 
+Additional REZ hosting capacity +400 to 600 MW 
+Responsible 
+TNSP(s) 
+ElectraNet 
+Non-network 
+opportunity 
+Network constraints are likely to occur in the South East South Australia REZ during high wind output, and are 
+worsened by low demand. Non-network solutions such as large-scale storage (battery storage and/or pumped 
+hydro) can defer the optimal timing of network augmentation.  
+Drivers of 
+benefits 
+Increased renewable generation within South East South Australia. 
+ 
+Table 54 South East South Australia network expansion detail 
+Augmentation 
+detail  
+To increase the hosting capacity of the South East South Australia REZ beyond 55 MW, the following 
+augmentation is proposed:  
+• String the vacant circuit on the Tungkillo – Tailem Bend 275 kV line.  
+• Install necessary dynamic reactive support.  
+• If wind generation is in the southerly side of the REZ, alternative network augmentation may be required. This 
+augmentation would be more costly. 
+Limits 
+addressed Projected network constraints to occur in the South East South Australia REZ during high wind output. 
+
+===== PDF PAGE 61 =====
+
+ 
+© AEMO 2020 | Final 2020 ISP, Appendix 3. Network Investments 61 
+ 
+Network 
+diagram 
+ 
+ 
+Table 55 South East South Australia– non-network opportunity description 
+Opportunity description Since network constraints are likely to occur in the South East South Australia REZ during high wind 
+output, non-network solutions such as large-scale storage (battery storage and/or pumped hydro) 
+can defer the optimal timing of network augmentation. The South East South Australia REZ has limited 
+pumped hydro resources, so possible non-network solutions include large-scale batteries to assist in 
+the deferral of network augmentations. 
+Timing 2030s 
+Potential benefits Deferral and/or reduced scale of network augmentation. 
+Service specification Storage strategically located which can operate to efficiently supply South Australian load. 
+Proposed augmentation
+275 kV network
+
+===== PDF PAGE 62 =====
+
+ 
+© AEMO 2020 | Final 2020 ISP, Appendix 3. Network Investments 62 
+ 
+A3.7. Addressing network 
+congestion  
+This section presents recent network congestion observed in the NEM and how the projects on the optimal 
+development path can address future network congestion.  
+Congestion occurs when generation is dispatched out of merit order due to limitations in the network. 
+Typically, this means cheaper generation is curtailed at the expense of m ore expensive generation to ensure 
+the system remains within its limits. In extreme cases, congestion can result in unserved energy as the 
+electricity generated cannot supply the load without exceeding the capability of the network40. 
+The projects on the optimal development path can be directly linked to the parts of the network where 
+network congestion already occurs. Projects to address congestion typically involve: 
+• Upgrading the existing transmission equipment – raising the physical network limit. 
+• Implementing control schemes to manage post contingent network overloads. 
+• Creating a parallel path to the existing network, which provides an additional electrical path. 
+• Creating an entirely new flow path, which tends to re-distribute the network loading across the system. 
+Some level of network congestion occurs even in an efficiently designed power system. The cost to develop a 
+network which has no congestion would be prohibitively high and would not result in the best outcome for 
+consumers.  
+Network augmentations, as part of the optimal development path, seek to address network congestion in an 
+economic way, ultimately resulting in net market benefits41. 
+Figure 7 compares areas of network congestion and the corresponding network investment to demonstrate 
+how the projects on the optimal development path address potential future congestion.  
+ 
+ 
+40 For more detail see https://aemo.com.au/energy-systems/electricity/national-electricity-market-nem/system-operations/congestion-information-resource. 
+41 See Appendix 2 for further details. 
+
+===== PDF PAGE 63 =====
+
+ 
+© AEMO 2020 | Final 2020 ISP, Appendix 3. Network Investments 63 
+ 
+Figure 7 2019-20 system normal congestion in the NEM without (left) and with (right) ISP projects 
+                
+Brisbane
+Sydney
+Hobart
+Bundaberg
+Rockhampton
+Mackay
+Proserpine
+Forsayth
+Cairns
+  Armidale
+Dubbo
+Newcastl e
+Woll ongong
+Broken Hill
+Coober Pedy
+Ceduna
+Be ndigo
+Launceston
+Queenstown
+Canberra
+Longreach
+CONGESTION
+Low                                                         High
+MelbourneBallarat
+Adelaide
+Port Lincoln
+Mount G ambier
+Gladstone
+Townsville
+SVC 
+Brisbane
+Sydney
+Hobart
+Bundaberg
+Rockhampton
+Mackay
+Proserpine
+Forsayth
+Cairns
+  Armidale
+Dubbo
+Newcastl e
+Woll ongong
+Broken Hill
+Coober Pedy
+Ceduna
+Be ndigo
+Launceston
+Queenstown
+Canberra
+Longreach
+ 
+1
+ 
+2
+ 
+3
+CONGESTION
+Low                                                         High
+MelbourneBallarat
+Adelaide
+Port Lincoln
+Mount G ambier
+Gladstone
+Townsville
+SVC 
+Far North QLD 
+REZ
+Mid-North REZ
+South-East REZ
+Central-West Orana 
+REZ Transmission 
+Link
+Project 
+EnergyConnect
+HumeLink
+Marinus Link
+VNI West
+Gladstone Grid 
+Reinforcement
+Central to 
+Southern QLD
+New England 
+REZ
+Reinforcing 
+Sydney, 
+Newcastle & 
+Wollongong  
+Supply
+QNI Medium & 
+Large Upgrade
+Minor
+QNI Upgrade
+VNI Minor
+Western Vic toria 
+Transmission 
+Network Project
+System
+Strength
+SVC 
+Existing network
+Network upgrade
+Alternative network routes
+System strength remediation
+Capacitor
+Static VAr Compensator
+
+===== PDF PAGE 64 =====
+
+ 
+© AEMO 2020 | Final 2020 ISP, Appendix 3. Network Investments 64 
+ 
+A3.8. Alternatives 
+considered 
+ 
+A number of additional options were considered in determining the optimal development path, but excluded 
+on cost, technical or merit grounds. This section lists options considered and rejected in the analysis42. 
+A3.8.1 Options to increase interconnection between Queensland 
+and New South Wales 
+Table 56 Discounted options to increase interconnection between Queensland and New South Wales 
+Option Description Cost Transfer capacity 
+improvementA 
+REZ capability Reason not 
+chosen 
+QNI 
+Option 2 
+ 
+QNI Option 2 is a single circuit 
+330 kV line from Liddell to 
+Tamworth to Armidale to 
+Dumaresq to Bulli Creek to 
+Braemar. An additional 1500 
+MVA of transformation at 
+Braemar as well as static and 
+dynamic reactive plant is 
+required along the route. 
+$777 million to 
+$1,443 million 
++702 MW from 
+NSW-QLD 
++660 MW QLD-NSW  
+ 
++600 MW to 
+Darling Downs 
++600 MW to 
+New England 
+Does not provide 
+route diversity. 
+Does not provide 
+significant 
+additional REZ 
+hosting capacity. 
+QNI 
+Option 3A 
+ 
+QNI Option 3A is a double 
+circuit 330 kV line from 
+Armidale to Dumaresq to Bulli 
+Creek and uprating existing 
+330 kV transmission lines 
+between Tamworth and 
+Armidale. This option is a first 
+stage of QNI Option 3B. 
+Establish new 500/330 kV 
+substation at Uralla and install 
+additional 1500 MVA of 
+transformation at Braemar as 
+well as static and dynamic 
+reactive plant is required 
+along the route. 
+$511 million to 
+$949 million 
+ 
+100 MW from QLD to 
+NSW 
++1,200 MW to 
+Darling Downs 
++1,200 MW to 
+New England 
+Not as cost 
+effective as the 
+preferred option. 
+Does not provide 
+significant 
+additional REZ 
+hosting capacity. 
+ 
+42 For more information see the Input and Assumptions Workbook available in the 2020 ISP Database,  at https://aemo.com.au/energy-systems/major-
+publications/integrated-system-plan-isp/2020-integrated-system-plan-isp/2019-isp-database.  
+
+===== PDF PAGE 65 =====
+
+ 
+© AEMO 2020 | Final 2020 ISP, Appendix 3. Network Investments 65 
+ 
+Option Description Cost Transfer capacity 
+improvementA 
+REZ capability Reason not 
+chosen 
+QNI 
+Option 3B 
+ 
+QNI Option 3B is a double 
+circuit 330 kV line from Liddell 
+to Braemar via Uralla, Sapphire, 
+Dumaresq and Bulli Creek. It 
+passes through adjacent to the 
+existing QNI route. 
+$1,372 million to 
+$2,548 million 
+ 
++1,150 MW from 
+NSW to QLD 
++ 1,115 MW from 
+QLD to NSW.  
+ 
+QNI 
+Option 3C 
+ 
+QNI Option 3C is two 500 kV 
+circuits from Wollar/Bayswater 
+to Uralla and two 330 kV 
+circuits from Uralla to Braemar 
+via Sapphire, Dumaresq and 
+Bulli Creek. 
+$1,855 million to-
+$3,445 million  
+ 
++1,420 MW from 
+NSW to QLD 
++1,265 MW from 
+QLD to NSW 
++1,200 MW to 
+Darling Downs 
++2,000 MW to 
+New England 
+Considered as an 
+alternative. 
+QNI 
+Option 4A 
+ 
+QNI Option 4A is back-to-back 
+HVDC converters at Bulli Creek 
+to increase transfer in both 
+directions between New South 
+Wales and Queensland with a 
+system integrity protection 
+scheme (SIPS). 
+$749 million-
+$1,391 million  
+ 
++797 MW from NSW 
+to QLD 
++470 MW from QLD 
+to NSW 
+ 
+None Does not facilitate 
+REZ connection 
+compared to 
+preferred option. 
+QNI 
+Option 4B 
+ 
+QNI Option 4B is a HVDC link 
+between Lismore in New South 
+Wales and Mudgeeraba in 
+Queensland. This involves 
+dismantling the existing 
+Directlink and extending the 
+existing HVDC connection 
+between Mudgeeraba 275 kV 
+and Lismore 330 kV 
+substations. 
+$546 million to 
+$1,014 million 
+ 
++367 MW from NSW 
+to QLD 
+No increase for QLD 
+to NSW 
+ 
+None Does not facilitate 
+REZ connection 
+compared to 
+preferred option. 
+QNI 
+Option 4C 
+ 
+QNI Option 4C is two 1,000 
+MW HVDC bi-pole 
+transmission lines between 
+Bayswater and Western Downs 
+with a SIPS. 
+$1,911 million to 
+$3,549 million  
+ 
++2,192 MW from 
+NSW to QLD 
++1,680 MW from 
+QLD to NSW  
+None Connection of 
+renewables 
+generation to 
+HVDC is more 
+complex than to 
+HVAC systems, 
+with a higher cost. 
+QNI 
+Option 5 
+QNI Option 5 is a non-network 
+option. This involves 
+installation of a 600 MW 
+battery energy storage system 
+(BESS) capable of discharging 
+the total stored energy for 
+approximately 15 minutes at 
+Halys and Liddell. 
+$910 million to 
+$1,690 million 
+ 
++740 MW from NSW 
+to QLD 
++325 MW from QLD 
+to NSW 
+None This will be 
+considered as part 
+of the non-network 
+investigation. 
+A. Numbers calculated with QNI Minor in service 
+A3.8.2 Options to increase interconnection between New South 
+Wales and Victoria 
+Multiple alternatives to VNI West, as described in the following table, were considered and assessed in the 
+ISP. AEMO’s analysis has identified two options that are preferred. AEMO therefore recommends the two 
+options specified in Section A3.4.5 as ISP candidate options for VNI West. 
+
+===== PDF PAGE 66 =====
+
+ 
+© AEMO 2020 | Final 2020 ISP, Appendix 3. Network Investments 66 
+ 
+Table 57 Discounted options to increase interconnection between New South Wales and Victoria 
+Option Description Cost Transfer capacity 
+improvement 
+REZ capability Reason not 
+chosen 
+VNI 
+option 3 
+VNI Option 3 is an incremental 
+network augmentation, which 
+includes a series capacitor on the 
+Wodonga–Dederang 330 kV line, a 
+power flow controller on the 
+Jindera–Wodonga 330 kV line, an 
+additional 330/220 kV transformer 
+at Dederang, and additional 
+reactive plant. 
+$126 million to 
+$234 million  
+ 
++300 MW NSW to 
+VIC 
+None Larger 
+augmentation 
+required. 
+Does not provide 
+significant 
+additional REZ 
+hosting capacity 
+VNI 
+Option 4 
+ 
+VNI Option 4 includes VNI Option 
+1 and a new 330 kV transmission 
+line from Dederang to Yass via 
+Jindera and Wagga Wagga. 
+$634 million 
+to $1,177 
+million 
+ 
++600 MW VIC to 
+NSW 
++300 NSW to VIC 
+None Larger 
+augmentation 
+required. 
+Does not provide 
+significant 
+additional REZ 
+hosting capacity. 
+VNI 
+option 5A 
+VNI Option 5 is a new transmission 
+line along the existing easement 
+from South Morang to Murray via 
+Dederang (VNI Option 5A), with 
+approximately 350 km route 
+length. 
+$742 million to 
+$1,378 million 
++550 MW VIC to 
+NSW 
++1,000 MW NSW to 
+VIC 
++1,000 MW to 
+Ovens Murray 
+Does not provide 
+route diversity. 
+Does not provide 
+significant 
+additional REZ 
+hosting capacity. 
+VNI 
+option 9 
+VNI Option 9 is VNI Option 7 (or 
+alternatively VNI West via 
+Shepparton) plus an extension 
+from Bannaby to Sydney to 
+remove network constraints 
+between Bannaby, Marulan, 
+Kangaroo Valley and the Sydney 
+West/Sydney South area. 
+$2,135 million 
+to $3,965 
+million 
+ 
++200 MW VIC to 
+NSW (above VNI 
+Option 7) 
+No additional 
+improvement NSW 
+to VIC (above VNI 
+Option 7) 
+None Extension 
+considered in part 
+of Reinforcing 
+Sydney, Newcastle 
+and Wollongong 
+VNI 
+Option 10 
+ 
+VNI Option 10 is VNI Option 9 plus 
+third 500 kV line from 
+Wagga/Maragle to Bannaby. The 
+third line can be second circuit in a 
+double circuit tower configuration 
+$2,212 million 
+to $4,108 
+million 
+ 
+No additional 
+improvement for VIC 
+to NSW and NSW to 
+VIC (above VNI 
+Option 7) 
++1,500 MW from 
+Snowy to Sydney 
+None Extension 
+considered to 
+increase transfer 
+from Snowy to 
+Sydney with high 
+import from VIC 
+and SA and high 
+Snowy generation 
+VNI 
+option 11 
+ 
+VNI Option 11 is a HVDC 
+transmission option. It involves 
+2,000 MW HVDC-VSC bi-pole 
+transmission line from Donnybrook  
+to Wagga Wagga with an 
+additional converter station in 
+between to host VRE.  
+$1,875 million 
+to $3,485 
+million  
+ 
++1,750 MW NSW to 
+VIC 
++1,750 MW VIC to 
+NSW 
++2,000 MW to 
+Central North 
+Victoria 
+This option is more 
+expensive than the 
+preferred options, 
+when considering 
+the need to host 
+VRE in nearby 
+REZs. 
+ 
+Possible connection at Donnybrook 
+Donnybrook is between South Morang and Sydenham. It is a pos sible alternative starting point for VNI 
+Option 5A, instead of South Morang, and for VNI West (Shepparton) and VNI West (Kerang), instead of the 
+new terminal station north of Ballarat. VNI Option 5A would also require a 550/330 kV transformer at 
+Donnybrook.  
+
+===== PDF PAGE 67 =====
+
+ 
+© AEMO 2020 | Final 2020 ISP, Appendix 3. Network Investments 67 
+ 
+A3.8.3 Option to build interconnection between South Australia 
+and Queensland  
+The South Australia to Queensland interconnector option involves two 700 MW HVDC transmission lines 
+(1,450 km) from Davenport in South Australia to Western Downs in Queensland, with  an intermediate 
+converter station at Broken Hill for renewable generation connection . The project has been estimated to cost 
+between $1,803 million and $3,348 million. This option provides a transfer capability of 700 MW between 
+South Australia and Queensland. It was assessed and rejected in the analysis, as it did not deliver net market 
+benefits comparable to the range of other options and the recommended option of Project EnergyConnect. 
+Accordingly, it does not form part of the optimal development path. 

@@ -1,0 +1,1069 @@
+--- PDF page 1 ---
+ 
+ 
+Reinforcing the NSW Southern Shared Network 
+to increase transfer capacity to demand 
+centres (HumeLink) 
+ 
+17 December 2021 
+  
+
+
+--- PDF page 2 ---
+ 
+1 | Reinforcing the NSW Southern Shared Net work to increase transf er capacity to demand centres (HumeLink) |  ______________  
+Contents 
+1. Context for this addendum  ................................ ................................ ................................ ............  2 
+1.1. Dispute of PACR and AER determination ................................ ................................ ....................  2 
+1.2. Coverage of this addendum  ................................ ................................ ................................ .......  3 
+1.3. Option 1C-new – A new 500 kV line between Maragle and Bannaby ................................ ..............  4 
+1.4. The preferred option remains a new 500 kV double -circuit lines in an electrical ‘loop’ between 
+Maragle, Wagga Wagga and Bannaby (Option 3C) ................................ ................................ .............  5 
+2. Net present value results  ................................ ................................ ................................ ...............  6 
+2.1. Structure of the NPV assessment  ................................ ................................ ...............................  6 
+2.2. Positioning assessment (excluding competition benefits)  ................................ ..............................  7 
+2.3. RIT-T results ................................ ................................ ................................ ...........................  24 
+2.4. Sensitivity analysis ................................ ................................ ................................ ..................  32 
+ 
+  
+
+--- PDF page 3 ---
+ 
+2 | Reinforcing the NSW Southern Shared Net work to increase transf er capacity to demand centres (HumeLink) |  ______________  
+1. Context for this addendum 
+Transgrid initiated a RIT-T consultation process in June 2019 to identify a project that:  
+ increases the transfer capacity and stability limits between the Snowy Mountains and major load 
+centres of Sydney, Newcastle and Wollongong, thereby enabling access to lower cost generation to 
+meet demand in these major load centres; and  
+ facilitates the development of renewable generation in southern NSW.  
+The RIT-T process culminated with Transgrid publishing the Project Assessment Conclusions Report 
+(PACR) for the HumeLink RIT-T on 29 July 2021. The preferred option identified in the PACR involves 
+constructing new 500 kV double circuit transmission lines in an electrical ‘loop’ between Maragle, Wag ga 
+Wagga and Bannaby (referred to as ‘Option 3C’). The estimated cost of this option is $3.3 billion.  
+1.1. Dispute of PACR and AER determination  
+Wunelli Pty Ltd raised a dispute on 16 August 2021 under rule 5.16B of the National Electricity Rules (NER), 
+on the  grounds that the PACR failed to consider all credible options to address the network need. The 
+grounds the dispute asserted included that:  
+ it is not clear whether the route corridors for costing the different options have been optimised for 
+double circuit construction; and 
+ Transgrid has provided insufficient transparency about the double circuit configuration of the 
+preferred option. 
+The Australian Energy Regulator (AER) published its dispute determination  on 24 November 2021,1 which 
+includes the view that  Transgrid did not meet the RIT-T requirements with respect to its consideration of 
+credible options. Specifically, the AER concluded that Transgrid could reasonably have been expected to 
+include in the RIT-T analysis a full double circuit configuration of  Option 1C (referred to as ‘ Option 1C-new’ 
+in the AER’s determination and this addendum), in order to assess the net economic benefit associated 
+with this option. 
+Consequently, the AER requires Transgrid to amend the HumeLink PACR to include: 2 
+ A full double circuit option for the path between Maragle and Bannaby as a credible option: Option 
+1C-new. 
+ The estimated capital cost of this option, including the estimated biodiversity offset costs. The AER 
+requires Transgrid, when doing so, to explain the accuracy of these costs and ensure it is consistent 
+with the expected accuracy of the top two ranked options in the original PACR. 
+ A complete comparative cost benefit analysis (with and without competition benefits), including 
+Option 1C-new for each scenario and it s impact on the ranking of the credible options assessed in 
+the PACR. 
+                                              
+1  AER, Reinforcing the NSW Southern Shared Network (Humelink): Determination on dispute – application of the regulatory 
+investment test for transmission , November 2021. 
+2  AER, Reinforcing the NSW Southern Shared Network (Humelink): Determination on dispute – application of the regulatory 
+investment test for transmission , November 2021, p 26. 
+
+--- PDF page 4 ---
+ 
+3 | Reinforcing the NSW Southern Shared Net work to increase transf er capacity to demand centres (HumeLink) |  ______________  
+ Sensitivity analysis for Option 1C -new as assessed for Options 2C and 3C in the PACR, to 
+demonstrate the robustness of the RIT -T modelling outcomes. In particular, the AER requires that 
+Transgrid include the following sensitivities for Option 1C -new in the central scenario:  
+> the impact of the Kurri Kurri and Tallawarra B gas generators;  
+> the impact of delaying VNI West until 2035/36; 
+> the impact on the positioning analysis of adopting the dr aft 2021 IASR assumptions;  
+> the impact of adopting alternate scenario weightings i.e. higher weighting of the step change 
+scenario which is an increase of 10 per cent to the 2020 ISP scenario weightings;  
+> the impact of 25 per cent higher and lower network capital costs of the credible options (including 
+the adoption of P90 costs); and 
+> the impact of alternate commercial discount rate assumptions i.e. a high discount rate of 
+7.90 per cent and a low discount rate of 2.23 per cent.  
+The AER considers that these am endments will ensure Option 1C-new is presented alongside the two top 
+ranked options, improving the ability of stakeholders to understand and compare this option and ensuring 
+the transparency and credibility of the RIT-T process.  
+1.2. Coverage of this addendum 
+This addendum has been prepared in response to the AER’s determination and extends the analysis 
+presented in the HumeLink PACR published in July 2021 and provides other information for the specific 
+purpose of satisfying the AER’s requirements in its disput e determination, as set out above.  
+The content of this addendum reflects information that would have been contained in the HumeLink PACR 
+had Option 1C-new been included in the earlier assessment. In particular it provides:  
+ A description of Option 1C -new a nd its associated cost estimate (set out in section 1.3 below), 
+equivalent to the descriptions of the other options provided in section 5 of the July 2021 PACR.  
+ An updated section (‘Section 2 - Net present value results’), which presents the results for th e 
+positioning assessment, RIT-T assessment and sensitivities across all eight options (ie, the seven 
+options included in the July 2021 PACR and Option 1C -new).  
+> This section can be read in place of the corresponding section  8 in the July 2021 PACR. 
+> The expanded assessment continues to draw on the same input assumptions that were available 
+and adopted at the time of the July 2021 PACR assessment.  
+In satisfying the AER’s requirements, the addendum and its contents does not preclude or prejudice any 
+other public consultation or process being undertaken in relation to HumeLink.  
+
+--- PDF page 5 ---
+ 
+4 | Reinforcing the NSW Southern Shared Net work to increase transf er capacity to demand centres (HumeLink) |  ______________  
+1.3. Option 1C-new – A new 500 kV line between Maragle and Bannaby 
+Option 1C -new which has been included in this addendum is a 
+variant of Option 1C that involves constructing a new double cir cuit 
+500 kV line (instead of two lines) between Maragle and Bannaby.  
+The high level scope includes:  
+ Construct a double circuit 500 kV transmission line:  
+> Between Maragle Substation and Bannaby 500 kV 
+Substation (274km) 
+ Three new 500/330/33 kV 1,500 MVA tran sformers at 
+Maragle Substation 
+ Augment the Maragle Substation to accommodate the 
+additional transmission lines 
+ Augment the existing Bannaby Substation to accommodate the additional transmission lines . 
+Preliminary modelling indicates that an additional 2,510 MW generation could be accommodated at times of 
+average import from VIC and average renewable generation in southern NSW  under this option. 
+The estimated capital cost of this option is approximately $2,695 million, which includes $858 million of 
+estimated biodiversity costs.  
+The cost estimate for Option 1C -new is a ‘Class 4’ estimate (as defined by the AACE (Association for the 
+Advancement of Cost Engineering) classification system ). This is consistent with the estimates derived for 
+Option 2C and Option 3C in the July 2021 PACR. For these Class 4 estimates, Transgrid has provided the 
+P50 value (50% probability of underrun) for each option .  
+The primary and secondary characteristics for Class 4 cost estimates are set out in Error! Reference source n
+ot found. 3 below. A detailed discussion of cost estimates is provided in the July 2021 HumeLink PACR 
+(section 4.4). 
+Table 1 – Cost estimate classification matrix for the power transmission line infrastructure industries 
+ Primary characteristic Secondary characteristic 
+Estimate 
+class 
+Maturity level of 
+project definition 
+deliverables  
+Expressed as % of 
+complete definition 
+End usage 
+Typical purpose of 
+estimate  
+Methodology 
+Typical estimating 
+method 
+Expected accuracy 
+range 
+Typical v ariation in low 
+and high ranges at an 
+80% confidence interv al 
+Class 4 1% to 15% Study or feasibility Cost/length factored 
+or parametric models 
+L: -15% to -30% 
+H: +20% to +50% 
+                                              
+3  Table and figure captions  
+
+
+--- PDF page 6 ---
+ 
+5 | Reinforcing the NSW Southern Shared Net work to increase transf er capacity to demand centres (HumeLink) |  ______________  
+1.4. The preferred option remains a new 500 kV double-circuit lines in an electrical 
+‘loop’ between Maragle, Wagga Wagga and Bannaby (Option 3C)  
+The results of the expanded assessment in this addendum confirms the findings of the July 2021 PACR 
+assessment that Option 3C, comprised of n ew 500 kV double-circuit lines in a n electrical  ‘loop’ between 
+Maragle, Wagga Wagga and Bannaby , provides the greatest net benefits across all scenarios . Option 3C is 
+found to have positive net benefits under all sc enarios investigated, except for the slow-change scenario.  
+Figure E. 1 – Estimated net benefits for each scenario, $2020/21
+4,5
+ 
+ 
+Note: The three options shown above reflect those with the greatest expected net benefits based on the positioning 
+assessment undertaken across all eight credible options.   
+While the slow -change scenario finds negative net benefits for all three of the top -ranked options, this 
+scenario is considered the least likely of the four scenarios and is given a 10 per cent weighting in the 
+analysis, consistent with the recommended weighting in the 2020 ISP. 6  
+On a weighted-basis, Option 3C is expected to deliver approximately $491 million of net benefits  (as shown 
+in Table 2) and is ranked first out of the options assessed ( with estimated net benefits that are 23 per cent 
+greater than the second-ranked option, Option 2C  and 46 per cent greater than for Option 1C -new). Option 
+3C is therefore the preferred option overall under the RIT-T. 
+Table 2 Estimated net benefits on a weighted basis, $2020/21  
+Weighted basis Option 1C-new Option 2C Option 3C 
+$millions, NPV 335 399 491 
+Rank 3 2 1 
+                                              
+4  All dollars presented in this report are $2020/21, unless otherwise stated. 
+5  Numbering of  figures and tables in the Addendum follows the numbering used in the July 2021 PACR, unless tables are new (eg Table 1 and Table 2). 
+6  AEMO, 2020 Integrated System Plan, July 2020, p. 86 
+
+
+--- PDF page 7 ---
+ 
+6 | Reinforcing the NSW Southern Shared Net work to increase transf er capacity to demand centres (HumeLink) |  ______________  
+2. Net present value results  
+Summary of key points:  
+ We have undertaken a positioning assessment covering all eight credible options 
+(including Option 1C-new) across each of the four ISP scenarios and find that Option 3C is 
+consistently the top -ranked option, delivering positive net benefits in all scenarios, with 
+the exception of the slow -change scenario, as well as on a weighted basis (in order of $39 
+million in present value terms).  
+ The formal RIT-T assessment builds on the positioning assessment and includes estimates 
+of the additional competition benefits expected from the top three ranked options (Option 
+1C-new, Option 2C and Option 3C). We find that Optio n 3C continues to be strongly 
+preferred (with expected net benefits increasing to $491 million in present value terms).  
+ Under all scenarios, the benefits for Option 3C are primarily driven by avoided, or deferred, 
+costs associated with generation and stora ge build. 
+ Avoided generator fuel costs, competition benefits and avoided transmission capital costs 
+to connect new Renewable Energy Zones (REZ) make up the vast majority of other market 
+benefits estimated for Option 3C, with their relativities varying acro ss the scenarios. 
+ This conclusion is found to be robust to a range of sensitivity tests.  
+ All market benefits for the credible options are presented as being relative to the base cas e 
+for each scenario, i.e., the state of the world without a Hume Link option in it. 
+2.1. Structure of the NPV assessment  
+We applied a two-stage approach to the NPV assessment for the PACR and for this PACR addendum. 
+Specifically, we have: 
+ undertaken a positioning assessment, which covers all eight credible options (including Option 
+1C-new) across each of the four ISP scenarios; then  
+ focused the formal RIT -T assessment on the top three ranked options from the positioning 
+assessment (i.e., Option 1C-new, Option 2C and Option 3C).  
+The key difference between these two stages is that the formal RIT-T assessment includes estimates of the 
+additional competition benefits expected from the top three ranked options. This is considered a 
+proportionate approach to assessing all eight credible options given the complexities and modelling 
+resources required to estimate competition benefits.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 5 – Structure of the NPV assessment 
+
+--- PDF page 8 ---
+ 
+7 | Reinforcing the NSW Southern Shared Net work to increase transf er capacity to demand centres (HumeLink) |  ______________  
+ 
+2.2. Positioning assessment (excluding competition benefits) 
+The positioning assessment assesses all eight credible options across each of the four ISP scenarios. It 
+does not include competition benefits since the modelling required is considerable for each option and is 
+not considered a proportionate exercise for most of the optio ns, based on the positioning assessment set-
+out below. Competition benefits have been estimated for the top -ranked options coming out of the 
+positioning assessment and are presented in section 2.3 below.  
+1.1.1 Central scenario 
+The central  scenario reflects AEMO ’s moderate demand forecasts ( including Demand-Side Participation 
+(DSP)), neutral gas and coal price forecasts, coal plants retiring on an economic basis (or at the end of their 
+announced/technical lives), as well as a national emissions reduction of around 28 per cent below 2005 levels 
+by 2030.  
+AEMO describes the central scenario as reflecting ‘the current transition of the energy industry under current 
+policy settings and technology trajectories, where the transition from fossil fuels to renewable genera tion is 
+generally led by market forces and supported by current federal and state government policies’. 7 
+The assessment in this PACR addendum finds that Option 3C has the highest expected net benefit of 
+$49 million under these assumptions and is one of two  options with a positive expected net benefit. 8 Option 
+1C-new is the second -ranked option with estimated positive net benefits of $40 million, which is 18 per cent 
+lower than Option 3C.  
+                                              
+7  AEMO, 2019 forecasting and planning scenarios, inputs, and assum ptions, August 2019, p. 3. 
+8  Calculation of benefits and costs have involved escalation of capital cost inputs and wholesale market benefit inputs. Capital cost inputs are estimated in real 
+2019/20 dollars and inf lated to real 2020/21 dollars. Similarly, wholesale market benefit inputs are modelled in real 2018/19 dollars and inflated to real 
+2020/21 dollars (except for IASR sensitivity inputs, where market benefit inputs are modelled in 2019/20 dollars). We have used Australia CPI (ABS Series ID 
+A2325846C) to inf late inputs to real 2020/21 dollars. Adjustments to June 2020 and September 2020 quarter CPI were made to smooth out the effects of 
+def lation during these quarters due to the effect of the COVID-19 pandemic. These adjustments were made as the pandemic significantly reduced price 
+lev els for furnishings, household equipment and services, transport and education components of CPI that, while relevant for CPI as a whole, is less relevant 
+f or transmission project costs or the long term value consumers receive from transmission projects. We also have estimated June 2021 quarter CPI based on 
+an annual inf lation rate of 2.5 per cent, being the mid-range of RBA’s long term inflation target. 
+
+
+--- PDF page 9 ---
+ 
+8 | Reinforcing the NSW Southern Shared Net work to increase transf er capacity to demand centres (HumeLink) |  ______________  
+Figure 6 shows the overall estimated net benefit for each option unde r the central scenario. 
+Figure 6 – Summary of the estimated net benefits under the central scenario  – excluding competition benefits 
+ 
+Figure 7 shows the composition of estimated net benefits for each option under the central scenario.  
+Figure 7 – Breakdown of estimated net benefits under the central scenario  – excluding competition benefits 
+ 
+The key findings from the assessment of each option under the central scenario (excluding competition 
+benefits) are that: 9 
+                                              
+9  The detailed descriptions of the drivers of the key market benefit categories below are based on the market modelling results for Option 3C. Please refer to 
+the accompanying market modelling results, and report, released alongside the PACR for more detail on the market modelling results for all options. We note 
+that the wholesale market benefits for Option 1C-new (excluding competition benefits) are the same as those for Option 1C reported in the PACR and earlier 
+market modelling report. 
+
+
+--- PDF page 10 ---
+ 
+9 | Reinforcing the NSW Southern Shared Net work to increase transf er capacity to demand centres (HumeLink) |  ______________  
+ All credible options beside Opti on 1C-new and Option 3C are found to deliver negative net market 
+benefits, ranging from approximately -$33 million (Option 2C) to -$639 million (Option 2B).  
+ The fixed 500 kV options (i.e., the ‘C’ options) provide the greatest net benefit of the options 
+considered on account of t hese options providing the greatest (and earliest) increase in transfer 
+capacity.  
+ Market benefits of all options are primarily derived from avoided/deferred generation and storage 
+capital costs (shown by the blue sections of each bar in Figure 7 respectively). 
+> These benefits are primarily driven by avoided/deferred large -scale storage (LS battery ) 
+developments and avoided solar developments from 2030. While the deferred LS battery 
+capacity starts to be built in the late 2030s, avoided open cycle gas turbine ( OCGT) build from 
+the late 2030s and pumped hydro from the early 2040s results in further ma rket benefits.  
+> The market modelling indicates that the majority of capacity deferral/avoidance occurs in New 
+South Wales and, to a lesser extent, in Queensland. Southern states are forecast to have 
+additional installations of renewables as HumeLink allows  for a more diverse and higher quality 
+of capacity mix.  
+ Avoided fuel costs are the second most material category of market benefit estimated across the 
+options (shown by the red sections of each bar in Figure 7). 
+> These arise primarily from lower black coal generation in New South Wales  in the early years of 
+the assessment period.  
+> In the later years of the modelling period, lower gas generation in New South Wales  is forecast 
+to also contribute to fuel cost savings. 
+ REZ transmission cost savings (shown by th e orange sections of each bar in Figure 7) are mainly 
+driven by HumeLink allowing builds in REZs with free transmission capacity such as Wagga Wagga 
+and West Victoria to replace/defer REZ transmission expansion in REZs such as Central West 
+Orana. 
+Figure 8 below presents the estimated cumulative expected gross benefits for Option 3C for each year of the 
+assessment period under the central scenario. 10 It shows the cumulative market benefits, in present value 
+terms (and so the final year’s stacked bars align wi th the overall breakdown of estimated market benefits 
+shown in Figure 7 above).  
+                                              
+10  This f igure only presents the annual breakdown of estimated gross benefits for the preferred option. The separately released spreadsheet presents an annual 
+breakdown of  costs and benefits for all options including Option 1C-new. Since this figure shows the cumulative gross benefits in present value terms, the 
+height of  the bar in 2045-46 equates to the gross benefits for Option 3C shown in Figure 7 above. 
+
+--- PDF page 11 ---
+ 
+10 | Reinforcing the NSW Southern Shared Net work to increase transfer capacity to demand centres (HumeLink) | ______________  
+Figure 8 – Breakdown of cumulative gross benefits for Option 3C under the central scenario
+11
+ - excluding competition benefits 
+ 
+Figure 9 summarises the difference in generation  and storage output modelled for Option 3C (in TWh), 
+compared to the base case, i.e., what is found to be driving the avoided fuel cost benefit. The accompanying 
+market modelling results workbook provides the data underpinning this chart, as well as the sa me data for 
+all other options and scenarios (at both the technology  and regional levels),12 including for Option 1C-new.  
+ 
+                                              
+11  While all generator and storage capital costs have been included in the market modelling on an annualised basis, this chart, and all charts of this nature in 
+the PACR and this PACR addendum, present the entire capital costs of these plant in the year avoided in order to highlight the timing of the expected market 
+benef its. This is purely a presentational choice that we hav e made to assist with relaying the timing of expected benefits (i.e., when thermal plant retire) and 
+does not af fect the overall estimated net benefit of the options. 
+12 We note that the wholesale market benefits for Option 1C-new (excluding competition benefits) are the same as those for Option 1C. 
+
+
+--- PDF page 12 ---
+ 
+11 | Reinforcing the NSW Southern Shared Net work to increase transfer capacity to demand centres (HumeLink) | ______________  
+Figure 9 – Difference in output with Option 3C, compared to the base case, under the central scenario  
+ 
+Figure 10 summarises the difference in generation and storage capacity modelled for Option 3C (in GW), 
+compared to the base case , i.e., what is found to be driving the avoided or deferred costs associated with 
+generation and storage benefit.  
+Figure 10 – Difference in cumulative capacity built with Option 3C, compared to the base case, under the central scenario  
+ 
+While this section (as well as subsections for the fast change, step change, slow change and slow change 
+scenarios) focusses on the drivers o f market benefits for Option 3C, we note that the drivers are effectively 
+the same for the second and third ranked options (Option 1C-new and 2C) under this scenario.  
+1.1.2 Fast-change scenario 
+The fast-change scenario reflects a state of the world where there i s a rapid technology-led transition of the 
+power system and a ‘ fast-change’ in emissions. Assumptions made in the fast -change scenario  include 
+
+
+--- PDF page 13 ---
+ 
+12 | Reinforcing the NSW Southern Shared Net work to increase transfer capacity to demand centres (HumeLink) | ______________  
+AEMO’s moderate demand forecasts (including DSP), neutral gas and coal price forecasts, carbon budget, 
+and economic retirements of coal plants. 
+AEMO describes the fast-change scenario as reflecting a ‘rapid technology-led transformation, particularly 
+at grid scale, where advancements in large scale technology improvements and targeted policy support 
+reduce the econom ic barriers of the energy transmission.  In this scenario, coordinated national and 
+international action towards achieving emissions reductions, leading to manufacturing advancements, 
+automation, accelerated retirement of existing generators, and integratio n of transport into the energy 
+sector’.13 
+The PACR assessment finds that Option 3C has the highest expected net benefit under these assumptions 
+and is one of three options with positive net benefits (the others being Option 1C-new and Option 2C). Option 
+3C is estimated to deliver approximately $91 million  in net benefits under this scenario, while the second -
+ranked option (Option 1C -new) has positive estimated net benefits of $86 million, which is 5 per cent lower 
+than Option 3C. 
+ 
+Figure 11 – Summary of the estimated net benefits under the fast-change scenario – excluding competition benefits 
+ 
+Figure 12 shows the composition of estimated net benefits for each option under the fast -change scenario. 
+Figure 12 – Breakdown of estimated net benefits under the fas t-change scenario  – excluding competition benefits 
+                                              
+13  AEMO, 2019 forecasting and planning scenarios, inputs, and assum ptions, August 2019, p. 4. 
+
+
+--- PDF page 14 ---
+ 
+13 | Reinforcing the NSW Southern Shared Net work to increase transfer capacity to demand centres (HumeLink) | ______________  
+ 
+The key findings from the assessment of each option under the fast-change scenario (excluding competition 
+benefits) are that: 14 
+ The fast-change scenario results in a slightly higher estimated net benefits for all options compared 
+to the central scenario.  
+> The fast-change scenario increases the estimated net benefits compared to the central scenario 
+by between approximately $27 million (Option 1A) and $46 million (Option 1C and Option 
+1C-new).  
+ The fixed 50 0 kV options (i.e., the ‘C’ options) continue to provide the greatest net benefit of all 
+options considered on account of t hese options providing the greatest (and earliest) increase in 
+transfer capacity.  
+ Market benefits of all options (besides the topolo gy 1 options) are mostly derived from avoided 
+generation and storage costs in the wholesale market (shown by the blue section of bars in Figure 
+). Avoided fuel costs (red section of bars in Figure 12) and avoided REZ transmission capex (purple 
+section of bars in Figure 12) also contribute significantly to gross wholesale market benefits.  
+> As for the central scenario, this scenario find s that avoided/deferred capex is primarily from LS 
+batteries and OCGTs in NSW. By the end of the study period, the model forecasts avoidance of 
+OCGT and pumped hydro as well as more brown coal retirement with Option 3C, while more LS 
+battery, wind and solar capacities are expected to be built.  
+> Fuel cost savings are also expected to be mainly due to lower black coal generation in NSW in 
+the early years of the assessment period, followed by lower gas generation later on.  
+> REZ transmission capex is also avoided, mainly in 2029 and the mid-2030s, as Option 3C allows 
+builds in REZs with free transmission capacity such as Wagga Wagga and other REZs in South 
+                                              
+14  The detailed descriptions of the drivers of the key market benefit categories below are based on the market modelling results for Option 3C. Please refer to 
+the accompanying market modelling results, and report, released alongside the PACR for more detail on the market modelling results for all options.  
+
+
+--- PDF page 15 ---
+ 
+14 | Reinforcing the NSW Southern Shared Net work to increase transfer capacity to demand centres (HumeLink) | ______________  
+Australia and Victoria to replace installations in REZs that incur transmission build in the base 
+case.  
+Figure 13 below presents the estimated cumulative expected gross benefits for Option 3C for each year of 
+the assessment period under the fast -change scenario.  
+Figure 13 – Breakdown of cumulative gross benefits for Option 3C under the fast -change scenario – excluding competition benefits 
+ 
+Figure 14 summarises the difference in generation and storage output modelled for Option 3C (in TWh), 
+compared to the base case.  
+Figure 14 – Difference in output with Option 3C, compared to the base case, under the fast -change scenario 
+ 
+
+
+--- PDF page 16 ---
+ 
+15 | Reinforcing the NSW Southern Shared Net work to increase transfer capacity to demand centres (HumeLink) | ______________  
+Figure 15 summarises the difference in generation and storage capacity modelled for Option 3C (in GW), 
+compared to the base case.  
+Figure 15 – Difference in cumulative capacity built with Option 3C, compared to the base case, under the fast -change scenario  
+ 
+1.1.3 Step-change scenario  
+The step-change scenario reflects a state of the world where there is strong action on climate change and a 
+‘step-change’ in emissions, including AEMO’s high demand forecasts (including DSP), fast gas and coal price 
+forecasts, coal plants retiring earlier than the central scenario, as well as a restrictive carbon budget. 
+AEMO describe the step-change scenario as reflecting ‘strong action on climate change that leads to a step -
+change reduction of greenhouse gas emissions’. In this scenario, aggressive global decarbonisation leads 
+to faster t echnological improvements, accelerated exit of existing coal generators, greater electrification of 
+the transport sector with increased infrastructure developments, energy digitalisation, and consumer -led 
+innovation’.15 
+The assessment in this PACR addendum finds that Option 3C continues to be the top -ranked option under 
+this scenario and is estimated to deliver $634 million in net benefits, while the second-ranked option becomes 
+Option 2C (rather than Option 1C -new, which falls to fourth -ranked), with estima ted net benefits of 
+$537 million, which is 15 per cent lower than Option 3C. Under the step -change scenario, the net benefits of 
+all options are found to increase significantly  yielding positive expected net benefits, with the exception of 
+Option 1A, Option 1B and Option 2B.  
+Figure 16 shows the overall estimated net benefit for each option under the step-change scenario. 
+                                              
+15  AEMO, 2019 forecasting and planning scenarios, inputs, and assum ptions, August 2019, p. 4. 
+
+
+--- PDF page 17 ---
+ 
+16 | Reinforcing the NSW Southern Shared Net work to increase transfer capacity to demand centres (HumeLink) | ______________  
+Figure 16 – Summary of the estimated net benefits under the step -change scenario – excluding competition benefits 
+ 
+Figure 17 shows the composition of estimated net benefits for each option under the step -change scenario. 
+Figure 17 – Breakdown of estimated net benefits under the step -change scenario  – excluding competition benefits 
+ 
+  
+
+
+--- PDF page 18 ---
+ 
+17 | Reinforcing the NSW Southern Shared Net work to increase transfer capacity to demand centres (HumeLink) | ______________  
+The key findings from the assessment of each option under the step-change scenario (excluding competition 
+benefits) are that: 16 
+ The step -change results in greater estimated net benefits for all options than under the central 
+scenario, with the change from the central scenario ranging from approximately $155 million (Option 
+1A) to $596 million (Option 3B).  
+ The fixed 500 kV options (i.e., the ‘C’ options) continue to provide the greatest net benefit within each 
+route considered on account of these options providing the greatest (and earliest) increase in transfer 
+capacity.  
+ Market benefits of all options are primarily derived from avoided generation and storage costs (shown 
+by the blue sections of bars in Figure 17 ) and are expected to accrue as soon as HumeLink is 
+commissioned and then significantly increase from around 2035/36.  
+> These benefits are found to be most significant around the time large black coal generators are 
+expected to retire and are initially driven by an increased utilisation of Snowy 2.0  and changes 
+in capacity mix that result in the avoidance of LS battery build in New South Wales from 2026/27. 
+> The forecast capex savings from the mid -2030s are mostly driven by the deferral/avoidance of 
+solar investment followed by the avoidance of OCGT installations, with some wind build forecast 
+to be brought forward (however, the reduced wind build in Queensland in the 2040s is offset by 
+the additional wind installation in southern states, particularly Victoria, in those years).  
+ Avoided or deferred REZ transmission capex is the second most material category of market benefit 
+estimated across the options (shown by the purple section of bars in Figure 17). 
+> These benefits start from 2027/28 as wind and solar installations are forecast to be built in Wagga 
+Wagga and South Australia instead of the Centra l West Orana REZ and Queensland, avoiding 
+transmission costs.  
+ Fuel cost savings are expected to be lower than for the central scenario, mainly due to higher coal 
+retirements in the step-change scenario. 
+> The modelled fuel cost savings start from the late 2030s, where gas generation is avoided. 
+Figure 18 below presents the estimated cumulative expected gross benefits for Option 3C for each year of 
+the assessment period under the step -change scenario.  
+                                              
+16  The detailed descriptions of the drivers of the key market benefit categories below are based on the market modelling results for Option 3C. Please refer to 
+the market modelling results, and report, released alongside the PACR for more detail on the market modelling results for all options. This includes Option 
+1C-new, which has the same wholesale market benefits (excluding competition benefits) as Option 1C. 
+
+--- PDF page 19 ---
+ 
+18 | Reinforcing the NSW Southern Shared Net work to increase transfer capacity to demand centres (HumeLink) | ______________  
+Figure 18 – Breakdown of cumulative gross benefits for Option 3C under the step -change scenario  – excluding competition benefits 
+ 
+Figure 19 summarises the difference in generation and storage output modelled for Option 3C (in TWh), 
+compared to the base case.  
+Figure 19 – Difference in output with Option 3C, compared to the base case, under the step -change scenario  
+ 
+Figure 20 summarises the difference in generation and storage capacity modelled for Option 3C (in GW), 
+compared to the base case.  
+
+
+--- PDF page 20 ---
+ 
+19 | Reinforcing the NSW Southern Shared Net work to increase transfer capacity to demand centres (HumeLink) | ______________  
+Figure 20 – Difference  in cumulative capacity built with Option 3C, compared to the base case, under the step-change scenario 
+ 
+1.1.4 Slow-change scenario 
+The slow-change scenario is made up of a set of conservative assumptions reflecting a future world of lower 
+demand forecasts (including DSP), slow gas and coal price forecasts and coal plants allowed a ten-year life 
+extension (if economic to do so). While the slow -change scenario assumes the same national emissions 
+reduction as the central scenario by 2030, it assumes lower state-based renewables commitments . The slow-
+change scenario also excludes VNI West going ahead.  
+AEMO describe the slow -change scenario as reflecting ‘a general slow -down of the energy transition. It is 
+characterised by slower advancements in technology and reduc tions in technology costs, low population 
+growth, and low political, commercial, and consumer motivation to make the upfront investments required for 
+significant emissions reduction’. 17 
+The slow-change scenario is therefore intended to represent the lower end of the potential range of realistic 
+net benefits associated with the various options.  
+We note that the slow -change scenario is considered the least likely of the four scenarios and is given a 
+10 per cent weighting in the analysis, consistent with the r ecommended weighting in the 2020 ISP. 18 In 
+addition, we note that recent commentary from the ESB 19 suggests that the NEM is in fact tracking closest 
+to the step-change currently. 20  
+All options are found to have significantly negative net benefits under the s low-change scenario. Option 
+1C-new is found to have the least negative net benefits at around -$985 million. Option 3C becomes the 
+                                              
+17  AEMO, 2019 forecasting and planning scenarios, inputs, and assum ptions, August 2019, p. 3. 
+18  AEMO, 2020 Integrated System Plan, July 2020, p. 86 
+19  See Renew Economy, “We are headed for step change:” ESB’s Kerry Schott on new m arket design, Parkinson, G., 30 September 2020 (accessed via 
+https://reneweconomy.com.au/we-are-headed-for-step-change-esbs-kerry-schott-on-new-market-design-89487/ on 7 July 2021), Argus Media, Australia tops 
+step-change energy transition scenario, Morrison, K., 7 May 2021 (accessed via https://www.argusmedia.com/en/news/2212777-australia-tops-stepchange-
+energy -transition-scenario on 7 July 2021) & ESB, The Health of the National Electricity Market 2020, Volume 1: The ESB Health of the NEM Report, 5 
+January  2020, p. 8. 
+20  We hav e investigated the impact of this via a sensitivity, in section 2.4.4, that applies a higher weight to the step-change scenario in-line with this 
+commentary.  
+
+
+--- PDF page 21 ---
+ 
+20 | Reinforcing the NSW Southern Shared Net work to increase transfer capacity to demand centres (HumeLink) | ______________  
+fourth ranked option with an estimated negative net market cost that is approximately 36 per cent greater 
+than Option 1C-new. 
+Figure 21 shows the overall estimated net benefit for each option under the slow-change scenario. 
+Figure 21 – Summary of the estimated net benefits under the slow -change scenario – excluding competition benefits 
+ 
+Figure 22 shows the composition of estimated net benefits for each option under the slow -change scenario. 
+ 
+ 
+Figure 22 – Breakdown of estimated net benefits under the slow -change scenario  – excluding competition benefits 
+ 
+
+
+--- PDF page 22 ---
+ 
+21 | Reinforcing the NSW Southern Shared Net work to increase transfer capacity to demand centres (HumeLink) | ______________  
+The key findings from the assessment of each option under the slow-change scenario (excluding competition 
+benefits) are that: 21 
+ The estimated net market benefits for all options fall significantly relative to the central scenario (and 
+are all negative). 
+ The fixed 500 kV options (i.e., the ‘C’ option s) continue to provide the greatest net benefit (least net 
+cost) of all options considered that are able to operate at 500 kV on account of t hese options 
+providing the greatest (and earliest) increase in transfer capacity.  
+ The flexible 500 kV options are found to be upgraded from 330 kV to 500 kV in 2035 -36, being the 
+time at which the benefits from upgrading to 500 kV exceed the annualised upgrade cost  under this 
+scenario.  
+ The market benefits for all options are almost completely driven by avoided or def erred costs 
+associated with generation and storage (shown by the blue bars in Figure 22). 
+> The market modelling finds that this is driven primarily by avoided LS battery investment in New 
+South Wales from around 2032/33. 
+> Other wholesale market benefit categories are found to be of a smaller scale under the slow 
+scenario than the other scenarios.  
+> Overall, due to the low demand and assumptions regarding the NSW Roadmap in this scenario  
+as well as life extension of coal plants,  HumeLink is forecast to hav e significantly lower market 
+benefits as compared to the other scenarios.  
+Figure 23 below presents the estimated cumulative expected gross benefits for Option 3C for each year of 
+the assessment period under the slow-change scenario. It shows that the majority of the overall benefits have 
+accrued by 2032-33 under this scenario . 
+                                              
+21  The detailed descriptions of the drivers of the key market benefit categories below are based on the market modelling results for Option 3C. Please refer to 
+the accompanying market modelling results, and report, released alongside the PACR for more detail on the market modelling results for all options. This 
+includes Option 1C-new, which has the same wholesale market benefits (excluding competition benefits) as Option 1C. 
+
+--- PDF page 23 ---
+ 
+22 | Reinforcing the NSW Southern Shared Net work to increase transfer capacity to demand centres (HumeLink) | ______________  
+Figure 23 – Breakdown of cumulative gross benefits for Option 3C under the slow-change scenario – excluding competition benefits 
+ 
+Figure 24 summarises the difference in generation a nd storage output modelled for Option 3C (in TWh), 
+compared to the base case.  
+Figure 24 – Difference in output with Option 3C, compared to the base case, under the slow -change scenario  
+ 
+Figure 25 summarises the difference in generation and storage capaci ty modelled for Option 3C (in GW), 
+compared to the base case.  
+
+
+--- PDF page 24 ---
+ 
+23 | Reinforcing the NSW Southern Shared Net work to increase transfer capacity to demand centres (HumeLink) | ______________  
+Figure 25 – Difference in cumulative capacity built with Option 3C, compared to the base case, under the slow -change scenario  
+ 
+1.1.5 Weighted net benefits 
+Figure 26 shows the estimated net benefits for each of the credible options weighted across the four 
+scenarios investigated (and discussed above) according to the following weights - central: 40 per cent, step 
+change: 20 per cent, slow change: 10 per cent, and fast change: 30 per cent .22 
+On a weighted-basis, Option 3C is the top -ranked option and is the only option to have positive net market 
+benefits. Option 3C is expected to deliver approximately $39 million in net benefits (excluding competition 
+benefits), which is around $50 million more than the second-ranked option (Option 1C-new) in present 
+value terms. 23 This equates to Option 1C-new having 128 per cent lower net benefits than Option 3C .  
+Figure 26 – Summary of the estimated net benefits, weighted across the four scenarios – excluding competiti on benefits 
+                                              
+22 Section 6.2 of the July 2021 PACR sets out the scenario w eightings using the probabilities proposed by AEMO in the final 
+2020 ISP 
+23 Option 1C-new  has -$11 million net benefits on a w eighted basis, w hich is 128 per cent low er than Option 3C.  
+
+
+--- PDF page 25 ---
+ 
+24 | Reinforcing the NSW Southern Shared Net work to increase transfer capacity to demand centres (HumeLink) | ______________  
+ 
+The top three ranked options (i.e., Option 1C -new, Option 2C and Option 3C) are assessed further in 
+section 2.3 below.   
+2.3. RIT-T results  
+This section presents the RIT-T assessment for the PACR addendum. Specifically, it builds upon the 
+positioning assessment discussed above by presenting the net market b enefits for the three top -ranked 
+options coming out of that analysis (i.e., Option 1C -new, Option 2C and Option 3C), across each of the four 
+ISP scenarios investigated, as well as capturing the eighth category of market benefits estimated for these 
+options, i.e,, competition benefits. 
+The seven market benefits estimated for each option in section 2.2 above remain unchanged in this 
+section. We therefore do not repeat the discussion of these for each scenario but, instead, focus the 
+discussion of the new category of market benefit captured in this assessment, i.e., competition benefits.  
+1.1.6 Central scenario  
+All three of the options are found to deliver strongly positive net benefits, under the central scenario, ranging 
+from $375 million to $520 million in present value terms. Overall, Option 3C continues to be the top -ranked 
+option with estimated net benefits that are approximately 21  per cent greater than the second-ranked option 
+(Option 2C). 
+Competition benefits add significantly to each option’s estimated net benefits (between $ 335 million and 
+$471 million across the options), which is approximately 16 percent to 18 per cent of their estimated gross 
+wholesale market benefits for the three options considered.  
+The competition benefits associated with Option 1C -new are materially below those for Options 2C and 3C. 
+This reflects the different topology of Option 1C -new, which does not involve a transmission line going via 
+Wagga Wagga. Options 2C and 3C, which do go via Wagga Wagga, are able to access additional capa city 
+from renewable generation in South West NSW and allow additional transfer capacity between South 
+Australia and Victoria via Wagga Wagga into NSW major load centres. The lower competition benefits for 
+Option 1C-new outweigh the lower costs for Option 1 C-new and result in a lower overall net market benefit.  
+
+
+--- PDF page 26 ---
+ 
+25 | Reinforcing the NSW Southern Shared Net work to increase transfer capacity to demand centres (HumeLink) | ______________  
+Figure 27 shows the overall estimated net benefit for each option under the central scenario. The ‘core net 
+benefits’ shown in this chart (and all charts of this nature in this section), are the net benefits estimated in 
+section 2.1 above, i.e., the net benefits factoring in the seven categories of market benefit estimated as part 
+of the positioning assessment and the option costs.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 27 – Summary of the estimated net benefits under the central scenario  – including competition benefits 
+ 
+Figure 28 below presents the estimated cumulative expected gross benefits for Option 3C for each year of 
+the assessment period under the central scenario. It shows the cumulative market benefits, in present 
+value terms (and so the final year’s stacked bars align wi th the overall breakdown of estimated market 
+benefits shown in Figure 27 above). This figure, and all  figures of this nature in section 2.3, update the 
+corresponding figures in section 2.2 to include the estimated competition benefits.  
+Figure 28  – Breakdown of cumulative gross benefits for Option 3C under the central scenario  – including competition benefits 
+
+
+--- PDF page 27 ---
+ 
+26 | Reinforcing the NSW Southern Shared Net work to increase transfer capacity to demand centres (HumeLink) | ______________  
+ 
+Competition benefits are expected to accrue from shortly a fter Option 3C is commissioned and are material 
+across the assessment period, ultimately contributing 18 per cent of the total expected gross benefits. Under 
+this scenario, around 59 per cent of the competition benefits are comprised of wholesale market cost savings 
+with the remainder made up of demand response benefits.  
+1.1.7 Fast-change scenario  
+Each of the options is found to deliver strongly positive net benefits under the fast -change scenario, ranging 
+from $394 million to $ 487 million in present value term s. Overall, Option 3C is the top -ranked option with 
+estimated net benefits that are approximately 21 per cent greater than the second-ranked option (Option 2C). 
+Competition benefits add significantly to each option’s estimated net benefits (between $318 million and 
+$396 million across the options), which is approximately 15 per cent of their estimated gross benefits for the 
+three options considered. 
+Figure 29 shows the overall estimated net benefit for each option under the fast-change scenario. 
+Figure 29 – Summary of the estimated net benefits under the fast -change scenario – including competition benefits 
+
+
+--- PDF page 28 ---
+ 
+27 | Reinforcing the NSW Southern Shared Net work to increase transfer capacity to demand centres (HumeLink) | ______________  
+ 
+Figure 30 below presents the estimated cumulative expected gross benefits for Option 3C for each year of 
+the assessment period under the fast-change scenario. It shows the cumulative market benefits, in present 
+value terms (and so the final year’s stacked bars align with the overall breakdown of estimated market 
+benefits shown in Figure 29 above).  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 30 – Breakdown of cumulative gross benefits for Option 3C under the fast -change scenario  – including competition benefits 
+
+
+--- PDF page 29 ---
+ 
+28 | Reinforcing the NSW Southern Shared Net work to increase transfer capacity to demand centres (HumeLink) | ______________  
+ 
+Competition benefits are expected from shortly after Option 3C is commissioned and are material across 
+the assessment period, ultimately contributing 15 per cent of the total expected gross benefits. Under this 
+scenario, around 48 per cent of the competition benefits are comprised of wholesale market cost savings 
+with the remainder made up of demand response benefits.  
+1.1.8 Step-change scenario  
+Each of the options is found to deliver strongly positive net benefits under the step -change scenario, ranging 
+from $735 million to $1,271 million in present value terms. Overall, Option 3C is the top -ranked option with 
+estimated net benefits that are approximately 9 per cent greater than the second-ranked option (Option 2C). 
+Competition benefits add significantly to each option’s estimated net benefits ( between $507 million and 
+$637 million across the options), which is approximately 19 to 21 per cent of their estimated gross  benefits 
+for the three options considered. 
+Figure 31 shows the overall estimated net benefit for each option under the step-change scenario. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 31 – Summary of the estimated net benefits under the step -change scenario – including competition benefits 
+
+
+--- PDF page 30 ---
+ 
+29 | Reinforcing the NSW Southern Shared Net work to increase transfer capacity to demand centres (HumeLink) | ______________  
+ 
+Figure 32 below presents the estimated cumulative expected gross benefits for Option 3C for each year of 
+the assessment period under the step-change scenario. It shows the cumulative market benefits, in present 
+value ter ms (and so the final year’s stacked bars align with the overall breakdown of estimated market 
+benefits shown in Figure 31 above).  
+Figure 32 – Breakdown of cumulative gross benefits for Option 3C under the step -change scenario  – including competition benefits 
+ 
+Competition benefits do not appear until later in the period under the step -change scenario, compared to 
+the central and fast-change scenarios, but are material by the end of the assessment period, ultimately 
+contributing 19 per cent of the total expected gross benefits. Under this scenario, almost all of the 
+competition benefits are made up of demand response benefits (92 per cent), with wholesale market cost 
+savings making up the remainder. 
+
+
+--- PDF page 31 ---
+ 
+30 | Reinforcing the NSW Southern Shared Net work to increase transfer capacity to demand centres (HumeLink) | ______________  
+1.1.9 Slow-change scenario  
+None of the options is found to deliver a positive net benefit under the slow-change scenario, even once 
+competition benefits are included, with negative net benefits (net costs) ranging from -$1,253 million to -
+$829 million in present value terms. Overall, Option 1C-new is the top-ranked option with estimated net costs 
+that are approximately 30 per cent lower than the second-ranked option (Option 3C). 
+Competition benefits add to each option’s estimated net benefits (between $1 56 million and $163 million for 
+Option 1C-new and Option 3C respectively), which is approximately 17 per cent of estimated gross benefits 
+for both options. 
+Figure 33 shows the overall estimated net benefit for each option under the slow-change scenario. 
+Figure 33 – Summary of the estimated ne t benefits under the slow-change scenario – including competition benefits 
+ 
+Figure 34 below presents the estimated cumulative expected gross benefits for Option 3C for each year of 
+the assessment period under the slow-change scenario. It shows the cumulat ive market benefits, in present 
+value terms (and so the final year’s stacked bars align with the overall breakdown of estimated market 
+benefits shown in Figure 33 above).  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PDF page 32 ---
+ 
+31 | Reinforcing the NSW Southern Shared Net work to increase transfer capacity to demand centres (HumeLink) | ______________  
+Figure 34 – Breakdown of cumulative gross benefits for Option 3C under the slow -change scenario  – including competition benefits 
+ 
+Competition benefits, along with all benefits, are much lower under the slow -change scenario compared to 
+the other three scenarios. They appear from around midway through the period and remain constant from 
+then, ultimately contributing 17 per cent of the total expected gross benefits. Under this scenario, around 
+50 per cent of the competition benefits are comprised of wholesale market c ost savings with the remainder 
+made up of demand response benefits.  
+1.1.10 Weighted net benefits 
+Figure 35  shows the estimated net benefits for each of the credible options weighted across the four 
+scenarios according to the following weights - central: 40 per ce nt, step change: 20 per cent, slow change: 
+10 per cent, and fast change: 30 per cent. 24 
+On a weighted -basis, Option 3C is the top -ranked option and is expected to deliver approximately 
+$491 million in net benefits, which is around 23 per cent greater than the net benefits of the second-ranked 
+option (Option 2C).  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                              
+24 Section 6.2 of the July 2021 PACR sets out the scenario w eightings using the probabilities proposed by AEMO in the final 
+2020 ISP.  
+
+
+--- PDF page 33 ---
+ 
+32 | Reinforcing the NSW Southern Shared Net work to increase transfer capacity to demand centres (HumeLink) | ______________  
+Figure 35 – Summary of the estimated net benefits, weighted across the four scenarios – including competition benefits  
+ 
+2.4. Sensitivity analysis 
+A range of sensitivity analyses has been undertaken to test the robustness of the PACR addendum modelling 
+outcomes.  
+Specifically, we have assessed a number of sensitivities that involve additional market modelling, namely:  
+ the impact of the recently announced new Kurri Kurri and Tallawarra B  gas generators;  
+ delaying VNI West until 2035/36 (in-line with the core 2020 ISP assumption for the central scenario);  
+ whether adding the MPFC solution proposed by Smart Wires would increase the expected net 
+benefits of the preferred option; and 
+ the impact on the positioning analysis of adopting the draft 2021 IASR assumptions . 
+Each of these sensitivity tests has been designed to test the robustness of the net benefit outcomes for 
+Option 3C. The market modelling for ea ch of the above sensitivities has not been undertaken for all credible 
+options and scenarios. This is due to the computational time required to complete such an exercise and the 
+fact that the four core scenarios outlined in the sections above already inclu de significant variability in the 
+underlying assumptions and find that Option 3C is the top-ranked option. Instead, our sensitivity analysis is 
+in most cases focused on the top three ranked options from the positioning assessment (ie, Option 1C -new, 
+Option 2C and Option 3C) and the central scenario.  
+Three other sensitivity tests that do not require wholesale market modelling have also been investigated, 
+namely adopting: 
+ higher weighting of the step-change scenario, in-line with recent commentary from the ESB; 
+ higher and lower network capital costs of the credible options  (including the adoption of P90 costs) ; 
+and  
+ alternate commercial discount rate assumptions.  
+Each of the sensitivity tests are discussed below.  
+
+
+--- PDF page 34 ---
+ 
+33 | Reinforcing the NSW Southern Shared Net work to increase transfer capacity to demand centres (HumeLink) | ______________  
+2.4.1. Impact of the recently announced new Kurri Kurri and Tallawarra B gas generators  
+In early May 2021, there were two announcements regarding Federal Government funding for new gas -
+fired generators in NSW. Namely: 
+ on 3 May 2021, EnergyAustralia announced it would build the 316 MW Tallawarra B gas-hydrogen 
+plant with $83 million in Government support; 25 and 
+ on 18 May 2021, the Federal Government announced it will spend up to $600 million to build a new 
+660 MW gas plant at Kurri Kurri in NSW. 26 
+These developments are not reflected in our wholesal e market modelling assumptions, which are based on 
+the 2020 ISP. However we have considered the impact that these two developments would have on the 
+expected net benefits of Options 1C-new, 2C and 3C.  
+Under the central scenario, we find that the estimated  net benefits of Option 3C decrease by around 36 per 
+cent assuming the new Kurri Kurri and Tallawarra B gas generators are commissioned. However, overall 
+Option 3C continues to provide substantial positive net market benefits. We find that Option 3C still delivers 
+approximately $334 million in net benefits . Option 3C  has around 36 per cent higher net benefits than the 
+second-ranked option (Option 2C) and 90 per cent higher than the third ranked option (Option 1C -new). 
+Figure 36 shows the overall estimated n et benefit for each option under this sensitivity, as well as under the 
+RIT-T outcome  (i.e., the net benefits estimated in section 2.3 above). 
+Figure 36 – Net benefits assuming the new Kurri Kurri and Tallawarra B gas generators – including competition ben efits 
+ 
+Figure 37 breaks down the estimated net benefits under the core RIT-T outcome (i.e., the net benefits 
+estimated in section 2.3 above) on the left -hand side and assuming the new gas generators on the right -
+hand side. The largest reduction in estimat ed benefits for the preferred option is found to come from 
+avoided generation/storage costs (shown in blue below).  
+ 
+ 
+                                              
+25  https://www.nsw.gov.au/media-releases/australias-first-green-hydrogen-and-gas-power-plant 
+26  https://www.minister.industry.gov.au/ministers/taylor/media-releases/protecting-families-and-businesses-higher-energy-prices 
+
+
+--- PDF page 35 ---
+ 
+34 | Reinforcing the NSW Southern Shared Net work to increase transfer capacity to demand centres (HumeLink) | ______________  
+Figure 37 – Breakdown of estimated net benefits assuming with and without the new Kurri Kurri and Tallawarra B gas generators 
+ 
+2.4.2. Impact of the assumed timing for VNI West  
+Our wholesale market modelling is based on an assumed commissioning date for VNI West of 2028/29. This 
+is based on AEMO’s 2020 ISP accelerated delivery date for VNI West and our current view of the earliest 
+commissioning da te for this investment. However, we have investigated the impact of delaying the 
+commissioning date of VNI West to until 2035/36, in-line with the 2020 ISP core assumption for the central 
+scenario. 
+Figure 38 shows the overall estimated net benefit for each  option under this sensitivity, as well as under the 
+RIT-T assessment.  
+ 
+Figure 38 – Net benefits assuming VNI West is delayed until 2035/36  – including competition benefits 
+ 
+
+
+--- PDF page 36 ---
+ 
+35 | Reinforcing the NSW Southern Shared Net work to increase transfer capacity to demand centres (HumeLink) | ______________  
+Under this sensitivity, net benefits for Option 2C and 3C decrease, while net benefits increase for Option 1C-
+new. Option 2C and Option 3C unlock network constraints from Wagga Wagga to the major load centres in 
+NSW, and VNI West is expected to unlock this flow path even further to South West NSW and Victoria. This 
+allows better utilisation of cheaper resources, particularly in South West NSW and the NSW southern region. 
+As a result, delaying VNI West is expected to reduce this opportunity for these two options and result in lower 
+wholesale market benefits. However, delaying VNI West is  not expected to impact the wholesale market 
+benefit of Option 1C-new (it even marginally increases the market benefit of this option). This is because in 
+Option 1C-new the network constraint on the eastern side of Wagga Wagga remains, regardless of the 
+presence or absence of VNI West.  
+Under the central scenario, we find that the estimated net benefits of Option 3C decreases by around 24 per 
+cent if it is assumed that VNI West is delayed until 2035/36 (departing from the core assumption of 2028/29). 
+Under t his assumption, Option 3C is effectively ranked first equal with Option 1C -new, which is only $1.3 
+million or 0.32 per cent higher net benefits than Option 3C. Consequently, Option 1C-new and Option 3C are 
+considered to be effectively ranked equal first.  
+2.4.3. Expected impact of MPFC 
+We have considered whether MPFC can add to the expected net benefits of the preferred option, in response 
+to the submission from Smart Wires . 
+Under the central scenario, we find that the estimated net benefits of Option 3C decrease by $7 million 
+assuming it is coupled with the MPFC solution proposed by Smart Wires (under these assumptions, Option 
+3C is found to deliver approximately $513 million in net benefits). Consequently, we find that the cost of 
+providing additional capacity th rough MPFC is not outweighed by the additional expected market benefits at 
+this point in time.  
+2.4.4. Alternate weighting of the scenarios in-line with recent commentary  
+We have investigated the effects of assuming alternate scenario weightings based on more re cent 
+information than the 2020 ISP. Specifically, and informed by ESB commentary that the NEM is on step -
+change scenario, we have applied the following scenario weightings as part of this sensitivity:  
+ 30 per cent to the central scenario (i.e., a decrease o f 10 per cent); 
+ 30 per cent to the fast-change scenario; 
+ 30 per cent to the step-change scenario (i.e., an increase of 10 per cent); and  
+ 10 per cent to the slow-change scenario. 
+We find that the estimated net benefits of Option 3C increase by around 15 per  cent under these assumed 
+weightings compared to the weightings for HumeLink set out in the 2020 ISP. Under these weightings, Option 
+3C is found to deliver $566 million in net benefits on a weighted basis, which is approximately $93 million 
+greater than th e second-ranked option ( Option 2C) and approximately $194 million greater than the third 
+ranked option (Option 1C-new). 
+Figure 39 shows the overall estimated net benefit for each option under this sensitivity, as well as under the 
+ISP weightings.  
+ 
+ 
+
+--- PDF page 37 ---
+ 
+36 | Reinforcing the NSW Southern Shared Net work to increase transfer capacity to demand centres (HumeLink) | ______________  
+Figure 39 – Net benefits assuming alternate scenario weightings  – including competition benefits 
+ 
+2.4.5. Higher and lower network capital costs of the credible options 
+We have tested the sensitivity of the results to the underlying network capital costs of the c redible options. 
+Figure 40 shows that Option 3C remains the top-ranked credible option if the capital cost assumptions are 
+varied by 25 per cent (higher or lower) across all three options.  Under the assumption of 25% lower capital 
+costs, the net benefits of Option 3C increase to $999 million.  However, under the 25 per cent higher assumed 
+capital costs, Option 3C is found to have negative net benefits of -$17 million. 
+Figure 40 – Impact of 25 per cent higher and lower network capital costs, weighted NPVs  – including competition benefits  
+ 
+We find that if Option 3C’s capital costs are more than 24 per cent higher than the central estimates, it would 
+no longer have positive estimated net benefits (on a weighted -basis).  We also find that if Option 2C’s costs 
+were to remain constant, Option 3C’s costs would need to increase by more than 4 per cent for Option 2C to 
+become preferred.  
+
+
+--- PDF page 38 ---
+ 
+37 | Reinforcing the NSW Southern Shared Net work to increase transfer capacity to demand centres (HumeLink) | ______________  
+There is currently a high degree of uncertainty in relation to the accuracy of the capital cost estimates (which 
+are ‘class 4’ estimates for each of these three options), consistent with the stage that the project is currently 
+at. We also note that a substantial proportion of the costs of HumeLink will relate to biodiversity offset costs, 
+which are determined by external processes.  
+For completeness, we have also considered alternate ‘P90’ capex estimates, which are higher than the 
+P50 estimates used in the main RIT-T analysis, and allow for additional contingencies. Specifically, the P90 
+capex estimates have an expected 90 per cent p robability of cost underrun, while the P50 capex estimates 
+have a 50 per cent expected probability of cost underrun. Figure 41 shows that both options have 
+significantly negative weighted net benefits under P90 capex estimates (with the preferred option ex pected 
+to result in a net cost of approximately $193 million).  
+Figure 41 – P50 capex estimates compared to P90 capex estimates, weighted NPVs – including competition benefits 
+ 
+We will be undertaking further detailed analysis in relation to the costs of t he preferred option as part of 
+progressing this project, following the initial CPA. Any increase in the estimated costs of the project resulting 
+from this analysis would result in AEMO needing to issue a ‘feedback loop’ confirmation that the project 
+remains consistent with the ISP optimal development path, before we could lodge a further CPA. Consumers 
+can therefore have confidence that any increase in the cost estimate for the preferred option will only result 
+in the project proceeding if AEMO confirms tha t it remains part of the ISP at the higher cost.  
+2.4.6. Alternate commercial discount rate assumptions 
+Figure 42 illustrates the sensitivity of the results to adopting different discount rate assumptions in the NPV 
+assessment. In particular, it illustrates the im pact of adopting:  
+ a high discount rate of 7.90 per cent; and  
+ a low discount rate of 2. 23 per cent. 
+Option 3C is the top -ranked option under both alternate assumptions and continues to deliver positive net 
+benefits, albeit only marginally under the high discount rate assumption. We consider that a discount rate of 
+7.90 per cent is at the extreme end for commercial discount rates today, and note that the draft 2021 IASR 
+
+
+--- PDF page 39 ---
+ 
+38 | Reinforcing the NSW Southern Shared Net work to increase transfer capacity to demand centres (HumeLink) | ______________  
+assumptions propose a 4.80 per cent discount rate as part of the central scenario (whic h is lower than our 
+assumed central rate of 5.90 per cent).  
+ 
+Figure 42 – Impact of different assumed discount rates, weighted NPVs – including competition benefits  
+ 
+We have extended this sensitivity and find a discount rate that is higher than 7.98 per ce nt would result in 
+Option 3C having a negative estimated net benefit. 
+2.4.7. Adopting AEMO’s draft 2021 IASR assumptions  
+This sensitivity reapplies the positioning assessment to the three top -ranked options, adopting the draft 2021 
+IASR assumptions published by AEMO in December 2020. 27 It provides insight into the possible outcomes 
+of the forthcoming ‘feedback loop’ assessment if AEMO adopts the final 2021 IASR assumptions (due to be 
+published by the end of July 2021) for this analysis. We consider that adopting t he most recently consulted 
+upon final IASR assumptions, which will underpin the 2022 ISP, in applying the feedback loop would be 
+consistent with the objectives of the overall actionable ISP framework.  
+Under the central scenario, we find that the estimated  net benefits under the positioning assessment for 
+Option 3C increase significantly using the draft 2021 IASR assumptions, and becomes substantially positive. 
+Under the draft 2021 IASR assumptions, Option 3C is found to deliver approximately $436 million i n net 
+benefits. Option 3C has around 22 per cent greater net benefits than the second -ranked option (Option 2C) 
+and 373 per cent greater net benefits than the third -ranked option (Option 1C -new) under draft 2021 IASR 
+assumptions.  
+Figure 43 shows the overall estimated net benefit for each option under this sensitivity, as well as under the 
+‘positioning assessment net benefits’ (i.e., the net benefits estimated in section 2.3 above, which excludes 
+competition benefits). 
+ 
+ 
+ 
+                                              
+27 AEMO, Draf t 2021 Inputs Assumptions and Scenarios Report (IASR), 17 December 2020. 
+
+
+--- PDF page 40 ---
+ 
+39 | Reinforcing the NSW Southern Shared Net work to increase transfer capacity to demand centres (HumeLink) | ______________  
+ 
+ 
+ 
+Figure 43 – Net benefits under t he central scenario (excluding competition benefits) adopting AEMO’s draft 2021 IASR  assumptions – 
+excluding competition benefits  
+ 
+It is important to note that the net benefits shown above do not include competition benefits. The analysis in 
+the PACR and in this addendum demonstrates that competition benefits are material for this RIT -T (as 
+illustrated in section 2.3). Including competition benefits alongside the 2021 IASR assumptions can therefore 
+be expected to further increase the net benefits of Option  1C-new, Option 2C and Option 3C. We anticipate 
+that AEMO will need to consider competition benefits in applying the feedback loop to HumeLink.  
+ 
+

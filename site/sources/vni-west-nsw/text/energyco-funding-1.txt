@@ -1,0 +1,347 @@
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0], j=d.createElement(s),dl=l!='dataLayer'?'&amp;l='+l:'';j.async=true;j.src= 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f); })(window,document,'script','dataLayer','GTM-PQW227H');
+$225 million South West REZ investment to secure NSW energy future | EnergyCo
+Skip to navigation
+Skip to content
+A NSW Government website
+NSW Government
+EnergyCo
+menu
+Open
+Menu
+search
+Show
+Search
+Search site for:
+search
+Search
+close
+Close search
+Menu
+close
+Close Menu
+About us
+keyboard_arrow_right
+keyboard_arrow_left
+Back
+to previous menu
+close
+Close Menu
+About us
+east
+Our purpose
+Our leadership
+Our board
+Annual reports and strategy documents
+keyboard_arrow_right
+keyboard_arrow_left
+Back
+to previous menu
+close
+Close Menu
+Annual reports and strategy documents
+east
+Network Infrastructure Strategy for NSW
+Careers at EnergyCo
+Renewable energy zones and projects
+keyboard_arrow_right
+keyboard_arrow_left
+Back
+to previous menu
+close
+Close Menu
+Renewable energy zones and projects
+east
+What's a renewable energy zone?
+keyboard_arrow_right
+keyboard_arrow_left
+Back
+to previous menu
+close
+Close Menu
+What's a renewable energy zone?
+east
+Renewable energy zone locations
+What are electricity infrastructure projects?
+What are generation and storage projects?
+Central-West Orana Renewable Energy Zone
+keyboard_arrow_right
+keyboard_arrow_left
+Back
+to previous menu
+close
+Close Menu
+Central-West Orana Renewable Energy Zone
+east
+Community engagement in the Central-West Orana REZ
+keyboard_arrow_right
+keyboard_arrow_left
+Back
+to previous menu
+close
+Close Menu
+Community engagement in the Central-West Orana REZ
+east
+Group Training Organisation Program
+Social Impact Management Plan
+keyboard_arrow_right
+keyboard_arrow_left
+Back
+to previous menu
+close
+Close Menu
+Social Impact Management Plan
+east
+Central-West Orana REZ SIM Plan Dashboard
+Landholder information for the Central-West Orana REZ
+Central-West Orana REZ Community and Employment Benefit Program
+Generation and storage projects in the Central-West Orana REZ
+Central-West Orana REZ Transmission Project
+keyboard_arrow_right
+keyboard_arrow_left
+Back
+to previous menu
+close
+Close Menu
+Central-West Orana REZ Transmission Project
+east
+Environmental Impact Statement
+Planning approvals
+Project documents
+Regulatory information about the Central-West Orana REZ
+Hunter-Central Coast Renewable Energy Zone
+Hunter Transmission Project
+keyboard_arrow_right
+keyboard_arrow_left
+Back
+to previous menu
+close
+Close Menu
+Hunter Transmission Project
+east
+What we're building for the Hunter Transmission Project
+Community engagement for the Hunter Transmission Project
+Aboriginal engagement in the Hunter Transmission Project
+Hunter Transmission Project Environmental Impact Statement
+Landholder information in the Hunter Transmission Project
+Industry opportunities in the Hunter Transmission Project
+Hunter Transmission Project corridor selection
+Project documents
+Frequently asked questions
+Illawarra Renewable Energy Zone
+New England Renewable Energy Zone
+keyboard_arrow_right
+keyboard_arrow_left
+Back
+to previous menu
+close
+Close Menu
+New England Renewable Energy Zone
+east
+Community engagement
+keyboard_arrow_right
+keyboard_arrow_left
+Back
+to previous menu
+close
+Close Menu
+Community engagement
+east
+Community reference groups
+Community and Employment Benefit Program
+New England REZ Network Infrastructure Project
+keyboard_arrow_right
+keyboard_arrow_left
+Back
+to previous menu
+close
+Close Menu
+New England REZ Network Infrastructure Project
+east
+Project documents
+Refining the REZ network
+Network operator
+Frequently asked questions
+Renewable energy generation projects
+South West Renewable Energy Zone
+keyboard_arrow_right
+keyboard_arrow_left
+Back
+to previous menu
+close
+Close Menu
+South West Renewable Energy Zone
+east
+Local supplier opportunities
+Regulatory information
+What's being built
+Working with the community
+South West REZ Community and Employment Benefit Program
+Waratah Super Battery Project
+Enabling projects
+keyboard_arrow_right
+keyboard_arrow_left
+Back
+to previous menu
+close
+Close Menu
+Enabling projects
+east
+Newcastle Logistics Precinct
+Port to Renewable Energy Zones road upgrades
+keyboard_arrow_right
+keyboard_arrow_left
+Back
+to previous menu
+close
+Close Menu
+Port to Renewable Energy Zones road upgrades
+east
+Port of Newcastle to Central-West Orana REZ
+Muswellbrook to New England REZ
+Community
+keyboard_arrow_right
+keyboard_arrow_left
+Back
+to previous menu
+close
+Close Menu
+Community
+east
+Employment, training and local supply opportunities
+Community and Employment Benefit Program
+Aboriginal community engagement hub
+Information for landholders
+keyboard_arrow_right
+keyboard_arrow_left
+Back
+to previous menu
+close
+Close Menu
+Information for landholders
+east
+Support for landholders
+keyboard_arrow_right
+keyboard_arrow_left
+Back
+to previous menu
+close
+Close Menu
+Support for landholders
+east
+Landholder Help Desk
+Compulsory acquisition explained
+Living and working near transmission line easements
+Understanding the land acquisition process
+Valuation and compensation explained
+Strategic Benefit Payments Scheme explained
+Industry
+keyboard_arrow_right
+keyboard_arrow_left
+Back
+to previous menu
+close
+Close Menu
+Industry
+east
+Access schemes
+keyboard_arrow_right
+keyboard_arrow_left
+Back
+to previous menu
+close
+Close Menu
+Access schemes
+east
+Central-West Orana Access Scheme
+Hunter-Central Coast REZ Access Scheme
+keyboard_arrow_right
+keyboard_arrow_left
+Back
+to previous menu
+close
+Close Menu
+Hunter-Central Coast REZ Access Scheme
+east
+Have your say: Hunter-Central Coast Renewable Energy Zone Generation and Storage Paper
+New England REZ Access Scheme
+South West REZ Access Scheme
+Supply opportunities for local businesses
+Latest updates
+Contact us
+Home
+$225 million South West REZ investment to secure NSW energy future
+10 June 2026
+South West REZ
+Media release
+Community benefits
+Released by: Minister for Energy, Environment and Heritage and the Treasurer
+The Minns Labor Government will invest $225 million in the 2026 NSW Budget to bring more low-cost renewable energy into the grid, helping put downward pressure on electricity bills while delivering investment, jobs and community benefits across the state’s south west.
+The investment will support critical grid upgrades for the South West Renewable Energy Zone (REZ), allowing four new wind, solar and battery projects to connect to the electricity system as ageing coal-fired power stations retire.
+Together, these projects could generate enough electricity to power around 1.6 million NSW homes each year, helping to secure our state’s energy future.
+The South West REZ is one of the state’s most important energy projects, designed to strengthen electricity reliability, unlock new private investment and deliver affordable energy for NSW homes and businesses. The Minns Labor Government is taking action to fund the infrastructure needed to realise the potential of the REZ, after the previous Liberal National Government didn’t prioritise its delivery.
+Planning is at an advanced stage, but critical works are needed to maximise what NSW consumers get out of the REZ. This investment will enable the extension of the 500 kilovolt transmission network through to Dinawan substation, through a range of activities including:
+Appointment of early works contractors.
+Progression of project development and design.
+Procurement of an additional transformer and other critical long-lead items such as circuit breakers.
+Early-stage construction works at the Dinawan substation to increase its capacity, which when completed will allow the existing lines connected to Dinawan will be used to run power at a higher capacity.
+Progression of critical project approvals.
+The funding will unlock 1.3 gigawatts of network capacity, more than half the REZ’s total 2.5 gigawatts.
+It will also give access rights holders the certainty they need to progress their projects: Bullawah Wind Farm (BayWa r.e.), the Yanco Delta Wind Farm (Origin Energy), Pottinger Energy Park (Someva Renewables and AGL) and the Dinawan Energy Hub (Spark Renewables).
+The South West REZ stretches from west of Jerilderie to the Victorian border near Mildura and includes Buronga, Gol Gol, Balranald and Hay.
+It is forecast to support around 1,690 direct jobs per year in the area during construction, and hundreds of ongoing jobs. It will also create broader economic benefits in local communities through increased demand for workers in local manufacturing, retail and transport and the supply of goods and services.
+Minister for Energy, Penny Sharpe said:
+“Renewable energy is the cheapest form of new energy, and connecting more of it to the grid is one of the most important things we can do to put downward pressure on electricity bills.
+“This investment will help make sure NSW has reliable energy as ageing coal fired power stations retire, while making sure communities in the South West share in the jobs, investment and opportunities created by the energy transition.
+“This funding for the South West REZ will ensure the grid is fit for purpose, with vital upgrades to bring a significant amount of new renewable energy online for everyone in NSW.”
+Treasurer Daniel Mookhey said:
+"Families and businesses across NSW are doing it tough with energy costs. Every decision we make in this budget is about easing that pressure — and this investment directly delivers on that.
+"To support NSW's clean energy transition is to support jobs, investment and cheaper power.
+"The South West REZ alone unlocks $17 billion in private investment and nearly 1,700 construction jobs a year — that's what's at stake for communities across the region."
+More information and resources
+Learn more about the South West REZ
+Learn more
+east
+Explore the the interactive map
+Visit our interactive map
+open_in_new
+Related news
+South West REZ
+Media release
+Community benefits
+21 Jul 2026
+South West communities invited to help shape $60 million legacy fund
+east
+photo_camera
+Open description
+South West Renewable Energy Zone project development deed signing.
+close
+South West REZ
+Media release
+10 Jul 2026
+​​NSW residents a step closer to reliable electricity from the South West Renewable Energy Zone with deal sealed​
+east
+photo_camera
+Open description
+Sunrise over trees - South West Renewable Energy Zone.
+close
+South West REZ
+Media release
+Community benefits
+10 Jun 2026
+South West Renewable Energy Zone unlocks an initial $60 million in community benefits
+Released by: Minister for Energy, Environment and Heritage
+east
+We pay respect to the Traditional Custodians and First Peoples of NSW, and acknowledge their continued connection to their country and culture.
+Contact
+Complaints and feedback
+Report wrongdoing (PID)
+Privacy
+Accessing information
+Copyright
+Sponsorship register
+Accessibility
+Disclaimer
+Copyright © 2026
+Built by
+NSW Design System
+{"path":{"baseUrl":"\/","pathPrefix":"","currentPath":"node\/4346","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"data":{"extlink":{"extTarget":false,"extTargetAppendNewWindowDisplay":false,"extTargetAppendNewWindowLabel":"(opens in a new window)","extTargetNoOverride":false,"extNofollow":false,"extTitleNoOverride":false,"extNoreferrer":true,"extFollowNoOverride":false,"extClass":"ext","extLabel":"(link is external)","extImgClass":false,"extSubdomains":true,"extExclude":"","extInclude":"nsw\\.gov\\.au","extCssExclude":"ul.nsw-main-nav__list, .hero-search__wrapper, .nsw-layout__sidebar, .nsw-button, .nsw-footer, .system-modules, .menu-edit-form, .nsw-link-list, .form-assembly-component,.nsw-link-list, .nsw-card__content,.stories-and-case-studies .pagination .pager__items","extCssInclude":"","extCssExplicit":"","extAlert":false,"extAlertText":"This link will take you to an external web site. We are not responsible for their content.","extHideIcons":false,"mailtoClass":"0","telClass":"0","mailtoLabel":"(link sends email)","telLabel":"(link is a phone number)","extUseFontAwesome":false,"extIconPlacement":"append","extPreventOrphan":false,"extFaLinkClasses":"fa fa-external-link","extFaMailtoClasses":"fa fa-envelope-o","extAdditionalLinkClasses":"","extAdditionalMailtoClasses":"","extAdditionalTelClasses":"","extFaTelClasses":"fa fa-phone","allowedDomains":["dev.energyco.nsw.gov.au","energyco.nsw.gov.au","staging.energyco.nsw.gov.au","www.energyco.nsw.gov.au"],"extExcludeNoreferrer":""}},"left_nav_expand":true,"user":{"uid":0,"permissionsHash":"14a04004f413d35f4a53d1e340673b6a7f3cee3386c0968e7be3179bb26358e1"}}

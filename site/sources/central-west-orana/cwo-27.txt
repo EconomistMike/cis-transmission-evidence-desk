@@ -1,0 +1,2077 @@
+
+===== PDF PAGE 1 =====
+CONSOLIDATED APPROVAL 
+ 
+ 
+ 
+I grant approval to the application referred to in Schedule 1, subject to the conditions in Schedule 2.  
+ 
+These conditions are required to: 
+ 
+• prevent, minimise, or offset adverse environmental impacts; 
+• set standards and performance measures for acceptable environmental performance; 
+• require regular monitoring and reporting; and 
+• provide for the ongoing environmental management of the development 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ Minister for Planning and Public Spaces 
+ 
+ 
+Sydney     2024 
+ 
+ 
+ 
+ 
+The Department has prepared a consolidated version of the approval which is intended to include all modifications to 
+the original determination instrument. 
+ 
+The consolidated version of the approval has been prepared by the Department with all due care. This consolidated 
+version is intended to aid the approval holder by combining all approvals relating to the original determination 
+instrument but it does not relieve an approval holder of its obligation to be aware of and fully comply with all approval 
+obligations as they are set out in the legal instruments, including the original determination instrument and all 
+subsequent modification instruments. 
+ 
+ 
+  
+Infrastructure Approval 
+Section 5.19 of the Environmental Planning and Assessment Act 1979 
+===== PDF PAGE 2 =====
+ 
+CONSOLIDATED APPROVAL 
+ 
+NSW Government 2 Central-West Orana REZ Transmission 
+Department of Planning, Housing and Infrastructure (SSI 48323210)  
+SCHEDULE 1 
+Application Number: SSI 48323210 
+Proponent: Energy Corporation of NSW 
+Approval Authority: Minister for Planning and Public Spaces 
+Land: Land in the Dubbo Regional, Mid-western 
+Regional, Warrumbungle Shire and Upper Hunter 
+Shire local government areas, as described in the 
+EIS and shown on the development layout plans 
+Development: Central-West Orana REZ Transmission Project 
+Program of works including pre-construction minor 
+works, road upgrades, construction, operation, 
+upgrading, and decommissioning the high-voltage 
+electricity transmission infrastructure required to 
+connect energy generation and storage projects 
+within the Central-West Orana REZ to the existing 
+electricity network 
+Critical State Significant Infrastructure: Development for the Central-West Orana REZ 
+Transmission Project as described in Section 23 of 
+Schedule 5 of State Environmental Planning Policy 
+(Planning Systems) 2021. 
+ 
+  
+===== PDF PAGE 3 =====
+ 
+CONSOLIDATED APPROVAL 
+ 
+NSW Government 3 Central-West Orana REZ Transmission 
+Department of Planning, Housing and Infrastructure (SSI 48323210)  
+SUMMARY OF MODIFICATIONS 
+ 
+Application Number Determination 
+Date 
+Decider Modification Description 
+SSI-48323210-Mod-1 14 October 2024 Director, 
+Energy 
+Assessments 
+MOD 1 – Minor Administrative Changes 
+ 
+ 
+ 
+===== PDF PAGE 4 =====
+CONSOLIDATED APPROVAL 
+ 
+NSW Government 1 Central-West Orana REZ Transmission 
+Department of Planning, Housing and Infrastructure (SSI 48323210)  
+TABLE OF CONTENTS 
+DEFINITIONS 2 
+SUMMARY OF REPORTING REQUIREMENTS ...................................................................................... 5 
+PART A ADMINISTRATIVE CONDITIONS ..................................................................................... 6 
+Obligation to Minimise Harm to the Environment .................................................................................................... 6 
+Terms of Approval ................................................................................................................................................... 6 
+Lapse of Approval ................................................................................................................................................... 6 
+Evidence of Consultation ........................................................................................................................................ 6 
+Payment of Reasonable Costs ................................................................................................................................ 6 
+Environmental Representative ................................................................................................................................ 6 
+Protection of Public Infrastructure ........................................................................................................................... 7 
+Demolition ............................................................................................................................................................... 7 
+Structural Adequacy ................................................................................................................................................ 7 
+Compliance ............................................................................................................................................................. 8 
+Operation of Plant and Equipment .......................................................................................................................... 8 
+Applicability of Guidelines ....................................................................................................................................... 8 
+Community Communication Strategy ...................................................................................................................... 8 
+PART B SPECIFIC ENVIRONMENTAL CONDITIONS ................................................................... 9 
+Noise and Vibration ................................................................................................................................................. 9 
+Air Quality ............................................................................................................................................................. 11 
+Soil and Water ...................................................................................................................................................... 11 
+Biodiversity ............................................................................................................................................................ 12 
+Heritage ................................................................................................................................................................ 13 
+Traffic and Transport ............................................................................................................................................. 14 
+Visual Amenity ...................................................................................................................................................... 16 
+Radiocommunications ........................................................................................................................................... 17 
+Hazard and Risk ................................................................................................................................................... 17 
+Bushfire Safety ...................................................................................................................................................... 17 
+Waste .................................................................................................................................................................... 18 
+Accommodation Camps ........................................................................................................................................ 19 
+Local Business and Employment Strategy ............................................................................................................ 19 
+Social .................................................................................................................................................................... 19 
+Rehabilitation ........................................................................................................................................................ 20 
+PART C ENVIRONMENTAL MANAGEMENT, REPORTING AND AUDITING ............................ 21 
+Environmental Management Strategy ................................................................................................................... 21 
+Revision of Strategies, Plans and Programs ......................................................................................................... 21 
+Staging, Combining and Updating Strategies, Plans or Programs ........................................................................ 21 
+Notifications .......................................................................................................................................................... 22 
+Independent Environmental Audit ......................................................................................................................... 22 
+Access to Information ........................................................................................................................................... 23 
+APPENDIX 1 DEVELOPMENT LAYOUT .............................................................................................. 24 
+APPENDIX 2 BIODIVERSITY ................................................................................................................ 37 
+APPENDIX 3 HERITAGE ....................................................................................................................... 39 
+APPENDIX 4 TRAFFIC AND TRANSPORT .......................................................................................... 43 
+APPENDIX 5 WRITTEN INCIDENT NOTIFICATION AND REPORTING REQUIREMENTS ............... 49 
+ 
+===== PDF PAGE 5 =====
+CONSOLIDATED APPROVAL 
+NSW Government 2 Central-West Orana REZ Transmission 
+Department of Planning, Housing and Infrastructure (SSI 48323210) 
+DEFINITIONS 
+ 
+Term Definition 
+Aboriginal object The same meaning as in the National Parks and Wildlife Act 1974 (NSW) 
+Aboriginal Stakeholders Registered Aboriginal Parties (RAPs) from the EIS 
+AG DCCEEW Australian Government Department of Climate Change, Energy, Environment and 
+Water 
+Ancillary facility A temporary f acility for the construction of the development including an office, 
+accommodation camp, amenities compound, construction compound, material 
+crushing and screening plant, materials storage compound, maintenance workshop, 
+testing laboratory, material stockpile area, tensioning and pulling sites for conductor 
+and earth wire stringing, crane pads, site compounds and equipment laydown areas 
+AS Australian Standard 
+BC Act Biodiversity Conservation Act 2016 
+BCF Charge Quote A determination issued by the Biodiversity Conservation Trust pursuant to the 
+calculator established under Part 6 Division 6 of the BC Act for obligations to deliver: 
+(a) biodiversity credits; and  
+(b) for other kinds of biodiversity offsets - the biodiversity credits which would be 
+equivalent in quantity and type to those other kinds of biodiversity offsets. 
+BCS Biodiversity, Conservation and Science Directorate of the NSW Department of Climate 
+Change, Energy, Environment and Water 
+BCT Biodiversity Conservation Trust 
+BDAR Biodiversity Development Assessment Report (Revision D, prepared by WSP, 
+dated March 2024) 
+Conditions of this approval Conditions contained in Schedules 1 to 2 inclusive 
+Construction All physical work to enable operation, including but not limited to the construction of 
+transmission infrastructure and ancillary facilities carried out before the 
+commencement of operation, excluding pre- construction minor works, road upgrades 
+and operation of the accommodation camps 
+Councils Dubbo Regional Council, Mid-Western Regional Council, Upper Hunter Shire Council 
+and Warrumbungle Shire Council 
+CSSI The Critical State Significant Infrastructure, as described in Schedule 1, the carrying 
+out of which is approved under the terms of this approval 
+Decommissioning The deconstruction and removal of the:  
+• switchbays and substation; 
+• ancillary facilities; and  
+• transmission structures, overhead conductors, earth wires and earthing strips 
+Demolition The deconstruction and removal of buildings, sheds and other structures on the site 
+Department NSW Department of Planning, Housing and Infrastructure 
+Demolition The deconstruction and removal of buildings, sheds and other structures on the site 
+Development The development as generally described in Schedule 1 of this approval, the carrying 
+out of which is approved under the terms of this approval 
+Development area The area subject to disturbance and/or development, as shown on the development 
+layout plans and depicted as the construction area in the EIS 
+Development layout plans The area of the development as depicted on Figure 1-1 to Figure 1-13 in Appendix 1. 
+DPI Department of Primary Industries 
+EIS The Environmental Impact Statement titled Environmental Impact Statement – Central 
+West Orana REZ  Transmission Project , prepared by WSP, dated February 2023 , 
+including the Proponent’s: 
+• Amendment Report, dated March 2024;  
+• Submissions Report, dated March 2024;  
+• BDAR;  
+• additional information dated 14 June 2024; and 
+• Central-West Orana REZ Transmission Project Modification 1 - Request for 
+minor modifications to the condition of approvals, dated September 2024 
+and additional information dated 11 October 2024. 
+EMF Electric and Magnetic Fields 
+EMS Environmental Management System 
+EPA NSW Environment Protection Authority 
+===== PDF PAGE 6 =====
+CONSOLIDATED APPROVAL 
+NSW Government 3 Central-West Orana REZ Transmission 
+Department of Planning, Housing and Infrastructure (SSI 48323210) 
+EP&A Act Environmental Planning and Assessment Act 1979 
+EP&A Regulation Environmental Planning and Assessment Regulation 2021 
+EPBC Act Australian Government  Environment Protection and Biodiversity Conservation Act 
+1999 
+EPL Environment Protection Licence issued under the POEO Act 
+Feasible Means what is possible and practical in the circumstances 
+FCNSW Forestry Corporation of NSW 
+FRNSW Fire and Rescue NSW 
+Harm The same meaning as in the National Parks and Wildlife Act 1974 (NSW) 
+Heavy vehicle As defined by the Heavy Vehicle National Regulator under the Heavy Vehicle National 
+Law 
+Heavy vehicle requiring 
+escort 
+Any vehicle that requires a pilot vehicle and/or escort vehicle, as defined by the 
+National Heavy Vehicle Regulator’s NSW Class 1 Load Carrying Vehicle Operator’s 
+Guide 
+Heritage item An Aboriginal object, an Aboriginal place, or a place, building, work, relic, moveable 
+object, tree or precinct of heritage significance, that is listed under any of the following: 
+the National Parks and Wildlife Act 1974, the State Heritage Register under the 
+Heritage Act 1977, a state agency heritage and conservation register under section 
+170 of the Heritage Act 1977 , a Local Environmental Plan under the EP&A Act, the 
+World Heritage List, or the National Heritage List or Commonwealth Heritage List under 
+the EPBC Act, or anything identified as a heritage item under the conditions of this 
+approval 
+Heritage NSW Heritage Division within NSW DCCEEW 
+Incident An occurrence or set of circumstances that causes, or threatens to cause material harm 
+and which may or may not be or cause a non-compliance. 
+Note: “material harm” is defined in this approval. 
+Land Has the same meaning as the definition of the term in section 1.4 of the EP&A Act , 
+except for where the term is used in the noise and air quality conditions in Schedule 2 
+of this approval where it is defined to mean the whole of a lot, or contiguous lots owned 
+by the same landowner, in a current plan registered at the NSW Land Registry Services 
+Office at the date of this approval 
+Landowner Has the same meaning as “owner” in the Local Government Act 1993 and in relation 
+to a building means the owner of the building 
+LGA Local government area 
+Material harm Is harm that: 
+• involves actual or potential harm to the health or safety of human beings or to the 
+environment that is not trivial, or 
+• results in actual or potential loss or property damage of an amount, or amounts in 
+aggregate, exceeding $10,000, (such loss includes the reasonable costs and 
+expenses that would be incurred in taking all reasonable and practicable 
+measures to prevent, mitigate or make good harm to the environment).  
+This definition excludes “harm” that is authorised under either this approval or any other 
+statutory approval 
+Maximise Implement all reasonable and feasible mitigation measures to achieve the specified 
+outcome 
+Minimise Implement all reasonable and feasible mitigation measures to reduce the impacts of 
+the development 
+Minister NSW Minister for Planning and Public Spaces, or delegate 
+Non-compliance An occurrence, set of circumstances or development that is a breach of this approval 
+NPfI Noise Policy for Industry 2017 (EPA) 
+NPWS National Parks and Wildlife Service 
+NSW New South Wales 
+NSW DCCEEW NSW Department of Climate Change, Energy, the Environment and Water 
+Operation The carrying out of the approved purpose of the development upon completion of 
+construction, but does not include commissioning trials of equipment or use of 
+temporary facilities.  
+Note: There may be overlap between the carrying out of construction and operation if 
+the phases of the development are staged. Commissioning trials of equipment and 
+temporary use of any part of the development are within the definition of construction. 
+Planning Secretary Planning Secretary under the EP&A Act, or nominee 
+POEO Act Protection of the Environment Operations Act 1997 
+===== PDF PAGE 7 =====
+CONSOLIDATED APPROVAL 
+NSW Government 4 Central-West Orana REZ Transmission 
+Department of Planning, Housing and Infrastructure (SSI 48323210) 
+Pre-construction minor 
+works 
+Includes:  
+1. the following activities: 
+• surveys; 
+• building and road dilapidation surveys; 
+• investigative drilling, contamination investigations, excavation or salvage; 
+• establishing and operating temporary accommodation camps (as described 
+in the EIS); 
+• establishing and operating temporary site office (in locations meeting the 
+criteria identified in the conditions of this approval); and 
+• installation of environmental impact mitigation measures, fencing, enabling 
+works; 
+• property acquisition adjustment work including installation of property fencing; 
+• archaeological testing under the Code of practice for archaeological 
+investigation of Aboriginal objects in NSW (DECCW, 2010) or archaeological 
+monitoring; 
+• maintenance of existing buildings and structures required to facilitate the 
+carrying out of the CSSI; 
+2. construction of minor access roads and minor adjustments to services/utilities, 
+etc, for the activities identified in (1) above; and 
+3. minor clearing or translocation of native vegetation for the activities that does 
+not impact biodiversity values that require offsetting 
+Proponent The person identified as such in Schedule 1 of this approval or any other person 
+carrying out any part of the development from time to time under this approval 
+Public infrastructure Linear and related infrastructure that provides services to the general public, such as 
+roads, railways, water supply, drainage, sewerage, gas supply, electricity, telephone, 
+telecommunications, etc 
+Reasonable Means applying judgement in arriving at a decision, taking into account: mitigation 
+benefits, costs of mitigation versus benefits provided, community views, and the nature 
+and extent of potential improvements 
+Residence Existing or approved dwelling at the date of this approval 
+REZ Renewable Energy Zone 
+RFS NSW Rural Fire Service 
+Rehabilitation The restoration of land disturbed by the development to a good condition, to ensure it 
+is safe, stable and non-polluting 
+Site All land to which the development application applies as shown in Appendix 1 
+Standard construction 
+hours 
+7 am to 6 pm Monday to Friday, and 8 am to 1 pm on Saturdays  and at no time on 
+Sundays and NSW public holidays 
+TfNSW Transport for NSW 
+Upgrades and Upgrading The carrying out of works in accordance with the conditions of this approval (including 
+replacing plant, equipment or machinery and updating relevant technology) to improve 
+the efficiency of the development or to enable or enhance its continued operation, and 
+the carrying out of maintenance works (excluding road upgrades). 
+Watercourse A river, creek or other stream, including a stream in the form of an anabranch or 
+tributary, in which water flows permanently or intermittently, regardless of the 
+frequency of flow events. In a natural channel, whether artificially modified or not, or in 
+an artificial channel that has changed the course of the stream. It also includes weirs, 
+lakes and dams. 
+Water Group Water Group within NSW DCCEEW 
+===== PDF PAGE 8 =====
+CONSOLIDATED APPROVAL 
+NSW Government 5 Central-West Orana REZ Transmission 
+Department of Planning, Housing and Infrastructure (SSI 48323210) 
+SUMMARY OF REPORTING REQUIREMENTS 
+Reports and notifications that must be provided to the Planning Secretary under the terms of this approval are listed in the 
+following table. Note that under condition A5 of this approval the Proponent may seek the Planning Secretary’s agreement to 
+a later timeframe for submission (other than in relation to the immediate written notification of an incident required under 
+condition C10). 
+Table 1 Summary of Reporting Requirements 
+Condition Report/Notification Timing Purpose 
+Part A – Administrative Conditions 
+A21 Community Communication Strategy Prior to commencing development Information 
+Part B – Environmental Conditions – General  
+B13 Noise and Vibration Management Plan Prior to commencing construction Approval 
+B22 Biodiversity Offset Package Prior to carrying out any development 
+that could impact on biodiversity values 
+that require offsetting 
+Approval 
+B25 Biodiversity Verification Report Prior to carrying out any development 
+that could impact on the relevant 
+biodiversity values specified in B25(e) 
+Approval 
+B26 Biodiversity Management Plan Prior to carrying out any development 
+that could impact on biodiversity values 
+that require offsetting 
+Approval 
+B28 Heritage Management Plan Prior to carrying out any development 
+that could impact on heritage items 
+Approval 
+B31 Transport strategy Prior to commencing road upgrades 
+specified in Appendix 4 as requiring 
+inclusion in the Transport Strategy 
+Approval 
+B34 Pre-construction Dilapidation Report Prior to commencing construction, 
+upgrading or decommissioning 
+Information 
+B34 Post-construction Dilapidation Report Within 1 month of completion of 
+construction, upgrading or 
+decommissioning 
+Information 
+B35 Traffic and Transport Management Plan Prior to commencing construction or road 
+upgrades 
+Approval 
+B46 Emergency Plan Prior to commencing construction 
+(including the accommodation camp) 
+Information 
+B51 Waste Management Plan Prior to commencing construction Information 
+B53 Accommodation Camp Management Plan Prior to establishing the accommodation 
+camps 
+Approval 
+B54 Local Business and Employment Strategy Prior to commencing construction Information 
+B55 Social Impact Management Plan Prior to commencing construction  Approval 
+Part C – Environmental Management, Reporting and Auditing 
+C1 Environmental Management Strategy Prior to commencing development Approval 
+C7 Notification of commencement of 
+development, construction, operations, 
+upgrading or decommissioning 
+Prior to commencing the relevant phase Information 
+C8 Final Layout Plans Prior to commencing construction Information 
+C9 Work as Executed Plans Prior to commencing operations Information 
+C10 Notification of Incident Immediately upon becoming aware of the 
+incident 
+Information 
+C12 Notification of Non-Compliance Within seven days upon becoming aware 
+of any non-compliance 
+Information 
+  
+===== PDF PAGE 9 =====
+CONSOLIDATED APPROVAL 
+NSW Government 6 Central-West Orana REZ Transmission 
+Department of Planning, Housing and Infrastructure (SSI 48323210) 
+SCHEDULE 2 
+PART A ADMINISTRATIVE CONDITIONS 
+OBLIGATION TO MINIMISE HARM TO THE ENVIRONMENT  
+A1. In meeting the specific performance measures and criteria in this approval, all reasonable and feasible measures 
+must be implemented to prevent, and if prevention is not reasonable and feasible, minimise, any material harm to the 
+environment that may result from the pre-construction minor works, road upgrades, construction, operation, 
+rehabilitation or decommissioning of the development. 
+TERMS OF APPROVAL  
+A2. The development must be carried out: 
+(a) in compliance with the conditions of this approval; 
+(b) in accordance with all written directions of the Planning Secretary;  
+(c) generally in accordance with the EIS; and 
+(d) generally in accordance with the Development Layout in Appendix 1. 
+A3. The Proponent must comply with any requirement/s of the Planning Secretary arising from the Department’s 
+assessment of: 
+(a) any strategies, plans or correspondence that are submitted in accordance with this approval; 
+(b) any reports, reviews or audits commissioned by the Department regarding compliance with this approval; and 
+(c) the implementation of any actions or measures contained in these documents. 
+A4. The conditions of this approval and directions of the Planning Secretary prevail to the extent of any inconsistency, 
+ambiguity or conflict between them and a document listed in condition A2(c) or A2(d). In the event of an 
+inconsistency, ambiguity or conflict between any of the documents listed in condition A2(c) and A2(d), the most 
+recent document prevails to the extent of the inconsistency, ambiguity or conflict. 
+A5. Any document that must be submitted within a timeframe specified in or under the terms of this approval may be 
+submitted within a later timeframe agreed with the Planning Secretary. This condition does not apply to the immediate 
+written notification required in respect of an incident under condition C10.  
+LAPSE OF APPROVAL 
+A6. This approval will lapse if the Proponent does not physically commence the development within 5 years of the date 
+on which it is granted. 
+EVIDENCE OF CONSULTATION  
+A7. Where conditions of this approval require consultation with an identified party, the Proponent must: 
+(a) consult with the relevant party prior to submitting the subject document to the Planning Secretary for approval; 
+and 
+(b) provide details of the consultation undertaken including: 
+(i) the outcome of that consultation, matters resolved and unresolved; and  
+(ii) details of any disagreement remaining between the party consulted and the Proponent and how the 
+Proponent has addressed the matters not resolved. 
+PAYMENT OF REASONABLE COSTS 
+A8. The Proponent must pay all reasonable costs incurred by the Department to engage a suitably qualified, experienced 
+and independent expert(s) to review the adequacy of any strategy, plan, program or report required under this 
+approval. 
+ENVIRONMENTAL REPRESENTATIVE 
+A9. Prior to commencing the development, an Environmental Representative (ER) must be approved by the Planning 
+Secretary and engaged by the Proponent.  
+A10. The Planning Secretary’s approval of an ER must be sought no later than one (1) week before commencing the 
+development. 
+===== PDF PAGE 10 =====
+CONSOLIDATED APPROVAL 
+NSW Government 7 Central-West Orana REZ Transmission 
+Department of Planning, Housing and Infrastructure (SSI 48323210) 
+A11. The proposed ER must be a suitably qualified and experienced person who was not involved in the preparation of the 
+documents listed in condition A2, and is independent from the design and construction of the development. The ER 
+must meet only the requirements set out in section 2.2, 2.3, 2.4 and 3 in the Environmental Representative Protocol 
+(Department of Planning and Environment, October 2018).   
+A12. The Proponent shall engage the Environmental Representative(s) during all construction activities, or as otherwise 
+agreed by the Secretary. The Environmental Representative(s) shall be the Proponent’s principal point of advice in 
+relation to the environmental performance of the project and shall have responsibility for:  
+(a) reviewing the documents identified in Table 1, Schedule 1 and any other documents that are identified by the 
+Planning Secretary, to ensure they are consistent with requirements in or under this approval and if so: 
+(i) make a written statement (including a ‘Review Table’ in Word format) to this effect before submission 
+of such documents to the Planning Secretary (if those documents are required to be approved by the 
+Planning Secretary); or 
+(ii) make a written statement to this effect before the implementation of such documents (if those 
+documents are required to be submitted to the Department for information or are not required to be 
+submitted to the Department); 
+(b) as may be requested by the Planning Secretary, assisting the Department in the resolution of community 
+complaints; 
+(c) considering any minor amendments to be made to the plans/strategies in Table 1, Schedule 1 that involve 
+updating or are of an administrative nature and do not increase impacts to nearby sensitive receivers, and 
+ensure they are consistent with the terms of this approval and, if satisfied such amendment is necessary, 
+approve the amendment. This does not include any modifications to the terms of this approval; 
+(d) overseeing the implementation of all construction environmental management plans and monitoring programs 
+required under this approval, and advise the Proponent upon the achievement of these plans/programs;  
+(e) considering and advising the Proponent on its compliance obligations against all matters specified in the 
+conditions of this approval, and permits and licences; and  
+(f) having the authority and independence to recommend to the Proponent reasonable steps to be taken to avoid 
+or minimise unintended or adverse environmental impacts, and, failing the effectiveness of such steps, to 
+recommend to the Proponent that relevant activities are to be ceased as soon as reasonably practicable if 
+there is a significant risk that an adverse impact on the environment will be likely to occur. 
+A13. The Proponent must provide the ER with all documentation requested by the ER in order for the ER to perform their 
+functions specified in condition A12, as well as the complaints register for any complaints received (on the day they 
+are received). 
+PROTECTION OF PUBLIC INFRASTRUCTURE  
+A14. Unless the Proponent and the applicable authority agree otherwise, the Proponent must: 
+(a) repair, or pay the full costs associated with repairing, any public infrastructure that is damaged by the 
+development; and 
+(b) relocate, or pay the full costs associated with relocating, any public infrastructure that needs to be relocated as 
+a result of the development. 
+Note: This condition does not apply to the upgrade and maintenance of the road network, which is expressly provided for in th e 
+conditions of this approval. 
+DEMOLITION 
+A15. The Proponent must ensure that all demolition work on site is carried out in accordance with AS 2601-2001: The 
+Demolition of Structures (Standards Australia, 2011), or its latest version. 
+STRUCTURAL ADEQUACY 
+A16. All new buildings and structures, and any alterations or additions to existing buildings and structures, that are part of 
+the development, must be constructed in accordance with the relevant requirements of the Building Code of 
+Australia; and where the Building Code of Australia is not applicable, to the relevant Australian Standard.  
+Notes: 
+• Under Part 6 of the EP&A Act, the Proponent is required to obtain construction and occupation certificates for the proposed 
+building works. 
+• Environmental Planning and Assessment (Development Certification and Fire Safety) Regulation 2021 sets out the 
+requirements for the certification of the development.  
+  
+===== PDF PAGE 11 =====
+CONSOLIDATED APPROVAL 
+NSW Government 8 Central-West Orana REZ Transmission 
+Department of Planning, Housing and Infrastructure (SSI 48323210) 
+COMPLIANCE 
+A17. The Proponent must ensure that all of its employees, contractors (and their sub-contractors) are made aware of, and 
+are instructed to comply with, the conditions of this approval relevant to activities they carry out in respect of the 
+development. 
+OPERATION OF PLANT AND EQUIPMENT 
+A18. All plant and equipment used on site, or in connection with the development must be: 
+(a) maintained in a proper and efficient condition; 
+(b) operated in a proper and efficient manner. 
+APPLICABILITY OF GUIDELINES 
+A19. References in the conditions of this approval to any guideline, protocol, Australian Standard or policy are to such 
+guidelines, protocols, Standards or policies in the form they are in as at the date of this approval.  
+A20. However, consistent with the conditions of this approval and without altering any limits or criteria in this approval, the 
+Planning Secretary may, when issuing directions under this approval in respect of ongoing monitoring and 
+management obligations, require compliance with an updated or revised version of such a guideline, protocol, 
+Standard or policy, or a replacement of them.  
+COMMUNITY COMMUNICATION STRATEGY 
+A21. Prior to commencing the development, the Proponent must prepare a Community Communication Strategy to provide 
+mechanisms to facilitate communication between the Proponent and the community (including adjoining affected 
+landowners) during construction. 
+A22. The Community Communication Strategy must: 
+(a) identify landowners and potentially impacted receivers; 
+(b) ensure that the landowners identified in (a) are consulted during construction; 
+(c) set out procedures and mechanisms for the regular distribution of information; 
+(d) establish a public liaison officer(s) to engage with the local community; and 
+(e) set out procedures and mechanisms: 
+(i) through which the community can discuss or provide feedback to the Proponent; 
+(ii) through which the Proponent will respond to enquiries or feedback from the community; and 
+(iii) to resolve any issues and mediate any disputes that may arise in relation to construction of the 
+development. 
+The Proponent must implement the Community Communication Strategy for the duration of construction.  
+  
+===== PDF PAGE 12 =====
+CONSOLIDATED APPROVAL 
+NSW Government 9 Central-West Orana REZ Transmission 
+Department of Planning, Housing and Infrastructure (SSI 48323210) 
+PART B SPECIFIC ENVIRONMENTAL CONDITIONS 
+NOISE AND VIBRATION  
+Construction Hours 
+B1. Pre-construction minor works, road upgrades, construction, demolition, upgrading or decommissioning activities 
+(excluding blasting) may only be undertaken between: 
+(a) 7 am to 6 pm Monday to Friday; 
+(b) 8 am to 1 pm Saturdays; and 
+(c) at no time on Sundays and NSW public holidays; 
+unless the Planning Secretary agrees otherwise. 
+Exceptions to Construction Hours 
+B2. The following activities may be carried outside the hours specified in condition B1 above: 
+(a) the delivery or dispatch of materials as requested by the NSW Police Force or other public authorities for 
+safety reasons; 
+(b) emergency work to avoid the loss of life, property or prevent material harm to the environment; 
+(c) works carried out in accordance with the hours and noise limits specified in any negotiated agreements with 
+sensitive receivers (owners and occupiers), provided the negotiated agreements are in writing and finalised 
+before the commencement of works; 
+(d) activities that do not result in noise affected sensitive receivers, as defined in Interim Construction Noise 
+Guidelines (DECC, 2009) (or its latest version); 
+(e) road upgrades required by the relevant road authority to be undertaken outside the standard construction 
+hours; 
+(f) activities that require a network outage on another distribution or transmission network, and the operator of the 
+network requires the outage and associated works outside standard construction hours; 
+(g) where different hours are permitted or required under an EPL in force in respect of the CSSI; or 
+(h) works carried out in accordance with an Out-of-Hours Work Protocol in accordance with condition B13. 
+Construction and Decommissioning 
+B3. The Proponent must take all reasonable and feasible steps to minimise the pre-construction minor works, road 
+upgrades, construction, upgrading or decommissioning noise of the development in the locations where the noise is 
+audible to sensitive receivers, including any associated traffic noise. 
+B4. The Proponent must ensure that the noise generated by any construction, upgrading or decommissioning activities is 
+managed in accordance with the requirements outlined in the Interim Construction Noise Guideline (DECC, 2009) (or 
+its latest version). 
+B5. The Proponent must implement mitigation measures with the aim of achieving the road traffic noise assessment 
+criteria for land uses from NSW Road Noise Policy (DECCW, 2011). 
+B6. The Proponent must implement mitigation measures with the aim of achieving the following vibration limits: 
+(a) vibration criteria established using the Assessing vibration: a technical guideline (DEC, 2006) (for human 
+exposure); 
+(b) BS 7385 Part 2-1993 “Evaluation and measurement for vibration in buildings Part 2” as they are “applicable to 
+Australian conditions”; and 
+(c) vibration limits set out in the German Standard DIN 4150-3: Structural Vibration – effects of vibration on 
+structures (for structural damage). 
+B7. Where a sensitive receiver is identified as potentially exceeding the construction 'noise affected' noise management 
+level or sleep disturbance criteria established using the Interim Construction Noise Guideline (DECC, 2009), or its 
+latest version, as a result of the construction or operation of the accommodation camps or construction compounds, 
+reasonable and feasible mitigation measures must be implemented with the objective of reducing construction noise 
+below the relevant criteria at each relevant sensitive receiver.  
+Activities that would exceed the 'noise affected' noise management level or sleep disturbance criteria during 
+construction or operation of these facilities must not commerce until the measures identified in this condition have been 
+implemented, unless otherwise agreed with the Planning Secretary  or in accordance with negotiated agreements 
+with the affected sensitive receivers.  
+Note: Mitigation measures may include path barrier controls, at-property treatment, or a combination of path and at-property treatment.  
+===== PDF PAGE 13 =====
+CONSOLIDATED APPROVAL 
+NSW Government 10 Central-West Orana REZ Transmission 
+Department of Planning, Housing and Infrastructure (SSI 48323210) 
+B8. Where a sensitive receiver is identified as potentially exceeding the 'highly noise affected' noise management level 
+established using the Interim Construction Noise Guideline (DECC, 2009), or its latest version, during construction, 
+mitigation measures must be implemented with the objective of reducing construction noise below the highly noise 
+affected noise management level at each relevant sensitive receiver.  
+Activities that would exceed the ‘highly noise affected’ noise management level during construction must not commerce 
+until the measures identified in this condition have been implemented, unless otherwise agreed with the Planning 
+Secretary.  
+Note: Mitigation measures may include path barrier controls, at-property treatment, or a combination of path and at-property treatment. 
+Blasting 
+B9. Unless approved in accordance with condition B1, blasting may only be carried out on the site: 
+(a) between 9 am to 5 pm Monday to Friday; 
+(b) between 9 am to 1 pm on Saturday; and 
+(c) no blasting is allowed on Sunday or NSW public holidays. 
+B10. The Proponent must ensure that any blasting carried out on site does not exceed the criteria in Table 2. 
+Table 2: Blasting Criteria 
+Location Airblast overpressure 
+(dB(Lin Peak) 
+Ground vibration 
+(mm/s) Allowable exceedance 
+Any residential 
+receiver 
+120 10 0% 
+115 5 
+5% of the total number of 
+blasts or events over a rolling 
+period of 12 months 
+Operation 
+B11. Except for corona discharge noise, the Proponent must ensure that the noise generated by the operation of the 
+development does not exceed the project trigger noise levels (PTNL) established in the Noise Policy for Industry 
+(NPfI), at the reasonably most affected point of the residence, at any residential receiver.  
+B12. The Proponent must:  
+(a) take all reasonable and feasible steps to minimise corona discharge noise during operation of the project; 
+(b) identify residences predicted to experience corona discharge noise levels above the PTNL at the reasonably 
+most affected point of the residence, determined in accordance with the NPfI, and how often corona noise is 
+expected to be above this this level per year; 
+(c) identify residences predicted to experience circuit breaker noise levels above the PTNL at the reasonably 
+most affected point of the residence, determined in accordance with the NPfI, and how often this happens 
+during the night-time period; and 
+(d) implement all reasonable and feasible noise mitigation measures, determined in accordance with the NPfI, at 
+receivers predicted to experience corona discharge noise levels or circuit breaker noise levels that exceed the 
+noise levels identified in the PTNL. 
+Noise and Vibration Management Plan 
+B13. Prior to the commencement of construction, the Proponent must prepare a Noise and Vibration Management Plan to 
+the satisfaction of the Planning Secretary. This plan must: 
+(a) ensure the requirements in conditions B1 to B12 are complied with; 
+(b) include a description of the reasonable and feasible measures that would be implemented to minimise noise 
+and vibration impacts of the development; 
+(c) include a detailed description of the noise and vibration management system for the development; 
+(d) include a protocol for the identification, notification and management of works that exceed the noise 
+management levels; 
+(e) include a monitoring program that evaluates and reports on the effectiveness of the noise and vibration 
+management systems; and 
+(f) include an Out-of-Hours Work Protocol to identify a process for the consideration, management and approval 
+of works outside the hours defined in conditions B1 and B9, which must: 
+(i) be prepared in consultation with the relevant Council; 
+(ii) identify low risk activities that can be undertaken without the approval of the Planning Secretary and 
+with the approval of the ER; 
+(iii) identify high risk activities that must be approved by the Planning Secretary; and 
+(iv) identify Department, Council and community notification arrangements for approved out of hours work. 
+Following the Planning Secretary’s approval, t he Proponent must implement the Noise and Vibration Management 
+Plan. 
+===== PDF PAGE 14 =====
+CONSOLIDATED APPROVAL 
+NSW Government 11 Central-West Orana REZ Transmission 
+Department of Planning, Housing and Infrastructure (SSI 48323210) 
+AIR QUALITY 
+B14. In addition to the performance outcomes, commitments and mitigation measures specified in the EIS, the Proponent 
+must take all reasonable steps to: 
+(a) minimise the off-site dust, fume, blast emissions and other air pollutants of the development; and 
+(b) minimise the surface disturbance of the site. 
+SOIL AND WATER 
+Water Supply 
+B15. The Proponent must ensure that it has sufficient water for all stages of the development, and if necessary, adjust the 
+scale of the development to match its available water supply. 
+Note: Under the Water Act 1912 and/or the Water Management Act 2000, the Proponent is required to obtain the necessary water 
+licences before commencing any works which intercept or extract groundwater or surface water (unless an exemption applies). 
+Erosion and Sedimentation 
+B16. The Proponent must: 
+(a) minimise erosion and control sediment generation; and 
+(b) ensure all land disturbances have appropriate drainage and erosion and sediment controls designed, installed 
+and maintained in accordance with Best Practice Erosion and Sediment Control (IECA, 2008), Managing 
+Urban Stormwater – Soils and Construction Volume 1 (Landcom, 2004), Managing Urban Stormwater – Soils 
+and Construction Volume 2A Installation of Services (DECC, 2008) and Managing Urban Stormwater – Soils 
+and Construction Volume 2C Unsealed Roads (DECC, 2008), or their latest versions. 
+Pollution of Waters 
+B17. Unless otherwise authorised by an EPL, the Proponent must ensure the development does not cause any water 
+pollution, as defined under Section 120 of the POEO Act. 
+B18. The Proponent must: 
+(a) design, construct and maintain an appropriate water management system at all substations, concrete batching 
+plants, construction compounds and accommodation camps to prevent pollution; 
+(b) ensure that all liquid waste captured by the substation’s spill oil containment system is classified, transported, 
+and disposed of at a facility that can lawfully accept the waste; and 
+(c) minimise any spills of hazardous materials or hydrocarbons, and clean up any spills as soon as possible after 
+they occur. 
+Riparian Areas 
+B19. The Proponent must ensure: 
+(a) all activities on waterfront land are constructed in accordance with the Guidelines for Controlled Activities on 
+Waterfront Land (DPE 2022), Why do Fish Need to Cross the Road? Fish Passage Requirements for 
+Waterway Crossings (NSW Fisheries 2003) and the Policy and Guidelines for Fish Habitat and Conservation 
+and Management (NSW Fisheries, 2013), unless Water Group agrees otherwise;  
+(b) except for the Talbragar River crossings on Merotherie Road and the Laheys Creek crossing at Spring Ridge 
+Road, the existing or natural hydraulic, hydrologic, geomorphic and ecological functions of all watercourses 
+are maintained; and 
+(c) any changes to the geomorphic condition of the Talbragar River and Laheys Creek during construction must 
+be remediated as soon as practical, and by no later than construction demobilisation.  
+Flooding 
+B20. The Proponent must ensure that the development does not materially alter the flood storage capacity, flows or 
+characteristics in the development area or off-site. 
+  
+===== PDF PAGE 15 =====
+CONSOLIDATED APPROVAL 
+NSW Government 12 Central-West Orana REZ Transmission 
+Department of Planning, Housing and Infrastructure (SSI 48323210) 
+BIODIVERSITY 
+Restrictions on Clearing and Habitat 
+B21. Unless otherwise agreed with the Planning Secretary, the Proponent must: 
+(a) ensure that the vegetation and habitat clearing limits specified in Table 2-1, Table 2-2 and Table 2-3 of 
+Appendix 2 are not exceeded; and  
+(b) minimise: 
+(i) the impacts of the development on hollow-bearing trees; 
+(ii) the impacts of the development on threatened species; and 
+(iii) the clearing of native vegetation and key habitat. 
+Biodiversity Offset Package 
+B22. Prior to carrying out any development that would impact on biodiversity values that require offsetting, the Proponent 
+must prepare a Biodiversity Offset Package (Package) that is consistent with the EIS, in consultation with BCS and 
+BCT and to the satisfaction of the Planning Secretary in writing. The Package must include, but not necessarily be 
+limited to:  
+(a) details of the specific biodiversity offset measures to be implemented and delivered in accordance with the 
+EIS; 
+(b) the cost for each specific biodiversity offset measure, which would be required to be paid into the Biodiversity 
+Conservation Fund if the relevant measure is not implemented and delivered, as determined in accordance 
+with a BCF Charge Quote indexed on a monthly basis in accordance with the Biodiversity Offsets Payment 
+Calculator Order 2022;  
+(c) the timing and responsibilities for the implementation and delivery of the measures required in the Package; 
+and  
+(d) confirmation that the biodiversity offset measures will have been implemented and delivered no later than 
+26 June 2026, unless otherwise agreed with the Planning Secretary.  
+Following the Planning Secretary’s approval, the Proponent must implement and deliver the Biodiversity Offset 
+Package.  
+B23. The Proponent must comply with the terms of the Deed of Agreement with the Planning Secretary executed on 
+19 June 2024 to ensure that the biodiversity offset measures are implemented and delivered in accordance with the 
+Biodiversity Offset Package. 
+Prior to carrying out any development that would impact biodiversity values, the Proponent must demonstrate to the 
+satisfaction of the Secretary that 'Financial Close', as that term is defined in the Deed of Agreement, has occurred.  
+Note: this condition seeks to ensure that appropriate arrangements are made for a source of funds to support the performance of the 
+Proponent’s obligations under this approval in relation to biodiversity offsets. 
+Species Survey Verification  
+B24. Prior to carrying out any development that would impact on the relevant biodiversity values, the Proponent must 
+undertake the following further targeted surveys as committed to in the EIS: 
+(a) for koala, in previously unsurveyed patch sizes of less than 5 hectares; and 
+(b) for Indigofera efoliata and Euphrasia arguta, in the area of assumed presence; 
+to confirm whether additional biodiversity offset measures are required for the koala, or reduced biodiversity offset 
+measures are required for the Indigofera efoliata and Euphrasia arguta.  
+Following the completion of the surveys, any required changes to biodiversity offset measures must be incorporated 
+into a revised version of the Biodiversity Offset Package under condition B22 and addressed in a revised version of the 
+Biodiversity Management Plan required under condition B26, in consultation with BCS, to the satisfaction of the 
+Planning Secretary. 
+Biodiversity Assessment Verification Report 
+B25. Unless otherwise agreed by the Planning Secretary, a Biodiversity Assessment Verification Report must be prepared. 
+The Report must: 
+(a) be prepared prior to carrying out any development that would impact on the relevant biodiversity values 
+specified in condition B25(e); 
+(b) be prepared to the satisfaction of the Planning Secretary; 
+(c) be prepared by a suitably qualified, experienced and independent biodiversity consultant with Biodiversity 
+Assessment Methodology (2020) (BAM) Accreditation whose appointment has been endorsed by the Planning 
+Secretary; 
+(d) be prepared in consultation with BCS;  
+===== PDF PAGE 16 =====
+CONSOLIDATED APPROVAL 
+NSW Government 13 Central-West Orana REZ Transmission 
+Department of Planning, Housing and Infrastructure (SSI 48323210) 
+(e) review the following matters: 
+(i) whether the application of species polygons in the EIS for the large-eared pied bat, eastern cave bat, 
+large bent-winged bat, southern myotis, squirrel glider, Swainsona sericea, pink-tailed legless lizard, 
+little eagle and square-tailed kite are reasonable;  
+(ii) whether complete loss of habitat value should be assumed for the squirrel glider, pale-headed snake, 
+and southern myotis in areas of partial impact, including consideration of the basis for the generation of 
+the species credits for those species; and 
+(iii) whether the 63.61 hectare of land that was classified as PCT 0 in the BDAR should be included as 
+Category 2 – Regulated land; 
+with reference to the Biodiversity Assessment Methodology (2020) or any other guidance document that is 
+relevant and applicable at the time surveys were undertaken or the BDAR was prepared; and 
+provide findings and recommendations relating to the matters in (e), including, but not limited to, options of 
+undertaking additional surveys or reducing the relevant credit obligations. 
+Biodiversity Management Plan 
+B26. Prior to carrying out any development that could impact biodiversity values that require offsetting, the Proponent 
+must prepare a Biodiversity Management Plan for the development to the satisfaction of the Planning Secretary. This 
+plan must: 
+(a) be prepared by a suitably qualified and experienced biodiversity expert/s; 
+(b) be prepared in consultation with BCS and NPWS; 
+(c) be prepared generally in accordance with the BDAR; 
+(d) include a description of the measures that would be implemented for: 
+(i) meeting the biodiversity mitigation requirements in condition B21; 
+(ii) minimising: 
+• the amount of vegetation clearing on site; 
+• the loss of key fauna habitat (including tree hollows); 
+• the impacts of fauna on site, including undertaking pre-clearance surveys; and 
+• potential indirect impacts on threatened flora and fauna species; 
+(iii) ensuring the development does not adversely affect the native vegetation and habitat outside the 
+disturbance footprint; 
+(iv) protocols for unexpected finds of threatened species and threatened ecological communities within the 
+disturbance footprint including the requirements for: 
+• all work in the associated location to stop to prevent further impact, and  
+• notification (in writing) and consultation with the Planning Secretary and BCS (and AG 
+DCCEEW where relevant) on any additional measures to be implemented; and  
+• the Planning Secretary to endorse the recommencement of work;  
+(v) rehabilitation of temporary disturbance areas to facilitate natural regeneration with suitable native 
+species; 
+(vi) monitoring the areas of partial clearance within three months of the commencement of construction 
+and provision of a verification report to confirm if any changes are required to this plan; 
+(vii) maximising the salvage of resources within the approved disturbance area – including vegetative and 
+soil resources – for beneficial reuse (such as fauna habitat enhancement) during the rehabilitation and 
+revegetation of the site; 
+(viii) collecting and propagating seed (where relevant); 
+(ix) controlling erosion, weeds and feral pests;  
+(x) bushfire management; 
+(xi) minimising impacts on entities at risk of a serious and irreversible impact (SAII), including ensuring that 
+an additional 241.16 hectares of Box Gum Woodland and 132.58 hectares of regent honeyeater habitat 
+is securely conserved within a Biodiversity Stewardship Agreement within 3 years (over and above the 
+relevant credit obligations); and 
+(xii) ensure appropriate offsets have been provided to replace the obligations of existing offsets on 
+Moolarben, Wilpinjong and Ulan mines.  
+(e) include a program to monitor, evaluate and publicly report on the effectiveness of these measures. 
+Following the Planning Secretary’s approval, the Proponent must implement the Biodiversity Management Plan. 
+HERITAGE 
+Protection of Heritage Items  
+B27. The Proponent must:  
+(a) ensure the development does not cause any harm to any Aboriginal heritage objects/sites or historic heritage 
+items located outside the approved construction area (see Table 3-1 and Table 3-3 of Appendix 3);  
+(b) manage the sites identified in Table 3-2 of Appendix 3 in accordance with the specified mitigation and 
+management measures and in accordance with the requirements of the Heritage Management Plan, as 
+outlined in condition B28, including any subsequent revision of this plan; 
+===== PDF PAGE 17 =====
+CONSOLIDATED APPROVAL 
+NSW Government 14 Central-West Orana REZ Transmission 
+Department of Planning, Housing and Infrastructure (SSI 48323210) 
+(c) implement all reasonable and feasible measures to avoid and minimise harm to historic heritage items within 
+the approved construction area (identified in Table 3-4 of Appendix 3); and 
+(d) salvage and relocate items that would be impacted to a suitable location, in accordance with the Heritage 
+Management Plan described in condition B28. 
+Heritage Management Plan 
+B28. Prior to carrying out any development that could harm heritage items, the Proponent must prepare a Heritage 
+Management Plan for the development to the satisfaction of the Planning Secretary. This plan must: 
+(a) be prepared by a suitably qualified and experienced Aboriginal cultural heritage specialist whose appointment 
+has been endorsed by the Planning Secretary; 
+(b) be prepared in consultation with Aboriginal Stakeholders, NPWS and reviewed by Heritage NSW; 
+(c) undertake an assessment of the unsurveyed areas of the construction areas, in accordance with Code of Due 
+Diligence;   
+(d) include a description of the measures that would be implemented for: 
+(i) protecting heritage items in accordance with conditions B27(a); 
+(ii) undertaking the management activities specified in Table 3-2 of Appendix 3, including a detailed 
+methodology for each of the approved management activities; 
+(iii) avoiding harm to Laheys Creek Cemetery (CWO-22-HH06), Tallawang Creek Archaeological Site 02 
+(CWO-22-HH11) and the suspected graves and buried architecture within Tallawang Union Church 
+(CWO-22-HH09b) and Tallawang Catholic Church (CWO-22-HH-09c);  
+(iv) undertaking detailed reporting on the outcomes of management activities including (but not limited to) 
+archival recording and analysis of stone artefact assemblages and other information relevant to 
+addressing research questions; 
+(v) a strategy for the management of any salvaged Aboriginal objects; 
+(vi) a contingency plan and reporting procedure if: 
+• heritage items outside the approved construction area are harmed; 
+• previously unidentified heritage items are found; or 
+• skeletal material is discovered;  
+(vii) ensuring workers on site receive suitable heritage inductions prior to carrying out any development on 
+site, and that records are kept of these inductions; and 
+(viii) ongoing consultation with Aboriginal Stakeholders during the implementation of the plan; and 
+(e) include a program to monitor and report on the effectiveness of these measures and any heritage impacts of 
+the project. 
+Following the Planning Secretary’s approval, the Proponent must implement the Heritage Management Plan. 
+TRAFFIC AND TRANSPORT 
+Designated Heavy and Heavy Vehicles Requiring Escort Routes 
+B29. All heavy vehicles requiring escort associated with the development must only travel to and from the site via the 
+construction routes described in the EIS, as identified in Figure 4-1 to Figure 4-4 in Appendix 4, unless the Planning 
+Secretary agrees otherwise. 
+Note: The Proponent is required to obtain relevant permits under the Heavy Vehicle National Law (NSW) for the use of over -
+dimensional vehicles on the road network. 
+B30. All heavy and light vehicles associated with construction, upgrading and decommissioning of the development must 
+travel to and from the site via the construction routes as described in the EIS and identified in the Figure 4-1 to Figure 
+4-4 in Appendix 4, unless the Planning Secretary agrees otherwise. 
+Transport Strategy 
+B31. Prior to commencing road upgrades specified in Appendix 4 as requiring inclusion in the Transport Strategy, 
+the Proponent must prepare a Transport Strategy in consultation with the TfNSW and relevant Councils, to the 
+satisfaction of the Planning Secretary, which: 
+(a) identifies the location and type of any necessary road upgrades (including roads, intersections, crossing 
+points, bridges and access points), including consideration of relevant amenity impacts;  
+(b) ensures the road upgrades comply with the Austroads Guide to Road Design (as amended by TfNSW 
+supplements), unless the relevant road authority agrees otherwise;  
+(c) includes strategic concept designs prepared in accordance with Austroads Guide to Road Design (as 
+amended by TfNSW supplements); 
+(d) includes a detailed assessment of potential impacts of any necessary road upgrades (such as heritage and 
+biodiversity impacts) and appropriate mitigation measures, including consideration of cumulative traffic 
+impacts from approved projects; 
+(e) include a schedule for the commencement and completion of all necessary road upgrades;  
+===== PDF PAGE 18 =====
+CONSOLIDATED APPROVAL 
+NSW Government 15 Central-West Orana REZ Transmission 
+Department of Planning, Housing and Infrastructure (SSI 48323210) 
+(f) includes strategic concept designs for transmission lines crossing state roads and any structures required to 
+facilitate stringing;  
+(g) details the methods for installing transmission lines across State roads, ensuring the number and length of 
+delays is minimised and avoids peak traffic hours for Golden and Castlereagh Highways;  
+(h) identifies whether intersections, crossing points and access points would be permanent or temporary.  
+ 
+Road Upgrades 
+B32. Unless the Planning Secretary agrees otherwise, the Proponent must implement the road upgrades and the 
+mitigation measures identified in the Transport Strategy in condition B31 and Appendix 4 in accordance with the 
+relevant standard and timing requirements in Appendix 4, and to the satisfaction of the relevant roads authority. 
+If there is a dispute about the road upgrade works, or the implementation of these works, then either party may refer 
+the matter to the Planning Secretary for resolution.  
+B33. The road upgrades must be completed within the timeframes specified in the Transport Strategy, as required under 
+Condition B31(e).  
+Road Maintenance 
+B34. The Proponent must: 
+(a) undertake an independent dilapidation survey to assess the: 
+(i) existing condition of all local roads on the transport route shown in Figure 4-1 to Figure 4-4 in 
+Appendix 4 (including local road crossings) prior to construction, upgrading or decommissioning works; 
+and 
+(ii) condition of all local roads on the transport route (including local road crossing); 
+(iii) within 1 month of the completion of construction, upgrading or decommissioning works, or within a 
+timeframe agreed to by the relevant roads authority/manager; 
+(iv) on an annual basis during construction, or within a timeframe agreed to by the relevant roads 
+authority/manager; 
+(b) repair (or pay the full costs associated with repairing) any damage to local roads on the transport route 
+(including local road crossings) that are as a result of the construction, upgrading or decommissioning of 
+the development; 
+(c) prepare a report on the road repairs completed under condition B34(b) in consultation with the relevant 
+roads authority within 6 months of completion of the road repairs.  
+If there is a dispute about the road maintenance works, or the implementation of these works, then either party may 
+refer the matter to the Planning Secretary for resolution. 
+Traffic and Transport Management Plan 
+B35. Prior to commencing construction or road upgrades identified in condition B31 (whichever comes first), the Proponent 
+must prepare a Traffic Management Plan for the development in consultation with NPWS, TfNSW, Dubbo Regional 
+Council, Midwestern Regional Council, Upper Hunter Shire Council, Warrumbungle Shire Council and NSW Police, 
+and to the satisfaction of the Planning Secretary. This plan must include: 
+(a) details of the transport route to be used for all development-related traffic; 
+(b) details of the road upgrade works required by condition B32; 
+(c) details of the measures that would be implemented to comply with the transport management requirements in 
+conditions B29 to B34; 
+(d) details of the measures that would be implemented to: 
+(i) minimise traffic safety impacts of the development and disruptions to local road users during 
+construction, upgrading or decommissioning works, including: 
+• a description of the proposed timeframe and schedule of construction works; 
+• a description of the proposed dilapidation surveys required by condition B34; 
+• a description of the proposed measures for managing traffic flow around the work sites, 
+construction compounds and accommodation camps; 
+• procedures for stringing cables and transmission lines across roads to ensure compliance with 
+Austroads Guide to Traffic Management; 
+• scheduling heavy vehicle movements to avoid peak periods where reasonable and feasible; 
+• minimising convoy lengths; 
+• reducing the speeds of development-related traffic at key intersections; 
+• temporary traffic controls, including detours and signage; 
+• procedures for stringing cables and transmission lines across roads; 
+• notifying the local community about development-related traffic impacts; 
+• procedures for receiving and addressing complaints from the community about development-
+related traffic;  
+• minimising potential cumulative traffic impacts with other projects in the area; 
+===== PDF PAGE 19 =====
+CONSOLIDATED APPROVAL 
+NSW Government 16 Central-West Orana REZ Transmission 
+Department of Planning, Housing and Infrastructure (SSI 48323210) 
+• minimising potential conflict between development-related traffic and rail services, stock 
+movements and school buses, in consultation with local schools, including preventing queueing on 
+the public road network; 
+• implementing measures to minimise development-related traffic on the public road network outside 
+standard construction hours; 
+• minimising dirt and debris tracked on to the public road network from development related-traffic; 
+• details of the employee shuttle bus service, including pick-up and drop-off points and associated 
+parking arrangements for construction workers, and measures to encourage employee use of this 
+service; 
+• car-pooling or ride sharing by employees; 
+• scheduling the haulage vehicle movements to minimise convoy lengths or platoons; 
+• responding to local climate conditions that may affect road safety, such as, fog, dust, wet weather 
+and flooding; 
+• ensuring loaded vehicles entering or leaving the site have their loads covered or contained and 
+leave site in a forward direction; 
+• responding to any emergency repair or maintenance requirements; 
+• provisions for maintaining emergency vehicle access to the site at all times; 
+• a traffic management system for managing over-dimensional vehicles; and 
+• fatigue management; 
+(ii) minimise the impacts of the road and intersection upgrades of the development; 
+(iii) minimises parking on the public road network; 
+(iv) maintain all roads and water-related infrastructure on site in a safe and serviceable condition; 
+(v) minimise the traffic noise impacts of the development; 
+(e) include a drivers code of conduct that addresses: 
+(i) travelling speeds; 
+(ii) procedures to ensure that drivers to and from the development adhere to the designated heavy 
+vehicles requiring escort and heavy vehicle routes; 
+(iii) procedures to ensure that drivers to and from the development implement safe driving practices; and; 
+(iv) including a detailed program to monitor and report on the effectiveness of these measures and the 
+code of conduct. 
+(f) include a program to:  
+(i) ensure drivers working on the development receive suitable training on the code of conduct and any 
+other relevant obligations under the Traffic and Transport Management Plan; 
+(ii) record and track vehicle movements; and 
+(iii) monitor and publicly report on the effectiveness of these measures. 
+(g) a flood response plan detailing procedures and options for safe access to and from the site in the event of 
+flooding.  
+Following the Planning Secretary’s approval, the Proponent must implement the Traffic and Transport Management 
+Plan. 
+VISUAL AMENITY 
+Visual Impact Mitigation 
+B36. Unless the Planning Secretary agrees otherwise, for a period of 2 years from the commencement of operations, the 
+owners of receivers 198, 207, 350, 354, 357, 373, 539, 672, 717, 719, and 1195 as identified in the EIS may ask the 
+Proponent to implement visual impact mitigation measures on their land to minimise the visual impacts of the 
+development on their residence (including its curtilage). 
+Upon receiving such a written request from the owner of these residences, the Proponent must implement appropriate 
+mitigation measures (such as landscaping and vegetation screening) in consultation with the owner. These mitigation 
+measures must be reasonable and feasible, aimed at reducing the visibility of the transmission line and towers from 
+the residence and its curtilage, and commensurate with the level of visual impact on the residence. 
+All agreed mitigation measures must be implemented within 12 months of receiving the written request, unless the 
+Planning Secretary agrees otherwise. 
+If the Proponent and the owner cannot agree on the measures to be implemented, or there is a dispute about the 
+implementation of these measures, then either party may refer the matter to the Planning Secretary for resolution. 
+To avoid any doubt, mitigation measures are not required to be implemented to reduce the visibility of transmission 
+lines and towers from any other locations on the property other than the residence and its curtilage.  
+===== PDF PAGE 20 =====
+CONSOLIDATED APPROVAL 
+NSW Government 17 Central-West Orana REZ Transmission 
+Department of Planning, Housing and Infrastructure (SSI 48323210) 
+ 
+B37. Prior to submitting the Final Layout Plans for towers located within 450 m of receiver 198 the Proponent must provide 
+reasonable and feasible measures or negotiated agreement to minimise the visual impacts on receiver 198, including 
+increasing setbacks, in consultation with the owner of the receivers, to the satisfaction of the Planning Secretary.  
+Following approval by the Planning Secretary, the Proponent must implement these measures. 
+Visual Appearance 
+B38. The Proponent must: 
+(a) take reasonable steps to minimise the visual impacts of the development; and 
+(b) not mount any advertising signs or logos on site, except where this is required for identification or safety 
+purposes. 
+Lighting 
+B39. The Proponent must: 
+(a) take all reasonable steps to minimise the off-site visual impacts of the development; and 
+(b) ensure that any external lighting associated with the development: 
+(i) is installed as low intensity lighting (except where required for safety or emergency purposes); 
+(ii) does not shine above the horizontal; and 
+(iii) complies with Australian/New Zealand Standard AS/NZS 4282:2019 – Control of Obtrusive Effects of 
+Outdoor Lighting. 
+RADIOCOMMUNICATIONS 
+B40. Prior to submitting the Final Layout Plans for tower locations, the Proponent must take all reasonable and feasible 
+measures to avoid impacts to the Public Safety Network microwave link paths, including relocating towers to avoid 
+the 100 m exclusion zone, in consultation with the NSW Telecommunications Authority.  
+B41. If the Proponent cannot avoid the 100 m exclusion zone, the Proponent must ensure there is no disruption to the 
+Public Safety Network microwave link paths in the area in consultation with the NSW Telecommunications Authority 
+prior to constructing towers within the exclusion zone.  
+B42. If the development results in the disruption to any radio communications services (including point-to-point microwave 
+links) in the area, then the Proponent must make good any disruption to these services as soon as possible following 
+the disruption, but no later than 1 month following the disruption of the service unless the relevant service provider or 
+user or Planning Secretary agrees otherwise. 
+HAZARD AND RISK 
+Dangerous Goods 
+B43. The Proponent must ensure that the storage, handling, and transport of dangerous goods is undertaken in 
+accordance with the relevant Australian Standards and guidelines, particularly AS1940 The storage and handling of 
+flammable and combustible liquids and AS/NZS 1596:2014 The storage and handling of LP Gas, the Dangerous 
+Goods Code, and the EPA’s Storing and Handling of Liquids: Environmental Protection – Participants Manual. 
+Electric and Magnetic Fields 
+B44. The Proponent must ensure that the design, construction and operation of the development is managed to comply 
+with the applicable electric and magnetic fields (EMF) limits in the International Commission on Non-Ionizing 
+Radiation Protection (ICNIRP) Guidelines for limiting exposure to time-varying electric and magnetic fields (1Hz – 100 
+kHz) (ICNIRP, 2010).  
+BUSHFIRE SAFETY 
+Operating Conditions 
+B45. The Proponent must: 
+(a) minimise the fire risks of the development, including managing vegetation fuel loads on-site; 
+(b) ensure that the development; 
+(i) complies with the relevant asset protection requirements in the RFS’s Planning for Bushfire Protection 
+2019 (or equivalent) and Standards for Asset Protection Zones;  
+(ii) is suitably equipped to respond to any fire on site, including provision of a 20,000 litre water supply 
+tank fitted with a 65 mm Storz fitting and a FRNSW compatible suction connection located at each of 
+the construction compounds; 
+===== PDF PAGE 21 =====
+CONSOLIDATED APPROVAL 
+NSW Government 18 Central-West Orana REZ Transmission 
+Department of Planning, Housing and Infrastructure (SSI 48323210) 
+(iii) incorporates the recommendations of a fire risk assessment as per the network operator’s design 
+standards; 
+(c) ensures that buildings within the compounds comply with Australian Standard AS3959-2018 Construction of 
+buildings in bushfire-prone areas (or equivalent) and RFS’s Planning for Bushfire Protection 2019; 
+(d) ensure any fire trails or asset protection zones associated with the development are wholly contained within 
+the approved disturbance area; 
+(e) develop procedures to manage potential fires on site, in consultation with the RFS, FRNSW, FCNSW and 
+NPWS; 
+(f) assist the RFS, FRNSW, FCNSW, NPWS and emergency services as much as practicable if there is a fire in 
+the vicinity of the site; and 
+(g) notify the relevant local emergency management committee following completion of construction of the 
+development, and prior to commencing operations.  
+ 
+Emergency Plan 
+B46. Prior to commencing construction (including the accommodation camp), the Proponent must develop and implement 
+a comprehensive Emergency Plan and detailed emergency procedures for the development, including an evacuation 
+plan for the accommodation camps, and provide a copy of the plan to the local Fire Control Centre and FRNSW. The 
+Applicant must keep two copies of the plan on-site in a prominent position adjacent to the site entry point at all times. 
+The plan must: 
+(a) be consistent with the Department’s Hazardous Industry Planning Advisory Paper No. 1, ‘Emergency 
+Planning’ and RFS’s Planning for Bushfire Protection 2019 (or equivalent); 
+(b) be consistent with the NSW RFS document: A Guide to Developing a Bush Fire Emergency Management and 
+Evacuation Plan; 
+(c) detail access provisions for emergency vehicles and contact details for both a primary and alternative site 
+contact who may be reached 24/7 in the event of an emergency; 
+(d) include procedures for the storage and maintenance of any flammable materials; 
+(e) include fire emergency management planning, including: 
+(i) details of the location, management and maintenance of the Asset Protection Zone and on-site water 
+supply tanks; 
+(ii) a list of works that should not be carried out during a total fire ban; 
+(iii) identify the fire risks and hazards and details measure for the development to prevent fires igniting; 
+(iv) include availability of fire suppression equipment, access and water; 
+(v) details of how RFS would be notified, and procedures that would be implemented in the event that: 
+• there is a fire on-site or in the vicinity of the site; 
+• there are any activities on site that would have the potential to ignite surrounding vegetation; or 
+• there are any proposed activities to be carried out during a bushfire danger period; and 
+(vi) detail specific response measures in the case of flood to ensure site safety; 
+(vii) describe the specific emergency exit routes to be used in the case of flood and include evidence of 
+access agreements with relevant landowners (e.g. right of carriageway); and  
+(viii) include an Emergency Services Information Package in accordance with Emergency Services 
+information and tactical fire plan (FRNSW, 2019) to the satisfaction of FRNSW and RFS;  
+(ix) operational procedures in the event of bushfires to minimise interference with aerial firefighting 
+operations; and 
+(x) include details of how live transmission infrastructure can be safely isolated in an emergency. 
+WASTE 
+B47. Waste generated during pre-construction minor works, road upgrades, construction, operation, upgrading and 
+decommissioning must be dealt with in accordance with the following priorities: 
+(a) waste generation must be avoided and where avoidance is not reasonably practicable, waste generation must 
+be reduced; 
+(b) where avoiding or reducing waste is not possible, waste must be re-used, recycled, or recovered; and 
+(c) where re-using, recycling or recovering waste is not possible, waste must be treated or disposed of.  
+B48. The importation of waste and storage, treatment, processing, reprocessing or disposal of such waste must comply 
+with the Protection of the Environment Operations Act 1997, the Protection of the Environment Operations (Waste) 
+Regulation 2014, and orders or exemptions under the regulation. 
+B49. Waste must only be exported to a site licensed by the EPA for the storage, treatment, processing, reprocessing or 
+disposal of the subject waste, or in accordance with a Resource Recovery Exemption or Order issued under the 
+Protection of the Environment Operations (Waste) Regulation 2014, or to any other place that can lawfully accept 
+such waste. 
+B50. All waste that is removed from site must be classified in accordance with the EPA’s Waste Classification Guidelines, 
+with appropriate records and disposal dockets retained for audit purposes. 
+===== PDF PAGE 22 =====
+CONSOLIDATED APPROVAL 
+NSW Government 19 Central-West Orana REZ Transmission 
+Department of Planning, Housing and Infrastructure (SSI 48323210) 
+B51. Prior to commencing construction, the Proponent must prepare and implement a Waste Management Plan in 
+consultation with EPA, Dubbo Regional Council, Mid-Western Regional Council and Warrumbungle Shire Council. 
+This program must detail:  
+(a) the quantity, type and source of waste received;  
+(b) the quantity, type and quality of the waste produced and their intended fate; 
+(c) the intended fates of all other waste and materials received/produced on site which are not suitable for re-use; 
+(d) any materials produced which will require a specific Resource Recovery Order; 
+(e) any materials produced under a Resource Recovery Order, and the controls and procedures in place for 
+meeting the conditions of that order; 
+(f) any testing or monitoring procedures; 
+(g) how materials segregation will be achieved, particularly the segregation of contaminated soils and resource 
+recovery materials; and 
+(h) the capability of the waste management facilities in Dubbo, Mid-western and Warrumbungle LGAs to accept 
+the volumes of waste predicted to be deposited and any associated approvals required to create and/or 
+expand waste storage or disposal facilities. 
+ACCOMMODATION CAMPS 
+B52. Unless the Planning Secretary agrees otherwise, the proponent must construct and operate the accommodation 
+camps as described in the EIS and in Appendix 1 of this approval, in accordance with staging set out in B53(e), prior 
+to commencing construction.  
+B53. Prior to commencing construction of the accommodation camps, the Proponent must prepare an Accommodation 
+Camp Management Plan in consultation with the relevant Council and TfNSW, and to the satisfaction of the Planning 
+Secretary. Unless the Planning Secretary agrees otherwise, the plan must: 
+(a) ensure utilities at the accommodation camps, including water, wastewater, waste and electricity, are designed 
+and located in accordance with the relevant Council specifications and relevant standards; 
+(b) ensure the accommodation camps comply with conditions B20 and B45; 
+(c) ensure any treated wastewater from the accommodation camps used for dust suppression during 
+construction: 
+(i) complies with the Australian and New Zealand Environment and Conservation Council (ANZECC) & 
+Agriculture and Resource Management Council of Australia and New Zealand (ARMCANZ) (2000) 
+Guidelines for irrigation water quality; 
+(ii) meets the requirements of the Public Health Act 2010; 
+(d) include measures for dust suppression within the accommodation camp; 
+(e) quantify the proposed capacity of workers accommodated at each accommodation camp or stage of 
+accommodation camp and how the proposed staging of the camp meets the construction workforce for that 
+stage timeframe; 
+(f) provide the site layout including building locations, vehicle access and movement, site servicing and utilities 
+infrastructure;  
+(g) include measures to support local suppliers in servicing the camp where possible; and 
+(h) include measures to facilitate worker cohesion, safety, health and wellbeing and provision of on-site medical 
+services.  
+The Proponent must implement the Accommodation Camp Management Plan. 
+LOCAL BUSINESS AND EMPLOYMENT STRATEGY 
+B54. Prior to commencing construction, the Proponent must prepare a Local Business and Employment Strategy for the 
+development in consultation with the relevant Council. This strategy must: 
+(a) consider the cumulative impacts associated with other State significant projects in the area; and 
+(b) investigate options for prioritising the employment of local and Aboriginal workforce and suppliers for the 
+construction of the development, where feasible. 
+The Proponent must implement the Local Business and Employment Strategy. 
+SOCIAL 
+Social Impact Management Plan 
+B55. Prior to commencing construction, the Proponent must prepare a Social Impact Management Plan for the 
+development, to the satisfaction of the Planning Secretary. This plan must: 
+(a) be prepared by suitably qualified and experienced persons/s; 
+(b) be prepared having regard to the EIS commitments for the preparation of the Social Impact Management 
+Plan; 
+===== PDF PAGE 23 =====
+CONSOLIDATED APPROVAL 
+NSW Government 20 Central-West Orana REZ Transmission 
+Department of Planning, Housing and Infrastructure (SSI 48323210) 
+(c) be developed in consultation with Dubbo Regional, Mid-Western Regional, Warrumbungle Shire and Upper 
+Hunter Shire councils, and relevant affected stakeholders; 
+(d) include a summary of the social baseline and assessment of social impacts and risks, including the social 
+impact ratings; 
+(e) refer to and be consistent with the strategy in condition A22; 
+(f) describe the measures that would be implemented to enhance positive social impacts from the development; 
+(g) describe the measures that would be implemented to manage and mitigate negative (and cumulative) social 
+impacts, including: 
+(i) impacts to near neighbours and the broader community; 
+(ii) impacts to community cohesion, safety, health and wellbeing; 
+(iii) access to social infrastructure and services; 
+(iv) impacts to housing availability and affordability; 
+(v) impacts to tourism; 
+(vi) labour draw and impacts to local businesses and services; 
+(vii) consideration of cumulative social impacts associated with other State significant development 
+projects in the area 
+(h) include a program to monitor, evaluate and publicly report on the effectiveness of these measures and any 
+social impacts of the development, including: 
+(i) identifying performance indicators, incorporating trigger action response plan; 
+(ii) a yearly independent survey of the attitudes of the community about the development; 
+(iii) procedures for analysing and comparing the results of monitoring and surveys against the baseline, the 
+predicted social impacts and results of previous monitoring and surveys; 
+(iv) recording community engagement and complaints as they relate to social issues; 
+(v) adaptive management measures implemented or proposed; and 
+(vi) preparing a quarterly monitoring report, to be publicly available on the project website; and 
+(i) include details of who would be responsible for monitoring, reviewing and implementing the plan. 
+Following the Planning Secretary’s approval, the Proponent must implement the Social Impact Management Plan for 
+the duration of construction.  
+REHABILITATION 
+B56. Unless the Planning Secretary agrees otherwise, within 12 months of commencing operation of the project, the 
+Proponent must decommission and rehabilitate the accommodation camps to the satisfaction of the Planning 
+Secretary. This rehabilitation must comply with the objectives in Table 3. 
+Table 3: Rehabilitation Objectives 
+Feature Objective 
+Accommodation 
+camp 
+• Safe, stable and non-polluting 
+• All infrastructure including above and below ground to be decommissioned and 
+removed to a depth of 500 mm, unless the Planning Secretary agrees otherwise 
+• Restoring land capability to pre-existing productive capacity 
+• Ensure public safety at all times 
+B57. Unless the Planning Secretary agrees otherwise, within 6 months of the completion of construction, upgrading or 
+decommissioning, the Proponent must rehabilitate the areas where ancillary facilities and earthwork material sites are 
+located. This rehabilitation must comply with the objectives in Table 4. 
+Table 4: Rehabilitation Objectives 
+Feature Objective 
+Ancillary facilities • Safe, stable and non-polluting 
+• progressively rehabilitate the site as soon as possible following disturbance 
+• to be decommissioned and removed, unless the Planning Secretary agrees 
+otherwise 
+Land Use • Restore or maintain land capability to pre-existing use 
+Community • Ensure public safety 
+===== PDF PAGE 24 =====
+CONSOLIDATED APPROVAL 
+ 
+NSW Government 21 Central-West Orana REZ Transmission 
+Department of Planning, Housing and Infrastructure (SSI 483232310) 
+PART C ENVIRONMENTAL MANAGEMENT, REPORTING AND AUDITING 
+ENVIRONMENTAL MANAGEMENT STRATEGY 
+C1. Prior to commencing the development, the Proponent must prepare an Environmental Management Strategy 
+for the development to the satisfaction of the Planning Secretary. This strategy must: 
+(a) provide the strategic framework for environmental management of the development; 
+(b) identify the statutory approvals that apply to the development; 
+(c) describe the role, responsibility, authority and accountability of all key personnel involved in the 
+environmental management of the development; 
+(d) set out the procedures that would be implemented to: 
+(i) keep the local community and relevant agencies informed about the operation and 
+environmental performance of the development; 
+(ii) receive, handle, respond to, and record complaints; 
+(iii) resolve any disputes that may arise; 
+(iv) respond to any non-compliance; 
+(v) respond to emergencies; and 
+(e) include: 
+(i) references to any strategies, plans and programs approved under the conditions of this 
+approval; and 
+(ii) a clear plan depicting all the monitoring to be carried out in relation to the development, 
+including a table summarising all the monitoring and reporting obligations under the conditions 
+of this approval. 
+The Proponent must not commence construction until the Environmental Management Strategy is approved 
+by the Planning Secretary.  
+Following the Planning Secretary’s approval, the Proponent must implement the Environmental Management 
+Strategy. 
+REVISION OF STRATEGIES, PLANS AND PROGRAMS 
+C2. The Proponent must review and, if necessary, revise the strategies, plans or programs required under this 
+approval to the satisfaction of the Planning Secretary within 3 months of the: 
+(a) the submission of an incident report under condition C10; 
+(b) the submission of an Independent Audit under condition C14; 
+(c) any modification of the conditions of this approval; or 
+(d) the issue of a direction of the Planning Secretary under condition A3 which requires a review. 
+STAGING, COMBINING AND UPDATING STRATEGIES, PLANS OR PROGRAMS 
+C3. With the approval of the Planning Secretary, the Proponent may: 
+(a) prepare and submit any strategy, plan or program required by this approval on a staged basis (if a 
+clear description is provided as to the specific stage and scope of the development to which the 
+strategy, plan or program applies, the relationship of the stage to any future stages and the trigger for 
+updating the strategy, plan or program); 
+(b) combine any strategy, plan or program required by this approval (if a clear relationship is 
+demonstrated between the strategies, plans or programs that are proposed to be combined); and 
+(c) update any strategy, plan or program required by this approval (to ensure the strategies, plans and 
+programs required under this approval are updated on a regular basis and incorporate additional 
+measures or amendments to improve the environmental performance of the development). 
+C4. If the Planning Secretary agrees, a strategy, plan or program may be staged or updated without consultation 
+being undertaken with all parties required to be consulted in the relevant condition in this approval. 
+C5. If approved by the Planning Secretary, updated strategies, plans or programs supersede the previous 
+versions of them and must be implemented in accordance with the condition that requires the strategy, plan 
+or program. 
+C6. If the Planning Secretary agrees, a strategy, plan or program may be staged without addressing particular 
+requirements of the relevant condition of this approval if those requirements are not applicable to the 
+particular stage. 
+===== PDF PAGE 25 =====
+CONSOLIDATED APPROVAL 
+ 
+NSW Government 22 Central-West Orana REZ Transmission 
+Department of Planning, Housing and Infrastructure (SSI 483232310) 
+NOTIFICATIONS 
+Notification of Department 
+C7. Prior to commencing development, construction, operations, upgrading or decommissioning of the 
+development, the Proponent must notify the Department in writing via the Major Projects website portal of the 
+date of commencing the relevant phase. 
+If any of these phases of the development are to be staged, then the Proponent must notify the Department in 
+writing prior to commencing the relevant stage, and clearly identify the development that would be carried out 
+during the relevant stage. 
+Final Layout Plans 
+C8. Prior to commencing construction, the Proponent must submit detailed plans of the final layout of the 
+development to the Department via the Major Projects website, including: 
+(a) details on siting of transmission towers and ancillary infrastructure and / or ancillary facilities; and 
+(b) showing comparison to the approved layout and approved vegetation clearing. 
+The Proponent must ensure that the development is constructed in accordance with the Final Layout Plans. 
+Works as Executed Plans 
+C9. Prior to commencing operations, the Proponent must submit plans that confirm the constructed layout of the 
+development and showing comparison to the final layout plans to the Planning Secretary, via the Major 
+Projects website. 
+Incident Notification 
+C10. The Department must be notified via the Major Projects website portal immediately after the Proponent 
+becomes aware of an incident. The notification must identify the development (including the development 
+application number and the name of the development if it has one),and set out the location and nature of the 
+incident. Subsequent notification requirements must be given, and reports submitted in accordance with the 
+requirements set out in Appendix 5. 
+Non-Compliance Notification 
+C11. The Planning Secretary must be notified in writing via the Major Projects website portal within seven days 
+after the Proponent becomes aware of any non-compliance. 
+C12. A non-compliance notification must identify the development and the application number for it, set out the 
+condition of approval that the development is non-compliant with, the way in which it does not comply and the 
+reasons for the non-compliance (if known) and what actions have been, or will be, undertaken to address the 
+non-compliance. 
+Note: A non-compliance which has been notified as an incident does not need to also be notified as a non-compliance. 
+Notification of Landowners 
+C13. Prior to the commencement of construction, the Proponent must notify the owners of receivers 198, 207, 350, 
+354, 357, 373, 539, 672, 717, 719, 741 and 1195 as identified in the EIS of their rights under condition B36 
+and B37. 
+INDEPENDENT ENVIRONMENTAL AUDIT 
+C14. Independent Audits of the development must be conducted and carried out in accordance with the 
+Independent Audit Post Approval Requirements (2020), unless otherwise agreed or directed by the Planning 
+Secretary. 
+C15. In accordance with the specific requirements in the Independent Audit Post Approval Requirements (2020), 
+the Proponent must: 
+(a) review and respond to each Independent Audit Report prepared under condition C14, or where given 
+notice by the Planning Secretary; and 
+(b) submit the response to the Planning Secretary. 
+C16. Make each Independent Audit Report, and response to it, publicly available within 60 days of submission to 
+the Planning Secretary. 
+===== PDF PAGE 26 =====
+CONSOLIDATED APPROVAL 
+ 
+NSW Government 23 Central-West Orana REZ Transmission 
+Department of Planning, Housing and Infrastructure (SSI 483232310) 
+ACCESS TO INFORMATION 
+C17. The Proponent must: 
+(a) make the following information and documents publicly available on its website as relevant to the 
+stage of the development: 
+(i) the EIS; 
+(ii) the final layout plans for the development; 
+(iii) current statutory approvals for the development; 
+(iv) approved strategies, plans or programs required under the conditions of this approval; 
+(v) the proposed staging plans for the development if the construction, operation and/or 
+decommissioning of the development is to be staged; 
+(vi) a comprehensive summary of the monitoring results of the development, which have been 
+reported in accordance with the various plans and programs approved under the conditions of 
+this approval; 
+(vii) how complaints about the development can be made; 
+(viii) a record of complaints, which is to be updated on a monthly basis; 
+(ix) any independent environmental audit, and the Proponent’s response to the recommendations 
+in any audit; and 
+(x) any other matter required by the Planning Secretary; and 
+(b) keep such information up to date. 
+===== PDF PAGE 27 =====
+CONSOLIDATED APPROVAL 
+ 
+NSW Government 24 Central-West Orana REZ Transmission  
+Department of Planning, Housing and Infrastructure (SSI 48323210) 
+APPENDIX 1  
+DEVELOPMENT LAYOUT 
+ 
+Figure 1-1 | Project overview 
+
+===== PDF PAGE 28 =====
+CONSOLIDATED APPROVAL 
+ 
+NSW Government 25 Central-West Orana REZ Transmission  
+Department of Planning, Housing and Infrastructure (SSI 48323210) 
+ 
+Figure1-2 | Construction overview 1 of 12 
+
+===== PDF PAGE 29 =====
+CONSOLIDATED APPROVAL 
+ 
+NSW Government 26 Central-West Orana REZ Transmission  
+Department of Planning, Housing and Infrastructure (SSI 48323210) 
+ 
+Figure 1-3 | Construction overview 2 of 12 
+
+===== PDF PAGE 30 =====
+CONSOLIDATED APPROVAL 
+ 
+NSW Government 27 Central-West Orana REZ Transmission  
+Department of Planning, Housing and Infrastructure (SSI 48323210) 
+ 
+Figure 1-4 | Construction overview 3 of 12 
+
+===== PDF PAGE 31 =====
+CONSOLIDATED APPROVAL 
+ 
+NSW Government 28 Central-West Orana REZ Transmission  
+Department of Planning, Housing and Infrastructure (SSI 48323210) 
+ 
+Figure 1-5 | Construction overview 4 of 12 
+
+===== PDF PAGE 32 =====
+CONSOLIDATED APPROVAL 
+ 
+NSW Government 29 Central-West Orana REZ Transmission  
+Department of Planning, Housing and Infrastructure (SSI 48323210) 
+ 
+Figure 1-6 | Construction overview 5 of 12 
+
+===== PDF PAGE 33 =====
+CONSOLIDATED APPROVAL 
+ 
+NSW Government 30 Central-West Orana REZ Transmission  
+Department of Planning, Housing and Infrastructure (SSI 48323210) 
+ 
+Figure 1-7 | Construction overview 6 of 12 
+
+===== PDF PAGE 34 =====
+CONSOLIDATED APPROVAL 
+ 
+NSW Government 31 Central-West Orana REZ Transmission  
+Department of Planning, Housing and Infrastructure (SSI 48323210) 
+ 
+Figure 1-8 | Construction overview 7 of 12 
+
+===== PDF PAGE 35 =====
+CONSOLIDATED APPROVAL 
+ 
+NSW Government 32 Central-West Orana REZ Transmission  
+Department of Planning, Housing and Infrastructure (SSI 48323210) 
+ 
+Figure 1-9 | Construction overview 8 of 12 
+
+===== PDF PAGE 36 =====
+CONSOLIDATED APPROVAL 
+ 
+NSW Government 33 Central-West Orana REZ Transmission  
+Department of Planning, Housing and Infrastructure (SSI 48323210) 
+ 
+Figure 1-10 | Construction overview 9 of 12 
+
+===== PDF PAGE 37 =====
+CONSOLIDATED APPROVAL 
+ 
+NSW Government 34 Central-West Orana REZ Transmission  
+Department of Planning, Housing and Infrastructure (SSI 48323210) 
+ 
+Figure 1-11 | Construction overview 10 of 12 
+
+===== PDF PAGE 38 =====
+CONSOLIDATED APPROVAL 
+ 
+NSW Government 35 Central-West Orana REZ Transmission  
+Department of Planning, Housing and Infrastructure (SSI 48323210) 
+ 
+Figure 1-12 | Construction overview 11 of 12 
+
+===== PDF PAGE 39 =====
+CONSOLIDATED APPROVAL 
+ 
+NSW Government 36 Central-West Orana REZ Transmission  
+Department of Planning, Housing and Infrastructure (SSI 48323210) 
+ 
+Figure 1-13 | Construction overview 12 of 12 
+
+===== PDF PAGE 40 =====
+CONSOLIDATED APPROVAL 
+NSW Government 37 Central-West Orana Transmission  
+Department of Planning, Housing and Infrastructure (SSI 48323210) 
+APPENDIX 2 BIODIVERSITY 
+ 
+Table 2-1: Clearing limits for threatened ecological communities 
+Threatened Ecological Community* Conservation 
+significance  
+Impact 
+(hectares) 
+BC Act EPBC Act 
+PCT 81 - Western Grey Box – cypress pine shrub grass shrub tall 
+woodland in the Brigalow Belt South Bioregion 
+E E 13.7 
+PCT 202 - Fuzzy Box woodland on colluvium and alluvial flats in the 
+Brigalow Belt South Bioregion (including Pilliga) and Nandewar 
+Bioregion 
+E - 4.44 
+PCT 266 - White Box grassy woodland in the upper slopes sub-
+region of the NSW South Western Slopes Bioregion 
+CE CE 24.25 
+PCT 277 - Blakely’s Red Gum – Yellow Box grassy tall woodland of 
+the NSW South Western Slopes Bioregion 
+CE CE 98.77 
+PCT 281 - Rough-barked Apple – Red Gum – Yellow Box woodland 
+on alluvial clay to loam soils on valley flats in the northern NSW 
+South western slopes Bioregion and Brigalow Belt South Bioregion 
+CE CE 309.20 
+PCT 401 - Rough-barked Apple – Blakely's Red Gum – Black 
+Cypress Pine woodland on sandy flats, mainly in the Pilliga Scrub 
+region 
+CE CE 35.89 
+PCT 483 - Grey Box x White Box grassy open woodland on basalt 
+hills in the Merriwa region, upper Hunter Valley 
+CE CE 93.69 
+PCT 589 - White Box – White Cypress Pine – Silver-leaved 
+Ironbark grassy woodland on mainly clay loam soils on hills mainly 
+in the Nandewar Bioregion 
+CE CE 12.21 
+PCT 599 - Blakely’s Red Gum – Yellow Box grassy tall woodland 
+on flats and hills in the Brigalow Belt South Bioregion and 
+Nandewar Bioregion 
+CE CE 7.41 
+PCT 618 - White Box x Grey Box – red gum – Rough-barked Apple 
+grassy woodland on rich soils on hills in the upper Hunter Valley 
+CE CE 139.4 
+* BC Act community is referenced unless listing is only relevant to the EPBC Act 
+Table 2-2: Clearing limits for threatened flora species 
+Species Common name 
+Conservation 
+significance Impact 
+(hectares) 
+BC Act EPBC Act 
+Acacia ausfeldii Ausfeld's wattle V - 21.13 
+Dichanthium setosum bluegrass V V 6.85 
+Diuris tricolor pine donkey orchid V - 26.46 
+Eucalyptus camaldulensis population in the Hunter catchment E  5.6 
+Euphrasia arguta CE CE 107.8 
+Homoranthus darwinioides  fairy bells V V 3.39 
+Indigofera efoliata leafless indigo E E 0.82 
+Leucochrysum albicans subsp. 
+Tricolor 
+hoary sunray E E 6 plants 
+Pomaderris cotoneaster  cotoneaster pomaderris E E 4.35 
+Pomaderris queenslandica scant pomaderris E - 2.35 
+Prasophyllum petilum tarengo leek orchid E E 76.3 
+===== PDF PAGE 41 =====
+CONSOLIDATED APPROVAL 
+ 
+NSW Government 38 Central-West Orana REZ Transmission  
+Department of Planning, Housing and Infrastructure (SSI 48323210) 
+Species Common name 
+Conservation 
+significance Impact 
+(hectares) 
+BC Act EPBC Act 
+Swainsona recta small purple-pea E E 53.64 
+Swainsona sericea silky swainson-pea V - 316 
+Thesium austral austral toadflax V V 0.54 
+Tylophora linearis tylophora linearis V E 12.37 
+Zieria ingramii Keith’s zieria E E 1.88 
+ 
+Table 2-3: Clearing limits for threatened fauna species 
+Species Common name 
+Conservation 
+significance  Full 
+Impacts 
+(hectares) 
+Partial 
+Impacts 
+(hectares) BC Act EPBC 
+Act 
+Anthochaera phrygia regent honeyeater CE CE - 132.58 
+Aprasia parapulchella pink-tailed legless lizard V V - 40.82 
+Calyptorhynchus lathami 
+lathami 
+south-eastern glossy 
+black-cockatoo 
+V V 10 - 
+Cercartetus nanus eastern pygmy-possum V - - 241.69 
+Chalinolobus dwyeri large-eared pied bat V V - 123.99 
+Delma impar striped legless lizard V V - 65.8 
+Hieraaetus morphnoides little eagle V - - 14.05 
+Hoplocephalus bitorquatus pale-headed snake V - 130.77 - 
+Keyacris scurra Key’s matchstick 
+grasshopper 
+E - - 116.09 
+Lophoictinia isura square-tailed kite V - - 3.63 
+Miniopterus schreibersii 
+subsp. Oceanensis 
+large bent-winged bat V - - 35.30 
+Myotis macropus southern myotis V - 1.22 - 
+Petaurus norfolcensis squirrel glider V - 455.72 - 
+Polytelis swainsonii superb parrot V V 3.39 - 
+Phascolarctos cinereus koala E E - 31.83 
+Tyto novaehollandiae masked owl V  10.83 - 
+Vespadelus troughtoni eastern cave bat V - - 123.98 
+  
+===== PDF PAGE 42 =====
+CONSOLIDATED APPROVAL 
+ 
+NSW Government 39 Central-West Orana REZ Transmission  
+Department of Planning, Housing and Infrastructure (SSI 48323210) 
+APPENDIX 3 HERITAGE 
+ 
+Table 3-1 Aboriginal Heritage items – avoid impacts 
+AHIMS ID / Site name / area Corresponding project site ID 
+36-3-0111 Argyll No.3 (SNI-GG14 / SNI-AS01) 
+36-3-4031 SNI GG02 
+36-3-3968 / 36-3-4038 SNI-GG03 
+36-3-4042 SNI-GG06 
+36-3-4043 SNI-GG05 
+36-3-4044 SNI-GG04 
+36-3-4045 SNI-GG07 
+36-3-4046 SNI-GG08 
+36-3-4027 SNI-AS65 
+36-3-4052 SNI-GG09 
+===== PDF PAGE 43 =====
+CONSOLIDATED APPROVAL 
+NSW Government 40 Central-West Orana Transmission  
+Department of Planning, Housing and Infrastructure (SSI 48323210) 
+Table 3-2 Aboriginal Heritage items – Management and mitigation measures for sites within construction area  
+AHIMS ID/Site name/ Area 
+(corresponding project site ID) 
+Site type Level of harm Mitigation and management measure 
+Zone within 150m from Laheys Creek Area of archaeological 
+sensitivity 
+Partial harm – transmission line 
+corridor, road upgrades and 
+maintenance along Spring Ridge 
+Road and Dapper Road. 
+Remainder of area is subject to 
+indirect harm only (visual impact) 
+Establish heritage protection zone that excludes direct harm outside 
+the transmission line corridor and road corridors. 
+Where impacts cannot be avoided within the footprint of the 
+transmission line corridor and road corridor, undertake 
+archaeological excavations and subsequent salvage mitigation, as 
+required 
+36-3-3794 (S1MC487) 
+36-3-0449 (UWF SU51/L3) 
+36-3-0570 (WCP137) 
+36-3-3790 (S1MC488) 
+36-3-4029 (SNI-RS01) 
+36-3-4028 (SNI-RS02) 
+36-2-0674 (SNI-RS04) 
+36-2-0675 (SNI-RS03) 
+36-3-4113 (SNI-RS06) 
+Rock shelters Level of harm subject to 
+confirmation pending design 
+finalisation  
+Investigate micro -siting of the project infrastructure and 
+construction activities to avoid or minimise impacts to sites. 
+Detailed archival recording to be undertaken. 
+If direct impact is to be avoided, develop Blast Monitoring Strategy 
+to evaluate potential for indirect impacts from blasting. Where 
+moderate or high risk of indirect impact is identified, undertake 
+monitoring.  
+Where impacts are identified at rock shelters, undertake test 
+excavation and subsequent salvage excavation, as required.  
+36-3-4048 (SNI-GG01) 
+36-3-4047 (SNI-GG15) 
+36-3-4060 (SNI-GG16) 
+36-3-4110 (SNI-GG17) 
+Grinding grooves 
+36-3-1140/36-3-1141 (SNI-AS101) 
+36-2-0680 (SNI-FA02) 
+36 2 0682 (SNI-FA05/SNI-AS80) 
+36-2-0748 (SNI-FA12) 
+36-3-4115 (SNI-IF104) 
+High density artefact 
+scatter 
+Level of harm subject to 
+confirmation pending design 
+finalisation 
+Investigate micro -siting of the project infrastructure and 
+construction activities to avoid or minimise impacts to sites. 
+Where impacts cannot be avoided, undertake surface collection 
+and salvage excavation focused on areas of highest artefact 
+density.  
+Zones within 150m of Deadmans, Bora, 
+Cumbo, Wilpinjong, Tallawang and 
+Copes creeks 
+Areas of archaeological 
+sensitivity 
+Level of direct harm subject to 
+confirmation pending design 
+finalisation 
+Investigate micro -siting of the project infrastructure and 
+construction activities to avoid or minimise impacts to sites. 
+Where impacts cannot be avoided, undertake surface collection, 
+archaeological excavations and subsequent salvage excavation, as 
+required. 
+SNI-CS4 
+SNI-CS5 
+SNI-CS6 
+Cultural areas Indirect harm - visual Undertake additional on-Country meetings with RAPs to document 
+relevant information and identify feasible and reasonable measures 
+to mitigate indirect harm 
+36-3-3918 (Birriwa Bus Route South ST 1) 
+36-3-4034 (SNI-CMT02) 
+Culturally modified trees 
+(potential) 
+Level of harm subject to 
+confirmation pending design 
+finalisation 
+Inspection by qualified aboriculturalist to confirm whether scarring 
+is natural or cultural. 
+===== PDF PAGE 44 =====
+CONSOLIDATED APPROVAL 
+ 
+NSW Government 41 Central-West Orana REZ Transmission  
+Department of Planning, Housing and Infrastructure (SSI 48323210) 
+AHIMS ID/Site name/ Area 
+(corresponding project site ID) 
+Site type Level of harm Mitigation and management measure 
+36-2-0747 (SNI-CMT04) 
+36-3-4058 (SNI-CMT16) 
+36-3-4059 (SNI-CMT19) 
+If confirmed as culturally modified tree, undertake detailed archival 
+recording.  
+Investigate micro- siting of the project infrastructure and 
+construction activities to avoid or minimise impacts to sites. 
+Where impacts cannot be avoided, salvage may be undertaken. 
+36-2-0678 (SNI-AS41) 
+36-3-4030 (SNI-AS43) 
+36-2-0677 (SNI-AS57) 
+36-3-0496 (WCP220) 
+36-3-0503 (WCP227) 
+36-3-0658 (WC OS 17 with PAD) 
+36-3-0793 (WCP260) 
+36-2-0688 (SNI-AS71) 
+36-2-0676 (SNI-AS02) 
+36-3-4040 (SNI-FA04) 
+36-2-0683 (SNI-FA06) 
+36-3-4041 (SNI-FA07) 
+36-3-4112 (SNI-FA08) 
+36-3-4111 (SNI-FA09) 
+36-2-0746 (SNI-FA10) 
+36-3-4114 (SNI-FA11 / SNI-AS91) 
+High or moderate density 
+artefact scatters, including 
+areas of subsurface 
+deposit 
+Level of harm subject to 
+confirmation pending design 
+finalisation 
+Investigate micro -siting of the project infrastructure and 
+construction activities to avoid or minimise impacts to sites. 
+Where impacts cannot be avoided, undertake surface collection 
+and salvage excavation (as required). 
+SNI BS1 (see note below) Low density artefact scatter Direct harm within project footprint No mitigation works required 
+Note: SNI-BS1 incorporates #36-3-0353, #36-3-0497, #36-3-0634, #36-3-0691,#36-3-0815, #36-3-0816, #36-3-0817, #36-3-0818, #36-3-0819, #36-3-0820, #36-3-0821, #36-3-1047,#36-3-1048, #36-3-1049, 
+#36-3-1050, #36-3-1051, #36-3-1053, #36-3-1054, #36-3-1055, #36-3-1058, #36-3-1062, #36-3-1063, #36-3-1064, #36-3-1065, #36-3-1066, #36-3-1067, #36-3-1068, #36-3-1090, #36-3-1402, #36-3-1404, 
+#36-3-1428, #36-3-3406, #36-3-1052, #36-3-1056, #36-3-1057, #36-3-1401, #26-3-2514, #36-3-3291, #36-3-3523, #36-2-0627, #36-3-3917, SNI-IF01-15 inclusive, SNI-IF17, SNI-IF20, SNI-IF28, SNI-IF33, 
+SNI-IF39, SNI-IF41, SNI-IF43, SNI-IF47, SNI-IF48, SNI-IF51, SNI-IF56, SNI-IF58, SNI-IF62, SNI-IF65, #36-3-0336, #36-3-0470, #36-3-0498, #36-3-0569, #36-3-0660, #36-3-0139, #36-3-1403, #36-3-2833, 
+#36-3-3182, #36-3-3227, #36-3-3233, #36-3-3432, #36-3-3805, #36-3-3828, #36-3-3832, #36-3-3833, #36-3-3835, #36-2-0533, #36-2-0580, #36-3-1396, SNI-AS01, SNI-AS03-07 inclusive, SNI-AS09, SNI-
+AS012- 13 inclusive, SNI-AS15, SNI-AS17, SNI-AS29, SNI-AS31, SNI-AS37, SNI-AS40, SNI-AS51-52 inclusive, SNI-AS61, SNI-AS66, SNI-AS68-70 inclusive, SNI-AS72-73 inclusive, SNI-AS76-77 inclusive, 
+SNI-Q01, SNI-FA01, SNI-AS79, SNI-AS83, SNI-AS87-90, SNI-AS92, SNI-AS95, SNI-AS97, SNI-AS99, #36-3-0685/SNI-FA03, #36-3-0720/SNI-AS100, #36-2-0613, #36-3-3884, SNI-IF66-68, SNI-IF70-76, 
+SNI-IF78-80, SNI-IF83-86, SNI-IF88-90, SNI-IF93-96, SNI-IF99-103.
+===== PDF PAGE 45 =====
+CONSOLIDATED APPROVAL 
+NSW Government 42 Central-West Orana Transmission  
+Department of Planning, Housing and Infrastructure (SSI 48323210) 
+Table 3-3 Historic Heritage items – avoid impacts 
+Item name 
+CWO-22-HH11 
+CWO-22-HH06 
+ 
+Table 3-4 Historic Heritage items – avoid, minimise and/or salvage 
+Item name 
+CWO-22-HH03 
+CWO-22-HH05a 
+CWO-22-HH05b 
+CWO-22-HH08 
+CWO-22-HH09a 
+CWO-22-HH09b 
+CWO-22-HH09c 
+CWO-22-HH10 
+CWO-22-HH13 
+CWO-22-HH16 
+CWO-22-HH18 
+CWO-22-HH19 
+CWO-22-HH20 
+CWO-22-HH21 
+CWO-22-HH14 
+CWO-23-H01 
+CWO-23-H02 
+CWO-22-HH22 
+CWO-22-HH23 
+CWO-22-HH14 
+ 
+===== PDF PAGE 46 =====
+CONSOLIDATED APPROVAL 
+ 
+NSW Government 43 Central-West Orana Transmission 
+Department of Planning, Housing and Infrastructure (SSI 48323210) 
+APPENDIX 4 TRAFFIC AND TRANSPORT 
+ 
+Figure 4-1 | Construction traffic routes overview 
+
+===== PDF PAGE 47 =====
+CONSOLIDATED APPROVAL 
+ 
+NSW Government 44 Central-West Orana REZ Transmission  
+Department of Planning, Housing and Infrastructure (SSI 48323210) 
+ 
+Figure 4-2 | Access routes 1 of 3 
+
+===== PDF PAGE 48 =====
+CONSOLIDATED APPROVAL 
+ 
+NSW Government 45 Central-West Orana REZ Transmission  
+Department of Planning, Housing and Infrastructure (SSI 48323210) 
+ 
+Figure 4-3 | Access routes 2 of 3 
+
+===== PDF PAGE 49 =====
+CONSOLIDATED APPROVAL 
+ 
+NSW Government 46 Central-West Orana REZ Transmission  
+Department of Planning, Housing and Infrastructure (SSI 48323210) 
+ 
+Figure 4-4 | Access routes 3 of 3
+
+===== PDF PAGE 50 =====
+ 
+ 
+NSW Government 47 Central-West Orana REZ Transmission  
+Department of Planning, Housing and Infrastructure (SSI 48323210) 
+Table 5: Road upgrades 
+Road/Intersection Treatment Timing 
+Merotherie Road Widening and upgrade, as necessary to sealed 
+standard between the Golden Highway and the 
+Merotherie Energy Hub access point. 
+ 
+Commencement of the 
+upgrade with 
+commencement of any of the 
+following: Merotherie Energy 
+Hub, construction compound 
+or any workforce 
+accommodation camp 
+Merotherie Road Installing a new bridge to replace the existing crossing 
+of the Talbragar River. 
+Prior to delivery of 
+oversized specialist 
+electrical equipment 
+(power transformers and 
+synchronous condensers) 
+to the Merotherie Energy 
+Hub  
+Intersection of Merotherie 
+Road and Golden Highway 
+Basic Left Turn and Short Channelised Right Turn 
+ 
+Confirmation that the design for upgrade meets 
+Austroads requirements (and TfNSW supplements), 
+including checks for OSOM movements to be provided 
+in Transport Strategy under condition B31. 
+Commencement of the 
+upgrade with 
+commencement of any of the 
+following: Merotherie Energy 
+Hub, construction compound 
+or any workforce 
+accommodation camp  
+Spring Ridge Road Upgrade road and install new bridge to replace the 
+existing causeway at Laheys Creek as necessary as 
+per the Transport Strategy under condition B31 
+ 
+Timing as outlined in 
+Transport Strategy 
+Intersection of Golden 
+Highway and Spring Ridge 
+Road 
+Current intersection configuration (AUL and BAR) is 
+adequate, subject to: 
+Confirmation SISD for this intersection is adequate (to 
+be provided in Transport  Strategy under condition 
+B31). 
+If SISD is non-compliant, mitigations to address the 
+non-compliance to be detailed in the Transport 
+Strategy under condition B31. 
+Commencement of the 
+upgrade with 
+commencement of 
+development related 
+construction traffic 
+Intersection of Neeleys 
+Lane and Ulan Road 
+Auxiliary Left Turn and Short Channelised Right-turn  Commencement of the 
+upgrade with 
+commencement of the 
+construction of the Neeleys 
+Lane workforce 
+accommodation camp 
+Intersection of Cassilis 
+Road and Golden Highway 
+Short Auxiliary Left Turn 
+ 
+Commencement of the 
+upgrade with 
+commencement of use the of 
+Cassilis Road by 
+development related 
+Construction traffic 
+Intersection of Ulan Road 
+and Golden Highway 
+Basic Left Turn and Short Channelised Right Turn 
+ 
+Commencement of the 
+upgrade with 
+commencement of right turn 
+movement of construction 
+traffic from Golden Highway 
+into Ulan Road 
+Intersection of Blue Springs 
+Road and Golden Highway 
+Upgrade as necessary as per the Transport Strategy 
+under condition B31 
+Timing as outlined in 
+Transport Strategy 
+Intersection of Laheys 
+Creek Road and 
+Castlereagh Highway 
+Basic Right Turn and Basic Left Turn 
+ 
+Upgrade to be outlined in the Transport Strategy under 
+condition B31. 
+Commencement of the 
+upgrade with 
+commencement of 
+development related 
+construction traffic 
+Intersection of Whistons 
+Lane and Castlereagh 
+Highway 
+Basic Right Turn and Basic Left Turn 
+ 
+Confirmation that the design for upgrade meets 
+Austroads requirements (and TfNSW supplements), 
+including checks for OSOM movements to be provided 
+in Transport Strategy under condition B31. 
+Commencement of the 
+upgrade with 
+commencement of 
+development related 
+construction traffic 
+===== PDF PAGE 51 =====
+ 
+ 
+NSW Government 48 Central-West Orana REZ Transmission  
+Department of Planning, Housing and Infrastructure (SSI 48323210) 
+Road/Intersection Treatment Timing 
+Intersection of Tucklan 
+Road and Castlereagh 
+Highway 
+Basic Right Turn and Basic Left Turn 
+ 
+Upgrade to be outlined in the Transport Strategy under 
+condition B31. 
+Commencement of the 
+upgrade with 
+commencement of 
+development related 
+construction traffic 
+Intersection of Puggoon 
+Road and Castlereagh 
+Highway 
+Basic Right Turn and Basic Left Turn 
+ 
+Upgrade to be outlined in the Transport Strategy under 
+condition B31. 
+Commencement of the 
+upgrade with 
+commencement of 
+development related 
+construction traffic 
+Golden Highway (East of 
+Merotherie Road) access 
+gates 
+Basic Left Turn and Basic Right Turn 
+ 
+Upgrade to be outlined in the Transport Strategy under 
+condition B31. 
+Prior to construction of the 
+relevant minor access track 
+off the public road network 
+Castlereagh Highway 
+access gates 
+Basic Left Turn and Basic Right Turn 
+ 
+Upgrade to be outlined in the Transport Strategy under 
+condition B31. 
+Prior to construction of the 
+relevant minor access track 
+off the public road network 
+Wollar Road access gates Upgrade as necessary as per the Transport Strategy 
+under condition B31 
+Prior to construction of the 
+relevant minor access track 
+off the public road network 
+Cope Road access gate 
+(north) 
+Upgrade as necessary as per the Transport Strategy 
+under condition B31 
+Prior to construction of the 
+relevant minor access track 
+off the public road network 
+Cope Road access gate 
+(south) 
+Upgrade as necessary as per the Transport Strategy 
+under condition B31 
+Prior to construction of the 
+relevant minor access track 
+off the public road network 
+Access to Magpie Hill 
+microwave repeater 
+Upgrade as necessary as per the Transport Strategy 
+under condition B31 
+Prior to commencing work on 
+the Magpie Hill repeater 
+Other local roads, as 
+identified in Figure 4-1 to 
+Figure 4-4 of this Appendix 
+Upgrade as necessary as per the Transport Strategy 
+under condition B31 
+Prior to commencing the use 
+of the local road for any 
+heavy vehicle traffic 
+associated with construction 
+Minor Access Points 
+intersections (any Access 
+Point associated with minor 
+access tracks off public 
+road network) 
+Upgrade as necessary as per the Transport Strategy 
+under condition B31 
+Prior to construction of the 
+relevant minor access track 
+off the public road network 
+  
+===== PDF PAGE 52 =====
+ 
+ 
+NSW Government 49 Central-West Orana REZ Transmission  
+Department of Planning, Housing and Infrastructure (SSI 48323210) 
+APPENDIX 5  
+WRITTEN INCIDENT NOTIFICATION AND REPORTING REQUIREMENTS 
+WRITTEN INCIDENT NOTIFICATION REQUIREMENTS 
+1. A written incident notification addressing the requirements set out below must be notified to the Department via the 
+Major Projects website within seven days after the Proponent becomes aware of an incident. Notification is required 
+to be given under this condition even if the Proponent fails to give the notification required under condition C7 or, 
+having given such notification, subsequently forms the view that an incident has not occurred.  
+2. Written notification of an incident must: 
+(a) identify the development and application number; 
+(b) provide details of the incident (date, time, location, a brief description of what occurred and why it is 
+classified as an incident); 
+(c) identify how the incident was detected; 
+(d) identify when the Proponent became aware of the incident; 
+(e) identify any actual or potential non-compliance with conditions of approval; 
+(f) describe what immediate steps were taken in relation to the incident; 
+(g) identify further action(s) that will be taken in relation to the incident; and 
+(h) identify a project contact for further communication regarding the incident. 
+INCIDENT REPORT REQUIREMENTS 
+3. Within 30 days of the date on which the incident occurred or as otherwise agreed to by the Planning Secretary, the 
+Proponent must provide the Planning Secretary and any relevant public authorities (as determined by the Planning 
+Secretary) with a detailed report on the incident addressing all requirements below, and such further reports as may 
+be requested. 
+4. The Incident Report must include: 
+(a) a summary of the incident; 
+(b) outcomes of an incident investigation, including identification of the cause of the incident; 
+(c) details of the corrective and preventative actions that have been, or will be, implemented to address the 
+incident and prevent recurrence; and 
+(d) details of any communication with other stakeholders regarding the incident. 
+ 

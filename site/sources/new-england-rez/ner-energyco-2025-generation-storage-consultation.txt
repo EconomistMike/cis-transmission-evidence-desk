@@ -1,0 +1,2593 @@
+
+===== PDF PAGE 1 =====
+EnergyCo  
+energyco.nsw.gov.au  
+ 
+The Energy Corporation of NSW (EnergyCo)  
+New England Renewable Energy Zone 
+Generation and Storage Consultation 
+Paper 
+August 2025   
+ 
+ 
+===== PDF PAGE 2 =====
+ 
+New England Renewable Energy Zone Generation and Storage Consultation Paper  | 2 
+A cknowledgement of Country 
+The Energy Corporation of New South Wales  acknowledges that it stands on Aboriginal land. 
+We acknowledge the T raditional C ustodians of the land and we show our respect for Elders 
+past  and present  through thoughtful and collaborative approaches to our work, seeking to 
+demonstrate our ongoing commitment to providing places in which Aboriginal people are 
+included socially, culturally and economically.  
+Published by the Energy Corporation of New South Wales 
+energyco .nsw.gov.au 
+New England Renewable Energy Zone Generation and Storage Consultation Paper  
+First published : August 2025  
+Copyright and disclaimer  
+© State of New South Wales through the Energy Corporation of New South Wales . Information contained in 
+this publication is based on knowledge and understanding at the time of writing, August 2025, and is subject 
+to change. For more information, please visit energy. nsw.gov.au/copyright  
+TMP - MC -R-DC- V1.2  
+ 
+ 
+===== PDF PAGE 3 =====
+ 
+New England Renewable Energy Zone Generation and Storage Consultation Paper  | 3  
+Contents  
+1  Introduction  ................................ ................................ ................................ ................................ ........  5  
+1.1  Overview  .................................................................................................................................................................................. 5  
+1.2  Purpose of the consultation paper  ............................................................................................................................ 5  
+1.3  Navigating the Paper  .........................................................................................................................................................6  
+1.4  Providing your feedback  .................................................................................................................................................. 7  
+1.5  Next steps  ............................................................................................................................................................................... 7  
+2  Background and context  ................................ ................................ ................................ ..................  9  
+2.1  The New England REZ  ...................................................................................................................................................... 9  
+2.2  New England power system ......................................................................................................................................... 11  
+2.3  Existing and proposed generation and storage projects in the New England REZ  ........................ 14  
+3  Proposed Access Scheme design  ................................ ................................ ................................ .  16  
+3.1  Introduction  .......................................................................................................................................................................... 16  
+3.2  What factors are relevant in designing an Access Scheme?  ..................................................................... 16  
+3.3  Objectives of the New England REZ Access Scheme  .................................................................................... 17  
+3.4  Proposed scope of Access Scheme under consideration  ........................................................................... 18  
+3.5  Specified network infrastructure proposed to be subject to the Access Scheme  ........................ 22  
+3.6  Transitional Arrangements  .......................................................................................................................................... 28  
+3.7  Scheme Term  ...................................................................................................................................................................... 30  
+3.8  Target Transmission Curtailment Level  ................................................................................................................. 31  
+3.9  Aggregate Maximum Capacity Cap  ........................................................................................................................ 33  
+3.10  Sub - limits on the grant of Access Rights  ............................................................................................................ 36  
+3.11  Maximum Capacity profiles  ......................................................................................................................................... 37  
+3.12  Access Rights allocation approach under consideration  ........................................................................... 38  
+3.13  Approach under consideration for approving access to the Access Control Network  ................. 41  
+3.14  REZ Connection Process under consideration  ................................................................................................... 41  
+4  Connection Assets model  ................................ ................................ ................................ .............  45  
+4.1  Overview of the Connection Assets model under consideration  ............................................................ 45  
+4.2  Details of the proposed Connection Assets model  ......................................................................................... 52  
+4.3  Application of the Connection Assets model  .................................................................................................... 58  
+4.4  Proposed contract structure  ....................................................................................................................................... 61  
+4.5  Proposed cost recovery structures  ......................................................................................................................... 63  
+4.6  Other models considered  ............................................................................................................................................. 66  
+===== PDF PAGE 4 =====
+ 
+New England Renewable Energy Zone Generation and Storage Consultation Paper  | 4  
+5  Payments to landowners hosting Connection Assets ................................ ..............................  68  
+6  Approaches to System Strength  ................................ ................................ ................................ ..  71  
+6.1  Description  ............................................................................................................................................................................ 71  
+6.2  System strength approaches under consideration  .......................................................................................... 71  
+7  Next Steps  ................................ ................................ ................................ ................................ .......  75  
+8  Glossary  ................................ ................................ ................................ ................................ ............  77  
+ 
+ 
+===== PDF PAGE 5 =====
+ 
+New England Renewable Energy Zone Generation and Storage Consultation Paper  | 5  
+1 Introduction  
+1.1 Overview  
+Renewable Energy Zones (REZ) are designed to function as modern - day  power stations. REZs bring 
+together large- scale renewable energy generation projects, storage projects and network 
+infrastructure to provide affordable, clean and reliable electricity to homes and businesses in NSW.  
+The New England REZ is the largest of the REZs identified in the NSW Electricity Infrastructure 
+Roadmap (Roadmap). The REZ will deliver new network infrastructure to unlock renewable energy 
+generation and storage projects within the region. It will play a critical role in delivering the State’s 
+energy transition, helping to keep the lights on as coal - fired power stations retire.  
+EnergyCo has been appointed as the Infrastructure Planner for the New England REZ and is 
+responsible for coordinating the delivery of the New REZ Network Infrastructure, generation and 
+storage in the REZ. This coordination is important to ensuring efficien t utilisation of the new 
+infrastructure and improving affordability for NSW electricity consumers.  
+1.2  Purpose of the consultation paper  
+EnergyCo and the NSW Government are committed to early and genuine consultation with industry, 
+local communities and the public as we progress the design of the New England REZ.    
+We are  seeking initial feedback on the approaches we are considering  in four key areas  for 
+managing the coordination of generation and storage  projects  (P rojects )  connecting to network 
+infrastructure:  
+ 
+Development of a potential Access Scheme  
+ 
+Facilitation of Connection Assets  
+  Payments to landholders  
+ 
+Provision of system strength  
+
+===== PDF PAGE 6 =====
+ 
+New England Renewable Energy Zone Generation and Storage Consultation Paper  | 6  
+We have considered these areas together given their intrinsic links and to ensure that there is 
+comprehensive assessment of generation and storage approaches  as part of the design and delivery 
+of the New England REZ.  
+In developing the approaches under consideration, EnergyCo consulted with Transgrid, AEMO, ASL, 
+SFV, the NSW Department of Climate Change, Energy, the Environment and Water (DCCEEW), 
+Projects and other key stakeholders.  
+1.3 Navigating the Paper  
+To support readers in navigating the document it has been divided into three parts. Each part, and 
+what engagement is being sought, has been summarised below. A g lossary  of key terms used in the 
+consultation paper has been provided at the end of the document (see Glossary ).  
+Part I: Proposed New England Access Scheme  
+EnergyCo is seeking feedback on how an Access Scheme could apply in the New England REZ. 
+Given the unique characteristics of the REZ a bespoke approach will likely be required. Key areas 
+where EnergyCo is seeking feedback are on the proposed scope of the A ccess Scheme ( section 3.4 ), 
+the transmission network that may be captured under the Access Scheme (section 3.5 ) and how 
+transitional arrangements may apply to Projects ( section 3.6).  
+Stakeholder views on Part I will inform whether and in what form we pursue an Access Scheme for 
+the New England REZ.   
+Part II: Generator Connection Assets and landholder payments  
+EnergyCo is seeking feedback on a model under consideration to connect new generation and 
+storage projects into the New England REZ and how landholders could receive payment for hosting 
+these Connection Assets. Key areas where EnergyCo is seeking feedback are on the details of the 
+proposed model ( section 4.2), application of the proposed model ( section 4.3 ), the proposed cost 
+recovery structure ( section 4.5 ) and payments to landowners who may host Connection Assets 
+( section 5 ).  
+Feedback provided on Part II will inform the design of the Connection Assets model and how a 
+framework for landholder payments could best apply.  
+Part III: Proposed system strength model  
+EnergyCo is considering how to efficiently manage the provision of system strength in the New 
+England REZ to deliver beneficial outcomes for generators and consumers.  
+===== PDF PAGE 7 =====
+ 
+New England Renewable Energy Zone Generation and Storage Consultation Paper  | 7 
+Feedback on Part III will support the development of a system strength model that enables the 
+efficient delivery of system strength required to meet generator demand in the New England REZ.  
+The Paper does not cover: 
+• Community and employment benefits programs;  
+• Access fees; 
+• Interaction between Access Rights and long term  service energy agreements or capacity 
+investment scheme agreements;  
+• Proposed contents of REZ Access Standards for the New England; or  
+• Planning and environmental approvals for the New REZ Network Infrastructure.  
+The matters not covered in this Paper may be subject to separate consultation processes.  
+1.4  Providing your feedback 
+You are invited to provide feedback on the New England REZ Generation and Storage Paper. The 
+end of each sub - section has targeted questions under the ‘Have your say’ call out boxes to guide 
+feedback. 
+You do not need to respond to every question,  rather only those that are relevant to you 
+or your organisation. You can use the New England REZ Generation and Storage Consultation Paper 
+Submission Form for your responses or simply provide a free form submission.  
+Please submit your response to newengland.access@energyco.nsw.gov.au  with ‘Your Name – New 
+England REZ Generation and Storage Consultation Paper’ in the subject line.  
+Consultation timeline  
+15 August 2025  – Release of paper  and invitation to stakeholders to make submissions  
+12 September 2025  – Consultation closes  
+1.5 Next steps  
+Feedback received on this consultation paper will inform whether and in what form we pursue a 
+potential Access Scheme, a model for Connection Assets, payments for landholders hosting 
+Connection Assets and a system strength framework for Projects in the New  England REZ.  
+If EnergyCo determines that an Access Scheme should be progressed for this REZ, we will develop 
+a draft Access Scheme design and recommendation to the NSW Minister for Energy.  
+===== PDF PAGE 8 =====
+ 
+New England Renewable Energy Zone Generation and Storage Consultation Paper  | 8  
+If the Minister supports proceeding with the development of an Access Scheme, it is expected to be 
+set out in a draft Access Scheme Declaration published for consultation in Q 1 2026.  The draft 
+Access Scheme Declaration will be accompanied by a position paper describing the contents of the 
+Declaration to support stakeholder feedback. Informed by consultation on the draft Access Scheme 
+Declaration, a New England REZ Access Scheme would be  expected to be formally declared by the 
+Minister in Q2 2026 , if pursued .  
+As we work through detailed policy design for each of the key areas identified in this paper, to the 
+extent they are pursued, EnergyCo will continue to engage with and seek input from stakeholders.  
+  
+===== PDF PAGE 9 =====
+ 
+New England Renewable Energy Zone Generation and Storage Consultation Paper  | 9  
+2  Background and context  
+2.1  The New England REZ  
+The New England REZ is located in the north of NSW, centred on the lands of the Biripi, Dainggatti, 
+Nganyaywana, Ngarabal, and Gumbainggir people and situated within the local government areas 
+(LGAs) of Armidale Regional, Tamworth Regional, Inverell, Glen Innes Severn, Tenterfield, Uralla, 
+and Walcha ( as seen in Figure 1  below).  
+The REZ has been shaped through input from these local communities and will support billions of 
+dollars in investment and benefits for the region, to leave a legacy for the people who will host the 
+infrastructure on behalf of everyone in NSW. The NSW Gover nment and EnergyCo are committed to 
+ensuring the New England REZ provides social and economic benefits for local and First Nations 
+communities, in line with the NSW Renewable Energy Sector Board Plan
+1  and the First Nations 
+Guidelines 2 . 
+The New England REZ will provide an initial network capacity of 6 gigawatts (GW), delivered over 
+two stages, with the potential to increase the network capacity to 8 GW in the future.  Indicativel y, 
+the 6 GW transfer capacity could support up to 12 GW of generation with up to 4 GW of storage. 
+Unlocking this significant amount of generation and storage is critical to supporting affordable, 
+reliable power for homes and businesses across the state.  
+It will contribute substantially to replac ing the  output from the State’s  retiring coal- fired power 
+stations  and  achieving net zero emissions by 2050.  It is also expected to deliver around $24 billion 
+in private sector investment and support around 6,000 construction jobs and 2,300 operational jobs.  
+The New England region has high- quality natural energy resources, with  the  potential to generate 
+significant renewable energy  due to  consistent wind patterns and high solar irradiance.  In terms of 
+energy storage potential, the large variations in elevation and diverse geographical features such as 
+ridges  and deep valleys provide favourable conditions for developing pumped hydroelectricity 
+infrastructure. It is also strategically located close to the existing transmission lines that connect to 
+the NSW east coast  and  Upper Hunte r .  
+ 
+1  NSW Renewable Energy Sector Board’s Plan, https://www.energy.nsw.gov.au/sites/default/files/2022 - 09/nsw - renewable - energy - sector -
+board - plan.pdf  
+2  NSW First Nations Guidelines, https://www.energy.nsw.gov.au/nsw - plans - and - progress/major - state - projects/electricity- infrastructure -
+roadmap/first - nations   
+===== PDF PAGE 10 =====
+ 
+New England Renewable Energy Zone Generation and Storage Consultation Paper  | 10  
+The location and geographical area of the New England REZ have been identified as an optimal 
+location to host renewable energy generation in NSW with strong renewable energy resource 
+potential, proximity to the existing electricity network, and reduced env ironmental and land - use 
+constraints compared to other parts of NSW.  
+Following extensive consultation, t he New England REZ  was formally declared  by the Minister for 
+Energy  on 17 December 2021 3 . It is expected that the REZ Declaration will be amended prior to 
+making a Draft Access Scheme Declaration for the New England REZ, if a decision is made to 
+introduce an Access Scheme, to ensure the REZ Declaration aligns with the network infrastructure 
+to which an Access Scheme would apply.  
+More information on the New England REZ can be found on the EnergyCo website.  
+ 
+Figure 1 -  New England REZ and surrounding regions  
+ 
+ 
+3  New England REZ Declaration, https://gazette.nsw.gov.au/gazette/2021/12/2021 - 643.pdf  
+
+===== PDF PAGE 11 =====
+ 
+New England Renewable Energy Zone Generation and Storage Consultation Paper  | 11  
+2.2  New England power system  
+2.2.1  Existing Network Infrastructure   
+There is a substantial amount of existing transmission and distribution network infrastructure within 
+the New England REZ area and broader New England region, operating at voltages of 330 kV, 132 
+kV, 66  kV and 33 kV. Transgrid is the Existing Network Operator, owning and operating the existing 
+network infrastructure at voltages of 330 kV and 132 kV (as seen in Figure 2  below), while Essential 
+Energy owns and operates the 66 kV and lower voltage networks in the region (not pictured in Figure  
+2 ).  
+2.2.2  New REZ Network  Infrastructure  
+EnergyCo, as the Infrastructure Planner for the New England REZ, is considering various network 
+infrastructure design options for the New REZ Network Infrastructure.  
+The New REZ Network Infrastructure involves the delivery and operation of new high voltage 
+electricity network infrastructure that is required to connect energy generation and storage 
+Projects  within the New England REZ to the existing network to the south of Muswellbrook adjacent 
+to Bayswater Power Station, as shown in Figure 2 . 
+The New REZ Network Infrastructure  will provide an initial  transfer capacity of 6  GW over two 
+stages, as shown in Table 1 , below. Additional transfer capacity of at least 2  GW (stage 3) may be 
+developed in the future (subject to energy demand and separate approvals).  
+Table 1 - Cumulative network capacity targets  
+  
+  
+Stage 1  Stage 2  Stage 3  
+Capacity  Timing  Capacity  Timing  Capacity  Timing  
+Network Capacity  2.4 GW  2032  6.0 GW  2034  8.0 GW  TBC  
+ 
+The project has the following components:  
+• new transmission infrastructure comprising:  
+− two new double - circuit 500 kV transmission lines to connect the New England REZ to the 
+existing NSW transmission network near Bayswater Power Station, located west of 
+Singleton NSW;  
+− new 500 kV and 330 kV lines to connect to the proposed energy hubs within the New 
+England REZ,  
+===== PDF PAGE 12 =====
+ 
+New England Renewable Energy Zone Generation and Storage Consultation Paper  | 12  
+• four new energy hubs to connect future renewable energy generation and storage Projects 
+within the New England REZ to the new 500 kV transmission infrastructure and a northern 
+connection to link the North Hub with the existing 330 kV transmission network, and  
+• ancillary development, including road works, upgrade and/or augmentation to existing 
+electricity and utility infrastructure , provision of communications infrastructure, and other 
+construction - related works and facilities such as workforce accommodation camps.  
+The proposed network configuration involves a “meshed network”, whereby the New REZ Network 
+Infrastructure  connects to the existing transmission network at multiple points within the REZ, as 
+well as at Bayswater Power Station.  
+Figure 2  shows  the key features of this network configuration. The proposed interfaces or ‘meshing’ 
+points with Transgrid’s network are shown at the proposed Northern and Central Energy Hubs 
+within the REZ geographical area, and at Bayswater to the south.  
+In addition, EnergyCo and Transgrid are working together to explore the potential for local upgrades 
+to the existing transmission network, referred to as “augmented meshed”, which has the potential to 
+leverage existing infrastructure and easements. Such an  arrangement is expected to provide 
+generation and storage projects with more connection options, as Projects connecting to either the 
+New REZ Network Infrastructure  or existing Transgrid transmission network can utilise some of the 
+new network transfer ca pacity provided by the New REZ Network Infrastructure .  
+===== PDF PAGE 13 =====
+ 
+New England Renewable Energy Zone Generation and Storage Consultation Paper  | 13  
+Figure 2  -  Proposed REZ network scope and configuration 
+ 
+Source: Based on project layout as presented in New England REZ Network 
+Infrastructure Project Scoping Report, July 2024  
+ 
+The majority of the New REZ Network Infrastructure is intended to be delivered contestably via a 
+competitive tender process to select a New Network Operator to design, build, operate and own the 
+project. EnergyCo is responsible for running the competitive tender process and entering into a 
+contract with the successful New Network Operator to deliver the project following authorisation by 
+the Consumer Trustee under the EII Act. A small subset of the New REZ Network Infrastructure will 
+be delivered by Transgr id who is considered best placed to deliver these components.  
+
+===== PDF PAGE 14 =====
+ 
+New England Renewable Energy Zone Generation and Storage Consultation Paper  | 14  
+At the time of this paper’s publication, a tender process is underway to identify a preferred New 
+Network Operator for the contestable components of the New REZ Network Infrastructure .  
+2.2.3  QNI Connect   
+The proposed new Queensland - New South Wales Interconnector, known as QNI Connect, has been 
+identified in AEMO’s 2024 Integrated System Plan as an actionable project. It is being jointly 
+developed by Transgrid and Powerlink. The project has an indicative co mmissioning date of 2032/33 
+and would add approximately 1.7GW of additional transfer capacity of southward power flows from 
+Queensland to NSW.
+4   
+The power flows from QNI Connect would have a direct pathway through the existing and New REZ 
+Network Infrastructure. EnergyCo is considering the impact of QNI Connect on the New England 
+REZ and the design of a potential Access Scheme.  
+2.3  Existing and proposed generation and storage projects 
+in the New England REZ 
+The New England region currently hosts several large - scale wind and solar projects connected to 
+Transgrid’s existing 330 kV and 132 kV networks with a combined generation capacity of around 1 
+GW.  
+EnergyCo analysis suggests a further 3.1  GW of generation (wind and solar) and 2. 6 GW of storage 
+(batteries and pumped hydro) projects  may seek  connection to Transgrid’s network within the REZ 
+geographical area . EnergyCo is also aware of several Projects seeking connection to Transgrid’s 
+network outside the REZ geographical area, but within the New England region.  
+In addition to the projects interested in connecting to Transgrid’s existing network infrastructure, 
+EnergyCo analysis indicates Projects representing an additional 8 .2 GW of generation capacity and  
+5 .0  GW  of  storage capacity have expressed interest in connecting to the proposed New REZ 
+Network Infrastructure.  
+EnergyCo notes that some but not all of these Projects will proceed, however the high level of 
+interest in developing Projects in the New England region reinforces the value of developing the 
+New England REZ along with an Access Scheme that coordinates generation, storage and network 
+infrastructure.   
+ 
+4  At points in time power flows from both the existing network within the REZ and QNI Connect will flow northwards from NSW tow ards 
+Queensland.  
+===== PDF PAGE 15 =====
+ 
+New England Renewable Energy Zone Generation and Storage Consultation Paper  | 15  
+Part I  
+Potential New England 
+REZ Access Scheme 
+  
+===== PDF PAGE 16 =====
+ 
+New England Renewable Energy Zone Generation and Storage Consultation Paper  | 16  
+ 
+3 Proposed Access Scheme design 
+3.1 Introduction 
+Access Schemes coordinate investment in energy infrastructure by managing the access to and use 
+of specific network infrastructure by network, generation and storage operators. They are 
+fundamental to realising the objectives of the Roadmap, including enco uraging investment in new 
+generation and storage by reducing risk for investors ,  and fostering local community support.  
+An Access Scheme is under consideration for application in the New England REZ. Given the scale 
+of the REZ, and particularly the scale of the New REZ Network Infrastructure being developed, 
+applying an Access Scheme may be an appropriate way to coordinate and promote the e fficient 
+utilisation of the  transmission infrastructure. This is important to ensure the REZ is supporting an 
+affordable, secure and reliable electricity system.   
+Access Schemes benefit host communities by  coordinating the delivery of generation and storage 
+infrastructure in line with community expectations. An Access Scheme also recover s funds for 
+community and employment purposes  from connecting Projects through access fees and centrally 
+manages  the use of these funds  to support high - impact community projects. These contributions 
+help to promote regional development, provide training opportunities, support local legacy projects  
+and social programs 5 .   
+Introducing an Access Scheme in the New England REZ would be consistent with the approach 
+taken to coordinating electricity infrastructure in the South West REZ and the Central - West Orana 
+REZ, in which Access Schemes have been declared.  
+3.2  What factors are relevant in designing an Access 
+Scheme?  
+EnergyCo has worked through a range of factors in determining the design of an Access Scheme 
+under consideration for the New England REZ.  
+ 
+5  Access Fees paid by Projects who participate in the Access Scheme will fund a Community and Employment Benefit Program in the  New 
+England REZ. Prior to developing the program, EnergyCo will undertake comprehensive community consultation. This may include 
+engagement sessions, investigative studies, online webinars and Q&A sessions, facilitated workshops and community drop - in sessions.  
+===== PDF PAGE 17 =====
+ 
+New England Renewable Energy Zone Generation and Storage Consultation Paper  | 17  
+The Access Scheme must be consistent with the objects of the EII Act, which includes  encourag ing  
+investment in new generation, storage, network and related infrastructure by reducing risk for 
+investors . 
+In assessing alignment with the objects of the EII Act, EnergyCo has considered how power will flow 
+through the network infrastructure forming part of the REZ and the likely impact of those power 
+flows on Projects located inside and outside the REZ geographical area.  
+Under the meshed network configuration  proposed for the New England REZ, there will be a high 
+level of electrical interconnectivity between the  proposed New  REZ N etwork  Infrastructure and the  
+existing Transgrid network  inside and outside the REZ geographical area. This means it is not only 
+Projects connecting to the New REZ Network Infrastructure that will benefit from the REZ Transfer 
+Capacity, but also some Projects connecting to Transgrid’s network within  and outside  the REZ. 
+Conversely, Projects located  in some parts of Transgrid’s network outside the REZ geographical 
+area may impact curtailment outcomes for Projects located within the REZ geographical area. This 
+is relevant because a key policy intent of the Roadmap is for Projects to locate in REZ geographical 
+areas (see section 3.4 ).  
+3.3  Objectives of the New England REZ Access Scheme 
+The objectives of the New England REZ Access Scheme under consideration are as follows:  
+  
+Support investment in the REZ:  through reducing risk to investors by providing greater 
+assurance of curtailment within the REZ compared to open access;  
+   
+Utilise the network efficiently:  through coordinated and optimised utilisation of the 
+existing and new network infrastructure by generation and storage Projects, ultimately 
+benefiting consumers;  
+ 
+Foster community support and regional economic benefits:  by delivering outcomes and 
+benefits for local communities, mitigating cumulative impacts and managing land use 
+considerations;  
+ 
+Support affordability for NSW electricity customers:  through Project contributions to 
+REZ network infrastructure costs and ensuring sufficient supply to place downward 
+pressure on electricity prices; and  
+   
+Improve certainty in connection timeframes : by enabling a REZ Connection Process 
+( section 3.14) that facilitates timely and efficient connection of generation and storage 
+Projects.  
+
+===== PDF PAGE 18 =====
+ 
+New England Renewable Energy Zone Generation and Storage Consultation Paper  | 18  
+Aligned with these objectives, an Access Scheme is expected to provide benefits to consumers, host 
+communities, Projects and investors.  
+3.4  Proposed scope of Access Scheme under consideration 
+An Access S cheme authorises or prohibits access to, and use of, specified network infrastructure 
+forming part of  a REZ. The network infrastructure that forms part of a REZ may include existing and 
+planned or future network infrastructure. Defining the scope of the Access Scheme involves 
+specifying the network infrastructure
+6  that will be covered by the scheme and the  ways in which 
+access to the relevant network infrastructure (called Access Scheme Network) will be ‘controlled’ .  
+An Access Scheme can include two main tools:  
+• Access Rights Regime : introducing a requirement for Projects to hold an Access Right to 
+connect to network infrastructure specified as Access Rights Network under an Access 
+Scheme, and defining how Access Rights will be allocated.  
+• Access Control M echanism : introducing a requirement for Projects to receive consent from 
+the Infrastructure Planner to connect to network infrastructure specified as Access Control 
+Network under an Access Scheme, and defining the conditions these Projects must meet 
+before consent  will be granted.  
+An Access Rights Regime and an Access Control Mechanism can be applied to different elements of 
+network infrastructure in the same REZ but cannot be applied to the same network infrastructure.  
+Currently, EnergyCo is considering introducing an Access Rights Regime (where Access Rights are 
+awarded) and potentially introducing an Access Control Mechanism (where EnergyCo’s consent 
+would be required to connect) on specified network infrastructure.  
+If an Access Control Mechanism is introduced, this would be a different approach to that taken in 
+Access Schemes in other NSW REZs to date, reflecting that the scale and nature of the New 
+England REZ are unique. For example, the large size and meshed natur e of the New REZ Network 
+Infrastructure mean that the most fit - for- purpose Access Scheme design to deliver the objectives 
+may look different to those applied elsewhere.   
+The decision on whether and how an Access Scheme is applied, and particularly whether an Access 
+Control Mechanism is introduced, will be informed by the feedback received through this 
+consultation process as well as further power flow analysis and policy design work.  
+ 
+ 
+6  Network infrastructure may include transmission lines, distribution lines, switching stations and other related infrastructur e.  
+===== PDF PAGE 19 =====
+ 
+New England Renewable Energy Zone Generation and Storage Consultation Paper  | 19  
+Have your say 
+1.  What are your views on the Access Scheme under consideration for New England REZ, 
+including both an Access Rights Regime and an Access Control Mechanism?  
+3.4.1  Access Rights Regime  
+The proposed Access Rights Regime model is a limited ‘physical’ access connection model which 
+essentially caps the amount of expected generation hosting capacity available. This is the same 
+type of model implemented under the Central - West Orana REZ and South West REZ Access 
+Schemes. It reduces risks to investors by providing increased certainty for proponents around the 
+level of curtailment Projects in the REZ as a whole will likely experience as compared to under the 
+NER ‘open access’ arrangements.   
+EnergyCo is considering applying an Access Rights Regime to both the New REZ Network 
+Infrastructure and existing transmission network infrastructure within the REZ geographical area, 
+which would become an Access Rights Network.  
+Outside of the REZ geographical area, EnergyCo is also considering the inclusion of the new 500 kV 
+transmission network infrastructure from where it exits the southern boundary of the New England 
+REZ geographical area to Bayswater as Access Rights Network.  
+Section 3.5  describes the scope of network infrastructure to which the Access Rights Regime would 
+apply.  
+Eligible Projects  
+Projects fully or partially located within a REZ geographical area and seeking connection to the 
+Access Rights Network would be eligible to apply for Access Rights.  
+For Projects seeking connection to the 500 kV transmission network infrastructure from the 
+southern New England REZ area to Bayswater, Projects would likewise need to be fully or partially 
+located in a REZ geographical area. In this case, eligibility includes New England and Hunter - Central 
+Coast REZ geographical areas, to the extent there is overlap of the specified network infrastructure 
+in the REZ Declarations. This would enable high quality Projects fully or partially located within a 
+REZ and seeking con nection to the Access Rights Network to compete for Access Rights.    
+Transitional arrangements would be introduced to clarify the eligibility of existing projects and 
+those in the development pipeline, these arrangements are contemplated in section 3.6 of this 
+Paper.  
+===== PDF PAGE 20 =====
+ 
+New England Renewable Energy Zone Generation and Storage Consultation Paper  | 20  
+Rationale   
+The  application of the Access Rights Regime to all New REZ Network Infrastructure and existing 
+lines located in the REZ geographical area is under consideration as it would provide a means to 
+manage how the new REZ Transfer Capacity is utilised.  
+This potential approach supports equitable outcomes within the REZ, as all Projects would need to 
+compete for Access Rights. 7  In the case of Projects connecting to Transgrid’s existing network 
+within the REZ, these Projects are likely to experience similar benefits, including improved 
+curtailment outcomes, from the new REZ Network Transfer Capacity as Projects connecting directl y 
+to the New REZ Network Infrastructure, and these benefits would be recognised with the 
+application of an Access Rights Regime.  
+This approach should result in Projects inside the REZ geographical area being indifferent as to 
+which network they connect to from an access perspective, leading to more efficient design of 
+Project connection infrastructure. It also incentivises Projects to locate within the REZ geographical 
+area, as Access Right Holders will be entitled to the benefits of the REZ Transfer Capacity.   
+3.4.2  Access Control Mechanism   
+EnergyCo is currently considering whether it would be appropriate to introduce an Access Control 
+Mechanism alongside an Access Rights Regime, as a complementary tool to coordinate network, 
+generation and storage infrastructure and deliver the o bjectives  of the Access Scheme (see section 
+3.3 ).  
+The purpose of the mechanism is to safeguard access arrangements for Access Right Holders by 
+protecting them from the impacts of Projects connected to other network infrastructure, such as 
+increased curtailment or losses 8 .   
+Essentially, an Access Control Mechanism may be used to set conditions that must be met by 
+Projects seeking connection to the Access Control Network, such as demonstrating that the impact 
+of their Project on the curtailment of Access Right Holders is minim al. A Project would need to 
+receive Infrastructure Planner consent before it can submit an application to connect to the Access 
+Control Network
+9 . 
+An Access Control Mechanism is currently being considered as an option to apply to specified 
+network infrastructure outside the REZ geographical area. EnergyCo is not proposing to control 
+ 
+7  Unless a Project is covered by transitional arrangements – see section 3.6 .  
+8  Minister’s Guidelines for Access Scheme Declarations  
+9  Specifically, a Project must not submit an application to connect to the network unless it has obtained the consent of the Infrastructure 
+Planner as specified in NER Cl 9A.5.5 .  Chapter 9A of the NER is available here: NSW Government Gazette No 476 of 06 December 2024 .  
+Unless a Project is covered by transitional arrangements – see section 3.6 .  
+===== PDF PAGE 21 =====
+ 
+New England Renewable Energy Zone Generation and Storage Consultation Paper  | 21  
+access widely across the existing Transgrid network and is only contemplating this option where 
+technical analysis indicates it is merited in proximity to the REZ geographical boundary.  
+High - level design features under consideration include:  
+• Access Control Network  –  defining the network infrastructure on which an Access Control 
+Mechanism would apply. This design feature is contemplated in this Consultation Paper.  
+• Acceptable level of curtailment impact  – defining the level of curtailment impact on Access 
+Right Holders which is acceptable for issuing consent to connect to the Access Control 
+Network;  
+• Curtailment impact test  – how the curtailment impact of a prospective Project will be 
+assessed, the inputs and assumptions of this assessment, and responsibility for undertaking 
+the assessment;  
+• Process for assessing and issuing consent  –  the process of assessing Projects seeking to 
+connect to the Access Control Network and issuing consent, including the appropriateness 
+of a competitive process versus another allocation approach; and  
+• Transitional arrangements  – how transitional arrangements could apply to Projects in the 
+development pipeline seeking connection to the Access Control Network. This design feature 
+is contemplated in this Consultation Paper.  
+If a decision is made to progress with an Access Control Mechanism following this consultation 
+process, EnergyCo will undertake further consultation with stakeholders on the details of the 
+Access Control Mechanism design as we continue to work through the policy options.  
+Eligible Projects  
+If an Access Control Mechanism is introduced, Projects seeking connection to Access Control 
+Network would be eligible to seek consent from EnergyCo for access to that network 10 . For clarity, 
+this is likely to follow a separate assessment process than the Access Right allocation process.  
+Section 3.6  provides approaches under consideration to transitional arrangements for existing 
+projects and those currently being developed.  
+Rationale   
+Projects connecting to certain Network Elements outside the REZ geographical area may impact on 
+as well as benefit from the new REZ Transfer Capacity, including through improved curtailment 
+outcomes. In some cases these Projects may negatively impact on th e curtailment outcomes of 
+ 
+ 
+===== PDF PAGE 22 =====
+ 
+New England Renewable Energy Zone Generation and Storage Consultation Paper  | 22  
+Access Right Holders within the REZ. For these reasons, some network infrastructure located 
+outside the REZ may be covered by the Access Scheme.  
+While an Access Control Mechanism has not been implemented in other NSW Access Scheme’s to 
+date, the unique features of the New England REZ mean the use of this complementary tool may be 
+warranted.  The introduction of an Access Control Mechanism on select ed network infrastructure 
+could safeguard the integrity of Access Rights by ensuring that Projects connecting outside the 
+Access Rights Network do not unacceptably impact the curtailment of Access Right Holders. This 
+would support curtailment targets and the value proposition for the Access Rights Regime.   
+Introducing an Access Control Mechanism would also avoid sending unintended market signals for 
+Projects to locate outside the REZ geographical area and receive benefits from the new REZ 
+Transfer Capacity without participating in the Access Scheme.  
+Encouraging  Projects to locate within the REZ geographical area is important as this region has 
+been strategically selected as a preferred location for coordinated network, generation and storage 
+development. Projects connected within this area will also benefit from  the coordinated community 
+and employment benefits delivered by EnergyCo, to ensure the local communities receive benefits 
+from the infrastructure.   
+ 
+Have your say 
+2.  What are your views on the benefits and challenges of introducing an Access Control Mechanism, 
+and the potential value of this Mechanism for Access Rights Holders?  
+3.  There are several ways that the curtailment impact of a Project connecting to the Access Control 
+Network could be assessed. What are your views on how this should be assessed? How should a 
+materiality threshold be determined?  
+3.5 Specified network infrastructure proposed to be 
+subject to the Access Scheme  
+3.5.1  E xisting network  infrastructure  
+EnergyCo is considering whether to apply an Access Scheme to specified existing transmission 
+network infrastructure located within and proximate to the REZ geographical area. For existing 
+infrastructure, EnergyCo  has undertaken an initial assessment of transmission lines (and related 
+===== PDF PAGE 23 =====
+ 
+New England Renewable Energy Zone Generation and Storage Consultation Paper  | 23  
+infrastructure) in the region that may be covered by the Access Scheme, noting these are  
+preliminary approaches.  
+The initial assessment was based on the following:  
+• High level load flow analysis considering:  
+− Line capacities and existing levels of line congestion  
+− Expected power flows across the REZ area and wider region  
+− Possible future network augmentations 
+• High level analysis of projects currently in development, considering type, size, location and 
+level of maturity.  
+• Policy considerations that reflect the objectives of the Access Scheme.  
+A summary of the potential approaches and options (where multiple options are under 
+consideration) to be applied to certain Network Elements are set out in Table 2, below. This includes 
+whether Network Elements are proposed to be subject to either an Access Rights Regime (ARR) or 
+Access Control Mechanism (ACM). Where multiple options are being considered, further details 
+including potential benefit and impacts of each option are outlined in  Table 3 . 
+Table 2 : Summary of Access Scheme scope approaches  under consideration and proposed mechanism  
+Network E lements  Approach under consideration  
+All New REZ Network Infrastructure  Included  (ARR)  
+Network E lements  Options under consideration  
+Existing Transgrid 330 kV Tamworth 
+to Armidale Line s (Line 85 , 86  & 8U )  
+1.  Include  
+sections within 
+the REZ 
+geographic area 
+as ARR  only  
+2 .  Include sections  
+inside  the REZ 
+geographic area 
+as ARR and  
+outside the REZ 
+geographic area 
+as ACM  
+ 
+Network E lements  Option s under consideration  
+Existing Transgrid 330 kV Qld Border 
+to Armidale via Dumaresq (Lines 8E, 
+8C, 8J, 8L, 8M)  
+1.  Include  from 
+Armidale to 
+Guyra  as  ARR 
+only  
+2.  Include  sections 
+within the REZ 
+geographic area 
+as ARR  only  
+3.  Include sections 
+inside the REZ 
+geographic area as 
+ARR and  outside 
+the REZ 
+===== PDF PAGE 24 =====
+ 
+New England Renewable Energy Zone Generation and Storage Consultation Paper  | 24  
+geographic area as 
+ACM  
+Network E lements  Approach under consideration  
+Existing Transgrid 330 kV Armidale 
+to Coffs Harbour (Line 87)  
+I nclude  sections within the REZ geographic area as ARR  
+Network E lements  Option s under consideration  
+Existing Transgrid 132  kV inside REZ 
+geographic area  (Lines 96C, 965, 
+966K, 966A, 96T, 96N, 96R, 9UG, 
+9U4)  
+1.  Exclude  2.  Include  as  ARR   
+Network Elements  Approach under consideration  
+A ll future  500 kV, 330 kV and 132 
+kV +  network located inside the REZ 
+geographical area developed while 
+the Access Scheme is in place  
+Include  as  ARR  
+Network E lements  Approach under consideration  
+All other lines  (multiple lines)  Ex clude  
+Note: Options for each Network Element are under consideration for feedback and should be reviewed 
+independently of each other.  
++ If existing 132 kV network is excluded from the scope of the Access Scheme then any further 132 kV network 
+will also be excluded.  
+Essential Energy’s 66  kV (and lower voltage) network infrastructure is not proposed to be included 
+in any potential Access Scheme for New England REZ. This network has a limited  hosting capacity 
+and is therefore not expected to materially impact curtailment conditions within the REZ.  
+ 
+===== PDF PAGE 25 =====
+ 
+New England Renewable Energy Zone Generation and Storage Consultation Paper  | 25  
+ 
+Table 3 : Options under consideration for proposed lines specified under the New England REZ Access Scheme  
+Network Element  Options under consideration 
+for Access Scheme  
+Proposed access mechanism  Benefits  Risks/Impacts  
+Transgrid 330  kV Tamworth to 
+Armidale Line s  
+Line numbers 85 ,  86  and 8U  
+Option 1: Include sections only 
+within the REZ geographic al  
+area  
+ 
+Access Rights Regime  • Captures the portion of the lines which most materially 
+make use of REZ flowpaths, and which have experienced 
+the most development interest to date  
+• Existing projects which are progressing outside the REZ 
+geographic area can continue development without 
+interruption  
+• Remaining potential for uncoordinated connections 
+(under open access) south of the REZ geographic area. 
+Projects connecting in this region will make some use of 
+REZ flowpaths and impact the curtailment experience of 
+Access Right Holders 
+• Reduced certainty and value proposition for Access 
+Scheme participants 
+• Reduced ability for EnergyCo to collect access fees (that 
+fund the community and employment benefit scheme) 
+and coordinate cumulative impacts  
+Option 2: Entirely included 
+(Tamworth to Armidale)   
+ 
+Access Rights Regime for lines 
+inside REZ geographical  area ; 
+Access Control Mechanism for 
+lines outside REZ geographical 
+area  
+• EnergyCo can coordinate connections on entire line from 
+Armidale to Tamworth  
+• Provides greatest certainty to Access Right Holders on 
+curtailment experience, and provides a stronger scheme 
+value proposition  
+• Stronger coordination of network utilisation, cumulative 
+impacts 
+• Broadest funding collected for community and 
+employment benefit program  
+• Greatest control to ensure highest quality Projects are 
+permitted to connect  
+• May prevent Projects outside the REZ area geographical 
+area from being able to connect to the grid  
+• Projects connecting South of the REZ are expected to 
+have a relatively minor impact on curtailment outcomes 
+for REZ generators  
+Transgrid 330 kV Qld Border 
+to Armidale via Dumaresq 11  
+Line numbers 8E, 8C, 8J, 8L, 
+and 8M   
+Option 1 : Include from Armidale 
+to Guyra only  
+Access Rights  Regime  • Open access retained for projects north of Guyra 
+ensures consistency with Queensland projects 
+connecting to the same lines  
+• Lines north of Guyra are likely to be more congested 
+than those to the south, as south of Guyra QLD - NSW 
+interconnector flows will be split between the existing 
+network and the New REZ Network Infrastructure. This 
+reduces the likelihood of generator connections north of 
+Guyra, and therefore the magnitude of impact on REZ 
+Access Right Holders.   
+• P otential for uncoordinated connections (under open 
+access) north of Guyra. Projects connecting in this region 
+will make substantial use of REZ flowpaths and impact 
+the curtailment experience of Access Right Holders.  
+• Reduced certainty and value proposition for Access 
+Scheme participants 
+• Reduced ability for EnergyCo to collect access fees (that 
+fund the community and employment benefit scheme) 
+and coordinate cumulative impacts  
+Option 2 : Include inside the 
+REZ geographical area only  
+Access Rights  Regime  • Compared to Option 1, captures a greater portion of the 
+line under the Access Scheme. This allows for greater 
+curtailment certainty for Access Right Holders  
+• Existing projects which are progressing outside the REZ 
+geographic area can continue development without 
+interruption  
+• Potential for uncoordinated connections (under open 
+access) outside of the REZ geographic area to impact 
+curtailment experienced by Access Right Holders  
+• Reduced certainty and value proposition for Access 
+Scheme   
+• Reduced ability for EnergyCo to collect access fees (that 
+fund the community and employment benefit scheme) 
+and coordinate cumulative impacts  
+ 
+11  EnergyCo  is aware  of the projects proposed on this line, the complexities created by different treatment of projects proposing to connect on different sides of the NSW/QLD border, and that power flows from QLD cannot be avoided in any case. EnergyCo welcomes discussion on this 
+point.  
+===== PDF PAGE 26 =====
+ 
+New England Renewable Energy Zone Generation and Storage Consultation Paper  | 26  
+Network Element  Options under consideration 
+for Access Scheme  
+Proposed access mechanism  Benefits  Risks/Impacts  
+Option 3:  Entirely i ncluded  
+(from Armidale to Qld Border)  
+Access Rights Regime for lines 
+inside the REZ geographic area;  
+ 
+Access C ontrol Mechanism  for 
+lines outside the REZ 
+geographic area 
+• Provides greatest certainty to Access Right Holders on 
+curtailment experience (noting projects located in QLD 
+can still impact curtailment outcomes), and provides a 
+stronger scheme value proposition  
+• Strong coordination of network utilisation, cumulative 
+impacts 
+• Broadest funding collected for community and 
+employment benefit program  
+• Greatest control to ensure highest quality projects are 
+permitted to connect  
+• May prevent Projects outside the REZ geographic area 
+from being able to connect to the grid 
+• Unequal treatment of projects on either side of the state 
+border. This may result in perverse incentive for projects 
+to develop and connect in QLD to bypass the A ccess 
+S cheme  
+Transgrid 132  kV inside REZ 
+geographical area             
+All Lines (96C, 965, 9 6 6K, 
+966A, 96T, 96N, 96R, 9UG, 
+9U4)  Included only in REZ 
+geographical area  
+ 
+Option 1: Excluded  
+ 
+ 
+ 
+ 
+NA  • Greatest  certainty of connection for Projects seeking to 
+connect on the 132 kV network  
+• Potential for uncoordinated connections to impact 
+curtailment experienced by Access Right Holders  
+• Potential for future augmentations to the 132 kV network 
+in the region to allow significant quantities of generator 
+connections, exacerbating the curtailment impacts 
+• May incentivise Projects to connect to 132 kV network to 
+avoid participating in Access Scheme  
+• May erode developer  confidence due to the perceived 
+risk of uncontrolled curtailment  
+• Uncoordinated development may lead to inefficient 
+development and curtailment on the 132 kV network 
+itself  
+• Least oversight to ensure high quality projects 
+connecting to the grid  
+Option 2: Included within the 
+REZ geographic area   
+Access Rights Regime for lines 
+inside REZ geographic area  
+• Improved certainty and value proposition for A ccess 
+S cheme  
+• Improved coordination of Project connections allowing 
+for more optimised  network utilisation  and improved 
+management of cumulative impacts  
+• Creates efficiencies by allowing 132 kV projects to be 
+captured by the same generator connections and system 
+strength strategies as the other REZ generators  
+• Broadest funding collected for community and 
+employment benefit program  
+• May hinder the development of smaller Projects, as 
+participation in an Access Rights Tender may present a 
+barrier  
+• May hinder the development of existing in - progress 
+Projects on the 132 kV network  (if not captured by 
+transitional arrangements) 
+• The current network capacity of the 132 kV system is 
+small and therefore the curtailment impact on Access 
+Right Holders may possibly not be significant enough to 
+justify coverage under an Access Scheme  
+===== PDF PAGE 27 =====
+ 
+New England Renewable Energy Zone Generation and Storage Consultation Paper  | 27  
+3.5.2  Impact  of approaches under consideration  
+If an Access Scheme is introduced in the New England REZ, comprised of both an Access Rights 
+Regime and an Access Control Network, Figure 3  explains the  way in which it  w ould  apply to a 
+Project . This  depend s  on the location of the Project (refer to Eligible Projects in section 3 ) ,  the 
+Network Element it wishes to connect to  and connection status at the time an Access Scheme is 
+declared.  
+Figure 3 : How a potential Access Scheme may apply to Projects  
+ 
+EnergyCo is working through design decisions concerning how the Access Scheme would apply in 
+different situations and for different P rojects including:  
+• the most appropriate way to manage and coordinate storage connecting into the REZ and the 
+opportunities for large load in the REZ.  
+
+===== PDF PAGE 28 =====
+ 
+New England Renewable Energy Zone Generation and Storage Consultation Paper  | 28  
+• the potential for Projects located in the REZ geographical area to seek connection to the 
+Access Control Network. 
+• the interaction between the New England REZ and the Hunter Central Coast REZ, given the 
+New REZ Network Infrastructure extends to Bayswater, which is located within the Hunter 
+Central Coast REZ.  
+Have your say 
+4.  For Network Elements referred to in Table 2, what are your views on the proposed 
+approaches? Where options are provided, which option do you prefer and why?  
+5.  Are there risks or unintended consequences for potential approaches and options? If so, can 
+you please describe these?  
+3.6  Transitional Arrangements  
+3.6.1  Overview  
+Until an Access Scheme is declared, Projects seeking connection to Transgrid’s network in the New 
+England REZ may continue to progress their connection under the National Electricity Rules (NER) 
+Connection Process (as set out in Chapter 5 of the NER).  
+If an Access Scheme is declared, a Project will require an Access Right to seek connection to the 
+Access Rights Network or Infrastructure Planner consent to seek connection to the Access Control 
+Network, unless the Project is covered by transitional arrang ements. The Access Scheme 
+Declaration can include transitional arrangements that specify how the Access Scheme will apply to 
+existing and planned Projects.  
+Transitional arrangements seek to ensure that the application of an Access Scheme is fair and 
+equitable for projects that are significantly progressed in their development and the NER 
+Connection Process. These arrangements also seek to reduce the risk of delaying or deterring 
+Projects already in development as a result of the Access Scheme being introduced.  
+3.6.2  Approaches under consideration   
+Projects that are already connected or have received an offer to connect  under the 
+NER 
+Projects that are connected to  the Access  Scheme Network before the date the Access Scheme is 
+declared, or have received an offer to connect by this point in time, will be subject to transitional 
+===== PDF PAGE 29 =====
+ 
+New England Renewable Energy Zone Generation and Storage Consultation Paper  | 29  
+arrangements. This means they will not need an Access Right or EnergyCo consent to connect (or 
+remain connected) to the Access Scheme Network for their capacity at the relevant date. If these 
+projects intend to increase their Maximum Capacity after that date, an Access Right or EnergyCo 
+consent will be required.  
+Projects that have made an application to connect under the NER 
+The decision about whether to apply transitional arrangements to Projects which have made an 
+application to connect, and how this category is defined, will need to balance facilitating the 
+ongoing progress of Projects with the broader objectives of the Acc ess Scheme.  
+EnergyCo does not want to unnecessarily delay or deter Projects that are well progressed in their 
+NER Connection Process, as these Projects would likely support the NSW energy transition and 
+progress towards targets. EnergyCo will work closely with Transgr id and other key stakeholders on 
+whether transitional arrangements should apply to Projects that have made an application to 
+connect under the NER by the date the Access Scheme is declared but have not received an offer to 
+connect by that date. Two options  are under consideration:  
+• Option A : Transitional arrangements would apply if the Project has submitted a valid and 
+complete application to connect by the date the Access Scheme is declared, and has received 
+an offer to connect by the date the first tender for Access Rights commences.  
+• Option B : Transitional arrangements would apply if the Project has made a valid and complete 
+application to connect by the date the Access Scheme is declared, and has received 
+confirmation of compliance with Generator Performance Standards (a section 5.3.4A letter ) 
+by the date the first tender for Access Rights commences.  
+Projects that have made  a connection enquiry under the NER 
+EnergyCo is not considering applying transitional arrangements to Projects that have made a 
+connection enquiry but have not made a valid and complete application to connect at the time the 
+Access Scheme is declared. The position under consideration is that these Projects will require an 
+Access Right to connect to the Access Rights Net work or consent to connecting to the Access 
+Control Network, as relevant.   
+How Projects covered by transitional arrangements will be treated under the Access 
+Scheme  
+EnergyCo will take the capacity of Projects covered by the transitional arrangements into account 
+when determining the capacity to be made available for other Projects to connect under the Access 
+Scheme.  
+ 
+===== PDF PAGE 30 =====
+ 
+New England Renewable Energy Zone Generation and Storage Consultation Paper  | 30  
+Have your say 
+6.  What are your views on the proposed options to apply transitional arrangements? Should 
+transitional arrangements be considered for any other scenarios?  
+3.7 Scheme Term 
+3.7.1  Overview  
+The term of an Access Scheme begins from the date of the Access Scheme Declaration (through 
+publication in the NSW Gazette) and ends at a date defined in the Access Scheme Declaration. Once 
+the term of the Access Scheme reaches its end date, the network subject to the Access Scheme will 
+revert to the NER arrangements for managing connections, currently the ‘open access’ regime. For 
+the avoidance of doubt, Connection Agreements between the relevant Network Operator and 
+Projects will remain in place, and Projects will continue to operate in the market as they had under 
+the Access Scheme, but the access arrangements will revert to the national framework from this 
+point.  
+3.7.2  Approach under consideration  
+EnergyCo is considering a term for the New England REZ Access Scheme that would commence at 
+the date the Access Scheme is declared and expire on the date that is 20 years from  when the 
+transfer capacity of Stage 1 of the New REZ Network Infrastructure is energised.  Indicatively, if the 
+first stage of the New England REZ is energised in 2032, the term for the Access Scheme (including 
+for Projects connecting to later stages of th e REZ) would be expected to expire in 2052.  
+The amount of time that a Project will be subject to the Access Scheme will differ depending on 
+when the Project connects to the Access Scheme Network. Figure 4  provides a visual 
+representation of the proposed approach for the term of the Access Scheme.  
+===== PDF PAGE 31 =====
+ 
+New England Renewable Energy Zone Generation and Storage Consultation Paper  | 31  
+Figure 4 : Proposed Scheme Term under consideration  
+ 
+3.7.3  Impact of approach under consideration  
+Projects connecting into the Access Rights Network or Access Control Network under the Access 
+Scheme would be subject to the Access Rights Regime or Access Control Mechanism (as 
+applicable) until the end of the term of the New England REZ Access Scheme.  
+Projects would benefit from the capped volume of generation and storage capacity connected to 
+the Access Scheme Network and coordinated community and employment benefit sharing 
+arrangements for this term. They will also pay annual access fees for the term.  Projects which 
+connect later will benefit from the Access Scheme for a shorter period of time (from the point of 
+their connection until the expiry of the Access Scheme) and pay access fees for this shorter period 
+of time.  
+Have your say 
+7.  What are your views on the term of the Access Scheme under consideration? Is this term 
+likely to provide investment certainty for Projects, including Projects connecting at later 
+stages of the New England REZ (such as stage 2)?  
+3.8  Target Transmission Curtailment Level  
+3.8.1  Overview  
+The Target T ransmission C urtailment L evel (TTCL) is the total annual level of Forecast Curtailment 
+(expressed as a percentage) on the Access Rights Network for which EnergyCo has identified a 
+
+===== PDF PAGE 32 =====
+ 
+New England Renewable Energy Zone Generation and Storage Consultation Paper  | 32  
+target for planning purposes. The TTCL acts as a limit on the volume of Access Rights which will be 
+allocated, based on aggregate Forecast Curtailment.  
+The TTCL is calculated by modelling a range of power system inputs and parameters including 
+power system flows, congestion and constraints, the anticipated mix of wind and solar project 
+development and associated capacity factors for each technology type.  
+The TTCL is intended to provide investors with an indication of the potential level of curtailment the 
+REZ might experience, supporting investor confidence and thereby incentivising development in the 
+region.  
+It is important to clarify that the TTCL  is an estimate and not a  guarantee of actual curtailment  
+outcomes  for Access Right Holders on the Access Rights Network.  
+3.8.2  Approach under consideration  
+An indicative TTCL of 5.19%  is currently being considered  for the New England REZ Access 
+Scheme.  
+Calculating the TTCL 
+The proposed TTCL is informed by modelling performed by ASL. ASL has undertaken 
+modelling to determine the economically optimal build out of generation and network 
+infrastructure across the state, considering things like network costs, connection costs and  
+resource quality across the state.  
+To determine the TTCL for a particular REZ, EnergyCo considers the modelled economically 
+optimal build out of generation in the REZ each year and calculates the F orecast Curtailment 
+of that generation on the relevant network transfer capacity. The TTCL is then chosen 
+considering the F orecast Curtailment once generation build out has plateaued for the network 
+capacity enabled by a particular network option.  
+The TTCL in each REZ points to the economically optimal build out of generation in the REZ for 
+a particular level of network development, compared to building generation in a different REZ 
+or building more network infrastructure. Since each REZ has different resource quality and 
+costs of development, both the built generation mix and quantity of generation per MW 
+transfer capacity are different in every REZ, resulting in a different TTCL.   
+3.8.3  Impact of approach under consideration  
+Applying a TTCL of 5.19% provides guidance to renewable generation and storage developers on 
+the amount of technical curtailment they can expect to experience on the Access Scheme Network.  
+===== PDF PAGE 33 =====
+ 
+New England Renewable Energy Zone Generation and Storage Consultation Paper  | 33 
+The TTCL also determines how much capacity will be awarded through Access Rights and is used to 
+determine the aggregate Maximum Capacity of the Access Scheme, which can indicate to 
+communities how much generation and storage infrastructure will be developed within  the REZ.  
+If the TTCL were set higher than 5.19%, more capacity would be available for allocation under 
+Access Rights but Access Right Holders would, on average over a year, experience higher 
+curtailment outcomes. The inverse would be the case if the TTCL were set lower than 5.19%, with 
+less capacity likely to be available under Access Rights and Access Right Holders experiencing 
+lower curtailment outcomes on average over a year.   
+Have your say 
+8.  Does the proposed TTCL provide sufficient certainty of Forecast Curtailment to support a 
+strong value proposition for Access Right Holders? If not, why?  
+3.9  Aggregate Maximum Capacity Cap  
+3.9.1  Overview  
+An Aggregate Maximum Capacity Cap (AMCC) is a cap on the volume of REZ connection capacity 
+available for Projects seeking to connect to the Access Rights Network. The AMCC only applies to 
+an Access Rights Regime and not network infrastructure subject to an Access Control Mechanism.  
+The AMCC is intended to define how much generation and storage capacity (in GW) could connect to 
+the Access Rights Network without the level of Forecast Curtailment in the REZ breaching the 
+TTCL. The AMCC is initially based on an assumed technology mix and  expected capacity profiles of 
+projects in that mix. The AMCC may be changed following the running of a headroom assessment to 
+account for the actual transfer capacity of the REZ, actual technology mix and actual capacity 
+profiles of connected Projects.  
+The AMCC is intended to provide certainty to connecting Projects and investors and gives 
+communities an indication of how much generation and storage development will occur in the 
+region.  
+Based on assessing a range of likely technology mixes, the draft TTCL of 5.19% indicates that the 6 
+GW transfer capacity unlocked by Stages 1 and 2 could support up to 12 GW of generation with 4 
+GW of storage. The level of generation and storage supported could increase in the future if 
+additional load is developed in the REZ or further stages of network infrastructure are delivered.  
+Alternatively, the level of generation and storage may be slightly lower if the generation profiles of 
+===== PDF PAGE 34 =====
+ 
+New England Renewable Energy Zone Generation and Storage Consultation Paper  | 34 
+the Projects that connect differ from the profiles used in the assessment. These figures are also 
+subject to the final decision on the AMCC approaches under consideration (noted below).  
+What is a headroom assessment ?   
+The headroom assessment  is designed to enable the AMCC to be adjusted upwards where 
+more capacity can be allocated to Access Rights without Forecast Curtailment exceeding the  
+TTCL, based on actual and expected capacity profiles of Projects . The ‘headroom’ refers to 
+extra capacity that may be available for allocation under Access Rights following the process.  
+3.9.2  Approach es  under consideration  
+EnergyCo is considering two options for how an AMCC could apply in the New England REZ Access 
+Scheme, to accommodate unique features of this REZ including its’ scale and staged development 
+approach.  
+Option 1 – AMCC specified in the Access Scheme Declaration  
+Under Option 1, an initial AMCC is set early and provides certainty of the volume of capacity to be 
+made available in the initial Access Rights allocation. Specifically, an AMCC (in GW) would be 
+published in the Access Scheme Declaration to limit the aggregate Maximum Capacity available for 
+allocation to Access Right Holders in the Initial  Allocation round for Access Rights.  
+This initial AMCC can then be adjusted upwards over time, through headroom assessments, once 
+EnergyCo has assessed the utilisation of the network based on the Projects connecting.  
+This is the approach applied in both the Central - West Orana REZ and the South West REZs.  
+Option 2 – AMCC periodically determined and notified on EnergyCo website  
+Consistent with Option 1, under Option 2 the AMCC would still be used to limit the aggregate 
+Maximum Capacity available for allocation under Access Rights (at a point in time) but the AMCC 
+would not be specified in the Access Scheme Declaration. Instead, the Access Scheme Declaration 
+would include an indicative range, and would require the  Infrastructure Planner to determine and 
+publish the AMCC for the Access Scheme at specified points in time.  
+Option 2 is intended to provide more flexibility to EnergyCo to adjust the AMCC as the REZ Transfer 
+Capacity increases and as more information becomes available about connecting Projects and 
+network utilisation.  Both Option 1 and Option 2 would see the AMCC adjusted from time to time to 
+reflect the changing capacity of the REZ and the nature and operation of Projects connecting. 
+However, Option 2 allows for a less rigid approach to setting and changing the AMCC over time by 
+shifting it out of the Access Sc heme Declaration.  
+===== PDF PAGE 35 =====
+ 
+New England Renewable Energy Zone Generation and Storage Consultation Paper  | 35  
+The Infrastructure Planner could revise the AMCC and give notice if the REZ Transfer Capacity or 
+assumed technology mix were to change (e.g. an additional stage of the New REZ Network 
+Infrastructure is authorised, increasing the authorised transfer capacit y of the new REZ). The 
+Access Scheme Declaration would set out the steps to make an AMCC determination and a separate 
+methodology paper would be published to detail how an AMCC figure is determined (similar to the 
+existing headroom assessment in the Centra l- West Orana REZ and South West REZ Access 
+Schemes). It is envisaged that an AMCC will be determined before each Access Right allocation 
+period to give guidance on how much capacity is available for allocation under Access Rights in that 
+process.  
+Importantly, the TTCL would remain the same while the AMCC is revised, with increases in AMCC 
+reflecting drivers that allow more generation to be hosted within the AMCC, such as additional 
+storage or load in the REZ.  
+3.9.3  Impact of approaches under  consideration  
+Option 1 – AMCC specified in the Access Scheme Declaration   
+An AMCC set early will provide some certainty of how much capacity will be awarded during the 
+Initial Allocation of Access Rights. This figure contributes to a developers’ understanding of the 
+value proposition of the Access Scheme, as it provides the amount of available capacity ahead of an 
+Access Right allocation process. Once the Initial Allocation of Access Rights is complete, the AMCC 
+is subject to change through the headroom assessment (discussed above).  
+Option 2 – AMCC periodically determined and notified on EnergyCo website  
+An AMCC determined under the Access Scheme allows for the same benefits to developers as 
+option 1, as a limit on the amount of capacity being allocated will be determined prior to any access 
+allocation process. Additionally, option 2 allows for the AMCC to  better reflect the assumed transfer 
+capacity and technology mix of the REZ at the time of an Access Right allocation process, 
+compared to option 1 which bases the AMCC off information available at the time of making the 
+Access Scheme Declaration.  
+Have your say 
+9.  What is your preferred option for the setting and adjustment of the AMCC? What are your 
+reasons for this?  
+===== PDF PAGE 36 =====
+ 
+New England Renewable Energy Zone Generation and Storage Consultation Paper  | 36  
+3.10   Sub -limits on the grant of Access Rights  
+3.10.1  Overview   
+T he Infrastructure Planner can identify specific N etwork Elements within the A ccess R ights 
+N etwork and  apply sub - limits on aggregate capacity available to be allocated under  A ccess R ights. 
+Sub - limits may be adopted where some Network Elements forming part of the Access Rights 
+Network have lower transfer capacity than other parts of the Access Rights Network or where, for 
+policy reasons, the target curtailment on the Network Element should be  lower than the overall 
+TTCL for the Access Rights Network . 12   
+Sub - limits can prevent potential over - subscription and higher curtailment for Projects connecting to 
+the relevant Network Element by capping the amount of generation that can be awarded access to 
+that Network Element. S ub - limits can be set using the  two mechanisms described below.  
+Target Network Element Curtailment  Level 
+A Target Network Element Curtailment Level (TNECL) can be set for a specified Network Element 
+where necessary. A TNECL works similarly to the TTCL, however it applies to a specified Network 
+Element. For example, in the South West REZ Access Scheme a TNECL was applied to connection to 
+Buronga substation and the network up to, but not including, the Dinawan substation.  
+Network Element Maximum Capacity Cap  
+A Network Element Maximum Capacity Cap (NEMCC) can be used to set a limit on the amount of 
+capacity available under A ccess R ights for P rojects seeking access to a specific Network Element.  
+3.10.2  Approaches under consideration  
+EnergyCo is considering two options regarding the use of sub - limits on the grant of Access Rights.  
+Option 1 –  Apply TNECLs and NEMCCs across the REZ  
+This option involves specifying some or all of the existing Transgrid lines located within the REZ 
+geographical area (identified in Table 2 ) as individual Network Elements.  
+Each of the specified Network Elements will have a TNECL of 5.19% applied to it and a NEMCC 
+(which will differ depending on the transfer capacity of the Network Element).  
+ 
+12  For example, where a group of generators fund shared connection infrastructure, access to that infrastructure by other genera tors 
+could be constrained by applying a sub - limit cap reflecting the capacity of the funding generators.  
+===== PDF PAGE 37 =====
+ 
+New England Renewable Energy Zone Generation and Storage Consultation Paper  | 37  
+Applying sub - limits to Network Elements on the existing Transgrid network reflecting the transfer 
+capacity of those Network Elements could provide greater curtailment certainty to Projects seeking 
+to connect to that network.  
+Option 2 – Do not apply any sub - limits across the REZ  
+No Network Elements have a sub - limit applied and Access Right award is limited only by the TTCL 
+and AMCC.  
+This approach has the potential to permit a greater capacity of generation to connect to the existing 
+Transgrid network captured under an Access Rights Network than Option 1 but would provide less 
+certainty to generators connected to lines with limited transfer capacity.   
+3.10.3  Impact of approaches under  consideration  
+Applying sub - limits on the grant of Access Rights could increase the complexity of the Access 
+Scheme, however it would provide developers with greater certainty on the amount of generation 
+that will be permitted to connect to specified network infrastructure subject to the Access Scheme 
+( section 3.5), which can support making more informed investment decisions.  
+Have your say 
+10.  Do you think there should be flexibility under the Access Scheme to apply sub - limits to 
+Network Elements? What are your reasons for this?  
+3.11  Maximum Capacity profiles 
+3.11.1  Overview  
+Maximum C apacity profile relates to the maximum generation (in GW)  a P roject  is permitted to  
+export across different periods of the day ( capacity  period s)  under the conditions of their Access 
+Right. For example, a Project may be granted an Access Right with a flat 24 - hour day capacity 
+profile, meaning that the Project can export to the maximum amount allowed under their Access 
+Right at any point in a day. This flat 24 - hour profile approach is the current approach taken in the 
+Central - West Orana REZ and Sout h West REZ Access Schemes.  Alternatively, a Project may be 
+granted an Access Right with a ‘shaped’ capacity profile with different Maximum Capacity amounts 
+limiting how much generation a Project is allowed to export under the Access Scheme at different 
+ti mes of the day.  
+===== PDF PAGE 38 =====
+ 
+New England Renewable Energy Zone Generation and Storage Consultation Paper  | 38  
+Maximum Capacity profiles give the Infrastructure Planner discretion to award Access Rights to 
+Projects that could export in periods of the day where the Access Scheme Network is being 
+underutilised.  
+It is important to note that any P roject’s M aximum C apacity profile does not limit AEMO’s ability to 
+call upon an A pproved P roject to dispatch above its M aximum C apacity profile  when required to 
+support system security and reliability, such as a direction to generate via a lack of reserve process.  
+3.11.2  Approach under consideration  
+If an Access Scheme is pursued in the New England REZ, it  is proposed that A ccess R ights w ould  
+initially be granted to P rojects on the basis of a flat M aximum C apacity profile across a single ( 24 -
+hour day ) capacity period  in the New England REZ, consistent with the current approach in each the 
+Central - West Orana REZ and the South West REZ Access Schemes . However, the Infrastructure 
+Planner may later elect to implement shaped M aximum C apacity profiles  for future Access Right 
+allocation processes if found to be appropriate. This decision would not impact the Maximum 
+C apacity profile  for existing Access Right Holders.  
+3.11.3  Impact of approach under consideration  
+For the approach under consideration, shaped Maximum Capacity profiles are not proposed to be 
+introduced for Initial Allocations of access in the New England REZ. The option to do so in the future 
+will remain, however existing Access Right Holders would retain their existing capacity profile.  
+Have your say 
+11.  What are your views on the potential to introduce shaped Maximum Capacity profiles in the 
+future?   
+3.12   Access Rights allocation approach under consideration   
+3.12.1  Overview  
+Allocating Access Rights involves seeking bids from Eligible Projects (refer to section 3 ), assessing 
+applications against transparent criteria and awarding Access Rights to the most meritorious 
+Projects. The allocation approach under consideration is intended to balance investor certainty with 
+network readiness and capacity availability, while ensuring Projects that are awarded Access Rights 
+are the most competitive and provide the greatest benefit to communities and NSW energy 
+consumers.  
+===== PDF PAGE 39 =====
+ 
+New England Renewable Energy Zone Generation and Storage Consultation Paper  | 39  
+3.12.2  Approach under consideration  
+EnergyCo is considering allocating Access Rights through a competitive tender run by either ASL or 
+EnergyCo.  
+The allocation of Access Rights is intended to be aligned with the development stages of the New 
+REZ Network Infrastructure. A phased approach will allow Access Rights to be allocated in 
+tranches, aligned with the staging of network capacity delivery and t imeline considerations.
+  
+EnergyCo is also considering options to open an Access Rights Tender soon after the declaration of 
+an Access Scheme for Projects seeking connection to existing Transgrid network proposed to be 
+covered by the Access Rights Regime. This would prevent excessi ve delays for Projects seeking to 
+connect to the existing network that are not captured by the transitional arrangements.   
+A summary of the key steps involved for generation and storage Projects seeking Access Rights to 
+connect to specified Access Rights Network is provided below in Figure 5   and explained in more 
+detail in Table 4 .  
+ 
+ 
+  
+1. Generation or storage 
+project scoping and 
+development
+2. Access Right Tender Bid
+3. Access Right Bid 
+Assessment
+4. Access Right Award and 
+execution of Access 
+Agreements
+5. Access Right 
+Notification to Network 
+Operator
+6. Response to Access 
+Right Notification
+ 7. Connection Process
+8. Project testing and 
+comissioning 
+9. Full Operation 
+Figure 5: Process Steps for securing Access Rights, connections and operations  
+===== PDF PAGE 40 =====
+ 
+New England Renewable Energy Zone Generation and Storage Consultation Paper  | 40  
+ 
+Table 4 : Steps for securing Access Rights, connections and operations  
+Item  Description and responsibilities  
+1  Generation and storage proponents conduct initial scoping and development of their Projects  
+2  Generation and storage Projects seeking connection to the Access Rights Network apply for an 
+Access Right  
+3  EnergyCo or ASL evaluate Access Rights bids against assessment criteria  
+4  Access Right awarded to successful bidders, which involves the Project proponent executing Access 
+Right agreements with EnergyCo and the Scheme Financial Vehicle and the Access Right being 
+recorded on the public Access Rights Register.  
+5  EnergyCo gives the relevant Network Operator an Access Right Notification that sets out the 
+allocation of Access Rights and the type, magnitude and timing of the proposed connections to the 
+Access Rights Network (including the Project characteristics of Ac cess Right Holders).  
+6  The Network Operator provides Access Right Holders with a response to the Access Right 
+Notification. This allows Access Right Holders to progress connection to the network in the same way 
+that the connection enquiry response would occur under the NER Connection Process.  
+7  Access Right Holders progress connection with the Network Operator under the relevant Connection 
+Process  
+8  Access Right Holders and Network Operator undertake testing and commissioning of Project 
+(including hold point testing) to ensure it meets all relevant safety and performance requirements  
+9  After all relevant requirements of the commissioning plan are successfully completed, Access Right 
+Holders can export electricity up to the Maximum Capacity as set out in the Access Rights Register.  
+ 
+Have your say 
+12.  What are your views on the proposed approach to the  allocation of Access Rights?  
+===== PDF PAGE 41 =====
+ 
+New England Renewable Energy Zone Generation and Storage Consultation Paper  | 41  
+3.13 Approach under consideration for approving access to 
+the Access Control Network 
+If an Access Control Mechanism is introduced, assessment of a Project seeking to connect to the 
+Access Control Network would be expected to include an assessment of its anticipated impact on 
+the curtailment of Access Right Holders. Options for implementing  this impact assessment, the 
+materiality threshold to be applied, and the broader allocation process are still under consideration.  
+It is not currently envisaged that these Projects would be granted consent to connect through the 
+same processes as Access Right s Network applicants, but an appropriate alternative application 
+process is under consideration.  
+See further details of the Access Control Mechanism in section 3.4. 2. 
+Have your say 
+13.  If an Access Control Mechanism is introduced under the Access Scheme, what are your 
+views on the process that should be used for the grant of consent to connect to the Access 
+Control Network? Should consent be granted based on competitive assessment of Projects?  
+3.14  REZ Connection Process under consideration 
+3.14.1  Overview  
+The relevant Network Operator will manage the connection and commissioning processes for 
+Projects seeking to connect to the Access Rights Network and Access Control Network.  
+The process for connecting a Project to an Access Rights Network differs to the standard 
+connections framework under the NER. A REZ Connection Process may be established to drive time 
+and cost efficiencies.  
+The key differences between the REZ Connection Process and the Connection Process under NER 
+are:  
+• Access Right Holders may be required to meet a non - negotiable set of REZ Access 
+Standards. REZ Access Standards specify a range of technical requirements for access and 
+must be met by Access Right Holders (subject to limited exceptions). This contrasts wit h the 
+process under the NER where generation and storage projects negotiate Generator 
+Performance Standards with the relevant Network Operator; and  
+===== PDF PAGE 42 =====
+ 
+New England Renewable Energy Zone Generation and Storage Consultation Paper  | 42  
+• Where REZ Access Standards are applied, the relevant Network Operator may process 
+applications to connect made by Access Right Holders concurrently and conduct power 
+system studies for multiple Projects at the same time, enabling the technical interactions  
+between Projects connecting in similar locations and timeframes to be considered as part of 
+one process. This contrasts with the process under the NER where each application to 
+connect is processed on an individual basis and not all technical interactions  between 
+Projects may be identified in a timely manner.   
+REZ access standards will be developed from an extensive modelling process. In the meantime, to 
+support network planning, EnergyCo is developing Indicative Technical Requirements. The purpose 
+of the Indicative Technical Requirements is to guide the planning and design of the New REZ 
+Network Infrastructure. The requirements relate to the key generator technical parameters which 
+will materially affect  network design metrics, and inform high level plant design for Projects.  
+Indicative Technical Requirements 
+EnergyCo will publicly consult on the Indicative  Technical Requirements later in 2025. The 
+requirements will be finalised before the next stage in the New Network Operator procurement 
+process. Feedback from consultation on t he Indicative  Technical Requirements and further 
+power system modelling will inform development of the REZ Access Standards. 13   
+The approach under consideration is to:  
+• apply REZ Access Standards to Projects connecting to the Access Rights Network, subject to 
+transitional arrangements, and  
+• allow relevant Network Operators to undertake concurrent processing of applications to 
+connect from Projects to which REZ Access Standards apply (as described above).  
+EnergyCo is considering appropriate transitional arrangements for Projects that have started the 
+process of negotiating access standards with Transgrid.  
+Projects seeking to connect to the New REZ Network Infrastructure   
+The relevant Network Operator will enter into a Connection Agreement (or equivalent) with each 
+Project  governing the terms and conditions of  the connection of a P roject to the New REZ Network 
+Infrastructure . Terms may include specification of performance standards, interface points, hold 
+points and compliance obligations, including the payment of any connection fees for the relevant 
+transmission services.  
+ 
+13  The EII Regulation (Schedule 1B, clauses 1 to 3) sets out the process to be followed by the Infrastructure Planner in develop ing the REZ 
+Access Standards, including requirements for consultation and AEMO approval.  
+===== PDF PAGE 43 =====
+ 
+New England Renewable Energy Zone Generation and Storage Consultation Paper  | 43 
+A performance regime will be developed so that the New Network Operator is incentivised under 
+the Project Deed to support a timely connection and commission process  for Projects connecting to 
+New REZ Network infrastructure .  
+Projects connecting to the Transgrid network subject to an Access Right Regime  
+T ransgrid will be responsible for managing the connection and commissioning  processes for 
+generation and storage projects located in the New England REZ that are seeking to connect to the 
+Transgrid network. For Projects seeking to connect to an element of the Transgrid network subject 
+to the Access Scheme, the connection enquiry stage of the NER Connection Process will be 
+replaced by the Access Rights application or tender process. Developers of such projects should 
+refer to the proposed transitional arrangements described in section 3.6  of this consultation paper.  
+Projects connecting to the Transgrid network subject to an Access Control Mechanism  
+EnergyCo is still considering the Connection Process that could apply as part of the design of the 
+Access Control Mechanism. A preliminary approach under consideration is that Projects connecting 
+would be subject to the NER Connection Process
+14 , rather than a REZ Connection Process.  
+Have your say 
+14.  What are your views on the high - level REZ Connection Process under consideration?  
+  
+ 
+ 
+  
+ 
+14  Noting that Projects connecting to the Access Control Network must receive consent from EnergyCo before making an application to 
+connect.  
+===== PDF PAGE 44 =====
+ 
+New England Renewable Energy Zone Generation and Storage Consultation Paper  | 44 
+Part II  
+Connection Assets 
+Model and Landholder 
+Payments 
+ 
+ 
+  
+===== PDF PAGE 45 =====
+ 
+New England Renewable Energy Zone Generation and Storage Consultation Paper  | 45  
+4  Connection Assets model  
+4.1  Overview of the Connection Assets model under 
+consideration 
+This section summarises the model under consideration for the connection of Projects to the Access 
+Rights Network in the New England REZ ( C onnection  Asset s model ).  
+In this section, C onnection A ssets  refer to the plant, equipment and ancillary infrastructure 
+between the Project and the connection point on the Access Rights Network and may include 
+transmission lines and switching stations.  
+4.1.1  Context  
+A significant amount of new infrastructure will be required in the New England REZ to connect 
+Projects to the Access Rights Network. Due to the scale and connection configurations of P rojects 
+seeking connection to the Access Rights Network, EnergyCo must  determine  the most appropriate 
+model for the planning, design, construction, operation and ownership of Connection Assets that 
+supports the objectives of a potential New England REZ Access Scheme (see section 3.3 ) and 
+delivers the best outcomes for communities and other key stakeholders. This includes assessing 
+whether the existing NE R  model 15 ,  where generator s le a d the procurement of their C onnection  
+Assets,  would  best  facilitate  meeting the objects of the EII Act and achieve the NSW Government’s 
+objectives for the  New England REZ, or whether an alternative model should be adopted.  
+For the New Access Rights Network, EnergyCo is responsible for acquiring interests in land and 
+obtaining major planning approvals required for the infrastructure.  EnergyCo will pass the interests 
+in land and rights under the planning approvals under contracts entered into with an authorised 
+Network Operator
+16 . This will  enable the New Network Operator to access the land and construct 
+and operate the New REZ Network Infrastructure.   
+4.1.2  Consideration of potential  models  
+The re are a number of models that could be considered for the delivery of C onnection  Assets 
+between P rojects and energy hubs  in the New England REZ.  
+ 
+15  See clause 5.2A .  
+16  See EII Act, s 31 and 32 for authorisation powers .  
+===== PDF PAGE 46 =====
+ 
+New England Renewable Energy Zone Generation and Storage Consultation Paper  | 46  
+• T he  relevant  N etwork O perator for the Access Rights Network could deliver the Connection 
+Assets under a hub - to - project model similar to that adopted for the Central - West Orana R EZ .  
+• Projects could deliver the Connection Assets under a  generator - led model similar to that 
+adopted for the South  W est REZ .  
+• Alternatively, a hybrid model  which uses elements from both the Central - West Orana  REZ and 
+South West REZ models could be adopted .  
+The hub - to - Project  Model  
+For the Central - West Orana  REZ, EnergyCo's first REZ Network Infrastructure Project, the 
+Consumer Trustee’s authorisation of the network infrastructure included the Connection Assets 
+required to connect generation and storage Projects to energy hubs (described as 'hub - to - project' 
+i nfrastructure)  in addition to the main backbone of network infrastructure 17 . In an area without 
+existing large - scale transmission infrastructure, this allowed hub - to - project solutions to be built 
+alongside the backbone network infrastructure, expediting the delivery of new renewable energy to 
+consumers . It also enabled the costs for Central - West Orana  REZ generator and storage Project 
+Connection Assets to  be recovered from those Projects through the payment of access fees to the 
+Scheme Financial Vehicle. Figure 6 shows the 10 Projects that were allocated A ccess R ights in the 
+Central - West Orana  REZ with a total capacity of 7.15  GW across 13 connection points. A key feature 
+of the Central - West Orana  REZ Project s is the geographic separation of the Projects from the core 
+500  kV transmission lines requiring significant 330 kV assets to connect the Projects to the two (2) 
+new energy hubs.  
+ 
+17  ‘Hub - to - project’ infrastructure was developed for those generation and storage projects selected to participate as foundational 
+generators in the Central - West Orana  REZ.  
+===== PDF PAGE 47 =====
+ 
+New England Renewable Energy Zone Generation and Storage Consultation Paper  | 47  
+Figure 6 : Central - West Orana REZ Map of Projects  
+ 
+ 
+A downside feature of this approach was the requirement for Projects to make significant financial 
+commitments ahead of their own final investment decision dates in order to align with the program 
+for financial close of the Central - West Orana REZ  Network Operator project. The approach also 
+removed the ability for Projects to choose their own contractor or service provider for the delivery of 
+C onnection A ssets which meant they were reliant on the Central - West Orana REZ  N etwork O perator 
+procurement process to deliver a commercially competitive outcome for all Projects.  
+The Generator - Led  Model  
+For the South West REZ, a generator - led approach is being taken to c onnection a ssets. As a result, 
+Projects are required to manage the planning and development of their own c onnection a ssets 
+(including acquiring land interests) without EnergyCo involvement. It was deemed  appropriate for 
+the A ccess S cheme to minimise interventions, particularly relating to hub - to - project infrastructure, 
+in the context of the S outh W est  REZ where the network infrastructure is not being built under the 
+EII Act and is already b eing delivered by Transgrid. 18  Ultimately, this approach made c onnection 
+a ssets less complex for generators than for the Central - West Orana REZ. However, it also reduced 
+ 
+18  This is in line with the rationale provided for not proceeding with hub to project in South West REZ, taken from the South West REZ 
+Access Scheme: Supplementary Positions Paper   
+
+===== PDF PAGE 48 =====
+ 
+New England Renewable Energy Zone Generation and Storage Consultation Paper  | 48  
+the ability for EnergyCo, as the Infrastructure Planner, to make decisions on the appropriate design 
+of the network and efficiently coordinate c onnection a ssets to achieve the best outcomes for the 
+REZ.  Figure  7   shows the four (4) Projects that were allocated A ccess R ights in the South West REZ 
+with a total capacity of 3.56  GW across 6  connection points. The location of Projects and their 
+project footprints aligned to the transmission lines and/or energy hubs being developed in the area 
+including VNI West (NSW) and Project EnergyConnect.    
+Figure 7: South West REZ Map of Projects  
+ 
+4.1.3  Key  features , benefits and challenges of connection asset models   
+Table 5  summarises the division of responsibilities for different activities for c onnection a ssets 
+under the hub - to - project and generator - led models described above. Table 6  compares the benefits 
+and challenges for each model.  
+
+===== PDF PAGE 49 =====
+ 
+New England Renewable Energy Zone Generation and Storage Consultation Paper  | 49  
+Table 5: Key features of connection asset models 
+Activity  Hub - to - Project  Generator - led  
+Route design  EnergyCo  Project  
+Planning and environmental 
+approvals 
+EnergyCo  Project  
+Biodiversity offset costs  EnergyCo  Project  
+Easement Acquisition  EnergyCo   Project  
+Construction  New Network Operator  Project / Connection Service 
+Provider  
+O peration and Maintenance  New Network Operator  Project / Connection Service 
+Provider  
+A sset ownership  New Network Operator  Project / Connection Service 
+Provider  
+===== PDF PAGE 50 =====
+ 
+New England Renewable Energy Zone Generation and Storage Consultation Paper  | 50  
+ 
+Table 6 : Benefits and challenges arising from connection asset models  
+Benefits/ 
+Challenges  
+Hub - to - Project Model  Generator - led Model  
+Benefits  • c onnection a ssets included within the 
+authorised scope of the core infrastructure 
+project simplifying the delivery of the 
+works. 
+• EnergyCo coordination of c onnection 
+a ssets design, specification, easement 
+acquisition and planning and 
+environmental approvals  leading to 
+consistent outcomes for landowners and 
+communities .  
+• Leveraging competition in the Network 
+Operator procurement process for cost 
+efficiency  
+• The market defines and develops its own 
+pathway to connection including timing of 
+financial commitments and selection of 
+connection services providers.  
+• Simplified REZ - wide access fees (not 
+project- specific)  
+Challenges  • Requires  early financial commitment from 
+Project developers  to align with Network 
+Operator financial close . 
+• Ina bility of Projects to select their own 
+connection services provider to deliver 
+c onnection a ssets to the Project’s 
+timescales.  
+• Allocation of risks to consumers and 
+associated limited flexibility arising from 
+inclusion of hub - to - project connections 
+within the authorisation.  
+• Complexity in setting project - specific 
+access fees.  
+• Limited incentives for generators to 
+coordinate c onnection a ssets . 
+• Potential challenges managing the 
+interface with the core network. 
+• Potential for inequitable land - owner 
+outcomes through commercial 
+negotiations with developers .  
+• Increased interface risks, including safety , 
+requiring coordination of multiple parties 
+and associated interfaces.  
+• Potential for P rojects hosting or adjacent 
+to hubs to block neighbouring Project s 
+from accessing the hub leading to 
+underutilisation of infrastructure. 
+4.1.4  Objectives and considerations for model selection  
+Consideration of the different Connection Assets models for the New England REZ has been 
+undertaken with a view to ensure :  
+• the timely and reliable delivery of renewable energy supply from Projects is achieved as 
+efficiently as possible to meet the transfer capacity targets for Stages 1 and 2 ;  
+===== PDF PAGE 51 =====
+ 
+New England Renewable Energy Zone Generation and Storage Consultation Paper  | 51  
+• an efficient utilisation and layout of infrastructure that minimises the duplication of assets  
+and reduces ‘spaghetti junction’ effects ;  
+• the New REZ Network Infrastructure is future  proofed for expansion beyond Stages 1 and 2  
+and the potential to unlock greater transfer capacity ; and  
+• the impact  on landowners and community associated with the construction and operation of 
+network infrastructure and associated C onnection A ssets is coordinated and minimised.  
+EnergyCo’s assessment of options for the different Connection Assets models for the New England 
+REZ has considered the above objectives and the needs of Project developers, the community, 
+electricity consumers, government, potential Network Operators , Transgrid  and other key 
+stakeholders.  
+The approach also reflects EnergyCo's consideration of the objects of the EUA Act and the EII Act.  
+4.1.5  The need for a new model  
+EnergyCo has identified over 20  GW of generation and storage potential seeking connection to the 
+Access Rights Network in the New England REZ. Utilising the 6 GW network transfer capacity target 
+to be unlocked by Stage s 1 and  2, the New England REZ is likely to require a greater number of 
+connections than either the Central - West Orana REZ or the South West REZ.  
+Like Projects located in the C entral - W est O rana  REZ, many Projects in the New England REZ will 
+require separate 330 kV transmission corridors to connect to the proposed new energy hubs. Like 
+Projects in the South West REZ, some Projects are located adjacent to the proposed new energy 
+hubs or existing transmission infrastructure which can accommodate direct connection to  the 
+Access Rights Network without 330  kV transmission corridors outside the footprint of the Project s.   
+Adopting a totally generator - led model for the New England REZ is likely to lead to an 
+uncoordinated approach to C onnection A ssets with the risk of poor and inequitable outcomes for 
+landowners and the community. 
+ 
+Coordination of Project connections to the Access Rights Network by EnergyCo is likely to result in 
+efficiencies and reduce impacts on landowners, the environment and the community, as well as 
+decrease overall project costs and risks of delay. Without efficient coordination of Connection 
+Assets, there is a material risk that Projects in the New England REZ will not be able to connect or 
+will be significantly delayed in achieving connection . This  c ould jeopardise the timely delivery of the 
+energy supply infr astructure needed to meet critical delivery dates and achieve best outcomes for 
+communities and other key stakeholders.  
+As a consequence, and noting the need for 330 kV C onnection A sset corridors in the New England 
+REZ, adopting an entirely generator - led model  is not considered appropriate.   
+===== PDF PAGE 52 =====
+ 
+New England Renewable Energy Zone Generation and Storage Consultation Paper  | 52  
+As t he Projects that will seek connection to the New REZ Network Infrastructure are generally in 
+the early stages of their development lifecycle,  adoption of the hub - to - project  model is not 
+considered appropriate as a  more flexible model is required that allows Project connections to be 
+considered and evolve over time as Projects become more certain.  
+For the New England REZ, EnergyCo is considering pursuing a hybrid model which preserves the 
+benefits of route design coordination and certainty regarding planning approval and property 
+requirements (similar to the approach in the Central - West Orana  REZ), while providing flexibility for 
+Projects to choose which party delivers their Connection Assets at a time that suits the Project’s 
+development timeline (similar to the approach in the South West REZ).  
+Sections 4.2 to 4.6 set out the key features of the proposed hybrid model for the New England REZ. 
+EnergyCo would be interested in feedback on this approach.  
+4.2  Details of the proposed Connection Assets model  
+4.2.1  Overview   
+This section provides details of the proposed Connection Assets model for Projects seeking to 
+connect to the Access Rights Network unless transitional  arrangements apply  (see section 3.6)  
+applies to a Project. Under the proposed Connection Assets model:  
+• EnergyCo would undertake the route design, apply for relevant planning and environmental 
+approvals and acquire easements for Connection Assets  for Projects seeking to connect to 
+the Access Rights Network in Stages 1 and 2 (refer to section 4.3  for details) ;   
+• EnergyCo would grant Projects a non - exclusive licence of the relevant easement areas for the 
+construction, operation and maintenance of Connection Assets.   
+• EnergyCo would seek recovery of costs for planning and easement acquisition activities from 
+Projects either as they are incurred or at a later date, such as when the Project reaches 
+financial close.  
+• Projects would be responsible for the funding, design, construction, operation and 
+maintenance costs of their Connection Assets, in accordance with the NER. Projects would 
+have the flexibility to contract with third party connection services providers.  
+• The relevant Network Operator would not be responsible for any construction works or costs 
+for Connection Assets under the REZ Network Infrastructure authorisation and revenue 
+determination. However, Projects could engage the Network Operator to provide co nstruction 
+works for Connection Assets on a contestable basis, subject to compliance by the Network 
+Operator with all relevant legal requirements and the transmission ring - fencing guidelines .  
+===== PDF PAGE 53 =====
+ 
+New England Renewable Energy Zone Generation and Storage Consultation Paper  | 53  
+The Connection Assets model is summarised in Table 7 .  
+ 
+Table 7: Summary of the Connection Assets model  
+Activity  Responsibility  Initial Funding  Costs Recovered From  
+Route design  
+(see section 4.2.2 ) 
+EnergyCo  EnergyCo  Project  
+Planning and 
+environmental approvals 
+(see section 4.2.3 ) 
+EnergyCo  EnergyCo  Project  
+Biodiversity offset costs 
+(see section 4.2.4 )  
+EnergyCo  Project/Connection 
+Service Provider  
+Project  
+Easement Acquisition  
+(see section 4.2.5 ) 
+EnergyCo   EnergyCo  Project  
+Construction   
+(see section 4.2.6 ) 
+Project / Connection 
+Service Provider  
+Project / Connection 
+Service Provider  
+Project  
+O peration and 
+Maintenance  
+(see section 4.2.6 ) 
+Project / Connection 
+Service Provider  
+Project / Connection 
+Service Provider  
+Project  
+A sset ownership  
+(see section 4.2.7 ) 
+Project / Connection 
+Service Provider  
+N/A  N/A  
+4.2.2  Route Design  
+EnergyCo is developing a Reference Design for the New REZ Network Infrastructure that will inform 
+the planning and environmental approvals for the network infrastructure, as well as the New 
+Network Operator procurement process. In parallel, EnergyCo is also developing potential designs 
+for C onnection A sset routes which accommodate known and potential future Projects connecting to 
+the New REZ Access Rights Network. This is intended to inform ongoing coordination of planning, 
+property and technical considerat ions.  
+EnergyCo would provide Projects seeking access and connection to the New Access Rights Network 
+with available details of the proposed connection point location and route alignment for their 
+Connection A ssets prior to commencement of an Access Rights Tender. EnergyCo and Transgrid 
+w ould  confirm the connection point and route alignment (if required) for C onnection A ssets for 
+Projects seeking to connect to the Transgrid Access Rights Network, prior to commencement of an 
+A ccess R ights T ender . 
+===== PDF PAGE 54 =====
+ 
+New England Renewable Energy Zone Generation and Storage Consultation Paper  | 54  
+4.2.3  Planning and Environmental Approvals  
+While the transmission line s connecting  P rojects  to the existing electricity network f orm part of the 
+broader Critical State Significant Infrastructure ( CSSI) declaration  for the New England REZ , these 
+C onnection  A ssets do  not form part of the  current New REZ Network Infrastructure p roject  
+application. As such, Connection Assets w ould  be subject to separate  approvals when the scope of 
+such connections is confirmed.  
+EnergyCo is considering options for efficiently progressing planning and environmental approvals 
+for Connection A ssets . To address the differing maturity of Projects in the REZ, EnergyCo is 
+considering two main options, including:  
+• submitting multiple separate CSSI applications for construction of Connection Assets in 
+tranches; or  
+• submitting a staged infrastructure application that seeks concept approval for all connection s 
+assets and construction approval for the first tranche of connections, with subsequent CSSI 
+applications for construction of each further tranche of connections.  
+A framework or staging approach may be required to coordinate the post - approval requirements 
+from multiple CSSI applications.  
+Project developers would remain responsible for any relevant State and Federal planning and 
+environmental approvals for their Project footprint and other associated infrastructure.  
+Refer to section 4.4  and  section  4.5  for  details of the proposed contract structure and cost recovery 
+arrangements for EnergyCo obtaining planning and environmental approvals for Connection Assets.   
+Have your say 
+15.  What benefits or challenges would EnergyCo leading planning and environmental approvals 
+for C onnection A ssets create?  
+4.2.4  Biodiversity Offset Costs  
+The planning approval(s) for Connection Assets would specify biodiversity offset obligations to be 
+satisfied in accordance with the Biodiversity Conservation Act 2016  (NSW) . As proponent of the 
+planning approval(s), EnergyCo would be responsible for delivering the offset obligations.  
+EnergyCo intends to satisfy the offset obligations for the New Access Rights Network by entering 
+into a Strategic Offset Delivery Agreement (SODA) under clause 6.3A of the Biodiversity 
+Conservation Regulation 2017  ( NSW) (BC Regulation). Under a SODA, the Environment Agency Head 
+of the NSW Department of Climate Change, Energy, the Environment and Water would deliver the 
+===== PDF PAGE 55 =====
+ 
+New England Renewable Energy Zone Generation and Storage Consultation Paper  | 55  
+offset obligation set out in the planning approval for the New Access Rights Network in accordance 
+with the BC Regulation, including consistency with the relevant conservation investment strategy 
+for the New England REZ  to be developed  by DCCEEW .   
+EnergyCo intends to deliver the offset obligations under the planning approval(s) for the Connection 
+Assets  by entering into a separate SODA(s). EnergyCo would seek to recover  from each Project the 
+offset obligation costs under the SODA for the relevant Connection Assets  corridor .  
+Refer to section 4.5.3  for  further details on the proposed payment arrangements for biodiversity 
+offset costs.   
+Project developers would remain responsible for the biodiversity offset costs for their Project  
+footprint and other associated infrastructure .  
+4.2.5  Easement Acquisition  
+Under the C onnection A ssets model, EnergyCo would use its acquisition powers to acquire 
+easements for C onnection A ssets along corridors  between Projects and the nominated connection 
+points on the Access Rights Network, including for D edicated C onnection A ssets .  
+The acquisition of C onnection A sset easements by EnergyCo would support  coordination  and 
+facilitat ion of  the efficient , timely and reliable supply of energy to network infrastructure  and to 
+consumers, and achiev ing  the objectives informing the selection of the preferred model option listed 
+at section 4.1.4 . 
+Under section 15(1) of the EUA Act, EnergyCo has powers to acquire land, including an interest in 
+land, by agreement or by compulsory process in accordance with the Land Acquisition (Just Terms 
+Compensation) Act 1991 (NSW) (Just Terms Act) for the purpose of the EUA Act or any other act 
+administered by the Minister for Energy, including in its capacity as Infrastructure Planner for the 
+N ew England  REZ.  EnergyCo would engage with land owners to reach agreement by negotiation  and  
+only use compulsory process wh ere required. 19   
+For each C onnection A sset easement, EnergyCo would grant the Access Right Holder a non -
+exclusive licence of the easement area for the construction, operation and maintenance of the 
+C onnection A ssets . Access Right Holders, or their relevant third - party connections service provider, 
+would retain ownership of the constructed C onnection A ssets  and EnergyCo would retain ownership 
+of the connection asset easement .  
+P roject developers would  remain responsible for securing relevant interests in  land required for 
+their P roject  footprint and other associated infrastructure .  
+ 
+19  For further information about how  EnergyCo engag es  with landowners for land acquisition see here: Information for landowners | 
+EnergyCo .   
+===== PDF PAGE 56 =====
+ 
+New England Renewable Energy Zone Generation and Storage Consultation Paper  | 56  
+Refer to section 4.4  and  section  4.5  for  details of the proposed contract structure and cost recovery 
+arrangements for EnergyCo acquiring easements for Connection Assets.   
+Have your say 
+16.  What benefits or challenges would EnergyCo acquiring easements for Connection Assets 
+create?  
+4.2.6  Construction, operation and maintenance of C onnection A ssets 
+Dedicated Connection Assets (DCAs)  
+Project developers  would be responsible for funding all aspects of the design, construction, 
+ownership, operation and maintenance of Dedicated Connection Assets (DCAs) in accordance with 
+the NER to provide flexibility for developers to manage contractors and delivery schedul es.  
+D evelopers may undertake these works directly  or engage a contractor or connection service 
+provider 20  to build, operate and maintain these assets under an agreement between the Project and 
+the contractor  or service provider ( without EnergyCo’s involvement). As noted in section 4.2.3 , 
+construction of Connection Assets would need to be carried out in accordance with the planning 
+approval obtained by EnergyCo.  
+For Projects connecting to the New Access Rights Network only, EnergyCo is considering whether 
+to include provisions in the Project  Deed to require the New Network Operator to offer (and enter 
+into) a separate connection delivery agreement for the construction of C onnection Assets  when 
+requested by a developer . The New Network Operator would be required to establish  a functionally 
+separate business, in accordance with the transmission ring fencing guidelines, to offer contestable 
+transmission services for D CAs.  
+The connection delivery agreement would  comply with key terms prescribed within a term sheet to 
+be included in the Project Deed. This is designed to provide developers confidence and certainty 
+that commercial offers would  be provided on competitive market terms.  
+Have your say 
+17.  Do you believe there will be sufficient market capacity in the provision of contestable 
+transmission services for developers to be able to procure Connection Assets under 
+ 
+20  S ubject to the compliance by the primary TNSP with the transmission ring - fencing guidelines, the connection services provider may be 
+the Primary TNSP .  
+===== PDF PAGE 57 =====
+ 
+New England Renewable Energy Zone Generation and Storage Consultation Paper  | 57  
+competitive terms, particularly during the delivery phase of the New REZ Network 
+Infrastructure project?  
+18.  Would you see value in the New Network Operator establishing a contestable works 
+business to offer the construction of Connection Assets? 
+19.  What commercial terms would developers expect to be included in a prescribed connection 
+delivery agreement term sheet, to give developers confidence that the New Network 
+Operator’s commercial offers will be made on competitive market terms? For example, 
+pricing, timing, bonding, etc.  
+Identified User S hared A ssets (IUSAs)  
+For Projects seeking connection to the New Access Rights Network, EnergyCo would consider on a 
+case - by - case basis the extent to which there may be elements of identified user shared assets 
+(IUSAs) which could also be procured by the Project developer contestably. EnergyCo is considering 
+whether the non- contestable elemen ts of IUSAs would be delivered as an EII Act regulated 
+transmission service or as a negotiated transmission service by the New Network Operator. 21   
+For Projects connecting to the Transgrid Access Rights Network, the identification of contestable 
+components of IUSAs would be undertaken in accordance with the NER. 
+Designated Network Assets (DNAs)  
+EnergyCo understands developers may consider a Designated Network Asset (DNA) arrangement 
+for their Connection Assets. EnergyCo would like to understand whether developers would be 
+willing to establish a DNA and associated access policy with neighbouring p roject developers who 
+are not related entities of the developer and how they would propose to address projects 
+connecting to the DNA connection at different times.
+22   
+ 
+ 
+Have your say 
+ 
+21  See NER, Chapter 9A that defines ‘EII regulated transmission service’ and modifies the NER Framework for IUSAs connecting to Access 
+Rights Network, available here: NSW Government Gazette No 476 of 06 December 2024  
+22  See NER, Chapter 9A that modifies the NER framework for DNAs for connections to Access Rights Network under Chapter 9A, 
+available here: NSW Government Gazette No 476 of 06 December 2024  
+===== PDF PAGE 58 =====
+ 
+New England Renewable Energy Zone Generation and Storage Consultation Paper  | 58  
+20.  What are the key barriers to you coordinating a Designated Network Assets (DNA) with 
+another entity? What role could EnergyCo play in helping to overcome barriers to DNA 
+Connection Assets?  
+Connection Asset  Ownership  
+Under the Connection Assets model, ownership of Connection Assets would be in accordance with 
+Chapter 5 of the NER which could be a combination of the Access Right Holder, its connections 
+service provider and/or the Primary TNSP for the relevant part of the Access Rights Network  
+(depending on the approach chosen by the relevant Project) .  
+4.2.7  Connection Process  
+Refer to section 3.14  for details on the proposed REZ Connection Process.  
+4.3  Application of the Connection Assets model  
+One option under consideration is for t h e Connection Assets model to  apply to all generation and 
+storage Projects seeking access and connection to the Access Rights Network , including Projects 
+seeking connection to the Transgrid Access Rights Network, except Projects captured under 
+s cenarios in Table 8 .  
+An alternative option under consideration is for the C onnection A ssets model to apply to all 
+generation and storage Projects seeking access and connection to the New Access Rights Network  
+only (and not the Transgrid Access Rights Network), except Projects captured under s cenarios in 
+Table 8 . EnergyCo is seeking feedback on whether the connections model under consideration 
+should (or should not) apply to Projects connecting to the Transgrid Access Rights Network . 
+Unless a scenario  set out in Table 8  applies to a Project, a Project  would be subject to the 
+Connection Assets model and be unable to opt - out  and seek to obtain planning and environmental 
+approvals and /or acquire easements separately. The obligations on Projects to which the 
+Connection Assets model applies would be set out in the various agreements described in section 
+4.4 .   
+Table 8: Scenarios that do not permit participation  
+Ref.  Scenarios that do not permit participation  
+1. Projects that are not subject to the Access Rights Regime, including any Projects captured by the 
+Transitional Arrangements.  
+===== PDF PAGE 59 =====
+ 
+New England Renewable Energy Zone Generation and Storage Consultation Paper  | 59  
+Ref.  Scenarios that do not permit participation  
+2.  Projects where the Project  developer already owns the land required to host the C onnection 
+A ssets freehold.  
+3.  Projects where all of the easement required for the Connection Assets sits within the land 
+required to host the Project.  
+4.  Projects that have negotiated options with all landowners to lease or licence the entire 
+connection easement between their Project boundary and the connection point on the Access 
+Rights Network as nominated by Transgrid or EnergyCo.  
+5.  Projects that have submitted an Environmental Impact Statement for the connection easement 
+between their Project boundary and the connection point on the relevant transmission network as 
+nominated by Transgrid or EnergyCo.   
+EnergyCo may make an initial assessment of whether the scenarios in Table 8  apply to Projects 
+following the declaration of an Access Scheme. Subsequent assessments may be made at 
+EnergyCo’s discretion including prior to the commencement of an Access Rights Tender.   
+Projects that are unable to participate in the Connection Assets model would be responsible for 
+obtaining the planning and environmental approvals and acquiring easements (where required) for 
+their Connection Assets. If such a Project is seeking to connect  to the Access Rights Network and is 
+not captured by the Transitional Arrangements, it would still need to apply for and obtain an Access 
+Right. EnergyCo and/or Transgrid would still confirm the proposed connection point for such 
+Projects prior to the commencement of an Access Rights Tender.  
+4.3.1  Activity commencement  milestones  
+Table 9  sets out the draft project  milestones that would need to be satisfied  for each Eligible  
+Project prior to  EnergyCo commenc ing  activities under the Connection Assets model. These 
+milestones are designed to limit the costs incurred by EnergyCo prior to commitments from Projects 
+that they will proceed, and may be amended following consultation. EnergyCo may suspend 
+activities  and incurring costs until Projects successfully satisfy each chronological milestone .  
+===== PDF PAGE 60 =====
+ 
+New England Renewable Energy Zone Generation and Storage Consultation Paper  | 60  
+  
+Table 9 : Activity commencement milestones  
+Item  Project Milestone  EnergyCo Activity  
+Planning and Environmental Approvals Activities  
+1.   At the date of the A ccess S cheme D eclaration, the P roject : 
+• has submitted the scoping report and received Secretary’s 
+Environmental Assessment Requirements ( SEARs ); and  
+• is listed on AEMO’s Generation Information spreadsheet with a 
+“Commitment Status” of at least “Publicly Announced” .  
+Scoping Report preparation 
+(First Connection Assets EIS) 
+2.   At a date nominated by EnergyCo , the  P rojec t:  
+• has submitted the scoping report and received Secretary’s 
+Environmental Assessment Requirements ( SEARs ); and  
+• is listed on AEMO’s Generation Information spreadsheet with a 
+“Commitment Status” of at least “Publicly Announced” . 
+Scoping Report preparation 
+(Subsequent Connection Assets 
+EISs)  
+3.   • EnergyCo has submitted a scoping report and received SEARs 
+for the Connection Assets for the Project.  
+• The Project has participated in an A ccess Rights process or 
+tender and has passed the eligibility stage . 
+• The Project has provided an initial payment or provided the 
+required securities (refer to section 4.5  for further details).  
+B iodiversity studies and drafting 
+EIS reports 
+Easement Acquisition Activities  
+4.   • EnergyCo has submitted a scoping report and received SEARs 
+for the Connection Assets for the Project.  
+• The Project has participated in an A ccess Rights allocation  
+process and has passed the eligibility stage.  
+• The Project has demonstrated to EnergyCo that it has acquired 
+or is reasonably likely to acquire the necessary land interests 
+required  to construct and operate the proposed generation or 
+storage project.   
+• The Project has provided an initial payment or provided the 
+required securities (refer to section 4.5  for further details).  
+Issue opening letters  and 
+commence negotiations p hase   
+5.   The Project has been allocated an A ccess Right . If required, issue proposed 
+acquisition notices and commence a 
+c ompulsory acquisition p rocess.  
+===== PDF PAGE 61 =====
+ 
+New England Renewable Energy Zone Generation and Storage Consultation Paper  | 61  
+EnergyCo  acknowledges that each Project will have its own development program and whilst some 
+Projects may be ready  to participate in an early A ccess R ight tender, other Projects may target 
+participation in later tenders. EnergyCo w ould  work with Projects to further understand their 
+intended development and delivery programs and the likely dates when Projects may achieve the 
+milestones described in Table 9  and the associated timing of EnergyCo undertaking the activities 
+described in section 4.3. 
+4.3.2  Connection  A ssets model duration  
+It is proposed that EnergyCo would continue to undertake the activities described in sections 4.2.1 to 
+4.2.5 for Projects that had been allocated an Access Right prior to the earlier of:  
+a.  end 2032; or  
+b.  a date when EnergyCo does not reasonably expect that significant further A ccess R ights 
+may be granted based on the Stage 2 REZ Transfer Capacity . 
+EnergyCo may, in consultation with relevant stakeholders, extend the C onnection A ssets model to a 
+later point in time and/or apply the model to future stages of the New England REZ.   
+Have your say 
+21.  What are your views on the proposed scenarios set out in Table 8  and should EnergyCo 
+consider other scenarios when considering whether the model should or should not apply to 
+a Project?  
+22.  What are your views on the proposed activity commencement milestones for Eligible 
+Projects set out in Table 9  and should EnergyCo consider other milestones?  
+23.  What are your views on whether the connections model under consideration should (or 
+should not) apply to Projects connecting to the Transgrid Access Rights Network as well as 
+to Projects connecting to the New Access Rights Network?  
+24.  What are your views on the proposed duration of the C onnection A ssets model? 
+4.4  Proposed contract structure  
+The proposed contract structure for a Project connecting to the Access Rights Network under the 
+Connection Assets  model is illustrated in Figure 8  and consists of the following agreements:  
+• Access Project Development Agreement between EnergyCo and the Access Right Holder;  
+===== PDF PAGE 62 =====
+ 
+New England Renewable Energy Zone Generation and Storage Consultation Paper  | 62  
+• Access Payment Deed between the Scheme Financial Vehicle (SFV) and the Access Right 
+Holder;  
+• Easement Agreement ( s )  between EnergyCo and  relevant  land owner(s) ;  
+• Land Access Deed between EnergyCo and the Access Right Holder; and  
+• Connection Agreement with the Network Operator.  
+ 
+Figure 8: Proposed contract structure  
+ 
+Access PDA : The contract between the Access Right Holder and EnergyCo, placing obligations on 
+the Access Right Holder related to the development, construction and operation of its Project, 
+compliance with its social licence commitments and reporting obligations.   
+
+===== PDF PAGE 63 =====
+ 
+New England Renewable Energy Zone Generation and Storage Consultation Paper  | 63  
+The obligations on EnergyCo and the Access Right Holder and the processes required to obtain 
+planning and environmental approvals and acquir e  easements for C onnection A ssets would  also be 
+set out in the Access PDA. This  includes obligations and activities between award of an Access 
+Right and the Project reaching its financial close, as well as obligations to undertake, comply with 
+and report on social licence commitments.  
+The Access PDA would  include a template Land Access Deed (see details below) .  
+Access Payment Deed:  The contract between the Applicant and the SFV  which would include the 
+obligations of the Access Right Holder to pay Access Fees and provide security . The Access 
+Payment Deed would also set out  the  termination amounts  payable  where the contract is terminated 
+in certain circumstances .  
+Easement Agreement :  The contract between EnergyCo and a landowner granting easement rights 
+to use and access part of the land for the design, construction, operation and maintenance of 
+Connection Assets . 
+Land  A ccess Deed :  The contract between the Access Right Holder and EnergyCo under which 
+EnergyCo would provide the Access Right Holder with a non - exclusive licence to construct, operate 
+and maintain the Connection Assets. The executed Land Access Deed  for each Project would  
+contain:  
+• the conditions for access to the easement;  
+• costs payable  to EnergyCo to recover planning and development costs and costs of acquiring 
+the easement (see section 4 .5  for details);  
+• the  planning and environmental approval conditions  applicable to the relevant C onnection 
+A sset ; and  
+• the biodiversity offset liabilities and costs payable  to EnergyCo to discharge these liabilities 
+under the proposed SODA (see section 4. 2.4  and section 4 .5  for further details).  
+Connection Agreement: The contract between the Access Right Holder and the Network Operator 
+regarding the connection of the Project to the relevant network infrastructure which the parties  are 
+required to enter under the NER.  
+4.5  Proposed cost recovery structure s   
+4.5.1  Recovery of EnergyCo development costs  
+EnergyCo is considering appropriate mechanisms to recover EnergyCo’s development costs 
+incurred under the proposed C onnection A ssets model, including for :  
+===== PDF PAGE 64 =====
+ 
+New England Renewable Energy Zone Generation and Storage Consultation Paper  | 64  
+• p lanning and environmental approvals  and costs incurred in preparing applications and 
+reports, conducting the required surveys, responding to submissions and consulting with the 
+Department of Planning, Housing and Infrastructure  and other stakeholders; and  
+• easement acquisitions and c osts for EnergyCo’s property team, valuers and legal advisors .  
+Repayment of EnergyCo’s actual development costs would be made under contract and could either 
+occur when incurred by EnergyCo or at a later date, such as after execution of the Land Access 
+Deed or at  Project financial close. Noting that in the absence of the Connection Assets model, these 
+costs are for activities that developers would have otherwise incurred, EnergyCo may require 
+developers to make initial payments as early as at the time of submittin g an Access Rights 
+application or tender and upon execut ing access agreements. It is not intended that EnergyCo’s 
+development costs would be recovered through access fees paid to the scheme financial vehicle.  
+D eveloper s  w ould need to have sufficient development funding available to repay EnergyCo for its 
+development costs, which may occur prior to the P roject  reaching final investment decision  / 
+financial close .  
+In scenarios where EnergyCo does not recover its development costs as they are incurred, EnergyCo 
+would require Access Right Holders to provide security to mitigate the risk of sunk costs in the 
+event that the Access Right Holder does not execute a Land Ac cess Deed or the Project does not 
+proceed. The timing and magnitude of any securities required would be based on EnergyCo 
+estimates of the project - specific development costs at the time of Access Right award.   
+4.5.2  Recovery  of  easement acquisition costs   
+Payments to landowners for easements are proposed to  be made by EnergyCo at the time that the 
+interest passes to EnergyCo  as set out below:  
+• 100% of the market value for the temporary construction easement  and all disturbance  costs 
+(including legal and valuation fees) , paid at the time the interest in the construction easement 
+passes to EnergyCo .  
+• 80% of the market value of the permanent easement, including injurious affection paid  at the 
+time interest in the  temporary construction e asement passes to EnergyCo . 
+• 20% of the market value of the permanent easement, including injurious affection, paid after 
+completion of construction and registration of the easement, supported by a survey that 
+shows the final easement on a deposited plan.  
+Repayment of actual Project - specific easement acquisition costs by Projects would be made under 
+contract and could either occur when incurred by EnergyCo or at a later date, such as after 
+execution of the Land Access Deed or at Project financial close. It is not intended that easement 
+acquisition costs would be recovered through access fees paid to the scheme financial vehicle.  
+===== PDF PAGE 65 =====
+ 
+New England Renewable Energy Zone Generation and Storage Consultation Paper  | 65  
+As with EnergyCo’s development costs, developers would need to have sufficient development 
+funding  available to repay EnergyCo for the cost of acquiring easements  which may occur prior to 
+the P roject reaching final investment decision / financial close.   
+In scenarios where EnergyCo does not recover the easement acquisition costs as they are incurred, 
+EnergyCo would require Access Right Holders to provide security to mitigate the risk of sunk costs 
+in the event that the Access Right Holder does not execute a Land Access Deed or the Project does 
+not proceed. The timing and magnitude of any securities required would be based on EnergyCo 
+estimates of the Project - specific easement acquisition costs at the time of Access Right award.   
+4.5.3  Payment  of biodiversity  offset costs  
+EnergyCo would  also  seek payments from Access Right Holders for the portion of the SODA (or 
+other offsets delivery mechanism) for their Connection Assets. The exact magnitude and timing of 
+payments from Access Right Holders to EnergyCo to meet the SODA obligations would be set out in 
+the Land Access Deed and payable no later than the start of  construction of the Connection Assets, 
+or other timing as may be determined in the SODA and/or planning approval.   
+Access Right Holders should plan the timing of their financial investment decision and financial 
+close activities to ensure they are able to fund their biodiversity offset costs when they fall due for 
+payment.  
+Have your say  
+25.  At which of the following points in time would developers be able to make payments to 
+EnergyCo to recover costs incurred under the Connection Assets model:  
+      a.  Initial payments at the start of an Access Rights tender process;  
+      b.  Further payments under the Access PDA based on initial estimates;  
+      c.  Further payments at execution of the Land Access Deed based on updated estimates; 
+and/or;  
+      d.  Actual payments under the Land Access Deed, following financial close of the Project?  
+26.  In any scenario where EnergyCo’s costs are not recovered as they are incurred, what 
+potential challenges would developers face in providing security to EnergyCo at any of the 
+following points in time:  
+      a.  Upon execution of tender process deed;  
+      b.  Upon execution of an Access PDA; and/or  
+      c.  Upon execution of a Land Access Deed?  
+===== PDF PAGE 66 =====
+ 
+New England Renewable Energy Zone Generation and Storage Consultation Paper  | 66 
+4.6  Other models considered  
+Beyond the C onnection A sset model currently being considered for adoption in New England REZ, 
+there are  other potential models which have also been considered, each with their own benefits and 
+challenges. One model is where the New Network Operator would be required to deliver the 
+C onnection A ssets under a contract between an Access Right Holder and the New  Network 
+Operator.  
+The other model considered in this section  would only apply  to P rojects seeking to connect to the 
+New Access Rights Network and would not apply  to Projects seeking to connect to the Transgrid 
+Access Rights Network.  
+Under the model where the New Network Operator delivered the C onnection A ssets, pricing for the 
+development of the C onnection A ssets would be provided under a framework where, through the 
+contestable procurement process, the successful New Network Operator has made commitments 
+on the pricing principles that would apply to preparing Project - specific connections proposals. This 
+would provide Projects with transparency and certainty on the commercial arrangements for 
+C onnection A ssets.  
+The New Network Operator - led Connection Assets model was considered in response to some of 
+these trade - offs. The primary benefits of the New Network Operator - led Connection Assets model 
+would be:  
+• that a single party ( the New Network Operator) would  be responsible for delivery of each 
+C onnection A sset under the relevant planning approval, which would simplify management 
+and satisfaction of post - approval planning matters with potential time and cost savings ; and  
+• the Projects have a transparent process for pricing of the Connection Assets, and other than 
+funding the works (as described above), are otherwise not required to deliver or operate the 
+C onnection A sset.  
+One of the factors in support of a New Network Operator - led C onnection  Assets model is that the 
+model described in section 4.2 (where a developer can choose their pathway for developing the 
+Connection Assets) would  result in EnergyCo being the Proponent for the Connection Assets under 
+the relevant planning approvals. This means that EnergyCo would be ultimately liable for 
+satisfaction of the conditions of the planning approval. This liability becomes more complex in 
+scenarios where:  
+• there are multiple Projects in the same vicinity, where EnergyCo would  be required to manage 
+compliance with conditions through multiple Access Rights Holders and their contractors/ 
+service providers and the cumulative impacts in an area;  
+===== PDF PAGE 67 =====
+ 
+New England Renewable Energy Zone Generation and Storage Consultation Paper  | 67  
+• a Project’s C onnection A ssets are located in an easement in the vicinity of or parallel to an 
+easement procured for the New Network Operator to construct the New REZ  Network  
+Infrastructure ; 
+• a Project has an EPC contractor delivering works under both the planning approval for the 
+Project and the C onnection A ssets’ EIS; or  
+• multiple contractors delivering different transmission lines under the one Infrastructure 
+Approval and conditions requiring separate or staged management plans . 
+It is likely therefore that EnergyCo  would take a conservative and prescriptive approach to any 
+connection asset works being performed to appropriately manage and discharge its obligations 
+under the planning approvals and environmental laws more broadly. This is particularly important in 
+areas where cumulative impacts need to be managed to ensure community impacts are minimised. 
+However, this may lead to limited flexibility for developers and their contractors.  For example, this 
+may involve using template documents to fulfil post - approval planning requirements or complying 
+with a pre - determined staging report or process to reduce the complexity of multiple contractors 
+operating under the one approval.  
+EnergyCo notes that previous feedback from developers confirmed a desire for developers to have 
+flexibility to select who they wanted to deliver the Connection Assets rather than relying solely on 
+the New Network Operator.  However, in light of the above, this may require a trade off in terms of 
+how subsequent planning obligations are met to reduce complexity and the time involved in meeting 
+post - approval requirements under a planning approval. Accordingly, under  the Connection Assets 
+model, providing flexibility on who delivers the connection works is likely to result in less flexible 
+arrangements under the planning approvals, as described above.  
+Have your say  
+27.  Would developers see value in the alternative model and if so, what risks would the 
+developers be concerned about?  
+ 
+===== PDF PAGE 68 =====
+ 
+New England Renewable Energy Zone Generation and Storage Consultation Paper  | 68  
+5 Payments to landowners hosting 
+C onnection A ssets  
+Land owners  who host transmission infrastructure play an essential role in th e renewable energy 
+transition.    
+The Strategic Benefit Payments (SBP) Scheme ensures eligible land owners  share in the benefits of 
+th e  significant economic investment  in new transmission infrastructure . Payments under the SBP 
+Scheme are equivalent to $200,000 (in real 2022 dollars) per kilometre of transmission 
+infrastructure hosted, paid  annually by the network operator over a 20 - year period in accordance 
+with the Strategic Benefit Payment Guidelines (SBP Guidelines) 23 . These payments are made in 
+addition to and w ould  not reduce any compensation paid to land owner s for transmission easements 
+in accordance with  the  Just Terms Act . 24   
+Appendix A  of the SBP Guidelines 25  sets out the Eligible Projects under the SBP Scheme and in 
+section A.7 sets out the Eligible Infrastructure for  the New REZ Network Infrastructure p roject  
+including 500 kV and 330 kV transmission lines to be delivered by the New Network Operator.  
+The SBP Scheme does not include Connection Assets as Eligible Infrastructure.  
+In order to create an equitable outcome between landowners hosting 500 kV or 330 kV transmission 
+lines delivered as part of the New REZ Network Infrastructure project and landowners hosting 500 
+kV or 330 kV Connection Assets, EnergyCo is considering option s for establishing a framework for 
+payments to be made to landowners hosting 500 kV or 330 kV Connection Assets constructed and 
+operated by Project developers in the New England REZ.  
+These payments are separate to the planning and easement acquisition costs payable to EnergyCo 
+(see section 4.5.2 )  and  Access Right Holders may be required to make landowner benefits payments 
+as a condition of their Access Right.  
+EnergyCo may requir e  Access Right Holders to provide securities for landowner benefits payments 
+over the period from the start of construction to the end of the proposed 20 - year payment term.  
+ 
+ 
+23  See https://www.energyco.nsw.gov.au/publications/strategic- benefit - payments - scheme - guidelines  
+24  See EUA  Act ) , s 15(4) and Electricity Supply Act 1995  (NSW) , s 44(4).  
+25  See page 7 of NSW Government Gazette No 241 of 20 June 2025. SBP Guidelines should be read alongside cl 6 of sch 2 of the 
+Electricity Supply Act 1995.  
+===== PDF PAGE 69 =====
+ 
+New England Renewable Energy Zone Generation and Storage Consultation Paper  | 69  
+Have your say 
+28.  What are your views on Project developers making payments to landowners for hosting 330 
+kV and 500 kV Connection Assets, including on the timing of payments?  
+29.  What challenges would developers face in providing security to EnergyCo under the Access 
+PDA to cover a period from the start of construction to the end of the 20 - year payment 
+period?  
+ 
+  
+===== PDF PAGE 70 =====
+ 
+New England Renewable Energy Zone Generation and Storage Consultation Paper  | 70  
+Part III  
+Proposed System 
+Strength Model 
+  
+===== PDF PAGE 71 =====
+ 
+New England Renewable Energy Zone Generation and Storage Consultation Paper  | 71  
+6  Approaches to System Strength  
+6.1  Description  
+System strength refers to the ability of the power system to maintain and control a stable voltage 
+waveform, both during normal  operation and following a disturbance. The N ew England  REZ will 
+require robust system strength capabilities  to maintain power system security and enable 
+generators to operate stably and export electricity .  
+6.2  System strength approaches under consideration 
+6.2.1  Background  
+EnergyCo is considering how to efficiently manage the provision of system strength in the New 
+England REZ to deliver beneficial outcomes for generators and consumers. The ongoing 
+Transmission Planning Review
+26  has made several draft recommendations in relation to the provision 
+of system strength in REZs. The approach under consideration is consistent with these 
+recommendations.  
+In the approach under consideration, Transgrid as system strength service provider and/or the 
+Infrastructure Planner will be responsible for meeting requirements for system strength in the New 
+England REZ. This includes  requirements for a minimum level of system strength for power system 
+security and any system strength required to  support the stable operation of generating plant 
+(including generation, storage and hybrid Project s) .  
+EnergyCo is seeking to optimise the level of centralised system strength provided in the New 
+England REZ based on joint planning with Transgrid and  having regard to technology developments, 
+expected generator demand for system strength and the approaches being taken to system 
+strength mitigation in the NER context.  
+Grid forming inverter technology is rapidly evolving . EnergyCo understands that under the NER 
+framework, many generators and integrated resource providers are choosing plant technology that 
+allows them to fully or partially mitiga te their system strength impact . Many of these projects are  
+opting to pay the NER system strength charge but can then reduc e  that charge to zero or near zero 
+by demonstrating full or partial mitigat ion of their  system strength impact  (e.g., the charge will be 
+ 
+26  NSW Transmission Planning Review 2025 | NSW Climate and Energy Action  
+===== PDF PAGE 72 =====
+ 
+New England Renewable Energy Zone Generation and Storage Consultation Paper  | 72  
+reduced to zero if the connection applicant can demonstrate a withstand Short Circuit Ratio ( SCR ) of 
+1.2). 27    
+Given this context, and the current levels of interest in grid - forming BESS plant (both standalone 
+and co - located wind or solar generation behind the connection point  to locate in the New England 
+REZ), EnergyCo is seeking feedback on a proposed approach that would minimise the need for the 
+central provision of capital assets (e.g., synchronous condensers) to meet generator system 
+strength demand in the New England REZ.  
+6.2.2  Overview of approach under consideration  
+The approach under consideration would require Access Right Holders to:  
+• meet or exceed the minimum withstand SCR requirement in the REZ access standards, and  
+• reduce their system strength quantity to zero on a basis which is consistent with the NER 
+framework.
+28  
+Under this approach, Access Right Holders would not be required to pay any central charge for 
+system strength through access fees  or any other charging framework . Any system strength 
+provided by the system strength service provider or the Infrastructure Planner would be funded by 
+consumers under either a NER or EII Act revenue determination. This position is aligned with the 
+NER approach under which  generators who opt to mitigate their system strength impact by paying 
+the NER system strength charge rather t han self - remediate have a zero charge if their system 
+strength demand is zero and consumers fund any system strength provided to meet minimum level 
+of system strength for power system security . However, compared to NER arrangements, the 
+proposed approach would provide Access Right Holders with additional mechanisms to reduce their 
+system strength demand to zero (see below).  
+6.2.3  Minimum withstand  SCR at the connection point  
+As noted in section 3.14 , EnergyCo will consult on Indicative Technical Requirements later in 2025. 
+The Indicative Technical Requirements will include a proposed minimum withstand SCR for Projects 
+for consultation, currently proposed to be 1.8.  
+ 
+27  Under the System Strength Impact Assessment Guidelines (SSIAG) made by AEMO under the NER, if plant can withstand SCR 1.2 then 
+it is taken to have a system strength quantity of zero  ( SSIAG, section 6.2.4 ). Under the NER, if plant has a system strength quantity of zero, 
+its system strength charge will be zero (NER, clause 6A.23.5).  
+28  See footnote 25.  
+===== PDF PAGE 73 =====
+ 
+New England Renewable Energy Zone Generation and Storage Consultation Paper  | 73  
+6.2.4  Mechanisms to  reduce system strength demand to zero  
+Access Right Holders would have two options (currently under consideration) to reduce their system 
+strength demand to zero:  
+Option 1 –  System strength quantity of zero at the connection point (SCR=1.2)  
+Under this option, an Access Right Holder would need to meet or exceed the withstand SCR 1.2 
+requirement at its connection point. For example, a wind generator might install a BESS with a grid 
+forming inverter behind the same connection point, enabling the integrated  resource system to 
+meet a withstand SCR of 1.2.  
+Option 2 –  System strength quantity deemed to be zero  
+Under this option, an Access Right Holder would need to put in place arrangements ‘in front of’ the 
+connection point that are deemed by the Network Operator [following consultation with AEMO] to 
+have reduced their system strength quantity to zero by provid ing the required capacity of system 
+strength remediation (required capacity). These arrangements could be:  
+• providing a source of system strength (e.g. grid - forming BESS, synchronous condenser etc.) 
+of the required capacity elsewhere in the network , or  
+• contracting with a third - party source of system strength (grid - forming BESS or synchronous 
+condenser) for the required capacity . 
+The required capacity needed for the deemed reduction would be determined through a formula set 
+out in modifications to the NER (or in procedures made under the NER) made under the EII Act.  
+If the source of system strength used for the deeming mechanism is a grid - forming BESS, it will 
+need to pass tests to verify that it is providing (rather than absorbing) system strength, and to 
+quantify this system strength provision. These tests will like ly be set out in procedures made under 
+the NER (e.g. in a revision to the AEMO System Strength Impact Assessment Guidelines).  
+6.2.5  Potential last resort provider of system strength  
+EnergyCo is also considering whether the N etwork O perator should be required to act as a last 
+resort source of the required system strength quantity for a generator if a generator is unable to 
+use option 1 or 2 above . Under this mechanism, if requested by a generator,  the N etwork O perator 
+would  be required to provide that  generator with system strength service s  that will reduce the 
+system strength quantity for that generator to zero .  This service would  be a negotiated transmission 
+service (similar to system  strength connection works under the existing NER) and the relevant 
+generator would  pay the N etwork O perator directly for the relevant service .  
+===== PDF PAGE 74 =====
+ 
+New England Renewable Energy Zone Generation and Storage Consultation Paper  | 74  
+6.2.6  Implementation  
+To implement this model, modifications may be required to the NER and/or procedures made under 
+the NER, for example to:  
+• ‘turn off’ the standard processes for generators to mitigate system strength demand under 
+the NER (i.e., the option to self - remediate or pay the NER system strength charge), and  
+• require Access Right Holders to reduce their system strength demand to zero as described 
+above.  
+Have your say 
+30.  What would be the implications on Projects being required to meet a withstand SCR of 1.2?  
+31.  What options would Projects have to meet a withstand SCR of 1.2 at their connection point 
+with ‘front of meter’ solutions?  What issues do you see with ‘front of meter’ solutions to 
+meet the withstand SCR requirement?  
+32.  Do you see value in centralised system strength being provided to meet generator demand 
+for system strength? If so, should use of centralised system strength be mandatory or 
+optional?  
+33.  What are your views on how charges for centralised system strength should be structured, 
+including whether the charges are fixed or adjustable to reflect costs of providing system 
+strength over time?  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+===== PDF PAGE 75 =====
+ 
+New England Renewable Energy Zone Generation and Storage Consultation Paper  | 75  
+7 Next Steps  
+Feedback  
+EnergyCo will continue to work with industry, local communities and other stakeholders  to develop 
+approaches for generation and storage for the  New England REZ. Your feedback is highly valued 
+and will be carefully considered as we refine approaches and progress further design work. We 
+thank you for your participation in the process.  
+You are invited to provide feedback on the New England REZ Generation and Storage Paper using the New 
+England REZ Generation and Storage Paper S ubmission F orm  or  via free form submission. Please submit your 
+response to newengland.access@energyco.nsw.gov.au  with ‘Your Name – New England REZ Generation and 
+Storage Consultation Paper’ in the subject line.  
+Submissions will be accepted until 12 September 2025 .   
+Probity, confidentiality and caveats  
+T his paper and any feedback processes associated with it, are not part of, nor a pre –requirement to, 
+any procurement , competitive tender or application process .  
+Participation by any entity in this stakeholder engagement process is entirely voluntary. 
+Participation, or non - participation, in feedback will not provide any participant any advantage or 
+disadvantage in any future procurement , competitive tender or application process . No information 
+provided by submission will be used in any future evaluation of offers or bids .  
+Industry information gained from feedback may be used in the further scoping and development of 
+generation and storage approaches for the New England REZ . NSW Government staff and advisers 
+– who are subject to confidentiality requirements – will have access to submissions in full, including 
+submitter details. P rovisions of the Government Information (Public Access) Act 2009  (NSW) may 
+apply to any documents submitted (and information should be submitted on that basis) and any 
+summary report compiling key inf ormation and feedback.  
+This paper has been developed as a market engagement tool to ensure that, as far as is practical, 
+equal information and information access will be provided to all interested parties. Any participation 
+in this engagement process or any reliance on this document shall be entirely at a person’s or 
+entity’s risk.  
+T his document sets out current information and options regarding generation and storage 
+approaches for the New England REZ and has been prepared in good faith and with reasonable 
+===== PDF PAGE 76 =====
+ 
+New England Renewable Energy Zone Generation and Storage Consultation Paper  | 76  
+efforts . I t is issued without prejudice and is subject to change at any time (including as a result of 
+this consultation process). Nothing in this document is, or should be relied upon as, a promise or 
+representation by the NSW Government that any project will subse quently proceed.  
+EnergyCo  reserves the right to alter or amend any process, stated or implied within this document, 
+at any time. By participating in the option to provide a written submission, you or your organisation 
+agrees to the following conditions:  
+• participation in this feedback process does not imply any registration, pre - qualification or any 
+other preferred status in respect of any project  
+• any person or organisation which does not participate will not be prejudiced in any way in 
+respect of any subsequent procurement, competitive tender or application process  in relation 
+to this, or any other project  
+• in the event of the commencement of any formal procurement , competitive tender or 
+application process , participants will not rely on any information supplied or communicated as 
+part of this paper  
+• participants are discouraged from providing unsolicited offers or any marketing material on 
+the capabilities of their organisation – this information will not be considered.  
+ 
+ 
+===== PDF PAGE 77 =====
+ 
+New England Renewable Energy Zone Generation and Storage Consultation Paper  | 77  
+8 Glossary 
+Key terms used in this paper are defined below . Terms used but not defined in the document have 
+their meaning given under the National Electricity Rules (NER).  
+Term/phrase  Acronym/Definition  
+Access Control 
+Mechanism  
+A mechanism that can be introduced as part of an Access Scheme that governs the 
+access of persons to a specified part of the A ccess S cheme N etwork  other than the 
+A ccess Rights N etwork. Where this term is used in this paper it should be read as 
+under consideration only.  
+Access Control 
+Network  
+Specified network infrastructure identified that is subject to an Access Control 
+Mechanism, as defined in an Access Scheme Declaration. Where this term is used in 
+this paper it should be read as under consideration only.  
+Access Right  A uthorises the h older to submit an application to connect to the A ccess Rights 
+Network and send out generation from its Project into the Access Rights Network  
+Access Right Holder  A Project  wh ich  holds an A ccess Right to the A ccess Rights Network granted under 
+an Access Scheme Declaration  
+Access  Rights  
+Network  
+Specified  network infrastructure  identified as subject to an Access Rights Regime, 
+as defined in an Access Scheme Declaration  
+Access Rights 
+Regime  
+A mechanism which can be introduced as part of an Access Scheme that requires 
+Projects  seeking access to specified Access Rights Network to hold A ccess R ights. 
+Terms and conditions of the regime are included in an Access Scheme Declaration. 
+Where this term is used in this paper it should be read as under consideration only.   
+Access Rights 
+Tender  
+A process run by the Infrastructure Planner or the Consumer Trustee to award 
+Access Rights  
+Access Scheme  A n A ccess S cheme declared by the Minister under section 24 to apply in a REZ  or 
+part of a REZ, covered in section 3  
+Access Scheme 
+Declaration  
+An Order made by the Minister declaring an Access Scheme in accordance with the  
+EII  Act, s24(1)  
+===== PDF PAGE 78 =====
+ 
+New England Renewable Energy Zone Generation and Storage Consultation Paper  | 78  
+Term/phrase  Acronym/Definition  
+Access Scheme 
+Network  
+The proposed network infrastructure that may be captured under the scope of the 
+Access Scheme. This includes network infrastructure to which an Access Rights 
+Regime or an Access Control Mechanism applies.  Where this term is used in this 
+paper it should be read as under consideration only.   
+AEMO  Australian  Energy  Market  Operator Limited  
+Aggregate  
+Maximum Capacity  
+Cap (AMCC)  
+The cap on the a ggregate M aximum Capacity of Approved Projects during any 
+capacity period  
+Approved  Project  An  Eligible  Project  that  has  been  awarded  an  Access  Right  
+ASL  AusEnergy Services Limited  
+BC Regulation  Biodiversity Conservation Regulation 2017  (NSW)  
+Connection 
+Agreement  
+An agreement between an Access Right Holder or an Access Control Project 
+and a Network Operator regarding the connection of a Project to the Access 
+Rights Network or the Access Control Network (as relevant) 
+Connection A ssets  The plant, equipment, and ancillary infrastructure between the Project and the 
+connection point on the Access Rights Network
+ 
+Connection Process  The process that Projects will be required to follow to connect their Project to 
+the Access Scheme Network 
+Consumer  Trustee  ASL  in its capacity as  Consumer  Trustee under the EII Act  
+D edicated 
+C onnection A sset 
+(DCA)  
+Dedicated Connection Asset  (as defined in the NER) 
+D esignated N etwork 
+A sset (DNA)  
+Designated N etwork Asset (as defined in the NER) 
+EII  Act  Electricity Infrastructure Investment  Act  2020  (NSW)  
+===== PDF PAGE 79 =====
+ 
+New England Renewable Energy Zone Generation and Storage Consultation Paper  | 79  
+Term/phrase  Acronym/Definition  
+EII Regulation  Electricity  Infrastructure  Investment  Regulation 2021  (NSW)  
+Eligible Project  A Project that is eligible to apply for an Access Right under the Access Scheme 
+Declaration  
+EnergyCo  Energy Corporation of New South Wales  
+EUA Act  Energy and Utilities Administration Act 1987 (NSW)  
+Existing Network 
+Operator  
+The Transmission Network Service Provider that owns, operates, and controls the 
+existing portions of the Access Scheme Network and will own, operate, and control 
+the non - contestable portions of the New REZ Network Infrastructure. This  is 
+Transgrid.  
+Forecast Curtailment  The F orecast  Curtailment on the Access Rights Network or a Network Element 
+comprising part of the Access Rights Network, determined by the Infrastructure 
+Planner in accordance with the relevant Access Scheme Declaration  
+Indicative  Technical 
+Requirements  
+Indicative  generator performance requirements for key generator technical 
+parameters which will affect network design metrics for the purposes of Network 
+Operator procurement and inform high level plant design for Projects. See section 
+3.14 .  
+Infrastructure 
+Planner  
+A person authorised to exercise the functions of an Infrastructure P lanner 
+under section 63 of the EII Act. EnergyCo has been appointed as the 
+Infrastructure Planner for the New England REZ. EnergyCo has been appointed 
+the Infrastructure Planner for the New England REZ. 
+Initial Allocation  The Maximum Capacity available for allocation in the initial grant of Access 
+Rights under the Access Scheme 
+IUSAs  Identified U ser Shared Assets (as defined in the NER) 
+Maximum Capacity  The maximum generation in Megawatts (MW) that an Approved Project is 
+authorised to send out under the conditions of its Access Right 
+Minister  New South Wales Minister for Energy  
+===== PDF PAGE 80 =====
+ 
+New England Renewable Energy Zone Generation and Storage Consultation Paper  | 80  
+Term/phrase  Acronym/Definition  
+NER  The National Electricity Rules, as defined in the National Electricity (NSW) Law, 
+as it applies in NSW  
+NER Connection 
+Process  
+The C onnection P rocess as defined in Chapter 5 of the NER 
+Network Element  An identifiable major component of a transmission system or distribution system 
+comprising part of the Access Rights Network   
+Network Element 
+Maximum Capacity 
+Cap (NEMCC)  
+For a Network Element, the cap on the a ggregate M aximum C apacity of 
+Approved Projects connected to the relevant Network Element during any 
+capacity period  
+New Access Rights 
+Network  
+The contestable portions of the New REZ Network Infrastructure that will be 
+designed, financed, constructed, owned, operated, maintained and controlled by the 
+New Network Operator  
+New Network 
+Operator  
+The Transmission Network Service Provider that will be authorised under the EII Act 
+to construct, operate and maintain the contestable portions of the New REZ 
+Network Infrastructure. 
+New REZ Network 
+Infrastructure  
+The proposed new network infrastructure in New England REZ that forms part of 
+the Access Rights Network and, subject to authorisation under the EII Act, will 
+support the delivery of the intended REZ capacity of 8 GW 
+ 
+Project  A generation and/or storage project seeking to connect to the Access Scheme 
+Network
+ 
+Project Deed  The project deed to be executed between EnergyCo and the New Network Operator 
+for the development, construction and operation of the New Access Rights Network  
+REZ  Renewable Energy Zone  
+REZ Connection 
+Process  
+The Connection Process that may apply in the New England REZ, as described 
+in section 3.14  
+===== PDF PAGE 81 =====
+ 
+New England Renewable Energy Zone Generation and Storage Consultation Paper  | 81  
+Term/phrase  Acronym/Definition  
+REZ Declaration  A declaration of a geographical area of NSW and specified infrastructure made by 
+the Minister under section 19 of the EII Act  
+REZ Transfer  
+Capacity  
+The network capacity (in GW) for transfer of electricity between the Access Rights 
+Network and any other transmission network to which the Access Rights Network is 
+connected  
+Roadmap  NSW Electricity Infrastructure Roadmap  
+SCR  Short C ircuit R atio  ( as defined in the NER ) 
+SFV  Scheme Financial Vehicle  
+Target Network 
+Element Curtailment 
+Level (TNECL)  
+For a Network Element, t he target limit on Forecast Curtailment for generation 
+connected to the Network Element  due to the transmission capacity of that 
+element  
+ 
+Target Transmission 
+Curtailment  Level 
+(TTCL)  
+The target limit on Forecast Curtailment for generation connected to the 
+Access Rights Network due to the transmission capacity  of that network 
+ 
+Transgrid Access 
+Rights Network  
+The existing portions of the Access Scheme Network and the non-contestable 
+portions of the New REZ Network Infrastructure that will be designed, owned, 
+operated, maintained and controlled by the Existing Network Operator 
+ 
+ 

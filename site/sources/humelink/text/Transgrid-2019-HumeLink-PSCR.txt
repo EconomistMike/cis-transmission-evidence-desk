@@ -1,0 +1,2832 @@
+--- PDF page 1 ---
+Executive Summary  
+Reinforcing the 
+New South Wales  
+Southern Shared Network 
+to increase transfer 
+capacity to the state’s 
+demand centres
+Project Specification Consultation Report
+25 June 2019
+
+--- PDF page 2 ---
+Executive Summary  
+1
+01 
+Executive Summary 
+The National Electricity Market 
+(NEM) is undergoing rapid change 
+as demand for electricity continues 
+to grow, the retirement of existing 
+coal-fired generation draws 
+closer and the sector transitions 
+to greater reliance on renewable 
+generation and new technologies. 
+With increasing focus on putting downward 
+pressure on wholesale electricity prices and 
+on ensuring security of supply into the future, 
+the Australian Energy Market Operator (AEMO) 
+consulted widely and released the Integrated 
+System Plan (ISP) in July 2018. 
+The ISP demonstrated the economic value of 
+transmission investment to lowering costs, 
+providing energy security and efficiently 
+supporting the transition to a lower 
+emissions  system. 
+The ISP outlined 10 transmission investments, 
+including the expansion of transmission 
+capacity between the Snowy Mountains, 
+Sydney and other demand centres. 
+Expanded transmission capacity from 
+southern NSW to major demand centres was 
+also listed as a priority in the New South Wales 
+(NSW) Transmission Infrastructure Strategy, 
+released in November last year.
+Final approval for the proposed Snowy 
+2.0 generation development occurred in 
+February  2019. 
+TransGrid, as the jurisdictional planning body 
+for NSW, is commencing formal consultation 
+under the Regulatory Investment Test for 
+Transmission (RIT-T) on investments that can 
+reinforce the Southern Shared Network to 
+increase transfer capacity between southern 
+NSW and major demand centres in the State. 
+The Southern Shared Network includes 
+existing transmission capacity and planned 
+interconnectors, connections to the existing 
+Snowy Hydro Scheme and other regional 
+generation assets. It provides transfer 
+capacity to demand centres and allows for 
+interstate and regional transfers.
+RIT-T commenced to examine 
+reinforcing the Southern Shared 
+Network to increase transfer 
+capacity to demand centres
+TransGrid operates and maintains the 
+transmission network in NSW. The shared 
+transmission network between the Snowy 
+Mountains and Bannaby carries power from 
+all generation across southern NSW to the 
+major load centres of Sydney, Newcastle and 
+Wollongong. It also carries all electricity that 
+is imported from Victoria (VIC) to the major load 
+centres in NSW. The main transmission lines in 
+this area are heavily congested at times of high 
+demand, and will become more congested as 
+new generation connects in southern NSW.
+Snowy Hydro’s existing generation capacity 
+connects to the Southern Shared Network at 
+Upper Tumut, Lower Tumut, and  Murray.
+Existing congestion at times of high demand 
+limits access to the existing generation 
+capacity of the Snowy Mountains Scheme at 
+times of peak demand. Access to the additional 
+2,000 MW capacity of Snowy 2.0 and other new 
+generation in southern NSW would, therefore, 
+be severely limited, without reinforcement to 
+the Southern Shared Network. Snowy Hydro 
+Limited will connect Snowy 2.0 to the Southern 
+Shared Network via a cut-in to the existing 
+Upper Tumut to Lower Tumut transmission 
+line and a new substation at Maragle. These 
+connection works are outside the scope of 
+this RIT-T. 
+In NSW, where the existing coal-fired 
+generators are retiring progressively from 
+2022, there is a pressing need for new sources 
+of supply to meet the community’s growing 
+energy demand.
+Snowy 2.0 will provide a new source of 
+generation to meet future demand in the major 
+load centres of NSW and ‘firm’ supply from new 
+renewable generation which is anticipated 
+in southern NSW. This includes renewables 
+projects in construction or under development 
+totaling 1,900 MW. Reinforcement of the 
+Southern Shared Network will be required to 
+allow the transfer of energy to demand  centres.
+
+--- PDF page 3 ---
+Executive Summary  
+2
+The RIT-T will consider 
+investments for reinforcing the 
+Southern Shared Network for the 
+most efficient outcome compared 
+to alternative options including 
+maintaining the status quo
+The RIT-T must demonstrate that there is 
+an overall net market benefit to the NEM 
+from increasing the transfer capacity of the 
+transmission network – the Southern Shared 
+Network - between southern NSW and the 
+major demand centres of Sydney, Newcastle 
+and Wollongong. 
+Increasing access to generation capacity 
+from the Snowy Mountains Scheme and other 
+sources of generation in southern NSW has the 
+potential to benefit the market and consumers 
+through lowering the overall dispatch and 
+investment costs required to meet the demand 
+from households and businesses in NSW for 
+reliable and safe electricity.
+In addition, the investments to be considered 
+in this RIT-T have the potential to: 
+• open up additional capacity for new 
+generation (primarily renewable generation) 
+in areas of southern NSW, which has 
+recognised high-quality wind and solar 
+resources;
+• increase the transfer capacity between 
+VIC and NSW, which would provide NSW 
+with access to additional generation from 
+VIC; and
+• allow the additional transfer capacity 
+between South Australia (SA) and NSW 
+provided by the proposed SA–NSW 
+interconnector, Project EnergyConnect, 
+to flow to Sydney
+The RIT-T will test the opportunity to realise 
+additional market benefits through further 
+reducing dispatch costs and deferring or 
+avoiding investment in generation and storage 
+in areas with lower quality resources. 
+In the absence of investment under this RIT-T, 
+alternative investment by market participants in 
+peaking plants, other generation technologies 
+or utility-scale storage in NSW would be needed 
+to continue to meet the State’s demand and 
+system stability requirements, as existing 
+dispatchable generation in NSW retires. 
+The RIT-T will test whether the net cost to 
+the market, (and therefore ultimately to 
+consumers), is to be higher under the ‘do 
+nothing’ path, than if investment under this 
+RIT-T proceeds.  
+1 Cost estimates are indicative and based on preliminary desktop estimates. TransGrid will further refine these estimates in the PADR.
+2 Maragle is approximately 85 km south of Tumut, in the Snowy Mountains.
+Option 4
+SYDNEY
+MELBOURNE
+MELBOURNE
+CANBERRA
+BANNABY
+WAGGA WAGGA
+MARAGLE
+PROJECT 
+ENERGYCONNECT
+SYDNEY
+MELBOURNE
+MELBOURNE
+CANBERRA
+BANNABY
+WAGGA WAGGA
+MARAGLE
+PROJECT 
+ENERGYCONNECT
+Option 1
+SYDNEY
+MELBOURNE
+MELBOURNE
+CANBERRA
+BANNABY
+WAGGA WAGGA
+MARAGLE
+PROJECT 
+ENERGYCONNECT
+Option 2
+Option 3
+SYDNEY
+MELBOURNE
+MELBOURNE
+CANBERRA
+BANNABY
+WAGGA WAGGA
+MARAGLE
+PROJECT 
+ENERGYCONNECT
+
+--- PDF page 4 ---
+Executive Summary  
+3
+Four options for transmission 
+network investment considered 
+in this RIT-T
+An increase in transmission capacity between 
+the Snowy Mountains and Sydney of 2,000 MW 
+could be provided under a range of options 
+with indicative construction costs between 
+$790 million and $1.9 billion 1  
+Options with higher capacity, or a wider footprint 
+in southern NSW, may provide greater economic 
+benefits by opening access to additional 
+capacity from new renewable generation 
+proposed to be built around and west of Wagga 
+Wagga, which has been identified as an area 
+with very high quality renewable resources. 
+TransGrid therefore intends to consider through 
+this RIT-T, four transmission network options:
+Option 1:  Lines running directly from Maragle 2 
+to Bannaby
+Option 2:  Lines running from Maragle 2 
+to Bannaby via Wagga Wagga
+Proponents of non-network options are 
+encouraged to contact TransGrid directly 
+to discuss their options, and to make 
+submissions on these options which will be 
+assessed in the Project Assessment Draft 
+Report (PADR).
+Next steps
+Submissions are sought in particular on the 
+four options cited above, and from potential 
+proponents of non-network options.
+Submissions are due not later than 
+19 September 2019. 
+Submissions should be emailed to:   
+regulatory.consultation@transgrid.com.au
+The next formal stage of this RIT-T process is 
+the development and finalisation of the PADR 
+which will include quantitative analysis of the 
+network and non-network options identified. 
+The PADR is expected to be published in the 
+second half of 2019.
+Option 3:  A triangle linking Maragle, Wagga 
+Wagga and Bannaby - which would unlock new 
+renewable energy resources in the region and,
+Option 4:  A variant on Option 3, which further 
+extends the new lines back to Sydney.
+All four options include the construction of 
+new single-circuit lines on diverse paths, 
+designed to mitigate bushfire and extreme 
+weather risks and ensure the reliable supply of 
+electricity to major demand centres. TransGrid 
+intends to consider variants for all four options 
+of 330 kV, 500 kV and a flexible option with 
+transmission built to enable 500 kV operation, 
+though initially operated at 330 kV. 
+Submissions sought from 
+proponents of non-network 
+options
+This RIT-T will also consider non-network 
+options which address the limitations on 
+transfer capacity between southern NSW and 
+Sydney and which may therefore contribute to 
+meeting the identified need, either individually 
+or in combination with other non-network  
+and/or network options.
+This Project Specification Consultation Report 
+(PSCR) provides information on the technical 
+characteristics required from non-network 
+options, which could include load reduction 
+or load shifting, new generation or storage, 
+or participation in a Wide Area Special 
+Protection  Scheme.
+
+--- PDF page 5 ---
+4
+01 Introduction
+The inaugural Integrated System 
+Plan (ISP), released by the 
+Australian Energy Market Operator 
+(AEMO) in July 2018, demonstrated 
+the economic value of network 
+investment to efficiently support the 
+transition to a lower emissions power 
+system, including in response to the 
+expansion of generation and storage 
+capacity at the Snowy Mountains 
+Hydroelectric Scheme (‘Snowy 2.0’). 
+Snowy 2.0 is a project to install new pumped 
+hydro generation using existing dams in the 
+Snowy Mountains for storage. The Snowy 2.0 
+expansion is proposed to have peak generation 
+and pumping capacity of 2,000 MW, and total 
+storage of 350 GWh. 
+There have been a number of key developments 
+since the release of the 2018 ISP:
+• In November 2018 the NSW Government 
+released its Transmission Infrastructure 
+Strategy 5, which also supports 
+augmentation of the shared transmission 
+network between the Snowy Mountains and 
+Sydney to unlock existing firm generation 
+supply and enable efficient investment and 
+use of generation and storage; and
+• In December 2018, the Board of Snowy 
+Hydro Limited approved a final investment 
+decision to proceed with Snowy 2.0. 
+This was followed by shareholder approval 
+from the Federal Government on 26  February 
+2019. The first energy is expected to be 
+generated in late 2024-25.  3 
+• In April 2019, Snowy Hydro entered into 
+an EPC Contract with Future Generation 
+JV for the construction of Snowy 2.0, and 
+commenced exploratory works.
+In light of AEMO’s 2018 ISP assessment and 
+these more recent developments, TransGrid 
+is commencing formal consultation under the 
+Regulatory Investment Test for Transmission 
+(RIT-T) on investments that increase transfer 
+capacity of the shared network between 
+southern NSW and the major load centres 
+in NSW. 
+1.1 The investment 
+decision process 
+The current regulatory framework requires 
+that in order to initiate transmission projects, 
+including those identified in AEMO’s ISP,  
+a transmission network service provider  
+(TNSP) must conduct a RIT-T.  4
+3 Snowy Hydro, Snowy 2.0, project and business case overview, February 2019, p. 8.
+4 TransGrid is required to apply the RIT-T to this investment, as none of the exemptions listed in the National Electricity Rules (NER) clause 5.16.3(a) apply.
+5 AEMC, National Electricity Rules, Clause 5.16.1(b) and AER, Regulatory investment test for transmission, June 2010, p3. 
+01 
+Introduction
+The National Electricity Market 
+(NEM) is currently undergoing 
+rapid change as the sector 
+transitions to a lower carbon 
+emissions and greater uptake 
+of new technologies.
+In order to secure funding for a project that 
+passes a RIT-T, the TNSP may then apply to the 
+Australian Energy Regulator (AER) to trigger 
+a ‘contingent project’ (unless the project is 
+already included in a revenue determination).
+1.1.1  The Regulatory Investment  
+Test for Transmission (RIT-T)
+The RIT-T is a limited economic test that is 
+designed to maximise the net present value 
+(NPV) of the total net benefit (or minimise  
+the NPV of the total net cost) to all those  
+who ‘produce, consume and transport 
+electricity’ 5 in the NEM. 
+The RIT-T identifies and evaluates credible 
+options to meet an identified need, in order  
+to identify the most efficient investment.  
+It provides an opportunity for consultation 
+with interested parties, including non-network 
+providers, to promote efficient investment.
+Because the RIT-T considers the costs 
+and benefits to the NEM as a whole, it does 
+not directly take into account changes in 
+electricity price outcomes. However, it does 
+take into account reductions in the overall 
+costs of meeting electricity demand, such as 
+reductions in dispatch and investment costs 
+as a result of higher cost generation being 
+displaced with lower cost generation.
+
+--- PDF page 6 ---
+5
+6 AER, Final Decision, TransGrid transmission determination 2018 to 2023, Attachment 6 – Capital expenditure, May 2018, p.6-139. 
+7 The process for this determination differs slightly depending whether a dispute is raised with AER on the conclusion of the RIT-T.
+In addition, because the focus of the RIT-T  
+is limited to the NEM, it does not take into  
+account economic benefits outside of the  
+NEM, such as: 
+• Regional economic benefits from 
+investment in generation and  
+transmission in regional  areas;
+• Benefits to gas consumers from a reduction 
+in gas consumption in the NEM; and
+• Benefits from the electricity sector 
+reducing emissions in greater 
+proportion than other sectors of the 
+Australian  economy.
+While benefits of this nature can be expected 
+from the options considered in this report,  
+they are not included in the quantification 
+under the RIT-T. 
+Following the RIT-T, the AER will therefore 
+make a determination on whether the RIT-T has 
+been applied correctly in order for TransGrid to 
+subsequently trigger a ‘contingent project’.  7
+01 Introduction
+The ISP identified that reinforcement of the shared network between the 
+Snowy Mountains and Sydney to increase transfer capacity is expected to provide net 
+market benefits through allowing future demand in NSW to continue to be met in a 
+safe, secure and reliable manner, at a lower overall cost than other alternatives. 
+Unlike TNSPs, market participants (such as 
+generators) and governments are not bound by 
+the limitations of the RIT-T, and are able to more 
+completely account for the range of benefits 
+associated with these developments in their 
+strategy and business case documents.
+1.1.2  Subsequent stages of the process
+The Australian Energy Regulator (AER) has 
+determined that this project is a contingent 
+project (‘reinforcement of Southern Network 
+in response to Snowy 2.0’) in its revenue 
+determination for TransGrid for the 2018-23 
+regulatory control period.  6 The AER accepted 
+that this project was likely to be required during 
+the 2018-23 period, but considered that the 
+timing and costs were not sufficiently certain 
+to include in TransGrid’s revenue determination. 
+Successful completion of this RIT-T is one of 
+the triggers for this contingent  project.
+
+--- PDF page 7 ---
+6
+Figure 1 – Major transmission project initiation process 
+01 Introduction
+RIT-T does
+not progress
+Project is
+not initiated
+RIT-T recommends 
+‘do-nothing’
+Project is 
+not initiated
+Dispute results in
+‘do-nothing’
+Project is
+not initiated
+Project is
+not initiated
+Project is
+not initiated
+Project is
+not initiated
+Project Assessment
+Conclusions Report (PACR)
+Publication
+• Identify need
+• Identify and describe options
+• Identify and describe scenarios 
+ of the future Project Specification
+Consultation Report (PSCR)
+Publication and consultation
+• Address PADR consultation 
+ responses
+• Determine final preferred 
+ option
+Recommend project 
+or ‘do nothing’
+• Market modelling each option & scenario
+• Address PSCR consultation responses
+• Determine draft preferred option
+NSP wishes 
+to proceed
+Poject Assessment 
+Draft Report (PADR)
+Publication and consultation
+Proponent submits contingent 
+project application
+• Takes into account investability of 
+   the project
+AER determination to trigger 
+contingent project
+• Includes public consultation
+Proponent's Board Decision
+• Takes into account investibility of project
+and contingent project determination
+Initiate project
+Decision not to proceed
+Contingent project application
+Revenue determination
+amended to add project
+Revenue
+determination
+not amended
+Project Project
+Dispute results 
+in ‘do-nothing’
+AER determination on RIT-T conclusion
+• Requested by TNSP
+• Required to trigger a contingent project
+AER determination on dispute
+• If dispute raised by interested party
+• Can result in project or ‘do-nothing’
+Recommend ‘do-nothing’
+Recommend project with disputeRecommend project with no dispute
+NSP does not wish 
+to proceed
+3–6 
+months
+1–2 
+months
+3 
+months
+6–9 
+months
+6 
+weeks
+3–6 
+months
+1 
+month
+2–4 
+months
+
+--- PDF page 8 ---
+7
+8 Energy Security Board, Integrated System Plan: Action Plan, December 2018.
+9 COAG Energy Council, Meeting Communique, 19 December 2018.
+10 AEMO, 2019 Planning and Forecasting Consultation Paper, February 2019, p. 48.
+Following the RIT-T, TransGrid will also make its 
+Final Investment Decision (FID) on whether to 
+proceed with the project. 
+If the AER determination on the RIT-T and 
+TransGrid’s FID are favourable, TransGrid can 
+then apply to the AER to trigger a ‘contingent 
+project’. The contingent project mechanism 
+is used to amend TransGrid’s revenue 
+determination to include the project, once  
+the scope and cost are sufficiently certain. 
+This provides funding to TransGrid to  
+undertake the  project.
+The existing process, including the statutory 
+timeframes set out in the National Energy Rules 
+(NER) and reasonable expected time frames for 
+supporting analysis, is shown in Figure 1.
+In December 2018, the Energy Security 
+Board (ESB) published an Integrated System 
+Plan Action Plan with recommendations to 
+streamline regulatory processes for some ISP 
+projects.  8 The COAG Energy Council has further 
+tasked the ESB to consider how these reforms 
+could be applied to other priority projects in 
+the ISP. 9 If these reforms result in changes to 
+the process to initiate projects identified in  
+the ISP, the process and time frames shown  
+in Figure 1 may change.
+1.2 The role of this report
+This Project Specification Consultation Report 
+(PSCR) is the first step in the RIT-T process. 
+The purpose of the PSCR is to: 
+• set out the reasons why TransGrid  
+proposes that action be undertaken  
+(that is, the ‘identified need’); 
+• present credible network options that  
+can address the identified need; and
+• provide details as to what non-network 
+solutions would need to be delivered in 
+order to help address the identified need, 
+and invite submissions from proponents 
+of potential non-network options to be 
+included in the RIT-T assessment. 
+TransGrid is also publishing an accompanying 
+Inputs and Methodology Consultation Paper, 
+which provides further information in relation to 
+the market modelling assumptions proposed, 
+approach and parameters intended to be 
+adopted in the quantitative analysis for this 
+RIT-T assessment. This consultation paper is 
+published in addition to the NER requirements 
+for a RIT-T and provides greater transparency 
+and an opportunity to obtain earlier stakeholder 
+feedback on the quantitative modelling, ahead 
+of the Project Assessment Draft Report (PADR).
+1.2.1  Interaction with the 2020 ISP
+AEMO’s 2018 ISP identified augmentation of the 
+existing shared transmission network between 
+the Snowy Mountains and Sydney as a project  
+that would have net market benefits, following 
+the Snowy  2.0 expansion, and form part of  
+the overall optimal network development  
+plan for NEM  transition.
+AEMO has flagged that in the 2020 ISP it will 
+consider the latest information that becomes 
+available through active RIT-T processes. 10 
+AEMO has also flagged that it intends to re-
+evaluate all transmission projects that are 
+still under active assessment by TNSPs at the 
+time at which it prepares its next ISP. TransGrid 
+expects that this will include investments 
+to augment transfer capacity between the 
+Snowy Mountains and Sydney.
+The interaction between this RIT-T and  
+AEMO’s 2020 ISP process is shown in Figure 2. 
+In particular, TransGrid intends to adopt the 
+same assumptions as AEMO for the 2020 ISP, 
+except where it has more recent information, 
+or where departure from the ISP assumptions is 
+appropriate to adequately test the robustness 
+of the conclusions reached in this RIT-T.
+TransGrid intends to consult closely with AEMO  
+as it undertakes this RIT-T analysis to ensure  
+effective coordination of the shared network 
+between the RIT-T and ISP processes.
+1.3 Submissions and next steps
+TransGrid welcomes written submissions 
+on this PSCR. Submissions are due on or 
+before 19 September 2019. Submissions are 
+particularly sought on the credible options 
+presented and from potential proponents of 
+non-network options that could meet the 
+technical requirements set out in this PSCR.
+Submissions should be emailed to  
+regulatory.consultation@transgrid.com.au.
+Submissions will be published on the TransGrid 
+website. If you do not wish for your submission 
+to be made publicly available, please clearly 
+specify this at the time of lodgement.
+The next formal stage of this RIT-T is the PADR.  
+The PADR will include the full quantitative 
+analysis of both network and non -network 
+options, and is expected to be published  
+in the second half of 2019.
+Figure 2: Interaction between RIT-T process and AEMO’s ISP process
+AEMO’s 2018 ISP
+NSW Government 
+Transmission Strategy
+AEMO’s 2020 ISP 
+assumptions
+TRANSGRID  
+CONDUCTS RIT-T
+AEMO’s 2020 ISP
+01 Introduction
+
+--- PDF page 9 ---
+8
+02 The ‘Identified Need’
+This section discusses the drivers for 
+potential investment under this RIT-T (‘the 
+identified need’), and why TransGrid considers 
+that material market benefits will arise as 
+a result of this potential investment. 
+The expectation that investment 
+to increase transfer capacity of 
+the shared network between the 
+Snowy Mountains and major NSW 
+load centres will increase net 
+market benefits is consistent with 
+AEMO’s findings in its 2018 ISP. 
+In particular, the 2018 ISP analysis 
+included a scenario that assumed 
+that the Snowy 2.0 expansion 
+went ahead (i.e. the ‘neutral with 
+storage’ scenario). AEMO’s analysis 
+found that under this scenario 
+‘a new link from Tumut (in the Snowy 
+Mountains) to Bannaby (SnowyLink 
+North) and associated works 
+between Bannaby and Sydney West 
+would provide system benefits’.
+2.1 Investment under this RIT-T 
+will contribute to meeting future 
+NSW demand and emissions 
+reduction targets to be met at 
+lowest cost
+The identified need for this RIT-T is to deliver 
+a net market benefit by:
+• increasing the transfer capacity and 
+stability limits between the Snowy 
+Mountains and major load centres of 
+Sydney, Newcastle and Wollongong, 
+• this will enable greater access to lower 
+cost generation to meet demand in these 
+major load centres; and
+• facilitate the development of renewable 
+generation in high quality renewable 
+resource areas in southern NSW, which will 
+further lower the overall investment and 
+dispatch costs in meeting NSW demand 
+whilst also ensuring that emissions targets 
+are met at the lowest overall cost to 
+consumers.
+The planned expansion of generation in  
+the Snowy Mountains through the Snowy 2.0 
+project provides a source of generation that 
+can be used to meet demand in the major load 
+centres of NSW as existing New South Wales 
+coal-fired generation retires. However, access 
+to existing capacity from the Snowy Mountains 
+Hydroelectric Scheme is currently limited 
+by constraints on the transmission network 
+between the Snowy Mountains and Sydney, 
+Newcastle and Wollongong at times of peak 
+demand. Access to additional Snowy 2.0 
+capacity would be similarly limited under the 
+existing network  configuration. 
+Investment to increase the transfer capacity 
+between the Snowy Mountains and these major 
+load centres would both relieve constraints that 
+currently limit the use of existing generation 
+capacity at Snowy Hydro to supply these load 
+centres and enable greater access to increased 
+generation from Snowy.
+In addition, the dispatchable generation that can 
+be provided via the expanded storage capacity 
+at Snowy Hydro can be used to ‘firm’ renewable 
+generation and is to support the development 
+of additional renewable generation in both 
+NSW and VIC, as the NEM transitions to  
+low-emission generation  technologies. 
+Depending on the route adopted, the 
+investments being considered in this  
+RIT-T also have the potential to:
+• open up additional capacity for new 
+generation (primarily renewable generation) 
+in areas of southern NSW, which has 
+recognised high-quality wind and solar 
+resources;
+• increase the transfer capacity between 
+VIC and NSW, which would provide NSW with 
+access to additional generation in VIC; and 
+• allow the additional transfer capacity  
+between SA and NSW which  
+will be provided by the proposed new SA–
+NSW interconnector (which is proposed to 
+terminate at Wagga), to also flow to Sydney.
+Opening up additional capacity in areas of the 
+NEM for renewable generation investment will 
+facilitate geographical diversity in renewable 
+generation and lead to less variability in 
+output as a result of local weather effects.
+02 
+The ‘Identified Need’
+HOURS
+
+--- PDF page 10 ---
+Within the context of the RIT-T assessment, 
+greater output from renewable generation  
+can be expected to primarily deliver the 
+following classes of market benefit:
+• Further reductions in total dispatch 
+costs, by enabling lower cost renewable 
+generation to displace higher cost 
+conventional generation; and 
+• Reduced generation investment costs, 
+resulting from more efficient investment 
+and retirement decisions, due to high 
+quality wind, solar and pumped-hydro 
+generation being able to locate at optimal 
+locations rather than inferior locations 
+limited by congestion on the existing 
+transmission system.
+Under the existing regulatory framework, 
+this RIT-T is the means by which further 
+consideration of options identified in the  
+ISP is undertaken. 
+2.2 Assumptions underpinning 
+the identified need
+This section provides background and 
+more information on the key assumptions 
+underpinning the identified need for this 
+investment, in particular:
+• The committed expansion of generation and 
+storage capacity in the Snowy Mountains 
+(‘Snowy 2.0’);
+• The strength of the renewable energy 
+resources in southern NSW and western VIC;
+• The limitations on the existing NSW 
+transmission network that would limit 
+northwards flows from the Snowy Mountains 
+to the major NSW load centres; and
+• AEMO’s ISP analysis that identified 
+transmission augmentation of the shared 
+network between the Snowy Mountains 
+and Sydney as part of the optimal network 
+development plan that would deliver net 
+market benefits as dispatchable generation  
+in NSW retires.
+The following section summarises the key 
+assumptions that TransGrid intends to reflect 
+in its scenarios for the market modelling 
+analysis in this RIT-T. Further details of  
+the modelling assumptions are provided in  
+a separate Inputs and Methodology Consultation 
+Paper being released alongside this PSCR. 
+2.2.1  Expansion of generation and 
+storage capacity in the Snowy Mountains 
+(‘Snowy 2.0’)
+The current Snowy Hydro Scheme (Scheme) 
+is an integrated water and hydro-electric 
+power utility located in Australia’s Southern 
+Alps which is operated and maintained by 
+Snowy Hydro Limited. The Scheme diverts the 
+headwaters of the Snowy, Eucumbene and 
+Murrumbidgee Rivers westward through the 
+Great Dividing Range, releasing water into the 
+Murray and Murrumbidgee Rivers.  
+In March 2017, the Federal Government announced 
+a feasibility study to add 2,000 MW of pumped 
+storage (known as “Snowy 2.0”) to the Scheme. 
+Snowy 2.0 is proposed to link the two existing 
+reservoirs of Tantangara and Talbingo through 
+underground tunnels and an underground power 
+station with pumping capabilities. 
+Pumped hydro works like a conventional 
+hydro-electric scheme. However, a pumped 
+hydro scheme can ‘recycle’ or pump water  
+back to the upper reservoirs to be used again. 
+The ability to pump and store water means 
+Snowy 2.0 will be able to provide storage by 
+absorbing, storing and dispatching energy.
+9
+02 The ‘Identified Need’
+LEGEND
+SYDNEY
+BASIN
+Substations
+Substations
+Main Transmission Lines
+    Over 95% Peak Utilisation
+    Over 85% Peak Utilisation
+Rural Transmission Lines
+Customer Exchange Point
+Interstate Exchange Point
+SYDNEY
+Figure 3 – Existing Network Congestion
+
+--- PDF page 11 ---
+10
+A feasibility study was completed in December 
+2017, and concluded that Snowy 2.0 is both 
+technically and financially feasible. Following 
+consideration of the study and further detailed 
+works, Snowy Hydro’s Board of Directors 
+approved a final investment decision to 
+proceed with Snowy 2.0 on 12 December 2018. 
+The Australian Government gave shareholder 
+approval on 26 February 2019.
+Environmental Impact Statement (EIS) approval 
+has been given for exploratory works. It is 
+expected that the first energy generation  
+from Snowy 2.0 will be in late 2024-25. 
+2.2.2  Renewable energy potential in 
+southern NSW and western VIC
+Australia’s COP21 13 commitment to reduce 
+carbon emissions by 26 to 28 per cent 
+below 2005 levels by 2030 has significant 
+implications for the future operation of the 
+NEM. Meeting this commitment is expected 
+to necessitate replacement of some of 
+Australia’s emissions intensive generators 
+with lower emissions alternatives, such as 
+renewable  energy. 14
+As part of the 2018 ISP, AEMO undertook  
+an extensive investigation of the renewable 
+energy resources in, and near, existing 
+NEM infrastructure. The 2018 ISP identified 
+potential  renewable energy zones including 
+three in southern NSW. 
+These renewable zones have been updated 
+in AEMO’s 2019 Planning and Forecasting 
+Consultation Paper and include zones 
+11 (southern NSW Tablelands), 13 (Tumut) and 
+14 (South West NSW), as shown in Figure 5.  
+The southern NSW area has some of highest 
+quality renewable energy resources in 
+Australia including wind, solar and pumped-
+hydro potential. 
+In addition, there are a number of renewable 
+generation developments currently underway 
+in western VIC (zone 17 in Figure 5),  
+and which are expected to be supported  
+by developments resulting from AEMO’s  
+current Western VIC integration RIT-T.  15
+Strengthening the southern NSW network 
+will provide capacity to link the high quality 
+solar and wind resources in southern NSW and 
+additional generation in VIC to the major load 
+centres of Sydney, Newcastle and Wollongong. 
+2.2.3  The nature of constraints on the 
+existing NSW shared transmission network 
+The existing shared transmission capacity 
+between southern NSW (including the Snowy 
+Mountains) and major load centres of Sydney, 
+Newcastle and Wollongong is heavily utilised 
+at times of peak demand. The peak utilisation 
+has ranged between 90% and 110% over the 
+last three years, and transmission constraints 
+are expected to become more frequent as 
+new renewable generation connects in 
+southern  NSW.
+While low-cost projects have been initiated 
+to maximise utilisation of the existing assets 
+using power flow control devices, these only 
+provide small increases in capacity. 
+The following elements in southern NSW pose 
+limitations, depending on the generation 
+profile in southern NSW and import level from 
+VIC to NSW: 
+• Line between Murray – Upper Tumut / 
+Lower Tumut 
+• Line between Lower Tumut – Yass
+• Line between Lower Tumut - Canberra
+• Line between Canberra - Yass 
+• Lines between Yass - Marulan
+• Line between Kangaroo Valley – Dapto
+• Line between Bannaby – Gullen Range
+• Line between Bannaby – Sydney West
+The addition of 2,000 MW of new generation 
+at Snowy 2.0 and wind and solar generation 
+in southern NSW will severely constrain the 
+southern NSW network, in the absence of a 
+development that increases transfer  capacity. 
+Figure 4 shows the Shared Southern network, 
+the existing Snowy Hydro scheme, and new 
+connecting renewables in southern NSW.
+02 The ‘Identified Need’
+13 The 2015 United Nations Climate Change Conference (also known as ‘COP 21’ or ‘CMP 11’) was held in Paris, France, from 30 November to 12 December 2015.
+14 COAG Energy Council, Review of the Regulatory Investment Test for Transmission, Consultation Paper, Energy Project Team, 30 September 2016, p. 13.
+15 AEMO, Western VIC Renewable Integration, Project Assessment Draft Report, December 2018.
+LEGEND
+Substations
+Substations
+Substations
+Shared Transmission Network
+    Main Transmission Lines
+    Rural Transmission Lines
+Generator Connection Assets
+    Connect Applications
+Interstate Exchange Point
+SYDNEY
+BASIN
+SYDNEY
+Figure 4 – Shared Network and Connection Assets for New Generator Applications to Connect
+
+--- PDF page 12 ---
+11
+Source: AEMO, 2019 Planning and Forecasting Consultation Paper, February 2019, p. 43.
+Figure 5 – AEMO Potential Renewable Energy Zones (2019 Modelling Assumptions)
+1
+2
+3
+4
+5
+6
+7
+8 9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+Brisbane
+Sydney
+Canberra
+Melbourne
+Hobart
+Adelaide
+Newcastle
+Coffs Harbour
+Bendigo
+Cairns
+Townsville
+Proserpine
+Mackay
+RockhamptonLongreach
+Armidale
+Dubbo
+Wagga Wagga
+Ballarat
+Broken Hill
+Forsayth
+Bundaberg
+Wollongong
+Launceston
+Queenstown
+Mount Gambier
+Warrnambool
+Mildura
+Port Lincoln
+Ceduna
+Coober Pedy
+Indicative Wind Farm
+Indicative Solar Farm
+Renewable Energy Zone (REZ)
+Indicative Hydro Generator
+Indicative Geothermal Generator
+Renewable Energy Zones
+1 Far North Queensland
+2 North Queensland Clean Energy Hub
+3 North Queensland
+4 Isaac
+5 Barcaldine
+6 Fitzroy
+7 Darling Downs
+8 North West New South Wales
+9 New England
+10  Central West New South Wales
+11 Southern New South Wales T ablelands
+12 Cooma-Monaro
+13  T umut
+14  South West New South Wales
+15 Broken Hill
+16 Murray River
+17  Western Victoria
+18 Moyne
+19  Ovens Murray
+20  Gippsland
+21  South East South Australia
+22  Riverland
+23  Mid North South Australia
+24  Y orke Peninsula
+25  Northern South Australia
+26  Leigh Creek
+27  Roxby Downs
+28 Eastern Eyre Peninsula
+29 Western Eyre Peninsula
+30  North West T asmania
+31 T asmania Midlands
+32  North East T asmanian
+02 The ‘Identified Need’
+
+--- PDF page 13 ---
+12
+16 Integrated System Plan July 2018, Australian Energy Market Operator, page 3 and page 9.
+17 Integrated System Plan July 2018, Australian Energy Market Operator, page 9.
+18 Integrated System Plan July 2018, Australian Energy Market Operator, page 9.
+19 2019 Planning and Forecasting Consultation Paper, February 2019, Australian Energy Market Operator.
+2.2.4  AEMO’s 2018 ISP
+The inaugural Integrated System Plan (ISP), 
+released by AEMO in July 2018, demonstrates 
+the economic value of network investment  
+to efficiently support the transition to  
+a lower emissions power system, including 
+in response to the development of Snowy 2.0 
+and the expected retirement of conventional 
+coal-fired generation in NSW. 
+The ISP identified that augmentation of the 
+shared transmission network between the 
+Snowy Mountains and Sydney would provide 
+net market benefits and forms part of the 
+optimal future network development path to 
+support the long-term interests of consumers 
+for safe, secure and reliable electricity, at the 
+least cost.  16
+In particular, AEMO noted that:  17
+“ When a final decision is made on the 
+commitment of Snowy 2.0, a new link 
+from Tumut to Bannaby (SnowyLink North) 
+and associated works between Bannaby 
+and Sydney West would provide system 
+benefits.” 
+The retirement of Liddell Power Station and the 
+projected retirement of the other, ageing NSW 
+coal-fired stations (including Vales Point, Eraring 
+and Bayswater), are expected to necessitate 
+further dispatchable generation capacity to 
+maintain supply adequacy. 
+AEMO’s 2018 ISP directly considered the optimal 
+NEM-wide investment path across both shared 
+transmission and generation in light of these 
+projected retirements, and found that a new 
+transmission development between the Snowy 
+Mountains and Sydney:  18
+“ provides route diversity to harden the grid 
+against extreme climate conditions, and 
+unlocks high quality renewable energy 
+resources, reducing connection costs for 
+new renewable generation needed once the 
+majority of the coal fleet retires. Without 
+this interconnection, AEMO’s modelling 
+indicates that more balancing services 
+(such as GPG or energy storage) would be 
+required to address the lack of diversity 
+that arises from concentrating renewable 
+generation in clusters.”
+2.3 ISP-based modelling 
+assumptions
+The assumptions TransGrid proposes to use 
+to assess the market benefits in the PADR are 
+based on the 2019 planning and forecasting 
+assumptions currently being consulted on by 
+AEMO for the 2020 ISP, published in February 
+2019.19 Where updated assumptions are not 
+available from AEMO by the time the modelling 
+for this RIT-T commences, TransGrid will use the 
+most recent assumptions that are available 
+(eg, electricity demand forecasts sourced 
+from the 2018 ESOO), either from AEMO or from 
+alternative sources.
+TransGrid proposes to modify assumptions 
+where required either to reflect factors that  
+are most relevant to this particular 
+assessment, or in response to stakeholder 
+feedback, as part of the scenario and 
+sensitivity testing.
+In conjunction with this PSCR, TransGrid 
+is publishing an Inputs and Methodology 
+Consultation Paper on the proposed market 
+modelling approach. The consultation 
+paper provides more detail in relation to the 
+modelling approach and parameters we intend 
+to adopt in the quantitative analysis. This 
+separate report is not required under the NER 
+but provides greater transparency and an 
+opportunity to obtain stakeholder feedback 
+on the proposed approach to quantitative 
+modelling, ahead of the PADR. 
+2.3.1  Summary of proposed scenarios 
+TransGrid notes the importance of ensuring that 
+the outcome of this RIT-T assessment is robust 
+to different assumptions about how the energy 
+sector may develop in the future. Transmission 
+investments are long-lived assets, and it is 
+important that the market benefits associated 
+with these investments do not depend on  
+a narrow view of potential future outcomes, 
+given that the future is inherently uncertain.
+Uncertainty is captured under the RIT-T 
+framework through the use of scenarios, which 
+reflect different assumptions about future 
+market development and other factors that are 
+expected to affect the relative market benefits 
+of the options being considered. 
+We are intending to construct four ‘core’ 
+scenarios that we consider reflect a sufficiently 
+broad range of potential outcomes across the 
+key uncertainties that are expected to affect 
+the future market benefits of the investment 
+options being considered. The proposed 
+scenarios are summarised in Table 1, which 
+focuses on the key variables that are expected 
+at this stage to have the greatest influence 
+on the net market benefits of the options 
+considered. 
+The scenarios are primarily based on AEMO’s 
+proposed 2020 ISP scenarios. At this stage 
+TransGrid is not intending to adopt AEMO’s 
+proposed high Distributed Energy Resources 
+(DER) scenario as one of the core scenarios 
+for this RIT-T. However, TransGrid will test the 
+impact of assuming higher uptake of DER as part 
+of our sensitivity testing.
+Instead, TransGrid intends to include  
+a fourth “Neutral with Stronger Share of 
+Emission Reduction Target” scenario. This 
+reflects feedback from TransGrid’s NSW and 
+ACT Transmission Planning Forum in November 
+2018, which suggested that there may be value 
+in including a scenario that incorporates higher 
+emissions reductions in the electricity sector 
+even under a neutral outlook, to investigate the 
+impact that any future policy change may have 
+on the assessment of policy options under this 
+RIT-T. This scenario may also be an effective 
+proxy for the impact of any future policies that 
+increase the likelihood of additional renewable 
+generation locating in NSW. 
+Table 1 also summarises the coincident network 
+developments TransGrid proposes to reflect 
+in the market modelling analysis. TransGrid 
+notes that some options under consideration 
+in the VIC to NSW interconnector upgrade (ISP 
+Group 1) project would bring forward part of the 
+development being considered in this RIT-T. 
+We will take this interaction into account in 
+undertaking the market modelling assessment 
+for this RIT-T.
+02 The ‘Identified Need’
+
+--- PDF page 14 ---
+13
+20 AGL have made numerous announcements that they are going to retire Liddell by 2022. AEMO also classify Liddell as an ‘Announced Retirement’ in their generator information 
+pages, while the other NSW coal plants are still listed as ‘In Service”.
+Table 1 – Summary of scenarios proposed to be modelled
+VARIABLE FAST CHANGE SCENARIO NEUTRAL SCENARIO
+NEUTRAL WITH STRONGER 
+EMISSION REDUCTION TARGET 
+SCENARIO SLOW CHANGE SCENARIO
+Electricity demand AEMO 2018 ESOO strong 
+demand forecasts 
+AEMO 2018 ESOO neutral 
+demand forecasts
+AEMO 2018 ESOO neutral 
+demand forecasts
+AEMO 2018 ESOO weak 
+demand forecasts
+Coal and gas prices AEMO ISP strong forecast AEMO ISP neutral forecast AEMO ISP neutral forecast AEMO ISP slow forecast
+Emission reduction 
+renewables policy 
+(reflected in coal plant 
+retirement trajectories)
+52% reduction from  
+2005 by 2030
+28% reduction from  
+2005 by 2030
+52% reduction from  
+2005 by 2030
+28% reduction from  
+2005 by 2030
+Jurisdictional 
+emissions  targets
+VRET 25% by 2020 and 40% by 2025  
+QRET 50% by 2030
+COINCIDENT NETWORK DEVELOPMENTS
+SA to NSW interconnector The proposed SA to NSW interconnector is assumed constructed by 2023
+VIC to NSW 
+Interconnector  Upgrade
+The preferred ISP option is assumed constructed by 2020 and the timing will be tested as a sensitivity
+Western VIC Renewable 
+Integration RIT-T
+The preferred Western VIC RIT-T option is assumed constructed by 2023 and the timing will be tested as a sensitivity
+QNI expansions The preferred ISP option is assumed to be constructed by 2020 (Stage 1) and 2023 (Stage 2),  
+or as updated by concurrent QNI RIT-T process. Timing will be tested as a sensitivity
+SnowyLink South The preferred ISP option is assumed constructed by 2034 and the timing will be tested as a sensitivity
+MarinusLink and  
+Battery of the Nation
+The preferred option is 
+assumed constructed by 
+2033 and the timing will be 
+tested as a sensitivity
+Not included Not included Not included
+2.3.2  Sensitivity analysis
+In addition to the use of scenarios to capture 
+key uncertainties in relation to the future ‘state-
+of-the-world’, the robustness of the economic 
+assessment presented in the PADR will also 
+be investigated through the use of sensitivity 
+analysis in relation to key input assumptions. 
+In particular, TransGrid intends to identify the 
+key factors driving the outcome of this RIT-T 
+through this sensitivity testing and will seek 
+to identify the ‘boundary value’ for these 
+factors, beyond which the outcome of the 
+analysis would change, e.g. investigating what 
+a particular variable would need to change for 
+the preferred credible option to change. 
+At this stage, based on the 2018 ISP assessment 
+and preliminary modelling undertaken by 
+TransGrid, we consider that the following are 
+candidates for this detailed sensitivity testing:
+• Retirement dates of coal generators 
+(particularly Vales Point, Eraring and 
+Bayswater in NSW);
+• The timing of potential coincident, and/  
+or subsequent, network developments  
+(e.g., other ISP ‘Group 1’, ‘Group 2’ projects and 
+‘Group 3’ projects, including SnowyLink South); 
+• Higher than anticipated DER uptake (to align 
+with AEMO’s 2019 modelling scenario);
+• Capital costs of the credible options; and
+• The discount rate adopted for the 
+NPV analysis.
+While the retirement of Liddell is expected 
+to be a key driver of market benefits for the 
+credible options considered (as highlighted 
+in the ISP), we consider there to be less 
+uncertainty around the retirement date of 
+Liddell than other NSW coal plants.  20 We are 
+therefore not intending to test a sensitivity 
+on the assumed retirement date of Liddell in 
+the PADR.
+02 The ‘Identified Need’
+
+--- PDF page 15 ---
+14
+03 Network Options
+21 Maragle is approximately 85 km south of Tumut, in the Snowy Mountains. This is the connection point to the shared network for Snowy 2.0.
+3.1 Overview of network options
+TransGrid is currently considering 12 network 
+options to provide additional transfer capacity 
+on the NSW Southern Shared Network between 
+the Snowy Mountains and the major load 
+centres of Sydney, Newcastle and  Wollongong. 
+The network options considered reflect 
+four alternative topologies for greenfield 
+developments, reflecting:
+1 A ‘direct’ path between Maragle 21 
+and Bannaby; 
+2 A path between Maragle and Bannaby 
+via Wagga Wagga that would open up 
+additional capacity for new renewable 
+generation in southern NSW which may 
+provide greater market benefits;
+3 A wider footprint via Wagga Wagga, that 
+would open up both direct and additional 
+capacity for new renewable generation in 
+southern NSW, which may provide greater 
+market benefits;  and
+4 A wider Maragle-Wagga-Bannaby footprint 
+plus additional capacity between Bannaby 
+and Sydney, to further relieve constraints 
+on that portion of the network. 
+Each topology is being considered across  
+three voltages:
+A Construction and operation at 330kV  
+with high capacity conductor;
+B Construction to 500kV and initial operation 
+at 330kV, with the optionality to augment 
+substation equipment in the future to 
+operate to 500kV; and
+C Construction and operation at 500kV.
+These network options are summarised in 
+Table 2, which shows the additional network 
+capacity that each provides between southern 
+NSW and the major load centres of Sydney, 
+Newcastle and Wollongong. 
+The remainder of this section provides further 
+detail on each of these options. It also outlines 
+a number of network options that have been 
+considered but not progressed (together  
+with the reasons why). In addition, there would 
+be connection works not a part of this RIT-T.
+This section presents the network 
+options that TransGrid has identified 
+to increase transfer capability 
+between the Snowy Mountains and 
+Sydney, Newcastle and Wollongong. 
+The following section presents 
+the technical characteristics 
+that non-network options would 
+need to meet in order to provide 
+similar net market benefits, 
+either on a stand-alone basis, or 
+coupled with a network option. 
+TransGrid is considering 12 
+network options to provide 
+additional transfer capacity 
+on the NSW Southern Shared 
+Network between the major 
+load centres of Sydney, 
+Newcastle and Wollongong. 
+03 
+Network Options
+
+--- PDF page 16 ---
+15
+22 The additional firm capacities in this table assume an average level of import from VIC to NSW of 200 MW and average wind generation in southern NSW of 265 MW.
+23 Cost estimates are indicative and based on preliminary desktop estimates. TransGrid will further refine these estimates in the PADR.
+Table 2 – Summary of credible network options
+TOPOLOGY / VOLTAGE
+A. 330KV HIGH  
+CAPACITY 
+CONDUCTOR
+B. 500KV BUILD 
+330KV INITIAL 
+OPERATION C. 500KV
+1 Two new single circuit transmission lines from Maragle directly to 
+Bannaby (and power flow control between Bannaby and Sydney where 
+needed to provide 2,000  MW capacity)
+Option 1A
+Two new 330 kV 
+high capacity 
+transmission lines, 
+switchgear  
+and phase shifting  
+transformer 
+Option 1B
+Two new 500 kV 
+transmission lines 
+operated at 330 
+kV, switchgear 
+and phase shifting 
+transformer
+Option 1C
+Two new 500 kV 
+transmission lines,  
+tie transformers  
+and switchgear
+Additional firm 
+capacity   
+2,050 MW 22
+Additional firm 
+capacity  
+2,170 MW
+Additional firm 
+capacity  
+2,510 MW
+Indicative  
+capital cost  
+$790m 23
+Indicative  
+capital cost  
+$950m
+Indicative  
+capital cost  
+$1,060m
+2 New single circuit transmission lines from Maragle to Wagga Wagga 
+and Wagga Wagga to Bannaby (and power flow control between 
+Bannaby and Sydney where needed to provide 2,000 MW capacity)
+Option 2A
+Four new 330 kV 
+high capacity 
+transmission lines, 
+switchgear and 
+phase shifting 
+transformers 
+Option 2B
+Four new 500 kV 
+transmission lines 
+operated at 330 kV, 
+switchgear and 
+phase shifting 
+transformers
+Option 2C
+Four new 500 kV 
+transmission lines,  
+tie transformers  
+and switchgear
+Additional firm 
+capacity  
+2,000 MW 22
+Additional firm 
+capacity  
+2,000 MW 22
+Additional firm 
+capacity  
+2,500 MW 22
+Indicative  
+capital cost  
+$1,240m
+Indicative  
+capital cost  
+$1,420m
+Indicative  
+capital cost  
+$1,380m
+SYDNEY
+MELBOURNE
+MELBOURNE
+CANBERRA
+BANNABY
+WAGGA WAGGA
+MARAGLE
+PROJECT 
+ENERGYCONNECT
+03 Network Options
+SYDNEY
+MELBOURNE
+MELBOURNE
+CANBERRA
+BANNABY
+WAGGA WAGGA
+MARAGLE
+PROJECT 
+ENERGYCONNECT
+
+--- PDF page 17 ---
+16
+TOPOLOGY / VOLTAGE
+A. 330KV HIGH  
+CAPACITY 
+CONDUCTOR
+B. 500KV BUILD 
+330KV INITIAL 
+OPERATION C. 500KV
+3 New single circuit transmission lines from Maragle to Bannaby, Maragle 
+to Wagga and Wagga to Bannaby (and power flow control between 
+Bannaby and Sydney where needed to provide 2,000 MW capacity)
+Option 3A
+Three new 330 
+kV high capacity 
+transmission lines, 
+switchgear  
+and phase shifting 
+transformer
+Option 3B
+Three new 500 kV 
+transmission lines 
+operated at 330 
+kV, switchgear 
+and phase shifting 
+transformer
+Option 3C
+Three new 500 kV 
+transmission lines,  
+tie transformers  
+and switchgear
+Additional firm 
+capacity  
+2,000 MW
+Additional firm 
+capacity  
+2,030 MW
+Additional firm 
+capacity  
+2,570 MW
+Indicative |  
+capital cost  
+$1,010m
+Indicative  
+capital cost  
+$1,220m
+Indicative  
+capital cost  
+$1,350m
+4 New single circuit transmission lines from Maragle to Bannaby, Maragle 
+to Wagga, Wagga to Bannaby and Bannaby to Sydney
+Option 4A
+Four new 330 kV 
+high capacity 
+transmission  
+lines and switchgear
+Option 4B
+Four new 500 kV 
+transmission lines 
+operated at 330 kV 
+and switchgear 
+Option 4C
+Four new 500 kV 
+transmission lines, 
+tie transformers and 
+switchgear
+Additional firm 
+capacity  
+2,000 MW
+Additional firm 
+capacity  
+2,030 MW
+Additional firm 
+capacity  
+3,100 MW
+Indicative  
+capital cost  
+$1,330m
+Indicative  
+capital cost  
+$1,570m
+Indicative  
+capital cost  
+$1,890m
+Cost estimates specified in these Options have been prepared from the desktop studies based on cost data available at the date of preparation. Data 
+used in the Options is consistent for the purposes of inter-Option comparison. The specific route will only be confirmed during preparation of the PACR. 
+An extensive range of factors may affect the project cost including (but not limited to) environmental factors affecting line route, land acquisition or 
+easement cost, construction cost implications arising from route dynamics, currency fluctuations and construction contractor costs in the proposed 
+construction period. As such the nominal costs specified are indicative only at this stage and will be subject to further refinement.
+03 Network Options
+SYDNEY
+MELBOURNE
+MELBOURNE
+CANBERRA
+BANNABY
+WAGGA WAGGA
+MARAGLE
+PROJECT 
+ENERGYCONNECT
+SYDNEY
+MELBOURNE
+MELBOURNE
+CANBERRA
+BANNABY
+WAGGA WAGGA
+MARAGLE
+PROJECT 
+ENERGYCONNECT
+
+--- PDF page 18 ---
+17
+3.2 Credible network options
+3.2.1  Option 1A – Two new single circuit 330 kV route diverse lines from Maragle to Bannaby using high capacity conductor 
+This option involves constructing two new single circuit 330 kV route diverse lines from Maragle to Bannaby using a high capacity conductor  
+and a phase shifting transformer on Bannaby – Sydney West 330 kV line to control power flows on existing transmission lines between Bannaby  
+and Sydney. The new 330 kV circuits have route diverse paths to mitigate the risk of high impact events (such as lightning strikes, bushfires  
+or extreme wind events) affecting both lines simultaneously. 
+The high level scope includes:
+• Constructing two 330 kV single circuit transmission 
+lines using high capacity conductor:
+ − From Maragle Substation to Bannaby 330 kV 
+Substation (260km)
+• Phase shifting transformer on Bannaby-Sydney West 
+330 kV line
+• Upgrade equipment at Lower Tumut and Upper Tumut 
+Substations to accommodate increased fault levels
+• Augment the Maragle Substation to accommodate the 
+additional transmission lines
+• Augment the existing Bannaby Substation to 
+accommodate the additional transmission lines  
+and phase shifting transformer
+Preliminary modelling indicates that an additional 
+2,050 MW generation could be accommodated at times of 
+average import from VIC and average renewable generation 
+in southern NSW. 
+The estimated capital cost of this option is approximately 
+$790 million. Construction is expected to take 
+3-4 years, with commissioning commencing in 2024, 
+subject to obtaining necessary environmental and 
+development approvals. 
+Bannaby 500kV
+Bannaby 330kV Sydney West
+Maragle 330kV
+Lower Tumut
+Upper Tumut
+330kV
+500kV
+New works
+3.2.2  Option 1B – Two new single circuit 500 kV route diverse lines initially operated at 330 kV from Maragle to Bannaby
+This option involves constructing two new single circuit 500 kV route diverse lines initially operated at 330 kV from Maragle to Bannaby and  
+a phase shifting transformer on Bannaby – Sydney West 330 kV line. The new circuits have route diverse paths to mitigate the risk of high  
+impact events (such as lightning strikes, bushfires or extreme wind events) affecting both lines simultaneously. 
+The high level scope includes: 
+• Construct two 500 kV single circuit transmission lines 
+to be initially operated at 330 kV:
+ − From Maragle Substation to Bannaby 330 kV 
+Substation (260km)
+• Phase shifting transformer on Bannaby-Sydney West 
+330 kV line
+• Upgrade equipment at Lower Tumut and Upper Tumut 
+Substations to accommodate increased fault levels
+• Augment the Maragle Substation to accommodate  
+the additional transmission lines
+• Augment the existing Bannaby Substation to 
+accommodate the additional transmission lines  
+and phase shifting transformer
+Preliminary modelling indicates that additional 2,170 MW 
+generation could be accommodated at times of average 
+import from VIC and average renewable generation in 
+southern NSW. 
+The estimated capital cost of this option is  
+approximately $950 million. Construction is expected  
+to take 3-4 years, with commissioning commencing in 
+2024, subject to obtaining necessary environmental and 
+development  approvals. 
+Bannaby 500kV
+Bannaby 330kV Sydney West
+Maragle 330kV
+Lower Tumut
+Upper Tumut
+330kV
+500kV
+New works
+03 Network Options
+
+--- PDF page 19 ---
+18
+3.2.3  Option 1C – Two new single circuit 500 kV route diverse lines from Maragle to Bannaby 
+This option involves constructing two new single circuit 500 kV route diverse lines from Maragle to Bannaby. The new circuits have route diverse  
+paths to mitigate the risks of high impact events (such as lightning strikes, bushfires or extreme wind events) affecting both lines simultaneously. 
+The high level scope includes: 
+• Construct two 500 kV single circuit transmission lines:
+ − From Maragle Substation to Bannaby 500 kV 
+Substation (260km)
+• Three new 500/330/33 kV 1,500 MVA transformers at 
+Maragle Substation
+• Upgrade equipment at Lower Tumut and Upper Tumut 
+Substations to accommodate increased fault levels
+• Augment the Maragle Substation to accommodate the 
+additional transmission lines
+• Augment the existing Bannaby Substation to 
+accommodate the additional transmission lines
+Preliminary modelling indicates that additional 2,510 MW 
+generation could be accommodated at times of average 
+import from VIC and average renewable generation  
+in southern NSW. 
+The estimated capital cost of this option is approximately 
+$1,060 million. Construction is expected to take 
+3-4 years, with commissioning commencing in 2024, 
+subject to obtaining necessary environmental and 
+development approvals. 
+Lower Tumut
+Upper Tumut
+Bannaby 500kV
+Bannaby 330kV Sydney West
+Maragle 500kV
+Maragle 330kV
+330kV
+500kV
+New works
+3.2.4  Option 2A – New single circuit 330 kV route diverse lines from Maragle to Wagga Wagga and Wagga Wagga to Bannaby using 
+high capacity conductor 
+This option involves constructing two new single circuit 330 kV route diverse lines from Maragle to Wagga Wagga and Wagga Wagga to Bannaby using 
+a high capacity conductor and a phase shifting transformer on Bannaby – Sydney West 330 kV line. The new 330 kV circuits have route diverse paths 
+to mitigate the risks of high impact events (such as lightening strikes, bushfires or extreme wind events) affecting multiple lines simultaneously. 
+The high level scope includes:
+• Constructing four 330 kV single circuit transmission 
+lines using high capacity conductor:
+ − Two single circuit lines from Maragle Substation to 
+Wagga 330 kV Substation (110km); and
+ − Two single circuit lines from Wagga Substation to 
+Bannaby 330 kV Substation (260km)
+• Phase shifting transformer on Bannaby-Sydney West 
+330 kV line
+• Phase shifting transformers on Wagga–Bannaby 
+330 kV line
+• Upgrade equipment at Lower Tumut and Upper Tumut 
+Substations to accommodate increased fault levels
+• Augment the Maragle Substation to accommodate the 
+additional transmission lines
+• Augment the existing Substations at Wagga 
+and Bannaby to accommodate the additional 
+transmission  lines
+Preliminary modelling indicates that an additional 
+2,000 MW generation could be accommodated at times of 
+average import from VIC and average renewable generation 
+in southern NSW. 
+The estimated capital cost of this option is approximately 
+$1,240 million. Construction is expected to take 
+3-4 years, with commissioning commencing in 2024, 
+subject to obtaining necessary environmental and 
+development approvals. 
+330kV
+500kV
+New worksUpper Tumut
+Lower Tumut
+Jindera
+Bannaby 500kV
+Bannaby 330kV Sydney West
+Maragle 330kV
+Darlington Pt  
+330kV
+Wagga 
+330kV
+03 Network Options
+
+--- PDF page 20 ---
+19
+3.2.6  Option 2C – New single circuit 500 kV route diverse lines from Maragle to Wagga Wagga and Wagga Wagga to Bannaby
+This option involves constructing new single circuit 500 kV route diverse lines from Maragle to Wagga Wagga and Wagga Wagga to Bannaby. The new 
+circuits have route diverse paths to mitigate the risks of high impact events (such as lightning strikes, bushfires or extreme wind events) affecting 
+multiple lines simultaneously. 
+The high level scope includes: 
+• New Wagga 500 / 330 kV Substation and 330 kV 
+connection to the existing Wagga Substation
+• Construct four 500 kV single circuit transmission lines:
+ − Two single circuit lines from Maragle Substation to 
+Wagga 500 kV Substation (110km); and
+ − Two single circuit lines from Wagga Substation to 
+Bannaby 500 kV Substation (260km)
+• Three new 500 / 330 / 33 kV 1,500 MVA transformers 
+at Maragle Substation and two new 500 / 330 / 33 kV 
+1,500 MVA transformers at Wagga Substation 
+• Upgrade equipment at Lower Tumut and Upper Tumut 
+Substations to accommodate increased fault levels
+• Augment the Maragle substation to accommodate  
+the additional transmission lines
+• Augment the existing Substations at Wagga and 
+Bannaby to accommodate the additional transmission 
+lines / transformers
+Preliminary modelling indicates that an additional 
+2,500 MW generation could be accommodated at times 
+of average import from VIC and average renewable 
+generation in southern NSW. 
+The estimated capital cost of this option is approximately 
+$1,380 million. Construction is expected to take 
+3-4 years, with commissioning commencing in 2024, 
+subject to obtaining necessary environmental and 
+development  approvals.  
+330kV
+500kV
+New worksUpper Tumut
+Lower Tumut
+Jindera
+Bannaby 500kV
+Bannaby 330kV Sydney West
+Darlington Pt  
+330kV
+Wagga 
+330kV
+Wagga 500kV
+Maragle 500kV
+Maragle 330kV
+3.2.5  Option 2B – New single circuit 500 kV route diverse lines initially operated at 330 kV from Maragle to Wagga Wagga and Wagga 
+Wagga to Bannaby 
+This option involves constructing new single circuit 500 kV route diverse lines initially operated at 330 kV from Maragle to Bannaby via Wagga and 
+a phase shifting transformer on Bannaby – Sydney West 330 kV line. The new circuits have route diverse paths to mitigate the risks of high impact 
+events (such as lightening strikes, bushfires or extreme wind events) affecting multiple lines simultaneously. 
+The high level scope includes:
+• Construct four 500 kV single circuit transmission lines to 
+be initially operated at 330 kV:
+ − Two single circuit lines from Maragle Substation to 
+Wagga 330 kV Substation (110km); and
+ − Two single circuit lines from Wagga Substation to 
+Bannaby 330 kV Substation (260km)
+• Phase shifting transformer on Bannaby-Sydney West 
+330 kV line
+• Phase shifting transformers on Wagga–Bannaby 
+330 kV lines
+• Upgrade equipment at Lower Tumut and Upper Tumut 
+Substations to accommodate increased fault levels
+• Augment the Maragle Substation to accommodate the 
+additional transmission lines
+• Augment the existing Substations at Wagga 
+and Bannaby to accommodate the additional 
+transmission  lines
+Preliminary modelling indicates that an additional 
+2,000 MW generation could be accommodated at times 
+of average import from VIC and average renewable 
+generation in southern NSW. 
+The estimated capital cost of this option is approximately 
+$1,420 million. Construction is expected to take 3-4 
+years, with commissioning commencing in 2024, 
+subject to obtaining necessary environmental and 
+development  approvals. 
+330kV
+500kV
+New worksUpper Tumut
+Lower Tumut
+Jindera
+Bannaby 500kV
+Bannaby 330kV Sydney West
+Maragle 330kV
+Darlington Pt  
+330kV
+Wagga 
+330kV
+03 Network Options
+
+--- PDF page 21 ---
+20
+3.2.7 Option 3A – New single circuit 330 kV route diverse lines from Maragle to Bannaby, Maragle to Wagga and Wagga to Bannaby 
+using high capacity conductor 
+This option involves constructing new single circuit 330 kV route diverse lines from Maragle to Bannaby, Maragle to Wagga and Wagga to Bannaby 
+using high capacity conductor and a phase shifting transformer on Bannaby – Sydney West 330 kV line. The new 330 kV circuits have route diverse 
+paths to mitigate the risks of high impact events (such as lightning strikes, bushfires or extreme wind events) affecting multiple lines simultaneously. 
+The high level scope includes: 
+• Construct three 330 kV single circuit transmission 
+lines using high capacity  conductor:
+ − From Maragle to Bannaby 330 kV Substation (260km);
+ − From Maragle to Wagga 330 kV Substation (110km); and
+ − From Wagga to Bannaby 330 kV Substation (260km)
+• Phase shifting transformer on Bannaby-Sydney West 
+330 kV line
+• Upgrade equipment at Lower Tumut and Upper Tumut 
+Substations to accommodate increased fault levels
+• Augment the Maragle Substation to accommodate the 
+additional transmission lines
+• Augment the existing Substations at Wagga 
+and Bannaby to accommodate the additional 
+transmission  lines.
+Preliminary modelling indicates that additional 2,000 MW 
+generation could be accommodated at times of average 
+import from VIC and average renewable generation  
+in southern NSW. 
+The estimated capital cost of this option is approximately 
+$1,010 million. Construction is expected to take 
+3-4 years, with commissioning commencing in 2024, 
+subject to obtaining necessary environmental and 
+development approvals.
+Bannaby 500kV
+Bannaby 330kV Sydney West
+Maragle 330kV
+Lower 
+Tumut
+Upper Tumut
+Darlington Pt  
+330kV Wagga 330kV
+Jindera
+330kV
+500kV
+New works
+03 Network Options
+3.2.8  Option 3B – New single circuit 500 kV route diverse lines initially operated at 330 kV from Maragle to Bannaby, Maragle to 
+Wagga and Wagga to Bannaby
+This option involves constructing new single circuit 500 kV route diverse lines initially operated at 330 kV from Maragle to Bannaby, Maragle to Wagga 
+and Wagga to Bannaby, and a phase shifting transformer on Bannaby – Sydney West 330 kV line. The new circuits have route diverse paths to mitigate 
+the risks of high impact events (such as lightning strikes, bushfires or extreme wind events) affecting multiple lines simultaneously. 
+The high level scope includes: 
+• Construct three 500 kV single circuit transmission lines:
+ − From Maragle to Bannaby 330 kV Substation (260km);
+ − From Maragle to Wagga 330 kV Substation (110km); and
+ − From Wagga to Bannaby 330 kV Substation (260km)
+• Phase shifting transformer on Bannaby-Sydney West 
+330 kV line
+• Upgrade equipment at Lower Tumut and Upper Tumut 
+Substations to accommodate increased fault levels
+• Augment the Maragle Substation to accommodate the 
+additional transmission lines
+• Augment the existing Substations at Wagga 
+and Bannaby to accommodate the additional 
+transmission  lines.
+Preliminary modelling indicates that additional 2,030 MW 
+generation could be accommodated at times of average 
+import from VIC and average renewable generation  
+in southern NSW. 
+The estimated capital cost of this option is approximately 
+$1,220 million. Construction is expected to take 3-4 
+years, with commissioning commencing in 2024, 
+subject to obtaining necessary environmental and 
+development  approvals. 
+Bannaby 500kV
+Bannaby 330kV Sydney West
+Maragle 330kV
+Lower 
+Tumut
+Upper Tumut
+Darlington Pt  
+330kV Wagga 330kV
+Jindera
+330kV
+500kV
+New works
+
+--- PDF page 22 ---
+21
+3.2.9 Option 3C – New single circuit 500 kV route diverse lines from Maragle to Bannaby, Maragle to Wagga and Wagga to Bannaby 
+This option involves constructing new single circuit 500 kV route diverse lines from Maragle to Bannaby, Maragle to Wagga and Wagga to Bannaby.  
+The new circuits have route diverse paths to mitigate the risks of high impact events (such as lightning strikes, bushfires or extreme wind events)  
+affecting multiple lines simultaneously. 
+The high level scope includes: 
+• New Wagga 500 / 330 kV Substation and 330 kV 
+connection to the existing Wagga Substation
+• Construct three 500 kV single circuit transmission lines:
+ − From Maragle to Bannaby 500 kV Substation (260km);
+ − From Maragle to Wagga 500 kV Substation (110km); and
+ − From Wagga to Bannaby 500 kV Substation (260km)
+• Three new 500/330/33 kV 1,500 MVA transformers 
+at Maragle Substation and one new 500/330/33 kV 
+1,500 MVA transformer at Wagga Substation
+• Upgrade equipment at Lower Tumut and Upper Tumut 
+Substations to accommodate increased fault levels
+• Augment the Maragle Substation to accommodate  
+the additional transmission lines
+• Augment the existing Substations at Wagga and 
+Bannaby to accommodate the additional transmission 
+lines/transformers.
+Preliminary modelling indicates that additional 2,570 MW 
+generation could be accommodated at times of average 
+import from VIC and average renewable generation  
+in southern NSW. 
+The estimated capital cost of this option is approximately 
+$1,350 million. Construction is expected to take 
+3-4 years, with commissioning commencing in 2024, 
+subject to obtaining necessary environmental and 
+development  approvals. 
+330kV
+500kV
+New works
+Upper Tumut
+Lower Tumut
+Jindera
+Bannaby 500kV
+Bannaby 330kV Sydney West
+Maragle 500kV
+Maragle 330kV
+Darlington Pt  
+330kV Wagga 
+330kV
+Wagga 500kV
+03 Network Options
+3.2.9 Option 4A – New s ingle circuit 330 kV route diverse lines from Maragle to Bannaby, Maragle to Wagga, Wagga to Bannaby and 
+Bannaby to Sydney West via South Creek
+This option involves constructing new single circuit 330 kV route diverse lines from Maragle to Bannaby, Maragle to Wagga, Maragle to Wagga and  
+Wagga to Bannaby and a new single circuit 330 kV line from Bannaby to Sydney West. The new circuits other than Bannaby to Sydney West have route 
+diverse paths to mitigate the risk of high impact events (such as lightning strikes, bushfires and extreme wind events) affecting multiple circuits. 
+The high level scope includes:
+• Construct three 330 kV single circuit transmission 
+lines using high capacity conductor:
+ − from Maragle to Bannaby 330 kV Substation (260km);
+ − from Maragle to Wagga 330 kV Substation (110km); and
+ − from Wagga to Bannaby 330 kV Substation (260km);
+• Construct one 330 kV single circuit transmission line:
+ − from Bannaby to Sydney West 330 kV Substation (110km)
+• Upgrade equipment at Lower Tumut and Upper Tumut 
+Substations to accommodate increased fault levels
+• Augment the Maragle connection Substation to 
+accommodate the additional transmission lines
+• Augment the existing Substations at Wagga,  
+Bannaby and Sydney West to accommodate the 
+additional transmission lines.
+Preliminary modelling indicates that an additional 
+2,000 MW generation could be accommodated at times of 
+average import from VIC and average renewable generation 
+output in southern NSW.
+The estimated capital cost of this option is approximately 
+$1,330 million. Construction is expected to take 
+3-4 years, with commissioning commencing in 2024, 
+subject to obtaining necessary environmental and 
+development  approvals
+330kV
+500kV
+New works
+Upper Tumut
+Lower Tumut
+Jindera
+Bannaby 500kV
+Bannaby 330kV Sydney West
+Maragle 330kV
+Darlington Pt  
+330kV Wagga 330kV
+
+--- PDF page 23 ---
+22
+3.2. 10 Option 4B – New single circuit 500 kV route diverse lines initially operated at 330 kV from Maragle to Bannaby,  
+Maragle to Wagga, Wagga to Bannaby and Bannaby to Sydney West via South Creek
+This option involves constructing new single circuit 500 kV route diverse lines initially operated at 330 kV from Maragle to Bannaby, Maragle 
+to Wagga, and Wagga to Bannaby, and a new single circuit 330 kV line from Bannaby to Sydney West. The new circuits other than Bannaby to 
+Sydney West have route diverse paths to mitigate the risk of high impact events (such as lightning strikes, bushfires and extreme wind events) 
+affecting multiple  circuits. 
+The high level scope includes: 
+• Construct three 500 kV single circuit transmission lines to 
+be initially operated at 330 kV:
+ − From Maragle to Bannaby 330 kV Substation (260km);
+ − From Maragle to Wagga 330 kV Substation (110km); and
+ − From Wagga to Bannaby 330 kV Substation (260km);
+• Construct 330 kV single circuit transmission line:
+ − From Bannaby to Sydney West 330 kV Substation 110km
+• Upgrade equipment at Lower Tumut and Upper Tumut 
+Substations to accommodate increased fault levels
+• Augment the Maragle connection Substation to accommodate 
+the additional transmission lines
+• Augment the existing Substations at Wagga, Bannaby and 
+Sydney West to accommodate the additional transmission lines.
+Preliminary modelling indicates that an additional 2,030 MW generation 
+could be accommodated at times of average import from VIC and 
+average renewable generation output in southern NSW. 
+The estimated capital cost of this option is approximately 
+$1,570 million. Construction is expected to take 3-4 years, 
+with commissioning commencing in 2024, subject to obtaining 
+necessary environmental and development  approvals. 
+330kV
+500kV
+New works
+Upper Tumut
+Lower Tumut
+Jindera
+Bannaby 500kV
+Bannaby 330kV Sydney West
+Maragle 330kV
+Darlington Pt  
+330kV Wagga 330kV
+03 Network Options
+3.2.11  Option 4C – New single circuit 500 kV route diverse lines from Maragle to Bannaby, Maragle to Wagga, Wagga to Bannaby  
+and Bannaby to Sydney via South Creek
+This option involves constructing new single circuit 500 kV route diverse lines from Maragle to Bannaby, Maragle to Wagga, Wagga to Bannaby and 
+Bannaby to South Creek. The new circuits other than Bannaby to Sydney via South Creek have route diverse paths to mitigate the risk of high impact 
+events (such as lightning strikes, bushfires and extreme wind events) affecting multiple circuits. 
+The high level scope includes: 
+• New Wagga 500 / 330 kV Substation and 330 kV connection to 
+the existing Wagga Substation
+• New 500 / 330 kV South Creek Substation connecting existing 
+330 kV lines 32/38 and 500 kV lines 5A1/5A2
+• Construct four 500 kV single circuit transmission lines:
+ − From Maragle to Bannaby 500 kV Substation (260km);
+ − From Maragle to Wagga 500 kV Substation (110km);
+ − From Wagga to Bannaby 500 kV Substation (260km); and
+ − From Bannaby to South Creek 500 kV Substation (102km)
+• Construct one 330 kV single circuit transmission line:
+ − From South Creek to Sydney West Substation (8km)
+• Seven new 500/330/33 kV 1,500 MVA transformers: three 
+transformers at Maragle Substation, one transformer at Wagga 
+Substation, one transformer at Bannaby Substation and two 
+transformers at South Creek Substation
+• Upgrade equipment at Lower Tumut and Upper Tumut 
+Substations to accommodate increased fault levels
+• Augment the Maragle Substation to accommodate  
+the additional transmission lines
+• Augment the existing Substations at Wagga, Bannaby and 
+Sydney West to accommodate the additional transmission 
+lines/transformers.
+Preliminary modelling indicates that additional 3,100  MW generation 
+could be accommodated at times of average import from VIC and 
+average renewable generation in southern NSW. 
+The estimated capital cost of this option is approximately $1,890 
+million. Construction is expected to take 4-5 years, with commissioning 
+commencing in 2024 and progressing throughout 2025 subject to 
+obtaining necessary environmental and development  approvals. 
+330kV
+500kV
+New worksUpper Tumut
+Lower Tumut
+Jindera
+Bannaby 500kV
+South Creek 
+330kV
+Regentville
+Kemps Creek
+South Creek 
+500kV
+Eraring
+Bannaby 330kV
+Sydney 
+West
+Bayswater
+Maragle 330kV
+Maragle 500kV
+Darlington Pt  
+330kV Wagga 
+330kV
+Wagga 500kV
+
+--- PDF page 24 ---
+23
+24 The topology of option 3D differs from the other options, with transmission lines from Snowy 2.0 to Wagga and Wagga to Sydney, to minimise the number of HVDC converter stations required.
+25 AER, Regulatory Investment Test for Transmission Application Guidelines, December 2018, p13.
+3.3 Network options considered 
+but not progressed 
+TransGrid has also considered a range of other 
+potential options but ceased to progress these 
+on the grounds that they are not considered 
+technically and/or economically feasible,  
+and therefore are not credible options.
+3.3.1  Brownfield options
+TransGrid has considered options that re-use 
+existing transmission line routes (“brownfield” 
+options). These options may be, for example:
+• replacement of existing single circuit 
+transmission lines with double circuit  
+transmission lines; and
+• replacement of existing standard 
+conductor transmission lines with high 
+capacity conductor transmission lines.
+The scope of “brownfield” options includes 
+demolition of existing transmission lines  
+and construction of new single circuit high 
+capacity or double circuit transmission lines 
+on multiple existing transmission line routes.
+The removal of several existing transmission 
+lines for their demolition and construction 
+periods would remove capacity from the 
+transmission system and significantly increase 
+constraints on generation and inter-regional 
+transfers within the NEM. 
+For these reasons, TransGrid does not consider 
+developments that are significantly brownfield 
+represent credible options, and does not 
+propose to consider those options further as 
+part of this RIT-T. TransGrid will consider re-use 
+of existing corridors where practical and cost-
+effective, where the impact of outages on the 
+market is manageable.
+3.3.2 HVDC options
+TransGrid has also considered HVDC options 
+following the topologies set out in options 1, 2, 
+3 and 4. 24 These would require the installation 
+of two or three new HVDC transmission lines, tie 
+transformers and  switchgear.
+Preliminary estimation has found that  
+HVDC options would be substantially more 
+expensive than other potential greenfield 
+options and would not provide materially higher 
+capacities. The HVDC options considered are 
+show in Table 3. 
+These options have costs that are between 
+50% and 100% higher than other options 
+with comparable capacity. These options 
+are therefore not considered economically 
+feasible, as the higher costs are not expected 
+to be outweighed by materially higher market 
+benefits, and are proposed not to be considered 
+further as part of this RIT-T. 25 
+Table 3 – Options considered but not progressed
+TOPOLOGY HVDC
+1
+Option 1D: Two new 330kV or 400kV HVDC transmission lines, four converter stations and phase shifting transformer
+Additional firm capacity: 2,000 MW
+Indicative capital cost:  approx. $1,200m
+2 or 3
+Option 2-3D: Three new 330kV HVDC transmission lines, six converter stations and phase shifting transformer
+Additional firm capacity: 2,000 MW
+Indicative capital cost:  approx. $2,100m
+4
+Option 4D: Three new 330kV HVDC transmission lines and six converter stations  24
+Additional firm capacity: 2,000 MW
+Indicative capital cost:  approx. $2,370m 
+03 Network Options
+
+--- PDF page 25 ---
+24
+26 NER clause 5.16.4(b)(6)(ii).
+27 The screening test is set out in Appendix 3 of the Inter-Regional Planning Committee’s Final Determination: Criteria for Assessing Material Inter-network Impact of 
+Transmission  Augmentations, Version 1.3, October 2004.
+28 NER clause 5.21(d)(1)-(3).
+29 NER 5.16.4 (k)(9)(iii).
+30 As required by NER 5.16.4 (k)(9)(iii).
+3.4 Material inter-network impact
+TransGrid has considered whether the 
+credible options above are expected to have 
+a material inter-network impact.  26 A ‘material 
+inter-network impact’ is defined in the NER as:
+“A material impact on another Transmission 
+Network Service Provider’s network, which 
+may include (without limitation): (a) the 
+imposition of power transfer constraints 
+within another Transmission Network Service 
+Provider’s network; or (b) an adverse impact on 
+the quality of supply in another Transmission 
+Network Service Provider’s network.” 
+The credible options outlined above are near 
+VIC - NSW interconnectors and will therefore 
+have a material inter-network impact. These 
+options do not meet AEMO’s screening criteria 
+for investments that do not have a material 
+inter-network impact.  27
+We will request that AEMO produce an 
+augmentation technical report in relation to 
+the options being considered in this RIT-T.  28 
+As part of the augmentation technical report, 
+AEMO will:  29
+• consult with and take into account the 
+recommendations of the jurisdictional 
+planning representatives in relation to  
+the proposed augmentation; and
+• make a determination as to: (i) the 
+performance requirements for the 
+equipment to be connected; and (ii) the 
+extent and cost of augmentations and 
+changes to all affected transmission 
+networks; and (iii) the possible material 
+effect of the new connection on the network 
+power transfer capability including that 
+of other transmission networks. We will 
+publish the augmentation technical report 
+with the PACR. 30
+3.3.3 Summary of other network options considered and not progressed
+A summary of all the options considered but not progressed is provided in Table 4. TransGrid does not propose to consider these options further in this RIT-T.
+Table 4 – Options considered but not progressed
+OPTION OVERVIEW REASON(S) NOT PROGRESSED 
+HVDC between Maragle 
+and Bannaby / Sydney
+HVDC options between Maragle and Bannaby 
+/ Sydney, using one of the three topologies in 
+options 1, 2 or 3.
+These options are more expensive than other potential greenfield  
+options with the same additional capacities. 
+There options are therefore not considered economically feasible. 
+Use the existing 330 kV 
+network with minor 
+line upgrades
+Cut Maragle into the existing line 01 and 2 and 
+upgrade the southern NSW lines
+This option would significantly limit generation in the Snowy Mountains  
+due to thermal capability, voltage stability and transient stability  limits. 
+This option is therefore not considered technically feasible as it would 
+not increase transfer capacity.
+Rebuild existing 
+330 kV lines
+Cut Maragle into the existing line 01 and 2,  
+rebuild the sections from Maragle to Canberra 
+on line 01 and from Maragle to Yass on line 2 
+as double circuit 330 kV lines, rebuild line 9 
+Canberra to Yass as double circuit 330 kV lines, 
+and build new double circuit 330 kV lines from 
+Yass to Bannaby.
+This option would require significant outages of existing transmission 
+lines to rebuild existing single circuit 330 kV lines between Maragle 
+and Bannaby as double circuit lines, removing significant transmission 
+capacity from this area during demolition and construction and 
+creating significant impacts to the wholesale electricity market. 
+This option is therefore not considered economically feasible.
+New 330 kV or  
+500 kV double circuit 
+transmission line from 
+Maragle to Bannaby
+Build new 330 kV or 500 kV double circuit 
+transmission line from Maragle to Bannaby
+This option introduces the risk of a single high impact event (such as  
+lightning strikes, bushfires or extreme wind events) affecting both  
+circuits simultaneously.
+The likely consequences include widespread blackouts due to both  
+voltage collapse in southern NSW and under frequency load shedding.
+These consequences for the power system have been experienced 
+previously, including recently due to a double circuit lightning strike on 
+the Queensland to NSW interconnector on 25  August 2018.
+This option is therefore not considered technically feasible.
+03 Network Options
+
+--- PDF page 26 ---
+25
+04 Non-network Option Information
+Non-network options, either individually or 
+combined with network solutions, may also 
+be able to relieve transmission constraints 
+between the Snowy Mountains and Sydney on 
+the NSW Southern Shared Network, therefore 
+contributing to the identified need.
+In particular, this section sets out both: 
+• general information on how non-network 
+options can assist with increasing transfer 
+capacity (section 4.1); 
+• specific information on the use of  
+a potential Wide Area System Integrity 
+Protection Scheme (section 4.2); and
+• the information requested from potential 
+non-network proponents (section 4.3). 
+Proponents of non-network options are 
+encouraged to make submissions on any  
+non-network option they believe can address, 
+or contribute to addressing, the identified 
+need. Moreover, we encourage proponents 
+to reach out and contact us as soon as 
+practicable about potential solutions,  
+ahead of preparing a formal submission.  
+Overall, this process will enable credible 
+non-network options to be assessed in 
+the PADR. 
+4.1 Technical characteristics  
+required for non-network options
+At a high level, credible non-network options 
+need to be able to help relieve constraints on 
+the shared transmission network between 
+the Snowy Mountains and Sydney, Newcastle 
+and Wollongong, in order to increase overall 
+transfer capacity. These constraints are 
+anticipated to worsen in future, once Liddell 
+retires, and will be further impacted by the 
+development of Snowy 2.0 and renewable 
+generation in southern NSW.
+In the first instance, non-network options 
+would need to be able to reduce load in central 
+or northern NSW at times of high power transfer 
+between the Snowy Mountains and Sydney, 
+Newcastle and Wollongong.
+TransGrid has set out a number of potential 
+non-network technologies in Table 5 that  
+could assist with meeting the identified need.
+Given a desire to not be prescriptive at this 
+early stage of the RIT-T regarding the role of 
+non-network options, we have not specified 
+minimum quantities and operating profiles  
+for these solutions. 
+We are interested to hear from parties 
+regarding the potential for non-network 
+options to satisfy, or contribute to satisfying, 
+the identified need, and from potential 
+proponents of such non-network options.
+04 
+Non-network 
+Option Information
+37 In accordance with NER clause 5.16.4(b)(3).
+This section describes the 
+technical characteristics 
+that a non-network 
+option would need in 
+order to address the 
+identified need. 37
+
+--- PDF page 27 ---
+26
+Table 5 – How non-network technologies can assist in delivering key market benefits
+REDUCING/DEFERRING  
+THE GENERATION COST
+ASSISTANCE WITH LOWERING 
+GENERATOR FUEL CONSUMPTION
+FACILITATING THE 
+CONNECTION OF HIGH-QUALITY 
+RENEWABLE  GENERATION
+Overview of how non -network 
+technologies may be able to 
+assist with providing each key 
+market benefit 
+A non-network option would need 
+to increase transfer capacity to 
+defer the need for more expensive 
+generation development in NSW 
+A non-network option would need 
+to be able to reduce load in central 
+or northern NSW at times of high 
+power transfer north from the 
+Snowy Mountains so as to provide 
+a fast response in the event of 
+contingencies, in order to relieve the 
+current operational constraints in 
+southern NSW
+A non-network option would need to 
+support development of renewable 
+energy in additional geographical 
+areas of the NEM 
+POSSIBLE TECHNOLOGIES
+Peak load reduction  
+in NSW
+Shifting of load to alternative 
+time periods
+Energy storage that uses any 
+surplus or low cost generation 
+to be released at appropriate 
+times
+Improved utilisation of existing 
+generating plant
+Pre-emptive load reduction 
+to reduce the loading on 
+transmission lines in southern 
+NSW at constraining time
+Post-contingent load reduction 
+and generator shedding to 
+counteract the stability 
+limitations 
+(These actions would need  
+to be very high speed (within  
+a few cycles of a contingency))
+Improve system strength to 
+accommodate more renewable 
+generation
+04 Non-network Option Information
+
+--- PDF page 28 ---
+27
+4.2 Information regarding  
+a potential Wide Area System 
+Integrity Protection Scheme 
+TransGrid is interested in understanding the 
+potential to leverage flexibility in generation 
+and demand to extend the capacity of 
+the transmission network between the 
+Snowy Mountains and Sydney.
+In particular, Snowy Mountains to Sydney 
+transfer capacity could be increased if, 
+immediately following:
+• A critical network contingency, generation 
+could be tripped or runback in the Snowy 
+Mountains or south of the Snowy Mountains, 
+and a corresponding amount of load could 
+be tripped or run-back north of Bannaby, 
+within the same time frame;
+• A critical NSW generation trip, a 
+corresponding amount of load could be 
+tripped or run-back in NSW.
+The tripped or run-back generation and 
+load would need to remain in this state until 
+AEMO is able to re-secure the power system 
+(i.e. within 30 minutes) but would then be free 
+to resume normal operation within the new 
+secure envelope. 
+For such a Wide Area System Integrity 
+Protection Scheme to function it would  
+require the participation of generators  
+and loads – specifically:
+• Generators which can be run-back 
+very quickly or tripped without 
+adverse  consequences:
+ − this may be particularly applicable to 
+large inverter-connected generators 
+which can operate flexibly; and
+ − the level of run-back which could be 
+offered at a specific point in time would be 
+limited by the level at which the generation 
+is operating (i.e. without storage, a solar 
+generator would be unable to provide  
+a run-back service overnight).
+• Loads which could be run-back very quickly  
+or tripped without adverse consequences: 
+ − It is anticipated that this may be most 
+appropriate for industrial loads that have 
+a high degree of controllability and/or 
+have energy storage incorporated into 
+the process (e.g., heat); and
+ − the level of run-back would be limited  
+by the size of the load, and any variations 
+in consumption over time. 
+• Energy storage such as large-scale battery 
+installations could respond quickly in 
+either direction:
+ − their capacity to respond would be 
+limited by the headroom between their 
+power capacity and the current level  
+of output, and how much energy is 
+presently stored (i.e. the state-of-  
+charge for a battery). 
+For all proponents, consideration would also 
+need to be given to complementarity between 
+this service and other ancillary services that 
+the proponent may be providing (e.g. Frequency 
+Central Ancillary Services (FCAS)) during such 
+contingencies.
+Consideration would also need to be given 
+to whether the response could exacerbate 
+constraints elsewhere in the NEM. The risk of 
+additional local constraints limiting participation 
+would generally increase with distance from 
+the Snowy Mountains, but would need to be 
+considered on a case by case basis. 
+The nature of thermal limitations that often 
+limit transfer capacity between the Snowy 
+Mountains and Sydney call for a rapid response 
+(in the order of less than 2 minutes), from 
+the transmission fault commencing to the 
+completion of the ramping and/or tripping of 
+participants. This would necessitate the use 
+of dedicated and secure communications and 
+would likely limit participants to those which 
+are connected at a transmission level. 
+A Wide Area System Integrity Protection 
+Scheme would facilitate and coordinate the 
+response of multiple participants, and may 
+operate as follows:
+• proponents would need to advise their 
+ability to respond in real-time (given  
+that this may fluctuate over time);
+• the scheme would need to aggregate 
+overall availability of demand and generator 
+response – AEMO’s market dispatch system 
+would need to be provided this information 
+to enable the additional secure capability 
+to be realised; 
+• on detection of a monitored contingency 
+event, signals would be initiated requiring 
+the agreed response; 
+• if ramp-back does not occur within the 
+design time frame the generator/load  
+would be tripped; and 
+• the signal would be cleared once AEMO  
+had re-secured the power system (which 
+they are required to do under the NER  
+within 30 minutes) and given permission  
+for participants to resume normal operation 
+– participants may be notified of the 
+possibility to return to normal operation  
+in a staggered fashion over several minutes 
+to minimise subsequent disturbances  
+to the power system. 
+Compensation would be offered to participants 
+through a combination of availability and 
+operation payments. 
+It is not expected that the scheme would  
+need to operate very frequently since: 
+• Historical fault rates are low
+• Even when a fault occurs, power transfers 
+would need to be beyond existing limits to 
+necessitate demand or generator action  
+in order to keep the power system stable;
+• The scheme would be designed and 
+operated in a manner to minimise the risk  
+of mal-operation or fails-safely; and
+• Testing would be needed during 
+commissioning, and periodically thereafter 
+to verify the functionality of the scheme 
+but would be designed and coordinated  
+to minimise its impact.
+The impact of being part of such a scheme 
+on participants is expected to be modest. 
+Nevertheless, participants would need to  
+be prepared to reliably respond when called 
+upon to do so. 
+We consider that such a non-network solution 
+could be considered in conjunction with the 
+network options put forward, could be scaled 
+over time in response to changing market 
+needs and could also be used to address  
+other intra-regional limitations. 
+In order to evaluate the practicality and 
+viability of such a scheme, TransGrid calls  
+upon interested generators and loads to 
+submit a non-binding expression of interest  
+in response to this PSCR. This information  
+will assist TransGrid in determining how to 
+progress the concept in the PADR.
+4.3 Information to be  
+provided by proponents of  
+a non-network option
+The table below sets out the indicative 
+parameters that we request parties nominate 
+in responses to this PSCR.
+TransGrid is not initiating a formal tender  
+for non-network solutions at this stage. 
+However, we strongly encourage proponents 
+of potential non-network solutions to make 
+a submission to this PSCR and/or contact us, 
+as any non-network solutions considered 
+under this RIT-T will require indicative costs 
+and timings to be evaluated alongside the 
+other options in the next stage of this RIT-T 
+assessment (i.e. the PADR).
+Should the RIT-T assessment identify  
+a non-network solution(s) as part or all of  
+the preferred option then we would seek 
+binding offers from the proponent(s) prior  
+to completing the PACR.
+04 Non-network Option Information
+
+--- PDF page 29 ---
+28
+Table 6 – Information requested from non-network proponents
+PARAMETER 
+1 Organisational information
+2 Relevant experience
+3 Details of the service, including location of relevant technologies.
+Technical characteristics, such as:
+• Detection method
+• Actuation time
+• Characteristics of the response
+• Inertia capability
+• Scalability of the service
+Demonstration of ability to deliver utility scale solution in a reasonable time frame
+4 Cost of service, separating capital and operational expenditure
+5 Confirmation of timelines in providing the service, i.e. speed of response
+6 Indicative establishment charge
+7 Indicative standby charges
+8 Indicative operational charges
+9 Responsibility and liability arising directly or indirectly from the operation or failure of the non-network solution
+10 Indicative demonstration of the proponent’s financial viability position
+04 Non-network Option Information
+
+--- PDF page 30 ---
+29
+05 Materiality of Market Benefits
+31 NER clause 5.16.1(c)(6).
+32 TransGrid notes that benefits regarding changes in costs for third parties will reflect both benefits in meeting NSW demand at lowest cost and benefits in facilitating a 
+transmission to lower emissions. They will enter the RIT-T analysis as a single benefit category (and so will not be double-counted).
+33 TransGrid notes that the AER’s RIT-T includes an additional benefit category relating to the penalty paid for not meeting the renewable energy target (AER Regulatory Investment 
+Test for Transmission, June 2010, (5)(j)). This benefit category is not expected to be material for this RIT-T, but it is typically incorporated into the wholesale market modelling. 
+The NER requires that all categories of market benefit identified in relation to the RIT-T are included in the RIT-T assessment, unless the TNSP  
+can demonstrate that a specific category (or categories) is unlikely to be material in relation to the RIT-T assessment for a specific option.  31
+5.1 Categories of market benefit expected to be material
+Table 7 below summarises the key components of the identified need, and the associated market benefit categories under the RIT-T, as set out 
+in the NER, as well as the other consequential market benefit categories that may be material for this RIT-T. 
+The table also summarises TransGrid’s proposed approach to considering each of these benefit categories in this RIT-T.
+Table 7: Categories of market benefit expected to be material
+COMPONENT OF IDENTIFIED NEED NER PRESCRIBED MARKET BENEFIT – NER 5.16.1(C)(4) PROPOSED CONSIDERATION IN THIS RIT-T
+Meeting NSW demand 
+at lowest cost
+i Changes in fuel consumption arising from  
+different patterns of generation dispatch
+ii Changes in voluntary load curtailment 
+iii Changes in involuntary load shedding
+iv changes in costs for parties, other than the  
+RIT-T proponent, due to differences in the timing 
+of new plant, capital costs and operating and 
+maintenance costs  32
+viii Competition benefits
+ix Option value
+Benefit categories quantified through 
+market modelling.  33
+Option value considered through inclusion of  
+flexible options (1B, 2B, 3B, 4B).
+Potential for competition benefits to materially  
+affect the identification of preferred option to  
+be further  considered.
+Facilitating the transition  
+to lower carbon emissions
+iv Change in costs for parties, other than the  
+RIT-T proponent, due to differences in the  
+timing of new plant, capital costs and  
+operating and maintenance costs
+ix Option value
+Benefit categories quantified through 
+market modelling.
+Option value considered through inclusion of  
+flexible options (1B, 2B, 3B, 4B).
+Consequential market benefits vi Changes in network losses 
+v Differences in the timing of  
+transmission expenditure
+Losses quantified through market modelling.
+Interaction between options and other transmission 
+developments to be explicitly taken into account. 
+05  
+Materiality of  
+Market Benefits 
+
+--- PDF page 31 ---
+30
+The majority of the market benefit categories 
+for this RIT-T will be quantified through 
+the use of wholesale market modelling, 
+including the assessment of dispatch cost 
+benefits and investment deferral benefits 
+associated with the generation and storage 
+investment that would otherwise be needed 
+to meet NSW demand and Australia’s carbon 
+emission reduction commitments. TransGrid 
+is publishing an accompanying Inputs and 
+Methodology Consultation Paper alongside 
+this PSCR, which provides further information 
+on the proposed modelling approach and 
+assumptions.
+TransGrid intends to further investigate as part 
+of the PADR whether there is significant option 
+value associated with flexible options which 
+would readily and cost-effectively increase 
+the transfer capacity between the Snowy 
+Mountains and Sydney, and in particular those 
+option variants (1B, 2B, 3B, 4B) that would be 
+built at 500 kV but initially operated at 330 kV. 
+These options provide flexibility to ‘scale up’ 
+transfer capacity at a later date, in response 
+to changes in demand and/or the expansion 
+of generation capacity along the transmission 
+corridor, whilst avoiding upfront investment 
+associated with higher capacity. TransGrid 
+currently envisages that an upgrade to 500 kV 
+operation may be justified on the basis of the 
+resulting market benefits once the amount of 
+new generation connecting exceeds 400 MW. 
+However, since these options have a higher 
+initial cost than options which are constructed 
+at 330 kV, they would only be justified if the 
+value of this flexibility (i.e. the ‘option value’ 
+is provides) is greater than the increase in 
+initial cost.
+TransGrid also intends to investigate other 
+examples of incremental scope that may 
+deliver option value benefits including the 
+construction of transmission lines as double 
+circuit towers strung on one side, rather than 
+single circuit towers, to provide options to 
+more cost-effectively string additional circuits 
+(for example, as future renewable generation 
+and storage is developed in southern NSW). 
+Finally, TransGrid considers that there  
+is the potential for competition benefits  
+from relieving current constraints on 
+transmission capacity between the major 
+New South Wales load centres and the Snowy 
+Mountains and unlocking new Renewable 
+Energy Zones (REZs) in southern NSW. 
+The options considered in this RIT-T have 
+the potential to affect constraints between 
+competing generation centres where there 
+is currently potential for strategic bidding, 
+and may therefore lead to a change in bidding 
+behaviour and resulting changes in wholesale 
+market outcomes. 
+The assessment of competition benefits 
+is complex and requires additional market 
+modelling, reflecting assumptions about 
+future generator bidding behaviour and how 
+this is expected to be affected by the different 
+options being considered. TransGrid therefore 
+intends to undertake an initial ‘fit-for-purpose’ 
+exercise to understand whether the size of 
+potential competition benefits may differ 
+substantially between options, to assess 
+whether consideration of competition benefits 
+is likely to be material to the identification  
+of the preferred option under this RIT-T.
+5.2 Classes of market benefit 
+not expected to be material – 
+changes in ancillary services costs
+The PSCR is also required to set out the classes 
+of market benefit that the TNSP considers are 
+not likely to be material for a particular RIT-T 
+assessment. At this stage, TransGrid considers 
+that all categories of market benefit identified 
+in this RIT-T have the potential to be material, 
+with the exception of changes in ancillary 
+services costs. 
+Ancillary service costs currently make up a 
+relatively small proportion of total energy 
+supply costs. TransGrid recognises that 
+this may not be the case going forward as 
+renewable penetration in the NEM increases. 
+However, there is a large degree of uncertainty 
+around how ancillary services requirements 
+may develop, and currently TransGrid has no 
+reason to consider that any increase in ancillary 
+services costs will be different between the 
+credible options being considered in this RIT-T. 
+While the cost of FCAS may change as a result 
+of changed generation dispatch patterns and 
+changed generation development following 
+expanded transfer capacity between the 
+Snowy Mountains and Sydney, FCAS costs are 
+relatively small compared to the total market 
+benefits that TransGrid’s initial assessment 
+(and the 2018 ISP analysis) indicates may be 
+realised by the investment options being 
+considered. Changes in FCAS costs are also 
+not likely to be materially different between 
+options, and so are therefore not considered 
+to be material in the selection of the 
+preferred  option. 
+There is no expected change to the costs  
+of Network Control Ancillary Services (NCAS),  
+or System Restart Ancillary Services (SRAS)  
+as a result of the options being considered. 
+These costs are therefore not material to  
+the outcome of the RIT-T assessment. 
+Given the complexity of modelling ancillary 
+services requirements going forward, and the 
+expectation that differences in ancillary services 
+costs will not be material to the identification of 
+the preferred option, TransGrid is not proposing 
+to quantify ancillary services costs as part of 
+this RIT-T assessment. 
+05 Materiality of Market Benefits
+
+--- PDF page 32 ---
+31
+Appendix A
+Appendix A Checklist of compliance clauses
+This section sets out a compliance checklist which demonstrates the compliance of this PSCR with the requirements of clause 5.16.4(b) of the  
+National Electricity Rules version 122.
+RULES CLAUSE SUMMARY OF REQUIREMENTS
+RELEVANT  
+SECTION(S) IN 
+THE PSCR
+5.16.4(b) A RIT-T proponent must prepare a report (the project specification consultation report), which must include:  —
+1 a description of the identified need; 2
+2 the assumptions used in identifying the identified need (including, in the case of proposed reliability  
+corrective action, why the RIT-T proponent considers reliability corrective action is necessary);
+2
+3 the technical characteristics of the identified need that a non-network option would be required to deliver, 
+such as:
+i the size of load reduction or additional supply;
+ii location; and
+iii operating profile;
+4
+4 if applicable, reference to any discussion on the description of the identified need or the credible options  
+in respect of that identified need in the most recent NTNDP;
+2
+5 a description of all credible options of which the RIT-T proponent is aware that address the identified need, 
+which may include, without limitation, alternative transmission options, interconnectors, generation,  
+demand side management, market network services or other network options;
+3
+6 for each credible option identified in accordance with subparagraph (5), information about:
+i the technical characteristics of the credible option;
+ii whether the credible option is reasonably likely to have a material inter-network impact;
+iii the classes of market benefits that the RIT-T proponent considers are likely not to be material  
+in accordance with clause 5.16.1(c)(6), together with reasons of why the RIT-T proponent  
+considers that these classes of market benefits are not likely to be material;
+iv the estimated construction timetable and commissioning date; and
+v to the extent practicable, the total indicative capital and operating and maintenance costs.
+3 & 5
+ 
+Appendix A
+
+--- PDF page 33 ---
+

@@ -1,0 +1,198 @@
+--- PDF page 1 ---
+ 
+ 
+Integrated System Plan 
+Feedback Loop Notice – 
+HumeLink (Early Works) – 
+19 May 2023 
+ 
+ 
+ 
+ 
+© AEMO 2023 |  Integrated System Plan Feedback Loop Notice – HumeLink (Early Works) – 19 May 2023 
+ 
+1 
+ 
+AEMO publishes this notice pursuant 
+to its function under section 5.16A.5(b) 
+of the National Electricity Rules (NER). 
+Context 
+AEMO’s Integrated System Plan (ISP) establishes a 
+whole-of-system plan for the efficient development of 
+the power system. In June 2022, AEMO published the 
+2022 ISP1, which used quantitative assessment and 
+scenario analysis to identify an optimal development 
+path. The optimal development path contains a series 
+of power system investments, some of which are 
+classified as “actionable ISP projects”. The ISP 
+triggers a regulatory approval process for projects with 
+this classification. 
+While the ISP sets out a whole-of-system plan, 
+transmission network service providers (TNSPs) are 
+required to assess the actionable components of this 
+plan through the Regulatory Investment Test for 
+Transmission (RIT-T) 2. Following completion of the 
+RIT-T, a TNSP may seek written confirmation from 
+AEMO to confirm that the preferred option from the 
+RIT-T remains aligned with the optimal development 
+path in the most recent ISP. This process is referred to 
+as the “feedback loop”. 
+⎯⎯⎯ 
+1 At https://aemo.com.au/en/energy-systems/major-publications/integrated-system-plan-isp/2022-integrated-system-plan-isp.  
+2 The RIT-T process is a regulatory mechanism that applies an economic cost  benefit test on new transmission electricity infrastructure proposed for the National 
+Electricity Market (NEM). It is designed to identify the most economically efficient infrastructure in vestment option, so the investment meets the long-term needs of 
+consumers. 
+3 Transgrid, HumeLink RIT-T, at https://www.transgrid.com.au/projects-innovation/humelink#RIT-T-process-and-submissions.  
+4 Transgrid’s feedback loop request of 25 January 2022 prov ided that the cost estimate for the project is $3.28 billion, which included $327.6 million for early works 
+($Real 2017-18). 
+5 AEMO, Integrated System Plan Feedback Loop Notice – HumeLink (Early Works),27 January 2022, at https://aemo.com.au/en/energy-systems/major-
+publications/integrated-system-plan-isp/integrated-system-plan-feedback-loop-notices. 
+The HumeLink project   
+The HumeLink project is a proposed transmission 
+upgrade connecting the Snowy Mountains 
+Hydroelectric Scheme to Bannaby. The 2022 ISP 
+identified two stages for HumeLink: 
+• Early works – pre-construction activities that can 
+be taken now, while keeping open the option to 
+either continue, defer, or cancel the project as new 
+information becomes available. 
+• Implementation – new 500 kilovolts (kV) 
+transmission lines that link the Greater Sydney load 
+centre with the Snowy Mountains Hydroelectric 
+Scheme and Project EnergyConnect in south west 
+New South Wales.  
+In December 2021, Transgrid completed a RIT-T to 
+assess the technical and economic viability of the 
+project3. The RIT-T estimated net market benefits for 
+the project of $491 million. 
+On 25 January 2022, Transgrid requested a feedback 
+loop assessment (“feedback loop 1”) for the early 
+works stage of the HumeLink project, at a cost of 
+$327.6 million4. On 27 January 2022, AEMO 
+confirmed that the early works stage satisfied the 
+requirements under the feedback loop5. 
+
+--- PDF page 2 ---
+Integrated System Plan Feedback Loop Notice – 
+HumeLink (Early Works) – 19 May 2023 
+ 
+ 
+ 
+ 
+© AEMO 2023 |  Integrated System Plan Feedback Loop Notice – HumeLink (Early Works) – 19 May 2023 
+ 
+2 
+ 
+In April 2022, Transgrid submitted a contingent project 
+application (CPA) to fund the early works stage of the 
+HumeLink project. In December 2022, the Australian 
+Energy Regulator (AER) approved $321.9 million6 in 
+forecast capital expenditure (capex) to undertake early 
+works. 
+Feedback loop request 
+On 6 April 2023, Transgrid requested a second 
+feedback loop assessment (“feedback loop 2”) for the 
+early works stage of the HumeLink project. That 
+request includes the following information7 relevant to 
+this feedback loop assessment: 
+• Transgrid worked with the Federal Government to 
+establish the Powering Tomorrow Together (PTT) 
+program, which involves the integrated delivery of 
+Project EnergyConnect, HumeLink and VNI West. 
+• Through the PTT program, Transgrid seek to 
+secure the lowest risk-adjusted price for long-lead 
+equipment for HumeLink, including substation 
+transformers, reactors, conductors and steel. 
+• Purchasing this long-lead equipment is intended to 
+form part of the early works activities for HumeLink 
+and will be included in an additional early works 
+CPA to enable Transgrid to recover costs of up to 
+$209.6 million.  
+• When added to the $321.9 million in forecast capex 
+to undertake early works approved by the AER in 
+December 2022, total early works costs for 
+HumeLink are $531.5 million. 
+• The resale value of the long-lead equipment is 
+conservatively estimated to be the same as the 
+long-lead equipment forecast capex of $209.6 
+million. 
+⎯⎯⎯ 
+6  $Real 2017-18. 
+7  All costs referred to in Transgrid’s feedback loop request are Real $2017 -18. 
+8  NER 5.16A.5(b) 
+9  AER, Cost Benefit Analysis Guidelines (“CBA Guidelines”), at https://www.aer.gov.au/networks-pipelines/guidelines-schemes-models-reviews/guidelines-to-
+make-the-integrated-system-plan-actionable, p.69. 
+• Recovering the cost of long-lead equipment as part 
+of early works activities will reduce forecast capex 
+for the implementation stage of HumeLink, which 
+will include the balance of the project costs, by an 
+equivalent amount. Therefore, the cost estimate for 
+the entire project remains unchanged.  
+Feedback loop assessment 
+requirements 
+To be eligible to submit a CPA in relation to an 
+actionable ISP project (or a stage of an actionable ISP 
+project), a RIT-T proponent must obtain written 
+confirmation from AEMO that: 
+• the preferred option addresses the relevant 
+identified need specified in the most recent ISP and 
+aligns with the optimal development path referred 
+to in the most recent ISP; and 
+• the cost of the preferred option does not change 
+the status of the actionable ISP project as part of 
+the optimal development path (as amended by ISP 
+update where applicable)8. 
+Where project staging is captured within a single 
+actionable ISP project, the RIT-T proponent must 
+obtain feedback loop confirmation from AEMO for 
+each stage before submitting a contingent project 
+application. The cost assessed by AEMO in the 
+feedback loop is the cost of the particular stage. 
+However, AEMO must also have regard to the full cost 
+of the project when confirming that the status of the 
+project remains unchanged9. 
+
+--- PDF page 3 ---
+Integrated System Plan Feedback Loop Notice – 
+HumeLink (Early Works) – 19 May 2023 
+ 
+ 
+ 
+ 
+© AEMO 2023 |  Integrated System Plan Feedback Loop Notice – HumeLink (Early Works) – 19 May 2023 
+ 
+3 
+ 
+Notice of AEMO confirmation 
+that feedback loop 
+requirements are satisfied 
+AEMO has applied the feedback loop assessment to 
+the early works stage of the HumeLink project by 
+reconsidering the selection of the optimal development 
+path in the most recent ISP (that is, the 2022 ISP). 
+This required an update of the cost benefit analysis in 
+the 2022 ISP using the cost estimates provided in 
+Transgrid’s latest feedback loop request. 
+The updated cost benefit analysis and reasoning 
+supporting selection of the optimal development path 
+is contained in the HumeLink Feedback Loop Analysis 
+report published with this notice10. 
+AEMO publishes this notice to confirm that: 
+• the early works stage of the HumeLink project 
+meets the identified need and aligns with the 
+optimal development path specified in the 2022 
+ISP; and 
+• the cost of the early works stage ($558.8 million11) 
+does not change the status of the actionable ISP 
+project as part of the optimal development path 
+specified in the 2022 ISP. 
+AEMO also had regard to the total cost of the project 
+($3.32 billion12) and considers that the status of the 
+project as actionable remains unchanged.   
+ 
+ 
+⎯⎯⎯ 
+10 At https://aemo.com.au/-/media/files/major-publications/isp/2023/20230511-humelink-feedback-loop-analysis-report.pdf. 
+11  The feedback loop assessed the cost of early works in Real $2020-21, consistent with the 2022 ISP. This cost is equivalent to $531.5 million in Real $2017 -18 
+as provided in Transgrid’s request. 
+12  The total project cost is presented in Real $2020-21 and remains unchanged from that considered in the  2022 ISP. 

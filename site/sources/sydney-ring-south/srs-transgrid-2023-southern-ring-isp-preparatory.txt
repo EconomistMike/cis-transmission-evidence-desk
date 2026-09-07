@@ -1,0 +1,386 @@
+
+===== PDF PAGE 1 =====
+ 
+1 | ISP Preparatory Activities – Reinforcing Sydney, Newcastle and Wollongong Supply (Southern Ring)   
+ISP Preparatory Activities – Reinforcing Sydney, 
+Newcastle and Wollongong Supply (Southern Ring) 
+June 2023 
+ 
+
+===== PDF PAGE 2 =====
+ 
+2 | ISP Preparatory Activities – Reinforcing Sydney, Newcastle and Wollongong Supply (Southern Ring)   
+Disclaimer 
+This report is prepared and made available by Transgrid solely for information purposes. It is made available 
+on the understanding that Transgrid and/or its employees, agents and consultants are not engaged in 
+rendering professional advice. Nothing in this document is a recommendation in respect of any 
+possible investment.  
+The information in this document reflects the forecasts, proposals and opinions adopted by Transgrid. Those 
+forecasts, proposals and opinions may change at any time without notice. Anyone considering the information 
+contained within this report at any time should independently seek the latest forecasts, proposals and 
+opinions.  
+This document includes information obtained from other sources. That information has been adopted in good 
+faith without further enquiry or verification.  
+In preparing this document it is not possible, nor is it intended, for Transgrid to have regard to the investment 
+objectives, financial situation and particular needs of each person or organisation which reads or uses this 
+document. In all cases, anyone proposing to use the information in this document should:  
+1. Independently verify and check the currency, accuracy, completeness, reliability and suitability of that 
+information;  
+2. Independently verify and check the currency, accuracy, completeness, reliability and suitability of reports 
+relied on by Transgrid in preparing this document; and  
+3. Obtain independent and specific advice from appropriate experts or other sources.  
+Accordingly, Transgrid makes no representations or warranty as to the currency, accuracy, reliability, 
+completeness or suitability for particular purposes of the information in this report.  
+Persons reading or utilising this report acknowledge and accept that Transgrid and/or its employees, agents 
+and consultants have no liability for any direct, indirect, special, incidental or consequential damage (including 
+liability to any person by reason of negligence or negligent misstatement) for any damage resulting from, 
+arising out of or in connection with, reliance upon statements, opinions, information or matter (expressed or 
+implied) arising out of, contained in or derived from, or for any omissions from the information in this report, 
+except insofar as liability under any NSW and Commonwealth statute cannot be excluded. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+===== PDF PAGE 3 =====
+ 
+3 | ISP Preparatory Activities – Reinforcing Sydney, Newcastle and Wollongong Supply (Southern Ring)   
+Contents 
+Disclaimer ........................................................................................................................................................2 
+Executive Summary  .......................................................................................................................................4 
+1. Need for a Southern Ring – 500 kV Sydney Ring ....................................................................................5 
+2. Cost Estimate ..............................................................................................................................................7 
+3. Preliminary Engineering Design ................................................................................................................8 
+4. Scope of Option ...........................................................................................................................................8 
+5. Desktop Easement Assessment ............................................................................................................. 11 
+6. Preliminary Assessment of Environmental and Planning Approvals ................................................ 12 
+7. Stakeholders Engagement ...................................................................................................................... 12 
+8. Risk ............................................................................................................................................................ 14 
+  
+===== PDF PAGE 4 =====
+ 
+4 | ISP Preparatory Activities – Reinforcing Sydney, Newcastle and Wollongong Supply (Southern Ring)   
+Executive Summary  
+This document provides updates for ISP Preparatory Activities, incorporating a revised cost estimate for the 
+Sydney Southern Ring option. Below is a summary highlighting the key revisions. 
+In accordance with the 2022 Integrated System Plan (ISP), Transgrid has undertaken preparatory activities 
+for Reinforcing Sydney, Newcastle and Wollongong Supply (RSNWS) (Southern Ring). The high-level 
+network augmentation description is as follows:  
+• A new 500 kV double circuit from the existing Bannaby substation to a new substation in the locality of 
+South Creek within western Sydney area 
+• Cut in existing lines 5A1/5A2, 32 and 38 into the new substation in the locality of South Creek (as above) 
+• Augmentation of Bannaby substation to accommodate the new 500 kV double circuit 
+• Augmentation of Sydney West substation to accommodate for additional 330 kV incoming feeder 
+• Replace a section of existing line 39 to double circuit to connect the new substation in the locality of South 
+Creek to existing Sydney West substation 
+In the previous preparations for the ISP Preparatory Activities1, the cost estimate for the southern ring ranged 
+from $1.45bn (for Option 1) to $2.78bn (for Option 2). Transgrid have discounted Option 2 – a Kemps Creek 
+substation expansion solution – due to cost, complexity, and potential impact on the local community. The 
+discounted Kemps Creek substation option involves undergrounding an approximately 10 km section of the 
+existing 330 kV circuit (Line 37) and utilizing the vacated corridor for constructing the new 500 kV circuit. The 
+Option 1 solution – a new South Creek substation, is the preferred solution for further development. 
+This South Creek Substation option has been verified to be the least impactful and more cost-effective in 
+terms of capital expenditure. Consequently, in this ISP Preparatory Activities, the upper range of the cost 
+estimate has been eliminated, and we have provided a revised P50 cost estimate of $1.55bn for the South 
+Creek substation option as outlined in the section 2 of this document. The indicative development corridor for 
+the preferred option is illustrated in section 5, emphasizing the significance of securing easements around the 
+Western Sydney Airport early for the successful execution of this project. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 ISP Preparatory Activities – Reinforcing Sydney, Newcastle and Wollongong Supply (Southern Ring), May 2023, AEMO. 
+===== PDF PAGE 5 =====
+ 
+5 | ISP Preparatory Activities – Reinforcing Sydney, Newcastle and Wollongong Supply (Southern Ring)   
+1. Need for a Southern Ring – 500 kV Sydney Ring 
+The NSW electricity network is currently facing significant challenges, as it facilitates decarbonisation with the 
+growth of large-scale renewables seeking connection to the grid and the accelerated retirement of traditional 
+coal generation. In particular, two major power stations Eraring and Vales Point located within the critical 
+Sydney Newcastle and Wollongong load centre area (SNW), with a combined capacity of around 4 GW, will 
+retire by 2025 and 2029 respectively. The SNW area includes significant urban, commercial and industrial 
+loads that comprise about three quarters of the demand for electricity in NSW and contributes towards a 
+significant portion of the national GDP. There are currently no plans for new baseload generation in SNW to 
+meet the local demand and it is therefore expected that demand will be met by generation from outside the 
+area. Therefore, there is a need to increase the transmission capacity from other generators and Renewable 
+Energy Zones (REZ) in regional NSW to the major load centres.  
+The geographic dispersion of renewable generators (see Figure 1) and the required growth of renewables to 
+reliably and securely transition the NSW transmission network to net zero emission by 2050, necessitates 
+new transmission infrastructure to efficiently transfer many GW of power across hundreds of kilometres. 
+Figure 1: The NSW power system in 2000, 2023 (current) and projected in 2033 and 2050 (conceptual image)  
+ 
+To reach these new renewable generators, we need new transmission connections from REZs to the 500 kV 
+Energy Superhighway transmission backbone supplying SNW via a 500 kV ring, providing efficient security of 
+supply from both the north and the south – with corridor diversity of supply to SNW. This Sydney Ring 
+necessitates two projects to ‘close the loop’ – the first is the Hunter Transmission Project 1.0 (HTP 1.0) 
+already underway that will connect Bayswater to Eraring at 500 kV, and the second is the Southern Ring to 
+connect Bannaby to Sydney at 500 kV. The northern network option, HTP 1.0, is being progressed under the 
+
+===== PDF PAGE 6 =====
+ 
+6 | ISP Preparatory Activities – Reinforcing Sydney, Newcastle and Wollongong Supply (Southern Ring)   
+Electricity Infrastructure Investment Act 2020 (NSW). The southern network option (Southern Ring) may 
+proceed through the AEMO ISP and RIT-T framework.  
+Figure 2: The NSW 500 kV Energy Superhighway  
+ 
+Figure 3 indicates the key Central NSW to Sydney-Newcastle-Wollongong (CNSW-SNW) cut-set across 
+which 4 GW of combined coal retirements of Eraring and Vales Point (circa 2025-26 and 2029) are triggering 
+a need to increase transmission capacity to secure supply to both Sydney and Newcastle under peak demand 
+conditions. SNW demand is itself increasing significantly with a new airport and other load growth exceeding 
+1 GW. 
+The current cut-set limit with respect to N-1 contingencies is 6,125 MW and the HTP 1.0 is expected to 
+increase it significantly to approximately 11,000 MW. However, AEMO in ensuring an N-1 secure operating 
+state following the loss of a single 500 kV circuit on the HTP 1.0 line, would be looking to the next most 
+significant credible contingency, which would be the loss of the second circuit of the HTP 1.0 500 kV line, thus 
+reducing the cut-set limit significantly (due to a loss of both 500 kV circuits through the cut-set).  
+Under peak demand conditions, all existing generations within SNW are likely already being dispatched. 
+Therefore, following the first contingency, no generation would be available within SNW for AEMO to 
+redispatch. This introduces a greater reliance on transfer through the cut-set to prevent the need for AEMO to 
+require pre-emptive load shedding in Sydney and Newcastle to return the system to a secure operating state. 
+
+===== PDF PAGE 7 =====
+ 
+7 | ISP Preparatory Activities – Reinforcing Sydney, Newcastle and Wollongong Supply (Southern Ring)   
+Figure 3: Key CNSW-SNW cut-set across The Sydney 500kV Ring representing critical SNW load centre  
+ 
+The Sydney 500 kV Ring, completed through both the HTP 1.0 and the Sydney Southern Ring project, would 
+mitigate this risk of load shedding by bringing geographically diverse 500 kV supply points into SNW. If coal 
+generation retires earlier than expected, NSW may need to bring forward the planned in-service dates of 
+these two projects to reduce the risk of SNW load shedding. 
+This Southern Ring Preparatory Activities document supports the next steps in ‘closing the loop’ of the 500 kV 
+Sydney Ring. 
+2. Cost Estimate 
+Cost estimate was undertaken as a part of the preparatory activities. The inputs to the estimate include areas 
+such as desktop environmental and property assessments, preliminary engineering designs and indicative 
+
+===== PDF PAGE 8 =====
+ 
+8 | ISP Preparatory Activities – Reinforcing Sydney, Newcastle and Wollongong Supply (Southern Ring)   
+localities for transmission line and substation. At this stage of the estimating process, it is considered that the 
+estimate has an accuracy of -30% to +40%. 
+The P50 cost estimate for Reinforcing Sydney, Newcastle and Wollongong Supply (southern Ring) is $1.55bn 
+(un-escalated $2022/23). The detailed cost breakdown is shown in the table below. 
+Table 1. Cost breakdown of Sydney Southern Ring  
+Description Costs ($M) 
+Transmission Line Cost 481 
+Substation Cost 283 
+Easement cost, Lines Land cost, Substation 218 
+Bio-diversity cost (TL) 274 
+Site Establishment Costs (Camp Costs) 120 
+Overall Project Raw Cost 1,376 
+Total project cost – P50 1,546 
+3. Preliminary Engineering Design 
+Concept engineering designs were undertaken as a part of the preparatory activities. The high-level 
+development methodology included: 
+• Desktop transmission line corridor and substation locality identification utilising constraint mapping 
+analysis 
+• Desktop geotechnical assessment of the identified areas 
+• Development of concept engineering designs such as electrical connection diagrams and substation 
+layouts. Desktop assessment of transmission line tower and foundation requirements were also 
+undertaken 
+• Safety in Design (SiD) Workshops were undertaken to identify and address safety risks of the concept 
+designs 
+4. Scope of Option 
+The estimated $1.55bn cost ($2022/23) includes the high-level scope below: 
+• Substation Works: 
+- Construct a new South Creek 500/330 kV substation with 2 x 1500 MVA transformers and the 
+associated 500 kV and 330 kV switchbays 
+- Augment the existing Bannaby and Sydney West substations 
+• Line Works: 
+- Construct a 500 kV double circuit overhead line from Bannaby to South Creek with approximate 
+length of 114 km alongside a section of line 39 (from Bannaby to Greendale area) 
+- Cut the new South Creek substation into line 5A1/5A2, 32, 39 and 38 
+- Rebuild the section of existing line 39 from South Creek to Sydney West to double circuit 
+The indicative development of South Creek substation and existing Bannaby substation are outlined in the 
+diagrams below: 
+Orange colour represents 330 kV buses and lines and blue colour represents 500 kV buses and lines. The 
+augmentation in Bannaby substation is highlighted by red colour. 
+===== PDF PAGE 9 =====
+ 
+9 | ISP Preparatory Activities – Reinforcing Sydney, Newcastle and Wollongong Supply (Southern Ring)   
+Figure 4: Indicative development of South Creek Substation  
+330kV A Bus
+2 x 500/330 kV 
+Transformers
+5A1/5A2 
+to Eraring
+330kV B Bus
+5A1/5A2 
+to Kemps Creek
+New 500kV lines 
+to Bannaby
+32/38 
+To Regentville 
+32/38 
+To Sydney West 
+500kV A Bus
+500kV B Bus
+Rebuilt 330kV 
+double lines to 
+Sydney West  
+(section of 39)
+39 To Bannaby
+ 
+ 
+===== PDF PAGE 10 =====
+ 
+10 | ISP Preparatory Activities – Reinforcing Sydney, Newcastle and Wollongong Supply (Southern Ring)   
+Figure 5: Indicative development of Bannaby Substation  
+Maragle Gugaa
+Marulan Marulan
+Mt Piper Mt Piper
+Yass Line 39 section 
+to South Creek
+Bannaby 330kV bus B
+Bannaby 330kV bus A
+Bannaby 500kV bus A
+Bannaby 500kV bus B
+HumeLink Scope
+New 500kV lines to 
+South Creek
+ 
+The indicative transmission line data is displayed in Table 2. 
+Table 2. Indicative transmission line data  (percent on 100 MVA base at 500kV or 330kV) 
+Circuit Length (km) R (%) X (%) B (%) R0 (%) X0 (%) B0 (%) 
+Bannaby to South Creek 500kV Double Circuit 114 0.0872 1.151 131.2 1.105 3.856 77.99 
+South Creek to Sydney West 330kV Double Circuit 7.1 0.021 0.202 2.91 0.1841 0.6843 1.822 
+The thermal ratings for the 500 kV lines are based on the quad ACSR/GZ Orange 438 mm2 conductors with 
+95 0C design temperature. The thermal ratings are shown in Table 3. 
+===== PDF PAGE 11 =====
+ 
+11 | ISP Preparatory Activities – Reinforcing Sydney, Newcastle and Wollongong Supply (Southern Ring)   
+Table 3. Thermal ratings for Bannaby to South Creek 500kV double circuit transmission line  
+Season Time Normal (MVA) 
+Summer Day  3,291 
+Night 3,330 
+Autumn and Spring Day  3,291 
+Night 3,442 
+Winter Day  3,637 
+Night 3,713 
+5. Desktop Easement Assessment 
+Desktop transmission line corridor identification and assessment were undertaken as part of the preparatory 
+activities.  
+The high-level methodology of corridor identification and assessment includes: 
+• Options identification: 
+- Establish tiered constraints for identification of transmission line corridors 
+- Tiered assessments include items such as environment, property and stakeholder criteria 
+- Determining options for potential transmission line corridors as per the defined tiered constraints 
+• Options assessment and evaluation: 
+- Assess, evaluate and select corridors for use as part of the preparatory activities 
+Following the aforementioned methodology, an alternative option into existing Kemps Creek 500 kV 
+substation was evaluated. It was determined limited viable line routes are available without elevated costs 
+and greater community impacts to achieve an overhead solution for both the 500 kV double circuit from 
+Bannaby 500 kV substation and associated requirement for 330 kV reinforcement to Sydney West Bulk 
+Supply Point. Due to these considerations, the overhead line option into South Creek substation is the 
+preferred option. The indicative 500 kV double circuit corridor for the preferred option is presented in Figure 6 
+below. 
+The indicative 500 kV corridor leverages off the already established corridor for 330 kV line 39 from Bannaby 
+Substation to near Greendale area (approximate route length of 90 km). However, from Greendale area to 
+South Creek Substation (approximate route length of 24 km), the corridor is strategically diverted to navigate 
+around the Western Sydney Airport with considerations of residential properties, homesteads, flight path, 
+height restrictions and aerotropolis development. Securing easements for the designated teal corridor (from 
+near Greendale to South Creek) will be crucial in the development of Sydney Southern Ring. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+===== PDF PAGE 12 =====
+ 
+12 | ISP Preparatory Activities – Reinforcing Sydney, Newcastle and Wollongong Supply (Southern Ring)   
+Figure 6 The indicative 500kV double circuit corridor for Sydney Southern Ring's preferred option  
+ 
+6. Preliminary Assessment of Environmental and Planning Approvals  
+The primary environmental approval required for the project may include an Environmental Impact Statement 
+(EIS) to be prepared and approved. This may also include: 
+• Engaging with the community and government agencies; this may include NSW government bodies such 
+as Department of Planning & Environment (DPE) 
+• Refining the concept designs of the project to avoid or minimise impacts and to incorporate community 
+feedback 
+• Assessing the impacts of the project in accordance with any relevant Government legislation, policies and 
+guidelines 
+• Integrating the findings of any engagement and the assessment of the impacts of the project 
+It is noted that the planning and approval requirements applicable to the project may change overtime due to: 
+• General changes in planning and environmental legislation or policy 
+• Specific changes in planning and environmental legislation or policy that may be targeted at facilitating 
+planning and/or delivery of the project 
+7. Stakeholder Engagement 
+Direct community engagement including local government and council engagement have not been 
+undertaken as part of the preparatory works. However, a multitude of stakeholder requirements have been 
+
+===== PDF PAGE 13 =====
+ 
+13 | ISP Preparatory Activities – Reinforcing Sydney, Newcastle and Wollongong Supply (Southern Ring)   
+included in the tiered constraints and used as part of the desktop transmission line corridor identification 
+process based on the available information. Examples of the tiered constraints used include known 
+townships, residential areas, airports, defence owned land, areas of international and national environmental 
+significance, aboriginal and heritage areas, commonwealth land, important agricultural areas, mine sites and 
+zones and existing infrastructure. 
+This section describes Transgrid’s community engagement policy and route selection principles for Sydney 
+Southern Ring. 
+7.1. Transgrid’s Community Engagement Policy 
+Transgrid’s commitment: 
+We recognise the vital role that landowners and the community have in the planning and delivery of our 
+projects and network operations. 
+• We work with the communities in which we operate in a meaningful, accountable, responsive and 
+equitable way through effective and inclusive practices.  
+• We are dedicated to continuously improving our engagement, in our decision making and delivering 
+community benefits. 
+• We seek to minimise the social impacts of our projects and operations. We will do this by engaging with 
+all our communities to understand what matters most, to build trust and beneficial relationships.  
+• We strive to build positive and lasting relationships with our local communities and create long-term 
+benefits to our customers, community and the environment as part of our commitment to building a 
+sustainable future.  
+7.2. Route Selection Principles 
+Transgrid is responsible for developing the preferred route for Sydney Southern Ring. 
+Community and stakeholder engagement will be critical throughout the route selection process. There are 
+four key principles which should guide Transgrid’s selection process for linear or site-based transmission 
+infrastructure options. These are:  
+• Prudent and efficient network – Transgrid is required by energy regulators to deliver prudent and efficient 
+transmission network projects. This is a key requirement for project funding 
+• Triple bottom line decision considerations – Balanced with the need to deliver a prudent and efficient 
+network, is the need to achieve a favourable social outcome when developing new electrical transmission 
+infrastructure. Transgrid is committed to a route selection process that considers all aspects of a project 
+such as community and/or social impacts, environmental considerations and technical feasibility. This 
+includes ensuring that relevant information (technical, environment, social and cost) is integrated and 
+coordinated to achieve the most appropriate outcome 
+• Opportunity for community input to improve decision-making – Community consultation is a key part of the 
+route/site selection process. Consultation should aim to be open, iterative, and well-documented to enable 
+stakeholders, the community, and landowners to have input into relevant stages of the process and 
+improve decision-making 
+• Best practice approach – Transgrid continually undertakes new electrical infrastructure projects to ensure 
+NSW’s energy supply into the future. Transgrid is committed to applying a consistent and best practice 
+approach, and recognises that a fair, efficient route selection process is in the best interests of consumers 
+and communities 
+===== PDF PAGE 14 =====
+ 
+14 | ISP Preparatory Activities – Reinforcing Sydney, Newcastle and Wollongong Supply (Southern Ring)   
+8. Risk 
+Risk assessments were undertaken as part of the preparatory activities. The risk assessment process 
+identified several risks and an extract of these risks is as follows:  
+• The scope of RSNWS (Southern Ring) can be impacted by current and future major projects, regulatory 
+approval processes, and community feedback. These issues are to be closely monitored to ensure 
+successful project delivery 
+• Uncertainty surrounding sizing and location of future generation developments, both known and unknown. 
+Corridors may be constrained due to generation development growth leading to increase project cost 
+• Community feedback and sentiment may impact on the project including but not limited to the locality of 
+the transmission lines, substations, project duration and cost estimate 
+• All works were based on available desktop information only. Future site investigation and verification 
+works may impact on the outcomes identified as part of the feasibility works. These include but not limited 
+to cost estimates, transmission route locations and substation locality 
+• Increased build out of the areas surrounding the Western Sydney Airport (WSA) development will further 
+constrain opportunities to secure suitable easements for an overhead solution. The recommendation is to 
+commence development of appropriate corridor and route selection with the intention of securing 
+easements at the earliest opportunity, particularly out of South Creek substation site to the west and south 
+circumnavigating the WSA development area 

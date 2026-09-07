@@ -1,0 +1,2259 @@
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link rel="icon" type="image/x-icon" href="/assets/images/favicon.ico">
+    <link rel="icon" type="image/svg+xml" href="/assets/images/favicon.svg">
+    <link rel="icon" type="image/png" href="/assets/images/favicon.png">
+
+    <link rel="stylesheet" href="/assets/build/0.0.0.0/css/theme.min.css?h=7005e1ed14de7e1462310b42995f8f35fc57165e" />
+
+    <!--Header script-->
+      <!--Header script-->
+    <!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-M2DTXS');</script>
+<!-- End Google Tag Manager -->
+
+<!--Google Search Console -->
+<meta name="google-site-verification" content="HDFb3_zVCIzLmb84BpIiW4soeZiwoq5iq2Tq2Nxyvg4" />
+<!--End Google Search Console -->
+    <!--Header script-->
+
+    <link rel="canonical" href="https://www.transgrid.com.au/projects-innovation/energyconnect/" />
+    <title>EnergyConnect - Australia&#x2019;s Largest Transmission | Transgrid</title>
+    <meta name="title" content="EnergyConnect - Australia&#x2019;s Largest Transmission">
+    <meta name="keywords" content="">
+    <meta name="description" content="EnergyConnect is an energy infrastructure project that will lower power bills for homes and businesses and create 1500 jobs, primarily across regional NSW.">
+    <meta name="image" content="">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="EnergyConnect - Australia&#x2019;s Largest Transmission" />
+    <meta property="og:image" content="" />
+    <meta property="og:url" content="https://www.transgrid.com.au/projects-innovation/energyconnect/" />
+    <meta property="og:description" content="EnergyConnect is an energy infrastructure project that will lower power bills for homes and businesses and create 1500 jobs, primarily across regional NSW." />
+    <meta property="og:site_name" content="Transgrid" />
+
+
+
+    <script src="/App_Plugins/UmbracoForms/Assets/promise-polyfill/dist/polyfill.min.js?v=13.9.8" type="application/javascript"></script><script src="/App_Plugins/UmbracoForms/Assets/aspnet-client-validation/dist/aspnet-validation.min.js?v=13.9.8" type="application/javascript"></script>
+</head>
+
+<body>
+    <!--Body-Script-->
+     <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-M2DTXS"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+    <!--Body-Script-->
+
+    <div id="site">
+        <!-- header -->
+            <header id="header" class="header">
+            <section class="top-nav">
+        <div class="container">
+            <div class="inner-wrap">
+                <div class="d-flex align-items-center justify-content-between">
+
+                    <div class="flex-shrink-0 d-flex align-items-end ml-auto">
+                        <!-- Mobile view-->
+                        <div class="mobile-view-top">
+                                <p class="secondary-text">
+                                    <a href="/contact-us/"  >Community enquiries (24 hours) 1800 222 537</a>
+                                </p>
+                                    <p class="secondary-text">
+                                        <a href="/careers/"  >Careers</a>
+                                    </p>
+                                    <p class="secondary-text">
+                                        <a href="/transgrid-training/" target="_blank" title="open in new tab">Training</a>
+                                    </p>
+                                    <p class="secondary-text">
+                                        <a href="https://www.transgrid.com.au/community/landowners#Update-your-contact-details"  >Update your contact details</a>
+                                    </p>
+                                    <p class="secondary-text">
+                                        <a href="tel:131450" target="_blank" title="open in new tab"><img class="tis-header-icon" src="/assets/images/global/footer/tis-interpreter-icon.png" alt="TIS" />TIS 131 450</a>
+                                    </p>
+                                <p class="contact-us-text">
+                                    <a href="/contact-us/"  >Contact us</a>
+                                </p>
+                                <p class="contact-us-text">
+                                    <a class="report-hazard-button" href="https://www.transgrid.com.au/contact-us"  >Emergencies 1800 027 253</a>
+                                </p>
+                        </div>
+
+                        <!-- desktop view-->
+                        <div class="desktop-view-top">
+                                <p class="contact-us-text">
+                                    <a class="report-hazard-button" href="https://www.transgrid.com.au/contact-us"  >Emergencies 1800 027 253</a>
+                                </p>
+                                <p class="secondary-text">
+                                    <a href="/contact-us/"  >Community enquiries (24 hours) 1800 222 537</a>
+                                </p>
+                                    <p class="secondary-text">
+                                        <a href="/careers/"  >Careers</a>
+                                    </p>
+                                    <p class="secondary-text">
+                                        <a href="/transgrid-training/" target="_blank" title="open in new tab">Training</a>
+                                    </p>
+                                    <p class="secondary-text">
+                                        <a href="https://www.transgrid.com.au/community/landowners#Update-your-contact-details"  >Update your contact details</a>
+                                    </p>
+                                    <p class="secondary-text">
+                                        <a href="tel:131450" target="_blank" title="open in new tab"><img class="tis-header-icon" src="/assets/images/global/footer/tis-interpreter-icon.png" alt="TIS" />TIS 131 450</a>
+                                    </p>
+                                <p class="contact-us-text">
+                                    <a href="/contact-us/"  >Contact us</a>
+                                </p>
+                    </div>
+                        <div class="top-nav_right_side">
+        <ul class="social-list">
+                            <li>
+                                <a href="https://au.linkedin.com/company/transgrid" target="_blank">
+                                    <i class="linkedin"></i>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://www.facebook.com/TransGrid/" target="_blank">
+                                    <i class="facebook"></i>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://www.instagram.com/transgrid_energy/" >
+                                    <i class="instagram"></i>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://www.youtube.com/@transgrid_energy" target="_blank">
+                                    <i class="youtube"></i>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://twitter.com/Transgrid_AU?lang=en" target="_blank">
+                                    <i class="twitter"></i>
+                                </a>
+                            </li>
+        </ul>
+    </div>
+
+
+
+
+
+
+
+                </div>
+            </div>
+            <form action="/projects-innovation/energyconnect/" class="nav-search" enctype="multipart/form-data" id="navSearch" method="post">            <div class="search-box">
+                <input type="search" name="search" placeholder="I want to find..." class="nav-search-input">
+                <input type="hidden" name="searchResult" value="1184" />
+                <button type="submit" class="search-submit">
+                    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <g clip-path="url(#clip0)">
+                            <path d="M14.271 14.2711C11.4189 17.1231 6.80452 17.1329 3.96448 14.2929C1.12444 11.4528 1.1342 6.83846 3.98626 3.98639C6.83833 1.13432 11.4527 1.12457 14.2927 3.96461C17.1328 6.80465 17.123 11.419 14.271 14.2711ZM14.271 14.2711L20.0372 20.0373" stroke="#0E0E2C" stroke-width="2" />
+                        </g>
+                        <defs>
+                            <clipPath id="clip0">
+                                <rect width="24" height="24" fill="white" />
+                            </clipPath>
+                        </defs>
+                    </svg>
+                </button>
+                <div class="nav-search-btn">
+                    <i class="search-icon-btn"></i>
+                </div>
+                <div class="nav-search-close"></div>
+            </div>
+<input name="__RequestVerificationToken" type="hidden" value="CfDJ8BRRkc43_dlBpotN5dboVaxDt8FpyBgG86iYcf2YrvV63VvkkkoLLRRhShbck-1v_Grpno5cyJ0mveIz2N89LcOhrOSv7FoCSWUFC52YqQiJozYN5aPNzCTZpV6vNMP0sn_8nubPMRu3h01VTmxYU6I" /><input name="ufprt" type="hidden" value="CfDJ8BRRkc43_dlBpotN5dboVayboG8jKBcviSAeA0mIXVvD0Pkk2abBj6Wb5ik_m_JNLr8qL4Bay_rgB0C0ACwk1Fyw0ATep2N5boeYFtOZZPl2ws0MjSZ3G4-waWlr5RfL65o1lsB61HNwqevnoQdjNjg" /></form>
+
+
+        </div>
+    </section>
+
+
+
+        <nav class="navigation">
+                <div id="megaMenu" class="mega-menu">
+        <section class="menu-list-items">
+            <div class="container">
+
+
+                <!-- menu logo -->
+                <ul class="menu-logo">
+                    <li>
+                            <a href="/"><img class="header-logo" src="/media/2txnqryh/transgrid_logo_rgb.png" width="288" height="88" alt=""></a>
+                    </li>
+                </ul>
+
+
+
+                <ul class="menu-links">
+
+                                    <li >
+                                        <a href="/about-us/"  >
+                                            <span>About us </span>
+                                                <i class="chevron"></i>
+                                        </a>
+    <div class="drop-down menu-bg grid-col-12 effect-fade" style="transition: all 400ms ease 0s;">
+        <!--grid row-->
+        <div class="container grid-row">
+            <!--grid column 3-->
+
+
+                    <div class="grid-col-3" >
+                        <ul>
+                            <li>
+                                <a href="/about-us/who-we-are/" TransgridCorpotate.Core.Models.LinkModel >
+                                    Who we are
+                                </a>
+                                    <span>A dependable partner to millions of Australians, we’re the backbone that energy suppliers rely on.</span>
+                            </li>
+                        </ul>
+
+                    </div>
+                    <div class="grid-col-3" >
+                        <ul>
+                            <li>
+                                <a href="/about-us/our-approach/" TransgridCorpotate.Core.Models.LinkModel >
+                                    Our approach
+                                </a>
+                                    <span>By leading the transition to a clean energy future, we aim to make a better power system for Australians.</span>
+                            </li>
+                        </ul>
+
+                    </div>
+                    <div class="grid-col-3" >
+                        <ul>
+                            <li>
+                                <a href="/about-us/leadership/" TransgridCorpotate.Core.Models.LinkModel >
+                                    Leadership
+                                </a>
+                                    <span>Our directors and executive team have a wealth of combined experience across the energy industry.</span>
+                            </li>
+                        </ul>
+
+                    </div>
+                    <div class="grid-col-3" >
+                        <ul>
+                            <li>
+                                <a href="/about-us/our-history/" TransgridCorpotate.Core.Models.LinkModel >
+                                    Our history
+                                </a>
+                                    <span>Since the 1950's, our network has developed to meet the growing needs of energy consumers.</span>
+                            </li>
+                        </ul>
+
+                    </div>
+                    <div class="grid-col-3" >
+                        <ul>
+                            <li>
+                                <a href="/about-us/network/" TransgridCorpotate.Core.Models.LinkModel >
+                                    Network
+                                </a>
+                                    <span>Our network extends throughout NSW and the ACT, with connections to Queensland and Victoria.</span>
+                            </li>
+                        </ul>
+
+                    </div>
+                    <div class="grid-col-3" >
+                        <ul>
+                            <li>
+                                <a href="/about-us/regulatory-framework/" TransgridCorpotate.Core.Models.LinkModel >
+                                    Regulatory framework
+                                </a>
+                                    <span>In the National Energy Market, our operations are governed by a number of institutions. </span>
+                            </li>
+                        </ul>
+
+                    </div>
+                    <div class="grid-col-3" >
+                        <ul>
+                            <li>
+                                <a href="/about-us/suppliers/" TransgridCorpotate.Core.Models.LinkModel >
+                                    Suppliers
+                                </a>
+                                    <span>We invest in building sustainable working relationships with all our procurement partners. </span>
+                            </li>
+                        </ul>
+
+                    </div>
+                    <div class="grid-col-3" >
+                        <ul>
+                            <li>
+                                <a href="/about-us/our-culture-values/" TransgridCorpotate.Core.Models.LinkModel >
+                                    Our culture
+                                </a>
+                                    <span>We focus on making services affordable, prioritising safety, and delivering for our customers.</span>
+                            </li>
+                        </ul>
+
+                    </div>
+                    <div class="grid-col-3" >
+                        <ul>
+                            <li>
+                                <a href="/about-us/debt-investors/" TransgridCorpotate.Core.Models.LinkModel >
+                                    Debt Investors
+                                </a>
+                                    <span>We provide information for our registered debt investors</span>
+                            </li>
+                        </ul>
+
+                    </div>
+
+
+        </div>
+    </div>
+                                    </li>
+                                    <li >
+                                        <a href="/safety/"  >
+                                            <span>Safety </span>
+                                                <i class="chevron"></i>
+                                        </a>
+    <div class="drop-down menu-bg grid-col-12 effect-fade" style="transition: all 400ms ease 0s;">
+        <!--grid row-->
+        <div class="container grid-row">
+            <!--grid column 3-->
+
+
+                    <div class="grid-col-3" >
+                        <ul>
+                            <li>
+                                <a href="/safety/community-safety/" TransgridCorpotate.Core.Models.LinkModel >
+                                    Community safety
+                                </a>
+                                    <span>To ensure the safety and reliability of our transmission network, we routinely inspect our transmission poles, towers and lines to assess their condition.</span>
+                            </li>
+                        </ul>
+
+                    </div>
+                    <div class="grid-col-3" >
+                        <ul>
+                            <li>
+                                <a href="/community/network-inspections-and-maintenance-near-you/" TransgridCorpotate.Core.Models.LinkModel title="open in new tab">
+                                    Network inspections and maintenance near you
+                                </a>
+                                    <span>Transgrid undertakes ground and aerial inspections to identify safety risks to the network and undertake any necessary maintenance to keep the network safe and reliable.</span>
+                            </li>
+                        </ul>
+
+                    </div>
+                    <div class="grid-col-3" >
+                        <ul>
+                            <li>
+                                <a href="/safety/working-near-underground-cables/" TransgridCorpotate.Core.Models.LinkModel title="open in new tab">
+                                    Working near underground cables
+                                </a>
+                                    <span>Different requirements apply to work taking place near underground transmission cables. A Before You Dig (BYD) search is essential prior to any excavation work taking place.</span>
+                            </li>
+                        </ul>
+
+                    </div>
+                    <div class="grid-col-3" >
+                        <ul>
+                            <li>
+                                <a href="/safety/managing-bush-fire-risk/" TransgridCorpotate.Core.Models.LinkModel >
+                                    Managing bush fire risk
+                                </a>
+                                    <span>Annual inspections are an important part of our comprehensive maintenance program, and ensure the transmission network is safe for our staff and the community. </span>
+                            </li>
+                        </ul>
+
+                    </div>
+                    <div class="grid-col-3" >
+                        <ul>
+                            <li>
+                                <a href="/safety/working-safe/" TransgridCorpotate.Core.Models.LinkModel >
+                                    Working safe
+                                </a>
+                                    <span>The safety and welfare of our people, delivery partners, and the broader community is our highest priority.</span>
+                            </li>
+                        </ul>
+
+                    </div>
+
+
+        </div>
+    </div>
+                                    </li>
+                                    <li >
+                                        <a href="/community/"  >
+                                            <span>Community </span>
+                                                <i class="chevron"></i>
+                                        </a>
+    <div class="drop-down menu-bg grid-col-12 effect-fade" style="transition: all 400ms ease 0s;">
+        <!--grid row-->
+        <div class="container grid-row">
+            <!--grid column 3-->
+
+
+                    <div class="grid-col-3" >
+                        <ul>
+                            <li>
+                                <a href="/community/landowners/" TransgridCorpotate.Core.Models.LinkModel >
+                                    Landowners
+                                </a>
+                                    <span>Our community engagement teams consult with landowners and residents across our network and along proposed project routes.</span>
+                            </li>
+                        </ul>
+
+                    </div>
+                    <div class="grid-col-3" >
+                        <ul>
+                            <li>
+                                <a href="/community/network-inspections-and-maintenance-near-you/" TransgridCorpotate.Core.Models.LinkModel title="open in new tab">
+                                    Network inspections and maintenance near you
+                                </a>
+                                    <span>Transgrid undertakes ground and aerial inspections to identify safety risks to the network and undertake any necessary maintenance to keep the network safe and reliable.</span>
+                            </li>
+                        </ul>
+
+                    </div>
+                    <div class="grid-col-3" >
+                        <ul>
+                            <li>
+                                <a href="/community/social-licence-program/" TransgridCorpotate.Core.Models.LinkModel title="open in new tab">
+                                    Social licence program
+                                </a>
+                                    <span>We are undertaking a program of initiatives to build social licence and deliver better outcomes for impacted communities. We have a range of current key work streams.</span>
+                            </li>
+                        </ul>
+
+                    </div>
+                    <div class="grid-col-3" >
+                        <ul>
+                            <li>
+                                <a href="/community/stakeholder-engagement/" TransgridCorpotate.Core.Models.LinkModel >
+                                    Stakeholder engagement
+                                </a>
+                                    <span>We are dedicated to continuously improving our engagement with key stakeholders to support our decision making and deliver community benefits.</span>
+                            </li>
+                        </ul>
+
+                    </div>
+                    <div class="grid-col-3" >
+                        <ul>
+                            <li>
+                                <a href="/community/cultural-heritage-and-reconciliation/" TransgridCorpotate.Core.Models.LinkModel >
+                                    Cultural heritage and reconciliation
+                                </a>
+                                    <span>Implementing our Reconciliation Action Plan contributes to creating a more equitable future.</span>
+                            </li>
+                        </ul>
+
+                    </div>
+                    <div class="grid-col-3" >
+                        <ul>
+                            <li>
+                                <a href="/community/community-partnerships-program/" TransgridCorpotate.Core.Models.LinkModel >
+                                    Community Partnerships Program
+                                </a>
+                                    <span>Our Community Partnerships Program benefits areas where our assets are located or under development.</span>
+                            </li>
+                        </ul>
+
+                    </div>
+                    <div class="grid-col-3" >
+                        <ul>
+                            <li>
+                                <a href="/community/sponsorships-partnerships/" TransgridCorpotate.Core.Models.LinkModel >
+                                    Sponsorships & Partnerships
+                                </a>
+                                    <span>Promoting diversity and inclusion is a key component of our sponsorship program.</span>
+                            </li>
+                        </ul>
+
+                    </div>
+                    <div class="grid-col-3" >
+                        <ul>
+                            <li>
+                                <a href="/community/wagga-discovery/" TransgridCorpotate.Core.Models.LinkModel >
+                                    Transgrid Discovery Hub
+                                </a>
+                                    <span>The Transgrid Discovery Hub allow a consistent and accessible point of connection with community, landowners, and businesses in the Wagga and surrounding areas.</span>
+                            </li>
+                        </ul>
+
+                    </div>
+
+
+        </div>
+    </div>
+                                    </li>
+                                    <li >
+                                        <a href="/energy-transition/"  >
+                                            <span>Energy<br> transition </span>
+                                                <i class="chevron"></i>
+                                        </a>
+    <div class="drop-down menu-bg grid-col-12 effect-fade" style="transition: all 400ms ease 0s;">
+        <!--grid row-->
+        <div class="container grid-row">
+            <!--grid column 3-->
+
+
+                    <div class="grid-col-3" >
+                        <ul>
+                            <li>
+                                <a href="/energy-transition/beyond-the-transition-powering-the-next-wave-of-rezs/" TransgridCorpotate.Core.Models.LinkModel >
+                                    Beyond the Transition: Powering the Next Wave of REZs
+                                </a>
+                                    <span>For many decades, planning for electricity networks was based on relatively predictable and stable patterns of demand and supply. But the energy transition has changed that, reshaping where and how energy is both produced and used. </span>
+                            </li>
+                        </ul>
+
+                    </div>
+                    <div class="grid-col-3" >
+                        <ul>
+                            <li>
+                                <a href="/energy-transition/building-a-better-power-system-through-system-security-and-operability/" TransgridCorpotate.Core.Models.LinkModel >
+                                    Building a better power system through system security and operability
+                                </a>
+                                    <span>With the closure of Liddell power station in April 2023 and the planned 2025 closure of the Eraring Power Station, Transgrid is on the frontline of making profound changes to maintain system strength and ensure the safe and secure operation of the power system.</span>
+                            </li>
+                        </ul>
+
+                    </div>
+                    <div class="grid-col-3" >
+                        <ul>
+                            <li>
+                                <a href="/energy-transition/fostering-the-clean-energy-workforce-of-the-future/" TransgridCorpotate.Core.Models.LinkModel >
+                                    Fostering the clean energy workforce of the future
+                                </a>
+                                    <span>The shift to a clean energy future isn't just about changing how we generate electricity—it's also about creating job opportunities, upskilling our workforce, and strengthening our regional economy.</span>
+                            </li>
+                        </ul>
+
+                    </div>
+                    <div class="grid-col-3" >
+                        <ul>
+                            <li>
+                                <a href="/energy-transition/how-upskilling-australians-could-be-the-gamechanger-in-accelerating-our-clean-energy-transition/" TransgridCorpotate.Core.Models.LinkModel >
+                                    How upskilling Australians could be the gamechanger in accelerating our clean energy transition
+                                </a>
+                                    <span>We explore the skill challenges in clean energy industries, the government's initiatives to address the shortage, the benefits of investing in clean energy skills, and Transgrid's commitment to creating job opportunities in the renewable energy sector.</span>
+                            </li>
+                        </ul>
+
+                    </div>
+                    <div class="grid-col-3" >
+                        <ul>
+                            <li>
+                                <a href="/about-us/network/network-connections/data-centres-and-electricity-capacity-in-nsw/" TransgridCorpotate.Core.Models.LinkModel title="open in new tab">
+                                    Data centres and electricity capacity in NSW
+                                </a>
+                                    <span>Data centres are fast becoming critical economic infrastructure, underpinning the digital services that drive Australia’s modern economy.</span>
+                            </li>
+                        </ul>
+
+                    </div>
+
+
+        </div>
+    </div>
+                                    </li>
+                                    <li  class="active">
+                                        <a href="/projects-innovation/"  >
+                                            <span>Projects & <br>innovation </span>
+                                                <i class="chevron"></i>
+                                        </a>
+    <div class="drop-down menu-bg grid-col-12 effect-fade" style="transition: all 400ms ease 0s;">
+        <!--grid row-->
+        <div class="container grid-row">
+            <!--grid column 3-->
+
+
+                    <div class="grid-col-3"  class="active">
+                        <ul>
+                            <li>
+                                <a href="/projects-innovation/energyconnect/" TransgridCorpotate.Core.Models.LinkModel >
+                                    EnergyConnect
+                                </a>
+                                    <span>EnergyConnect is a critical project that will lower power bills for homes and businesses.</span>
+                            </li>
+                        </ul>
+
+                    </div>
+                    <div class="grid-col-3" >
+                        <ul>
+                            <li>
+                                <a href="/projects-innovation/humelink/" TransgridCorpotate.Core.Models.LinkModel >
+                                    HumeLink
+                                </a>
+                                    <span>A new 500kV transmission line will carry electricity to customers from new generation sources.</span>
+                            </li>
+                        </ul>
+
+                    </div>
+                    <div class="grid-col-3" >
+                        <ul>
+                            <li>
+                                <a href="/projects-innovation/vni-west/" TransgridCorpotate.Core.Models.LinkModel >
+                                    Victoria to NSW Interconnector West
+                                </a>
+                                    <span>VNI West is a core component and priority project in AEMO’s 2022 ISP, which confirms the need for short- and longer-term investment to increase the transfer capacity between the states.</span>
+                            </li>
+                        </ul>
+
+                    </div>
+                    <div class="grid-col-3" >
+                        <ul>
+                            <li>
+                                <a href="/projects-innovation/hunter-transmission-project/" TransgridCorpotate.Core.Models.LinkModel title="open in new tab">
+                                    Hunter Transmission Project
+                                </a>
+                                    <span>A new overhead 500kV transmission line spanning around 110 kilometres between Bayswater in the Upper Hunter and Olney in the Lower Hunter.</span>
+                            </li>
+                        </ul>
+
+                    </div>
+                    <div class="grid-col-3" >
+                        <ul>
+                            <li>
+                                <a href="/projects-innovation/mount-piper-to-wallerawang/" TransgridCorpotate.Core.Models.LinkModel >
+                                    Mount Piper to Wallerawang Transmission Line Upgrade Project
+                                </a>
+                                    <span>The Project will strengthen and reinforce the grid in the State’s Central Tablelands region, helping to ensure that power from the Central-West Orana Renewable Energy Zone (CWOREZ) can be reliably transmitted to consumers. </span>
+                            </li>
+                        </ul>
+
+                    </div>
+                    <div class="grid-col-3" >
+                        <ul>
+                            <li>
+                                <a href="/projects-innovation/system-security-operability/" TransgridCorpotate.Core.Models.LinkModel >
+                                    System Security Roadmap Operational Technology Upgrades
+                                </a>
+                                    <span>This transformation is driving a substantial increase in information and analysis requirements across our operational control and operational planning functions.</span>
+                            </li>
+                        </ul>
+
+                    </div>
+                    <div class="grid-col-3" >
+                        <ul>
+                            <li>
+                                <a href="/projects-innovation/central-west-orana-renewable-energy-zone-network-upgrades/" TransgridCorpotate.Core.Models.LinkModel >
+                                    Central West Orana Renewable Energy Zone
+                                </a>
+                                    <span>The NSW government has developed a plan to establish five Renewable Energy Zones (REZs) to increase energy generation, reduce carbon emissions, and help deliver lower wholesale electricity costs to consumers.</span>
+                            </li>
+                        </ul>
+
+                    </div>
+                    <div class="grid-col-3" >
+                        <ul>
+                            <li>
+                                <a href="/projects-innovation/system-strength-project/" TransgridCorpotate.Core.Models.LinkModel >
+                                    System Strength Project
+                                </a>
+                                    <span>The System Strength Project has been established in collaboration with the NSW Government to fast-track the deployment of synchronous condensers at five strategic locations on Transgrid’s network.</span>
+                            </li>
+                        </ul>
+
+                    </div>
+                    <div class="grid-col-3" >
+                        <ul>
+                            <li>
+                                <a href="/projects-innovation/sydney-ring-south/" TransgridCorpotate.Core.Models.LinkModel >
+                                    Sydney Ring South
+                                </a>
+                                    <span>The project will increase access to reliable, affordable renewable energy for growing communities by addressing an energy bottleneck into South Western Sydney and the Illawarra.</span>
+                            </li>
+                        </ul>
+
+                    </div>
+
+
+        </div>
+    </div>
+                                    </li>
+                                    <li >
+                                        <a href="/media-publications/"  >
+                                            <span>Media & <br>publications </span>
+                                        </a>
+                                    </li>
+                </ul>
+
+
+            </div>
+        </section>
+    </div>
+
+
+
+                <div id="mobileMenu" class="mobile-menu">
+        <div class="container">
+            <!-- menu logo -->
+            <div class="mobile-menu-logo">
+                    <a href="/"><img class="header-logo" src="/media/2txnqryh/transgrid_logo_rgb.png" width="160" height="50" alt=""></a>
+            </div>
+
+            <div class="mobile-search">
+                <div class="mobile-search-block">
+                    <div class="search-toggle">
+                        <a href="javascript:void(0);" class="search-icon icon-search"><i class="mobile-search-icon"></i></a>
+                        <a href="javascript:void(0);" class="search-icon icon-close"><i class="mobile-search-close-icon"></i></a>
+                    </div>
+                </div>
+            </div>
+
+            <!-- hamburger footer start -->
+            <button class="mobile-menu-btn ma5menu__toggle" type="button">
+                <span class="ma5menu__icon-toggle"></span> <span class="ma5menu__sr-only">Menu</span>
+            </button>
+
+        </div>
+                <div class="mobile-search">
+
+<form action="/projects-innovation/energyconnect/" class="nav-mobile-search" enctype="multipart/form-data" id="navSearch" method="post">                <div class="search-container">
+                    <div class="search-inner">
+                        <input type="search" name="search" id="search-terms" placeholder="I want to find..." />
+                        <input type="hidden" name="searchResult" value="1184" />
+                        <button name="submit" type="submit" class="search-button"><i class="mobile-search-icon-inverse"></i></button>
+                    </div>
+                </div>
+<input name="__RequestVerificationToken" type="hidden" value="CfDJ8BRRkc43_dlBpotN5dboVaxDt8FpyBgG86iYcf2YrvV63VvkkkoLLRRhShbck-1v_Grpno5cyJ0mveIz2N89LcOhrOSv7FoCSWUFC52YqQiJozYN5aPNzCTZpV6vNMP0sn_8nubPMRu3h01VTmxYU6I" /><input name="ufprt" type="hidden" value="CfDJ8BRRkc43_dlBpotN5dboVawTnhB1IywBJNfS178280odjMSKYXLixgLJ6k1gt2rNDnc13p9xlNGQVUdB8u2bBZDUa3OQhqYax4QvBMRnbNuKql13HmVIgpesJS0s3jfr2WhBi7f-kPIeZX3VFzym6G0" /></form>        </div>
+
+
+
+
+
+        <div style="display: none;">
+
+            <ul class="hamburgermenu">
+                                <li >
+
+                                    <a href="/about-us/"  >
+                                        About us
+                                    </a>
+    <ul>
+        <li>
+            <a class="category-nav" href="#">About us</a>
+        </li>
+
+                <li >
+
+                    <a class="text-input-link" href="/about-us/who-we-are/" TransgridCorpotate.Core.Models.LinkModel >
+                        Who we are
+                    </a>
+
+                </li>
+                <li >
+
+                    <a class="text-input-link" href="/about-us/our-approach/" TransgridCorpotate.Core.Models.LinkModel >
+                        Our approach
+                    </a>
+
+                </li>
+                <li >
+
+                    <a class="text-input-link" href="/about-us/leadership/" TransgridCorpotate.Core.Models.LinkModel >
+                        Leadership
+                    </a>
+
+                </li>
+                <li >
+
+                    <a class="text-input-link" href="/about-us/our-history/" TransgridCorpotate.Core.Models.LinkModel >
+                        Our history
+                    </a>
+
+                </li>
+                <li >
+
+                    <a class="text-input-link" href="/about-us/network/" TransgridCorpotate.Core.Models.LinkModel >
+                        Network
+                    </a>
+
+                </li>
+                <li >
+
+                    <a class="text-input-link" href="/about-us/regulatory-framework/" TransgridCorpotate.Core.Models.LinkModel >
+                        Regulatory framework
+                    </a>
+
+                </li>
+                <li >
+
+                    <a class="text-input-link" href="/about-us/suppliers/" TransgridCorpotate.Core.Models.LinkModel >
+                        Suppliers
+                    </a>
+
+                </li>
+                <li >
+
+                    <a class="text-input-link" href="/about-us/our-culture-values/" TransgridCorpotate.Core.Models.LinkModel >
+                        Our culture
+                    </a>
+
+                </li>
+                <li >
+
+                    <a class="text-input-link" href="/about-us/debt-investors/" TransgridCorpotate.Core.Models.LinkModel >
+                        Debt Investors
+                    </a>
+
+                </li>
+    </ul>
+                                </li>
+                                <li >
+
+                                    <a href="/safety/"  >
+                                        Safety
+                                    </a>
+    <ul>
+        <li>
+            <a class="category-nav" href="#">Safety</a>
+        </li>
+
+                <li >
+
+                    <a class="text-input-link" href="/safety/community-safety/" TransgridCorpotate.Core.Models.LinkModel >
+                        Community safety
+                    </a>
+
+                </li>
+                <li >
+
+                    <a class="text-input-link" href="/community/network-inspections-and-maintenance-near-you/" TransgridCorpotate.Core.Models.LinkModel title="open in new tab">
+                        Network inspections and maintenance near you
+                    </a>
+
+                </li>
+                <li >
+
+                    <a class="text-input-link" href="/safety/working-near-underground-cables/" TransgridCorpotate.Core.Models.LinkModel title="open in new tab">
+                        Working near underground cables
+                    </a>
+
+                </li>
+                <li >
+
+                    <a class="text-input-link" href="/safety/managing-bush-fire-risk/" TransgridCorpotate.Core.Models.LinkModel >
+                        Managing bush fire risk
+                    </a>
+
+                </li>
+                <li >
+
+                    <a class="text-input-link" href="/safety/working-safe/" TransgridCorpotate.Core.Models.LinkModel >
+                        Working safe
+                    </a>
+
+                </li>
+    </ul>
+                                </li>
+                                <li >
+
+                                    <a href="/community/"  >
+                                        Community
+                                    </a>
+    <ul>
+        <li>
+            <a class="category-nav" href="#">Community</a>
+        </li>
+
+                <li >
+
+                    <a class="text-input-link" href="/community/landowners/" TransgridCorpotate.Core.Models.LinkModel >
+                        Landowners
+                    </a>
+
+                </li>
+                <li >
+
+                    <a class="text-input-link" href="/community/network-inspections-and-maintenance-near-you/" TransgridCorpotate.Core.Models.LinkModel title="open in new tab">
+                        Network inspections and maintenance near you
+                    </a>
+
+                </li>
+                <li >
+
+                    <a class="text-input-link" href="/community/social-licence-program/" TransgridCorpotate.Core.Models.LinkModel title="open in new tab">
+                        Social licence program
+                    </a>
+
+                </li>
+                <li >
+
+                    <a class="text-input-link" href="/community/stakeholder-engagement/" TransgridCorpotate.Core.Models.LinkModel >
+                        Stakeholder engagement
+                    </a>
+
+                </li>
+                <li >
+
+                    <a class="text-input-link" href="/community/cultural-heritage-and-reconciliation/" TransgridCorpotate.Core.Models.LinkModel >
+                        Cultural heritage and reconciliation
+                    </a>
+
+                </li>
+                <li >
+
+                    <a class="text-input-link" href="/community/community-partnerships-program/" TransgridCorpotate.Core.Models.LinkModel >
+                        Community Partnerships Program
+                    </a>
+
+                </li>
+                <li >
+
+                    <a class="text-input-link" href="/community/sponsorships-partnerships/" TransgridCorpotate.Core.Models.LinkModel >
+                        Sponsorships & Partnerships
+                    </a>
+
+                </li>
+                <li >
+
+                    <a class="text-input-link" href="/community/wagga-discovery/" TransgridCorpotate.Core.Models.LinkModel >
+                        Transgrid Discovery Hub
+                    </a>
+
+                </li>
+    </ul>
+                                </li>
+                                <li >
+
+                                    <a href="/energy-transition/"  >
+                                        Energy<br> transition
+                                    </a>
+    <ul>
+        <li>
+            <a class="category-nav" href="#">Energy<br> transition</a>
+        </li>
+
+                <li >
+
+                    <a class="text-input-link" href="/energy-transition/beyond-the-transition-powering-the-next-wave-of-rezs/" TransgridCorpotate.Core.Models.LinkModel >
+                        Beyond the Transition: Powering the Next Wave of REZs
+                    </a>
+
+                </li>
+                <li >
+
+                    <a class="text-input-link" href="/energy-transition/building-a-better-power-system-through-system-security-and-operability/" TransgridCorpotate.Core.Models.LinkModel >
+                        Building a better power system through system security and operability
+                    </a>
+
+                </li>
+                <li >
+
+                    <a class="text-input-link" href="/energy-transition/fostering-the-clean-energy-workforce-of-the-future/" TransgridCorpotate.Core.Models.LinkModel >
+                        Fostering the clean energy workforce of the future
+                    </a>
+
+                </li>
+                <li >
+
+                    <a class="text-input-link" href="/energy-transition/how-upskilling-australians-could-be-the-gamechanger-in-accelerating-our-clean-energy-transition/" TransgridCorpotate.Core.Models.LinkModel >
+                        How upskilling Australians could be the gamechanger in accelerating our clean energy transition
+                    </a>
+
+                </li>
+                <li >
+
+                    <a class="text-input-link" href="/about-us/network/network-connections/data-centres-and-electricity-capacity-in-nsw/" TransgridCorpotate.Core.Models.LinkModel title="open in new tab">
+                        Data centres and electricity capacity in NSW
+                    </a>
+
+                </li>
+    </ul>
+                                </li>
+                                <li  class="active">
+
+                                    <a href="/projects-innovation/"  >
+                                        Projects & <br>innovation
+                                    </a>
+    <ul>
+        <li>
+            <a class="category-nav" href="#">Projects & <br>innovation</a>
+        </li>
+
+                <li  class="active">
+
+                    <a class="text-input-link" href="/projects-innovation/energyconnect/" TransgridCorpotate.Core.Models.LinkModel >
+                        EnergyConnect
+                    </a>
+
+                </li>
+                <li >
+
+                    <a class="text-input-link" href="/projects-innovation/humelink/" TransgridCorpotate.Core.Models.LinkModel >
+                        HumeLink
+                    </a>
+
+                </li>
+                <li >
+
+                    <a class="text-input-link" href="/projects-innovation/vni-west/" TransgridCorpotate.Core.Models.LinkModel >
+                        Victoria to NSW Interconnector West
+                    </a>
+
+                </li>
+                <li >
+
+                    <a class="text-input-link" href="/projects-innovation/hunter-transmission-project/" TransgridCorpotate.Core.Models.LinkModel title="open in new tab">
+                        Hunter Transmission Project
+                    </a>
+
+                </li>
+                <li >
+
+                    <a class="text-input-link" href="/projects-innovation/mount-piper-to-wallerawang/" TransgridCorpotate.Core.Models.LinkModel >
+                        Mount Piper to Wallerawang Transmission Line Upgrade Project
+                    </a>
+
+                </li>
+                <li >
+
+                    <a class="text-input-link" href="/projects-innovation/system-security-operability/" TransgridCorpotate.Core.Models.LinkModel >
+                        System Security Roadmap Operational Technology Upgrades
+                    </a>
+
+                </li>
+                <li >
+
+                    <a class="text-input-link" href="/projects-innovation/central-west-orana-renewable-energy-zone-network-upgrades/" TransgridCorpotate.Core.Models.LinkModel >
+                        Central West Orana Renewable Energy Zone
+                    </a>
+
+                </li>
+                <li >
+
+                    <a class="text-input-link" href="/projects-innovation/system-strength-project/" TransgridCorpotate.Core.Models.LinkModel >
+                        System Strength Project
+                    </a>
+
+                </li>
+                <li >
+
+                    <a class="text-input-link" href="/projects-innovation/sydney-ring-south/" TransgridCorpotate.Core.Models.LinkModel >
+                        Sydney Ring South
+                    </a>
+
+                </li>
+    </ul>
+                                </li>
+                                <li >
+
+                                    <a href="/media-publications/"  >
+                                        Media & <br>publications
+                                    </a>
+                                </li>
+            </ul>
+
+            <!-- hamburger footer start -->
+            <div id="ma5menu-tools" class="ma5menu__tools">
+                <div class="footer-phone">
+                        <a href="/contact-us/"  >Contact us</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+        </nav>
+    </header>
+
+
+        <!-- Content block -->
+        <div id="content">
+
+
+
+    <div class="inner-banner">
+        <div class="banner-pattern">
+            <div class="banner-gradient"> </div>
+        </div>
+        <div class="breadcrumb-block">
+
+
+    <div class="container">
+        <nav aria-label="breadcrumb">
+            <ol class="breadcrumb">
+                    <li class="breadcrumb-item">
+                        <a href="/">
+                            Home
+                        </a>
+                    </li>
+                    <li class="breadcrumb-item">
+                        <a href="/projects-innovation/">
+                            Projects &amp; innovation
+                        </a>
+                    </li>
+                <li class="breadcrumb-item active" aria-current="page">
+                    EnergyConnect
+                </li>
+            </ol>
+        </nav>
+    </div>
+
+
+        </div>
+
+        <section class="page-heading-lightbox">
+            <div class="container">
+                <div class="banner-img-outer">
+
+
+                    <div id="bannerImg" class="banner-img-wrap" style="background-image: url(/media/gvklsarz/l5-stringing-over-canola.jpg?width=1300&amp;height=600&amp;v=1dd1b6dc2744d50);">
+
+                        <div class="overlay">
+                            <div class="banner-desc">
+                                <div class="title-wrap">
+                                    <div class="container">
+                                        <div class="row">
+                                            <div class="col-12 col-sm-12 col-md-12 col-lg-7 col-xl-7">
+                                                <div class="banner-desc-inner animated">
+
+                                                        <h1 class="banner_title ">EnergyConnect </h1>
+                                                        <div class="banner_description">
+                                                            <a class="default-cta lightbox-video " href="https://www.youtube.com/watch?v=IqGQEolst3o" >Play project video</a>
+                                                        </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </div>
+
+
+<!--Advertisement Section-->
+<!--Advertisement Section-->
+<!--Project Overview-->
+<!--Project Overview-->
+
+    <section class="page-menu navbar-default">
+        <div class="container">
+            <div class="page-menu-inner" id="pageMenuStandard">
+                <button type="button" class="prevmenu-button left-arrow">
+                    <svg width="30" height="30" viewBox="0 0 30 30" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <mask id="mask01" mask-type="alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="30" height="30">
+                            <path d="M15 27C21.6276 27 27 21.6276 27 15C27 8.3724 21.6276 3 15 3C8.3724 3 3 8.3724 3 15C3 21.6276 8.3724 27 15 27ZM17.1 9.8148C17.5968 10.3116 17.5968 11.118 17.1 11.6148L13.7148 15L17.1 18.3852C17.5968 18.882 17.5968 19.6884 17.1 20.1852C16.6032 20.682 15.7968 20.682 15.3 20.1852L10.9632 15.8484C10.494 15.3792 10.494 14.6196 10.9632 14.1516L15.3 9.8148C15.7968 9.318 16.6032 9.318 17.1 9.8148Z" fill="black" />
+                        </mask>
+                        <g mask="url(#mask01)">
+                            <rect x="30" y="30" width="30" height="30" transform="rotate(-180 30 30)" fill="#47A843" />
+                        </g>
+                    </svg>
+                </button>
+                <ul class="page-menu-list">
+                            <li><a href="#Building-a-reliable-clean-energy-future">Building a reliable clean energy future</a></li>
+                            <li><a href="#NSW-Western-Section--completed-2024-">NSW-Western Section (completed 2024)</a></li>
+                            <li><a href="#NSW-Eastern-Section--completed-2026-">NSW-Eastern Section (completed 2026)</a></li>
+                            <li><a href="#Project-map">Project map</a></li>
+                            <li><a href="#Latest-update">Latest update</a></li>
+                            <li><a href="#Energy-Connect-milestones">Energy Connect milestones</a></li>
+                            <li><a href="#Supporting-communities">Supporting communities</a></li>
+                            <li><a href="#Community-resources">Community resources</a></li>
+                            <li><a href="#Planning-and-approvals">Planning and approvals</a></li>
+                            <li><a href="#Contact-us">Contact us</a></li>
+                            <li><a href="#News">News</a></li>
+                </ul>
+                <button type="button" class="nextmenu-button right-arrow">
+                    <svg width="30" height="30" viewBox="0 0 30 30" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <mask id="mask02" mask-type="alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="30" height="30">
+                            <path d="M15 3C8.3724 3 3 8.3724 3 15C3 21.6276 8.3724 27 15 27C21.6276 27 27 21.6276 27 15C27 8.3724 21.6276 3 15 3ZM12.9 20.1852C12.4032 19.6884 12.4032 18.882 12.9 18.3852L16.2852 15L12.9 11.6148C12.4032 11.118 12.4032 10.3116 12.9 9.8148C13.3968 9.318 14.2032 9.318 14.7 9.8148L19.0368 14.1516C19.506 14.6208 19.506 15.3804 19.0368 15.8484L14.7 20.1852C14.2032 20.682 13.3968 20.682 12.9 20.1852Z" fill="black" />
+                        </mask>
+                        <g mask="url(#mask02)">
+                            <rect width="30" height="30" fill="#47A843" />
+                        </g>
+                    </svg>
+                </button>
+            </div>
+        </div>
+    </section>
+
+
+
+<!--global Image-->
+
+<div class="project-global-image">
+
+<div class="umb-block-grid"
+     data-grid-columns="12;"
+     style="--umb-block-grid--grid-columns: 12;">
+
+<div class="umb-block-grid__layout-container container">
+        <div
+            class="umb-block-grid__layout-item"
+            data-content-element-type-alias="richTextWithImage"
+            data-content-element-type-key="0ac3eb98-c786-4127-9096-317ebea29aa0"
+            data-element-udi="umb://element/d5d5817ac2e54211a1db2d5e25bbd300"
+            data-col-span="12"
+            data-row-span="1"
+            style=" --umb-block-grid--item-column-span: 12; --umb-block-grid--item-row-span: 1; ">
+    <section class="richtext-sticky standardpage">
+        <div class="inner-wrap">
+            <div class="sticky-wrapper">
+                <div class="row">
+                    <div class="col-12 col-sm-12 col-md-12 col-lg-12 col-xl-12">
+                        <div id="Building-a-reliable-clean-energy-future" class="richtext-content">
+
+                                <div class="title-wrap">
+                                    <h2>Building a reliable clean energy future</h2>
+                                </div>
+                                <div class="rich-content">
+                                    <p>Reliable electricity is what keeps our homes, hospitals and businesses running every day. With EnergyConnect, we’re taking a big step towards securing that reliability, while opening the way for more renewable energy.</p>
+<p>Construction and initial energisation is complete for EnergyConnect <!-- x-tinymce/html -->– Australia’s largest energy transmission project. <span>Asset commissioning works are progressing ahead of inter-networking testing and integration into the National Electricity Market (NEM) by the end of 2026. </span></p>
+<p>Stretching 900km across New South Wales, Victoria and South Australia, it has connected the three state grids for the very first time. That means:</p>
+<ul>
+<li>
+<p><strong>Greater security of supply</strong> – keeping communities powered, even as energy demand changes.</p>
+</li>
+<li>
+<p><strong>Room for renewables</strong> – creating pathways for new wind, solar and other clean energy sources to plug into the grid as coal-fired plants close.</p>
+</li>
+<li>
+<p><strong>A stronger national network</strong> – enabling states to share energy when and where it’s needed most.</p>
+</li>
+</ul>
+<p>As a <a rel="noopener" href="https://pp.planningportal.nsw.gov.au/development-and-assessment/state-significant-infrastructure" target="_blank">Critical State Significant Infrastructure (CSSI)</a> project, EnergyConnect is central to the <a rel="noopener" href="https://www.aemo.com.au/energy-systems/major-publications/integrated-system-plan-isp" target="_blank">Australian Energy Market Operator’s plan</a> for a more sustainable energy system.</p>
+<p><span>Over the life of the project, Transgrid and our delivery partner have </span>worked closely with communities, landholders and stakeholders to carefully plan and manage impacts to the surrounding areas. EnergyConnect isn't just new infrastructure, it’s a foundation for a cleaner, more reliable energy future.</p>
+<p class="link-wrap"><a rel="noopener" href="/media/xg4heti4/energyconnect-project-brochure.pdf" target="_blank" title="EnergyConnect Project Brochure">Learn more about EnergyConnect and how it will help power Australia’s transition to net zero</a></p>
+<p><img src="/media/dtxf5jt5/energyconnect-key-benefits-r1.png?width=1312&amp;height=729&amp;mode=max" alt="PEC benefit infographic" width="1312" height="729"></p>
+                                </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+        </div>
+        <div
+            class="umb-block-grid__layout-item"
+            data-content-element-type-alias="customSectionLinks"
+            data-content-element-type-key="3f55c291-0e47-433c-8341-a1724011b803"
+            data-element-udi="umb://element/67009945b96941a2bd3fdd9ea2e70c96"
+            data-col-span="12"
+            data-row-span="1"
+            style=" --umb-block-grid--item-column-span: 12; --umb-block-grid--item-row-span: 1; ">
+    <section id="NSW-Western-Section--completed-2024-" class="link-card section-wrap">
+        <div class="inner-wrap ">
+            <div class="row">
+                <div class="col-sm-12 col-md-12 col-lg-12">
+                        <div class="intro-wrap">
+                            <div class="title-wrap">
+                                <h2>NSW-Western Section (completed 2024)</h2>
+                            </div>
+                        </div>
+                </div>
+            </div>
+            <div class="content-wrap">
+                <div class="row">
+                    <div class="col-12 col-sm-12 col-md-12 col-lg-12 link-card-wrapper">
+                        <div class="row">
+                                <div class="col-12 col-sm-12 col-md-6 col-lg-4 link-card-inner-wrap">
+                                            <div class="link-card-content">
+                                                <div class="link-card-item">
+                                                        <div class="link-card-image custom  ">
+                                                                <img class="img-fluid lazyload" src="/media/nd5pyi0s/tower.png?width=728&amp;height=370&amp;v=1dd1b6c9a85f0b0" data-src="/media/nd5pyi0s/tower.png?width=728&amp;height=370&amp;v=1dd1b6c9a85f0b0" alt="" width="364" height="185" />
+                                                        </div>
+
+                                                        <div class="link-card-title"><h3> Transmission lines </h3></div>
+<p><span>135km of new 330kV transmission line between the SA border and Buronga, comprising 291 towers. Upgrade of about 22km of existing 220kV transmission between the Buronga substation and Red Cliffs in Victoria, replacing lattice structures with 79 monopoles.</span></p>                                                </div>
+                                            </div>
+                                </div>
+                                <div class="col-12 col-sm-12 col-md-6 col-lg-4 link-card-inner-wrap">
+                                            <div class="link-card-content">
+                                                <div class="link-card-item">
+                                                        <div class="link-card-image custom  ">
+                                                                <img class="img-fluid lazyload" src="/media/xunpqjtk/voltage.png?width=728&amp;height=370&amp;v=1dd1b6c9beef690" data-src="/media/xunpqjtk/voltage.png?width=728&amp;height=370&amp;v=1dd1b6c9beef690" alt="" width="364" height="185" />
+                                                        </div>
+
+                                                        <div class="link-card-title"><h3> Substations </h3></div>
+<p><span>15ha extension of Buronga Substation to accommodate the new 330kV and 220kV circuits and installation of 5 phase shifting transformers and 2 synchronous condensers. </span></p>                                                </div>
+                                            </div>
+                                </div>
+                                <div class="col-12 col-sm-12 col-md-6 col-lg-4 link-card-inner-wrap">
+                                            <div class="link-card-content">
+                                                <div class="link-card-item">
+                                                        <div class="link-card-image custom  ">
+                                                                <img class="img-fluid lazyload" src="/media/lj4kswhh/camp.png?width=728&amp;height=370&amp;v=1dd1b6c9b3b8510" data-src="/media/lj4kswhh/camp.png?width=728&amp;height=370&amp;v=1dd1b6c9b3b8510" alt="" width="364" height="185" />
+                                                        </div>
+
+                                                        <div class="link-card-title"><h3> Supporting activities </h3></div>
+<p><span>Construction of temporary workforce accommodation camps and logistics laydowns at Buronga substation and Renmark Rd, near SA border.</span></p>                                                </div>
+                                            </div>
+                                </div>
+                        </div>
+                        </div>
+
+                </div>
+            </div>
+        </div>
+    </section>
+
+        </div>
+        <div
+            class="umb-block-grid__layout-item"
+            data-content-element-type-alias="customSectionLinks"
+            data-content-element-type-key="3f55c291-0e47-433c-8341-a1724011b803"
+            data-element-udi="umb://element/943ff405c78840b8937c250f11a42754"
+            data-col-span="12"
+            data-row-span="1"
+            style=" --umb-block-grid--item-column-span: 12; --umb-block-grid--item-row-span: 1; ">
+    <section id="NSW-Eastern-Section--completed-2026-" class="link-card section-wrap">
+        <div class="inner-wrap ">
+            <div class="row">
+                <div class="col-sm-12 col-md-12 col-lg-12">
+                        <div class="intro-wrap">
+                            <div class="title-wrap">
+                                <h2>NSW-Eastern Section (completed 2026)</h2>
+                            </div>
+                        </div>
+                </div>
+            </div>
+            <div class="content-wrap">
+                <div class="row">
+                    <div class="col-12 col-sm-12 col-md-12 col-lg-12 link-card-wrapper">
+                        <div class="row">
+                                <div class="col-12 col-sm-12 col-md-6 col-lg-4 link-card-inner-wrap">
+                                            <div class="link-card-content">
+                                                <div class="link-card-item">
+                                                        <div class="link-card-image custom  ">
+                                                                <img class="img-fluid lazyload" src="/media/nd5pyi0s/tower.png?width=728&amp;height=370&amp;v=1dd1b6c9a85f0b0" data-src="/media/nd5pyi0s/tower.png?width=728&amp;height=370&amp;v=1dd1b6c9a85f0b0" alt="" width="364" height="185" />
+                                                        </div>
+
+                                                        <div class="link-card-title"><h3> Transmission lines </h3></div>
+<p><span>375km of new 330kV transmission line between Buronga and the new Dinawan substation at Bundure, comprising 800 towers, and a further 165km of 500kV transmission line Dinawan to Wagga Wagga, comprising 334 towers</span></p>                                                </div>
+                                            </div>
+                                </div>
+                                <div class="col-12 col-sm-12 col-md-6 col-lg-4 link-card-inner-wrap">
+                                            <div class="link-card-content">
+                                                <div class="link-card-item">
+                                                        <div class="link-card-image custom  ">
+                                                                <img class="img-fluid lazyload" src="/media/xunpqjtk/voltage.png?width=728&amp;height=370&amp;v=1dd1b6c9beef690" data-src="/media/xunpqjtk/voltage.png?width=728&amp;height=370&amp;v=1dd1b6c9beef690" alt="" width="364" height="185" />
+                                                        </div>
+
+                                                        <div class="link-card-title"><h3> Substations </h3></div>
+<p><span>Construction of new 4.5ha substation near Bundure including installation of 2 synchronous condensers. Upgrade and expansion of existing Wagga Wagga substation to incorporate new transmission infrastructure.</span></p>                                                </div>
+                                            </div>
+                                </div>
+                                <div class="col-12 col-sm-12 col-md-6 col-lg-4 link-card-inner-wrap">
+                                            <div class="link-card-content">
+                                                <div class="link-card-item">
+                                                        <div class="link-card-image custom  ">
+                                                                <img class="img-fluid lazyload" src="/media/lj4kswhh/camp.png?width=728&amp;height=370&amp;v=1dd1b6c9b3b8510" data-src="/media/lj4kswhh/camp.png?width=728&amp;height=370&amp;v=1dd1b6c9b3b8510" alt="" width="364" height="185" />
+                                                        </div>
+
+                                                        <div class="link-card-title"><h3> Supporting activities </h3></div>
+<p><span>Construction of temporary workforce accommodation camps and logistics laydowns at Dinawan substation, Lockhart and Cobb Highway, south of Hay, and reuse of existing camp facility at Balranald.</span></p>                                                </div>
+                                            </div>
+                                </div>
+                        </div>
+                        </div>
+
+                </div>
+            </div>
+        </div>
+    </section>
+
+        </div>
+        <div
+            class="umb-block-grid__layout-item"
+            data-content-element-type-alias="richTextWithImage"
+            data-content-element-type-key="0ac3eb98-c786-4127-9096-317ebea29aa0"
+            data-element-udi="umb://element/bd642461156c4b25bf0ad33f05da5f6c"
+            data-col-span="12"
+            data-row-span="1"
+            style=" --umb-block-grid--item-column-span: 12; --umb-block-grid--item-row-span: 1; ">
+    <section class="richtext-sticky standardpage">
+        <div class="inner-wrap">
+            <div class="sticky-wrapper">
+                <div class="row">
+                    <div class="col-12 col-sm-12 col-md-12 col-lg-12 col-xl-12">
+                        <div id="Project-map" class="richtext-content">
+
+                                <div class="title-wrap">
+                                    <h2>Project map</h2>
+                                </div>
+                                <div class="rich-content">
+                                    <figure><img src="/media/14mlc5hf/energyconnect_construction_line_web_r1-2.jpg?rmode=max&amp;width=1300" alt="EnergyConnect Map new 230125" width="1300" height="439" data-caption="EnergyConnect Map new 230125"></figure>
+<p>For a more detailed view of the EnergyConnect route, please visit our <a rel="noopener" href="/projects-innovation/energyconnect/interactive-map/" target="_blank">Interactive map</a>.</p>
+                                </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+        </div>
+        <div
+            class="umb-block-grid__layout-item"
+            data-content-element-type-alias="richTextWithImage"
+            data-content-element-type-key="0ac3eb98-c786-4127-9096-317ebea29aa0"
+            data-element-udi="umb://element/06a58d2d996143b3a0e7122baa135510"
+            data-col-span="12"
+            data-row-span="1"
+            style=" --umb-block-grid--item-column-span: 12; --umb-block-grid--item-row-span: 1; ">
+    <section class="richtext-sticky standardpage">
+        <div class="inner-wrap">
+            <div class="sticky-wrapper">
+                <div class="row">
+                    <div class="col-12 col-sm-12 col-md-12 col-lg-12 col-xl-12">
+                        <div id="Latest-update" class="richtext-content">
+
+                                <div class="title-wrap">
+                                    <h2>Latest update</h2>
+                                </div>
+                                <div class="rich-content">
+                                    <p><img src="/media/ajnbuuke/june-infographics-update.png?rmode=max&amp;width=1200&amp;height=571" alt="" width="1200" height="571"></p>
+<p><span>For more information about EnergyConnect post-construction activities, visit </span><span><a rel="noopener" href="https://www.secureenergyjv.com.au/energyconnect/" target="_blank"><span>EnergyConnect - Elecnor (secureenergyjv.com.au)</span></a></span><span>. You can also reach the project team by calling 1800 49 06 66 or by email at&nbsp;</span><span><a rel="noopener" href="mailto:pec.community@elecnor.es" target="_blank"><span>pec.community@elecnor.es</span></a></span></p>
+<p class="link-wrap"><a rel="noopener" href="https://www.secureenergyjv.com.au/energyconnect/" target="_blank">See work notifications here</a></p>
+                                </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+        </div>
+        <div
+            class="umb-block-grid__layout-item"
+            data-content-element-type-alias="projectMapSection"
+            data-content-element-type-key="81af74ea-0c97-43c9-988a-8880b2baf575"
+            data-element-udi="umb://element/284334833904459386ca301b8f54130a"
+            data-col-span="12"
+            data-row-span="1"
+            style=" --umb-block-grid--item-column-span: 12; --umb-block-grid--item-row-span: 1; ">
+    <section id="" class="map-wrapper section-wrap fullGrid">
+        <div class="inner-wrap border-top">
+            <div class="content-wrap">
+                <div class="row">
+                    <div class="col-12 col-sm-12 col-md-12 col-lg-12">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+        </div>
+        <div
+            class="umb-block-grid__layout-item"
+            data-content-element-type-alias="projectTimelineSection"
+            data-content-element-type-key="214f0b92-076c-4205-99df-34bd94369a74"
+            data-element-udi="umb://element/8a2175a968af47e9823e58aafa8ce361"
+            data-col-span="12"
+            data-row-span="1"
+            style=" --umb-block-grid--item-column-span: 12; --umb-block-grid--item-row-span: 1; ">
+
+    <section id="Energy-Connect-milestones" class="time-line-wrapper section-wrap">
+        <div class="container">
+            <div class="row">
+                <div class="time-line">
+                    <div class="inner-wrap">
+                            <div class="intro-wrap">
+                                <div class="col-sm-12 col-md-12 col-lg-12 col-xl-12">
+                                    <div class="title-wrap">
+                                        <h2>Energy Connect milestones</h2>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="content-wrap">
+                                <div class="col-sm-12 col-md-12 col-lg-12 col-xl-12">
+                                    <ul id="progressbar">
+                                            <li id="step3">
+                                                <div class="time-line-inner">
+                                                    <p class="time-line-title">&#x200B;Preliminary investigations and project scoping - Completed</p>
+                                                    <span class="time-line-date">Regulatory approval received in July 2021</span>
+                                                    <p class="time-line-desc"></p>
+                                                </div>
+                                            </li>
+                                            <li id="step3">
+                                                <div class="time-line-inner">
+                                                    <p class="time-line-title">Community and landowner consultation - Completed</p>
+                                                    <span class="time-line-date">From 2018</span>
+                                                    <p class="time-line-desc"></p>
+                                                </div>
+                                            </li>
+                                            <li id="step3">
+                                                <div class="time-line-inner">
+                                                    <p class="time-line-title">&#x200B;Project approvals - Completed</p>
+                                                    <span class="time-line-date">Early 2020-mid 2022</span>
+                                                    <p class="time-line-desc"></p>
+                                                </div>
+                                            </li>
+                                            <li id="step3">
+                                                <div class="time-line-inner">
+                                                    <p class="time-line-title">Detailed design and site early works - Completed</p>
+                                                    <span class="time-line-date">Early 2021 - mid 2022</span>
+                                                    <p class="time-line-desc"></p>
+                                                </div>
+                                            </li>
+                                            <li id="step3">
+                                                <div class="time-line-inner">
+                                                    <p class="time-line-title">Construction - Completed</p>
+                                                    <span class="time-line-date"></span>
+                                                    <p class="time-line-desc">mid 2022-late 2024 (NSW Western Section) | mid 2023-early 2026 (NSW Eastern Section)</p>
+                                                </div>
+                                            </li>
+                                            <li id="step3">
+                                                <div class="time-line-inner">
+                                                    <p class="time-line-title">&#x200B;Project energisation - Completed</p>
+                                                    <span class="time-line-date"></span>
+                                                    <p class="time-line-desc">late 2024 (NSW Western Section) | mid 2026 (NSW Eastern Section)</p>
+                                                </div>
+                                            </li>
+                                            <li id="step2">
+                                                <div class="time-line-inner">
+                                                    <p class="time-line-title">Rehabilitation of project corridor - In progress</p>
+                                                    <span class="time-line-date">mid-late 2026</span>
+                                                    <p class="time-line-desc"></p>
+                                                </div>
+                                            </li>
+                                            <li id="step2">
+                                                <div class="time-line-inner">
+                                                    <p class="time-line-title">Project commissioning and inter-network testing  - In progress</p>
+                                                    <span class="time-line-date">mid-late 2026</span>
+                                                    <p class="time-line-desc"></p>
+                                                </div>
+                                            </li>
+                                            <li id="">
+                                                <div class="time-line-inner">
+                                                    <p class="time-line-title">Integration into National Electricity Market </p>
+                                                    <span class="time-line-date">end of 2026</span>
+                                                    <p class="time-line-desc"></p>
+                                                </div>
+                                            </li>
+                                    </ul>
+                                </div>
+                            </div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+        </div>
+        <div
+            class="umb-block-grid__layout-item"
+            data-content-element-type-alias="richTextWithImage"
+            data-content-element-type-key="0ac3eb98-c786-4127-9096-317ebea29aa0"
+            data-element-udi="umb://element/6ad671c5eb884e3e8140bde966f22fe1"
+            data-col-span="12"
+            data-row-span="1"
+            style=" --umb-block-grid--item-column-span: 12; --umb-block-grid--item-row-span: 1; ">
+    <section class="richtext-sticky standardpage">
+        <div class="inner-wrap">
+            <div class="sticky-wrapper">
+                <div class="row">
+                    <div class="col-12 col-sm-12 col-md-12 col-lg-12 col-xl-12">
+                        <div id="Supporting-communities" class="richtext-content">
+
+                                <div class="title-wrap">
+                                    <h2>Supporting communities</h2>
+                                </div>
+                                <div class="rich-content">
+                                    <p>We strive to create lasting benefits in the communities in which we work. Some key initiatives in place as part of EnergyConnect include:</p>
+                                </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+        </div>
+        <div
+            class="umb-block-grid__layout-item"
+            data-content-element-type-alias="customSectionLinks"
+            data-content-element-type-key="3f55c291-0e47-433c-8341-a1724011b803"
+            data-element-udi="umb://element/c4cc55f2b09148d48edba1107081461a"
+            data-col-span="12"
+            data-row-span="1"
+            style=" --umb-block-grid--item-column-span: 12; --umb-block-grid--item-row-span: 1; ">
+    <section id="" class="link-card section-wrap">
+        <div class="inner-wrap ">
+            <div class="row">
+                <div class="col-sm-12 col-md-12 col-lg-12">
+                </div>
+            </div>
+            <div class="content-wrap">
+                <div class="row">
+                    <div class="col-12 col-sm-12 col-md-12 col-lg-12 link-card-wrapper">
+                        <div class="row">
+                                <div class="col-12 col-sm-12 col-md-6 col-lg-6 link-card-inner-wrap">
+                                            <a href="https://www.secureenergyjv.com.au/legacy-100/" target="_blank" title="open in new tab">
+                                                <div class="link-card-item">
+                                                        <div class="link-card-image custom  half">
+                                                                <img class="img-fluid lazyload" src="/media/adyeragl/legacy-100.png?width=728&amp;height=370&amp;v=1db6d82d5bef800" data-src="/media/adyeragl/legacy-100.png?width=728&amp;height=370&amp;v=1db6d82d5bef800" alt="Supporting communities Legacy 100" width="364" height="185" />
+                                                        </div>
+
+                                                        <div class="link-card-title"><h3> Legacy 100 </h3></div>
+
+<p>Transgrid and our construction partner, Elecnor, have launched this training initiative to boost skills in the power transmission sector across regional NSW. We’re seeking up to 100 candidates to complete qualifications in Transmission Line Construction. Applications are now open.</p>                                                    <div class="link-card-link">
+                                                            <span class="default-cta">Learn more</span>
+                                                    </div>
+                                                </div>
+                                            </a>
+                                </div>
+                                <div class="col-12 col-sm-12 col-md-6 col-lg-6 link-card-inner-wrap">
+                                            <a href="/community/community-partnerships-program/" target="_blank" title="open in new tab">
+                                                <div class="link-card-item">
+                                                        <div class="link-card-image custom  half">
+                                                                <img class="img-fluid lazyload" src="/media/4gtag0k5/the-rock-rural-fire-brigade.png?width=728&amp;height=370&amp;v=1db6d82d5c316b0" data-src="/media/4gtag0k5/the-rock-rural-fire-brigade.png?width=728&amp;height=370&amp;v=1db6d82d5c316b0" alt="Supporting communities The Rock Rural Fire Brigade" width="364" height="185" />
+                                                        </div>
+
+                                                        <div class="link-card-title"><h3> Community Partnerships Program </h3></div>
+
+<p>This program offers grants of up to $5,000 for not-for-profit organisations that are local to our planning, operations, and major project areas. Applications are typically open in March and October each year.</p>                                                    <div class="link-card-link">
+                                                            <span class="default-cta">Learn more</span>
+                                                    </div>
+                                                </div>
+                                            </a>
+                                </div>
+                        </div>
+                        </div>
+
+                </div>
+            </div>
+        </div>
+    </section>
+
+        </div>
+        <div
+            class="umb-block-grid__layout-item"
+            data-content-element-type-alias="customSectionLinks"
+            data-content-element-type-key="3f55c291-0e47-433c-8341-a1724011b803"
+            data-element-udi="umb://element/7239b3306c444f9586cafe62d94da4b6"
+            data-col-span="12"
+            data-row-span="1"
+            style=" --umb-block-grid--item-column-span: 12; --umb-block-grid--item-row-span: 1; ">
+    <section id="" class="link-card section-wrap">
+        <div class="inner-wrap ">
+            <div class="row">
+                <div class="col-sm-12 col-md-12 col-lg-12">
+                </div>
+            </div>
+            <div class="content-wrap">
+                <div class="row">
+                    <div class="col-12 col-sm-12 col-md-12 col-lg-12 link-card-wrapper">
+                        <div class="row">
+                                <div class="col-12 col-sm-12 col-md-6 col-lg-6 link-card-inner-wrap">
+                                            <a href="https://www.csu.edu.au/scholarships/scholarships-grants/find-scholarship/equity/transgrid-scholarship#tab5" target="_blank" title="open in new tab">
+                                                <div class="link-card-item">
+                                                        <div class="link-card-image custom  half">
+                                                                <img class="img-fluid lazyload" src="/media/lirov3od/supporting-communities-csu.png?width=728&amp;height=370&amp;v=1db6d82d5c69920" data-src="/media/lirov3od/supporting-communities-csu.png?width=728&amp;height=370&amp;v=1db6d82d5c69920" alt="Supporting communities CSU" width="364" height="185" />
+                                                        </div>
+
+                                                        <div class="link-card-title"><h3> CSU Scholarships </h3></div>
+
+<p>Transgrid has partnered with Charles Sturt University to help train the nation’s next generation of engineers, including students wishing to major in the Electrical Engineering stream, and address Australia’s infrastructure skills shortage. Click to visit the Transgrid Civil Engineering Scholarship page for more information.</p>                                                    <div class="link-card-link">
+                                                            <span class="default-cta">Learn more</span>
+                                                    </div>
+                                                </div>
+                                            </a>
+                                </div>
+                                <div class="col-12 col-sm-12 col-md-6 col-lg-6 link-card-inner-wrap">
+                                            <a href="https://www.transgrid.com.au/media-publications/news-articles/1-5-million-partnership-to-deliver-major-jobs-and-skills-boost-for-riverina" target="_blank" title="open in new tab">
+                                                <div class="link-card-item">
+                                                        <div class="link-card-image custom  half">
+                                                                <img class="img-fluid lazyload" src="/media/3f3aatzu/supporting-communities-rda-partnership.png?width=728&amp;height=370&amp;v=1db6d82d5ca1b90" data-src="/media/3f3aatzu/supporting-communities-rda-partnership.png?width=728&amp;height=370&amp;v=1db6d82d5ca1b90" alt="Supporting communities RDA partnership" width="364" height="185" />
+                                                        </div>
+
+                                                        <div class="link-card-title"><h3> RDA partnership </h3></div>
+
+<p>Transgrid and Regional Development Australia (RDA) Riverina have formed Workforce Development Strategic Partnership to deliver jobs and skills boost as the region becomes a hub for the country’s renewable energy transformation. The partnership will secure substantial economic, employment and education benefits and support RDA Riverina’s key programs over the next three years.</p>                                                    <div class="link-card-link">
+                                                            <span class="default-cta">Learn more</span>
+                                                    </div>
+                                                </div>
+                                            </a>
+                                </div>
+                        </div>
+                        </div>
+
+                </div>
+            </div>
+        </div>
+    </section>
+
+        </div>
+        <div
+            class="umb-block-grid__layout-item"
+            data-content-element-type-alias="customSectionLinks"
+            data-content-element-type-key="3f55c291-0e47-433c-8341-a1724011b803"
+            data-element-udi="umb://element/cde99a5c4e5e46bf8fe857e6df482e66"
+            data-col-span="12"
+            data-row-span="1"
+            style=" --umb-block-grid--item-column-span: 12; --umb-block-grid--item-row-span: 1; ">
+    <section id="" class="link-card section-wrap">
+        <div class="inner-wrap ">
+            <div class="row">
+                <div class="col-sm-12 col-md-12 col-lg-12">
+                </div>
+            </div>
+            <div class="content-wrap">
+                <div class="row">
+                    <div class="col-12 col-sm-12 col-md-12 col-lg-12 link-card-wrapper">
+                        <div class="row">
+                                <div class="col-12 col-sm-12 col-md-6 col-lg-6 link-card-inner-wrap">
+                                            <a href="/media/2sjpf3gr/transgrid_energy-connect_social-value-report_2026_v10.pdf" target="_blank" title="open in new tab">
+                                                <div class="link-card-item">
+                                                        <div class="link-card-image custom  half">
+                                                                <img class="img-fluid lazyload" src="/media/3uflfraa/south-wagga-rotary-club-1.jpg?width=728&amp;height=370&amp;v=1dd3487778a6210" data-src="/media/3uflfraa/south-wagga-rotary-club-1.jpg?width=728&amp;height=370&amp;v=1dd3487778a6210" alt="" width="364" height="185" />
+                                                        </div>
+
+                                                        <div class="link-card-title"><h3> EnergyConnect Social Value Report </h3></div>
+
+<p><span data-teams="true">EnergyConnect generated an estimated $4.1 billion in social value from June 2023 to June 2026, strengthening regional communities through local jobs, skills, procurement and investment.&nbsp;</span></p>                                                    <div class="link-card-link">
+                                                            <span class="default-cta">Download the report</span>
+                                                    </div>
+                                                </div>
+                                            </a>
+                                </div>
+                        </div>
+                        </div>
+
+                </div>
+            </div>
+        </div>
+    </section>
+
+        </div>
+        <div
+            class="umb-block-grid__layout-item"
+            data-content-element-type-alias="sectionLinks"
+            data-content-element-type-key="380c5bfe-52f9-4c71-9307-16e887e0a5e2"
+            data-element-udi="umb://element/ee481a98e80d4ddf8902a014989d1b9f"
+            data-col-span="12"
+            data-row-span="1"
+            style=" --umb-block-grid--item-column-span: 12; --umb-block-grid--item-row-span: 1; ">
+    <section id="Community-resources" class="link-card section-wrap">
+        <div class="inner-wrap ">
+            <div class="row">
+                <div class="col-sm-12 col-md-12 col-lg-12">
+                        <div class="intro-wrap">
+                            <div class="title-wrap">
+                                <h2>Community resources</h2>
+                            </div>
+                        </div>
+                </div>
+            </div>
+            <div class="content-wrap">
+                <div class="row">
+                    <div class="col-12 col-sm-12 col-md-12 col-lg-12 link-card-wrapper">
+                        <div class="row">
+                                <div class="col-12 col-sm-12 col-md-6 col-lg-4 link-card-inner-wrap">
+                                                <a href="/projects-innovation/energyconnect/interactive-map/" target="_blank" title="open in new tab">
+                                                    <div class="link-card-item">
+                                                            <div class="link-card-icon"><img class="img-fluid lazyload" src="/media/vt3nd3mn/document-icon.svg?rmode=pad&amp;width=19&amp;height=13&amp;v=1d768e8aaf91170" data-src="/media/vt3nd3mn/document-icon.svg" /></div>
+
+                                                            <div class="link-card-title"><h3> Interactive map </h3></div>
+
+                                                        <div class="link-card-link">
+                                                                <span class="default-cta">Learn more</span>
+                                                        </div>
+                                                    </div>
+                                                </a>
+                                </div>
+                                <div class="col-12 col-sm-12 col-md-6 col-lg-4 link-card-inner-wrap">
+                                                <a href="/projects-innovation/energyconnect/fact-sheets/" target="_blank" title="open in new tab">
+                                                    <div class="link-card-item">
+                                                            <div class="link-card-icon"><img class="img-fluid lazyload" src="/media/vt3nd3mn/document-icon.svg?rmode=pad&amp;width=19&amp;height=13&amp;v=1d768e8aaf91170" data-src="/media/vt3nd3mn/document-icon.svg" /></div>
+
+                                                            <div class="link-card-title"><h3> Fact sheets </h3></div>
+
+                                                        <div class="link-card-link">
+                                                                <span class="default-cta">Learn more</span>
+                                                        </div>
+                                                    </div>
+                                                </a>
+                                </div>
+                                <div class="col-12 col-sm-12 col-md-6 col-lg-4 link-card-inner-wrap">
+                                                <a href="/projects-innovation/energyconnect/community-newsletters/" target="_blank" title="open in new tab">
+                                                    <div class="link-card-item">
+                                                            <div class="link-card-icon"><img class="img-fluid lazyload" src="/media/vt3nd3mn/document-icon.svg?rmode=pad&amp;width=19&amp;height=13&amp;v=1d768e8aaf91170" data-src="/media/vt3nd3mn/document-icon.svg" /></div>
+
+                                                            <div class="link-card-title"><h3> Community newsletters </h3></div>
+
+                                                        <div class="link-card-link">
+                                                                <span class="default-cta">Learn more</span>
+                                                        </div>
+                                                    </div>
+                                                </a>
+                                </div>
+                                <div class="col-12 col-sm-12 col-md-6 col-lg-4 link-card-inner-wrap">
+                                                <a href="/projects-innovation/energyconnect/landowner-and-community-engagement/" target="_blank" title="open in new tab">
+                                                    <div class="link-card-item">
+                                                            <div class="link-card-icon"><img class="img-fluid lazyload" src="/media/vt3nd3mn/document-icon.svg?rmode=pad&amp;width=19&amp;height=13&amp;v=1d768e8aaf91170" data-src="/media/vt3nd3mn/document-icon.svg" /></div>
+
+                                                            <div class="link-card-title"><h3> Landowner and community engagement </h3></div>
+
+                                                        <div class="link-card-link">
+                                                                <span class="default-cta">Learn more</span>
+                                                        </div>
+                                                    </div>
+                                                </a>
+                                </div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </section>
+
+        </div>
+        <div
+            class="umb-block-grid__layout-item"
+            data-content-element-type-alias="customSectionLinks"
+            data-content-element-type-key="3f55c291-0e47-433c-8341-a1724011b803"
+            data-element-udi="umb://element/e50ef965e86a4881a39d300e441dcd30"
+            data-col-span="12"
+            data-row-span="1"
+            style=" --umb-block-grid--item-column-span: 12; --umb-block-grid--item-row-span: 1; ">
+    <section id="Planning-and-approvals" class="link-card section-wrap">
+        <div class="inner-wrap ">
+            <div class="row">
+                <div class="col-sm-12 col-md-12 col-lg-12">
+                        <div class="intro-wrap">
+                            <div class="title-wrap">
+                                <h2>Planning and approvals</h2>
+                            </div>
+                        </div>
+                </div>
+            </div>
+            <div class="content-wrap">
+                <div class="row">
+                    <div class="col-12 col-sm-12 col-md-12 col-lg-12 link-card-wrapper">
+                        <div class="row">
+                                <div class="col-12 col-sm-12 col-md-6 col-lg-4 link-card-inner-wrap">
+                                            <a href="/projects-innovation/energyconnect/regulatory-and-environmental-approvals/" target="_blank" title="open in new tab">
+                                                <div class="link-card-item">
+                                                        <div class="link-card-icon"><img class="img-fluid lazyload" src="/media/aysmll3q/folder-icon.svg?rmode=pad&amp;width=19&amp;height=13&amp;v=1d768e8ac7c07f0" data-src="/media/aysmll3q/folder-icon.svg" /></div>
+
+                                                        <div class="link-card-title"><h3> Regulatory and environmental approvals </h3></div>
+
+                                                    <div class="link-card-link">
+                                                            <span class="default-cta">Learn more</span>
+                                                    </div>
+                                                </div>
+                                            </a>
+                                </div>
+                                <div class="col-12 col-sm-12 col-md-6 col-lg-4 link-card-inner-wrap">
+                                            <a href="/projects-innovation/energyconnect/environmental-impact-statements-and-supporting-documents/" target="_blank" title="open in new tab">
+                                                <div class="link-card-item">
+                                                        <div class="link-card-icon"><img class="img-fluid lazyload" src="/media/aysmll3q/folder-icon.svg?rmode=pad&amp;width=19&amp;height=13&amp;v=1d768e8ac7c07f0" data-src="/media/aysmll3q/folder-icon.svg" /></div>
+
+                                                        <div class="link-card-title"><h3> Environmental impact statements and supporting documents </h3></div>
+
+                                                    <div class="link-card-link">
+                                                            <span class="default-cta">Learn more</span>
+                                                    </div>
+                                                </div>
+                                            </a>
+                                </div>
+                                <div class="col-12 col-sm-12 col-md-6 col-lg-4 link-card-inner-wrap">
+                                            <a href="/projects-innovation/energyconnect/determinations-and-post-approval-documents/" target="_blank" title="open in new tab">
+                                                <div class="link-card-item">
+                                                        <div class="link-card-icon"><img class="img-fluid lazyload" src="/media/aysmll3q/folder-icon.svg?rmode=pad&amp;width=19&amp;height=13&amp;v=1d768e8ac7c07f0" data-src="/media/aysmll3q/folder-icon.svg" /></div>
+
+                                                        <div class="link-card-title"><h3> Determination and post-approval documents </h3></div>
+
+                                                    <div class="link-card-link">
+                                                            <span class="default-cta">Learn more</span>
+                                                    </div>
+                                                </div>
+                                            </a>
+                                </div>
+                        </div>
+                        </div>
+
+                </div>
+            </div>
+        </div>
+    </section>
+
+        </div>
+        <div
+            class="umb-block-grid__layout-item"
+            data-content-element-type-alias="sectionLinks"
+            data-content-element-type-key="380c5bfe-52f9-4c71-9307-16e887e0a5e2"
+            data-element-udi="umb://element/d357d7a7df934f768e795f5e467ae73a"
+            data-col-span="12"
+            data-row-span="1"
+            style=" --umb-block-grid--item-column-span: 12; --umb-block-grid--item-row-span: 1; ">
+    <section id="" class="link-card section-wrap">
+        <div class="inner-wrap ">
+            <div class="row">
+                <div class="col-sm-12 col-md-12 col-lg-12">
+                </div>
+            </div>
+            <div class="content-wrap">
+                <div class="row">
+                    <div class="col-12 col-sm-12 col-md-12 col-lg-12 link-card-wrapper">
+                        <div class="row">
+                                <div class="col-12 col-sm-12 col-md-6 col-lg-4 link-card-inner-wrap">
+                                                <a href="/projects-innovation/energyconnect/independent-environmental-audits-and-complaints-register/" target="_blank" title="open in new tab">
+                                                    <div class="link-card-item">
+                                                            <div class="link-card-icon"><img class="img-fluid lazyload" src="/media/aysmll3q/folder-icon.svg?rmode=pad&amp;width=19&amp;height=13&amp;v=1d768e8ac7c07f0" data-src="/media/aysmll3q/folder-icon.svg" /></div>
+
+                                                            <div class="link-card-title"><h3> Independent environmental audits and complaints register </h3></div>
+
+                                                        <div class="link-card-link">
+                                                                <span class="default-cta">Learn more</span>
+                                                        </div>
+                                                    </div>
+                                                </a>
+                                </div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </section>
+
+        </div>
+        <div
+            class="umb-block-grid__layout-item"
+            data-content-element-type-alias="richTextWithImage"
+            data-content-element-type-key="0ac3eb98-c786-4127-9096-317ebea29aa0"
+            data-element-udi="umb://element/c536b1bcf2244f24a5152d7599cac1b0"
+            data-col-span="12"
+            data-row-span="1"
+            style=" --umb-block-grid--item-column-span: 12; --umb-block-grid--item-row-span: 1; ">
+    <section class="richtext-sticky standardpage">
+        <div class="inner-wrap">
+            <div class="sticky-wrapper">
+                <div class="row">
+                    <div class="col-12 col-sm-12 col-md-12 col-lg-12 col-xl-12">
+                        <div id="Contact-us" class="richtext-content">
+
+                                <div class="title-wrap">
+                                    <h2>Contact us</h2>
+                                </div>
+                                <div class="rich-content">
+                                    <ul>
+<li>Toll-free phone number: 1800 49 06 66</li>
+<li>Email: <a href="mailto:pec@transgrid.com.au">pec@transgrid.com.au</a></li>
+</ul>
+<p class="link-wrap"><a rel="noopener" href="https://www.transgrid.com.au/project-forms/energyconnect-updates" target="_blank">Subscribe for updates</a></p>
+                                </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+        </div>
+        <div
+            class="umb-block-grid__layout-item"
+            data-content-element-type-alias="newsSectionAutomated"
+            data-content-element-type-key="5af2129a-08fc-4de8-8a61-bf84663b7c94"
+            data-element-udi="umb://element/6819ee3f500b4f0581f4f12ded2bd0e7"
+            data-col-span="12"
+            data-row-span="1"
+            style=" --umb-block-grid--item-column-span: 12; --umb-block-grid--item-row-span: 1; ">
+
+<section id="News" class="related-article section-wrap fullGrid">
+    <div class="container">
+        <div class="row">
+            <div class="inner-wrap border-top">
+                <div class="intro-wrap">
+                    <div class="row">
+                        <div class="col-sm-12 col-md-12 col-lg-12 col-xl-12">
+                                <div class="title-wrap">
+                                    <h2>News</h2>
+                                </div>
+                            <div class="related-link-right">
+                                <a class="default-cta" href="/media-publications/news-articles/?tag=EnergyConnect">
+                                    See all news articles
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="content-wrap content-wrap-listing">
+                    <div class="row">
+        <div class="col-sm-12 col-md-6 col-lg-4">
+            <div class="article-item">
+                <div class="animate-scale-card-listing">
+                        <span class="article-item_tag">EnergyConnect</span>
+
+                        <div class="artical-item-img">
+                            <a href="/media-publications/news-articles/energyconnect-injects-billions-in-social-value-into-communities/" class="animate-scale-card">
+                                <img class="article-item_img img-fluid lazyload" src="/media/m3zbr1hp/transgrid-and-elecnor-australia-personnel-celebrate-the-energyconnect-final-tower-milestone-min.jpg?width=2&amp;height=2&amp;v=1dd3603a07a8a10" data-src="/media/m3zbr1hp/transgrid-and-elecnor-australia-personnel-celebrate-the-energyconnect-final-tower-milestone-min.jpg?width=412&amp;height=283&amp;v=1dd3603a07a8a10" alt="" width="412" height="283" />
+                                <span class="article-overlay"></span>
+                            </a>
+                        </div>
+                </div>
+
+                    <p class="article-item_date">26 August 2026</p>
+
+
+                <h4 class="article-item_title"><a href="/media-publications/news-articles/energyconnect-injects-billions-in-social-value-into-communities/">EnergyConnect injects billions in social value into communities</a></h4>
+                    <div class="article-text-description">
+                        <p>A multi-billion-dollar legacy of jobs, investment and economic growth is being created for regional communities as Australia’s largest transmission project delivers benefits beyond the electricity network and consumer bills.</p>
+                    </div>
+            </div>
+        </div>
+        <div class="col-sm-12 col-md-6 col-lg-4">
+            <div class="article-item">
+                <div class="animate-scale-card-listing">
+                        <span class="article-item_tag">EnergyConnect</span>
+
+                        <div class="artical-item-img">
+                            <a href="/media-publications/news-articles/thousands-of-indigenous-artefacts-repatriated-to-country-for-energyconnect/" class="animate-scale-card">
+                                <img class="article-item_img img-fluid lazyload" src="/media/f5rpnmil/transgrid_cultural-repatriation_mattbeaver_dsc05101_final.jpg?width=2&amp;height=2&amp;v=1dd2ef56135e490" data-src="/media/f5rpnmil/transgrid_cultural-repatriation_mattbeaver_dsc05101_final.jpg?width=412&amp;height=283&amp;v=1dd2ef56135e490" alt="" width="412" height="283" />
+                                <span class="article-overlay"></span>
+                            </a>
+                        </div>
+                </div>
+
+                    <p class="article-item_date">17 August 2026</p>
+
+
+                <h4 class="article-item_title"><a href="/media-publications/news-articles/thousands-of-indigenous-artefacts-repatriated-to-country-for-energyconnect/">Thousands of Indigenous artefacts repatriated to Country for EnergyConnect</a></h4>
+                    <div class="article-text-description">
+                        <p>More than 5,000 Aboriginal artefacts recovered before construction of EnergyConnect&#39;s eastern section have been returned to Wiradjuri Country, with the discoveries providing valuable insights into Aboriginal occupation and cultural practices across the Riverina over thousands of years.</p>
+                    </div>
+            </div>
+        </div>
+        <div class="col-sm-12 col-md-6 col-lg-4">
+            <div class="article-item">
+                <div class="animate-scale-card-listing">
+                        <span class="article-item_tag">EnergyConnect</span>
+
+                        <div class="artical-item-img">
+                            <a href="/media-publications/news-articles/historic-moment-shines-bright-a-century-on-as-iconic-bridge-dazzles/" class="animate-scale-card">
+                                <img class="article-item_img img-fluid lazyload" src="/media/smhmckhd/a-local-family-enjoys-the-light-show-on-the-wollundry-lagoon-bridge.jpg?width=2&amp;height=2&amp;v=1dd13866736c150" data-src="/media/smhmckhd/a-local-family-enjoys-the-light-show-on-the-wollundry-lagoon-bridge.jpg?width=412&amp;height=283&amp;v=1dd13866736c150" alt="" width="412" height="283" />
+                                <span class="article-overlay"></span>
+                            </a>
+                        </div>
+                </div>
+
+                    <p class="article-item_date">10 July 2026</p>
+
+
+                <h4 class="article-item_title"><a href="/media-publications/news-articles/historic-moment-shines-bright-a-century-on-as-iconic-bridge-dazzles/">Historic moment shines bright a century on as iconic bridge dazzles</a></h4>
+                    <div class="article-text-description">
+                        <p>Wagga Wagga’s iconic Wollundry Lagoon Bridge will be immersed in a spectacular light show to celebrate completion of Australia’s largest transmission project, honouring a historic moment when electricity was first switched on in the city more than 100 years ago. </p>
+                    </div>
+            </div>
+        </div>
+                    </div>
+                </div>
+
+                <div class="related-link-mobile">
+                    <div class="link">
+                        <a class="default-cta" href="/media-publications/news-articles/?tag=EnergyConnect">
+                            See all news articles
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>         </div>
+        <div
+            class="umb-block-grid__layout-item"
+            data-content-element-type-alias="embedVideoModule"
+            data-content-element-type-key="cd95d166-e158-4556-962e-5fcdbfda61f2"
+            data-element-udi="umb://element/dcab21b36e0e4f569592a6e69453ca9c"
+            data-col-span="12"
+            data-row-span="1"
+            style=" --umb-block-grid--item-column-span: 12; --umb-block-grid--item-row-span: 1; ">
+
+    <section class="embed-module">
+
+        <div class="embed-module--media left">
+                <div class="embed-module--overlay" id="dcab21b3-6e0e-4f56-9592-a6e69453ca9c">
+                    <img class="" src="/media/4smdhhkk/enspec-arborist-and-ecologist-craig-hallam-and-elecnor-australia-envionmental-manager-catherine-curlewis-on-the-energyconnect-alignment.jpg?width=600&amp;height=337&amp;v=1db3a9260122640" data-src="/media/4smdhhkk/enspec-arborist-and-ecologist-craig-hallam-and-elecnor-australia-envionmental-manager-catherine-curlewis-on-the-energyconnect-alignment.jpg?width=600&amp;height=337&amp;v=1db3a9260122640" alt="" width="600" height="337" />
+                    <span class="play-btn">
+                    </span>
+                </div>
+            <div class="embed-module--video" hidden id="videodcab21b3-6e0e-4f56-9592-a6e69453ca9c">
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/x5tYhEMeTiA" title="EnergyConnect awarded Infrastructure Sustainability Council Design Rating (LONG)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>            </div>
+        </div>
+        <div class="embed-module--description right">
+                <h2>Leader in Sustainability </h2>
+EnergyConnect becomes a leader in sustainability achieving a Leading Infrastructure Sustainability Council Design rating                <div class="clear"></div>
+                    <a href="https://www.youtube.com/watch?v=x5tYhEMeTiA" target="target=&quot;_blank&quot;" class="btn btn-primary cta">Watch here</a>
+
+        </div>
+    </section>
+
+        </div>
+</div>
+
+</div>
+
+</div>
+
+
+
+        </div>
+        <!-- footer -->
+            <footer class="footer-content fullGrid">
+        <!--Scroll to top-->
+        <button id="backtotop-button" class="scrollup"><i class="arrow-up-icon"></i>Back to Top</button>
+
+        <div class="container">
+            <div class="row d-flex justify-content-between">
+                <div class="col-12 col-sm-12 col-md-12 col-lg-6">
+                    <div class="row">
+
+                        <div class="col-6 col-sm-6 col-md-6 col-lg-4">
+                            <div class="col-12 col-sm-12 col-md-12 col-lg-12">
+                                        <div class="row">
+            <div class="col-12 col-sm-12 col-md-12 col-lg-12">
+                <ul class="footer-list">
+                                <li>
+                                    <a class='footer-link ' href="/terms-and-conditions/"  >
+                                        Terms and Conditions
+                                    </a>
+                                </li>
+                                <li>
+                                    <a class='footer-link footer-external-link' href="/media/pgjnxsii/external-web-privacy-policy.pdf"  >
+                                        Privacy Policy
+                                    </a>
+                                </li>
+                                <li>
+                                    <a class='footer-link ' href="/disclaimer/"  >
+                                        Disclaimer
+                                    </a>
+                                </li>
+                                <li>
+                                    <a class='footer-link ' href="/about-us/transgrid-group/" target="_blank" title="open in new tab">
+                                        Transgrid Group
+                                    </a>
+                                </li>
+                                <li>
+                                    <a class='footer-link ' href="/careers/" target="_blank" title="open in new tab">
+                                        Careers
+                                    </a>
+                                </li>
+                </ul>
+            </div>
+        </div>
+
+                            </div>
+                        </div>
+
+                        <div class="col-6 col-sm-6 col-md-6 col-lg-8">
+                            <div class="row">
+                                <div class="col-12 col-sm-12 col-md-12 col-lg-6">
+                                    <div class="contact-us-wrp">
+                                            <h5>Contact us</h5>
+            <p>Head Office  <a href="tel:&#x2B;61 2 9284 3000">&#x2B;61 2 9284 3000</a></p>
+            <p>Media Enquiries  <a href="tel:&#x2B;61 429 047 136">&#x2B;61 429 047 136</a></p>
+            <p>Emergencies (general) <a href="tel:1800 027 253">1800 027 253</a></p>
+            <p>Community enquiries (24 hours) <a href="tel:1800 222 537">1800 222 537</a></p>
+            <p>Interpreter services <a href="tel:131 450">131 450</a></p>
+
+
+                                    </div>
+                                </div>
+
+                                <div class="col-12 col-sm-12 col-md-12 col-lg-6">
+                                    <div class="follow-us-wrp">
+                                            <h5>Follow us</h5>
+    <ul class="social-network">
+                        <li>
+                            <a href="https://au.linkedin.com/company/transgrid" target="_blank" title="open in new tab">
+                                <i class="icoLinkedin footer-link" title="Linkedin"></i>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://www.facebook.com/TransGrid/" target="_blank" title="open in new tab">
+                                <i class="icoFacebook footer-link" title="Facebook"></i>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://www.instagram.com/transgrid_energy/"  >
+                                <i class="icoInstagram footer-link" title="Instagram"></i>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://www.youtube.com/@transgrid_energy" target="_blank" title="open in new tab">
+                                <i class="icoYoutube footer-link" title="Youtube"></i>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://twitter.com/Transgrid_AU?lang=en" target="_blank" title="open in new tab">
+                                <i class="icoTwitter footer-link" title="Twitter"></i>
+                            </a>
+                        </li>
+    </ul>
+
+
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="footer-acknowledgement">
+                    <section class="acknowledgement-wrp">
+        <div class="container">
+            <div class="row">
+                <div class="acknowledgement-inner">
+                    <div class="ack-icon ack-tis-icon">
+                        <img class="img-fluid lazyload" src="/assets/images/global/footer/tis-interpreter-icon.png" data-src="/assets/images/global/footer/tis-interpreter-icon.png" alt="Translating and Interpreting Service" />
+                    </div>
+                    <div class="ack-text ack-tis-text">
+                        <p>If you would like help reading anything on this website, please call Translating and Interpreting Service (TIS) on <a href="tel:131450">131 450</a>.</p>
+                    </div>
+                        <div class="ack-icon ack-flags">
+                                <img class="img-fluid lazyload" src="/media/3frbry4q/australian_aboriginal_flag.svg?rmode=pad&amp;width=2&amp;height=2&amp;v=1d9cadc65c5fbb0" data-src="/media/3frbry4q/australian_aboriginal_flag.svg?rmode=pad&amp;v=1d9cadc65c5fbb0" alt="" />
+                                <img class="img-fluid lazyload" src="/media/spxku3wo/torres_strait_islanders_flag.jpeg?width=2&amp;height=2&amp;v=1db3a90f50c0970" data-src="/media/spxku3wo/torres_strait_islanders_flag.jpeg?width=78&amp;height=47&amp;v=1db3a90f50c0970" alt="" />
+                        </div>
+                    <div class="ack-text">
+                            <p>Transgrid acknowledges the long-standing connection to Country shared by the Traditional Custodians of the lands, skies, and waterways we live and work on. We honour this connection with respect for the Elders who came before us, those with us today, and those who will shape the future.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+            </div>
+
+                <div class="footer-logo">
+                    <a href="/">
+                        <img class="logo-normal lazyload" data-src="/media/fdyfeaff/footerppp.png" src="/media/fdyfeaff/footerppp.png?width=5&amp;height=3&amp;v=1db3a90f6887040" alt="">
+                    </a>
+                </div>
+    </footer>
+
+    </div>
+    <!-- Core JavaScript -->
+    <script integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous" src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+    <script src="/App_Plugins/UmbracoForms/Assets/promise-polyfill/dist/polyfill.min.js?v=13.9.8" type="application/javascript"></script><script src="/App_Plugins/UmbracoForms/Assets/aspnet-client-validation/dist/aspnet-validation.min.js?v=13.9.8" type="application/javascript"></script>
+    <!-- theme JavaScript -->
+    <script src="/assets/build/0.0.0.0/scripts/theme.min.js?h=6a62b7b6ec931d0983cd5a967ec600529987621f"></script>
+
+
+    <!--Body-Script-->
+    <script type="text/javascript">
+_linkedin_partner_id = "2376364";
+window._linkedin_data_partner_ids = window._linkedin_data_partner_ids || [];
+window._linkedin_data_partner_ids.push(_linkedin_partner_id);
+</script><script type="text/javascript">
+(function(l) {
+if (!l){window.lintrk = function(a,b){window.lintrk.q.push([a,b])};
+window.lintrk.q=[]}
+var s = document.getElementsByTagName("script")[0];
+var b = document.createElement("script");
+b.type = "text/javascript";b.async = true;
+b.src = "https://snap.licdn.com/li.lms-analytics/insight.min.js";
+s.parentNode.insertBefore(b, s);})(window.lintrk);
+</script>
+<noscript>
+<img height="1" width="1" style="display:none;" alt="" src="https://px.ads.linkedin.com/collect/?pid=2376364&fmt=gif" />
+</noscript>
+
+
+    <!--Body-Script-->
+</body>
+
+</html>
