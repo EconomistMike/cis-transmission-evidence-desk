@@ -14,6 +14,17 @@
   'western-renewables-link': {cost:[],capacity:['WRL-AO-2026-CAPACITY-1460','WRL-AO-2026-ADDL-NETWORK-695','WRL-AO-2026-AUSNET-CAPABILITY'],completion:['WRL-AO-2026-COMPLETION-NOV2029'],caveat:'Standalone WRL cost is not established. The $315m modification increment is not a substitute. Proponent carrying capability and planner capacity measures differ.'}
  };
  const number = v => typeof v==='number' ? v.toLocaleString('en-AU',{maximumFractionDigits:4}) : String(v);
+ const packsBySlug=Object.fromEntries(D.packs.map(p=>[p.family_slug,p]));
+ function latestChart() {
+  if(!window.LatestChart)throw new Error('Latest chart projection is unavailable');
+  const rows=LatestChart.rows.map(row=>{
+   const pack=packsBySlug[row.family];if(!pack)throw new Error('Unknown latest chart family: '+row.family);
+   const obs=Object.fromEntries(pack.observations.map(o=>[o.id,o]));
+   const links=row.refs.map(id=>{const o=obs[id];if(!o)throw new Error('Unknown latest chart observation: '+id);return `<span data-observation-ref="${esc(id)}" title="${esc(id)}">${sourceLink(o.source_id,o.pages)}</span>`;}).join('');
+   return `<tr data-project="${esc(pack.name)}" data-latest-chart-row="${esc(row.scope)}" data-search="${esc(row.scope+' '+row.cells.join(' '))}"><th scope="row">${esc(row.scope)}</th>${row.cells.map(value=>`<td>${esc(value)}</td>`).join('')}<td>${links}</td></tr>`;
+  }).join('');
+  return `<div class="sheet-title latest-chart-title"><h2>Full source-backed chart</h2><span class="pill">Scopes kept separate</span></div><p class="latest-chart-note">Workbook column order, rebuilt from our evidence. “Not established” is not zero; alternative-route counts are not source-defined. Cost/km is omitted because the available figures are not comparable line-construction rates.</p><div class="table-wrap latest-chart-wrap" role="region" aria-label="Full source-backed latest evidence chart, scroll for more columns" tabindex="0"><table class="latest-full-chart"><thead><tr>${LatestChart.columns.map((c,i)=>`<th scope="col">${esc(c)}</th>`).join('')}</tr></thead><tbody>${rows}</tbody></table></div>`;
+ }
  function observation(o) {
   if (!o) throw new Error('Latest evidence selection has no observation');
   const absent = o.value == null;
@@ -32,6 +43,8 @@
  const section=document.createElement('section');section.id='latest';section.className='mode';
  section.innerHTML=`<header class="page-head"><div><div class="kicker">Source-defined figures</div><h1>Latest recorded evidence</h1><p>Evidence through 4 September 2026. Dates, stages and price bases are not interchangeable.</p></div></header>
  <p class="latest-intro">Source figures, not workbook scores. Related scopes are separate; do not add them. Missing information is not zero.</p>
+ ${latestChart()}
+ <div class="sheet-title latest-detail-title"><h2>Detailed evidence</h2><span class="pill">Source observations</span></div>
  <div class="table-wrap latest-wrap" role="region" aria-label="Latest recorded evidence, scroll for more columns" tabindex="0"><table class="latest-table"><colgroup><col style="width:160px"><col style="width:380px"><col style="width:270px"><col style="width:270px"></colgroup><thead><tr><th>Project</th><th>Cost evidence</th><th>Capacity measures</th><th>Delivery milestones</th></tr></thead><tbody>${D.packs.map(p=>{
   const config=selections[p.family_slug],obs=Object.fromEntries(p.observations.map(o=>[o.id,o]));
   return `<tr data-project="${esc(p.name)}" data-search="${esc(JSON.stringify(p.summary))}"><td><h2>${esc(p.policy_chart.original_row.project)}</h2><details><summary>Project scope</summary><p>${esc(p.summary.identity)}</p><p>${esc(p.summary.delivery_status)}</p></details></td>${['cost','capacity','completion'].map(k=>`<td><h3 class="mobile-cell-label">${{cost:'Cost evidence',capacity:'Capacity measures',completion:'Delivery milestones'}[k]}</h3>${k==='cost'?`<p class="latest-caveat">${esc(config.caveat)}</p>`:''}${config[k].map(id=>observation(obs[id])).join('')||'<p class="missing-evidence">Not established in this snapshot.</p>'}</td>`).join('')}</tr>`;

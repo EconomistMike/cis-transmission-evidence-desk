@@ -4,6 +4,7 @@
 .perspective-toggle button:focus-visible,.latest-detail summary:focus-visible{outline:3px solid #0756a3;outline-offset:3px}
 .mode-nav button[hidden]{display:none!important}
 #latest .latest-intro{font-size:14px;color:#494949;max-width:75ch;margin:0 0 20px}
+.latest-chart-title{margin-top:24px}.latest-chart-note{max-width:92ch;color:#494949;margin:0 0 12px}.latest-chart-wrap{max-height:72vh;margin-bottom:32px}.latest-full-chart{min-width:2380px;table-layout:fixed}.latest-full-chart th,.latest-full-chart td{font-size:12px;line-height:1.45;padding:11px 12px;vertical-align:top}.latest-full-chart thead th{width:170px}.latest-full-chart thead th:first-child{width:220px}.latest-full-chart tbody th{position:sticky;left:0;z-index:1;background:#faf8f3;border-bottom:1px solid #c8c3b9;text-align:left;font-size:13px}.latest-full-chart .inline-source{display:block;margin:0 0 5px}.latest-detail-title{margin-top:0}
 .latest-wrap{max-width:100%;overflow:auto;max-height:75vh;border:1px solid #c8c3b9}
 .latest-table{min-width:1080px;table-layout:fixed;width:100%;border-collapse:collapse}
 .latest-table th{position:sticky;top:0;background:#e9e5dc;z-index:2;text-align:left;font-size:12px;letter-spacing:.06em;text-transform:uppercase}

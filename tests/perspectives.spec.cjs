@@ -5,7 +5,10 @@ test('bare URL defaults to recorded evidence, without workbook scores', async ({
   await page.goto('/');
   await expect(page.locator('#latest')).toHaveClass('mode active');
   await expect(page.locator('[data-perspective="evidence"]')).toHaveAttribute('aria-pressed','true');
-  await expect(page.locator('#latest tbody tr')).toHaveCount(10);
+  await expect(page.locator('#latest .latest-full-chart tbody tr')).toHaveCount(21);
+  await expect(page.locator('#latest .latest-table tbody tr')).toHaveCount(10);
+  await expect(page.locator('#latest .latest-full-chart')).not.toContainText('Cost / route km');
+  await expect(page.locator('#latest .latest-full-chart')).toContainText('Not defined — no source-defined count');
   await expect(page.locator('#latest [data-card],#latest .signal')).toHaveCount(0);
   await expect(page.locator('#latest')).toContainText('4 September 2026');
   await expect(page.locator('#latest')).toContainText('not a state allocation');
@@ -27,8 +30,9 @@ test('perspective switch preserves filters and original comparison', async ({ pa
   await page.reload();
   await expect(page.locator('[data-perspective="comparison"]')).toHaveAttribute('aria-pressed','true');
   await page.locator('[data-perspective="evidence"]').click();
-  await expect(page.locator('#latest tbody tr:visible')).toHaveCount(1);
-  await expect(page.locator('#latest tbody tr:visible')).toContainText('4,892 AUD million');
+  await expect(page.locator('#latest .latest-full-chart tbody tr:visible')).toHaveCount(2);
+  await expect(page.locator('#latest .latest-table tbody tr:visible')).toHaveCount(1);
+  await expect(page.locator('#latest .latest-table tbody tr:visible')).toContainText('4,892 AUD million');
   await page.locator('#search').fill('unmatchable search value');
   await expect(page.locator('#latest .empty')).toBeVisible();
 });

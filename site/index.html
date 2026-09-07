@@ -92,4 +92,4 @@ bindSourceActions();bindRecordDetails();
 const params=new URL(location).searchParams,initialProject=params.get('project'),initialView=params.get('view');
 if(initialProject&&D.packs.some(p=>p.name===initialProject))document.getElementById('project-filter').value=initialProject;
 if(['dashboard','chart','policy','workbook','desk'].includes(initialView))activateMode(initialView);else applySearch();
-</script><script src="compact-view.js"></script><script src="downloads.js"></script><script src="latest-evidence.js"></script></body></html>
+</script><script src="compact-view.js"></script><script src="downloads.js"></script><script src="latest-chart.js"></script><script src="latest-evidence.js"></script></body></html>
