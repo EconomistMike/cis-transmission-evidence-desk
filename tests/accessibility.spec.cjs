@@ -270,6 +270,7 @@ test('CSS-rendered hidden attribute controls remain keyboard targets', async ({ 
 for (const width of [1440, 390]) {
   for (const [view, sheet] of [['latest-chart'], ['latest'], ['dashboard'], ['chart'], ['policy'], ['workbook', 'estimates'], ['workbook', 'scope'], ['workbook', 'timeline'], ['workbook', 'sources'], ['desk']]) {
     test(`public view ${view}/${sheet || ''} retains structural accessibility at ${width}px`, async ({ page }) => {
+      test.setTimeout(120000);
       await page.setViewportSize({ width, height: 1000 });
       await page.goto('/?view=' + view);
       await expect(page.locator('#' + view)).toHaveClass('mode active');

@@ -69,3 +69,8 @@ focus-within; forced states are cleared before candidate checks. Each candidate
 starts from that restored focus, in keyboard modality. File selections and
 arbitrary JavaScript application state are not reconstructed. These operations
 remain confined to the disposable context.
+
+The twenty actual-view checks each have a 120-second test budget. A loaded-host
+integration exceeded the prior 30-second default in the policy view. The guard,
+fixtures and assertions are unchanged; the link sweep retains its separate
+180-second aggregate and 10-second per-request limits.
