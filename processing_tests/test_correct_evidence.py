@@ -46,6 +46,7 @@ class CorrectionMechanicsTests(unittest.TestCase):
                             warnings=[dict(severity='info', code='FIXTURE', finding='Qualified warning', implication='Fixture qualification', source_ids='S1', pinpoints='1')])
         self.pack = dict(projects=[self.project], sources=[dict(source_id='S1', manifest_included=True)],
                          generated=dict(research_cutoff='2026-09-04'), agent_instructions=[])
+        self.initial_pack = copy.deepcopy(self.pack)
         self.wb = openpyxl.Workbook()
         self.wb.active.title = 'Policy Paper Chart'
         for name in ['Chart Review', 'Projects', 'Observations', 'Components', 'Timeline', 'Warnings', 'Sources']:
@@ -164,6 +165,9 @@ class CorrectionMechanicsTests(unittest.TestCase):
         self.assertIsNone(self.wb['Observations']['R5'].value)
 
     def valid_synthetic_export(self):
+        self.pack = copy.deepcopy(self.initial_pack)
+        self.project = self.pack['projects'][0]
+        self.finding = self.project['policy_chart']['findings'][0]
         fields = ['cost_aud_billion', 'network_capacity_gw', 'trunk_km',
                   'millions_per_trunk_km', 'circuits', 'lines', 'syncons_mva',
                   'hubs', 'transformers', 'feeder_lines_km', 'date', 'alt_routes']
@@ -213,6 +217,13 @@ class CorrectionMechanicsTests(unittest.TestCase):
             correction.validate(self.pack, self.wb)
         self.assertIn('PASS: 120', output.getvalue())
 
+    def test_rebuilding_synthetic_export_restores_valid_metadata(self):
+        self.valid_synthetic_export()
+        self.pack['generated'].update(research_cutoff='2026-10-22', path_base='../')
+        self.valid_synthetic_export()
+        with contextlib.redirect_stdout(io.StringIO()):
+            correction.validate(self.pack, self.wb)
+
     def test_complete_validation_rejects_drift_in_each_replica_and_contract(self):
         for label, damage in [
             ('research cutoff', lambda: self.pack['generated'].update(research_cutoff='2026-10-22')),
@@ -228,17 +239,23 @@ class CorrectionMechanicsTests(unittest.TestCase):
         ]:
             with self.subTest(label=label):
                 self.valid_synthetic_export()
+                with contextlib.redirect_stdout(io.StringIO()):
+                    correction.validate(self.pack, self.wb)
                 damage()
                 with self.assertRaises(AssertionError), contextlib.redirect_stdout(io.StringIO()):
                     correction.validate(self.pack, self.wb)
         self.valid_synthetic_export()
+        with contextlib.redirect_stdout(io.StringIO()):
+            correction.validate(self.pack, self.wb)
         path = self.site / 'families' / 'fixture-0.json'
         data = json.loads(path.read_text())
         data['observations'][0]['value'] = 123
         path.write_text(json.dumps(data), encoding='utf-8')
         with self.assertRaises(AssertionError):
             correction.validate(self.pack, self.wb)
-        self.write_families()
+        self.valid_synthetic_export()
+        with contextlib.redirect_stdout(io.StringIO()):
+            correction.validate(self.pack, self.wb)
         path.with_suffix('.md').write_text('Unreconciled Markdown', encoding='utf-8')
         with self.assertRaises(AssertionError):
             correction.validate(self.pack, self.wb)

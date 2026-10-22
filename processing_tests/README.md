@@ -2,7 +2,10 @@
 
 Run `nice -n 10 npm test` for the complete existing repository suite. The added
 Playwright wrappers run the Python fixture tests using the existing openpyxl
-requirement. A focused run is:
+requirement. Every Python discovery wrapper requires a successful process, empty
+stdout and a nonzero unittest count on stderr, including on Python 3.11.
+Synthetic wrapper controls exercise zero-test success, a valid test and a
+failing test. A focused run is:
 
 ```sh
 PYTHONDONTWRITEBYTECODE=1 nice -n 10 python3 -m unittest discover -s processing_tests -v
@@ -69,3 +72,7 @@ historical corrector leaves its completed snapshot unchanged, including JSON
 types; the file bytes must remain untouched. This exercises project-specific
 branches without hard-coding a project figure as the expected answer. It does
 not establish that the archived narrative is correct.
+
+Each negative correction-validation case rebuilds and validates a complete
+clean synthetic export before applying its own damage. Rebuilding also restores
+the original metadata, so earlier cut-off/path damage cannot mask later guards.
