@@ -61,3 +61,11 @@ it is not a security sandbox for hostile Python or native extensions. The
 launcher cannot establish source meaning or repair the production writer's
 late-failure behaviour. The added npm test gate requires consistency of the
 actual package as well as passing synthetic fixtures.
+
+One additional case reads the actual already-corrected JSON snapshot and applies
+`correct` twice to an in-memory object, with all writer paths still redirected
+to the test's temporary tree. Canonical JSON comparison checks that this
+historical corrector leaves its completed snapshot unchanged, including JSON
+types; the file bytes must remain untouched. This exercises project-specific
+branches without hard-coding a project figure as the expected answer. It does
+not establish that the archived narrative is correct.

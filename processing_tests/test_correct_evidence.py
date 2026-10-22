@@ -1,4 +1,4 @@
-"""Check correction mechanics with synthetic records and real disposable workbooks."""
+"""Check correction mechanics with disposable fixtures and read-only inputs."""
 import contextlib
 import copy
 import io
@@ -82,6 +82,16 @@ class CorrectionMechanicsTests(unittest.TestCase):
         correction.correct(self.pack)
         self.assertEqual(self.pack, before)
         self.assertEqual(len(self.pack['agent_instructions']), 1)
+
+    def test_actual_corrected_snapshot_is_unchanged_in_memory(self):
+        path = SOURCE.parents[1] / 'site' / 'evidence-pack.json'
+        original = path.read_bytes()
+        pack = json.loads(original)
+        expected = json.dumps(pack, sort_keys=True, ensure_ascii=False, allow_nan=False)
+        for _ in range(2):
+            correction.correct(pack)
+            self.assertEqual(json.dumps(pack, sort_keys=True, ensure_ascii=False, allow_nan=False), expected)
+        self.assertEqual(path.read_bytes(), original)
 
     def test_protected_guard_detects_each_immutable_input_change(self):
         baseline = correction.protected(self.pack, self.wb)
