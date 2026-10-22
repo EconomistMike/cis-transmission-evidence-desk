@@ -41,9 +41,9 @@ class CorrectionMechanicsTests(unittest.TestCase):
                             observations=[dict(id='O1', project_id='P1', measure='length', value=0,
                                                unit='km', excerpt='Raw | excerpt\nretained',
                                                source_id='S1', pages='1', notes='Original notes')],
-                            components=[dict(id='C1', category='Synthetic', boundary='Component boundary')],
-                            timeline=[dict(date='2026', event='Fixture event', source_id='S1')],
-                            warnings=[dict(code='FIXTURE', finding='Qualified warning', source_ids='S1')])
+                            components=[dict(id='C1', stage='Fixture stage', category='Synthetic', description='Fixture component', boundary='Component boundary', source_id='S1', pages='1')],
+                            timeline=[dict(date='2026', event='Fixture event', status='Fixture status', detail='Fixture detail', source_id='S1', pages='1')],
+                            warnings=[dict(severity='info', code='FIXTURE', finding='Qualified warning', implication='Fixture qualification', source_ids='S1', pinpoints='1')])
         self.pack = dict(projects=[self.project], sources=[dict(source_id='S1', manifest_included=True)],
                          generated=dict(research_cutoff='2026-09-04'), agent_instructions=[])
         self.wb = openpyxl.Workbook()
@@ -123,6 +123,8 @@ class CorrectionMechanicsTests(unittest.TestCase):
         self.wb['Sources']['B5'] = 'A long synthetic research sentence to replace in replicas.'
         self.wb['Policy Paper Chart']['B5'] = self.wb['Sources']['B5'].value
         self.wb['Chart Review']['K5'] = self.wb['Sources']['B5'].value
+        self.wb['Chart Review']['A6'] = 'Unmatched original audit row'
+        self.wb['Chart Review']['D6'] = self.wb['Sources']['B5'].value
         before = {(cell.coordinate, cell.value, cell.data_type, str(cell._style))
                   for row in self.wb['Policy Paper Chart'] for cell in row if cell.column <= 14}
         correction.correct(self.pack)
@@ -137,6 +139,7 @@ class CorrectionMechanicsTests(unittest.TestCase):
         self.assertEqual(self.wb['Chart Review']['D5'].data_type, 's')
         self.assertEqual(self.wb['Chart Review']['F5'].value, self.finding['supported_value'])
         self.assertEqual(self.wb['Chart Review']['K5'].value, 'Qualified replica text')
+        self.assertEqual(self.wb['Chart Review']['D6'].value, 'A long synthetic research sentence to replace in replicas.')
         self.assertEqual(self.wb['Sources']['B5'].value, 'Qualified replica text')
         self.assertEqual(self.wb['Observations']['G5'].value, 0)
         self.assertEqual(self.wb['Observations']['Q5'].value, 'Raw | excerpt\nretained')
@@ -191,7 +194,7 @@ class CorrectionMechanicsTests(unittest.TestCase):
     def write_families(self):
         for project in self.pack['projects']:
             path = self.site / 'families' / (project['family_slug'] + '.json')
-            path.write_text(json.dumps({**project, 'sources': self.pack['sources']}), encoding='utf-8')
+            path.write_text(json.dumps({**project, 'sources': self.pack['sources'], 'build': {'research_cutoff': self.pack['generated']['research_cutoff'], 'family_slug': project['family_slug'], 'project_id': project['project_id']}}), encoding='utf-8')
             path.with_suffix('.md').write_text(correction.markdown(project), encoding='utf-8')
 
     def test_complete_synthetic_validation_accepts_coherent_exports(self):
@@ -244,6 +247,32 @@ class CorrectionMechanicsTests(unittest.TestCase):
         (self.site / 'sources' / 'fixture.txt').write_bytes(b'Changed archived bytes')
         with patch.object(correction, 'LOG', log), patch.object(sys, 'argv', ['correct-evidence.py', '--check']), contextlib.redirect_stdout(io.StringIO()), self.assertRaises(AssertionError):
             correction.main()
+
+    def test_write_entry_point_changes_only_disposable_exports_and_records_its_delta(self):
+        self.valid_synthetic_export()
+        self.pack['generated']['path_base'] = 'historical-fixture/'
+        (self.site / 'evidence-pack.json').write_text(json.dumps(self.pack), encoding='utf-8')
+        self.wb.save(self.site / 'evidence-workbook.xlsx')
+        workbook = openpyxl.load_workbook(self.site / 'evidence-workbook.xlsx')
+        before = correction.protected(self.pack, workbook)
+        source_bytes = (self.site / 'sources' / 'fixture.txt').read_bytes()
+        log = self.site / 'new-fixture-log.json'
+        with patch.object(correction, 'LOG', log), patch.object(sys, 'argv', ['correct-evidence.py']), contextlib.redirect_stdout(io.StringIO()):
+            correction.main()
+        actual = json.loads((self.site / 'evidence-pack.json').read_text())
+        actual_workbook = openpyxl.load_workbook(self.site / 'evidence-workbook.xlsx')
+        self.assertEqual(actual['generated']['path_base'], './')
+        self.assertEqual(actual['generated']['research_cutoff'], '2026-09-04')
+        self.assertEqual(correction.protected(actual, actual_workbook), before)
+        self.assertEqual((self.site / 'sources' / 'fixture.txt').read_bytes(), source_bytes)
+        delta = json.loads(log.read_text())
+        self.assertEqual(delta['protected_before'], before)
+        self.assertEqual(delta['protected_after'], before)
+        self.assertIn(dict(path='/generated/path_base', before='historical-fixture/', after='./'), delta['changes'])
+        self.assertEqual(delta['family_by_json_path']['/projects/0'], 'fixture-0')
+        self.assertEqual(delta['record_ids_by_json_path']['/projects/0/observations/0'], 'O0')
+        with contextlib.redirect_stdout(io.StringIO()):
+            correction.validate(actual, actual_workbook)
 
     def test_change_log_retains_nested_paths_and_before_after_values(self):
         changes = list(correction.changes({'records': [dict(value=0)]}, {'records': [dict(value=2)]}))

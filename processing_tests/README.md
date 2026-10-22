@@ -35,8 +35,9 @@ replacements, workbook replicas, selected markers, literal original formulas and
 Markdown escaping. A complete synthetic ten-family/120-finding export exercises
 `validate` and the read-only `--check` entry point; deliberate replica, cut-off,
 formula and archive changes must fail. No real project figure is used as a test
-oracle, no live source or published file is written, and the write-mode correction
-entry point is not executed.
+oracle, no live source or published file is written. One write-mode entry-point case uses
+only the same temporary synthetic package, verifies its protected inputs and
+checks the resulting change log. It never targets the repository site tree.
 
 These cases establish mechanics, not the meaning of the historical correction
 constants or every project-specific rewrite branch. Bounded mutation checks
@@ -44,3 +45,19 @@ expose the remaining branch gaps; survivors are not a coverage score. Production
 asserts remain bypassable under optimisation, and Python equality still has
 boolean/numeric and false-value limitations. Tests run with normal optimisation;
 those production limitations require separate changes.
+
+An unmatched original audit row is also retained during narrative replacements.
+The write-mode test exercises successful disposable output generation; it does
+not establish atomic replacement or rollback on a late validation failure.
+
+The full suite also runs the actual archived package through
+`PYTHONOPTIMIZE=0 nice -n 10 python3 -B tools/check-corrections.py`. This new
+check launcher fixes the legacy argument to `--check`, refuses optimised Python
+and installs an audit hook before invoking the unchanged validator. The hook
+rejects filesystem writes and mutations, child processes and socket connections;
+disposable stand-in validators exercise those failures before any actual-package
+run. It prevents accidental external effects through the checked Python APIs;
+it is not a security sandbox for hostile Python or native extensions. The
+launcher cannot establish source meaning or repair the production writer's
+late-failure behaviour. The added npm test gate requires consistency of the
+actual package as well as passing synthetic fixtures.
