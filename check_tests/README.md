@@ -64,3 +64,34 @@ false as numeric zero in the legacy validator. It does not change that validator
 or certify citation meaning, Markdown, workbook or rendered HTML equality. The
 source report remains responsible for the combined citation/selection graph;
 export agreement does not establish that two matching claims are correct.
+
+The presentation check closes a separate stale-output gap: editing the combined
+JSON and family exports can leave older data embedded in the HTML. The existing
+build contract says `index.html` is an identical copy of `evidence-desk.html`.
+A new Playwright case checks both successful HTTP responses and their exact
+bytes, then uses Chromium's DOM to obtain the unique `script#evidence` JSON data
+block. It parses the fetched UTF-8 bytes with a script-blocking Content Security
+Policy while retaining the browser's enabled scripting flag. Unneeded image and
+frame requests are blocked too. Page scripts cannot rewrite the comparison
+payload, and noscript fallback markup remains inactive. This response policy
+does not provide general network isolation or certify arbitrary navigation.
+Browser parsing owns HTML semantics; no parallel HTML parser is added. Dedicated
+browser fixtures reject script rewrites, missing/duplicate markers, wrong element
+or MIME types and inert template markers, while retaining valid MIME spacing.
+
+`presentation_exports.py` reads that payload from standard input and compares
+complete projects (including the renderer's derived name), source records,
+build-report data and all available generated metadata with the combined pack.
+It reuses the family check's strict JSON/decimal comparison. Source order and
+extra presentation-only metadata remain legitimate; project/record array order
+is retained. Disposable cases reject stale fields, boolean/number drift,
+malformed data, truthful invalid-input counts, the CLI's default input location,
+missing inputs and escaping symlinks. Both the fixtures and the
+actual HTML/JSON agreement run through the existing `npm test` command.
+
+This check does not certify JavaScript renderer behaviour, workbook supplementary
+columns, styles, formulas, source meaning or freshness. It does not change the
+embedding script or replace the source/selection graph and family schema checks.
+Legitimate changes to the embedding layout or identical-entry-point contract
+need explicit review of this safeguard. Contributors can still change or bypass
+the local checks; successful agreement is not publication approval.
