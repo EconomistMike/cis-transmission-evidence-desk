@@ -1,0 +1,473 @@
+{
+  "schema": 1,
+  "baseline_commit": "38aab87c79bf4686e59b52c943b61ea8d3641122",
+  "observed_on": "2026-10-22",
+  "limits": "Observed derivative byte identity, not source meaning or historical private extraction identity.",
+  "sources": [
+    {
+      "source_id": "ATE15-EC-FUND-1",
+      "path": "sources/vni-west-nsw/text/energyco-funding-1.txt",
+      "sha256": "634c4adc76f5b8da3e3306540883440655406bc3767825b03be8c510b673d651"
+    },
+    {
+      "source_id": "CWO-01",
+      "path": "sources/central-west-orana/cwo-01-aemo-2020-isp-appendix-3.txt",
+      "sha256": "b4f1bf5868a84ddd62ad6a9d6ea7e2882f4c0e1e605c734472c00fe3f8381e9d"
+    },
+    {
+      "source_id": "CWO-02",
+      "path": "sources/central-west-orana/cwo-02-nsw-gazette-2021-569-declaration.txt",
+      "sha256": "eb219d2c20faea38a4513fd840956c0be876845f4bbb0e2bf0d268442dbd6531"
+    },
+    {
+      "source_id": "CWO-04",
+      "path": "sources/central-west-orana/cwo-04-energyco-2023-network-infrastructure-strategy.txt",
+      "sha256": "35429c73b79ed327359159e5a921f8d259ff39522aabad6ecb798d98e065413e"
+    },
+    {
+      "source_id": "CWO-05",
+      "path": "sources/central-west-orana/cwo-05-energyco-2023-network-infrastructure-strategy-appendix-b.txt",
+      "sha256": "99dad387f398dbaf48ff0bbd88224b5ca0b12d48586d7192060a8ef171d87eef"
+    },
+    {
+      "source_id": "CWO-06",
+      "path": "sources/central-west-orana/cwo-06-nsw-gazette-2023-580-capacity-amendment.txt",
+      "sha256": "b24718c39152f9a3134ec043a4c986bef8850f9cc2f99aada7e0e85b8b1029d2"
+    },
+    {
+      "source_id": "CWO-07",
+      "path": "sources/central-west-orana/cwo-07-nsw-gazette-2024-116-access-scheme-amendment.txt",
+      "sha256": "2d8bb153b669ee34768297e8c6df47aecf3cd91dffb1a062f6a3984ef2aa3216"
+    },
+    {
+      "source_id": "CWO-08",
+      "path": "sources/central-west-orana/cwo-08-nsw-gazette-2024-137-network-specification.txt",
+      "sha256": "0f93abc450b453998a69c82a98a801b0077310260c1075cf5499b9fd054eb37c"
+    },
+    {
+      "source_id": "CWO-09",
+      "path": "sources/central-west-orana/cwo-09-energyco-2024-infrastructure-planner-recommendation.txt",
+      "sha256": "a289871bb52803c1b1be3eca00edf1ae178097a4e166d4d8a25b3afaebf25fa2"
+    },
+    {
+      "source_id": "CWO-10",
+      "path": "sources/central-west-orana/cwo-10-asl-2024-main-authorisation.txt",
+      "sha256": "eced494162b6883d6ee65d65b17d693da886e884108dd93d95fdc472b659bf76"
+    },
+    {
+      "source_id": "CWO-11",
+      "path": "sources/central-west-orana/cwo-11-asl-2024-enabling-authorisation.txt",
+      "sha256": "107ef8c56f2b0e65a693b8cda90dbdccedf3aa01310844ce8c1ba87e3bc67395"
+    },
+    {
+      "source_id": "CWO-12",
+      "path": "sources/central-west-orana/cwo-12-aer-2024-initial-main-revenue-determination.txt",
+      "sha256": "4537203809a5f17db836165f6f7f6afd5499fb057291fdc3c8102da5fa556356"
+    },
+    {
+      "source_id": "CWO-13",
+      "path": "sources/central-west-orana/cwo-13-asl-2025-access-fee-statement-of-reasons.txt",
+      "sha256": "59a1a3ea2a6437fb7f414f907c8bde929425d6acd74ddede6cd369dfeb98f6c3"
+    },
+    {
+      "source_id": "CWO-14",
+      "path": "sources/central-west-orana/cwo-14-asl-2025-access-fee-liverpool-range-stage-1.txt",
+      "sha256": "402c900bd5e66802dbf7673f58d2593ebadbb2ef1ad65af0699405ce24a78a57"
+    },
+    {
+      "source_id": "CWO-15",
+      "path": "sources/central-west-orana/cwo-15-asl-2025-access-fee-liverpool-range-stage-2.txt",
+      "sha256": "35d7f7362d171f4c851e597295ae052d8f5721d02133737d9132f35de5b3617e"
+    },
+    {
+      "source_id": "CWO-16",
+      "path": "sources/central-west-orana/cwo-16-energyco-2025-transfer-capacity-determination.txt",
+      "sha256": "6bb4e90d1fc3122de7f9d0916eebb0352be3ba20680bf4669e1c0d633d20dd23"
+    },
+    {
+      "source_id": "CWO-17",
+      "path": "sources/central-west-orana/cwo-17-energyco-2025-final-headroom-decision.txt",
+      "sha256": "918203d1f0f486f096994465995765d6670d6a6b114dca6ab112df4f0dc30cbc"
+    },
+    {
+      "source_id": "CWO-18",
+      "path": "sources/central-west-orana/cwo-18-aer-2025-remade-main-revenue-determination.txt",
+      "sha256": "db40a597553a0a2ae4d8a3606ba1aa3ebdbbffaae8a9edc6c2448c71b5afb5ca"
+    },
+    {
+      "source_id": "CWO-19",
+      "path": "sources/central-west-orana/cwo-19-asl-2025-barigan-transfer-letter.txt",
+      "sha256": "8861381e3c5199c2e65083826d8317b6b5d5a1103871dc0704135c35c30a5a66"
+    },
+    {
+      "source_id": "CWO-20",
+      "path": "sources/central-west-orana/cwo-20-nsw-gazette-2025-11-480-bannaby.txt",
+      "sha256": "bde13404f3e92745ea2757928829e1bef3b4a781135d84a5ac6f1934dc4c6219"
+    },
+    {
+      "source_id": "CWO-21",
+      "path": "sources/central-west-orana/cwo-21-aer-2026-enabling-final-decision.txt",
+      "sha256": "f06c0a4c9bd2498c98347ffc717b845a88c37bcead9d9d714681d110375289c7"
+    },
+    {
+      "source_id": "CWO-22",
+      "path": "sources/central-west-orana/cwo-22-aemo-2026-isp-appendix-a5.txt",
+      "sha256": "cfd1470b2d4c04730149bc0697369fc8299a0332cff9fefe7b47c2416832ce86"
+    },
+    {
+      "source_id": "CWO-23",
+      "path": "sources/central-west-orana/cwo-23-asl-2024-statement-of-reasons-main.txt",
+      "sha256": "b229af65cea327eebbd66073835e3810a78b76dded8048a518bcad811513c71f"
+    },
+    {
+      "source_id": "CWO-24",
+      "path": "sources/central-west-orana/cwo-24-transgrid-2025-system-strength-pacr.txt",
+      "sha256": "8f03ec881fb4b29572f78995757d47e7d2d86dffd8013dc5e642706592a19d43"
+    },
+    {
+      "source_id": "CWO-25",
+      "path": "sources/central-west-orana/cwo-25-nsw-gazette-2022-591-access-scheme-order.txt",
+      "sha256": "d23fc36f69121bb17a88ab297ff008a8cd2c2577c81f61083d23261e59d5bcc9"
+    },
+    {
+      "source_id": "CWO-26",
+      "path": "sources/central-west-orana/cwo-26.txt",
+      "sha256": "eb333e5ff0bb36b8bac69896f851c181e0b0cac2d13a8c1fbb1ee30adb10a8fd"
+    },
+    {
+      "source_id": "CWO-27",
+      "path": "sources/central-west-orana/cwo-27.txt",
+      "sha256": "7751fabdc9002f131aeb6c3d0312ec09c9e1fc50d9ae2495d9c9591d49e71b6c"
+    },
+    {
+      "source_id": "HTP-AER-2025-FINALDECISION",
+      "path": "sources/hunter-transmission-project/htp-aer-2025-finaldecision.txt",
+      "sha256": "3aa14b5d59c56c29f22fd223e5a7bac3f6901d9c7d00e313d480577c37bb0bfe"
+    },
+    {
+      "source_id": "HTP-ENERGYCO-2026-INFRA-PAGE",
+      "path": "sources/hunter-transmission-project/htp-energyco-2026-transmission-infrastructure-page.txt",
+      "sha256": "f4aa3c0edc43f4e0f7e55e42da956bf59de2ce2e9769d88152c2ea1a3679a53f"
+    },
+    {
+      "source_id": "HTP-ENERGYCO-2026-PROJECT-PAGE",
+      "path": "sources/hunter-transmission-project/htp-energyco-2026-project-page.txt",
+      "sha256": "d67a3adebabb55055824846d04cf7170fc5d84aa73f0a67b80fec54af9e76313"
+    },
+    {
+      "source_id": "HTP-NSWGOV-2022-GAZETTE-569",
+      "path": "sources/hunter-transmission-project/htp-nswgov-2022-gazette-569.txt",
+      "sha256": "2993f4f5303c669dc8602763ca60dfd1d73ddcd6f99fcf7abff9e8d9d3c8a087"
+    },
+    {
+      "source_id": "HUM-AEMO-2018-ISP",
+      "path": "sources/humelink/text/AEMO-2018-ISP.txt",
+      "sha256": "c98495f2020c3a286ec1abf402e6280745d2dd2d3e15c2fb4715cad4a0e76b56"
+    },
+    {
+      "source_id": "HUM-AEMO-2018-ISP-APP",
+      "path": "sources/humelink/text/AEMO-2018-ISP-appendices.txt",
+      "sha256": "dc88e9b5fc50d618f3b06afcf18ace1ebfd2c7be62fba195f5686622f36548cc"
+    },
+    {
+      "source_id": "HUM-AEMO-2020-ISP",
+      "path": "sources/humelink/text/AEMO-2020-ISP.txt",
+      "sha256": "ce4de458f82d0dc2dc4ee475a4f4c3ec2620dd83bfa6891584407d69804fc58a"
+    },
+    {
+      "source_id": "HUM-AEMO-2020-ISP-A3",
+      "path": "sources/humelink/text/AEMO-2020-ISP-Appendix-3.txt",
+      "sha256": "08df59a3dfc1a93f4ba3abf127fa009d728bfca2c744d301a1778e59cf3adce5"
+    },
+    {
+      "source_id": "HUM-AEMO-2022-FL1",
+      "path": "sources/humelink/text/AEMO-2022-HumeLink-early-works-feedback-loop.txt",
+      "sha256": "3587ba241ce252c904a8e5a1337552152afb2d1ce747867d80d9584b84fe7af9"
+    },
+    {
+      "source_id": "HUM-AEMO-2022-ISP",
+      "path": "sources/humelink/text/AEMO-2022-ISP.txt",
+      "sha256": "88fec75cbf0e30a3b8c3d89bf1179243be15ca03ed4a36bd4fbf82fbd0c5444b"
+    },
+    {
+      "source_id": "HUM-AEMO-2023-FL2",
+      "path": "sources/humelink/text/AEMO-2023-HumeLink-expanded-early-works-feedback-loop.txt",
+      "sha256": "8824afa65f0dd139b902ca1ca0e8e0e3b8f38d68678d7b116d3d3121b106fb8b"
+    },
+    {
+      "source_id": "HUM-AEMO-2023-FL3",
+      "path": "sources/humelink/text/AEMO-2023-HumeLink-full-project-feedback-loop.txt",
+      "sha256": "5913f43777fced7f314aea13e02b1a9235d4591dbbb5e5550c8d954a36152660"
+    },
+    {
+      "source_id": "HUM-AEMO-2024-FL4",
+      "path": "sources/humelink/text/AEMO-2024-HumeLink-feedback-loop-notice.txt",
+      "sha256": "752cc879e5f30f214b25ea4380fc0da1fd8f784971792dc491dfe04508782380"
+    },
+    {
+      "source_id": "HUM-AEMO-2024-ISP-A5",
+      "path": "sources/humelink/text/AEMO-2024-ISP-Appendix-5.txt",
+      "sha256": "83cb7b3761453eec2a343e46b78f80833302226e32db9a2e67450fb414fc61d2"
+    },
+    {
+      "source_id": "HUM-AEMO-2026-ISP-A5",
+      "path": "sources/humelink/text/AEMO-2026-ISP-Appendix-5.txt",
+      "sha256": "003bd2bddf1773208fc5e2568923819d097a7fff65ca53084bc7006780d79568"
+    },
+    {
+      "source_id": "HUM-AER-2021-DISPUTE-DETERMINATION",
+      "path": "sources/humelink/text/AER-2021-HumeLink-RITT-dispute-determination.txt",
+      "sha256": "fea58f08b9356d0ae90cf5dbb809fcff250271afb9f6aeeff4be8488d890355c"
+    },
+    {
+      "source_id": "HUM-AER-2022-CPA1P1",
+      "path": "sources/humelink/text/AER-2022-HumeLink-Stage1-Part1-determination.txt",
+      "sha256": "b80f9778d26055ca77f6cb845c32598fd8a96f42fd658d2da7cd532a046cb87d"
+    },
+    {
+      "source_id": "HUM-AER-2023-CPA1P2",
+      "path": "sources/humelink/text/AER-2023-HumeLink-Stage1-Part2-determination.txt",
+      "sha256": "4af8b1ca7d5d4708cd643994dced2b91b7b90933ce8eeeae916f7b629f8f7df6"
+    },
+    {
+      "source_id": "HUM-AER-2024-CPA2",
+      "path": "sources/humelink/text/AER-2024-HumeLink-Stage2-determination.txt",
+      "sha256": "36f34aec40cbdda32a2576ed7f23799de1f2239e36f99fc554f77b17afee298f"
+    },
+    {
+      "source_id": "HUM-NSW-2024-ASSESSMENT",
+      "path": "sources/humelink/text/NSW-2024-HumeLink-planning-assessment-report.txt",
+      "sha256": "4d3fb9ce9a7ef5456eeafa7f114a9f9e9d48767c5c3753f9ac74678fc7abcfa5"
+    },
+    {
+      "source_id": "HUM-NSW-2024-DECISION",
+      "path": "sources/humelink/text/NSW-2024-HumeLink-planning-notice-of-determination.txt",
+      "sha256": "55ccce2201c8264037333fc23d4129b35618583dcc60aad394bc99de1440dc18"
+    },
+    {
+      "source_id": "HUM-TG-2019-PSCR",
+      "path": "sources/humelink/text/Transgrid-2019-HumeLink-PSCR.txt",
+      "sha256": "22fa71f6d5fab411bd5cd719727921baf6dabec25663b5ed3c5cfb76fc1d722e"
+    },
+    {
+      "source_id": "HUM-TG-2020-PADR",
+      "path": "sources/humelink/text/Transgrid-2020-HumeLink-PADR-amended.txt",
+      "sha256": "9684bfbab3a2caf3185415c2a882756a2b6526b4d008737cb8167abbfe0a70e6"
+    },
+    {
+      "source_id": "HUM-TG-2021-NEWS-SEP",
+      "path": "sources/humelink/text/Transgrid-2021-HumeLink-newsletter-September.txt",
+      "sha256": "bcd3ecbc4364f26ea881bed53c80279c7c019ed9848dee54fbf86edef4e0eb40"
+    },
+    {
+      "source_id": "HUM-TG-2021-PACR",
+      "path": "sources/humelink/text/Transgrid-2021-HumeLink-PACR.txt",
+      "sha256": "665a920dde7be7d0b6cc9dd4fe641773a9bc4e60c3be53844611b92306d88e4f"
+    },
+    {
+      "source_id": "HUM-TG-2021-PACR-ADD",
+      "path": "sources/humelink/text/Transgrid-2021-HumeLink-PACR-addendum.txt",
+      "sha256": "973ff6ab874ed01b6831dfb586e409f5a992c101247ef69920a501d38c6339c2"
+    },
+    {
+      "source_id": "HUM-TG-2021-RFI1",
+      "path": "sources/humelink/text/Transgrid-2021-HumeLink-AER-RFI-response-1.txt",
+      "sha256": "2524aa853fda51d979e5d3550cdcac77a1eb14e991f2198a3dcbfe74dbe927d4"
+    },
+    {
+      "source_id": "HUM-TG-2022-CPA1-SCOPE",
+      "path": "sources/humelink/text/Transgrid-2022-HumeLink-CPA1-scope-definition.txt",
+      "sha256": "299405597b26b6310b7389387e3993cb57f88ab712a65bc0064563721a7a70e6"
+    },
+    {
+      "source_id": "HUM-TG-2024-CPA2",
+      "path": "sources/humelink/text/Transgrid-2024-HumeLink-CPA2-principal-application.txt",
+      "sha256": "4586fbf594b771c79bf6cb232ae8bd814acc82b1aae06a1804aa31a3a0d39512"
+    },
+    {
+      "source_id": "HUM-TG-2024-MCCA",
+      "path": "sources/humelink/text/Transgrid-2024-HumeLink-MCC-assessment.txt",
+      "sha256": "4ab2215093e148825ecc314ddbac288c60762cdd4c4c255e4ab722d84340018f"
+    },
+    {
+      "source_id": "HUM-TG-2025-WEST-NEWS-OCT",
+      "path": "sources/humelink/hum-tg-2025-west-news-oct.txt",
+      "sha256": "2408b30beeff874445fbf3df090990a249bf20b7e39453cf57208d86bad202a3"
+    },
+    {
+      "source_id": "HUM-WUN-2021-DISPUTE",
+      "path": "sources/humelink/text/Wunelli-2021-HumeLink-dispute-notice.txt",
+      "sha256": "dd58c1b86fd4265b87867ff6046b652ea815940293e82b88fe766c0be26a0d8f"
+    },
+    {
+      "source_id": "ML-DCCEEW-2025-FID",
+      "path": "sources/marinus-link/ml-dcceew-2025-fid.txt",
+      "sha256": "ea5596c168dea5216f42b1e2d523ab2b1c01a3f1eac6298985ba8a6625dbb656"
+    },
+    {
+      "source_id": "ML-EY-2024-RITT",
+      "path": "sources/marinus-link/text/EY-2024-Marinus-Link-Gross-Benefits.txt",
+      "sha256": "dc566ac8c062164811e892586d357d54d2f736e2a03cc7ff6ede641e400d0985"
+    },
+    {
+      "source_id": "ML-EY-2025-ADD",
+      "path": "sources/marinus-link/text/EY-2025-Marinus-Link-Gross-Benefits-Addendum.txt",
+      "sha256": "e0d22a997be52a37ec745a5066d01dfbb83a63ec1f37141231a44285f190eeab"
+    },
+    {
+      "source_id": "ML-MLPL-2025-CONTRACT",
+      "path": "sources/marinus-link/ml-mlpl-2025-contract.txt",
+      "sha256": "16bcb5f74e076c65df85a67fa042c5bb24ba97a42c89a0ca7391b9a105814b42"
+    },
+    {
+      "source_id": "ML-TN-2021-PACR",
+      "path": "sources/marinus-link/text/TasNetworks-2021-Project-Marinus-PACR.txt",
+      "sha256": "e83749895303745755b23af28fe15415eb38040949bb14d6076aff3d777c8f1e"
+    },
+    {
+      "source_id": "ML-TN-2025-RITT",
+      "path": "sources/marinus-link/text/TasNetworks-2025-Marinus-Link-RIT-T-update-summary.txt",
+      "sha256": "8079097049866bf47d808384c186b92a50837c229b2cc06845736b8e22d70dd1"
+    },
+    {
+      "source_id": "NER-ENERGYCO-2025-BULKCORRIDOR",
+      "path": "sources/new-england-rez/ner-energyco-2025-bulkcorridor.txt",
+      "sha256": "19c57be66de60dfcf205d123f4e7a7f5eef63d84fded6ba73449b3f560f414c0"
+    },
+    {
+      "source_id": "NER-ENERGYCO-2025-CONSULTATION",
+      "path": "sources/new-england-rez/ner-energyco-2025-generation-storage-consultation.txt",
+      "sha256": "ac7c442bb3fe87340f4a97c973d88a8351c8e042975359e75da1b0ada343b0a5"
+    },
+    {
+      "source_id": "NER-ENERGYCO-2026-FEEDBACK",
+      "path": "sources/new-england-rez/ner-energyco-2026-feedback-report.txt",
+      "sha256": "18466af2e7a6ab264682a35b1162c9be9ded21813ee370168c38a0edd7bb5c86"
+    },
+    {
+      "source_id": "NER-NSWGOV-2021-GAZETTE-643",
+      "path": "sources/new-england-rez/ner-nswgov-2021-gazette-643.txt",
+      "sha256": "82b1d76a6c5d1e33086d9519db36a5f8e9d46d4511ac16530c29c02c000959fb"
+    },
+    {
+      "source_id": "PEC-AER-2020-ELECTRANET-APPLICATION",
+      "path": "sources/project-energyconnect/text/ElectraNet-2020-PEC-principal-application.txt",
+      "sha256": "112fee48bd1670f73d75259a444387978a903a449ad5cbe162bc5edf322dfa64"
+    },
+    {
+      "source_id": "PEC-AER-2020-TRANSGRID-APPLICATION",
+      "path": "sources/project-energyconnect/text/TransGrid-2020-PEC-principal-application.txt",
+      "sha256": "8b4d29d582469290738c56b10dda3701a72f7ef8a539aaa3f0b1d8734d578b83"
+    },
+    {
+      "source_id": "PEC-AER-2021-ELECTRANET-DECISION",
+      "path": "sources/project-energyconnect/text/AER-2021-ElectraNet-PEC-determination.txt",
+      "sha256": "7c683a73fbe66b47a26e80206b995b0750f4bf95bd47f847dd27a05dc0f2c445"
+    },
+    {
+      "source_id": "PEC-AER-2021-TRANSGRID-DECISION",
+      "path": "sources/project-energyconnect/text/AER-2021-TransGrid-PEC-determination.txt",
+      "sha256": "96826df1885bd95f14830b463b56bb111a6023d78458dfa500000bee76563088"
+    },
+    {
+      "source_id": "PEC-AER-2026-REOPEN",
+      "path": "sources/project-energyconnect/pec-aer-2026-reopen.txt",
+      "sha256": "802d852fe1aaac998a6486e075b5285635c9a3a108e6ea2c75a91bc9bffcbc0c"
+    },
+    {
+      "source_id": "PEC-JOINT-2026-PROJECT-PAGE",
+      "path": "sources/project-energyconnect/pec-joint-2026-project-page.txt",
+      "sha256": "4c2271dc300a8956e4983f0c803183bf9109b1877355d70429d1515650ea16d5"
+    },
+    {
+      "source_id": "PEC-TG-2026-ATTACHMENT2",
+      "path": "sources/project-energyconnect/pec-tg-2026-attachment2.txt",
+      "sha256": "7f03368187a184ec09d7fefa18e76cea69a95f834dbe606f1f7275dc559c43d7"
+    },
+    {
+      "source_id": "PEC-TG-2026-COMPLETION",
+      "path": "sources/project-energyconnect/pec-tg-2026-completion.txt",
+      "sha256": "39897ba6d99f6e5bf1715ecbb3a1cf9a0f3422237a62412034589c4d4a74e730"
+    },
+    {
+      "source_id": "PEC-TG-PROJECT-PAGE",
+      "path": "sources/project-energyconnect/text/Transgrid-PEC-project-page.html.txt",
+      "sha256": "a4b542b9dcd66fdd1c28091ddd0f6824172f3869b3ca71e50f22d99f5679c52d"
+    },
+    {
+      "source_id": "SRS-TG-2023-SOUTHERN-RING",
+      "path": "sources/sydney-ring-south/srs-transgrid-2023-southern-ring-isp-preparatory.txt",
+      "sha256": "979daeed3dc560875587848cc12c24e453b5a1233aa9703648ff3cfef2078994"
+    },
+    {
+      "source_id": "SRS-TG-2026-PADR",
+      "path": "sources/sydney-ring-south/srs-transgrid-2026-padr.txt",
+      "sha256": "1e87067e5fb12d70648d1aacb615d604f7addf74bbfc53c6886d079376253bba"
+    },
+    {
+      "source_id": "SRS-TG-2026-PROJECTPAGE",
+      "path": "sources/sydney-ring-south/srs-tg-2026-projectpage.txt",
+      "sha256": "06d93628feba69f548b38b41e9a85d0730a8e9bcc34455e2ead8248deed88f6e"
+    },
+    {
+      "source_id": "VNN-AER-2024-CPADETERMINATION",
+      "path": "sources/vni-west-nsw/vnn-aer-2024-cpadetermination.txt",
+      "sha256": "82d69f244d4b5c7626156ab7a5140599732691d68f7c51d63799863d242c26c9"
+    },
+    {
+      "source_id": "VNN-ENERGYCO-2026-SWREZ-TRANSMISSION",
+      "path": "sources/vni-west-nsw/vnn-energyco-2026-swrez-transmission.txt",
+      "sha256": "15854b66c917181f827dec667cf7942af67b6a535f6e50a0b271320934673b24"
+    },
+    {
+      "source_id": "VNN-TG-2026-PROJECTPAGE",
+      "path": "sources/vni-west-nsw/vnn-tg-2026-projectpage.txt",
+      "sha256": "0f1b9186d4120c3780a12790357b5a2e0ca3cae3e0277acb83f2468c73234b02"
+    },
+    {
+      "source_id": "VNV-TRANSGRID-2022-PADR",
+      "path": "sources/vni-west-victoria/vnv-transgrid-2022-padr.txt",
+      "sha256": "d42297b3db19e4175083b51b20a32b4ceb74b1664478f3bff38f99a8de336f6c"
+    },
+    {
+      "source_id": "VNV-TRANSGRID-2023-PACR",
+      "path": "sources/vni-west-victoria/vnv-transgrid-2023-pacr.txt",
+      "sha256": "c6976702ca148aced4aa532ce29c2a723eae761586ca682b1c66e6315ce613ef"
+    },
+    {
+      "source_id": "VNV-VIC-GAZETTE-2023-S060",
+      "path": "sources/vni-west-victoria/vnv-vic-gazette-2023-s060.txt",
+      "sha256": "14241406ad0e02ac006f4ea1274f74d7b303732d0799185d722bf72625f14962"
+    },
+    {
+      "source_id": "VNV-VIC-GAZETTE-2023-S267",
+      "path": "sources/vni-west-victoria/vnv-vic-gazette-2023-s267-vni-west-wrl-ministerial-order.txt",
+      "sha256": "f2e7c73718a07d39b4533e28a0a9b2c9cc61b3e418e2a0e223db5a1501a6589d"
+    },
+    {
+      "source_id": "VNV-VIC-GAZETTE-2024-S605",
+      "path": "sources/vni-west-victoria/vnv-vic-gazette-2024-s605.txt",
+      "sha256": "8a4dd4b6a14d89be34982e6113f7ae396e847050a5f53a1106e2194e9ff8c66a"
+    },
+    {
+      "source_id": "VNV-VIC-GAZETTE-2025-S590",
+      "path": "sources/vni-west-victoria/vnv-vic-gazette-2025-s590.txt",
+      "sha256": "7d88a039fdd581999fde847ede7a985586d414f0bec0b8ac38914cf84e772ba2"
+    },
+    {
+      "source_id": "VNV-VNIW-2026-OVERVIEW",
+      "path": "sources/vni-west-victoria/vnv-vniwproject-2026-project-overview.txt",
+      "sha256": "e91c0cfd9eb8bc95c734c1b8b36b15a896ccb00ffaf1ddb5859a452f166c7177"
+    },
+    {
+      "source_id": "WRL-AUSNET-2025-CONTRACTOR",
+      "path": "sources/western-renewables-link/wrl-ausnet-2025-contractor.txt",
+      "sha256": "a87d43ccbc8647d0fca43f61676ad3c70f57f5270e719c374f6d20bd9b9b6274"
+    },
+    {
+      "source_id": "WRL-AUSNET-PROJECT",
+      "path": "sources/western-renewables-link/text/ausnet-wrl-project.txt",
+      "sha256": "6057241efe9aa8380c939bb1fe596af1c13e0633935f051b7ac37f802d4d4286"
+    }
+  ]
+}

@@ -30,3 +30,18 @@ commit dates nor correction dates refresh publication dates or the research
 search. Undated and explicitly unavailable sources remain visible. The report
 does not certify capture age, current project status, source meaning, excerpts,
 PDF page numbers, export equality or publication approval.
+
+The same `npm test` command also runs the actual offline source report and checks
+all registered derivative paths/bytes against `check_tests/derivative-pins.json`.
+The pins record the text files inspected at public commit
+`38aab87c79bf4686e59b52c943b61ea8d3641122`; they do not establish historical private
+derivative identity or certify that extraction matches a PDF. This closes the
+separate risk of text changing while the original capture hash stays unchanged.
+
+A changed, added, removed or relocated derivative requires review of its source,
+extraction and affected citations before deliberately updating the versioned
+pins. Preserve the relevant capture/extractor identity and review evidence with
+that change; do not regenerate expected hashes merely to silence a failure.
+Contributors can change these local tests and pins, so this is a review safeguard,
+not independently controlled approval. No source file is modified by the check.
+Source age alone remains non-failing in the actual-package gate.
