@@ -1,14 +1,14 @@
-# Presentation synchronisation tests
+# Archived evidence processing tests
 
 Run `nice -n 10 npm test` for the complete existing repository suite. The added
-Playwright wrapper runs the Python fixture tests using the existing openpyxl
+Playwright wrappers run the Python fixture tests using the existing openpyxl
 requirement. A focused run is:
 
 ```sh
 PYTHONDONTWRITEBYTECODE=1 nice -n 10 python3 -m unittest discover -s processing_tests -v
 ```
 
-Each case copies the existing `tools/embed-evidence.py` into a disposable tree
+Presentation cases copy the existing `tools/embed-evidence.py` into a disposable tree
 with synthetic JSON, HTML and a small real workbook, including explicit zero,
 missing metadata and an uncached formula string. The published site is never
 the write target. Cases check record/metadata synchronisation, preserved input
@@ -26,3 +26,21 @@ The existing original-row guard uses Python equality, which treats numeric 1 and
 boolean true as equal. A synthetic probe confirmed that type change is accepted.
 It is a reported production limitation requiring a separate implementation fix;
 these tests neither certify that case nor assert the defective result as correct.
+
+Correction cases import the unchanged `tools/correct-evidence.py` definitions and
+redirect its source/export/log paths into temporary trees. Synthetic records and
+real workbooks exercise explicit zero qualification, repeatability, source-byte
+and original-row/finding/excerpt/chart-input guards, overlapping narrative
+replacements, workbook replicas, selected markers, literal original formulas and
+Markdown escaping. A complete synthetic ten-family/120-finding export exercises
+`validate` and the read-only `--check` entry point; deliberate replica, cut-off,
+formula and archive changes must fail. No real project figure is used as a test
+oracle, no live source or published file is written, and the write-mode correction
+entry point is not executed.
+
+These cases establish mechanics, not the meaning of the historical correction
+constants or every project-specific rewrite branch. Bounded mutation checks
+expose the remaining branch gaps; survivors are not a coverage score. Production
+asserts remain bypassable under optimisation, and Python equality still has
+boolean/numeric and false-value limitations. Tests run with normal optimisation;
+those production limitations require separate changes.
