@@ -24,3 +24,17 @@ test('registered derivative bytes retain their reviewed snapshot identity', () =
   });
   expect(result).toBe('');
 });
+
+test('family JSON exports preserve combined content and JSON types', () => {
+  test.setTimeout(60000);
+  const fixtures = execFileSync('python3', ['-m', 'unittest', 'discover', '-s', 'check_tests', '-p', 'test_family_exports.py', '-v'], {
+    cwd: process.cwd(), encoding: 'utf8', env: { ...process.env, PYTHONDONTWRITEBYTECODE: '1' }, timeout: 20000,
+  });
+  expect(fixtures).toBe('');
+  const output = execFileSync('python3', ['tools/family_exports.py'], {
+    cwd: process.cwd(), encoding: 'utf8', env: { ...process.env, PYTHONDONTWRITEBYTECODE: '1' }, timeout: 20000,
+  });
+  const report = JSON.parse(output);
+  expect(report.errors).toEqual([]);
+  expect(report.families_checked).toBeGreaterThan(0);
+});

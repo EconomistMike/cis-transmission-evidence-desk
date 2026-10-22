@@ -4,6 +4,7 @@ From the repository root, with Python 3.11 or later and the repository’s exist
 
 ```sh
 nice -n 10 python3 tools/source_report.py --as-of 2026-10-22 --review-interval-days 365
+nice -n 10 python3 tools/family_exports.py
 nice -n 10 python3 -m unittest discover -s check_tests -v
 ```
 
@@ -45,3 +46,21 @@ that change; do not regenerate expected hashes merely to silence a failure.
 Contributors can change these local tests and pins, so this is a review safeguard,
 not independently controlled approval. No source file is modified by the check.
 Source age alone remains non-failing in the actual-package gate.
+
+The separate `family_exports.py` check compares each family's six substantive
+fields, family/project identities, declared/exported source register and available
+contract/research/correction metadata
+with the combined JSON. Booleans differ from numbers, including nested fields;
+numeric representations such as 1 and 1.0 agree. Decimal parsing preserves the
+recorded numeric precision. Duplicate JSON keys and non-finite constants fail.
+Source register order and object key order do not alter content identity.
+Mismatch diagnostics identify the first differing field with an escaped JSON
+pointer following the export filename.
+
+Disposable cases exercise matching exports, missing/malformed records, changed
+types, source sets, dates and unsafe paths. The normal test command also checks
+the actual family JSON files. This guard addresses Python equality treating
+false as numeric zero in the legacy validator. It does not change that validator
+or certify citation meaning, Markdown, workbook or rendered HTML equality. The
+source report remains responsible for the combined citation/selection graph;
+export agreement does not establish that two matching claims are correct.
