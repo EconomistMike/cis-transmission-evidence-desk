@@ -102,3 +102,5 @@ versions; a successful process alone is insufficient. Synthetic result controls
 and disposable empty/passing/failing directories exercise this requirement. The
 helper preserves the existing fixture time budgets. It is local to this PR so
 that the source checks and separate processing PR remain independently runnable.
+
+The presentation fixtures also reject matching empty project arrays: matching copies must still satisfy the nonempty-package contract. This case detects a logical-operator mutation found in a separate holdout sample.

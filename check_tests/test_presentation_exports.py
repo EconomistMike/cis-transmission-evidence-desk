@@ -119,6 +119,14 @@ class PresentationExportTests(unittest.TestCase):
 
     def test_malformed_combined_projects_and_names_fail(self):
         original = copy.deepcopy(self.pack)
+        self.pack['projects'] = []
+        original_packs = self.embedded['packs']
+        self.embedded['packs'] = []
+        error = self.run_check()['errors'][0]
+        self.assertEqual(error['code'], 'PRESENTATION_SCHEMA')
+        self.assertEqual(error['path'], '/projects')
+        self.embedded['packs'] = original_packs
+        self.pack = copy.deepcopy(original)
         for projects in ([], {}, [None], [{'family_slug': 'alpha', 'summary': {}}],
                          [{'family_slug': 'alpha', 'summary': {'name': ' '}}]):
             with self.subTest(projects=projects):
