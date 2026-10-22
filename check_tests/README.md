@@ -95,3 +95,10 @@ embedding script or replace the source/selection graph and family schema checks.
 Legitimate changes to the embedding layout or identical-entry-point contract
 need explicit review of this safeguard. Contributors can still change or bypass
 the local checks; successful agreement is not publication approval.
+
+All four Python fixture-discovery calls require process success, empty stdout and
+a positive unittest count. Empty discovery can exit zero on supported Python
+versions; a successful process alone is insufficient. Synthetic result controls
+and disposable empty/passing/failing directories exercise this requirement. The
+helper preserves the existing fixture time budgets. It is local to this PR so
+that the source checks and separate processing PR remain independently runnable.

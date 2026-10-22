@@ -1,12 +1,13 @@
 const { test, expect } = require('@playwright/test');
 const { execFileSync, spawnSync } = require('node:child_process');
 const { embeddedPayload } = require('./helpers/embedded-payload.cjs');
+const { assertNonemptySuccess, runPythonTests } = require('./helpers/python-unittest.cjs');
+const { mkdtempSync, mkdirSync, writeFileSync, rmSync } = require('node:fs');
+const { tmpdir } = require('node:os');
+const { join } = require('node:path');
 
 test('source-age and provenance checker rejects synthetic contract violations', () => {
-  const result = execFileSync('python3', ['-m', 'unittest', 'discover', '-s', 'check_tests', '-p', 'test_source_report.py', '-v'], {
-    cwd: process.cwd(), encoding: 'utf8', env: { ...process.env, PYTHONDONTWRITEBYTECODE: '1' }, timeout: 20000,
-  });
-  expect(result).toBe('');
+  runPythonTests('test_source_report.py');
 });
 
 test('the actual offline evidence package passes structural and original-hash checks', () => {
@@ -20,18 +21,12 @@ test('the actual offline evidence package passes structural and original-hash ch
 });
 
 test('registered derivative bytes retain their reviewed snapshot identity', () => {
-  const result = execFileSync('python3', ['-m', 'unittest', 'discover', '-s', 'check_tests', '-p', 'test_derivative_integrity.py', '-v'], {
-    cwd: process.cwd(), encoding: 'utf8', env: { ...process.env, PYTHONDONTWRITEBYTECODE: '1' }, timeout: 20000,
-  });
-  expect(result).toBe('');
+  runPythonTests('test_derivative_integrity.py');
 });
 
 test('family JSON exports preserve combined content and JSON types', () => {
   test.setTimeout(60000);
-  const fixtures = execFileSync('python3', ['-m', 'unittest', 'discover', '-s', 'check_tests', '-p', 'test_family_exports.py', '-v'], {
-    cwd: process.cwd(), encoding: 'utf8', env: { ...process.env, PYTHONDONTWRITEBYTECODE: '1' }, timeout: 20000,
-  });
-  expect(fixtures).toBe('');
+  runPythonTests('test_family_exports.py');
   const output = execFileSync('python3', ['tools/family_exports.py'], {
     cwd: process.cwd(), encoding: 'utf8', env: { ...process.env, PYTHONDONTWRITEBYTECODE: '1' }, timeout: 20000,
   });
@@ -42,10 +37,7 @@ test('family JSON exports preserve combined content and JSON types', () => {
 
 test('embedded records preserve combined content and identical entry points', async ({ page, request }) => {
   test.setTimeout(180000);
-  const fixtures = execFileSync('python3', ['-m', 'unittest', 'discover', '-s', 'check_tests', '-p', 'test_presentation_exports.py', '-v'], {
-    cwd: process.cwd(), encoding: 'utf8', env: { ...process.env, PYTHONDONTWRITEBYTECODE: '1' }, timeout: 60000,
-  });
-  expect(fixtures).toBe('');
+  runPythonTests('test_presentation_exports.py', { timeout: 60000 });
   const canonical = await request.get('/evidence-desk.html');
   const entry = await request.get('/index.html');
   expect(canonical.ok()).toBe(true);
@@ -100,5 +92,29 @@ test('embedded payload extraction preserves static data and rejects invalid mark
         '<!doctype html><html><head><title>Fixture</title></head><body>' + markup + '</body></html>'))
         .rejects.toThrow(/EVIDENCE_SCRIPT/);
     });
+  }
+});
+
+test('source Python unittest success requires at least one discovered test on every Python version', () => {
+  const empty = { status: 0, signal: null, stdout: '', stderr: '\nRan 0 tests in 0.000s\n\nOK\n' };
+  expect(() => assertNonemptySuccess(empty)).toThrow(/nonempty Python unittest suite/);
+  assertNonemptySuccess({ ...empty, stderr: '\nRan 1 test in 0.001s\n\nOK\n' });
+  assertNonemptySuccess({ ...empty, stderr: '\nRan 13 tests in 0.001s\n\nOK\n' });
+  expect(() => assertNonemptySuccess({ ...empty, status: 1, stderr: 'Ran 1 test\nFAILED' })).toThrow();
+});
+
+test('source Python discovery wrapper rejects an empty directory and runs a valid fixture', () => {
+  const root = mkdtempSync(join(tmpdir(), 'python discovery '));
+  try {
+    mkdirSync(join(root, 'check_tests'));
+    expect(() => runPythonTests('test_fixture.py', { cwd: root })).toThrow();
+    writeFileSync(join(root, 'check_tests', 'test_fixture.py'),
+      'import unittest\nclass Fixture(unittest.TestCase):\n    def test_control(self):\n        self.assertEqual(2 + 3, 5)\n');
+    runPythonTests('test_fixture.py', { cwd: root });
+    writeFileSync(join(root, 'check_tests', 'test_fixture.py'),
+      'import unittest\nclass Fixture(unittest.TestCase):\n    def test_control(self):\n        self.fail("synthetic fixture failure")\n');
+    expect(() => runPythonTests('test_fixture.py', { cwd: root })).toThrow(/synthetic fixture failure/);
+  } finally {
+    rmSync(root, { recursive: true, force: true });
   }
 });
