@@ -3,7 +3,8 @@ const { execFileSync } = require('node:child_process');
 const { runPythonTests } = require('./python-unittest.cjs');
 
 test('archived correction mechanics preserve immutable synthetic inputs and coherent replicas', () => {
-  runPythonTests('test_correct_evidence.py');
+  test.setTimeout(120000);
+  runPythonTests('test_correct_evidence.py', { timeout: 90000 });
 });
 
 test('correction check launcher rejects optimisation and accidental external effects', () => {

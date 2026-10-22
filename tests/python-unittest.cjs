@@ -12,7 +12,7 @@ function assertNonemptySuccess(result) {
 
 function runPythonTests(pattern, options = {}) {
   const result = spawnSync('python3', ['-B', '-m', 'unittest', 'discover', '-s', 'processing_tests', '-p', pattern, '-v'], {
-    cwd: options.cwd || process.cwd(), encoding: 'utf8', timeout: 20000,
+    cwd: options.cwd || process.cwd(), encoding: 'utf8', timeout: options.timeout ?? 20000,
     env: { ...process.env, PYTHONDONTWRITEBYTECODE: '1', PYTHONOPTIMIZE: '0' },
   });
   assertNonemptySuccess(result);

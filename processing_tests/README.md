@@ -76,3 +76,7 @@ not establish that the archived narrative is correct.
 Each negative correction-validation case rebuilds and validates a complete
 clean synthetic export before applying its own damage. Rebuilding also restores
 the original metadata, so earlier cut-off/path damage cannot mask later guards.
+
+The correction-fixture wrapper allows 90 seconds for its subprocess within a
+120-second test budget. A loaded-host integration hit the previous 20-second
+subprocess limit; all assertions and the other fixture budgets are retained.
