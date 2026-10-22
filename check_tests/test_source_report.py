@@ -1,5 +1,6 @@
 """Independent date examples and disposable source/citation graphs."""
 from datetime import date
+from copy import deepcopy
 import hashlib
 import json
 from pathlib import Path
@@ -187,6 +188,24 @@ class SourceReportTests(unittest.TestCase):
             with self.subTest(value=value):
                 project['policy_chart']['findings'][0]['selected_observation'] = value
                 self.assertIn('UNKNOWN_SELECTION', self.codes())
+
+    def test_selection_must_belong_to_its_own_family(self):
+        first = self.pack['projects'][0]
+        second = deepcopy(first)
+        second['family_slug'] = 'other'
+        second['observations'][0]['id'] = 'O2'
+        second['policy_chart']['findings'][0]['selected_observation'] = 'O2'
+        self.pack['projects'].append(second)
+        self.assertEqual(self.report()['errors'], [])
+        for project, foreign_id, own_id in [(first, 'O2', 'O1'), (second, 'O1', 'O2')]:
+            with self.subTest(family=project['family_slug']):
+                finding = project['policy_chart']['findings'][0]
+                finding['selected_observation'] = foreign_id
+                errors = self.report()['errors']
+                self.assertEqual([error['code'] for error in errors], ['UNKNOWN_SELECTION'])
+                self.assertEqual(errors[0]['record'], project['family_slug'] + '/finding/0')
+                finding['selected_observation'] = own_id
+                self.assertEqual(self.report()['errors'], [])
 
     def test_supported_findings_require_sources_and_unavailable_sources_stay_unverified(self):
         project = self.pack['projects'][0]
