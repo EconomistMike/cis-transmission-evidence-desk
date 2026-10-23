@@ -176,7 +176,8 @@ def source_report(pack, root, *, as_of, review_interval_days):
         for source_id in declared:
             if source_id not in sources:
                 fail('UNKNOWN_SOURCE', slug + '/source_ids', f'Unresolved source {source_id}')
-        local_ids = {o['id'] for o in project['observations']}
+        local_observations = {o['id']: o for o in project['observations']}
+        local_ids = set(local_observations)
         for observation in project['observations']:
             cite(observation.get('source_id'), slug + '/' + observation['id'], single=True)
         index(project['components'], 'id', 'DUPLICATE_COMPONENT')
@@ -194,6 +195,11 @@ def source_report(pack, root, *, as_of, review_interval_days):
             selected = finding.get('selected_observation')
             if selected is not None and selected != '' and (not isinstance(selected, str) or selected not in local_ids):
                 fail('UNKNOWN_SELECTION', record, 'Selection must resolve to an observation in this family')
+            elif isinstance(selected, str) and selected in local_observations:
+                origin = local_observations[selected].get('source_id')
+                if isinstance(origin, str) and origin not in references(finding.get('source_ids')):
+                    fail('SELECTED_SOURCE_NOT_CITED', record,
+                         f'Selected observation {selected} uses {origin}, absent from finding citations')
         for i, warning in enumerate(project['warnings']):
             if warning.get('code') == 'SOURCE_UNAVAILABLE':
                 unavailable.append(dict(family=slug, source_ids=references(warning.get('source_ids'))))

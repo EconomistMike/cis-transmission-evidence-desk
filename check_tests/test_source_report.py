@@ -85,6 +85,21 @@ class SourceReportTests(unittest.TestCase):
         self.assertEqual(report['sources'][0]['age']['review_band'], 'possibly_older_than_interval')
         self.assertEqual(report['sources'][0]['age']['precision'], 'month')
 
+    def test_selected_observation_source_must_appear_in_finding_citations(self):
+        self.pack['sources'].append(dict(self.pack['sources'][0], source_id='S2'))
+        project = self.pack['projects'][0]
+        project['source_ids'].append('S2')
+        finding = project['policy_chart']['findings'][0]
+        for citations in ['S1', 'S2; S1', ['S2', 'S1']]:
+            finding['source_ids'] = citations
+            self.assertEqual(self.report()['errors'], [])
+        finding['source_ids'] = 'S2'
+        self.assertEqual(self.report()['errors'], [dict(
+            code='SELECTED_SOURCE_NOT_CITED', record='test/finding/0',
+            detail='Selected observation O1 uses S1, absent from finding citations')])
+        finding['source_ids'] = 'S1'
+        self.assertEqual(self.report()['errors'], [])
+
     def test_missing_changed_or_escaping_archives_fail(self):
         (self.root / 'sources/source.pdf').write_bytes(b'changed')
         self.assertIn('HASH_MISMATCH', self.codes())
@@ -101,7 +116,7 @@ class SourceReportTests(unittest.TestCase):
     def test_malformed_publisher_urls_are_rejected_without_exposing_credentials(self):
         for url in [None, 0, ['not-a-url'], {'url': 'not-a-url'}, 'https://example.org:bogus/report', 'https://example.org:99999/report',
                     'https://192.0.2.999/report', 'https://256.256.256.256/report',
-                    'https://xn--a.example/report', 'https://bad host.example/report', 'https://exam\nple.org/report',
+                    'https://xn--a.example/report', 'https://xn--b.example/report', 'https://xn--abc-.example/report', 'https://bad host.example/report', 'https://exam\nple.org/report',
                     'https://example.org/\tfile', 'https://example.org/report title.pdf',
                     'https://example.org/report\x00.pdf', 'https://-bad.example/report',
                     'https://bad..example/report', 'https://example.org../report', 'https://[invalid]/report',

@@ -77,3 +77,9 @@ Do not upload local backups, test reports, credentials or session files. The ori
 ## Source rights
 
 Archived third-party documents retain their publishers' rights and attributions. Public access to this repository is not a blanket licence to redistribute or reuse those documents. No new licence is assigned to the research or third-party material by this export.
+
+The offline source report requires each selected observation's source among the
+finding's citations. Encoded internationalised publisher hostnames must decode
+and round-trip through Node's IDNA conversion, so supported Node parser versions
+cannot silently accept malformed `xn--` labels. Valid internationalised domains
+remain supported; these checks make no network requests and certify no publisher.
