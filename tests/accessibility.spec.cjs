@@ -323,3 +323,34 @@ for (const width of [1440, 390]) {
     await expect(trigger).toBeFocused();
   });
 }
+
+
+for (const attribute of ['aria-activedescendant', 'aria-owns', 'aria-details', 'aria-errormessage', 'aria-flowto']) {
+  test(`ARIA reference guard covers ${attribute}`, async ({ page }) => {
+    await page.setContent(fixture(`<div role="combobox" aria-label="Records" aria-expanded="true" aria-controls="choices" ${attribute}="absent"></div><div role="listbox" id="choices" aria-label="Choices"><div role="option" id="choice" aria-selected="false">One</div></div>`));
+    expect(await inspectAccessibility(page)).toContainEqual(expect.objectContaining({ code: 'ARIA_REFERENCE', detail: `${attribute} references missing absent` }));
+    await page.locator('[role="combobox"]').evaluate((node, attribute) => node.setAttribute(attribute, 'choice'), attribute);
+    expect(await inspectAccessibility(page)).toEqual([]);
+  });
+}
+
+
+const namedWidgets = [
+  ['switch', 'aria-checked="false"', '', ''],
+  ['tab', 'aria-selected="false"', '<div role="tablist" aria-label="Tabs">', '</div>'],
+  ['menuitem', '', '<div role="menu" aria-label="Actions">', '</div>'],
+  ['menuitemcheckbox', 'aria-checked="false"', '<div role="menu" aria-label="Actions">', '</div>'],
+  ['menuitemradio', 'aria-checked="false"', '<div role="menu" aria-label="Actions">', '</div>'],
+  ['treeitem', 'aria-selected="false"', '<div role="tree" aria-label="Records">', '</div>'],
+  ['option', 'aria-selected="false"', '<div role="listbox" aria-label="Choices">', '</div>'],
+];
+for (const [role, attributes, prefix, suffix] of namedWidgets) {
+  test(`computed name guard covers ${role}`, async ({ page }) => {
+    await page.setContent(fixture(`${prefix}<div id="widget" role="${role}" ${attributes} tabindex="0"></div>${suffix}`));
+    await expect(page.getByRole(role)).toHaveCount(1);
+    expect(await inspectAccessibility(page)).toContainEqual(expect.objectContaining({ code: 'EMPTY_ACCESSIBLE_NAME', element: role }));
+    await page.locator('#widget').evaluate(node => node.setAttribute('aria-label', 'Record action'));
+    await expect(page.getByRole(role)).toHaveAccessibleName('Record action');
+    expect(await inspectAccessibility(page)).toEqual([]);
+  });
+}

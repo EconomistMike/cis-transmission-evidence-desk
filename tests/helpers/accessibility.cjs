@@ -11,8 +11,9 @@ function inspectStructure({ decorativeImageIndices = [], hiddenAreaIndices = [],
     if (node.id && ids.has(node.id)) add('DUPLICATE_ID', node, node.id);
     ids.add(node.id);
   }
-  for (const node of document.querySelectorAll('[aria-labelledby],[aria-describedby],[aria-controls]')) {
-    for (const field of ['aria-labelledby', 'aria-describedby', 'aria-controls']) {
+  const references = ['aria-labelledby', 'aria-describedby', 'aria-controls', 'aria-activedescendant', 'aria-owns', 'aria-details', 'aria-errormessage', 'aria-flowto'];
+  for (const node of document.querySelectorAll(references.map(field => `[${field}]`).join(','))) {
+    for (const field of references) {
       for (const id of (node.getAttribute(field) || '').split(/\s+/).filter(Boolean)) {
         if (!document.getElementById(id)) add('ARIA_REFERENCE', node, field + ' references missing ' + id);
       }
@@ -180,7 +181,7 @@ async function inspectAccessibility(page) {
     const focusableAreas = await probeAreaFocus(page, hiddenAreas);
     issues = await page.evaluate(inspectStructure, { decorativeImageIndices: decorativeImages, hiddenAreaIndices: hiddenAreas, focusableAreaIndices: focusableAreas });
     if (nodes.filter(node => !node.ignored && node.role?.value === 'main').length !== 1) issues.push({ code: 'MAIN_LANDMARK', element: 'document', detail: 'Expected one exposed main landmark' });
-    const namedRoles = new Set(['button', 'link', 'textbox', 'searchbox', 'combobox', 'listbox', 'checkbox', 'radio', 'slider', 'spinbutton', 'Date', 'DateTime', 'InputTime', 'ColorWell', 'dialog', 'region']);
+    const namedRoles = new Set(['button', 'link', 'textbox', 'searchbox', 'combobox', 'listbox', 'checkbox', 'radio', 'switch', 'tab', 'menuitem', 'menuitemcheckbox', 'menuitemradio', 'treeitem', 'option', 'slider', 'spinbutton', 'Date', 'DateTime', 'InputTime', 'ColorWell', 'dialog', 'region']);
     for (const node of nodes) {
       if (!node.ignored && namedRoles.has(node.role?.value) && !node.name?.value?.trim()) issues.push({ code: 'EMPTY_ACCESSIBLE_NAME', element: node.role.value, detail: 'Exposed control or named landmark needs a computed accessible name' });
     }
