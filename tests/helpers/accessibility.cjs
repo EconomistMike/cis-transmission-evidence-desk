@@ -181,7 +181,7 @@ async function inspectAccessibility(page) {
     const focusableAreas = await probeAreaFocus(page, hiddenAreas);
     issues = await page.evaluate(inspectStructure, { decorativeImageIndices: decorativeImages, hiddenAreaIndices: hiddenAreas, focusableAreaIndices: focusableAreas });
     if (nodes.filter(node => !node.ignored && node.role?.value === 'main').length !== 1) issues.push({ code: 'MAIN_LANDMARK', element: 'document', detail: 'Expected one exposed main landmark' });
-    const namedRoles = new Set(['button', 'link', 'textbox', 'searchbox', 'combobox', 'listbox', 'checkbox', 'radio', 'switch', 'tab', 'menuitem', 'menuitemcheckbox', 'menuitemradio', 'treeitem', 'option', 'slider', 'spinbutton', 'Date', 'DateTime', 'InputTime', 'ColorWell', 'dialog', 'region']);
+    const namedRoles = new Set(['button', 'link', 'textbox', 'searchbox', 'combobox', 'listbox', 'checkbox', 'radio', 'switch', 'tab', 'menuitem', 'menuitemcheckbox', 'menuitemradio', 'treeitem', 'option', 'grid', 'treegrid', 'tree', 'radiogroup', 'meter', 'progressbar', 'slider', 'spinbutton', 'Date', 'DateTime', 'InputTime', 'ColorWell', 'dialog', 'alertdialog', 'region']);
     for (const node of nodes) {
       if (!node.ignored && namedRoles.has(node.role?.value) && !node.name?.value?.trim()) issues.push({ code: 'EMPTY_ACCESSIBLE_NAME', element: node.role.value, detail: 'Exposed control or named landmark needs a computed accessible name' });
     }

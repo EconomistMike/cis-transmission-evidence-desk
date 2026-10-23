@@ -80,3 +80,8 @@ activedescendant, owns, details, errormessage and flowto ID references.
 Computed-name probes include switch, tab, menu-item variants, tree-item and
 option roles, with exposed unnamed/labelled counterpart fixtures in Chromium.
 These remain bounded structural checks, not complete ARIA conformance checks.
+
+Computed-name checks also include alert dialogs and name-required grid, treegrid,
+tree, radio-group, meter and progress-bar widgets. Scrollbar names remain optional
+under [WAI-ARIA 1.2](https://www.w3.org/TR/wai-aria-1.2/#scrollbar); valid unnamed
+and named scrollbar fixtures guard against imposing an extra requirement.

@@ -327,15 +327,22 @@ for (const width of [1440, 390]) {
 
 for (const attribute of ['aria-activedescendant', 'aria-owns', 'aria-details', 'aria-errormessage', 'aria-flowto']) {
   test(`ARIA reference guard covers ${attribute}`, async ({ page }) => {
-    await page.setContent(fixture(`<div role="combobox" aria-label="Records" aria-expanded="true" aria-controls="choices" ${attribute}="absent"></div><div role="listbox" id="choices" aria-label="Choices"><div role="option" id="choice" aria-selected="false">One</div></div>`));
+    await page.setContent(fixture(`<div role="combobox" aria-label="Records" aria-expanded="true" aria-controls="choices" ${attribute}="absent" aria-invalid="true"></div><p id="message">Details</p><div role="listbox" id="choices" aria-label="Choices"><div role="option" id="choice" aria-selected="false">One</div></div>`));
     expect(await inspectAccessibility(page)).toContainEqual(expect.objectContaining({ code: 'ARIA_REFERENCE', detail: `${attribute} references missing absent` }));
-    await page.locator('[role="combobox"]').evaluate((node, attribute) => node.setAttribute(attribute, 'choice'), attribute);
+    await page.locator('[role="combobox"]').evaluate((node, attribute) => node.setAttribute(attribute, attribute === 'aria-owns' ? 'choices' : attribute === 'aria-activedescendant' ? 'choice' : 'message'), attribute);
     expect(await inspectAccessibility(page)).toEqual([]);
   });
 }
 
 
 const namedWidgets = [
+  ['alertdialog', 'aria-modal="true"', '', '', '<p>Alert content</p>'],
+  ['grid', '', '', '', '<div role="row"><div role="gridcell">Cell</div></div>'],
+  ['treegrid', '', '', '', '<div role="row"><div role="gridcell">Cell</div></div>'],
+  ['tree', '', '', '', '<div role="treeitem" aria-selected="false">Entry</div>'],
+  ['radiogroup', '', '', '', '<div role="radio" aria-checked="false">Choice</div>'],
+  ['meter', 'aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"', '', ''],
+  ['progressbar', 'aria-valuenow="50"', '', ''],
   ['switch', 'aria-checked="false"', '', ''],
   ['tab', 'aria-selected="false"', '<div role="tablist" aria-label="Tabs">', '</div>'],
   ['menuitem', '', '<div role="menu" aria-label="Actions">', '</div>'],
@@ -344,9 +351,9 @@ const namedWidgets = [
   ['treeitem', 'aria-selected="false"', '<div role="tree" aria-label="Records">', '</div>'],
   ['option', 'aria-selected="false"', '<div role="listbox" aria-label="Choices">', '</div>'],
 ];
-for (const [role, attributes, prefix, suffix] of namedWidgets) {
+for (const [role, attributes, prefix, suffix, content = ''] of namedWidgets) {
   test(`computed name guard covers ${role}`, async ({ page }) => {
-    await page.setContent(fixture(`${prefix}<div id="widget" role="${role}" ${attributes} tabindex="0"></div>${suffix}`));
+    await page.setContent(fixture(`${prefix}<div id="widget" role="${role}" ${attributes} tabindex="0">${content}</div>${suffix}`));
     await expect(page.getByRole(role)).toHaveCount(1);
     expect(await inspectAccessibility(page)).toContainEqual(expect.objectContaining({ code: 'EMPTY_ACCESSIBLE_NAME', element: role }));
     await page.locator('#widget').evaluate(node => node.setAttribute('aria-label', 'Record action'));
@@ -354,3 +361,14 @@ for (const [role, attributes, prefix, suffix] of namedWidgets) {
     expect(await inspectAccessibility(page)).toEqual([]);
   });
 }
+
+
+test('ARIA scrollbars preserve optional accessible names', async ({ page }) => {
+  // WAI-ARIA 1.2 #scrollbar: Accessible Name Required is False.
+  await page.setContent(fixture('<div role="scrollbar" id="scroll" aria-controls="content" aria-valuenow="50" tabindex="0"></div><div id="content">Scrollable content</div>'));
+  await expect(page.getByRole('scrollbar')).toHaveCount(1);
+  expect(await inspectAccessibility(page)).toEqual([]);
+  await page.locator('#scroll').evaluate(node => node.setAttribute('aria-label', 'Record position'));
+  await expect(page.getByRole('scrollbar')).toHaveAccessibleName('Record position');
+  expect(await inspectAccessibility(page)).toEqual([]);
+});
